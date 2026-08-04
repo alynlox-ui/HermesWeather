@@ -1,8 +1,8 @@
 {
-  "version": "1.4.4",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/alynlox-ui/HermesWeather/releases/download/v1.4.4/HermesWeather-1.4.4.apk",
-  "sha256": "9470cf114106d2811764c84d2bd3c8c7c79bb4cb203b70fd37c6f9cdd096ad4c",
+  "version": "1.4.5",
+  "versionCode": 11,
+  "apkUrl": "https://github.com/alynlox-ui/HermesWeather/releases/download/v1.4.5/HermesWeather-1.4.5.apk",
+  "sha256": "18d2cef9cc0c44bbdcaccd947c233803dc0768a58a53bdace939f3a0d746427a",
   "reportUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/latest-update-report.txt",
-  "notes": "一次性迁移到补丁更新客户端。安装 v1.4.4 后，后续普通前端更新无需再次安装 APK，并会附带更新报告。"
+  "notes": "新增启动自动请求定位权限，并修复背景模糊度和小字可读性。定位属于原生权限变更，需要覆盖安装一次 v1.4.5。"
 }
