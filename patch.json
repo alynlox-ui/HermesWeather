@@ -1,8 +1,8 @@
 {
-  "patchVersion": "1.4.4-p4",
+  "patchVersion": "1.4.5-p3",
   "minShellVersionCode": 10,
-  "patchUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/HermesWeather-frontend-1.4.4-p4.html",
-  "sha256": "69719d8bb6296a1db1791fd9fe1ad9175fa170295e317168f119c9c82c2ac7bf",
+  "patchUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/HermesWeather-frontend-1.4.5-p3.html",
+  "sha256": "aa424673338e4ea82fb6153bb0d4cef1e3d59d8e0e8fd5121a0c49a001394492",
   "reportUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/latest-update-report.txt",
-  "notes": "修复 v1.4.4 无法在应用内接收 v1.4.5 的问题；启动后将自动在应用内询问更新，并附带更新报告。"
+  "notes": "修复 v1.4.5 反复接收 v1.4.4-p4 更新通知；统一版本判定并阻止补丁降级与重复通知。"
 }
