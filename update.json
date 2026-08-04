@@ -1,7 +1,8 @@
 {
-  "version": "1.4.2",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/alynlox-ui/HermesWeather/releases/download/v1.4.2/HermesWeather-1.4.2.apk",
-  "sha256": "75675154402e4997c6bcb558f9701785d1385d795daa646c7a523f34a409644a",
-  "notes": "修复移动网页版底部 Dock 与天气、地点、趋势、设置功能入口；安卓端同步全部功能并配置 GitHub 远程更新。"
+  "version": "1.4.3",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/alynlox-ui/HermesWeather/releases/download/v1.4.3/HermesWeather-1.4.3.apk",
+  "sha256": "077c3b27bce4c05d8dea871fd5ce55a2fb3a2e459c9b3acab7eeb7ec273adf97",
+  "reportUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/latest-update-report.txt",
+  "notes": "支持 Android 系统更新通知、APK 下载与更新报告双入口；自动检查更新间隔缩短为 6 小时。"
 }
