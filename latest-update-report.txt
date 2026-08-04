@@ -1,0 +1,33 @@
+HERMES WEATHER 统一更新报告
+
+版本号：v1.4.3（Android versionCode 9）
+发布日期：2026-08-04
+网页版：https://alynlox-ui.github.io/HermesWeather/
+Android Release：https://github.com/alynlox-ui/HermesWeather/releases/tag/v1.4.3
+APK：https://github.com/alynlox-ui/HermesWeather/releases/download/v1.4.3/HermesWeather-1.4.3.apk
+更新清单：https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/update.json
+
+更新内容：
+1. Android 应用增加更新推送：后台周期检查发现新版本后创建高优先级系统通知。
+2. Android 13 及以上支持 POST_NOTIFICATIONS 运行时授权；旧版本继续使用通知渠道兼容逻辑。
+3. 更新通知提供“下载更新”和“更新报告”两个操作入口。
+4. 设置页增加“查看最新报告”，更新清单支持 reportUrl 字段。
+5. 自动检查间隔由 24 小时缩短为 6 小时；手动“检查更新”保持可用。
+6. 更新仍由 Android 系统明确确认安装，不绕过系统安全流程。
+
+验证结果：
+- APK package：com.hermes.weather
+- versionName/versionCode：1.4.3 / 9
+- minSdk/targetSdk：23 / 35
+- POST_NOTIFICATIONS 权限：已打包
+- 更新推送桥接、报告入口、reportUrl：已打包
+- zipalign：通过
+- APK 签名 v1/v2/v3：通过
+- 签名证书 SHA-256：8f9e2c7bb40d42b5e807dc31c87cb7dbb31921f57b0169a8a1766cb0b60f1e3e
+- APK 大小：172976 bytes
+- APK SHA-256：077c3b27bce4c05d8dea871fd5ce55a2fb3a2e459c9b3acab7eeb7ec273adf97
+- 当前 adb 无连接设备，未执行真机通知授权、通知点击和覆盖安装；已完成构建、静态包与签名验证。
+
+更新推送说明：
+- 这是应用自检查式更新推送：应用启动后按周期读取 GitHub 更新清单，发现更高 versionCode 时显示 Android 系统通知。
+- 不是 FCM 服务器即时推送；应用长期未启动时不会被远程强制唤醒。
