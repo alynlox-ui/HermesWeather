@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/alynlox-ui/HermesWeather/releases/download/v1.1.1/HermesWeather-1.1.1.apk",
-  "sha256": "9ef2e8aa24182cfd713725ef49f05c3239c5968e4dd7a97a3b3487b427f9beb3",
-  "notes": "完整功能版：恢复地点、收藏、趋势、主题、自定义背景，并启用 GitHub 远程更新。"
+  "version": "1.4.2",
+  "versionCode": 8,
+  "apkUrl": "https://github.com/alynlox-ui/HermesWeather/releases/download/v1.4.2/HermesWeather-1.4.2.apk",
+  "sha256": "75675154402e4997c6bcb558f9701785d1385d795daa646c7a523f34a409644a",
+  "notes": "修复移动网页版底部 Dock 与天气、地点、趋势、设置功能入口；安卓端同步全部功能并配置 GitHub 远程更新。"
 }
