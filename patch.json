@@ -1,8 +1,8 @@
 {
-  "patchVersion": "1.4.4-p2",
+  "patchVersion": "1.4.4-p3",
   "minShellVersionCode": 10,
-  "patchUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/HermesWeather-frontend-1.4.4-p2.html",
-  "sha256": "7d3130bff3798786e0b667c5861a5c7c2e661959cea1a4029c870868bb42ee60",
+  "patchUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/HermesWeather-frontend-1.4.4-p3.html",
+  "sha256": "70e59bd7571522e86fb9c415b9ce460bc96be5a4af3234bd7ba4f81eae98e863",
   "reportUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/latest-update-report.txt",
-  "notes": "修复自定义背景任务栏透明度、UI 色彩匹配、透明度持久化及 Android 底部 Dock 响应延迟。"
+  "notes": "完成所有标签页及嵌套控件的透明度适配，移除剩余固定96%类不透明表面，并增强低透明度文字可读性。"
 }
