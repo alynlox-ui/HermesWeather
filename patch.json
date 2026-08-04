@@ -1,8 +1,8 @@
 {
-  "patchVersion": "1.4.4-p3",
-  "minShellVersionCode": 10,
-  "patchUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/HermesWeather-frontend-1.4.4-p3.html",
-  "sha256": "70e59bd7571522e86fb9c415b9ce460bc96be5a4af3234bd7ba4f81eae98e863",
+  "patchVersion": "1.4.5-p1",
+  "minShellVersionCode": 11,
+  "patchUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/HermesWeather-frontend-1.4.5-p1.html",
+  "sha256": "f5b574d59d49500eedf70b0fbeb40c3b6f7fae72eb105c4c96060295988497cf",
   "reportUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/latest-update-report.txt",
-  "notes": "完成所有标签页及嵌套控件的透明度适配，移除剩余固定96%类不透明表面，并增强低透明度文字可读性。"
+  "notes": "修复模糊度实时调节、小字可读性；配合 v1.4.5 原生外壳实现启动自动请求定位。"
 }
