@@ -1,0 +1,8 @@
+{
+  "patchVersion": "1.4.4-p1",
+  "minShellVersionCode": 10,
+  "patchUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/HermesWeather-frontend-1.4.4-p1.html",
+  "sha256": "aabb3bb253e32c9c0d58d6483bb5b2b26ed06d34e67c9993cf9f552578bb4384",
+  "reportUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/latest-update-report.txt",
+  "notes": "启用免二次安装的前端补丁更新，并在补丁通知中附带统一更新报告。"
+}
