@@ -1,8 +1,8 @@
 {
-  "patchVersion": "1.4.5-p1",
+  "patchVersion": "1.4.5-p2",
   "minShellVersionCode": 11,
-  "patchUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/HermesWeather-frontend-1.4.5-p1.html",
-  "sha256": "f5b574d59d49500eedf70b0fbeb40c3b6f7fae72eb105c4c96060295988497cf",
+  "patchUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/HermesWeather-frontend-1.4.5-p2.html",
+  "sha256": "c071f38cf306c4094e3ce8ee9dc355098025edaf8e6a9e0b3e46d77dcd9ee7f2",
   "reportUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/latest-update-report.txt",
-  "notes": "修复模糊度实时调节、小字可读性；配合 v1.4.5 原生外壳实现启动自动请求定位。"
+  "notes": "已推送客户端更新通知；更新报告现在会在客户端内部自动展示，也可从设置页再次查看。"
 }
