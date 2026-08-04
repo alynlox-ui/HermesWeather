@@ -1,8 +1,8 @@
 {
-  "patchVersion": "1.4.5-p3",
+  "patchVersion": "1.4.5-p4",
   "minShellVersionCode": 10,
-  "patchUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/HermesWeather-frontend-1.4.5-p3.html",
-  "sha256": "aa424673338e4ea82fb6153bb0d4cef1e3d59d8e0e8fd5121a0c49a001394492",
+  "patchUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/HermesWeather-frontend-1.4.5-p4.html",
+  "sha256": "2acb92f60dcdadfacf1cca052795e7a3f67b5683cb1baa10651ce5563fea81f4",
   "reportUrl": "https://raw.githubusercontent.com/alynlox-ui/HermesWeather/main/latest-update-report.txt",
-  "notes": "修复 v1.4.5 反复接收 v1.4.4-p4 更新通知；统一版本判定并阻止补丁降级与重复通知。"
+  "notes": "新增底部 Dock 独立透明度设置，可实时调节并持久保存，不再影响其他标签页和卡片。"
 }
