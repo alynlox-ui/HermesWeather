@@ -11,7 +11,7 @@ import json
 import re
 from html.parser import HTMLParser
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlparse
+from urllib.parse import parse_qs, quote, urlparse
 from urllib.request import Request, urlopen
 
 MAX_BYTES = 2_500_000
@@ -105,6 +105,8 @@ def fetch_article(url: str, timeout: int = 15) -> dict[str, str]:
     parsed = urlparse(url)
     if parsed.scheme not in {"http", "https"} or not parsed.netloc:
         raise ValueError("只允许抓取 http/https 新闻网址")
+    if parsed.hostname and parsed.hostname.lower().endswith("bilibili.com"):
+        return fetch_bilibili_video(url, timeout)
     request = Request(url, headers={"User-Agent": "HermesWeatherNewsCrawler/1.0", "Accept": "text/html,application/xhtml+xml"})
     with urlopen(request, timeout=timeout) as response:
         body = response.read(MAX_BYTES + 1)
@@ -115,6 +117,54 @@ def fetch_article(url: str, timeout: int = 15) -> dict[str, str]:
     parser.feed(source)
     parser.close()
     return parser.result(url)
+
+
+def _strip_bili_markup(value: str) -> str:
+    return clean_text(re.sub(r"<[^>]+>", "", html.unescape(value or "")))
+
+
+def fetch_bilibili_video(url: str, timeout: int = 15) -> dict[str, str]:
+    """Resolve a Bilibili hot-search URL to its first public video result."""
+    parsed = urlparse(url)
+    bvid_match = re.search(r"/(BV[0-9A-Za-z]+)", parsed.path)
+    bvid = bvid_match.group(1) if bvid_match else ""
+    item = None
+    if not bvid:
+        keyword = parse_qs(parsed.query).get("keyword", [""])[0].strip()
+        if not keyword:
+            raise ValueError("无法从 B 站链接解析搜索关键词")
+        api = "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=" + quote(keyword)
+        request = Request(api, headers={
+            "User-Agent": "Mozilla/5.0 HermesWeatherNewsCrawler/1.1",
+            "Referer": "https://search.bilibili.com/",
+            "Accept": "application/json",
+        })
+        with urlopen(request, timeout=timeout) as response:
+            payload = json.loads(response.read(MAX_BYTES).decode("utf-8", "replace"))
+        results = ((payload.get("data") or {}).get("result") or [])
+        if not results:
+            raise ValueError("B 站搜索未返回可播放视频")
+        item = results[0]
+        bvid = str(item.get("bvid") or "")
+    if not bvid:
+        raise ValueError("B 站视频缺少 BV 号")
+    title = _strip_bili_markup(str((item or {}).get("title") or ""))
+    canonical = f"https://www.bilibili.com/video/{bvid}"
+    if not title:
+        title = bvid
+    return {
+        "kind": "video",
+        "platform": "bilibili",
+        "url": canonical,
+        "title": title[:300],
+        "description": _strip_bili_markup(str((item or {}).get("description") or ""))[:800],
+        "content": _strip_bili_markup(str((item or {}).get("description") or ""))[:MAX_CHARS],
+        "bvid": bvid,
+        "author": str((item or {}).get("author") or "").strip(),
+        "duration": str((item or {}).get("duration") or "").strip(),
+        "cover": str((item or {}).get("pic") or "").strip(),
+        "embedUrl": f"https://www.bilibili.com/blackboard/player.html?bvid={bvid}&page=1",
+    }
 
 
 def main() -> int:
