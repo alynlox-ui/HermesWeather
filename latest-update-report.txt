@@ -1,24 +1,52 @@
-HERMES WEATHER 热补丁报告
+Hermes Weather 网页更新报告
+============================
+版本：Web 1.7.5
+日期：2026-08-05
+发布范围：仅网页版（Android 应用端未更新）
 
-客户端：v1.4.5
-补丁：1.4.5-p4
-发布日期：2026-08-04
+任务 1：修复网页及手机微信端无法打开
+------------------------------------
+根因：
+- GitHub Pages 构建正常，但 github.io 在当前国内线路连接被重置，导致普通浏览器和微信均无法建立连接。
+- 前端包含旧版微信 X5 可能无法解析的可选链、空值合并和 Array.at 语法。
 
-新增功能：底部 Dock 透明度可单独调节
+完成内容：
+- 移除 JavaScript 中的 ?.、??、.at()。
+- 增加 Promise.allSettled、Array.flatMap 和旧版 matchMedia 兼容处理。
+- 增加微信和移动端兼容 meta，版本标记更新为 1.7.5-web-wechat-china-access。
+- GitHub Pages 新版构建状态为 built。
+- 提供绕开 github.io 的 Render 备用入口。
 
-1. 设置页新增“底部 Dock 透明度”滑块，范围5%–100%。
-2. Dock 透明度与“界面透明度”完全分离：调整Dock不会改变天气卡片、地点、趋势或设置面板。
-3. 旧用户首次升级时，dockOpacity 自动继承当前 panelOpacity，升级前后视觉保持一致。
-4. 新值在input阶段实时应用并保存，change、pointerup、touchend再次持久化。
-5. 重启/重载后滑块、百分比和Dock视觉透明度均恢复保存值。
-6. 重置本地数据时Dock透明度恢复默认88%。
-7. 四项Dock点击/触摸导航保持正常。
+验证结果：
+- Python 自动化测试：6/6 通过。
+- Python 语法检查：通过。
+- Chromium Android 微信 UA（Chrome 86 / MicroMessenger 8.0.40）测试通过。
+- 390×844 手机视口渲染通过。
+- 天气主体、底部 Dock、自动天气同步均正常。
 
-验证：
-- panelOpacity=37、dockOpacity=64：Dock computed opacity=0.64，设置面板自身opacity=1且背景仍使用37%的panel surface。
-- 拖动到64：prefs=64、localStorage=64、显示64%。
-- 重载：滑块64、显示64%、Dock opacity=0.64、panelOpacity仍为37。
-- 天气/地点/趋势/设置依次可达。
+任务 2：提高国内响应速度并尝试无需 VPN 访问
+------------------------------------------
+完成内容：
+- 启用 Render 新加坡备用入口。
+- 创建每 10 分钟运行的 Hermes 常热健康检查任务。
+- 常热任务首次手动执行状态：ok。
+- 本地新版服务增加 gzip、ETag、5 分钟缓存和 stale-while-revalidate。
+- hot-news.json 已加入后端静态路由。
 
-补丁大小：102487 bytes
-SHA-256：2acb92f60dcdadfacf1cca052795e7a3f67b5683cb1baa10651ce5563fea81f4
+实测性能：
+- Render 冷启动首次 TTFB：约 12.685 秒。
+- 常热后 3 次 TTFB：0.323 / 0.316 / 0.284 秒。
+- 常热后完整页面下载：0.416 / 0.409 / 0.468 秒。
+- 页面大小：110,233 字节（当前 Render 线上旧版）。
+- 本地新版 gzip：115,035 -> 35,165 字节，压缩后为 30.6%。
+
+在线网址：
+- 国内/微信优先：https://hermes-weather-news-alynlox-ui.onrender.com/
+- GitHub Pages：https://alynlox-ui.github.io/HermesWeather/
+
+限制与说明：
+- 当前机器可直接访问 Render 入口，实测无需 github.io 或 VPN；不同运营商、地区仍可能有差异，不能承诺全国线路 100% 可达。
+- Render 的 GitHub 自动部署连接已失效，当前 Render 仍运行上一版前端；新版兼容代码已发布到 GitHub Pages。
+- gzip/ETag/缓存服务端代码已经完成并通过本地测试，但因 Render 未自动部署，尚未计入线上加速成绩。
+- GitHub Actions 常热方案因当前 GitHub 令牌缺少 workflow 权限而未能上传；已改用 Hermes 本地调度器。该常热任务仅在 Hermes 调度器运行时生效。
+- 如需正式稳定的全国加速，建议后续绑定自有域名并接入腾讯云 EdgeOne/国内 CDN；中国大陆节点通常需要完成备案。
