@@ -126,6 +126,7 @@ def _strip_bili_markup(value: str) -> str:
 
 
 _WBI_MIXIN_TABLE = [46,47,18,2,53,8,23,32,15,50,10,31,58,3,45,35,27,43,5,49,33,9,42,19,29,28,14,39,12,38,41,13,37,48,7,16,24,55,40,61,26,17,0,1,60,51,30,4,22,25,54,21,56,59,6,63,57,62,11,36,20,34,44,52]
+_WBI_CACHE: tuple[float, str] | None = None
 
 
 def _bili_json(url: str, timeout: int) -> dict:
@@ -135,12 +136,17 @@ def _bili_json(url: str, timeout: int) -> dict:
 
 
 def _bili_wbi_search(keyword: str, timeout: int) -> dict:
-    nav = _bili_json("https://api.bilibili.com/x/web-interface/nav", timeout)
-    wbi = ((nav.get("data") or {}).get("wbi_img") or {})
-    raw_key = "".join((str(wbi.get(name) or "").rsplit("/", 1)[-1].split(".", 1)[0] for name in ("img_url", "sub_url")))
-    if len(raw_key) < 64:
-        raise ValueError("B 站 WBI 签名密钥不可用")
-    mixin = "".join(raw_key[i] for i in _WBI_MIXIN_TABLE)[:32]
+    global _WBI_CACHE
+    if _WBI_CACHE and time.time() - _WBI_CACHE[0] < 300:
+        mixin = _WBI_CACHE[1]
+    else:
+        nav = _bili_json("https://api.bilibili.com/x/web-interface/nav", timeout)
+        wbi = ((nav.get("data") or {}).get("wbi_img") or {})
+        raw_key = "".join((str(wbi.get(name) or "").rsplit("/", 1)[-1].split(".", 1)[0] for name in ("img_url", "sub_url")))
+        if len(raw_key) < 64:
+            raise ValueError("B 站 WBI 签名密钥不可用")
+        mixin = "".join(raw_key[i] for i in _WBI_MIXIN_TABLE)[:32]
+        _WBI_CACHE = (time.time(), mixin)
     params = {"search_type": "video", "keyword": keyword, "page": "1", "page_size": "20", "wts": str(int(time.time()))}
     params = {k: re.sub(r"[!'()*]", "", str(v)) for k, v in sorted(params.items())}
     query = urlencode(params)
