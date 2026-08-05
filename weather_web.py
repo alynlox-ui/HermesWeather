@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import json, mimetypes, threading, webbrowser, time
+import gzip, hashlib, json, mimetypes, threading, webbrowser, time
 from news_crawler import fetch_article
 from http.server import ThreadingHTTPServer,BaseHTTPRequestHandler
 from pathlib import Path
@@ -60,9 +60,19 @@ def weather(city):
 
 class H(BaseHTTPRequestHandler):
  def sendj(self,obj,status=200):
-  b=json.dumps(obj,ensure_ascii=False).encode();self.send_response(status);self.send_header('Content-Type','application/json; charset=utf-8');self.send_header('Access-Control-Allow-Origin','*');self.send_header('Access-Control-Allow-Methods','GET, OPTIONS');self.send_header('Access-Control-Allow-Headers','Content-Type');self.send_header('Content-Length',len(b));self.end_headers();self.wfile.write(b)
+  b=json.dumps(obj,ensure_ascii=False).encode();self.send_response(status);self.send_header('Content-Type','application/json; charset=utf-8');self.send_header('Access-Control-Allow-Origin','*');self.send_header('Access-Control-Allow-Methods','GET, HEAD, OPTIONS');self.send_header('Access-Control-Allow-Headers','Content-Type');self.send_header('Cache-Control','no-store');self.send_header('Content-Length',len(b));self.end_headers();self.wfile.write(b)
+ def send_static(self,path,content_type,cache_seconds):
+  raw=path.read_bytes();etag='"'+hashlib.sha256(raw).hexdigest()[:24]+'"'
+  if self.headers.get('If-None-Match')==etag:
+   self.send_response(304);self.send_header('ETag',etag);self.send_header('Cache-Control',f'public, max-age={cache_seconds}, stale-while-revalidate=86400');self.end_headers();return
+  use_gzip='gzip' in self.headers.get('Accept-Encoding','').lower();body=gzip.compress(raw,compresslevel=6) if use_gzip else raw
+  self.send_response(200);self.send_header('Content-Type',content_type);self.send_header('Cache-Control',f'public, max-age={cache_seconds}, stale-while-revalidate=86400');self.send_header('ETag',etag);self.send_header('Vary','Accept-Encoding');self.send_header('X-Content-Type-Options','nosniff');self.send_header('Access-Control-Allow-Origin','*')
+  if use_gzip:self.send_header('Content-Encoding','gzip')
+  self.send_header('Content-Length',len(body));self.end_headers()
+  if self.command!='HEAD':self.wfile.write(body)
  def do_OPTIONS(self):
-  self.send_response(204);self.send_header('Access-Control-Allow-Origin','*');self.send_header('Access-Control-Allow-Methods','GET, OPTIONS');self.send_header('Access-Control-Allow-Headers','Content-Type');self.end_headers()
+  self.send_response(204);self.send_header('Access-Control-Allow-Origin','*');self.send_header('Access-Control-Allow-Methods','GET, HEAD, OPTIONS');self.send_header('Access-Control-Allow-Headers','Content-Type');self.end_headers()
+ def do_HEAD(self):self.do_GET()
  def do_GET(self):
   u=urlparse(self.path)
   if u.path=='/api/weather':
@@ -75,9 +85,11 @@ class H(BaseHTTPRequestHandler):
     self.sendj(fetch_article(target))
    except Exception as e:self.sendj({'error':str(e)},400)
   elif u.path=='/health':
-   self.sendj({'status':'ok','service':'hermes-weather-news-crawler'})
+   self.sendj({'status':'ok','service':'hermes-weather-web'})
   elif u.path in ('/','/index.html'):
-   b=(ROOT/'index.html').read_bytes();self.send_response(200);self.send_header('Content-Type','text/html; charset=utf-8');self.send_header('Content-Length',len(b));self.end_headers();self.wfile.write(b)
+   self.send_static(ROOT/'index.html','text/html; charset=utf-8',300)
+  elif u.path=='/hot-news.json':
+   self.send_static(ROOT/'hot-news.json','application/json; charset=utf-8',300)
   else:self.send_error(404)
  def log_message(self,*a):pass
 if __name__=='__main__':
