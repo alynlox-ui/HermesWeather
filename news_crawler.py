@@ -6,12 +6,14 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import html
 import json
 import re
+import time
 from html.parser import HTMLParser
 from urllib.error import HTTPError, URLError
-from urllib.parse import parse_qs, quote, urlparse
+from urllib.parse import parse_qs, urlencode, urlparse
 from urllib.request import Request, urlopen
 
 MAX_BYTES = 2_500_000
@@ -123,6 +125,29 @@ def _strip_bili_markup(value: str) -> str:
     return clean_text(re.sub(r"<[^>]+>", "", html.unescape(value or "")))
 
 
+_WBI_MIXIN_TABLE = [46,47,18,2,53,8,23,32,15,50,10,31,58,3,45,35,27,43,5,49,33,9,42,19,29,28,14,39,12,38,41,13,37,48,7,16,24,55,40,61,26,17,0,1,60,51,30,4,22,25,54,21,56,59,6,63,57,62,11,36,20,34,44,52]
+
+
+def _bili_json(url: str, timeout: int) -> dict:
+    request = Request(url, headers={"User-Agent": "Mozilla/5.0 HermesWeatherNewsCrawler/1.2", "Referer": "https://search.bilibili.com/", "Accept": "application/json"})
+    with urlopen(request, timeout=timeout) as response:
+        return json.loads(response.read(MAX_BYTES).decode("utf-8", "replace"))
+
+
+def _bili_wbi_search(keyword: str, timeout: int) -> dict:
+    nav = _bili_json("https://api.bilibili.com/x/web-interface/nav", timeout)
+    wbi = ((nav.get("data") or {}).get("wbi_img") or {})
+    raw_key = "".join((str(wbi.get(name) or "").rsplit("/", 1)[-1].split(".", 1)[0] for name in ("img_url", "sub_url")))
+    if len(raw_key) < 64:
+        raise ValueError("B 站 WBI 签名密钥不可用")
+    mixin = "".join(raw_key[i] for i in _WBI_MIXIN_TABLE)[:32]
+    params = {"search_type": "video", "keyword": keyword, "page": "1", "page_size": "20", "wts": str(int(time.time()))}
+    params = {k: re.sub(r"[!'()*]", "", str(v)) for k, v in sorted(params.items())}
+    query = urlencode(params)
+    params["w_rid"] = hashlib.md5((query + mixin).encode()).hexdigest()
+    return _bili_json("https://api.bilibili.com/x/web-interface/wbi/search/type?" + urlencode(params), timeout)
+
+
 def fetch_bilibili_video(url: str, timeout: int = 15) -> dict[str, str]:
     """Resolve a Bilibili hot-search URL to its first public video result."""
     parsed = urlparse(url)
@@ -133,14 +158,7 @@ def fetch_bilibili_video(url: str, timeout: int = 15) -> dict[str, str]:
         keyword = parse_qs(parsed.query).get("keyword", [""])[0].strip()
         if not keyword:
             raise ValueError("无法从 B 站链接解析搜索关键词")
-        api = "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=" + quote(keyword)
-        request = Request(api, headers={
-            "User-Agent": "Mozilla/5.0 HermesWeatherNewsCrawler/1.1",
-            "Referer": "https://search.bilibili.com/",
-            "Accept": "application/json",
-        })
-        with urlopen(request, timeout=timeout) as response:
-            payload = json.loads(response.read(MAX_BYTES).decode("utf-8", "replace"))
+        payload = _bili_wbi_search(keyword, timeout)
         results = ((payload.get("data") or {}).get("result") or [])
         if not results:
             raise ValueError("B 站搜索未返回可播放视频")
