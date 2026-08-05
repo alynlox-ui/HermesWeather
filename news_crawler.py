@@ -187,7 +187,7 @@ def fetch_bilibili_video(url: str, timeout: int = 15) -> dict[str, str]:
         "author": str((item or {}).get("author") or "").strip(),
         "duration": str((item or {}).get("duration") or "").strip(),
         "cover": str((item or {}).get("pic") or "").strip(),
-        "embedUrl": f"https://www.bilibili.com/blackboard/player.html?bvid={bvid}&page=1",
+        "embedUrl": f"https://player.bilibili.com/player.html?isOutside=true&bvid={bvid}&p=1&high_quality=1&danmaku=0&autoplay=0",
     }
 
 
