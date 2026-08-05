@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: hermes-weather-news-alynlox-ui
+    runtime: python
+    plan: free
+    region: singapore
+    buildCommand: "python -m py_compile news_crawler.py weather_web.py news_service.py"
+    startCommand: "python news_service.py"
+    healthCheckPath: /health
+    autoDeploy: true
