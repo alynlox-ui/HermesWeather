@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T07:26:34Z",
+  "updatedAt": "2026-08-06T07:41:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -34,38 +34,38 @@
         "rank": 5
       },
       {
-        "title": "抢劫刺死19岁少女的死刑改死缓当事人自述：出狱11年间始终刻意躲避被害人家属",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33722401",
-        "desc": "",
-        "rank": 6
-      },
-      {
         "title": "联合国教科文组织确认北京为2029年“世界建筑之都”",
         "url": "https://www.thepaper.cn/newsDetail_forward_33723954",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "河南汝州一公职人员被举报在职校开餐厅超市，本人回应称“是给别人帮忙”",
         "url": "https://www.thepaper.cn/newsDetail_forward_33718933",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "暮年常沙娜：记忆消逝处，不褪色的敦煌人生",
         "url": "https://www.thepaper.cn/newsDetail_forward_33688086",
         "desc": "",
-        "rank": 9
+        "rank": 8
       },
       {
         "title": "犬伤门诊迎接诊高峰：多数患者被家养宠物咬伤，还有人因接触蝙蝠就诊",
         "url": "https://www.thepaper.cn/newsDetail_forward_33719606",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
         "url": "https://www.thepaper.cn/newsDetail_forward_33720253",
+        "desc": "",
+        "rank": 10
+      },
+      {
+        "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33728067",
         "desc": "",
         "rank": 11
       },
@@ -76,32 +76,32 @@
         "rank": 12
       },
       {
-        "title": "女排国手李盈莹已做心脏手术，确定无缘今年亚锦赛和亚运会",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33719648",
-        "desc": "",
-        "rank": 13
-      },
-      {
         "title": "“抗生素牛蛙”后续：多地开展牛蛙食品安全检查或专项行动",
         "url": "https://www.thepaper.cn/newsDetail_forward_33723870",
         "desc": "",
-        "rank": 14
-      },
-      {
-        "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33728067",
-        "desc": "",
-        "rank": 15
+        "rank": 13
       },
       {
         "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
         "url": "https://www.thepaper.cn/newsDetail_forward_33728016",
         "desc": "",
-        "rank": 16
+        "rank": 14
+      },
+      {
+        "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33728476",
+        "desc": "",
+        "rank": 15
       },
       {
         "title": "抱冬瓜睡觉出现第一批“受害者”：半夜遭遇“炸瓜”，床单沾满腐臭汁水",
         "url": "https://www.thepaper.cn/newsDetail_forward_33719768",
+        "desc": "",
+        "rank": 16
+      },
+      {
+        "title": "我国编制完成新版全月地质图",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33728798",
         "desc": "",
         "rank": 17
       },
@@ -118,8 +118,8 @@
         "rank": 19
       },
       {
-        "title": "我国编制完成新版全月地质图",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33728798",
+        "title": "金融学者、山东财大教授刘海明逝世，终年38岁",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33727611",
         "desc": "",
         "rank": 20
       }
@@ -558,19 +558,19 @@
         "hotTitle": "用老一辈的审美看八仙"
       },
       {
-        "title": "海绵宝宝大战僵尸Day4，章鱼哥",
-        "url": "https://www.bilibili.com/video/BV1x8Mo6tEgN",
+        "title": "海绵宝宝大战僵尸day6,蟹老板",
+        "url": "https://www.bilibili.com/video/BV1sjMU6NEm6",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1x8Mo6tEgN",
+        "bvid": "BV1sjMU6NEm6",
         "author": "铜锣戏语",
-        "duration": "4:7",
-        "cover": "//i2.hdslb.com/bfs/archive/b4d61ed8e47161aed1cc71b7d41422caa8044f24.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1x8Mo6tEgN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "4:32",
+        "cover": "//i1.hdslb.com/bfs/archive/4f07d9c5430cb0939ef8f70d2589d8ec12df7c9e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sjMU6NEm6&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "海绵宝宝大战僵尸"
       },
       {
@@ -960,6 +960,36 @@
         "rank": 5
       },
       {
+        "title": "字节跳动全员会：聚焦主干业务，AI业务重点转向ToB 生产力",
+        "url": "https://m.36kr.com/newsflashes/3927735085807747",
+        "desc": "8月6日，字节跳动CEO梁汝波在年中全员会上介绍豆包、飞书、火山引擎整合背景时表示，AI在生产力上的发展快于预期，ToB变得更重要，飞书新增客户中已有超九成同步采购飞书AI产品。梁汝波将字节业务战略原则总结为“高度优先，粗主干，优化长期”，三大核心业务为AI、信息平台与交易服务，三者紧密相关，均通过计算换智能实现公司使命。抖音作为\"主干\"业务拉动电商与生活服务，未来豆包也将成为“主干”。",
+        "cover": "",
+        "date": 1786001924670,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "任天堂Switch 2主机第一财季销量同比下降34.4%",
+        "url": "https://m.36kr.com/newsflashes/3927722013325447",
+        "desc": "8月6日，任天堂在财报中披露，2027财年第一季度（2026年4月至6月），Switch 2主机销量同比下降34.4%至382万台，Switch主机销量同比下降31.8%至66万台。（界面）",
+        "cover": "",
+        "date": 1786001602000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "百度入股日行迹智能科技公司",
+        "url": "https://m.36kr.com/newsflashes/3927715452778889",
+        "desc": "36氪获悉，天眼查App显示，上海日行迹智能科技有限公司发生工商变更，原股东孙天祥退出，新增百度时代网络技术（北京）有限公司为股东。该公司成立于2025年3月，法定代表人为孙天祥，注册资本约199万人民币，经营范围包括人工智能基础软件开发、人工智能应用软件开发、计算机系统服务、数据处理服务等。",
+        "cover": "",
+        "date": 1786001381000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
         "title": "兆易创新发布两款人形机器人专用MCU",
         "url": "https://m.36kr.com/newsflashes/3927714933373065",
         "desc": "36氪获悉，8月5日，兆易创新发布两款人形机器人关节驱动专用MCU。GD32F50MxxG采用252MHz Cortex-M33内核，合封自研三相栅极驱动器与4路运放，单芯片替代分立方案，适配24~48V电机，计划12月量产。GD32H77R搭载600MHz Cortex-M7内核，集成EtherCAT从站与双百兆PHY，支持主流编码器接口，已开放样品。",
@@ -967,7 +997,7 @@
         "date": 1786001108000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "私募仓位创四年新高，七成机构满仓运作、百亿私募带头加仓",
@@ -977,7 +1007,7 @@
         "date": 1786001102828,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "小红书加大AI投入：布局AI社交方向，开启AI陪伴产品自研",
@@ -987,7 +1017,7 @@
         "date": 1786000869044,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "OpenAI要求美法官驳回苹果诉讼，称“窃取商业机密”指控“毫无依据”",
@@ -997,7 +1027,7 @@
         "date": 1786000564000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "Clipto.AI与猛玛达成战略合作",
@@ -1007,7 +1037,7 @@
         "date": 1786000359000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "工信部：引导民爆产能向需求集中、缺口扩大的地区转移，限制产能过剩地区产能转入",
@@ -1017,7 +1047,7 @@
         "date": 1786000296879,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "工信部：推广应用无人化生产线，原则上不再新建“一头多尾”、“多头一尾”工业炸药生产线",
@@ -1027,7 +1057,7 @@
         "date": 1786000271877,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "工信部：提高产业集中度，鼓励民爆企业依法依规实施重组整合",
@@ -1037,7 +1067,7 @@
         "date": 1786000171527,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "工信部：到2030年企业重组整合有序推进，形成3~5家具有较强国际运营能力的大型民爆企业集团",
@@ -1047,7 +1077,7 @@
         "date": 1786000140894,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "追觅清洁电器累计出货量超4000万台，覆盖超120个国家和地区",
@@ -1057,7 +1087,7 @@
         "date": 1785999971133,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "A股三大指数收盘涨跌不一，工业气体领涨",
@@ -1067,7 +1097,7 @@
         "date": 1785999695340,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "软银集团一季度净利润3473.3亿日元超预期",
@@ -1077,7 +1107,7 @@
         "date": 1785998922000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "MiniMax关联公司增资至55亿，增幅约38%",
@@ -1087,7 +1117,7 @@
         "date": 1785998534000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "断臂求生后重返投资，对冲基金Situational Awareness出手押注4亿美元",
@@ -1097,7 +1127,7 @@
         "date": 1785998026000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "马斯克：内存芯片的需求增长速度远远超过了供应增速",
@@ -1107,7 +1137,7 @@
         "date": 1785997940000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 23
       },
       {
         "title": "南风股份：南方增材3D打印业务正在推进中，预计不会对今年的经营业绩产生重大影响",
@@ -1117,7 +1147,7 @@
         "date": 1785997685000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 24
       },
       {
         "title": "欣兴工具：公司目前暂不涉及PCB产品",
@@ -1127,45 +1157,15 @@
         "date": 1785997346000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "巴克莱：人形机器人可能在2035年后实现大规模部署",
-        "url": "https://m.36kr.com/newsflashes/3927641791150211",
-        "desc": "巴克莱分析师在一份研究报告中表示，人形机器人的部署可能在2035年之后实现大规模化。他们指出，目前许多关于人形机器人的炒作反映的是预先设定好的演示、人工控制的远程操作或特定任务的自动化，而不是真正的通用自主性。为了实现真正的通用自主性，人形机器人需要“感知、推理和适应性行为”。人形机器人的部署最终可能与自动驾驶汽车类似，后者花费了十多年的时间。因此他们表示，大规模的经济应用可能更接近2035年而不是2030年，而近期的部署将集中在狭窄、受控的工业应用场景上。（新浪财经）",
-        "cover": "",
-        "date": 1785997064000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "蚌埠市脑机接口科技发展公司登记成立",
-        "url": "https://m.36kr.com/newsflashes/3927639819352201",
-        "desc": "36氪获悉，企查查App显示，近日，蚌埠市脑机接口科技发展有限公司成立，经营范围包含：人工智能应用软件开发；软件开发；互联网数据服务；云计算装备技术服务；物联网技术服务等。企查查股权穿透显示，该公司由蚌埠市中城振兴产业投资有限责任公司、蚌埠恒运投资管理有限公司共同持股。",
-        "cover": "",
-        "date": 1785996705000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 24
-      },
-      {
-        "title": "北京君正：目前存储领域产能较为紧张，预计公司后续仍将主要采用季度调价的模式",
-        "url": "https://m.36kr.com/newsflashes/3927637694806401",
-        "desc": "36氪获悉，北京君正在互动平台表示，公司会根据市场需求趋势和客户确定后续的合作方式，目前存储领域产能较为紧张，预计公司后续仍将主要采用季度调价的模式。",
-        "cover": "",
-        "date": 1785996335000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786001164630,
+    "thepaper": 1786002068802,
     "bilibili": 1786000376928,
-    "qbitai": 1786001193727,
-    "36kr": 1786001194231
+    "qbitai": 1786002092854,
+    "36kr": 1786002093440
   },
   "failures": {}
 }
