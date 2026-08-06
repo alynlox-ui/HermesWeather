@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-06T10:26:34Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-08-06T10:43:02Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -28,98 +28,98 @@
         "rank": 4
       },
       {
-        "title": "澎湃回声｜多平台回应“假睫毛胶水检出多种致癌、致敏物”：正排查处置",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33720820",
-        "desc": "",
-        "rank": 5
-      },
-      {
         "title": "联合国教科文组织确认北京为2029年“世界建筑之都”",
         "url": "https://www.thepaper.cn/newsDetail_forward_33723954",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "暮年常沙娜：记忆消逝处，不褪色的敦煌人生",
         "url": "https://www.thepaper.cn/newsDetail_forward_33688086",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
         "url": "https://www.thepaper.cn/newsDetail_forward_33720253",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
         "url": "https://www.thepaper.cn/newsDetail_forward_33728067",
         "desc": "",
-        "rank": 9
-      },
-      {
-        "title": "马上评｜笔试第一却被劝出局，这些疑点要全面核查",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33719868",
-        "desc": "",
-        "rank": 10
+        "rank": 8
       },
       {
         "title": "“抗生素牛蛙”后续：多地开展牛蛙食品安全检查或专项行动",
         "url": "https://www.thepaper.cn/newsDetail_forward_33723870",
         "desc": "",
-        "rank": 11
+        "rank": 9
       },
       {
         "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
         "url": "https://www.thepaper.cn/newsDetail_forward_33728016",
         "desc": "",
-        "rank": 12
+        "rank": 10
       },
       {
         "title": "我国编制完成新版全月地质图",
         "url": "https://www.thepaper.cn/newsDetail_forward_33728798",
         "desc": "",
-        "rank": 13
+        "rank": 11
       },
       {
         "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
         "url": "https://www.thepaper.cn/newsDetail_forward_33728476",
         "desc": "",
-        "rank": 14
+        "rank": 12
       },
       {
         "title": "澎湃回声｜汕头农业农村局：初步核实，涉事企业牛蛙货源来自长沙和湛江",
         "url": "https://www.thepaper.cn/newsDetail_forward_33727891",
         "desc": "",
-        "rank": 15
+        "rank": 13
       },
       {
         "title": "“兰州拉面”多地改名“青海拉面”？青海省拉面产业行业协会：青海人开的店自愿报名，不用交钱",
         "url": "https://www.thepaper.cn/newsDetail_forward_33729131",
         "desc": "",
-        "rank": 16
+        "rank": 14
       },
       {
         "title": "转角遇到“红”丨上海苏州河畔这个“最不像党群中心的党群中心”，被年轻人挤爆了",
         "url": "https://www.thepaper.cn/newsDetail_forward_33719864",
         "desc": "",
-        "rank": 17
+        "rank": 15
       },
       {
         "title": "金融学者、山东财大教授刘海明逝世，终年38岁",
         "url": "https://www.thepaper.cn/newsDetail_forward_33727611",
         "desc": "",
-        "rank": 18
+        "rank": 16
       },
       {
         "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
         "url": "https://www.thepaper.cn/newsDetail_forward_33729497",
         "desc": "",
-        "rank": 19
+        "rank": 17
+      },
+      {
+        "title": "难以落地的动迁款：深圳罗湖区两村民追讨两千万元动迁款八年未果",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33573360",
+        "desc": "",
+        "rank": 18
       },
       {
         "title": "冒充保安混入演唱会场内，2名扰序违法人员被行政处罚",
         "url": "https://www.thepaper.cn/newsDetail_forward_33724627",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "重庆一粮食系统职工举报被单位提前退休，涉事公司否认：系自愿申请",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33728081",
         "desc": "",
         "rank": 20
       }
@@ -142,10 +142,26 @@
         "hotTitle": "IG vs NIP LPL第三赛段"
       },
       {
+        "title": "最离谱的神魔宇宙！ 四大游记！古人的脑洞到底有多离谱？",
+        "url": "https://www.bilibili.com/video/BV1sQM26YEd6",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1sQM26YEd6",
+        "author": "文化遗产搬运委员会",
+        "duration": "21:33",
+        "cover": "//i2.hdslb.com/bfs/archive/35d55e3a59f833a435fe3e41b5bdbccd6656a604.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sQM26YEd6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "西游记之外的三本游记有多离谱"
+      },
+      {
         "title": "我国首座抗17级台风高技术难度浮式风电平台投运",
         "url": "https://www.bilibili.com/video/BV1j2u76MEbB",
         "desc": "",
-        "rank": 2,
+        "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "新华社北京8月6日电（记者王悦阳、梁姊）中国海油8月6日宣布，我国自主设计建造的首座16兆瓦张力腿深远海浮式风电平台“海油安澜号”成功接入陆丰油田电网并直供绿电。平台按可抵御17级台风极端工况设计建造，其投运标志着我国深远海浮式风电装备技术走向世界前列，为我国海上风电开发探索新路线。 “海油安澜号”安装于珠江口盆地海域，安装位置水深136米、离岸136公里。整体高度近110层楼高，总重7800吨，扫风面积相当于7.5个标准足球场，平台通过海底电缆接入陆丰油田电网，投产后预计每年可提供5400万度绿色电力",
@@ -156,22 +172,6 @@
         "cover": "//i2.hdslb.com/bfs/archive/5584915604096eb1f67f85509208dd37b9937874.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j2u76MEbB&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "全球首座16兆瓦浮式风电平台投运"
-      },
-      {
-        "title": "看电影不如读史诗｜《奥德赛》：回家的正义与不义【周可】",
-        "url": "https://www.bilibili.com/video/BV1scMS6NEVS",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "在史诗《奥德赛》中，其实存在一个“奥德修斯两难”：到底是遵从神的意志老老实实地回家，还是按照个体生命本真的冲动偏离航向去往远方——当我们每一个人面对这个“奥德修斯两难”无法选择的时候，这个“奥德修斯两难”就会变成一个“奥德赛陷阱”，让人深陷其中，无法自拔。",
-        "content": "在史诗《奥德赛》中，其实存在一个“奥德修斯两难”：到底是遵从神的意志老老实实地回家，还是按照个体生命本真的冲动偏离航向去往远方——当我们每一个人面对这个“奥德修斯两难”无法选择的时候，这个“奥德修斯两难”就会变成一个“奥德赛陷阱”，让人深陷其中，无法自拔。",
-        "bvid": "BV1scMS6NEVS",
-        "author": "可可周老师",
-        "duration": "35:21",
-        "cover": "//i1.hdslb.com/bfs/archive/8422a90aed6cfda1a45d323bf55fc497c7e4a4d7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1scMS6NEVS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如何理解奥德修斯的两难选择"
       },
       {
         "title": "【2026LPL第三赛段】8月6日 LGD vs TT",
@@ -190,36 +190,36 @@
         "hotTitle": "TT战胜LGD"
       },
       {
-        "title": "所谓“深刻的作品”正在制造新的审美谎言，你所渴望的东西正是你繁荣的障碍【次元论战】",
-        "url": "https://www.bilibili.com/video/BV1pLMy6JEpr",
+        "title": "看电影不如读史诗｜《奥德赛》：回家的正义与不义【周可】",
+        "url": "https://www.bilibili.com/video/BV1scMS6NEVS",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "本视频为【bilibili次元论战S3】活动 杂谈圆桌 稿件，所属主题是“从二次元洞察人间” 还有这些UP主也参与了该主题讨论，欢迎大家观看： BV1GeMy6TEdo﻿@森下Undermori 《鱼被凌迟叫鱼生，人被凌迟叫人生【次元论战S3】》 BV16zM16QEV4 @阿源是咸鱼 《动漫里的「距离感」为何成为治愈我们的精神解药？【bilibili次元论战】》 BV18MMU66EVD@CHL-你C爷 《性别叙事下的革命与解放？关于的盛大出走...【bilibili次元论战】》",
-        "content": "本视频为【bilibili次元论战S3】活动 杂谈圆桌 稿件，所属主题是“从二次元洞察人间” 还有这些UP主也参与了该主题讨论，欢迎大家观看： BV1GeMy6TEdo﻿@森下Undermori 《鱼被凌迟叫鱼生，人被凌迟叫人生【次元论战S3】》 BV16zM16QEV4 @阿源是咸鱼 《动漫里的「距离感」为何成为治愈我们的精神解药？【bilibili次元论战】》 BV18MMU66EVD@CHL-你C爷 《性别叙事下的革命与解放？关于的盛大出走...【bilibili次元论战】》",
-        "bvid": "BV1pLMy6JEpr",
-        "author": "树岛坂",
-        "duration": "17:32",
-        "cover": "//i2.hdslb.com/bfs/archive/5e21bd0c343560ddd120ea50c804d6fe20631a0a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pLMy6JEpr&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "作品深度是新时代的审美谎言"
+        "description": "在史诗《奥德赛》中，其实存在一个“奥德修斯两难”：到底是遵从神的意志老老实实地回家，还是按照个体生命本真的冲动偏离航向去往远方——当我们每一个人面对这个“奥德修斯两难”无法选择的时候，这个“奥德修斯两难”就会变成一个“奥德赛陷阱”，让人深陷其中，无法自拔。",
+        "content": "在史诗《奥德赛》中，其实存在一个“奥德修斯两难”：到底是遵从神的意志老老实实地回家，还是按照个体生命本真的冲动偏离航向去往远方——当我们每一个人面对这个“奥德修斯两难”无法选择的时候，这个“奥德修斯两难”就会变成一个“奥德赛陷阱”，让人深陷其中，无法自拔。",
+        "bvid": "BV1scMS6NEVS",
+        "author": "可可周老师",
+        "duration": "35:21",
+        "cover": "//i1.hdslb.com/bfs/archive/8422a90aed6cfda1a45d323bf55fc497c7e4a4d7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1scMS6NEVS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何理解奥德修斯的两难选择"
       },
       {
-        "title": "将夜 18集下 宁缺怒斩仇寇，黑伞引动朱雀异象",
-        "url": "https://www.bilibili.com/video/BV1BxM26nEg7",
+        "title": "我好像出了个假国！中国人在纽约建了个新县城？",
+        "url": "https://www.bilibili.com/video/BV1LPMr6cE6u",
         "desc": "",
         "rank": 6,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1BxM26nEg7",
-        "author": "4K无需多言",
-        "duration": "25:57",
-        "cover": "//i1.hdslb.com/bfs/archive/e76ee91092ec740502037cb0c402518fd2c6c947.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BxM26nEg7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "宁缺陈皮皮隔空交锋"
+        "description": "这次的纽约旅行，和以往有些许不同。 我们将以四个在纽约生活的中国人为主线，串联起纽约这座城市，听听他们口中的纽约和各自截然不同的生活走向。",
+        "content": "这次的纽约旅行，和以往有些许不同。 我们将以四个在纽约生活的中国人为主线，串联起纽约这座城市，听听他们口中的纽约和各自截然不同的生活走向。",
+        "bvid": "BV1LPMr6cE6u",
+        "author": "世茹很如意",
+        "duration": "41:18",
+        "cover": "//i2.hdslb.com/bfs/archive/07c3376c60c7f7daf0f63c622183f70db6db3834.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LPMr6cE6u&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "藏在纽约的中国县城"
       },
       {
         "title": "【IG vs WBG】德云色解说：武圣归来！！！（2026第三赛段）",
@@ -254,20 +254,20 @@
         "hotTitle": "7月新番的大火猛炒"
       },
       {
-        "title": "科研人员确证新型粒子“胶球”的存在",
-        "url": "https://www.bilibili.com/video/BV1ARuE6DEsK",
+        "title": "所谓“深刻的作品”正在制造新的审美谎言，你所渴望的东西正是你繁荣的障碍【次元论战】",
+        "url": "https://www.bilibili.com/video/BV1pLMy6JEpr",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "新华社北京8月6日电（记者刘祯）记者6日从中国科学院高能物理所获悉，我国科研人员领衔的北京谱仪Ⅲ实验国际合作组，历经15年实验研究，首次证明一类全新物质形态——胶球的存在。 自然界中，原子核由质子和中子组成，质子和中子又由夸克组成，夸克之间靠胶子传递强相互作用力。粒子物理学标准模型认为，胶子之间可以相互吸引而形成一种全新的粒子——胶球。但此前，这种粒子从未被实验发现。 依托北京正负电子对撞机上的实验装置北京谱仪Ⅲ，研究团队在2011年发现了一个新粒子X(2370)。2024年，研究团队测得X(2370",
-        "content": "新华社北京8月6日电（记者刘祯）记者6日从中国科学院高能物理所获悉，我国科研人员领衔的北京谱仪Ⅲ实验国际合作组，历经15年实验研究，首次证明一类全新物质形态——胶球的存在。 自然界中，原子核由质子和中子组成，质子和中子又由夸克组成，夸克之间靠胶子传递强相互作用力。粒子物理学标准模型认为，胶子之间可以相互吸引而形成一种全新的粒子——胶球。但此前，这种粒子从未被实验发现。 依托北京正负电子对撞机上的实验装置北京谱仪Ⅲ，研究团队在2011年发现了一个新粒子X(2370)。2024年，研究团队测得X(2370",
-        "bvid": "BV1ARuE6DEsK",
-        "author": "新华社",
-        "duration": "0:49",
-        "cover": "//i2.hdslb.com/bfs/archive/c84b3391d123b5ca0ccc324163ec9553cf093e67.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ARuE6DEsK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "新型粒子胶球的存在被确证"
+        "description": "本视频为【bilibili次元论战S3】活动 杂谈圆桌 稿件，所属主题是“从二次元洞察人间” 还有这些UP主也参与了该主题讨论，欢迎大家观看： BV1GeMy6TEdo﻿@森下Undermori 《鱼被凌迟叫鱼生，人被凌迟叫人生【次元论战S3】》 BV16zM16QEV4 @阿源是咸鱼 《动漫里的「距离感」为何成为治愈我们的精神解药？【bilibili次元论战】》 BV18MMU66EVD@CHL-你C爷 《性别叙事下的革命与解放？关于的盛大出走...【bilibili次元论战】》",
+        "content": "本视频为【bilibili次元论战S3】活动 杂谈圆桌 稿件，所属主题是“从二次元洞察人间” 还有这些UP主也参与了该主题讨论，欢迎大家观看： BV1GeMy6TEdo﻿@森下Undermori 《鱼被凌迟叫鱼生，人被凌迟叫人生【次元论战S3】》 BV16zM16QEV4 @阿源是咸鱼 《动漫里的「距离感」为何成为治愈我们的精神解药？【bilibili次元论战】》 BV18MMU66EVD@CHL-你C爷 《性别叙事下的革命与解放？关于的盛大出走...【bilibili次元论战】》",
+        "bvid": "BV1pLMy6JEpr",
+        "author": "树岛坂",
+        "duration": "17:32",
+        "cover": "//i2.hdslb.com/bfs/archive/5e21bd0c343560ddd120ea50c804d6fe20631a0a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pLMy6JEpr&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "作品深度是新时代的审美谎言"
       },
       {
         "title": "《凡应》EP02测试全新PV——与巨兽彼此依存，和鸣共生！",
@@ -302,35 +302,35 @@
         "hotTitle": "影之刃零30秒先导PV"
       },
       {
-        "title": "“至此，神性已成！！！”",
-        "url": "https://www.bilibili.com/video/BV13J3R6MEkE",
+        "title": "柯洁VS党毅飞（不可能的逆转）",
+        "url": "https://www.bilibili.com/video/BV1kxuw6iEb2",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV13J3R6MEkE",
-        "author": "wrizedm",
-        "duration": "5:36",
-        "cover": "//i1.hdslb.com/bfs/archive/6e64cb50c2d83ab694e6fd40109b2792a4e98fd6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13J3R6MEkE&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "用老一辈的审美看八仙"
+        "description": "",
+        "content": "",
+        "bvid": "BV1kxuw6iEb2",
+        "author": "阿引围棋",
+        "duration": "7:51",
+        "cover": "//i1.hdslb.com/bfs/archive/97cd0f8c6c1d85458e3fc2579c1c8c511ffc1460.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kxuw6iEb2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "复盘柯洁逆转党毅飞"
       },
       {
-        "title": "众主播看FPX 13:0 JDG！berlin头也不回直接离场！阿阳笑嘻了！bail绷不住气笑了。FPX vs JDG",
-        "url": "https://www.bilibili.com/video/BV1MUun6YELi",
+        "title": "【2026VCTCN第二赛段】8月6日 FPX vs JDG",
+        "url": "https://www.bilibili.com/video/BV13Aun6NE12",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
-        "content": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
-        "bvid": "BV1MUun6YELi",
-        "author": "anno大笨蛋",
-        "duration": "3:26",
-        "cover": "//i0.hdslb.com/bfs/archive/4580badf558d0dbf6365e19a4adc7d3b9c8a2ec7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MUun6YELi&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026VCTCN第二赛段】8月6日 FPX vs JDG",
+        "content": "【2026VCTCN第二赛段】8月6日 FPX vs JDG",
+        "bvid": "BV13Aun6NE12",
+        "author": "无畏契约赛事",
+        "duration": "163:11",
+        "cover": "//i1.hdslb.com/bfs/archive/f8abc4b36fdaced4b956e02850b0325b9069298d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13Aun6NE12&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "FPX vs JDG VCT第二赛段"
       },
       {
@@ -376,42 +376,42 @@
         "content": "【2026EWC王者荣耀电竞世俱杯】8月6日 KSG VS VP",
         "bvid": "BV1bPun6YEqX",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "79:11",
+        "duration": "103:16",
         "cover": "//i1.hdslb.com/bfs/archive/72ac6bf298206d1f9c153cbc6950887e07a06128.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bPun6YEqX&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "KSG vs VP KWC"
       },
       {
-        "title": "其实直接闭麦也没什么区别 Jennie超绝芝加哥造型现场Reaction",
-        "url": "https://www.bilibili.com/video/BV1xUMy6oEN6",
+        "title": "她把中餐厅拍成了变形记，坏了也没变好啊！",
+        "url": "https://www.bilibili.com/video/BV1pVMy6DEmX",
         "desc": "",
         "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1xUMy6oEN6",
-        "author": "奥里卡豆",
-        "duration": "17:48",
-        "cover": "//i2.hdslb.com/bfs/archive/e5c4c46b385f4ddad3c2556d64302421cb3dc7f8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xUMy6oEN6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Jennie芝加哥现场Reaction"
+        "bvid": "BV1pVMy6DEmX",
+        "author": "刘哔电影",
+        "duration": "16:19",
+        "cover": "//i2.hdslb.com/bfs/archive/c665e608fde3598182e0ad9582652c648331f4c2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pVMy6DEmX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "盘点张雅琪中餐厅表现"
       },
       {
-        "title": "《原神》奥黛塔角色PV——「柔雪的幻象」",
-        "url": "https://www.bilibili.com/video/BV1wZMy6DE31",
+        "title": "科研人员确证新型粒子“胶球”的存在",
+        "url": "https://www.bilibili.com/video/BV1ARuE6DEsK",
         "desc": "",
         "rank": 18,
         "kind": "video",
         "platform": "bilibili",
-        "description": "她的一生如一只水鸟的舞。 等她不再困于湖冰的寒锋，才能将白羽带上苍穹。 中文CV： 奥黛塔——潘丹妮 日文CV： 奥黛塔——上坂堇 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
-        "content": "她的一生如一只水鸟的舞。 等她不再困于湖冰的寒锋，才能将白羽带上苍穹。 中文CV： 奥黛塔——潘丹妮 日文CV： 奥黛塔——上坂堇 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
-        "bvid": "BV1wZMy6DE31",
-        "author": "原神",
-        "duration": "10:30",
-        "cover": "//i2.hdslb.com/bfs/archive/740a9b04ec6880e1ffbc1cf6535b886b26000b43.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wZMy6DE31&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "原神奥黛塔角色PV"
+        "description": "新华社北京8月6日电（记者刘祯）记者6日从中国科学院高能物理所获悉，我国科研人员领衔的北京谱仪Ⅲ实验国际合作组，历经15年实验研究，首次证明一类全新物质形态——胶球的存在。 自然界中，原子核由质子和中子组成，质子和中子又由夸克组成，夸克之间靠胶子传递强相互作用力。粒子物理学标准模型认为，胶子之间可以相互吸引而形成一种全新的粒子——胶球。但此前，这种粒子从未被实验发现。 依托北京正负电子对撞机上的实验装置北京谱仪Ⅲ，研究团队在2011年发现了一个新粒子X(2370)。2024年，研究团队测得X(2370",
+        "content": "新华社北京8月6日电（记者刘祯）记者6日从中国科学院高能物理所获悉，我国科研人员领衔的北京谱仪Ⅲ实验国际合作组，历经15年实验研究，首次证明一类全新物质形态——胶球的存在。 自然界中，原子核由质子和中子组成，质子和中子又由夸克组成，夸克之间靠胶子传递强相互作用力。粒子物理学标准模型认为，胶子之间可以相互吸引而形成一种全新的粒子——胶球。但此前，这种粒子从未被实验发现。 依托北京正负电子对撞机上的实验装置北京谱仪Ⅲ，研究团队在2011年发现了一个新粒子X(2370)。2024年，研究团队测得X(2370",
+        "bvid": "BV1ARuE6DEsK",
+        "author": "新华社",
+        "duration": "0:49",
+        "cover": "//i2.hdslb.com/bfs/archive/c84b3391d123b5ca0ccc324163ec9553cf093e67.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ARuE6DEsK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "新型粒子胶球的存在被确证"
       },
       {
         "title": "小时候父母相信的离谱谣言...",
@@ -446,74 +446,10 @@
         "hotTitle": "DeepSeek拟调高API价格"
       },
       {
-        "title": "柯洁VS党毅飞（不可能的逆转）",
-        "url": "https://www.bilibili.com/video/BV1kxuw6iEb2",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1kxuw6iEb2",
-        "author": "阿引围棋",
-        "duration": "7:51",
-        "cover": "//i1.hdslb.com/bfs/archive/97cd0f8c6c1d85458e3fc2579c1c8c511ffc1460.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kxuw6iEb2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "复盘柯洁逆转党毅飞"
-      },
-      {
-        "title": "5个天才高中生做的高中生活游戏",
-        "url": "https://www.bilibili.com/video/BV19eMy6TEmz",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "游戏：完蛋！我被男同学包围了 官号：@游戏学社",
-        "content": "游戏：完蛋！我被男同学包围了 官号：@游戏学社",
-        "bvid": "BV19eMy6TEmz",
-        "author": "拧不动啊真拧不动",
-        "duration": "19:9",
-        "cover": "//i1.hdslb.com/bfs/archive/c02c6f3d73f2d8aeb5bcbc2f16dd8189c0d56935.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19eMy6TEmz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "试玩5个高中生做的高中生活游戏"
-      },
-      {
-        "title": "她把中餐厅拍成了变形记，坏了也没变好啊！",
-        "url": "https://www.bilibili.com/video/BV1pVMy6DEmX",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1pVMy6DEmX",
-        "author": "刘哔电影",
-        "duration": "16:19",
-        "cover": "//i2.hdslb.com/bfs/archive/c665e608fde3598182e0ad9582652c648331f4c2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pVMy6DEmX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "盘点张雅琪中餐厅表现"
-      },
-      {
-        "title": "《外国人也想飞》",
-        "url": "https://www.bilibili.com/video/BV1woMy6HESL",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "我为外国人发声",
-        "content": "我为外国人发声",
-        "bvid": "BV1woMy6HESL",
-        "author": "麦克阿瑟MacArthur",
-        "duration": "0:27",
-        "cover": "//i0.hdslb.com/bfs/archive/bc6c7b73766524e5da7718754a2c6035eb30e65c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1woMy6HESL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "外国人也想飞"
-      },
-      {
         "title": "《雾海之下》首曝PV｜贪吃无罪，撤离万岁！",
         "url": "https://www.bilibili.com/video/BV17vuw68E58",
         "desc": "",
-        "rank": 25,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "《雾海之下》是网易首款吃打撤手游，俯视角战斗，会打团就能玩！您将和2名队友一起进入雾海，狩猎魔物、搜集宝藏，并带着食材和财宝撤离！ 在《雾海之下》，魔物是猎物，也是食材。 把它们做成料理吃下，就能获得来自魔物的力量！想要喷火？去猎杀那只火龙！ 当然，要喂饱猎人，光有美食还不够。 雾海深处还藏着宝藏，等着你和队友装进背包！ 魔雾正在逼近—— 现在撤离，带走收获； 再贪一次，可能全部留在雾海之下。 猎人协会的会训只有八个字： 贪吃无罪，撤离万岁！ ————————— 8月17日，《雾海之下》首测开启，",
@@ -526,42 +462,10 @@
         "hotTitle": "雾海之下首曝PV"
       },
       {
-        "title": "猛吐槽暑期电影（7月），就那样吧，没啥好看的",
-        "url": "https://www.bilibili.com/video/BV1eRM16rE5Q",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1eRM16rE5Q",
-        "author": "路温1900",
-        "duration": "19:47",
-        "cover": "//i2.hdslb.com/bfs/archive/e8573c414fe327ac63d9c1e182b1e979abf91003.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eRM16rE5Q&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "暑期电影影评杂谈"
-      },
-      {
-        "title": "鸿蒙智行发布情况说明： 网上持续存在恶意剪辑、仿冒相关高管声音 本次投诉针对具体侵权内容 从未要求下架、停售“竹知了”",
-        "url": "https://www.bilibili.com/video/BV1PAuA63E84",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "鸿蒙智行发布情况说明： 网上持续存在恶意剪辑、仿冒相关高管声音 本次投诉针对具体侵权内容 从未要求下架、停售“竹知了”",
-        "content": "鸿蒙智行发布情况说明： 网上持续存在恶意剪辑、仿冒相关高管声音 本次投诉针对具体侵权内容 从未要求下架、停售“竹知了”",
-        "bvid": "BV1PAuA63E84",
-        "author": "红星视频",
-        "duration": "0:32",
-        "cover": "//i0.hdslb.com/bfs/archive/9507f5b387ff3f365e7da89236d61aeb679957ef.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PAuA63E84&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "鸿蒙智行回应竹知了事件"
-      },
-      {
         "title": "这里是世界第一城！！纽约！",
         "url": "https://www.bilibili.com/video/BV15XMC6KETm",
         "desc": "",
-        "rank": 28,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "有人说这个世界上只有两种城市：纽约和纽约以外的地方。纽约像一座被压缩过的地球，它是人类现代文明最极致的凝结，在这里你会觉得自己无比渺小，也会觉得自己无所不能。而这次我们带着一张价值8万元的世界杯门票，飞越了整个太平洋，去亲眼见证，这座城市的终极浪漫——世界杯决赛，所以欢迎来到【美国往事】纽约篇。",
@@ -574,36 +478,132 @@
         "hotTitle": "小鹿美国往事纽约篇更新"
       },
       {
-        "title": "《新闻1+1》L3、L4级自动驾驶，离我们还有多远？",
-        "url": "https://www.bilibili.com/video/BV11HMD6zEjJ",
+        "title": "猛吐槽暑期电影（7月），就那样吧，没啥好看的",
+        "url": "https://www.bilibili.com/video/BV1eRM16rE5Q",
         "desc": "",
-        "rank": 29,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV11HMD6zEjJ",
-        "author": "央视网",
-        "duration": "24:38",
-        "cover": "//i1.hdslb.com/bfs/archive/6da75ff5080c65a30930731b3def081b884a3c1c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11HMD6zEjJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "高级别自动驾驶离我们有多远"
+        "bvid": "BV1eRM16rE5Q",
+        "author": "路温1900",
+        "duration": "19:47",
+        "cover": "//i2.hdslb.com/bfs/archive/e8573c414fe327ac63d9c1e182b1e979abf91003.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eRM16rE5Q&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "暑期电影影评杂谈"
       },
       {
-        "title": "韩国人彻底赌疯了？从全民狂欢到集体爆仓，韩国社会怎么把年轻人逼上天台【岛岛连线】",
-        "url": "https://www.bilibili.com/video/BV1WGMy6HEHm",
+        "title": "中央考核巡查组当场质问：“都是满桶危险化学品！是干什么用的？”",
+        "url": "https://www.bilibili.com/video/BV1VBun6gEUW",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1VBun6gEUW",
+        "author": "央视新闻",
+        "duration": "3:40",
+        "cover": "//i1.hdslb.com/bfs/archive/461879ecafe1659c6bee0083b5acc3baadf3ef6d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VBun6gEUW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中央考核巡查组当场质问企业"
+      },
+      {
+        "title": "将夜 18集下 宁缺怒斩仇寇，黑伞引动朱雀异象",
+        "url": "https://www.bilibili.com/video/BV1BxM26nEg7",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1BxM26nEg7",
+        "author": "4K无需多言",
+        "duration": "25:57",
+        "cover": "//i1.hdslb.com/bfs/archive/e76ee91092ec740502037cb0c402518fd2c6c947.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BxM26nEg7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "宁缺陈皮皮隔空交锋"
+      },
+      {
+        "title": "奶蛙，出处确认",
+        "url": "https://www.bilibili.com/video/BV1ndMk65EwM",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "感谢所有参与溯源的网友 BGM：aquatic ambience",
+        "content": "感谢所有参与溯源的网友 BGM：aquatic ambience",
+        "bvid": "BV1ndMk65EwM",
+        "author": "看仙碎",
+        "duration": "3:32",
+        "cover": "//i0.hdslb.com/bfs/archive/ec5d05c27f54bccad4463d7aecb5bd9bb7d1e796.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ndMk65EwM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "奶蛙出处确认"
+      },
+      {
+        "title": "《原神》奥黛塔角色PV——「柔雪的幻象」",
+        "url": "https://www.bilibili.com/video/BV1wZMy6DE31",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "她的一生如一只水鸟的舞。 等她不再困于湖冰的寒锋，才能将白羽带上苍穹。 中文CV： 奥黛塔——潘丹妮 日文CV： 奥黛塔——上坂堇 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
+        "content": "她的一生如一只水鸟的舞。 等她不再困于湖冰的寒锋，才能将白羽带上苍穹。 中文CV： 奥黛塔——潘丹妮 日文CV： 奥黛塔——上坂堇 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
+        "bvid": "BV1wZMy6DE31",
+        "author": "原神",
+        "duration": "10:30",
+        "cover": "//i2.hdslb.com/bfs/archive/740a9b04ec6880e1ffbc1cf6535b886b26000b43.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wZMy6DE31&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "原神奥黛塔角色PV"
+      },
+      {
+        "title": "5个天才高中生做的高中生活游戏",
+        "url": "https://www.bilibili.com/video/BV19eMy6TEmz",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "游戏：完蛋！我被男同学包围了 官号：@游戏学社",
+        "content": "游戏：完蛋！我被男同学包围了 官号：@游戏学社",
+        "bvid": "BV19eMy6TEmz",
+        "author": "拧不动啊真拧不动",
+        "duration": "19:9",
+        "cover": "//i1.hdslb.com/bfs/archive/c02c6f3d73f2d8aeb5bcbc2f16dd8189c0d56935.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19eMy6TEmz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "试玩5个高中生做的高中生活游戏"
+      },
+      {
+        "title": "“至此，神性已成！！！”",
+        "url": "https://www.bilibili.com/video/BV13J3R6MEkE",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV13J3R6MEkE",
+        "author": "wrizedm",
+        "duration": "5:36",
+        "cover": "//i1.hdslb.com/bfs/archive/6e64cb50c2d83ab694e6fd40109b2792a4e98fd6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13J3R6MEkE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "用老一辈的审美看八仙"
+      },
+      {
+        "title": "锐评一饭封神2——vicky的师妹啥水平？",
+        "url": "https://www.bilibili.com/video/BV16nM269EWB",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "一键三连推荐给更多朋友！",
-        "content": "一键三连推荐给更多朋友！",
-        "bvid": "BV1WGMy6HEHm",
-        "author": "小王Albert",
-        "duration": "82:22",
-        "cover": "//i2.hdslb.com/bfs/archive/eb5364ae760171dd6af6442b248111cb26ca248a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WGMy6HEHm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "韩国人炒股有多疯狂"
+        "description": "vicky的师妹也不能一次打三份工呀，改变不是乱编，求求你放过那条鱼吧 少一点情怀，多一点真诚，我们还是少讲故事，多看看菜",
+        "content": "vicky的师妹也不能一次打三份工呀，改变不是乱编，求求你放过那条鱼吧 少一点情怀，多一点真诚，我们还是少讲故事，多看看菜",
+        "bvid": "BV16nM269EWB",
+        "author": "理论派甜点师小鱼",
+        "duration": "8:40",
+        "cover": "//i1.hdslb.com/bfs/archive/c779d2245f847fc9c0633f6046a46f4617715f24.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16nM269EWB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "锐评一饭封神2vicky师妹水平"
       }
     ],
     "qbitai": [
@@ -960,6 +960,26 @@
         "rank": 5
       },
       {
+        "title": "辽宁省创新发展引导母基金登记成立，出资额300亿",
+        "url": "https://m.36kr.com/newsflashes/3927861056698761",
+        "desc": "36氪获悉，天眼查App显示，近日，辽宁省创新发展引导母基金合伙企业（有限合伙）成立，执行事务合伙人为辽宁财金私募基金管理有限公司，出资额300亿人民币，经营范围为以自有资金从事投资活动，由辽宁基金投资有限公司、辽宁国质投资有限责任公司等共同出资。",
+        "cover": "",
+        "date": 1786012668000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "济川药业：董事黄曲荣、财务总监严宏泉拟合计减持股份不超18.1万股",
+        "url": "https://m.36kr.com/newsflashes/3927891122665861",
+        "desc": "36氪获悉，济川药业公告，公司职工代表、董事黄曲荣拟通过集中竞价方式减持所持公司股份不超过9.6万股，不超过公司总股本的0.01%；公司副总经理、财务总监严宏泉拟通过集中竞价方式减持所持公司股份不超过8.5万股，不超过公司总股本的0.01%。",
+        "cover": "",
+        "date": 1786012165000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "宝鼎科技：公司电子铜箔不能应用于AI服务器及算力领域",
         "url": "https://m.36kr.com/newsflashes/3927884747995520",
         "desc": "36氪获悉，宝鼎科技发布股票交易异动公告，公司覆铜板产品主要为FR-4及复合板等常规产品，目前无AI覆铜板，未发现在AI服务器及算力领域的应用。公司电子铜箔以HTE高温高延伸性电解铜箔为主，为通用标准产品，不能应用于AI服务器及算力领域。超低轮廓铜箔HVLP目前尚处于客户认证及市场拓展阶段，未形成批量生产，未来订单获取及业务拓展存在不确定性。",
@@ -967,7 +987,7 @@
         "date": 1786011716000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "松原安全：获得总额约6.91亿元欧洲汽车制造商项目定点",
@@ -977,7 +997,7 @@
         "date": 1786011434000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "中复神鹰：拟定增募资不超38.93亿元，用于高性能碳纤维等项目",
@@ -987,7 +1007,7 @@
         "date": 1786011204000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "软银利用OpenAI股权质押筹集100亿美元贷款",
@@ -997,7 +1017,7 @@
         "date": 1786011018000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "3连板江钨装备：公司无注入矿山资产的安排或活动",
@@ -1007,7 +1027,7 @@
         "date": 1786010797000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "10连板爱丽家居：公司股票可能存在明显的市场情绪过热和非理性炒作，可能再次申请停牌核查",
@@ -1017,7 +1037,7 @@
         "date": 1786010770037,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "新华保险、国泰海通在北京成立私募基金，出资额7亿",
@@ -1027,7 +1047,7 @@
         "date": 1786010546000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "IPO审核新动态，受理量环比大增，现场督导加码",
@@ -1037,7 +1057,7 @@
         "date": 1786010267000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "锴威特：拟收购晶艺半导体100%股权",
@@ -1047,7 +1067,7 @@
         "date": 1786009927000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "马云罕见海外投资布局公示",
@@ -1057,7 +1077,7 @@
         "date": 1786009855020,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "行云科技：在手算力长单超150亿元 客户主动加价扩量",
@@ -1067,7 +1087,7 @@
         "date": 1786009719000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "MINIMAX-W逆势获南向资金净买入26.97亿港元",
@@ -1077,7 +1097,7 @@
         "date": 1786009644903,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "德国商业银行宣布12亿欧元股票回购计划，季度净利润超出预期",
@@ -1087,7 +1107,7 @@
         "date": 1786009447000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "欧元区6月份零售销售同比增长0.7%",
@@ -1097,7 +1117,7 @@
         "date": 1786009218000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "传音控股：拟发行不超过1.32亿股H股获中国证监会备案",
@@ -1107,7 +1127,7 @@
         "date": 1786008959000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "伯特利：回购29.61万股，使用资金总额795.23万元",
@@ -1117,7 +1137,7 @@
         "date": 1786008739000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "博杰股份：连续3日涨幅偏离值累计超20%，公司澄清相关业务尚处初步布局",
@@ -1127,7 +1147,7 @@
         "date": 1786008708779,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "高盛、摩根大通大幅增持中际旭创，持仓比例分别升至12.19%和13.72%",
@@ -1137,35 +1157,16 @@
         "date": 1786008211519,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "上港集团：预计7月完成母港集装箱吞吐量同比增长1.3%",
-        "url": "https://m.36kr.com/newsflashes/3927824158685568",
-        "desc": "36氪获悉，上港集团公告，7月公司预计完成母港集装箱吞吐量467.8万标准箱，同比增长1.3%；预计完成母港货物吞吐量4889.9万吨，同比下降3.8%。",
-        "cover": "",
-        "date": 1786007896000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 24
-      },
-      {
-        "title": "Meta推出Muse Code：面向大型代码库的AI智能体",
-        "url": "https://m.36kr.com/newsflashes/3927818225105285",
-        "desc": "在人工智能应用赛道一度略显落后的Meta，正加速追赶同行。本周，该公司推出一款全新终端编码智能体，帮助程序员处理大型软件代码库中的复杂开发任务。Meta首席执行官马克・扎克伯格周三在社交媒体发文表示，目前处于测试版的Muse Code能够“在大型代码仓库中完成完整软件工程任务”，涵盖“方案规划、代码编写、结果验证”全流程。用户仅需一条命令即可安装Muse Code，底层依托Meta此前发布的代码大模型Muse Spark。面对大型项目时，它会自动生成多个智能体并行开展工作。（新浪财经）",
-        "cover": "",
-        "date": 1786007591000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786011962793,
-    "bilibili": 1786011029065,
-    "qbitai": 1786011994297,
-    "36kr": 1786011994765
+    "thepaper": 1786012862912,
+    "bilibili": 1786012874285,
+    "36kr": 1786012982560
   },
-  "failures": {}
+  "failures": {
+    "qbitai": "TimeoutExpired(['C:\\\\Program Files (x86)\\\\Microsoft\\\\Edge\\\\Application\\\\msedge.exe', '--headless=new', '--disable-gpu', '--no-first-run', '--disable-extensions', '--user-data-dir=F:\\\\Hermes\\\\weather_app\\\\.hot-news-fetch-profile\\\\qbitai', '--dump-dom', 'https://www.qbitai.com/wp-json/wp/v2/posts?per_page=30&_embed=1'], 75)"
+  }
 }
