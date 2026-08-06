@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T09:11:34Z",
+  "updatedAt": "2026-08-06T09:26:27Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -238,19 +238,19 @@
         "hotTitle": "烽火职业联赛夏季赛"
       },
       {
-        "title": "歌手2026总决赛阵容官宣",
-        "url": "https://www.bilibili.com/video/BV1uPuE6dEJw",
+        "title": "【三角洲行动】2026主播巅峰赛总决赛进行中!-2026.08.02",
+        "url": "https://www.bilibili.com/video/BV1tm396FEyn",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1uPuE6dEJw",
-        "author": "东方甄姬",
-        "duration": "8:32",
-        "cover": "//i2.hdslb.com/bfs/archive/7abeb2c430e5efeeb487badd31bf712e87ff8360.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uPuE6dEJw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1tm396FEyn",
+        "author": "小叽播",
+        "duration": "262:23",
+        "cover": "//i2.hdslb.com/bfs/archive/4789a7db622f78d09f4d157814a0bc560d2e485f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tm396FEyn&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "歌手2026总决赛阵容官宣"
       },
       {
@@ -960,6 +960,36 @@
         "rank": 5
       },
       {
+        "title": "高盛、摩根大通大幅增持中际旭创，持仓比例分别升至12.19%和13.72%",
+        "url": "https://m.36kr.com/newsflashes/3927838089541763",
+        "desc": "据香港交易所披露，高盛对中际旭创H股的多头持仓比例于2026年8月3日从11.65%增至12.19%。摩根大通（JPMorgan）对中际旭创H股的多头持仓比例于2026年7月31日从5.6%增至13.72%。",
+        "cover": "",
+        "date": 1786008211519,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "上港集团：预计7月完成母港集装箱吞吐量同比增长1.3%",
+        "url": "https://m.36kr.com/newsflashes/3927824158685568",
+        "desc": "36氪获悉，上港集团公告，7月公司预计完成母港集装箱吞吐量467.8万标准箱，同比增长1.3%；预计完成母港货物吞吐量4889.9万吨，同比下降3.8%。",
+        "cover": "",
+        "date": 1786007896000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "Meta推出Muse Code：面向大型代码库的AI智能体",
+        "url": "https://m.36kr.com/newsflashes/3927818225105285",
+        "desc": "在人工智能应用赛道一度略显落后的Meta，正加速追赶同行。本周，该公司推出一款全新终端编码智能体，帮助程序员处理大型软件代码库中的复杂开发任务。Meta首席执行官马克・扎克伯格周三在社交媒体发文表示，目前处于测试版的Muse Code能够“在大型代码仓库中完成完整软件工程任务”，涵盖“方案规划、代码编写、结果验证”全流程。用户仅需一条命令即可安装Muse Code，底层依托Meta此前发布的代码大模型Muse Spark。面对大型项目时，它会自动生成多个智能体并行开展工作。（新浪财经）",
+        "cover": "",
+        "date": 1786007591000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
         "title": "九天睿芯实现单卡跑万亿参数模型",
         "url": "https://m.36kr.com/newsflashes/3927826151635073",
         "desc": "近日，深圳存算一体AI芯片创企九天睿芯发布了一套面向超大MoE模型的推理部署方案。该方案在“单卡+4 SSD”的配置下，让DeepSeek-V4在decode阶段的速度跑到了约20 TPS，具备了真正可用的吞吐量。据了解，九天睿芯已于去年开始，作为国内首家与关键存储合作伙伴研发基于HBF和sram存算一体堆叠的万亿参数AI推理芯片。",
@@ -967,7 +997,7 @@
         "date": 1786007482887,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "中汽协：6月汽车商品进出口总额318.2亿美元，同比增长35.5%",
@@ -977,7 +1007,7 @@
         "date": 1786007350000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "百奥赛图：预计2026年半年度净利润同比增长391.87%-412.71%",
@@ -987,7 +1017,7 @@
         "date": 1786007293460,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "贵州轮胎：境外子公司收到美国关税退税约8135.87万元",
@@ -997,7 +1027,7 @@
         "date": 1786007159000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "网信办对派拓公司在华销售产品启动网络安全审查",
@@ -1007,7 +1037,7 @@
         "date": 1786007084062,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "天通股份：公司不存在其他应披露而未披露的重大信息",
@@ -1017,7 +1047,7 @@
         "date": 1786006941690,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "宏碁上半年净利润28.74亿元新台币",
@@ -1027,7 +1057,7 @@
         "date": 1786006709000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "兆易创新：披露回购股份事项前十大股东持股情况",
@@ -1037,7 +1067,7 @@
         "date": 1786006621353,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "绿联科技：发行境外上市股份（H 股）获得中国证监会备案",
@@ -1047,7 +1077,7 @@
         "date": 1786006378229,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "贝恩资本拟收购贡茶，竞争对手MBK Partners正承受韩国本土监管压力",
@@ -1057,17 +1087,17 @@
         "date": 1786006322422,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
-        "title": "前小鹏副总裁陈永海加入众擎机器人 担任运营总裁",
+        "title": "前小鹏副总裁陈永海加入众擎机器人，担任运营总裁",
         "url": "https://m.36kr.com/newsflashes/3927802404239746",
-        "desc": "前小鹏集团产品副总裁陈永海已加入众擎机器人，担任运营总裁，向董事长及CEO赵同阳汇报。陈永海此前是高德地图产品运营的负责人，2022年加入小鹏，后又负责其产品中心。 （21财经）",
+        "desc": "前小鹏集团产品副总裁陈永海已加入众擎机器人，担任运营总裁，向董事长及CEO赵同阳汇报。陈永海此前是高德地图产品运营的负责人，2022年加入小鹏，后又负责其产品中心。（21财经）",
         "cover": "",
         "date": 1786006033461,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "美团：燃油费下调当日，机票搜索量同比涨42%",
@@ -1077,7 +1107,7 @@
         "date": 1786005476932,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "本田拟将新车型平台开发首次外包给印度塔塔技术，以降低研发成本",
@@ -1087,7 +1117,7 @@
         "date": 1786005159902,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "长飞光纤：不存在应披露而未披露的重大信息",
@@ -1097,7 +1127,7 @@
         "date": 1786004633277,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "恒指收跌1.49%，恒生科技指数跌2.28%",
@@ -1107,7 +1137,7 @@
         "date": 1786003825959,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 23
       },
       {
         "title": "台积电N2制程产能充足但DRAM短缺，苹果iPhone 18备货面临压力",
@@ -1117,7 +1147,7 @@
         "date": 1786003182656,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 24
       },
       {
         "title": "DeepSeek近期获国家人工智能产业投资基金等入股",
@@ -1127,45 +1157,15 @@
         "date": 1786002773764,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "字节跳动梁汝波：大语言模型坚持自研，接受短期落后",
-        "url": "https://m.36kr.com/newsflashes/3927745926183299",
-        "desc": "36氪获悉，8月6日，字节跳动CEO梁汝波在2026年中全员会上表示，大语言模型被海外领先模型拉开差距，但字节将坚持自研，做好基本功，接受短期落后，坚持优化长期。梁汝波称，坚持自研并非因外部压力，而是希望团队延迟满足感、打好技术基础，对长期实现AGI至关重要。创造力服务平台负责人谭待表示，在ToB领域只有SOTA模型才能率先解锁高经济价值场景，视频生成模型Seedance 2.0已推动该技术从“玩具”进入严肃商业内容生产，其调用量工作日远高于周末。",
-        "cover": "",
-        "date": 1786002586314,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "联电7月销售额238.4亿元新台币，同比增长19%",
-        "url": "https://m.36kr.com/newsflashes/3927743504103556",
-        "desc": "联电8月6日公布，7月销售额238.4亿元新台币，同比增长19%。（界面）",
-        "cover": "",
-        "date": 1786002438482,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 24
-      },
-      {
-        "title": "字节跳动全员会：整合豆包、飞书与火山引擎，AI业务重点转向ToB生产力",
-        "url": "https://m.36kr.com/newsflashes/3927735085807747",
-        "desc": "8月6日，字节跳动CEO梁汝波在年中全员会上介绍豆包、飞书、火山引擎整合背景时表示，AI在生产力上的发展快于预期，ToB变得更重要，飞书新增客户中已有超九成同步采购飞书AI产品。梁汝波将字节业务战略原则总结为“高度优先，粗主干，优化长期”，三大核心业务为AI、信息平台与交易服务，三者紧密相关，均通过计算换智能实现公司使命。抖音作为\"主干\"业务拉动电商与生活服务，未来豆包也将成为“主干”。",
-        "cover": "",
-        "date": 1786001924670,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786007462772,
-    "bilibili": 1786007472220,
-    "qbitai": 1786007494163,
-    "36kr": 1786007494745
+    "thepaper": 1786008363359,
+    "bilibili": 1786007427589,
+    "qbitai": 1786008387091,
+    "36kr": 1786008387606
   },
   "failures": {}
 }
