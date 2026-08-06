@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T14:42:18Z",
+  "updatedAt": "2026-08-06T14:57:11Z",
   "liveSourceCount": 3,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "一化儿粉丝破1000万"
       },
       {
-        "title": "【IG vs NIP】二路解说 2026LPL第3赛段",
-        "url": "https://www.bilibili.com/video/BV13Fun6TE17",
+        "title": "【真实锐评】NIP战胜IG，theshy比赛练英雄！大胆！！！！",
+        "url": "https://www.bilibili.com/video/BV1acup6VEfX",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "IG vs NIP",
-        "content": "IG vs NIP",
-        "bvid": "BV13Fun6TE17",
-        "author": "电竞天幕guesser",
-        "duration": "2108:25",
-        "cover": "//i0.hdslb.com/bfs/archive/089a9081fb875a0af84c7aee97fa009528d7c4ad.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13Fun6TE17&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1acup6VEfX",
+        "author": "真实电竞",
+        "duration": "5:41",
+        "cover": "//i1.hdslb.com/bfs/archive/e0c9472bd6e1ee7274967a21168695b87a7e5544.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1acup6VEfX&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "NIP战胜IG"
       },
       {
@@ -526,19 +526,19 @@
         "hotTitle": "盘点张雅琪中餐厅表现"
       },
       {
-        "title": "【TryTryz】VCTCN入围赛FPX对阵JDG.WOL对阵DRG 2026/08/06 15时场 直播回放",
-        "url": "https://www.bilibili.com/video/BV1f4un6mEkr",
+        "title": "【2026VCTCN第二赛段】8月6日 WOL vs DRG",
+        "url": "https://www.bilibili.com/video/BV1eRuJ6zEDE",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "主播：TryTryz｜开播时间：2026年08月06日 15:50 标题：VCTCN入围赛FPX对阵JDG.WOL对阵DRG 直播间：https://live.douyin.com/23406469421 内容仅供娱乐，主播言论、观点、行为均由本人负责，不代表录播员立场。 切片随便剪，无需私信问我，记得带上原视频出处就好，多谢支持～",
-        "content": "主播：TryTryz｜开播时间：2026年08月06日 15:50 标题：VCTCN入围赛FPX对阵JDG.WOL对阵DRG 直播间：https://live.douyin.com/23406469421 内容仅供娱乐，主播言论、观点、行为均由本人负责，不代表录播员立场。 切片随便剪，无需私信问我，记得带上原视频出处就好，多谢支持～",
-        "bvid": "BV1f4un6mEkr",
-        "author": "泽瑞拉录像机",
-        "duration": "360:3",
-        "cover": "//i2.hdslb.com/bfs/archive/7ea2300c94a6da8ca7920d6fc1f23f33c8e387a1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1f4un6mEkr&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026VCTCN第二赛段】8月6日 WOL vs DRG",
+        "content": "【2026VCTCN第二赛段】8月6日 WOL vs DRG",
+        "bvid": "BV1eRuJ6zEDE",
+        "author": "无畏契约赛事",
+        "duration": "190:28",
+        "cover": "//i0.hdslb.com/bfs/archive/9a10b0f7fca4450b800adf12e66c20b05ba9fa2e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eRuJ6zEDE&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "DRG战胜WOL VCT第二赛段"
       },
       {
@@ -1162,9 +1162,9 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786027263353,
-    "bilibili": 1786027274525,
-    "36kr": 1786027338143
+    "thepaper": 1786028162206,
+    "bilibili": 1786027245244,
+    "36kr": 1786028231988
   },
   "failures": {
     "qbitai": "RuntimeError('QbitAI JSON not found')"
