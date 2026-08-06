@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T22:27:06Z",
+  "updatedAt": "2026-08-06T22:41:59Z",
   "liveSourceCount": 3,
   "sources": {
     "thepaper": [
@@ -94,32 +94,32 @@
         "rank": 15
       },
       {
+        "title": "重庆“代人信访被判寻衅滋事”案检方撤诉、警方撤案，两被告人获国赔",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33729904",
+        "desc": "",
+        "rank": 16
+      },
+      {
         "title": "难以落地的动迁款：深圳罗湖区两村民追讨两千万元动迁款八年未果",
         "url": "https://www.thepaper.cn/newsDetail_forward_33573360",
         "desc": "",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "寻亲之后｜③申军良回忆死刑犯张维平供出“梅姨”过程，以及“梅姨”两张模拟画像来历",
         "url": "https://www.thepaper.cn/newsDetail_forward_33709000",
         "desc": "",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "重庆一粮食系统职工举报被单位提前退休，涉事公司否认：系自愿申请",
         "url": "https://www.thepaper.cn/newsDetail_forward_33728081",
         "desc": "",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
         "url": "https://www.thepaper.cn/newsDetail_forward_33727851",
-        "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "开麦丨 一枚胚胎，撕开了婚姻保护的哪道口子？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33730739",
         "desc": "",
         "rank": 20
       }
@@ -1152,9 +1152,9 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786055161687,
+    "thepaper": 1786056061754,
     "bilibili": 1786054443176,
-    "36kr": 1786055226816
+    "36kr": 1786056119556
   },
   "failures": {
     "qbitai": "RuntimeError('QbitAI JSON not found')"
