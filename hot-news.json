@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T19:27:06Z",
+  "updatedAt": "2026-08-06T19:41:59Z",
   "liveSourceCount": 3,
   "sources": {
     "thepaper": [
@@ -82,14 +82,14 @@
         "rank": 13
       },
       {
-        "title": "解放军报刊文：日本频繁军演凸显危险扩张图谋",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33727340",
+        "title": "金融学者、山东财大教授刘海明逝世，终年38岁",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33727611",
         "desc": "",
         "rank": 14
       },
       {
-        "title": "金融学者、山东财大教授刘海明逝世，终年38岁",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33727611",
+        "title": "解放军报刊文：日本频繁军演凸显危险扩张图谋",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33727340",
         "desc": "",
         "rank": 15
       },
@@ -1152,9 +1152,9 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786044362014,
+    "thepaper": 1786045261873,
     "bilibili": 1786043488537,
-    "36kr": 1786044426915
+    "36kr": 1786045319083
   },
   "failures": {
     "qbitai": "RuntimeError('QbitAI JSON not found')"
