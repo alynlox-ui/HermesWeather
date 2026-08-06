@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T16:42:04Z",
+  "updatedAt": "2026-08-06T16:56:50Z",
   "liveSourceCount": 3,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "【2026LPL第三赛段】8月6日 WE vs AL",
-        "url": "https://www.bilibili.com/video/BV1dRuH67EzM",
+        "title": "【LPL赛事速看】第三赛段W3D2: LGD二比一击败TT NIP让一追二战胜IG WE二比零拿下AL",
+        "url": "https://www.bilibili.com/video/BV1j3uH6mEZ5",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026LPL第三赛段】8月6日 WE vs AL",
-        "content": "【2026LPL第三赛段】8月6日 WE vs AL",
-        "bvid": "BV1dRuH67EzM",
+        "description": "【LPL赛事速看】第三赛段W3D2: LGD二比一击败TT NIP让一追二战胜IG WE二比零拿下AL",
+        "content": "【LPL赛事速看】第三赛段W3D2: LGD二比一击败TT NIP让一追二战胜IG WE二比零拿下AL",
+        "bvid": "BV1j3uH6mEZ5",
         "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "131:14",
-        "cover": "//i2.hdslb.com/bfs/archive/61d86eb27d1d68ed194cc172ba58210da71bf131.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dRuH67EzM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "50:11",
+        "cover": "//i0.hdslb.com/bfs/archive/b473de82ec3b240caa91c3b06f02da43a336e580.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j3uH6mEZ5&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "WE战胜AL"
       },
       {
@@ -521,7 +521,7 @@
         "bvid": "BV1fSuH6DERw",
         "author": "中气爱",
         "duration": "3:28",
-        "cover": "//i0.hdslb.com/bfs/archive/121d7b24ff603adcaaadb95c0ff166c18734d0fd.jpg",
+        "cover": "//i2.hdslb.com/bfs/archive/478d00ff18861e8539e7ac5f2cde8cd7cbf18f1d.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fSuH6DERw&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "台风白海豚锁定华东"
       },
@@ -1152,9 +1152,9 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786034462019,
-    "bilibili": 1786034468832,
-    "36kr": 1786034524757
+    "thepaper": 1786035366665,
+    "bilibili": 1786034453606,
+    "36kr": 1786035410735
   },
   "failures": {
     "qbitai": "RuntimeError('QbitAI JSON not found')"
