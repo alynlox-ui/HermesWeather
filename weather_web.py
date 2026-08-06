@@ -101,7 +101,7 @@ class H(BaseHTTPRequestHandler):
    finally:
     if acquired:self.article_slots.release()
   elif u.path=='/health':
-   self.sendj({'status':'ok','service':'hermes-weather-web'})
+   self.sendj({'status':'ok','service':'hermes-weather-web','crawlerRevision':'ai-news-1.8.0-blocked-stack-v2'})
   elif u.path in ('/','/index.html'):
    self.send_static(ROOT/'index.html','text/html; charset=utf-8',300)
   elif u.path=='/hot-news.json':
