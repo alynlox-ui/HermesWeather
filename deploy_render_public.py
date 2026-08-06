@@ -111,14 +111,14 @@ def main():
     req = urllib.request.Request(PUBLIC_URL + "?public_verify=" + str(time.time()), headers={"User-Agent": "Mozilla/5.0 MicroMessenger/8.0"})
     with urllib.request.urlopen(req, timeout=90) as resp:
         body = resp.read()
-        print("PUBLIC_ROOT", resp.status, len(body), "VERSION", b"1.9.0-study-goals" in body, "STUDY", b"studyFrame" in body, flush=True)
-        if b"1.9.0-study-goals" not in body or b"studyFrame" not in body:
+        print("PUBLIC_ROOT", resp.status, len(body), "VERSION", b"1.9.1-study-clean" in body, "STUDY", b"study-nav-icon" in body, flush=True)
+        if b"1.9.1-study-clean" not in body or b"study-nav-icon" not in body:
             print("PUBLIC_VERSION_MISMATCH", flush=True)
             return 8
     with urllib.request.urlopen(PUBLIC_URL + "study-goal-tracker.html?public_verify=" + str(time.time()), timeout=90) as resp:
         study = resp.read()
-        print("PUBLIC_STUDY", resp.status, len(study), "STORAGE", b"wb_study_goal_tracker_data" in study, flush=True)
-        if b"wb_study_goal_tracker_data" not in study:
+        print("PUBLIC_STUDY", resp.status, len(study), "STORAGE", b"wb_study_goal_tracker_data" in study, "NO_EXAMPLES", b"id:'ex-1'" not in study, flush=True)
+        if b"wb_study_goal_tracker_data" not in study or b"id:'ex-1'" in study:
             return 10
     with urllib.request.urlopen(PUBLIC_URL + "hot-news.json?public_verify=" + str(time.time()), timeout=90) as resp:
         snapshot = resp.read()
