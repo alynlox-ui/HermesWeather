@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 class StudyIntegrationTests(unittest.TestCase):
     def test_main_app_exposes_embedded_study_goal_column(self):
         source = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.assertIn('name="app-version" content="1.9.0-study-goals"', source)
+        self.assertIn('name="app-version" content="1.9.1-study-clean"', source)
         self.assertIn('data-view="study"', source)
         self.assertIn('id="studyView"', source)
         self.assertIn('id="studyFrame"', source)
@@ -24,6 +24,9 @@ class StudyIntegrationTests(unittest.TestCase):
         self.assertIn('allow="clipboard-read; clipboard-write"', source)
         self.assertIn("study:'学习目标'", source)
         self.assertIn("name==='study'", source)
+        self.assertIn('class="study-nav-icon"', source)
+        self.assertIn('.study-nav-icon svg{width:24px;height:24px;', source)
+        self.assertNotIn('title="学习目标">◎</button>', source)
         self.assertNotIn("@media(max-width:680px){.nav{grid-template-columns:repeat(3", source)
         self.assertIn("@media(max-width:680px){.nav{grid-template-columns:repeat(4", source)
         self.assertIn(".study-frame{height:calc(100vh - 140px);min-height:520px}", source)
@@ -44,9 +47,22 @@ class StudyIntegrationTests(unittest.TestCase):
             ".section-header .section-title{white-space:nowrap;flex:1}",
             ".section-title svg{width:18px;height:18px;flex-shrink:0}",
             "if(!TAB_TITLES[data.activeTab])data.activeTab='today';",
-            "weeklyReports:{},\n    activeTab:'today',",
+            "function getInitialData()",
+            "version:3",
         ):
             self.assertIn(contract, source)
+        for removed in (
+            "isExample:true",
+            "isExample:false",
+            "id:'ex-1'",
+            "id:'ex-2'",
+            "id:'ex-3'",
+            "function clearExampleData(",
+            "清空示例数据",
+        ):
+            self.assertNotIn(removed, source)
+        self.assertIn("g.isExample===true||/^ex-\\d+$/.test(String(g.id||''))", source)
+        self.assertIn("var removedIds=Object.create(null);", source)
 
     def test_server_serves_embedded_study_app_with_gzip(self):
         server = ThreadingHTTPServer(("127.0.0.1", 0), H)
@@ -70,7 +86,7 @@ class StudyIntegrationTests(unittest.TestCase):
             response = conn.getresponse()
             health = json.loads(response.read())
             self.assertEqual(200, response.status)
-            self.assertEqual("web-1.9.0-study-goals", health["crawlerRevision"])
+            self.assertEqual("web-1.9.1-study-clean", health["crawlerRevision"])
         finally:
             server.shutdown()
             server.server_close()
