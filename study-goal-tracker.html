@@ -93,7 +93,7 @@ input[type=text],input[type=number],input[type=date],select,textarea{font-size:1
 
 /* === Badges === */
 .badge{display:inline-flex;align-items:center;padding:2px 8px;border-radius:var(--pill);font-size:.7rem;font-weight:600;gap:3px}
-.badge-example{background:var(--priBg);color:var(--pri)}
+
 .badge-backfill{background:var(--warnBg);color:var(--warn)}
 .badge-overdue{background:var(--errBg);color:var(--err)}
 .badge-rest{background:var(--warnBg);color:var(--warn)}
@@ -339,7 +339,7 @@ const NAV_ITEMS=[
 const BACKFILL_DAYS=6; // 可补记最近6天
 
 // ===== 状态 =====
-let state={goals:[],records:[],weeklyReports:{},activeTab:'today',version:2};
+let state={goals:[],records:[],weeklyReports:{},activeTab:'today',version:3};
 
 // ===== SVG 图标 =====
 const IC={
@@ -390,61 +390,36 @@ function getCurrentWeekKey(){return getWeekKey(new Date());}
 function loadData(){
   try{
     var raw=localStorage.getItem(K);
-    if(!raw){var ex=getExampleData();state=ex;saveData();return;}
+    if(!raw){state=getInitialData();saveData();return;}
     var data=JSON.parse(raw);
     state=migrateData(data);
     saveData();
-  }catch(e){console.error('load error',e);state=getExampleData();saveData();}
+  }catch(e){console.error('load error',e);state=getInitialData();saveData();}
 }
 function saveData(){try{localStorage.setItem(K,JSON.stringify(state));}catch(e){console.error('save error',e);showToast('保存失败：存储空间可能已满');}}
 function migrateData(data){
-  if(!data)return getExampleData();
-  if(!data.version||data.version<2){
-    (data.records||[]).forEach(function(r){if(r.isBackfill===undefined)r.isBackfill=false;});
-    data.version=2;
-  }
+  if(!data)return getInitialData();
   if(!data.goals)data.goals=[];
   if(!data.records)data.records=[];
+  if(!data.version||data.version<2){
+    (data.records||[]).forEach(function(r){if(r.isBackfill===undefined)r.isBackfill=false;});
+  }
+  var removedIds=Object.create(null);
+  data.goals=data.goals.filter(function(g){
+    var sample=g.isExample===true||/^ex-\d+$/.test(String(g.id||''));
+    if(sample)removedIds[g.id]=true;
+    return!sample;
+  });
+  data.records=data.records.filter(function(r){return!removedIds[r.goalId];});
   if(!data.weeklyReports)data.weeklyReports={};
   if(!TAB_TITLES[data.activeTab])data.activeTab='today';
+  data.version=3;
   return data;
 }
 
-// ===== 示例数据 =====
-function getExampleData(){
-  var d=function(n){return dateToStr(addDays(new Date(),-n));};
-  return{
-    goals:[
-      {id:'ex-1',name:'背英语单词',unit:'个',total:2000,deadline:dateToStr(addDays(new Date(),147)),color:'#7c3aed',
-        obstacle:'容易刷手机分心',countermeasure:'如果拿起手机刷短视频，就立刻放下做10个深蹲',
-        createdAt:d(20),isExample:true},
-      {id:'ex-2',name:'读《人类简史》',unit:'页',total:440,deadline:dateToStr(addDays(new Date(),40)),color:'#0891b2',
-        obstacle:'晚上太累不想看',countermeasure:'如果晚上不想看，就改到早晨通勤时听有声书',
-        createdAt:d(15),isExample:true},
-      {id:'ex-3',name:'Python入门课',unit:'节',total:60,deadline:d(2),color:'#059669',
-        obstacle:'遇到报错容易放弃',countermeasure:'如果卡住超过20分钟，就跳过先做下一节',
-        createdAt:d(18),isExample:true}
-    ],
-    records:[
-      {id:uid(),goalId:'ex-1',date:d(6),amount:50,minutes:30,isBackfill:false,createdAt:d(6)},
-      {id:uid(),goalId:'ex-1',date:d(5),amount:45,minutes:25,isBackfill:false,createdAt:d(5)},
-      {id:uid(),goalId:'ex-1',date:d(4),amount:60,minutes:35,isBackfill:false,createdAt:d(4)},
-      {id:uid(),goalId:'ex-1',date:d(3),amount:55,minutes:30,isBackfill:false,createdAt:d(3)},
-      {id:uid(),goalId:'ex-1',date:d(2),amount:50,minutes:30,isBackfill:true,createdAt:d(0)},
-      {id:uid(),goalId:'ex-2',date:d(5),amount:20,minutes:40,isBackfill:false,createdAt:d(5)},
-      {id:uid(),goalId:'ex-2',date:d(4),amount:25,minutes:50,isBackfill:false,createdAt:d(4)},
-      {id:uid(),goalId:'ex-2',date:d(2),amount:30,minutes:60,isBackfill:false,createdAt:d(2)},
-      {id:uid(),goalId:'ex-3',date:d(9),amount:5,minutes:150,isBackfill:false,createdAt:d(9)},
-      {id:uid(),goalId:'ex-3',date:d(8),amount:4,minutes:120,isBackfill:false,createdAt:d(8)},
-      {id:uid(),goalId:'ex-3',date:d(7),amount:5,minutes:150,isBackfill:false,createdAt:d(7)},
-      {id:uid(),goalId:'ex-3',date:d(6),amount:4,minutes:120,isBackfill:false,createdAt:d(6)},
-      {id:uid(),goalId:'ex-3',date:d(5),amount:5,minutes:150,isBackfill:true,createdAt:d(1)},
-      {id:uid(),goalId:'ex-3',date:d(4),amount:3,minutes:90,isBackfill:true,createdAt:d(1)}
-    ],
-    weeklyReports:{},
-    activeTab:'today',
-    version:2
-  };
+// ===== 初始数据 =====
+function getInitialData(){
+  return{goals:[],records:[],weeklyReports:{},activeTab:'today',version:3};
 }
 
 // ===== 核心计算 =====
@@ -706,7 +681,6 @@ function renderTodayGoalCard(g){
   var h='<div class="'+cls+'">';
   // Header
   h+='<div class="goal-header"><div class="goal-title"><span class="goal-color-dot" style="background:'+g.color+'"></span>'+esc(g.name);
-  if(g.isExample)h+=' <span class="badge badge-example">示例</span>';
   if(done)h+=' <span class="badge badge-done">已完成</span>';
   if(overdue&&!done)h+=' <span class="badge badge-overdue">逾期'+getOverdueDays(g)+'天</span>';
   h+='</div><div class="flex gap-4">';
@@ -835,7 +809,6 @@ function renderBoardGoalCard(g){
   h+='<div class="ring-wrap">'+svgProgressRing(rate,g.color,80)+'</div>';
   h+='<div class="flex-1">';
   h+='<div class="goal-title"><span class="goal-color-dot" style="background:'+g.color+'"></span>'+esc(g.name);
-  if(g.isExample)h+=' <span class="badge badge-example">示例</span>';
   if(done)h+=' <span class="badge badge-done">已完成</span>';
   if(overdue&&!done)h+=' <span class="badge badge-overdue">逾期'+getOverdueDays(g)+'天</span>';
   h+='</div>';
@@ -1068,10 +1041,7 @@ function renderMine(){
   h+='</div>';
   // 数据管理
   h+='<div class="card"><div class="section-title mb-8">数据管理</div>';
-  var hasEx=state.goals.some(function(g){return g.isExample;});
-  if(hasEx){
-    h+='<button class="btn btn-ghost btn-block mb-8" onclick="clearExampleData()">'+icon('trash')+'清空示例数据</button>';
-  }
+
   h+='<button class="btn btn-ghost btn-block mb-8" onclick="migrateOldData()">'+icon('refresh')+'检查并迁移旧版数据</button>';
   h+='<div class="divider"></div>';
   h+='<div class="form-group">';
@@ -1157,7 +1127,7 @@ function saveGoal(goalId){
     if(g){g.name=name;g.unit=unit;g.total=total;g.deadline=deadline;g.color=_selColor;g.obstacle=obs;g.countermeasure=cnt;}
     showToast('目标已更新');
   }else{
-    state.goals.push({id:uid(),name:name,unit:unit,total:total,deadline:deadline,color:_selColor,obstacle:obs,countermeasure:cnt,createdAt:todayStr(),isExample:false});
+    state.goals.push({id:uid(),name:name,unit:unit,total:total,deadline:deadline,color:_selColor,obstacle:obs,countermeasure:cnt,createdAt:todayStr()});
     showToast('目标已创建');
   }
   saveData();closeModal();renderAll();
@@ -1286,22 +1256,11 @@ function handleImportFile(event){
 }
 
 // ===== 清空 =====
-function clearExampleData(){
-  var exG=state.goals.filter(function(g){return g.isExample;});
-  if(exG.length===0){showToast('没有示例数据');return;}
-  var exIds=exG.map(function(g){return g.id;});
-  var exR=state.records.filter(function(r){return exIds.indexOf(r.goalId)>=0;}).length;
-  openConfirmModal('确定清空'+exG.length+'个示例目标'+(exR>0?'和'+exR+'条示例记录':'')+'？',function(){
-    state.goals=state.goals.filter(function(g){return !g.isExample;});
-    state.records=state.records.filter(function(r){return exIds.indexOf(r.goalId)<0;});
-    saveData();closeModal();showToast('示例数据已清空');renderAll();
-  });
-}
 function clearAllData(){
   var input=document.getElementById('clear-confirm');
   if(!input||input.value!=='清空'){showToast('请输入"清空"以确认');return;}
   openConfirmModal('此操作将清空所有数据（目标、记录、周报），不可恢复！确定继续？',function(){
-    state={goals:[],records:[],weeklyReports:{},activeTab:'today',version:2};
+    state=getInitialData();
     selectedWeek=getCurrentWeekKey();
     saveData();closeModal();showToast('所有数据已清空');renderAll();
   });
