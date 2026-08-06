@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T20:26:59Z",
+  "updatedAt": "2026-08-06T20:42:05Z",
   "liveSourceCount": 3,
   "sources": {
     "thepaper": [
@@ -1152,9 +1152,9 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786047961808,
+    "thepaper": 1786048862027,
     "bilibili": 1786047108128,
-    "36kr": 1786048019651
+    "36kr": 1786048925755
   },
   "failures": {
     "qbitai": "RuntimeError('QbitAI JSON not found')"
