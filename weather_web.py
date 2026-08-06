@@ -59,6 +59,16 @@ def weather(city):
  return {'place':q,'data':d,'query':raw}
 
 class H(BaseHTTPRequestHandler):
+ article_slots=threading.BoundedSemaphore(4)
+ article_rate_lock=threading.Lock()
+ article_rate={}
+ def allow_article_request(self):
+  now=time.monotonic();client=self.client_address[0]
+  with self.article_rate_lock:
+   recent=[stamp for stamp in self.article_rate.get(client,[]) if now-stamp<60]
+   if len(recent)>=20:return False
+   recent.append(now);self.article_rate[client]=recent
+  return True
  def sendj(self,obj,status=200):
   b=json.dumps(obj,ensure_ascii=False).encode();self.send_response(status);self.send_header('Content-Type','application/json; charset=utf-8');self.send_header('Access-Control-Allow-Origin','*');self.send_header('Access-Control-Allow-Methods','GET, HEAD, OPTIONS');self.send_header('Access-Control-Allow-Headers','Content-Type');self.send_header('Cache-Control','no-store');self.send_header('Content-Length',len(b));self.end_headers();self.wfile.write(b)
  def send_static(self,path,content_type,cache_seconds):
@@ -79,11 +89,17 @@ class H(BaseHTTPRequestHandler):
     try:self.sendj(weather(parse_qs(u.query).get('city',['北京'])[0]))
     except Exception as e:self.sendj({'error':str(e)},400)
   elif u.path=='/api/news/article':
+   acquired=False
    try:
+    if not self.allow_article_request():return self.sendj({'error':'请求过于频繁，请稍后重试'},429)
+    acquired=self.article_slots.acquire(blocking=False)
+    if not acquired:return self.sendj({'error':'正文抓取繁忙，请稍后重试'},429)
     target=parse_qs(u.query).get('url',[''])[0]
     if not target: raise ValueError('新闻网址不能为空')
     self.sendj(fetch_article(target))
    except Exception as e:self.sendj({'error':str(e)},400)
+   finally:
+    if acquired:self.article_slots.release()
   elif u.path=='/health':
    self.sendj({'status':'ok','service':'hermes-weather-web'})
   elif u.path in ('/','/index.html'):
