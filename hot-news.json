@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T15:41:53Z",
+  "updatedAt": "2026-08-06T15:57:04Z",
   "liveSourceCount": 3,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "U17国足三连胜"
       },
       {
-        "title": "【2026LPL第三赛段】8月6日 IG vs NIP",
-        "url": "https://www.bilibili.com/video/BV1GZuJ6BEWB",
+        "title": "【楚钧艾克】IG vs NIP第一局！IG劣势Wei神秘偷大龙太关键了啊！Care完全没有用啊！",
+        "url": "https://www.bilibili.com/video/BV1yiuH68Edy",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026LPL第三赛段】8月6日 IG vs NIP",
-        "content": "【2026LPL第三赛段】8月6日 IG vs NIP",
-        "bvid": "BV1GZuJ6BEWB",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "196:30",
-        "cover": "//i1.hdslb.com/bfs/archive/875683562adb767cb712529ef5fc74855fbcbea0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GZuJ6BEWB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1yiuH68Edy",
+        "author": "库容思",
+        "duration": "23:17",
+        "cover": "//i0.hdslb.com/bfs/archive/93207c343d31f2afd1bc7ddc30946227a3ccc1c6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yiuH68Edy&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "NIP战胜IG"
       },
       {
@@ -1162,9 +1162,9 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786030862040,
-    "bilibili": 1786030870339,
-    "36kr": 1786030913061
+    "thepaper": 1786031762007,
+    "bilibili": 1786030849313,
+    "36kr": 1786031824155
   },
   "failures": {
     "qbitai": "RuntimeError('QbitAI JSON not found')"
