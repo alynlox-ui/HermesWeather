@@ -44,6 +44,7 @@ class ArticleExtractor(HTMLParser):
         self.content_blocks: list[dict[str, str]] = []
         self._tag_stack: list[str] = []
         self._content_markers: list[bool] = []
+        self._blocked_markers: list[bool] = []
         self._content_depth = 0
         self._text: list[str] = []
         self._in_title = False
@@ -57,12 +58,16 @@ class ArticleExtractor(HTMLParser):
         attrs_dict = {k.lower(): v or "" for k, v in attrs}
         classes = set(attrs_dict.get("class", "").split())
         content_marker = tag in {"article", "main"} or bool(classes & ARTICLE_CLASSES)
+        blocked_marker = tag in BLOCKED_TAGS
+        if blocked_marker and self._text and not self._blocked:
+            self._flush_text()
         if tag not in VOID_TAGS:
             self._tag_stack.append(tag)
             self._content_markers.append(content_marker)
+            self._blocked_markers.append(blocked_marker)
             if content_marker:
                 self._content_depth += 1
-        if tag in BLOCKED_TAGS:
+        if blocked_marker:
             self._blocked += 1
         if tag == "title":
             self._in_title = True
@@ -99,18 +104,18 @@ class ArticleExtractor(HTMLParser):
         tag = tag.lower()
         if tag == "title":
             self._in_title = False
-        if tag in BLOCKED_TAGS and self._blocked:
-            self._blocked -= 1
-        if tag in CONTENT_TAGS and self._text and not self._blocked:
-            self._flush_text()
         if tag not in self._tag_stack:
             return
         index = len(self._tag_stack) - 1 - self._tag_stack[::-1].index(tag)
+        if tag in CONTENT_TAGS and self._text and not self._blocked:
+            self._flush_text()
         for marker in self._content_markers[index:]:
             if marker:
                 self._content_depth = max(0, self._content_depth - 1)
+        self._blocked = max(0, self._blocked - sum(self._blocked_markers[index:]))
         del self._tag_stack[index:]
         del self._content_markers[index:]
+        del self._blocked_markers[index:]
         self._in_content = self._content_depth > 0
 
     def handle_data(self, data: str) -> None:
