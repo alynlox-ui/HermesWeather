@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T08:26:33Z",
+  "updatedAt": "2026-08-06T08:41:31Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -40,50 +40,50 @@
         "rank": 6
       },
       {
-        "title": "河南汝州一公职人员被举报在职校开餐厅超市，本人回应称“是给别人帮忙”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33718933",
-        "desc": "",
-        "rank": 7
-      },
-      {
         "title": "暮年常沙娜：记忆消逝处，不褪色的敦煌人生",
         "url": "https://www.thepaper.cn/newsDetail_forward_33688086",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "犬伤门诊迎接诊高峰：多数患者被家养宠物咬伤，还有人因接触蝙蝠就诊",
         "url": "https://www.thepaper.cn/newsDetail_forward_33719606",
         "desc": "",
-        "rank": 9
+        "rank": 8
       },
       {
         "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
         "url": "https://www.thepaper.cn/newsDetail_forward_33720253",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
         "url": "https://www.thepaper.cn/newsDetail_forward_33728067",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "马上评｜笔试第一却被劝出局，这些疑点要全面核查",
         "url": "https://www.thepaper.cn/newsDetail_forward_33719868",
         "desc": "",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "“抗生素牛蛙”后续：多地开展牛蛙食品安全检查或专项行动",
         "url": "https://www.thepaper.cn/newsDetail_forward_33723870",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
         "url": "https://www.thepaper.cn/newsDetail_forward_33728016",
+        "desc": "",
+        "rank": 13
+      },
+      {
+        "title": "我国编制完成新版全月地质图",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33728798",
         "desc": "",
         "rank": 14
       },
@@ -100,20 +100,20 @@
         "rank": 16
       },
       {
-        "title": "我国编制完成新版全月地质图",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33728798",
+        "title": "澎湃回声｜汕头农业农村局：初步核实，涉事企业牛蛙货源来自长沙和湛江",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33727891",
         "desc": "",
         "rank": 17
       },
       {
-        "title": "澎湃回声｜汕头农业农村局：初步核实，涉事企业牛蛙货源来自长沙和湛江",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33727891",
+        "title": "转角遇到“红”丨上海苏州河畔这个“最不像党群中心的党群中心”，被年轻人挤爆了",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33719864",
         "desc": "",
         "rank": 18
       },
       {
-        "title": "转角遇到“红”丨上海苏州河畔这个“最不像党群中心的党群中心”，被年轻人挤爆了",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33719864",
+        "title": "“兰州拉面”多地改名“青海拉面”？青海省拉面产业行业协会：青海人开的店自愿报名，不用交钱",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33729131",
         "desc": "",
         "rank": 19
       },
@@ -960,6 +960,26 @@
         "rank": 5
       },
       {
+        "title": "美团：燃油费下调当日，机票搜索量同比涨42%",
+        "url": "https://m.36kr.com/newsflashes/3927793286068353",
+        "desc": "36氪获悉，8月5日起，国内航线燃油附加费迎来年内连续第三个月下调。调整后的标准为：800公里以上航线每位成人旅客收取70元，800公里（含）以下航线每位成人旅客收取40元。美团数据显示，燃油费下调当日，机票搜索量同比增长42%。其中，北京、广州、成都、深圳、上海等地市民游客出行热度最高，其中，北京到上海、广州到上海、广州到北京、成都到三亚、成都到乌鲁木齐成为预订热度Top 5航线。",
+        "cover": "",
+        "date": 1786005476932,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "本田拟将新车型平台开发首次外包给印度塔塔技术，以降低研发成本",
+        "url": "https://m.36kr.com/newsflashes/3927788091848832",
+        "desc": "8月6日消息，据报道，本田汽车已将一项新车型计划的开发工作外包给印度工程服务巨头塔塔技术公司。这是本田首次将整车端到端平台的构建工作委托给印度工程服务企业，旨在进一步削减研发成本。据悉，该平台未来预计将支持多款车型，并可同时兼容传统燃油动力系统，以及混合动力与纯电动等电动化动力系统。（界面）",
+        "cover": "",
+        "date": 1786005159902,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "长飞光纤：不存在应披露而未披露的重大信息",
         "url": "https://m.36kr.com/newsflashes/3927779463624841",
         "desc": "36氪获悉，长飞光纤公告，公司股票于2026年8月4日至2026年8月6日连续三个交易日收盘价格涨幅偏离值累计超过20%，根据《上海证券交易所交易规则》的有关规定，属于股票交易异常波动情形；经公司自查，并向公司第一大股东中国华信邮电科技有限公司发函询证，截至本公告披露日，不存在应披露而未披露的重大信息。",
@@ -967,7 +987,7 @@
         "date": 1786004633277,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "恒指收跌1.49%，恒生科技指数跌2.28%",
@@ -977,7 +997,7 @@
         "date": 1786003825959,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "台积电N2制程产能充足但DRAM短缺，苹果iPhone 18备货面临压力",
@@ -987,7 +1007,7 @@
         "date": 1786003182656,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "DeepSeek近期获国家人工智能产业投资基金等入股",
@@ -997,7 +1017,7 @@
         "date": 1786002773764,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "字节跳动梁汝波：大语言模型坚持自研，接受短期落后",
@@ -1007,7 +1027,7 @@
         "date": 1786002586314,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "联电7月销售额238.4亿元新台币，同比增长19%",
@@ -1017,7 +1037,7 @@
         "date": 1786002438482,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "字节跳动全员会：整合豆包、飞书与火山引擎，AI业务重点转向ToB生产力",
@@ -1027,7 +1047,7 @@
         "date": 1786001924670,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "任天堂Switch 2主机第一财季销量同比下降34.4%",
@@ -1037,7 +1057,7 @@
         "date": 1786001602000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "百度入股日行迹智能科技公司",
@@ -1047,7 +1067,7 @@
         "date": 1786001381000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "兆易创新发布两款人形机器人专用MCU",
@@ -1057,7 +1077,7 @@
         "date": 1786001108000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "私募仓位创四年新高，七成机构满仓运作、百亿私募带头加仓",
@@ -1067,7 +1087,7 @@
         "date": 1786001102828,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "小红书加大AI投入：布局AI社交方向，开启AI陪伴产品自研",
@@ -1077,7 +1097,7 @@
         "date": 1786000869044,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "OpenAI要求美法官驳回苹果诉讼，称“窃取商业机密”指控“毫无依据”",
@@ -1087,7 +1107,7 @@
         "date": 1786000564000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "Clipto.AI与猛玛达成战略合作",
@@ -1097,7 +1117,7 @@
         "date": 1786000359000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "工信部：引导民爆产能向需求集中、缺口扩大的地区转移，限制产能过剩地区产能转入",
@@ -1107,7 +1127,7 @@
         "date": 1786000296879,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "工信部：推广应用无人化生产线，原则上不再新建“一头多尾”、“多头一尾”工业炸药生产线",
@@ -1117,7 +1137,7 @@
         "date": 1786000271877,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "工信部：提高产业集中度，鼓励民爆企业依法依规实施重组整合",
@@ -1127,7 +1147,7 @@
         "date": 1786000171527,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "工信部：到2030年企业重组整合有序推进，形成3~5家具有较强国际运营能力的大型民爆企业集团",
@@ -1137,35 +1157,15 @@
         "date": 1786000140894,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "追觅清洁电器累计出货量超4000万台，覆盖超120个国家和地区",
-        "url": "https://m.36kr.com/newsflashes/3927703079057542",
-        "desc": "8月5日，追觅科技对外公布，截至2026年7月，其清洁电器中的核心品类扫地机、洗地机、吸尘器全球累计出货量突破了4000万台。追觅的产品已覆盖了超120个国家和地区，线下门店数量超过了12000家，服务超4200万家庭。截至目前，追觅全球累计申请专利超14000件，累计获得授权专利超4400件。",
-        "cover": "",
-        "date": 1785999971133,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 24
-      },
-      {
-        "title": "A股三大指数收盘涨跌不一，工业气体领涨",
-        "url": "https://m.36kr.com/newsflashes/3927698560465284",
-        "desc": "36氪获悉，A股三大指数收盘涨跌不一，沪指涨0.57%，深成指跌0.24%，创业板指跌0.55%；工业气体领涨，中巨芯、和远气体涨停，中船特气涨超7%；煤炭股走强，昊华能源、潞安环能、兖矿能源涨停；汽车、AI应用概念跌幅居前，世纪天鸿跌超10%，北汽蓝谷、江淮汽车跌超5%。",
-        "cover": "",
-        "date": 1785999695340,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786004763040,
+    "thepaper": 1786005667545,
     "bilibili": 1786003993615,
-    "qbitai": 1786004792833,
-    "36kr": 1786004793327
+    "qbitai": 1786005691450,
+    "36kr": 1786005691908
   },
   "failures": {}
 }
