@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T13:12:08Z",
+  "updatedAt": "2026-08-06T13:26:55Z",
   "liveSourceCount": 3,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "莫兰特巅峰实力有多强"
       },
       {
-        "title": "【IG vs WBG】德云色解说：武圣归来！！！（2026第三赛段）",
-        "url": "https://www.bilibili.com/video/BV1bT3g6BENk",
+        "title": "笑笑西卡谈IG狗牌未来的传递《IG3.0》",
+        "url": "https://www.bilibili.com/video/BV1ga411r7vS",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 @小孩kiddddd @dys渔不沮 @dys融融子 @释梦398 @DYS-嚣张花卷 @德云色黑莓 @看不见的Dv彡 @Muchyoung1 @二柱子il 百度贴吧：德云色",
-        "content": "德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 @小孩kiddddd @dys渔不沮 @dys融融子 @释梦398 @DYS-嚣张花卷 @德云色黑莓 @看不见的Dv彡 @Muchyoung1 @二柱子il 百度贴吧：德云色",
-        "bvid": "BV1bT3g6BENk",
-        "author": "老实憨厚的笑笑",
-        "duration": "485:41",
-        "cover": "//i0.hdslb.com/bfs/archive/546213de3c5cf7c9f057bdb60bd266639173d3f0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bT3g6BENk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "点赞 点赞 求点赞",
+        "content": "点赞 点赞 求点赞",
+        "bvid": "BV1ga411r7vS",
+        "author": "德云色偷梗堂",
+        "duration": "1:5",
+        "cover": "//i1.hdslb.com/bfs/archive/3f4ece7daa65cc32724a88bf6819daa328e20072.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ga411r7vS&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "笑笑西卡回归解说IG"
       },
       {
@@ -1162,9 +1162,9 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786021862117,
-    "bilibili": 1786021870470,
-    "36kr": 1786021928669
+    "thepaper": 1786022762937,
+    "bilibili": 1786021835214,
+    "36kr": 1786022815073
   },
   "failures": {
     "qbitai": "RuntimeError('QbitAI JSON not found')"
