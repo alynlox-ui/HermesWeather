@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T13:42:02Z",
+  "updatedAt": "2026-08-06T13:57:15Z",
   "liveSourceCount": 3,
   "sources": {
     "thepaper": [
@@ -142,19 +142,19 @@
         "hotTitle": "WE vs AL LPL第三赛段"
       },
       {
-        "title": "小组头名出线！吕孟洋点射 穆海麦提建功，上海U17队2-2河床U17三战不败",
-        "url": "https://www.bilibili.com/video/BV11Vun64EDj",
+        "title": "U17国足2-1勒沃库森U17！赵松源无解世界波+助攻，U17国足面对欧洲球队三连胜！",
+        "url": "https://www.bilibili.com/video/BV1sJup6cEQw",
         "desc": "",
         "rank": 2,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV11Vun64EDj",
-        "author": "大鹏体育",
-        "duration": "2:28",
-        "cover": "//i2.hdslb.com/bfs/archive/41bb7fc45dca22d0efac0dbeeb33d388aa89baa5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11Vun64EDj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1sJup6cEQw",
+        "author": "中国足球日志",
+        "duration": "1:28",
+        "cover": "//i0.hdslb.com/bfs/archive/4ba2b4dc41aa35e9ee0240080dbfaf0b151e6dab.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sJup6cEQw&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "U17国足vs勒沃库森"
       },
       {
@@ -184,7 +184,7 @@
         "content": "IG vs NIP",
         "bvid": "BV13Fun6TE17",
         "author": "电竞天幕guesser",
-        "duration": "1233:51",
+        "duration": "2108:25",
         "cover": "//i0.hdslb.com/bfs/archive/089a9081fb875a0af84c7aee97fa009528d7c4ad.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13Fun6TE17&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "NIP战胜IG"
@@ -280,7 +280,7 @@
         "content": "-",
         "bvid": "BV1aNup6rEjt",
         "author": "kpl二路",
-        "duration": "464:4",
+        "duration": "973:37",
         "cover": "//i2.hdslb.com/bfs/archive/c0f20a6e75ae0d1ea3fadc51d90409af1013afcc.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aNup6rEjt&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "AG.AL vs AUR KWC"
@@ -1162,9 +1162,9 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786023662179,
-    "bilibili": 1786023669332,
-    "36kr": 1786023722662
+    "thepaper": 1786024562943,
+    "bilibili": 1786023635984,
+    "36kr": 1786024635128
   },
   "failures": {
     "qbitai": "RuntimeError('QbitAI JSON not found')"
