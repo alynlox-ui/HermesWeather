@@ -111,6 +111,15 @@ class NewsCrawlerTests(unittest.TestCase):
         self.assertIn("B", result["content"])
         self.assertNotIn("OUT", result["content"])
 
+    def test_unmatched_blocked_closing_tag_cannot_leak_hidden_text(self):
+        parser = ArticleExtractor()
+        parser.feed('<article><p>SAFE<nav>SECRET</footer>LEAK</nav> END</p></article>')
+        result = parser.result("https://publisher.example/posts/5")
+        self.assertIn("SAFE", result["content"])
+        self.assertIn("END", result["content"])
+        self.assertNotIn("SECRET", result["content"])
+        self.assertNotIn("LEAK", result["content"])
+
     def test_clean_text_collapses_real_whitespace(self):
         self.assertEqual(clean_text("  a   b\n c  "), "a b c")
 
