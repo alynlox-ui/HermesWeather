@@ -111,15 +111,28 @@ def main():
     req = urllib.request.Request(PUBLIC_URL + "?public_verify=" + str(time.time()), headers={"User-Agent": "Mozilla/5.0 MicroMessenger/8.0"})
     with urllib.request.urlopen(req, timeout=90) as resp:
         body = resp.read()
-        print("PUBLIC_ROOT", resp.status, len(body), "VERSION", b"1.9.1-study-clean" in body, "STUDY", b"study-nav-icon" in body, flush=True)
-        if b"1.9.1-study-clean" not in body or b"study-nav-icon" not in body:
+        drawer = all(marker in body for marker in (
+            b'id="dockToggle"', b'id="dockBackdrop"', b'data-view="sites"',
+            b'id="sitesView"', b'transform:translateX(-105%)', b'body.dock-open .sidebar',
+        ))
+        settings_clean = b'id="autoSearch"' not in body and b'id="defaultPlace"' not in body
+        print("PUBLIC_ROOT", resp.status, len(body), "VERSION", b"1.12.0-sites-drawer" in body, "STUDY", b"study-nav-icon" in body, "LEFT_DRAWER", drawer, "SETTINGS_CLEAN", settings_clean, flush=True)
+        if b"1.12.0-sites-drawer" not in body or b"study-nav-icon" not in body or not drawer or not settings_clean:
             print("PUBLIC_VERSION_MISMATCH", flush=True)
             return 8
     with urllib.request.urlopen(PUBLIC_URL + "study-goal-tracker.html?public_verify=" + str(time.time()), timeout=90) as resp:
         study = resp.read()
-        print("PUBLIC_STUDY", resp.status, len(study), "STORAGE", b"wb_study_goal_tracker_data" in study, "NO_EXAMPLES", b"id:'ex-1'" not in study, flush=True)
-        if b"wb_study_goal_tracker_data" not in study or b"id:'ex-1'" in study:
+        tabs = b".page-title{display:none}" in study and b".topbar-nav{display:flex;gap:8px;width:100%" in study
+        compact_icons = b".weekly-four-item .form-label svg{width:14px;height:14px;flex:0 0 14px}" in study
+        print("PUBLIC_STUDY", resp.status, len(study), "STORAGE", b"wb_study_goal_tracker_data" in study, "NO_EXAMPLES", b"id:'ex-1'" not in study, "DARK_UI", b"--bg:#080a0d" in study, "WEATHER_STYLE_TABS", tabs, "COMPACT_WEEKLY_ICONS", compact_icons, flush=True)
+        if b"wb_study_goal_tracker_data" not in study or b"id:'ex-1'" in study or b"--bg:#080a0d" not in study or not tabs or not compact_icons:
             return 10
+    with urllib.request.urlopen(PUBLIC_URL + "health?public_verify=" + str(time.time()), timeout=90) as resp:
+        health = json.loads(resp.read())
+        revision = health.get("crawlerRevision")
+        print("PUBLIC_HEALTH", resp.status, revision, flush=True)
+        if revision != "web-1.12.0-sites-drawer":
+            return 11
     with urllib.request.urlopen(PUBLIC_URL + "hot-news.json?public_verify=" + str(time.time()), timeout=90) as resp:
         snapshot = resp.read()
         payload = json.loads(snapshot)
