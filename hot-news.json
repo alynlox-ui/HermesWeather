@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T06:27:21Z",
-  "liveSourceCount": 3,
+  "updatedAt": "2026-08-07T06:41:39Z",
+  "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
@@ -40,26 +40,26 @@
         "rank": 6
       },
       {
-        "title": "U17国足三连胜晋级明日之星半决赛，定位球成最大亮点",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33733761",
+        "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33736078",
         "desc": "",
         "rank": 7
       },
       {
-        "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33736078",
+        "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33735577",
         "desc": "",
         "rank": 8
       },
       {
-        "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33685397",
+        "title": "U17国足三连胜晋级明日之星半决赛，定位球成最大亮点",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33733761",
         "desc": "",
         "rank": 9
       },
       {
-        "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33735577",
+        "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33685397",
         "desc": "",
         "rank": 10
       },
@@ -88,38 +88,38 @@
         "rank": 14
       },
       {
-        "title": "宝马摩托车在秦岭逆行撞摩托车致1死，遇难者家属：对方交强险过期，未获肇事者赔偿",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33728418",
-        "desc": "",
-        "rank": 15
-      },
-      {
         "title": "法国将禁止“未经同意的电话营销”，违者或被罚数万至数十万欧元",
         "url": "https://www.thepaper.cn/newsDetail_forward_33731594",
         "desc": "",
-        "rank": 16
+        "rank": 15
       },
       {
         "title": "新生儿入住月子会所仅4天，突发颅内出血被送进ICU，宝妈：监控拍到护理人员扇婴儿耳光",
         "url": "https://www.thepaper.cn/newsDetail_forward_33731143",
         "desc": "",
-        "rank": 17
-      },
-      {
-        "title": "南京一护士做美甲戴手链为宝宝打疫苗，已被停职调岗",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33728722",
-        "desc": "",
-        "rank": 18
+        "rank": 16
       },
       {
         "title": "专家解读台风“白海豚”：强势逼近华东，或成罕见远洋强台风登陆我国",
         "url": "https://www.thepaper.cn/newsDetail_forward_33732350",
         "desc": "",
-        "rank": 19
+        "rank": 17
       },
       {
         "title": "因瞬时客流集中等原因致部分观众入场受阻，浙江省博物馆致歉",
         "url": "https://www.thepaper.cn/newsDetail_forward_33731633",
+        "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "从菜贩、沙滩到电商仓库，俄乌无人机战如何急剧升级外溢？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33731454",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "复产不到一周，山西焦煤西曲矿因安全事故再停产：一人遇难",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33732062",
         "desc": "",
         "rank": 20
       }
@@ -608,6 +608,26 @@
     ],
     "qbitai": [
       {
+        "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+        "url": "https://www.qbitai.com/2026/08/466738.html",
+        "desc": "",
+        "cover": "",
+        "date": "2026-08-07T14:21:05",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+        "url": "https://www.qbitai.com/2026/08/468305.html",
+        "desc": "从「能用」走向「规模化落地」",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/286b37de3075c880009757eb5d01f2ea.webp",
+        "date": "2026-08-07T14:18:51",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
+      {
         "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
         "url": "https://www.qbitai.com/2026/08/467878.html",
         "desc": "AI卷向运动赛道，Keep的新答卷能否跑通？",
@@ -615,7 +635,7 @@
         "date": "2026-08-07T13:30:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 3
       },
       {
         "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
@@ -625,7 +645,7 @@
         "date": "2026-08-07T11:23:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 4
       },
       {
         "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
@@ -635,7 +655,7 @@
         "date": "2026-08-07T11:23:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
@@ -645,7 +665,7 @@
         "date": "2026-08-07T11:08:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "AI SSD：大模型推理的存储范式转移",
@@ -655,7 +675,7 @@
         "date": "2026-08-07T10:56:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
@@ -665,7 +685,7 @@
         "date": "2026-08-07T09:39:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "智元下架了首席科学家罗剑岚",
@@ -675,7 +695,7 @@
         "date": "2026-08-07T09:25:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
@@ -685,7 +705,7 @@
         "date": "2026-08-07T09:15:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
@@ -695,7 +715,7 @@
         "date": "2026-08-07T08:55:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
@@ -705,7 +725,7 @@
         "date": "2026-08-07T08:25:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
@@ -715,7 +735,7 @@
         "date": "2026-08-06T17:58:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
@@ -725,7 +745,7 @@
         "date": "2026-08-06T16:02:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
@@ -735,7 +755,7 @@
         "date": "2026-08-06T15:43:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "这人谁啊？哈萨比斯都让位了",
@@ -745,7 +765,7 @@
         "date": "2026-08-06T14:17:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”",
@@ -755,7 +775,7 @@
         "date": "2026-08-06T13:36:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
@@ -765,7 +785,7 @@
         "date": "2026-08-06T13:29:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
@@ -775,7 +795,7 @@
         "date": "2026-08-06T07:52:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
@@ -785,7 +805,7 @@
         "date": "2026-08-05T22:09:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
@@ -795,7 +815,7 @@
         "date": "2026-08-05T21:47:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "又一家AI基金暴雷了",
@@ -805,7 +825,7 @@
         "date": "2026-08-05T20:43:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
@@ -815,7 +835,7 @@
         "date": "2026-08-05T17:38:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
@@ -825,7 +845,7 @@
         "date": "2026-08-05T15:05:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
@@ -835,7 +855,7 @@
         "date": "2026-08-05T14:33:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 25
       },
       {
         "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
@@ -845,7 +865,7 @@
         "date": "2026-08-05T13:53:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 26
       },
       {
         "title": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
@@ -855,7 +875,7 @@
         "date": "2026-08-05T12:28:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 27
       },
       {
         "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
@@ -865,7 +885,7 @@
         "date": "2026-08-04T21:14:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 28
       },
       {
         "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
@@ -875,7 +895,7 @@
         "date": "2026-08-04T17:22:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 29
       },
       {
         "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
@@ -883,26 +903,6 @@
         "desc": "Skill和Agent也能被封装调用",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/68e6ec88c1e3577a57627a0b1828ca03.png",
         "date": "2026-08-04T17:18:08",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 28
-      },
-      {
-        "title": "OpenAI天价网红公关活动，捅马蜂窝了",
-        "url": "https://www.qbitai.com/2026/08/466032.html",
-        "desc": "OpenAI+田园牧歌，画风属实太违和",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/7aefaea55f93b10bd60c229491bb92b7.webp",
-        "date": "2026-08-04T17:13:57",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
-        "url": "https://www.qbitai.com/2026/08/465973.html",
-        "desc": "元宝已接入",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/3.png",
-        "date": "2026-08-04T16:58:21",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -950,6 +950,36 @@
         "rank": 4
       },
       {
+        "title": "正泰“双百万”特高压变压器一次试验成功",
+        "url": "https://m.36kr.com/newsflashes/3929092937677957",
+        "desc": "近日，正泰电气首台套1000kV/1000MVA特高压交流变压器一次试验成功。该产品在国网电科院武汉南瑞、沈变院等第三方机构专家的见证下，一次性通过了全套例行、型式试验，产品具有损耗小、噪声低、局放小、温升低、结构紧凑、安全可靠等特点，精准攻克输电损耗高、电网运力紧张、主干网安全标准严苛等行业痛点，为国内电网客户提供大容量、低损耗、高安全的一站式输电方案。",
+        "cover": "",
+        "date": 1786084801371,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "空客7月完成67架飞机交付，年内累计交付418架",
+        "url": "https://m.36kr.com/newsflashes/3929088161611141",
+        "desc": "空中客车8月7日发布数据显示，公司7月共向39家客户交付67架飞机，截至今年目前，空客累计完成418架飞机交付。（界面）",
+        "cover": "",
+        "date": 1786084509863,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "王兴兴：登陆资本市场是全新的起点，积极探索人形机器人、机甲等更多产品形态",
+        "url": "https://m.36kr.com/newsflashes/3929084108029058",
+        "desc": "8月7日，宇树科技股份有限公司董事长、总经理兼首席技术官王兴兴在网上路演时表示，本次登陆资本市场，是宇树科技全新的起点。“未来我们将恪守初心，踏实打磨关键技术，持续深耕通用具身智能机器人核心技术研发与产业落地，让智能机器人更早、更好地为全社会服务。”王兴兴提到，宇树科技将持续攻坚具身大模型、场景数据采集与分析、强化学习、具身本体模型、核心零部件自研与高性能执行机构等软、硬件关键技术，并将积极探索人形机器人、四足机器人、机甲等更多的产品形态和型号，推动机器人承接高强度、高风险体力劳动，释放人类的创造力，推进机器人技术造福社会。（澎湃）",
+        "cover": "",
+        "date": 1786084262452,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "纬创7月销售额3082.2亿元台币，同比增长61%",
         "url": "https://m.36kr.com/newsflashes/3929078612262277",
         "desc": "纬创7月销售额3082.2亿元台币，同比增长61%。（财联社）",
@@ -957,7 +987,7 @@
         "date": 1786083927017,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "联想集团日内涨超6%",
@@ -967,7 +997,7 @@
         "date": 1786083396902,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "现货白银向上触及63美元/盎司",
@@ -977,7 +1007,7 @@
         "date": 1786083274864,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "南水北调中线工程调水突破800亿立方米",
@@ -987,7 +1017,7 @@
         "date": 1786082898077,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "美科学家首次用AI设计出新型病毒",
@@ -997,7 +1027,7 @@
         "date": 1786082680706,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "全新深蓝S05上市，限时优惠价11.59万元起",
@@ -1007,7 +1037,7 @@
         "date": 1786082365605,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "日本外汇储备连续第三个月下降",
@@ -1017,7 +1047,7 @@
         "date": 1786082070539,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "沪深两市成交额突破2万亿",
@@ -1027,7 +1057,7 @@
         "date": 1786081229441,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "2026暑期档票房破80亿",
@@ -1037,7 +1067,7 @@
         "date": 1786079884400,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "宜春官方：宁德时代锂矿处于停产检修状态",
@@ -1047,7 +1077,7 @@
         "date": 1786079808634,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "工信部公布《享受车船税减免优惠的节约能源使用新能源汽车车型目录》（第八十九批）",
@@ -1057,7 +1087,7 @@
         "date": 1786079321161,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "机构：2026年AI服务器出货量增幅上调至近31%",
@@ -1067,7 +1097,7 @@
         "date": 1786079037000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "东京市中心写字楼租金连续30个月上涨",
@@ -1077,7 +1107,7 @@
         "date": 1786078495000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "台积电研发二维晶体管新技术，突破先进半导体材料界面瓶颈",
@@ -1087,7 +1117,7 @@
         "date": 1786077216000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "美国两党议员提出加密资产剥离计划，特朗普或可节省数百万美元税款",
@@ -1097,7 +1127,7 @@
         "date": 1786076445000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "半日主力资金加仓电子板块，抛售计算机板块",
@@ -1107,7 +1137,7 @@
         "date": 1786075899000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 23
       },
       {
         "title": "恒指午间休盘涨0.15%，恒生科技指数涨0.34%",
@@ -1117,46 +1147,15 @@
         "date": 1786075330544,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "香港保险业联会回应“内地对境外保单收益征收20%个人所得税”传闻：有关部门尚未发布正式政策文件",
-        "url": "https://m.36kr.com/newsflashes/3928925027024258",
-        "desc": "针对近日市场热议的“内地对境外保单收益征收20%个人所得税”传闻，香港保险业联会（HKFI）今日作出回应。保联表示，截至目前为止，有关部门尚未发布正式政策文件或执行细则，保联正持续了解及密切关注相关发展。因此，对有关讨论及传闻，保联暂不作揣测或评论。保联在回应中强调，预期客户对保障、财富传承及资产配置的需求仍然殷切。香港作为国际金融中心，保险产品具备产品设计灵活、多元货币配置、财富传承规划及服务专业到位等优势。保联认为，对有相关需求的客户而言，香港保险市场整体仍具吸引力及竞争力。（第一财经）",
-        "cover": "",
-        "date": 1786074552918,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "国家能源局：加大关键电力装备自主研发，推动电力芯片、特高压组部件等关键技术突破",
-        "url": "https://m.36kr.com/newsflashes/3928913497144448",
-        "desc": "36氪获悉，国家能源局印发《电力安全生产“十五五”行动计划》。其中提出，加强“人工智能+”安全治理，创新设备高精度故障预测及健康管理方法，推动人工智能技术嵌入智能安全工器具，研究基于人工智能大模型的电力安全生产辅助决策技术。加大关键电力装备自主研发，加强新型防护材料研发，设立电力装备核心部件技术攻关专项计划，推动电力芯片、特高压组部件等关键技术突破。推动电力建设工程安全质量管控技术创新，研究建设电力建设工程智能化监管体系，运用人工智能、大数据等手段加强重点电力工程非现场监管和质量监督工作。",
-        "cover": "",
-        "date": 1786073849191,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "国家能源局印发《电力安全生产“十五五”行动计划》",
-        "url": "https://m.36kr.com/newsflashes/3928913039048064",
-        "desc": "36氪获悉，国家能源局印发《电力安全生产“十五五”行动计划》。其中提到，到2030年，电力安全治理体系和治理能力现代化建设取得明显进展，电力安全生产责任全面落实，电力安全风险分级管控和隐患排查治理双重预防机制有效运转，重大灾害防范和应急处置能力显著增强，电力建设施工作业风险有效管控，以科技为核心的本质安全建设全面推进，推动实现从“要我安全”向“我要安全”转变，电力安全生产形势持续稳定。",
-        "cover": "",
-        "date": 1786073821230,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786083963881,
-    "bilibili": 1786083973185,
-    "36kr": 1786084041764
+    "thepaper": 1786084863622,
+    "bilibili": 1786083391452,
+    "qbitai": 1786084898626,
+    "36kr": 1786084899175
   },
-  "failures": {
-    "qbitai": "RuntimeError('QbitAI JSON not found')"
-  }
+  "failures": {}
 }
