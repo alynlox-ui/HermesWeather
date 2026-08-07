@@ -60,6 +60,13 @@ def wait_js(expression, timeout=30):
     raise AssertionError(f"Timed out waiting for: {expression}; last={last!r}")
 
 
+def click_selector(selector):
+    target = evaluate("(function(){var b=document.querySelector(" + json.dumps(selector) + "),r=b.getBoundingClientRect(),x=r.left+r.width/2,y=r.top+r.height/2,h=document.elementFromPoint(x,y);return {x:x,y:y,hitView:h&&h.closest('[data-view]')&&h.closest('[data-view]').getAttribute('data-view'),hitId:h&&h.id};})()")
+    command("Input.dispatchMouseEvent", {"type": "mousePressed", "x": target["x"], "y": target["y"], "button": "left", "clickCount": 1})
+    command("Input.dispatchMouseEvent", {"type": "mouseReleased", "x": target["x"], "y": target["y"], "button": "left", "clickCount": 1})
+    return target
+
+
 command("Runtime.enable")
 command("Page.enable")
 command("Emulation.setDeviceMetricsOverride", {
@@ -101,7 +108,7 @@ wait_js("document.getElementById('studyFrame').contentWindow.location.search.ind
 wait_js("!!document.getElementById('studyFrame').contentDocument.getElementById('tab-today')")
 
 initial = evaluate("(function(){var f=document.getElementById('studyFrame'),w=f.contentWindow,d=f.contentDocument,drawer=document.querySelector('.sidebar').getBoundingClientRect(),toggle=document.getElementById('dockToggle').getBoundingClientRect(),saved=JSON.parse(w.localStorage.getItem('wb_study_goal_tracker_data')),svg=document.querySelector('[data-view=study] svg'),css=getComputedStyle(svg);return {version:document.querySelector('meta[name=app-version]').content,active:document.getElementById('studyView').classList.contains('active-view'),crumb:document.querySelector('.crumb b').textContent,status:document.querySelector('.online').textContent.trim(),navCount:document.querySelectorAll('.nav .nav-item').length,frameTitle:d.title,goalCount:saved.goals.length,recordCount:saved.records.length,dataVersion:saved.version,noSamples:saved.goals.every(function(g){return !g.isExample&&!/^ex-\\d+$/.test(String(g.id||''));}),realGoal:saved.goals.some(function(g){return g.id==='real-1';}),realRecord:saved.records.some(function(x){return x.id==='real-record';}),specialGoal:saved.goals.some(function(g){return g.id==='toString';}),specialRecord:saved.records.some(function(x){return x.id==='special-record';}),icon:{width:css.width,height:css.height,viewBox:svg.getAttribute('viewBox'),paths:svg.querySelectorAll('path,rect').length},today:d.getElementById('tab-today').classList.contains('active'),drawerRight:Math.round(drawer.right),toggleSize:[Math.round(toggle.width),Math.round(toggle.height)],drawerOpen:document.body.classList.contains('dock-open')}})()")
-assert initial["version"] == "1.12.0-sites-drawer", initial
+assert initial["version"] == "1.13.0-sites-search", initial
 assert initial["active"] and initial["crumb"] == "学习目标", initial
 assert initial["navCount"] == 6 and initial["frameTitle"] == "学习目标管理台", initial
 assert initial["goalCount"] == 2 and initial["recordCount"] == 2 and initial["dataVersion"] == 3, initial
@@ -116,11 +123,13 @@ assert visual["pageTitle"] == "none" and visual["tabCount"] == 4, visual
 assert min(visual["tabHeights"]) >= 42 and max(visual["tabWidths"]) - min(visual["tabWidths"]) <= 1, visual
 assert visual["navWidth"] >= visual["mainWidth"] - 34, visual
 
-evaluate("document.getElementById('dockToggle').click();true")
+toggle_hit = click_selector("#dockToggle")
+assert toggle_hit["hitId"] == "dockToggle", toggle_hit
 wait_js("document.body.classList.contains('dock-open') && document.querySelector('.sidebar').getBoundingClientRect().left >= -1")
 drawer = evaluate("(function(){var labels=Array.prototype.map.call(document.querySelectorAll('.nav .nav-item'),function(x){return x.getAttribute('data-label')});var r=document.querySelector('.sidebar').getBoundingClientRect();return {labels:labels,left:Math.round(r.left),width:Math.round(r.width),expanded:document.getElementById('dockToggle').getAttribute('aria-expanded')};})()")
-assert drawer["labels"] == ["天气", "热点", "学习", "网络", "官网", "设置"] and drawer["left"] == 0 and drawer["width"] >= 250 and drawer["expanded"] == "true", drawer
-evaluate("document.querySelector('[data-view=settings]').click();true")
+assert drawer["labels"] == ["天气", "热点", "学习", "网络", "官网", "设置"] and -1 <= drawer["left"] <= 0 and drawer["width"] >= 250 and drawer["expanded"] == "true", drawer
+settings_hit = click_selector("[data-view=settings]")
+assert settings_hit["hitView"] == "settings", settings_hit
 wait_js("document.getElementById('settingsView').classList.contains('active-subpanel') && Math.abs(document.getElementById('settingsView').getBoundingClientRect().top) <= 80")
 dock_settings = evaluate("(function(){var b=document.querySelector('[data-view=settings]'),p=document.getElementById('settingsView'),rect=p.getBoundingClientRect();return {active:b.classList.contains('active'),crumb:document.querySelector('.crumb b').textContent,settingsPanel:p.classList.contains('active-subpanel'),weatherHost:document.getElementById('weatherSuiteView').classList.contains('active-view'),oldSubtab:!!document.querySelector('[data-weather-tab=settings]'),dockCount:document.querySelectorAll('.nav .nav-item').length,panelTop:Math.round(rect.top),scrollY:Math.round(scrollY),drawerClosed:!document.body.classList.contains('dock-open'),weatherControls:!!document.getElementById('autoSearch')||!!document.getElementById('defaultPlace')||!!document.querySelector('[data-unit]')};})()")
 assert dock_settings["active"] and dock_settings["crumb"] == "工具箱设置" and dock_settings["settingsPanel"] and dock_settings["weatherHost"], dock_settings
@@ -129,10 +138,19 @@ assert 0 <= dock_settings["panelTop"] <= 80 and dock_settings["scrollY"] > 0, do
 settings_scroll = evaluate("(async function(){var root=document.documentElement,old=root.style.scrollBehavior;root.style.scrollBehavior='auto';root.scrollTop=root.scrollHeight;await new Promise(function(r){requestAnimationFrame(function(){requestAnimationFrame(r);});});var rows=document.querySelectorAll('#settingsView .setting-row'),last=rows[rows.length-1].getBoundingClientRect(),result={scrollY:Math.round(scrollY),max:root.scrollHeight-innerHeight,lastBottom:Math.round(last.bottom),viewport:innerHeight};root.style.scrollBehavior=old;return result;})()")
 assert settings_scroll["scrollY"] == settings_scroll["max"] and settings_scroll["lastBottom"] <= settings_scroll["viewport"], settings_scroll
 
-evaluate("document.getElementById('dockToggle').click();document.querySelector('[data-view=sites]').click();true")
+click_selector("#dockToggle")
+wait_js("document.body.classList.contains('dock-open') && document.querySelector('.sidebar').getBoundingClientRect().left >= -1")
+sites_hit = click_selector("[data-view=sites]")
+assert sites_hit["hitView"] == "sites", sites_hit
 wait_js("document.getElementById('sitesView').classList.contains('active-view')")
 sites = evaluate("(function(){var tabs=document.querySelectorAll('.site-tab'),cards=document.querySelectorAll('.site-card'),office=document.querySelector('[data-site-category=office]');office.click();return {crumb:document.querySelector('.crumb b').textContent,tabs:tabs.length,cards:cards.length,activePanel:document.querySelector('.site-category.active').getAttribute('data-site-panel'),officeCards:document.querySelectorAll('[data-site-panel=office] .site-card').length,links:Array.prototype.every.call(document.querySelectorAll('.site-actions a'),function(a){return a.protocol==='https:'&&a.target==='_blank'&&a.rel.indexOf('noopener')>=0;})};})()")
-assert sites["crumb"] == "官网合集" and sites["tabs"] == 6 and sites["cards"] >= 18 and sites["activePanel"] == "office" and sites["officeCards"] >= 3 and sites["links"], sites
+assert sites["crumb"] == "官网合集" and sites["tabs"] == 6 and sites["cards"] == 36 and sites["activePanel"] == "office" and sites["officeCards"] == 6 and sites["links"], sites
+fuzzy = evaluate("(function(){function run(q){var i=document.getElementById('siteSearch');i.value=q;i.dispatchEvent(new Event('input',{bubbles:true}));return {count:Array.prototype.filter.call(document.querySelectorAll('.site-card'),function(x){return !x.hidden}).length,names:Array.prototype.filter.call(document.querySelectorAll('.site-card'),function(x){return !x.hidden}).map(function(x){return x.querySelector('h3').textContent}),empty:document.getElementById('siteSearchEmpty').classList.contains('show')};}return {vscode:run('vscode'),typo:run('steem'),office:run('办公'),none:run('绝对不存在的软件xyz')};})()")
+assert fuzzy["vscode"]["names"] == ["Visual Studio Code"], fuzzy
+assert fuzzy["typo"]["names"] == ["Steam"], fuzzy
+assert fuzzy["office"]["count"] == 6, fuzzy
+assert fuzzy["none"]["count"] == 0 and fuzzy["none"]["empty"], fuzzy
+evaluate("document.getElementById('siteSearchClear').click();true")
 evaluate("document.querySelector('[data-view=study]').click();true")
 wait_js("document.getElementById('studyView').classList.contains('active-view')")
 weekly_icons = evaluate("(function(){var d=document.getElementById('studyFrame').contentDocument,b=d.querySelector('[data-tab=weekly]');b.click();var icons=Array.prototype.slice.call(d.querySelectorAll('.weekly-four-item .form-label svg'));var result={weeklyActive:d.getElementById('tab-weekly').classList.contains('active'),activeButtons:d.querySelectorAll('.topbar-nav .nav-item.active').length,count:icons.length,sizes:icons.map(function(x){var r=x.getBoundingClientRect();return [Math.round(r.width),Math.round(r.height)];})};d.querySelector('[data-tab=today]').click();return result;})()")
