@@ -1,6 +1,7 @@
 import gzip
 import http.client
 import json
+import re
 import threading
 import unittest
 from pathlib import Path
@@ -14,7 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 class StudyIntegrationTests(unittest.TestCase):
     def test_main_app_exposes_embedded_study_goal_column(self):
         source = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.assertIn('name="app-version" content="1.14.0-sites-expanded"', source)
+        self.assertIn('name="app-version" content="1.15.0-niche-sites-icons"', source)
         self.assertIn('data-view="study"', source)
         self.assertIn('id="studyView"', source)
         self.assertIn('id="studyFrame"', source)
@@ -89,7 +90,44 @@ class StudyIntegrationTests(unittest.TestCase):
                       'Google Chrome', 'Mozilla Firefox', 'Microsoft Edge', 'ShareX', 'CrystalDiskInfo', 'Ventoy'):
             self.assertIn(added, source)
         extras = source.split('const SITE_EXTRA_SOFTWARE=[', 1)[1].split('];', 1)[0]
-        self.assertEqual(54, extras.count("{cat:"))
+        self.assertEqual(96, extras.count("{cat:"))
+        for niche in ('Playnite', 'Heroic Games Launcher', 'RetroArch', 'Prism Launcher', 'Nexus Mods', 'Moonlight',
+                      'Anytype', 'Logseq', 'Joplin', 'AppFlowy', 'Penpot', 'Photopea', 'PureRef',
+                      'Zed', 'Bruno', 'Hoppscotch', 'DevToys', 'mpv', 'Jellyfin', 'LosslessCut',
+                      'QuickLook', 'Flow Launcher', 'Bulk Crap Uninstaller', 'EarTrumpet'):
+            self.assertIn(niche, source)
+        self.assertIn("https://www.nvidia.com/en-us/geforce-now/download/", source)
+        self.assertNotIn("https://www.nvidia.com/geforce-now/download/", source)
+        self.assertEqual(21, extras.count("{cat:'games'"))
+        for category in ('office', 'dev', 'design', 'media', 'utilities'):
+            self.assertEqual(15, extras.count("{cat:'" + category + "'"))
+
+    def test_official_sites_use_local_official_icons(self):
+        source = (ROOT / "index.html").read_text(encoding="utf-8")
+        extras = source.split('const SITE_EXTRA_SOFTWARE=[', 1)[1].split('];', 1)[0]
+        icon_paths = re.findall(r"icon:'(assets/site-icons/[^']+\.png)'", extras)
+        self.assertEqual(96, len(icon_paths))
+        static_area = source.split('const SITE_EXTRA_SOFTWARE=', 1)[0]
+        self.assertEqual(18, static_area.count('class="site-logo"'))
+        self.assertIn("function siteIconHTML(", source)
+        self.assertIn('class="site-logo"', source)
+        for relative in icon_paths:
+            icon = ROOT / relative
+            self.assertTrue(icon.is_file(), relative)
+            self.assertGreater(icon.stat().st_size, 100, relative)
+
+    def test_official_sites_release_contract_is_versioned_and_gated(self):
+        source = (ROOT / "index.html").read_text(encoding="utf-8")
+        server = (ROOT / "weather_web.py").read_text(encoding="utf-8")
+        deploy = (ROOT / "deploy_render_public.py").read_text(encoding="utf-8")
+        version = "1.15.0-niche-sites-icons"
+        revision = "web-" + version
+        self.assertIn(f'app-version" content="{version}', source)
+        self.assertIn(revision, server)
+        self.assertIn(revision, deploy)
+        self.assertIn('body.count(b"{cat:") == 96', deploy)
+        self.assertIn("assets/site-icons/playnite.png", deploy)
+        self.assertIn("assets/site-icons/eartrumpet.png", deploy)
 
     def test_official_sites_supports_fuzzy_software_search(self):
         source = (ROOT / "index.html").read_text(encoding="utf-8")
@@ -203,7 +241,14 @@ class StudyIntegrationTests(unittest.TestCase):
             response = conn.getresponse()
             health = json.loads(response.read())
             self.assertEqual(200, response.status)
-            self.assertEqual("web-1.14.0-sites-expanded", health["crawlerRevision"])
+            self.assertEqual("web-1.15.0-niche-sites-icons", health["crawlerRevision"])
+
+            conn.request("GET", "/assets/site-icons/playnite.png", headers={"Accept-Encoding": "gzip"})
+            response = conn.getresponse()
+            icon = response.read()
+            self.assertEqual(200, response.status)
+            self.assertEqual("image/png", response.getheader("Content-Type"))
+            self.assertGreater(len(gzip.decompress(icon)), 100)
         finally:
             server.shutdown()
             server.server_close()

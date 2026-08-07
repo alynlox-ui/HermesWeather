@@ -101,13 +101,17 @@ class H(BaseHTTPRequestHandler):
    finally:
     if acquired:self.article_slots.release()
   elif u.path=='/health':
-   self.sendj({'status':'ok','service':'hermes-weather-web','crawlerRevision':'web-1.14.0-sites-expanded'})
+   self.sendj({'status':'ok','service':'hermes-weather-web','crawlerRevision':'web-1.15.0-niche-sites-icons'})
   elif u.path in ('/','/index.html'):
    self.send_static(ROOT/'index.html','text/html; charset=utf-8',300)
   elif u.path=='/study-goal-tracker.html':
    self.send_static(ROOT/'study-goal-tracker.html','text/html; charset=utf-8',300)
   elif u.path=='/hot-news.json':
    self.send_static(ROOT/'hot-news.json','application/json; charset=utf-8',300)
+  elif u.path.startswith('/assets/site-icons/'):
+   icon=(ROOT/u.path.lstrip('/')).resolve();icon_root=(ROOT/'assets'/'site-icons').resolve()
+   if icon.parent==icon_root and icon.suffix.lower()=='.png' and icon.is_file():self.send_static(icon,'image/png',86400)
+   else:self.send_error(404)
   else:self.send_error(404)
  def log_message(self,*a):pass
 if __name__=='__main__':

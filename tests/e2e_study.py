@@ -108,7 +108,7 @@ wait_js("document.getElementById('studyFrame').contentWindow.location.search.ind
 wait_js("!!document.getElementById('studyFrame').contentDocument.getElementById('tab-today')")
 
 initial = evaluate("(function(){var f=document.getElementById('studyFrame'),w=f.contentWindow,d=f.contentDocument,drawer=document.querySelector('.sidebar').getBoundingClientRect(),toggle=document.getElementById('dockToggle').getBoundingClientRect(),saved=JSON.parse(w.localStorage.getItem('wb_study_goal_tracker_data')),svg=document.querySelector('[data-view=study] svg'),css=getComputedStyle(svg);return {version:document.querySelector('meta[name=app-version]').content,active:document.getElementById('studyView').classList.contains('active-view'),crumb:document.querySelector('.crumb b').textContent,status:document.querySelector('.online').textContent.trim(),navCount:document.querySelectorAll('.nav .nav-item').length,frameTitle:d.title,goalCount:saved.goals.length,recordCount:saved.records.length,dataVersion:saved.version,noSamples:saved.goals.every(function(g){return !g.isExample&&!/^ex-\\d+$/.test(String(g.id||''));}),realGoal:saved.goals.some(function(g){return g.id==='real-1';}),realRecord:saved.records.some(function(x){return x.id==='real-record';}),specialGoal:saved.goals.some(function(g){return g.id==='toString';}),specialRecord:saved.records.some(function(x){return x.id==='special-record';}),icon:{width:css.width,height:css.height,viewBox:svg.getAttribute('viewBox'),paths:svg.querySelectorAll('path,rect').length},today:d.getElementById('tab-today').classList.contains('active'),drawerRight:Math.round(drawer.right),toggleSize:[Math.round(toggle.width),Math.round(toggle.height)],drawerOpen:document.body.classList.contains('dock-open')}})()")
-assert initial["version"] == "1.14.0-sites-expanded", initial
+assert initial["version"] == "1.15.0-niche-sites-icons", initial
 assert initial["active"] and initial["crumb"] == "学习目标", initial
 assert initial["navCount"] == 6 and initial["frameTitle"] == "学习目标管理台", initial
 assert initial["goalCount"] == 2 and initial["recordCount"] == 2 and initial["dataVersion"] == 3, initial
@@ -144,12 +144,12 @@ sites_hit = click_selector("[data-view=sites]")
 assert sites_hit["hitView"] == "sites", sites_hit
 wait_js("document.getElementById('sitesView').classList.contains('active-view')")
 sites = evaluate("(function(){var tabs=document.querySelectorAll('.site-tab'),cards=document.querySelectorAll('.site-card'),office=document.querySelector('[data-site-category=office]');office.click();return {crumb:document.querySelector('.crumb b').textContent,tabs:tabs.length,cards:cards.length,countText:document.getElementById('siteSearchCount').textContent,activePanel:document.querySelector('.site-category.active').getAttribute('data-site-panel'),officeCards:document.querySelectorAll('[data-site-panel=office] .site-card').length,links:Array.prototype.every.call(document.querySelectorAll('.site-actions a'),function(a){return a.protocol==='https:'&&a.target==='_blank'&&a.rel.indexOf('noopener')>=0;})};})()")
-assert sites["crumb"] == "官网合集" and sites["tabs"] == 6 and sites["cards"] == 72 and sites["countText"] == "72 款软件" and sites["activePanel"] == "office" and sites["officeCards"] == 12 and sites["links"], sites
+assert sites["crumb"] == "官网合集" and sites["tabs"] == 6 and sites["cards"] == 114 and sites["countText"] == "114 款软件" and sites["activePanel"] == "office" and sites["officeCards"] == 18 and sites["links"], sites
 fuzzy = evaluate("(function(){function run(q){var i=document.getElementById('siteSearch');i.value=q;i.dispatchEvent(new Event('input',{bubbles:true}));return {count:Array.prototype.filter.call(document.querySelectorAll('.site-card'),function(x){return !x.hidden}).length,names:Array.prototype.filter.call(document.querySelectorAll('.site-card'),function(x){return !x.hidden}).map(function(x){return x.querySelector('h3').textContent}),empty:document.getElementById('siteSearchEmpty').classList.contains('show')};}return {vscode:run('vscode'),typo:run('steem'),edge:run('edg'),office:run('办公'),none:run('绝对不存在的软件xyz')};})()")
 assert fuzzy["vscode"]["names"] == ["Visual Studio Code"], fuzzy
 assert fuzzy["typo"]["names"] == ["Steam"], fuzzy
 assert fuzzy["edge"]["names"] == ["Microsoft Edge"], fuzzy
-assert fuzzy["office"]["count"] == 12, fuzzy
+assert fuzzy["office"]["count"] == 18, fuzzy
 assert fuzzy["none"]["count"] == 0 and fuzzy["none"]["empty"], fuzzy
 evaluate("document.getElementById('siteSearchClear').click();true")
 evaluate("document.querySelector('[data-view=study]').click();true")
