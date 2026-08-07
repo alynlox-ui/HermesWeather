@@ -114,10 +114,11 @@ def main():
         drawer = all(marker in body for marker in (
             b'id="dockToggle"', b'id="dockBackdrop"', b'data-view="sites"',
             b'id="sitesView"', b'transform:translateX(-105%)', b'body.dock-open .sidebar',
+            b'.shell{z-index:auto;display:block', b'id="siteSearch"', b'SITE_EXTRA_SOFTWARE', b'function siteMatchScore(',
         ))
         settings_clean = b'id="autoSearch"' not in body and b'id="defaultPlace"' not in body
-        print("PUBLIC_ROOT", resp.status, len(body), "VERSION", b"1.12.0-sites-drawer" in body, "STUDY", b"study-nav-icon" in body, "LEFT_DRAWER", drawer, "SETTINGS_CLEAN", settings_clean, flush=True)
-        if b"1.12.0-sites-drawer" not in body or b"study-nav-icon" not in body or not drawer or not settings_clean:
+        print("PUBLIC_ROOT", resp.status, len(body), "VERSION", b"1.13.0-sites-search" in body, "STUDY", b"study-nav-icon" in body, "LEFT_DRAWER", drawer, "SETTINGS_CLEAN", settings_clean, flush=True)
+        if b"1.13.0-sites-search" not in body or b"study-nav-icon" not in body or not drawer or not settings_clean:
             print("PUBLIC_VERSION_MISMATCH", flush=True)
             return 8
     with urllib.request.urlopen(PUBLIC_URL + "study-goal-tracker.html?public_verify=" + str(time.time()), timeout=90) as resp:
@@ -131,7 +132,7 @@ def main():
         health = json.loads(resp.read())
         revision = health.get("crawlerRevision")
         print("PUBLIC_HEALTH", resp.status, revision, flush=True)
-        if revision != "web-1.12.0-sites-drawer":
+        if revision != "web-1.13.0-sites-search":
             return 11
     with urllib.request.urlopen(PUBLIC_URL + "hot-news.json?public_verify=" + str(time.time()), timeout=90) as resp:
         snapshot = resp.read()
