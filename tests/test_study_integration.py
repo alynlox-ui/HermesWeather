@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 class StudyIntegrationTests(unittest.TestCase):
     def test_main_app_exposes_embedded_study_goal_column(self):
         source = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.assertIn('name="app-version" content="1.12.0-sites-drawer"', source)
+        self.assertIn('name="app-version" content="1.13.0-sites-search"', source)
         self.assertIn('data-view="study"', source)
         self.assertIn('id="studyView"', source)
         self.assertIn('id="studyFrame"', source)
@@ -78,6 +78,22 @@ class StudyIntegrationTests(unittest.TestCase):
             self.assertIn(name, source)
         self.assertIn('class="site-official"', source)
         self.assertIn('class="site-download"', source)
+        for added in ('Battle.net', 'Ubisoft Connect', 'EA app', '腾讯会议', '钉钉', 'Notion', 'Git', 'Node.js', 'JetBrains Toolbox', 'Krita', 'Inkscape', 'DaVinci Resolve', 'PotPlayer', 'Spotify', 'HandBrake', 'WinRAR', 'Microsoft PowerToys', 'LocalSend'):
+            self.assertIn(added, source)
+        self.assertIn('const SITE_EXTRA_SOFTWARE=', source)
+
+    def test_official_sites_supports_fuzzy_software_search(self):
+        source = (ROOT / "index.html").read_text(encoding="utf-8")
+        self.assertIn('id="siteSearch"', source)
+        self.assertIn('id="siteSearchCount"', source)
+        self.assertIn('id="siteSearchEmpty"', source)
+        self.assertIn('function normalizeSiteQuery(', source)
+        self.assertIn('function siteEditDistance(', source)
+        self.assertIn('function siteMatchScore(', source)
+        self.assertIn('function filterSites(', source)
+        self.assertIn("$('siteSearch').addEventListener('input'", source)
+        self.assertIn('data-search="vscode', source)
+        self.assertIn('data-search="steam', source)
 
     def test_dock_is_hidden_left_drawer_with_icon_text_labels(self):
         source = (ROOT / "index.html").read_text(encoding="utf-8")
@@ -91,6 +107,8 @@ class StudyIntegrationTests(unittest.TestCase):
         self.assertIn("function setDockOpen(open)", source)
         self.assertIn("setDockOpen(false)", source)
         self.assertIn("if(e.key==='Escape')setDockOpen(false)", source)
+        self.assertIn('.shell{z-index:auto;display:block', source)
+        self.assertIn('.page{position:relative;z-index:3;grid-column:auto', source)
 
     def test_embedded_project_retains_goal_checkin_weekly_and_backup_features(self):
         source = (ROOT / "study-goal-tracker.html").read_text(encoding="utf-8")
@@ -174,7 +192,7 @@ class StudyIntegrationTests(unittest.TestCase):
             response = conn.getresponse()
             health = json.loads(response.read())
             self.assertEqual(200, response.status)
-            self.assertEqual("web-1.12.0-sites-drawer", health["crawlerRevision"])
+            self.assertEqual("web-1.13.0-sites-search", health["crawlerRevision"])
         finally:
             server.shutdown()
             server.server_close()
