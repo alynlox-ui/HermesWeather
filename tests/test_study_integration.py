@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 class StudyIntegrationTests(unittest.TestCase):
     def test_main_app_exposes_embedded_study_goal_column(self):
         source = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.assertIn('name="app-version" content="1.13.0-sites-search"', source)
+        self.assertIn('name="app-version" content="1.14.0-sites-expanded"', source)
         self.assertIn('data-view="study"', source)
         self.assertIn('id="studyView"', source)
         self.assertIn('id="studyFrame"', source)
@@ -81,6 +81,15 @@ class StudyIntegrationTests(unittest.TestCase):
         for added in ('Battle.net', 'Ubisoft Connect', 'EA app', '腾讯会议', '钉钉', 'Notion', 'Git', 'Node.js', 'JetBrains Toolbox', 'Krita', 'Inkscape', 'DaVinci Resolve', 'PotPlayer', 'Spotify', 'HandBrake', 'WinRAR', 'Microsoft PowerToys', 'LocalSend'):
             self.assertIn(added, source)
         self.assertIn('const SITE_EXTRA_SOFTWARE=', source)
+        for added in ('GOG GALAXY', 'HoYoPlay', 'WeGame', 'itch.io', 'Minecraft Launcher', 'Riot Games',
+                      'Microsoft Teams', 'Zoom', '飞书', 'Obsidian', 'ONLYOFFICE', 'Slack',
+                      'Docker Desktop', 'Visual Studio', 'Android Studio', 'Postman', 'DBeaver', 'Sublime Text',
+                      'Adobe Creative Cloud', 'Affinity', 'Canva', 'Paint.NET', 'FreeCAD', 'SketchUp',
+                      'QQ音乐', '网易云音乐', 'foobar2000', 'MusicBee', 'AIMP', 'Kodi',
+                      'Google Chrome', 'Mozilla Firefox', 'Microsoft Edge', 'ShareX', 'CrystalDiskInfo', 'Ventoy'):
+            self.assertIn(added, source)
+        extras = source.split('const SITE_EXTRA_SOFTWARE=[', 1)[1].split('];', 1)[0]
+        self.assertEqual(54, extras.count("{cat:"))
 
     def test_official_sites_supports_fuzzy_software_search(self):
         source = (ROOT / "index.html").read_text(encoding="utf-8")
@@ -194,7 +203,7 @@ class StudyIntegrationTests(unittest.TestCase):
             response = conn.getresponse()
             health = json.loads(response.read())
             self.assertEqual(200, response.status)
-            self.assertEqual("web-1.13.0-sites-search", health["crawlerRevision"])
+            self.assertEqual("web-1.14.0-sites-expanded", health["crawlerRevision"])
         finally:
             server.shutdown()
             server.server_close()
