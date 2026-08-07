@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T07:11:36Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-08-07T07:27:11Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -174,19 +174,19 @@
         "hotTitle": "被焦虑毁掉的多角恋叙事"
       },
       {
-        "title": "三角洲烽火职业联赛夏季赛",
-        "url": "https://www.bilibili.com/video/BV1EpuE6kEPX",
+        "title": "此视频应用于我获得烽火职业联赛抽奖次数",
+        "url": "https://www.bilibili.com/video/BV1KDuE6WEC5",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "三角洲烽火职业联赛夏季赛 三角洲烽火职业联赛夏季赛",
-        "content": "三角洲烽火职业联赛夏季赛 三角洲烽火职业联赛夏季赛",
-        "bvid": "BV1EpuE6kEPX",
-        "author": "bili_77745280074",
-        "duration": "0:18",
-        "cover": "//i1.hdslb.com/bfs/archive/61732469b5df0f48c02ce220b33b3488eb70ed07.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EpuE6kEPX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1KDuE6WEC5",
+        "author": "_月球神秘男子",
+        "duration": "0:8",
+        "cover": "//i0.hdslb.com/bfs/archive/f95c128f8c1057d1fdd250be4eafc131502d765e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KDuE6WEC5&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "烽火职业联赛夏季赛"
       },
       {
@@ -950,6 +950,36 @@
         "rank": 4
       },
       {
+        "title": "WorkBuddy在联想开天国产终端上完成运行验证",
+        "url": "https://m.36kr.com/newsflashes/3929137606229384",
+        "desc": "36氪获悉，联想开天与腾讯共同宣布，WorkBuddy已通过联想开天“无界”兼容方案，在联想开天国产终端完成运行验证。基于“无界”，WorkBuddy无需二次开发即可在联想开天国产终端上完成运行验证。目前，“无界”已经适配超过5万款主流应用和5万类存量外设，并形成覆盖应用识别、转译、驱动适配与部署的完整能力。",
+        "cover": "",
+        "date": 1786087527723,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "SK海力士：正研究额外股东回报措施，计划三季度公布细节",
+        "url": "https://m.36kr.com/newsflashes/3929134159150469",
+        "desc": "SK海力士8月7日在韩国交易所披露，正积极研究旨在提升股东价值的额外股东回报措施，具体细节计划于第三季度敲定并公布。（界面）",
+        "cover": "",
+        "date": 1786087317330,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "《民用航空发展“十五五”规划》印发",
+        "url": "https://m.36kr.com/newsflashes/3929131568135300",
+        "desc": "36氪获悉，中国民航局、国家发展改革委、交通运输部近日联合印发《民用航空发展“十五五”规划》。规划明确，到2030年，民航行业安全水平、服务能力、基础设施率先迈向国际一流，技术创新、绿色低碳、治理能力实现重大突破性进展，服务国家重大战略、促进区域经济社会发展和满足人民美好航空出行需要更加有力。",
+        "cover": "",
+        "date": 1786087159187,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "港交所：前7月首次公开招股集资金额3282亿港元，同比上升154%",
         "url": "https://m.36kr.com/newsflashes/3929123607133573",
         "desc": "8月7日，香港交易所数据显示：2026年首七个月有104家新上市公司，同比上升96%。2026年首七个月的首次公开招股集资金额为3282亿港元，同比上升154%。2026年首七个月的总集资金额为5280亿港元，同比上升57%。（界面）",
@@ -957,7 +987,7 @@
         "date": 1786086673286,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "泰国酝酿针对新建汽车工厂推出税收减免",
@@ -967,7 +997,7 @@
         "date": 1786086413973,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "A股三大指数集体收涨，医药股走强",
@@ -977,7 +1007,7 @@
         "date": 1786086121385,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "王兴兴：机器人激光雷达全自研核心技术等多项核心技术已应用于公司产品",
@@ -987,7 +1017,7 @@
         "date": 1786085560367,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "日本政府养老投资基金第一季度投资回报率达8.2%，总资产升至317.8万亿日元",
@@ -997,7 +1027,7 @@
         "date": 1786085310793,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "韩国另类交易平台Nextrade将暂时禁止在当日价格上下限的订单",
@@ -1007,7 +1037,7 @@
         "date": 1786084969065,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "正泰“双百万”特高压变压器一次试验成功",
@@ -1017,7 +1047,7 @@
         "date": 1786084801371,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "空客7月完成67架飞机交付，年内累计交付418架",
@@ -1027,7 +1057,7 @@
         "date": 1786084509863,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "王兴兴：登陆资本市场是全新的起点，积极探索人形机器人、机甲等更多产品形态",
@@ -1037,7 +1067,7 @@
         "date": 1786084262452,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "纬创7月销售额3082.2亿元台币，同比增长61%",
@@ -1047,7 +1077,7 @@
         "date": 1786083927017,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "联想集团日内涨超6%",
@@ -1057,7 +1087,7 @@
         "date": 1786083396902,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "现货白银向上触及63美元/盎司",
@@ -1067,7 +1097,7 @@
         "date": 1786083274864,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "南水北调中线工程调水突破800亿立方米",
@@ -1077,7 +1107,7 @@
         "date": 1786082898077,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "美科学家首次用AI设计出新型病毒",
@@ -1087,7 +1117,7 @@
         "date": 1786082680706,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "全新深蓝S05上市，限时优惠价11.59万元起",
@@ -1097,7 +1127,7 @@
         "date": 1786082365605,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "日本外汇储备连续第三个月下降",
@@ -1107,7 +1137,7 @@
         "date": 1786082070539,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 23
       },
       {
         "title": "沪深两市成交额突破2万亿",
@@ -1117,45 +1147,16 @@
         "date": 1786081229441,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "2026暑期档票房破80亿",
-        "url": "https://m.36kr.com/newsflashes/3929012378025094",
-        "desc": "据网络平台数据，截至目前，2026年暑期档电影总票房（含预售），突破80亿元，单日票房连续‌27天‌破亿元。（央视新闻）",
-        "cover": "",
-        "date": 1786079884400,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "宜春官方：宁德时代锂矿处于停产检修状态",
-        "url": "https://m.36kr.com/newsflashes/3928975253126530",
-        "desc": "针对市场高度关注的宁德时代宜春枧下窝锂矿复产传闻，宜春市宜丰县生态环境局今日正式回应称：现场检查时，该企业处于停产检修状态，现场未进行矿石装运及破碎等生产作业，已要求企业尽快办理环评审批手续。（上证报）",
-        "cover": "",
-        "date": 1786079808634,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "工信部公布《享受车船税减免优惠的节约能源使用新能源汽车车型目录》（第八十九批）",
-        "url": "https://m.36kr.com/newsflashes/3929003149917573",
-        "desc": "36氪获悉，工信部公布《享受车船税减免优惠的节约能源使用新能源汽车车型目录》（第八十九批），比亚迪方程豹钛9、赛力斯问界M8等多款车型在列。",
-        "cover": "",
-        "date": 1786079321161,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786086668828,
-    "bilibili": 1786086672067,
-    "qbitai": 1786086696345,
-    "36kr": 1786086696803
+    "thepaper": 1786087568471,
+    "bilibili": 1786086433632,
+    "36kr": 1786087631673
   },
-  "failures": {}
+  "failures": {
+    "qbitai": "RuntimeError('QbitAI JSON not found')"
+  }
 }
