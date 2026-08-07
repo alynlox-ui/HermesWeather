@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T14:11:59Z",
-  "liveSourceCount": 3,
+  "updatedAt": "2026-08-07T14:26:34Z",
+  "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
@@ -126,7 +126,7 @@
     ],
     "bilibili": [
       {
-        "title": "众主播看TEC完成让一追二战胜EDG！大爆冷来了！EDG vs TEC",
+        "title": "众主播看TEC完成让一追二战胜EDG！大爆冷来了！牛哥：TEC是差点被KBG送走的啊！EDG vs TEC",
         "url": "https://www.bilibili.com/video/BV1Xvu86AEJm",
         "desc": "",
         "rank": 1,
@@ -216,7 +216,7 @@
         "content": "",
         "bvid": "BV1Ciuh6HE3E",
         "author": "羊的留声机",
-        "duration": "70:38",
+        "duration": "77:55",
         "cover": "//i2.hdslb.com/bfs/archive/a2f6d18a9e1722fc8388e1e04e84f72b3f63811f.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ciuh6HE3E&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "歌手总决赛陪看"
@@ -302,19 +302,19 @@
         "hotTitle": "河南三支一扶将重新组织笔试"
       },
       {
-        "title": "WE vs TT TT全员振奋暴打WE成功复仇！Monki掏出狐臭野核被无情逮捕！ Game 3 丨 2026 LPL 第三赛段",
-        "url": "https://www.bilibili.com/video/BV1cwuh61EEW",
+        "title": "TT 2-1 WE 赛后数据雷达图+虎扑评分丨LPL第三赛段",
+        "url": "https://www.bilibili.com/video/BV14huh6dEpw",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1cwuh61EEW",
-        "author": "最新联盟",
-        "duration": "10:15",
-        "cover": "//i2.hdslb.com/bfs/archive/80455d5c3f0b3d54778bba9bba04e732bfa81ecd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cwuh61EEW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV14huh6dEpw",
+        "author": "苦练李香兰",
+        "duration": "3:34",
+        "cover": "//i2.hdslb.com/bfs/archive/239dca61239f8735fbcb30b242a1fabcbb44e038.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14huh6dEpw&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TT战胜WE LPL第三赛段"
       },
       {
@@ -526,7 +526,7 @@
         "hotTitle": "台风白海豚实时路径"
       },
       {
-        "title": "25分钟速败！向鹏0-3张本智和，没有任何突破。目前国乒男队仅剩陈垣宇",
+        "title": "25分钟速败！向鹏0-3张本智和，没有任何突破。随后的陈垣宇也惨败出局，国乒男队全员淘汰",
         "url": "https://www.bilibili.com/video/BV1fcub6qEK3",
         "desc": "",
         "rank": 26,
@@ -1142,11 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786111866723,
-    "bilibili": 1786111869056,
-    "36kr": 1786111919260
+    "thepaper": 1786112765459,
+    "bilibili": 1786111615144,
+    "qbitai": 1786112794634,
+    "36kr": 1786112794966
   },
-  "failures": {
-    "qbitai": "RuntimeError('QbitAI JSON not found')"
-  }
+  "failures": {}
 }
