@@ -109,6 +109,8 @@ class StudyIntegrationTests(unittest.TestCase):
         self.assertIn("if(e.key==='Escape')setDockOpen(false)", source)
         self.assertIn('.shell{z-index:auto;display:block', source)
         self.assertIn('.page{position:relative;z-index:3;grid-column:auto', source)
+        self.assertIn('visibility:hidden;pointer-events:none', source)
+        self.assertIn('visibility:visible;pointer-events:auto', source)
 
     def test_embedded_project_retains_goal_checkin_weekly_and_backup_features(self):
         source = (ROOT / "study-goal-tracker.html").read_text(encoding="utf-8")
