@@ -1,0 +1,33 @@
+Hermes Weather 网页版统一更新报告
+
+版本：Web 1.12.0-sites-drawer
+完成时间：2026-08-07 14:34:07
+正式网址：https://hermes-weather-news-alynlox-ui.onrender.com/
+Render Deployment ID：dep-d9qnl5ss728c73a77n10
+部署状态：live
+
+本次完成：
+- 设置页删除温度单位、启动时自动查询、默认地点三项天气内容。
+- 新增“官网合集”主栏目，含游戏、办公、开发、设计、影音、实用工具 6 个分区、18 个软件卡片、官网和官方下载入口。
+- Dock 改为默认隐藏的左侧抽屉；点击菜单按钮弹出，图标均配对应文字；支持遮罩、栏目选择和 Esc 关闭。
+- 手机端分类横向滑动、按钮触控尺寸和 Dock 文字对比度已优化。
+- 按用户本次要求，没有再次执行上次的基础目标审计。
+- Android 应用端未更新。
+
+验证：
+- Python 语法检查通过。
+- unittest：34/34 通过。
+- 本地 390×844 完整 E2E：通过。
+- 公网 390×844 完整 E2E：通过。
+- 桌面端左侧抽屉：left=0、width=250 px、横向溢出 0 px。
+- 公网首页/学习页/健康接口/热点快照：全部 HTTP 200。
+- 健康版本：web-1.12.0-sites-drawer。
+- 公网首页与本地 SHA-256 一致。
+- GitHub main 的 5 个变更文件与本地逐字节一致。
+- Render 部署 dep-d9qnl5ss728c73a77n10：live。
+
+正式网址：
+https://hermes-weather-news-alynlox-ui.onrender.com/
+
+完整报告：
+F:\Hermes\weather_app\web-1.12.0-sites-drawer-update-report.txt
