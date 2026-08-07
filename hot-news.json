@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T13:11:30Z",
+  "updatedAt": "2026-08-07T13:26:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "苏炜杰获统计学界诺贝尔奖"
       },
       {
-        "title": "炫神预测TES战胜BLG！Zuian真的很强！Wenbo会被Zuian打死！",
-        "url": "https://www.bilibili.com/video/BV1yQu86HEkC",
+        "title": "BLG 1:0 TES后虎扑现状",
+        "url": "https://www.bilibili.com/video/BV1oMuh66EVY",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1yQu86HEkC",
-        "author": "登峰资讯ovo",
-        "duration": "2:4",
-        "cover": "//i0.hdslb.com/bfs/archive/a36982c3c82632d7d4d509407b109c3b6e46e11c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yQu86HEkC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1oMuh66EVY",
+        "author": "世一录",
+        "duration": "1:0",
+        "cover": "//i2.hdslb.com/bfs/archive/98b195d0264eaa573f6a0c3cebf2ef3db8059634.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oMuh66EVY&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG vs TES LPL第三赛段"
       },
       {
@@ -313,7 +313,7 @@
         "bvid": "BV1rRut6rEGS",
         "author": "超Carry的柴西",
         "duration": "29:5",
-        "cover": "//i0.hdslb.com/bfs/archive/c834cea29646c3a07224388e7b410bd9f899e1e1.jpg",
+        "cover": "//i0.hdslb.com/bfs/archive/bf3f07f9156dd65a2d495bf3ff4f0cd8109592ea.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rRut6rEGS&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "柴西洛杉矶自驾体验落日飞车"
       },
@@ -334,19 +334,19 @@
         "hotTitle": "EDG vs TEC VCT第二赛段"
       },
       {
-        "title": "（复盘 edg jdg）理性看待jiejie真的区吗？",
-        "url": "https://www.bilibili.com/video/BV1Cdu86UEE9",
+        "title": "JDG 2-0 EDG 赛后数据雷达图+虎扑评分丨LPL第三赛段",
+        "url": "https://www.bilibili.com/video/BV11Uut61EpN",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Cdu86UEE9",
-        "author": "Old-天鹅",
-        "duration": "17:14",
-        "cover": "//i1.hdslb.com/bfs/archive/7ec5bbbcc22def665e13af1d2f08c8d117fb03a3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Cdu86UEE9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV11Uut61EpN",
+        "author": "苦练李香兰",
+        "duration": "2:39",
+        "cover": "//i0.hdslb.com/bfs/archive/e096b5565d9107d83da6ef6d05afd3c1fd2f5bd1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11Uut61EpN&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "JDG战胜EDG LPL第三赛段"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786108266741,
-    "bilibili": 1786108275365,
-    "qbitai": 1786108289570,
-    "36kr": 1786108290038
+    "thepaper": 1786109165913,
+    "bilibili": 1786108012693,
+    "qbitai": 1786109194429,
+    "36kr": 1786109194794
   },
   "failures": {}
 }
