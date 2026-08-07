@@ -114,7 +114,7 @@ def main():
         drawer = all(marker in body for marker in (
             b'id="dockToggle"', b'id="dockBackdrop"', b'data-view="sites"',
             b'id="sitesView"', b'transform:translateX(-105%)', b'body.dock-open .sidebar',
-            b'.shell{z-index:auto;display:block', b'id="siteSearch"', b'SITE_EXTRA_SOFTWARE', b'function siteMatchScore(',
+            b'.shell{z-index:auto;display:block', b'pointer-events:none;transition:.25s', b'id="siteSearch"', b'SITE_EXTRA_SOFTWARE', b'function siteMatchScore(',
         ))
         settings_clean = b'id="autoSearch"' not in body and b'id="defaultPlace"' not in body
         print("PUBLIC_ROOT", resp.status, len(body), "VERSION", b"1.13.0-sites-search" in body, "STUDY", b"study-nav-icon" in body, "LEFT_DRAWER", drawer, "SETTINGS_CLEAN", settings_clean, flush=True)
