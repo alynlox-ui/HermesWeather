@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T14:41:36Z",
+  "updatedAt": "2026-08-07T14:56:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "U17国足战胜河床挺进决赛"
       },
       {
-        "title": "TES vs BLG 战斗爽！TES落后9000上演惊天大翻盘！双方40分钟65颗头史诗级激战！Game 1 | 2026 LPL第三赛段",
-        "url": "https://www.bilibili.com/video/BV1dau86NEgM",
+        "title": "德云色看TES翻盘BLG：鏖战40分钟,翻中翻中翻！左手on状态低迷无限给机会被翻盘！zuian小C一把！",
+        "url": "https://www.bilibili.com/video/BV1d8u86iERg",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "相关游戏：英雄联盟",
-        "content": "相关游戏：英雄联盟",
-        "bvid": "BV1dau86NEgM",
-        "author": "呆梦demo",
-        "duration": "17:46",
-        "cover": "//i2.hdslb.com/bfs/archive/346484db5bd72ec810171f27e98997e6eb88fe31.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dau86NEgM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "https://live.bilibili.com/7777 德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 百度贴吧：德云色",
+        "content": "https://live.bilibili.com/7777 德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 百度贴吧：德云色",
+        "bvid": "BV1d8u86iERg",
+        "author": "天才美少女深野昂",
+        "duration": "8:54",
+        "cover": "//i2.hdslb.com/bfs/archive/91dc70f828363c61341d3ad8ffda791cd1740350.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d8u86iERg&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TES战胜BLG LPL第三赛段"
       },
       {
@@ -216,7 +216,7 @@
         "content": "",
         "bvid": "BV1Ciuh6HE3E",
         "author": "羊的留声机",
-        "duration": "84:49",
+        "duration": "103:38",
         "cover": "//i2.hdslb.com/bfs/archive/a2f6d18a9e1722fc8388e1e04e84f72b3f63811f.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ciuh6HE3E&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "歌手总决赛陪看"
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786113665496,
-    "bilibili": 1786113674939,
-    "qbitai": 1786113695730,
-    "36kr": 1786113696077
+    "thepaper": 1786114567076,
+    "bilibili": 1786113420264,
+    "qbitai": 1786114596109,
+    "36kr": 1786114596462
   },
   "failures": {}
 }
