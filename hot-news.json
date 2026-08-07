@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T15:11:40Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-08-07T15:26:57Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -222,19 +222,19 @@
         "hotTitle": "苏炜杰获统计学界诺贝尔奖"
       },
       {
-        "title": "爆了！BLG被TES零封第一视角Xun无奈的笑了，输的太简单了被速通了！姿态直接看傻了TEs速通BLG",
-        "url": "https://www.bilibili.com/video/BV1M2u86dEza",
+        "title": "德云色看TES翻盘BLG：鏖战40分钟,翻中翻中翻！左手on状态低迷无限给机会被翻盘！zuian小C一把！",
+        "url": "https://www.bilibili.com/video/BV1d8u86iERg",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1M2u86dEza",
-        "author": "关于LPL",
-        "duration": "2:54",
-        "cover": "//i0.hdslb.com/bfs/archive/55ec87c4be95a23c7d77a9c0062550c94a1e6e5a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1M2u86dEza&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "https://live.bilibili.com/7777 德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 百度贴吧：德云色",
+        "content": "https://live.bilibili.com/7777 德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 百度贴吧：德云色",
+        "bvid": "BV1d8u86iERg",
+        "author": "天才美少女深野昂",
+        "duration": "8:54",
+        "cover": "//i2.hdslb.com/bfs/archive/91dc70f828363c61341d3ad8ffda791cd1740350.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d8u86iERg&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TES战胜BLG LPL第三赛段"
       },
       {
@@ -350,19 +350,19 @@
         "hotTitle": "铁豆钢蛋锐评单依纯舞台"
       },
       {
-        "title": "TT 2-1 WE 赛后数据雷达图+虎扑评分丨LPL第三赛段",
-        "url": "https://www.bilibili.com/video/BV14huh6dEpw",
+        "title": "【英文流集锦】WE vs TT Highlights Game 2 ｜ LPL 2026 Split 3 ｜",
+        "url": "https://www.bilibili.com/video/BV1o3uh6BENm",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV14huh6dEpw",
-        "author": "苦练李香兰",
-        "duration": "3:34",
-        "cover": "//i2.hdslb.com/bfs/archive/239dca61239f8735fbcb30b242a1fabcbb44e038.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14huh6dEpw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1o3uh6BENm",
+        "author": "愿天堂没有雷诺",
+        "duration": "10:3",
+        "cover": "//i1.hdslb.com/bfs/archive/07e13d88eb7ea8b7a9a2e507ee6bb887a8e3107e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1o3uh6BENm&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TT战胜WE LPL第三赛段"
       },
       {
@@ -1142,10 +1142,11 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786115466012,
-    "bilibili": 1786115478076,
-    "qbitai": 1786115499874,
-    "36kr": 1786115500411
+    "thepaper": 1786116369318,
+    "bilibili": 1786115225502,
+    "36kr": 1786116417560
   },
-  "failures": {}
+  "failures": {
+    "qbitai": "RuntimeError('QbitAI JSON not found')"
+  }
 }
