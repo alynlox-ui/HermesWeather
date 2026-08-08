@@ -122,8 +122,8 @@ def main():
             b"assets/site-icons/playnite.png", b"assets/site-icons/eartrumpet.png",
         ))
         settings_clean = b'id="autoSearch"' not in body and b'id="defaultPlace"' not in body
-        print("PUBLIC_ROOT", resp.status, len(body), "VERSION", b"1.16.0-official-icons" in body, "STUDY", b"study-nav-icon" in body, "LEFT_DRAWER", drawer, "SITES_EXPANDED", sites_expanded, "SETTINGS_CLEAN", settings_clean, flush=True)
-        if b"1.16.0-official-icons" not in body or b"study-nav-icon" not in body or not drawer or not sites_expanded or not settings_clean:
+        print("PUBLIC_ROOT", resp.status, len(body), "VERSION", b"1.16.1-game-ai-icons" in body, "STUDY", b"study-nav-icon" in body, "LEFT_DRAWER", drawer, "SITES_EXPANDED", sites_expanded, "SETTINGS_CLEAN", settings_clean, flush=True)
+        if b"1.16.1-game-ai-icons" not in body or b"study-nav-icon" not in body or not drawer or not sites_expanded or not settings_clean:
             print("PUBLIC_VERSION_MISMATCH", flush=True)
             return 8
     with urllib.request.urlopen(PUBLIC_URL + "study-goal-tracker.html?public_verify=" + str(time.time()), timeout=90) as resp:
