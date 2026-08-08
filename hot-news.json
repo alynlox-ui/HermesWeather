@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:11:35Z",
+  "updatedAt": "2026-08-08T15:26:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -318,19 +318,19 @@
         "hotTitle": "AL战胜LGD LPL第三赛段"
       },
       {
-        "title": "【鬼叔黍】洛神杯淘汰赛！2026.08.08 直播回放",
-        "url": "https://www.bilibili.com/video/BV1xou36KETN",
+        "title": "本来很困直接玩精神了！鬼叔试玩中式微恐搜打撤新游戏《诡影藏锋》",
+        "url": "https://www.bilibili.com/video/BV11cu563E7B",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "鬼叔黍直播，直播间地址：https://live.bilibili.com/23679394 字幕可以从右下角打开或者右上角三个点然后选择字幕开启 内容仅供娱乐，直播中主播的言论、观点和行为均由主播本人负责，不代表录播员的观点和立场。",
-        "content": "鬼叔黍直播，直播间地址：https://live.bilibili.com/23679394 字幕可以从右下角打开或者右上角三个点然后选择字幕开启 内容仅供娱乐，直播中主播的言论、观点和行为均由主播本人负责，不代表录播员的观点和立场。",
-        "bvid": "BV1xou36KETN",
-        "author": "A录播姬",
-        "duration": "135:41",
-        "cover": "//i1.hdslb.com/bfs/archive/a1de3bcc7e11e268fbc40b91ead60978f96d6d34.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xou36KETN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV11cu563E7B",
+        "author": "七丘决斗王",
+        "duration": "8:38",
+        "cover": "//i0.hdslb.com/bfs/archive/a6c8c7d2092c3bcb193599253405744fdf31c514.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11cu563E7B&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "鬼叔黍试玩诡影藏锋"
       },
       {
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786201863046,
-    "bilibili": 1786201871707,
-    "qbitai": 1786201895027,
-    "36kr": 1786201895376
+    "thepaper": 1786202763046,
+    "bilibili": 1786201395023,
+    "qbitai": 1786202793587,
+    "36kr": 1786202793886
   },
   "failures": {}
 }
