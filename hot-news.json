@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T13:41:31Z",
+  "updatedAt": "2026-08-08T13:56:38Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "【2026LPL第三赛段】7月24日 EDG vs BLG",
-        "url": "https://www.bilibili.com/video/BV1UBge66Eyh",
+        "title": "【2026LPL第三赛段】8月8日 BLG vs EDG",
+        "url": "https://www.bilibili.com/video/BV1z4u36dEm4",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026LPL第三赛段】7月24日 EDG vs BLG",
-        "content": "【2026LPL第三赛段】7月24日 EDG vs BLG",
-        "bvid": "BV1UBge66Eyh",
+        "description": "【2026LPL第三赛段】8月8日 BLG vs EDG",
+        "content": "【2026LPL第三赛段】8月8日 BLG vs EDG",
+        "bvid": "BV1z4u36dEm4",
         "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "180:46",
-        "cover": "//i2.hdslb.com/bfs/archive/3ef9de3add24b5848b308c5104b01232ef5cc2f2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UBge66Eyh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "129:30",
+        "cover": "//i0.hdslb.com/bfs/archive/e80bbab4011f02377dfeb3f68cc3e4b3814f3975.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z4u36dEm4&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG vs EDG LPL第三赛段"
       },
       {
@@ -950,6 +950,16 @@
         "rank": 4
       },
       {
+        "title": "十周年“新物种爆炸”发布会登陆香港，吴声发布六大AI商业预判",
+        "url": "https://m.36kr.com/newsflashes/3930928095837315",
+        "desc": "8月8日，第十届“新物种爆炸·吴声商业方法发布2026”在香港会展中心举行。活动上，场景实验室创始人吴声提出“下一代消费者”概念，核心特质为身体感、创造欲、信息祛魅。同时发布六大愿景商业趋势：人与AI构建意图共同体、MVF取代传统MVP、品牌进化为任务系统、材料主义消费爆发、轻量化个人创作普及、留白经济迎来增长窗口。吴声表示香港是天然的全球场景转换器，为国货出海、产业AI转型提供实践样本。",
+        "cover": "",
+        "date": 1786196810536,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "新疆优化调整旅游景区内自驾服务费",
         "url": "https://m.36kr.com/newsflashes/3930681265945987",
         "desc": "新疆维吾尔自治区文化和旅游厅8月8日消息，为持续优化旅游环境，更大力度惠及广大游客，新疆维吾尔自治区文化和旅游厅联合有关部门指导全区4A级及以上涉收取自驾服务费的旅游景区，对收费模式和标准作出优化调整。各景区制定优化调整方案，按程序报备后，将原按“人”收费、按“车”收费全部调整为按“车”收费，根据不同车型（以机动车行驶证核定载人数为准），5座及以下价格均不超过120元/车，6至7座不超过180元/车，8至19座不超过300元/车，20座及以上不超过600元/车。因票务系统需调整升级，原按“人”收费调整为按“车”收费的景区，新方案不晚于8月20日0时起执行，新方案开始实行前为过渡期，过渡期内价格均不超过30元/人；原按“车”收费的景区，新方案不晚于8月12日0时起执行，不设过渡期。",
@@ -957,7 +967,7 @@
         "date": 1786183858000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "Apple智能可配合阿里千问模型工作",
@@ -967,7 +977,7 @@
         "date": 1786183220000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "江波龙：完成37亿元定增事项 发行价格为560元/股",
@@ -977,7 +987,7 @@
         "date": 1786182325000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "张雪机车：成立小车手培育专项基金，每年捐赠100万元",
@@ -987,7 +997,7 @@
         "date": 1786181424000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "景林资产二季度大举清仓美股科技巨头，转投半导体上游设备与算力基建",
@@ -997,7 +1007,7 @@
         "date": 1786180253000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "我国首个预防急性高原病药物获批上市",
@@ -1007,7 +1017,7 @@
         "date": 1786179040000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "阳光电源：FCC政策主要限制新产品认证 不影响已获认证产品的销售",
@@ -1017,7 +1027,7 @@
         "date": 1786177881000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "日媒：中国企业高校研发总投入超美国，居世界第一",
@@ -1027,7 +1037,7 @@
         "date": 1786176773000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "中信聚信落子南京",
@@ -1037,7 +1047,7 @@
         "date": 1786175642000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "湖北首家宇树科技产业学院成立",
@@ -1047,7 +1057,7 @@
         "date": 1786174522000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "爷爷不泡茶：网传门店冲突事件发生于2025年，双方已达成和解",
@@ -1057,7 +1067,7 @@
         "date": 1786173223000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "金饰克价，重回1300元",
@@ -1067,7 +1077,7 @@
         "date": 1786171478000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "美媒：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -1077,7 +1087,7 @@
         "date": 1786170050000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "2026年8月票房破15亿元",
@@ -1087,7 +1097,7 @@
         "date": 1786168292000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "新兴产业新设企业40万户 上半年全国经营主体发展数据发布",
@@ -1097,7 +1107,7 @@
         "date": 1786167019000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "香港保监局：密切关注内地有关金融产品税务安排",
@@ -1107,7 +1117,7 @@
         "date": 1786165226000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
@@ -1117,7 +1127,7 @@
         "date": 1786163550000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "禁止“抱团”抬价！东北明确新能源集中报价仅限同省同集团",
@@ -1127,7 +1137,7 @@
         "date": 1786162239000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "工信部第410批《道路机动车辆生产企业及产品公告》发布，问界M8多款车型在列",
@@ -1137,25 +1147,15 @@
         "date": 1786161418174,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "Alphabet启动250亿美元债券发行，期限最长达40年",
-        "url": "https://m.36kr.com/newsflashes/3930242344107137",
-        "desc": "当地时间8月7日，谷歌母公司Alphabet宣布拟发行总额250亿美元的高级无抵押债券，包括浮动利率债券和固定利率债券，期限覆盖2028年至2066年。其中，固定利率债券期限最长为2066年到期，票面利率最高为6.5%。（界面新闻）",
-        "cover": "",
-        "date": 1786161099000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786196463894,
-    "bilibili": 1786196469863,
-    "qbitai": 1786196491572,
-    "36kr": 1786196491878
+    "thepaper": 1786197365976,
+    "bilibili": 1786195992052,
+    "qbitai": 1786197397979,
+    "36kr": 1786197398348
   },
   "failures": {}
 }
