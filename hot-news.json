@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-08T06:11:36Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-08-08T06:28:05Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -950,6 +950,16 @@
         "rank": 4
       },
       {
+        "title": "美媒：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
+        "url": "https://m.36kr.com/newsflashes/3930378631740804",
+        "desc": "美国媒体8月7日披露，美国太空探索技术公司(SpaceX)创始人马斯克明确拒绝允许乌克兰军方利用SpaceX旗下卫星互联网系统“星链”打击俄罗斯境内目标。美国《大西洋》杂志以乌前国防部长费多罗夫两名“身边人”为消息源报道，费多罗夫此前一直在推动利用“星链”打击俄罗斯境内目标，曾尝试通过私下渠道与马斯克接触，但遭到后者拒绝。“截至目前，（马斯克）没有作出同意的决定。”报道称，马斯克之所以拒绝乌方用“星链”对俄进行纵深打击，是担心危机进一步升级。（新华社）",
+        "cover": "",
+        "date": 1786170050000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "2026年8月票房破15亿元",
         "url": "https://m.36kr.com/newsflashes/3930372028267655",
         "desc": "据灯塔专业版，截至8月8日，2026年8月总票房（含预售）突破15亿，《蜘蛛侠：崭新之日》《八仙！》《功夫女足》《年会不能停！2》《痴迷》暂列8月票房榜前五​​。（第一财经）",
@@ -957,7 +967,7 @@
         "date": 1786168292000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "新兴产业新设企业40万户 上半年全国经营主体发展数据发布",
@@ -967,7 +977,7 @@
         "date": 1786167019000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "香港保监局：密切关注内地有关金融产品税务安排",
@@ -977,7 +987,7 @@
         "date": 1786165226000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
@@ -987,7 +997,7 @@
         "date": 1786163550000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "禁止“抱团”抬价！东北明确新能源集中报价仅限同省同集团",
@@ -997,7 +1007,7 @@
         "date": 1786162239000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "工信部第410批《道路机动车辆生产企业及产品公告》发布，问界M8多款车型在列",
@@ -1007,7 +1017,7 @@
         "date": 1786161418174,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "Alphabet启动250亿美元债券发行，期限最长达40年",
@@ -1017,7 +1027,7 @@
         "date": 1786161099000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "英伟达据悉拟向Lancium投资最高30亿美元 支持AI数据中心电力基础设施",
@@ -1027,7 +1037,7 @@
         "date": 1786160028000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "中国东方电气集团原董事宋致远接受审查调查",
@@ -1037,7 +1047,7 @@
         "date": 1786158940657,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "英特尔任命Dean Jarnac为首席销售官",
@@ -1047,7 +1057,7 @@
         "date": 1786158891000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "A股半年报盘点丨171家上市公司已披露 16家公司净利润超10亿元",
@@ -1057,7 +1067,7 @@
         "date": 1786157731000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "7月我国线下消费持续升温 消费支付金额同比增长2.2%",
@@ -1067,7 +1077,7 @@
         "date": 1786156563000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "消息称SpaceX收购Cursor交易最快下周完成，新产品或启用Grok品牌",
@@ -1077,7 +1087,7 @@
         "date": 1786155284000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "星环聚能完成新一轮8.8亿元融资",
@@ -1087,7 +1097,7 @@
         "date": 1786154214000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "Anthropic优化Fable 5生物安全机制，将减少85%相关误拦截",
@@ -1097,7 +1107,7 @@
         "date": 1786152941000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "FOF迎来发行大年 年内首募规模已超1300亿元",
@@ -1107,7 +1117,7 @@
         "date": 1786151776000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "国际贵金属期货普遍收涨 COMEX白银期货本周累涨超10%",
@@ -1117,7 +1127,7 @@
         "date": 1786151325166,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "奥特曼称OpenAI正推进Astra开放，但因网络安全风险需延后部署",
@@ -1127,7 +1137,7 @@
         "date": 1786151138000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "美股三大指数创4月中旬以来最大单周涨幅、标普500指数再创收盘新高",
@@ -1137,25 +1147,16 @@
         "date": 1786150301513,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "北京：非京籍家庭购房社保个税缴纳年限下调为一年",
-        "url": "https://m.36kr.com/newsflashes/3929500119334016",
-        "desc": "北京市住房和城乡建设委员会、北京市规划和自然资源委员会、北京住房公积金管理中心7日晚联合印发《关于进一步优化调整本市房地产政策的通知》，明确非京籍家庭购买五环内商品住房的社保或个税缴纳年限由“2年”，调减为“1年”。调整后，非京籍家庭在全市范围内购买商品住房的社保或个税缴纳年限统一为“1年”，购买商品住房的套数保持不变。即：社保或个税缴纳满1年的非京籍家庭，在五环内可购买1套商品住房，多子女家庭可再多购买1套；在五环外，不限购买套数。《通知》自8日起实施。（央视新闻）",
-        "cover": "",
-        "date": 1786109653767,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786169468906,
-    "bilibili": 1786169480892,
-    "qbitai": 1786169496209,
-    "36kr": 1786169496824
+    "thepaper": 1786170367882,
+    "bilibili": 1786168941342,
+    "36kr": 1786170485618
   },
-  "failures": {}
+  "failures": {
+    "qbitai": "TimeoutExpired(['C:\\\\Program Files (x86)\\\\Microsoft\\\\Edge\\\\Application\\\\msedge.exe', '--headless=new', '--disable-gpu', '--no-first-run', '--disable-extensions', '--user-data-dir=F:\\\\Hermes\\\\weather_app\\\\.hot-news-fetch-profile\\\\qbitai', '--dump-dom', 'https://www.qbitai.com/wp-json/wp/v2/posts?per_page=30&_embed=1'], 75)"
+  }
 }
