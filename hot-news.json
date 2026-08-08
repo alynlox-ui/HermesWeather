@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T14:11:35Z",
+  "updatedAt": "2026-08-08T14:26:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -136,7 +136,7 @@
         "content": "【2026EWC王者荣耀电竞世俱杯】8月8日 决赛 AG.AL VS KSG",
         "bvid": "BV1Smu36GE6H",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "94:52",
+        "duration": "125:16",
         "cover": "//i2.hdslb.com/bfs/archive/5f712782fb2c8f4ffe7466170d76b32640138003.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Smu36GE6H&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "AG.AL vs KSG KWC"
@@ -286,7 +286,7 @@
         "hotTitle": "从游客视角探秘陶瓷文化"
       },
       {
-        "title": "点映大爆！超越药神？蛰伏两年的《龙餐馆》，能否压哨登顶",
+        "title": "点映大爆！和药神齐名？蛰伏两年的《龙餐馆》，能否压哨登顶",
         "url": "https://www.bilibili.com/video/BV1Wquh6QEJH",
         "desc": "",
         "rank": 11,
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786198264005,
-    "bilibili": 1786198277561,
-    "qbitai": 1786198294862,
-    "36kr": 1786198295181
+    "thepaper": 1786199164557,
+    "bilibili": 1786197794253,
+    "qbitai": 1786199192127,
+    "36kr": 1786199192659
   },
   "failures": {}
 }
