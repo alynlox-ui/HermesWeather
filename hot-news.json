@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T03:56:31Z",
+  "updatedAt": "2026-08-08T04:11:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -910,21 +910,21 @@
     ],
     "36kr": [
       {
-        "title": "突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-        "url": "https://m.36kr.com/p/3930193006837125",
+        "title": "Cursor，即将彻底消失？",
+        "url": "https://m.36kr.com/p/3930343633141121",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20260808/v2_7869a8dabd2443f780717b379ec6c5d9@000000_oswg134859oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
-        "date": 1786154089991,
+        "cover": "https://img.36krcdn.com/hsossms/20260808/v2_62208ddf092a4b0b887289e98493c238@000000_oswg142638oswg1280oswg543_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
+        "date": 1786161463195,
         "platform": "36kr",
         "kind": "article",
         "rank": 1
       },
       {
-        "title": "SpaceX对手破产了",
-        "url": "https://m.36kr.com/p/3929185899314567",
+        "title": "突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
+        "url": "https://m.36kr.com/p/3930193006837125",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20260807/v2_647fae07196b4f56a0d267b6a1f0e50a@000000@ai_oswg337175oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1786099804220,
+        "cover": "https://img.36krcdn.com/hsossms/20260808/v2_7869a8dabd2443f780717b379ec6c5d9@000000_oswg134859oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
+        "date": 1786154089991,
         "platform": "36kr",
         "kind": "article",
         "rank": 2
@@ -950,6 +950,26 @@
         "rank": 4
       },
       {
+        "title": "禁止“抱团”抬价！东北明确新能源集中报价仅限同省同集团",
+        "url": "https://m.36kr.com/newsflashes/3930248168881537",
+        "desc": "36氪获悉，据中国电力报，国家能源局东北监管局日前印发《东北区域集中式新能源发电企业集中报价工作实施方案（试行）》，对辽宁、吉林、黑龙江三省集中式风电、光伏发电企业的市场报价行为作出系统性规范。其中明确，原则上仅允许同一集团（同一母公司、同一控股股东、同一实际控制人等）内同一省的新能源发电企业进行集中报价，禁止跨集团、跨省集中报价。禁止具有竞争关系的经营者达成固定或变更商品关系的垄断协议。",
+        "cover": "",
+        "date": 1786162239000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "工信部第410批《道路机动车辆生产企业及产品公告》发布，问界M8多款车型在列",
+        "url": "https://m.36kr.com/newsflashes/3930348227378313",
+        "desc": "近日，工信部第410批《道路机动车辆生产企业及产品公告》公示，鸿蒙智行新款问界M8四款车型完成申报。本次申报包含两款增程版本、两款纯电版本，增程车型分别搭载磷酸铁锂、三元锂电池，纯电版提供不同整备质量配置，实现双动力路线全覆盖。硬件层面全系标配EDR事件数据记录系统，支持选装多规格轮辋、侧脚踏板与ETC车载终端，轮胎提供20英寸、21英寸多套规格可选。随着公告落地，问界M8产品矩阵进一步完善，增程+纯电双线布局。",
+        "cover": "",
+        "date": 1786161418174,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "Alphabet启动250亿美元债券发行，期限最长达40年",
         "url": "https://m.36kr.com/newsflashes/3930242344107137",
         "desc": "当地时间8月7日，谷歌母公司Alphabet宣布拟发行总额250亿美元的高级无抵押债券，包括浮动利率债券和固定利率债券，期限覆盖2028年至2066年。其中，固定利率债券期限最长为2066年到期，票面利率最高为6.5%。（界面新闻）",
@@ -957,7 +977,7 @@
         "date": 1786161099000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "英伟达据悉拟向Lancium投资最高30亿美元 支持AI数据中心电力基础设施",
@@ -967,7 +987,7 @@
         "date": 1786160028000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "中国东方电气集团原董事宋致远接受审查调查",
@@ -977,7 +997,7 @@
         "date": 1786158940657,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "英特尔任命Dean Jarnac为首席销售官",
@@ -987,7 +1007,7 @@
         "date": 1786158891000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "A股半年报盘点丨171家上市公司已披露 16家公司净利润超10亿元",
@@ -997,7 +1017,7 @@
         "date": 1786157731000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "7月我国线下消费持续升温 消费支付金额同比增长2.2%",
@@ -1007,7 +1027,7 @@
         "date": 1786156563000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "消息称SpaceX收购Cursor交易最快下周完成，新产品或启用Grok品牌",
@@ -1017,7 +1037,7 @@
         "date": 1786155284000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "星环聚能完成新一轮8.8亿元融资",
@@ -1027,7 +1047,7 @@
         "date": 1786154214000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "Anthropic优化Fable 5生物安全机制，将减少85%相关误拦截",
@@ -1037,7 +1057,7 @@
         "date": 1786152941000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "FOF迎来发行大年 年内首募规模已超1300亿元",
@@ -1047,7 +1067,7 @@
         "date": 1786151776000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "国际贵金属期货普遍收涨 COMEX白银期货本周累涨超10%",
@@ -1057,7 +1077,7 @@
         "date": 1786151325166,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "奥特曼称OpenAI正推进Astra开放，但因网络安全风险需延后部署",
@@ -1067,7 +1087,7 @@
         "date": 1786151138000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "美股三大指数创4月中旬以来最大单周涨幅、标普500指数再创收盘新高",
@@ -1077,7 +1097,7 @@
         "date": 1786150301513,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "北京：非京籍家庭购房社保个税缴纳年限下调为一年",
@@ -1087,7 +1107,7 @@
         "date": 1786109653767,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "热门中概股美股盘前多数上涨，小鹏集团涨超2%",
@@ -1097,7 +1117,7 @@
         "date": 1786107479257,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "美股大型科技股盘前涨跌不一，英特尔涨超2%",
@@ -1107,7 +1127,7 @@
         "date": 1786107324640,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "奥士康：公司未与英伟达、谷歌开展订单合作",
@@ -1117,7 +1137,7 @@
         "date": 1786106853758,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "美国5月和6月非农就业新增人数合计下修10.3万人",
@@ -1127,35 +1147,15 @@
         "date": 1786106603818,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "现货白银短线走强，涨超5%",
-        "url": "https://m.36kr.com/newsflashes/3929449836625033",
-        "desc": "36氪获悉，现货白银短线走强，涨超5%。",
-        "cover": "",
-        "date": 1786106584754,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "美国7月失业率报4.1%",
-        "url": "https://m.36kr.com/newsflashes/3929444395318656",
-        "desc": "美国7月失业率报4.1%，市场预估为4.2%，前值为4.2%。（界面）",
-        "cover": "",
-        "date": 1786106252643,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786161369047,
+    "thepaper": 1786162266800,
     "bilibili": 1786160497903,
-    "qbitai": 1786161391190,
-    "36kr": 1786161391807
+    "qbitai": 1786162292988,
+    "36kr": 1786162293565
   },
   "failures": {}
 }
