@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T07:41:31Z",
+  "updatedAt": "2026-08-08T07:56:44Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,26 @@
     ],
     "qbitai": [
       {
+        "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+        "url": "https://www.qbitai.com/2026/08/468555.html",
+        "desc": "海外团队纷纷下注，NeoLab浪潮狂飙",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/6f1864af701e645f41df0eb6dec4778a.png",
+        "date": "2026-08-08T15:56:09",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
+        "url": "https://www.qbitai.com/2026/08/468498.html",
+        "desc": "「我，Jeff Dean，打钱」",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/1dc9a3a154104fbaa698dc8dfccba84f.webp",
+        "date": "2026-08-08T15:51:53",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
+      {
         "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
         "url": "https://www.qbitai.com/2026/08/468462.html",
         "desc": "唉，赶紧整完快点发布吧。。。",
@@ -615,7 +635,7 @@
         "date": "2026-08-08T12:33:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 3
       },
       {
         "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
@@ -625,7 +645,7 @@
         "date": "2026-08-08T10:45:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 4
       },
       {
         "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
@@ -635,7 +655,7 @@
         "date": "2026-08-08T10:35:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
@@ -645,7 +665,7 @@
         "date": "2026-08-07T15:43:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
@@ -655,7 +675,7 @@
         "date": "2026-08-07T14:21:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
@@ -665,7 +685,7 @@
         "date": "2026-08-07T14:18:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
@@ -675,7 +695,7 @@
         "date": "2026-08-07T13:30:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
@@ -685,7 +705,7 @@
         "date": "2026-08-07T11:23:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
@@ -695,7 +715,7 @@
         "date": "2026-08-07T11:23:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
@@ -705,7 +725,7 @@
         "date": "2026-08-07T11:08:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "AI SSD：大模型推理的存储范式转移",
@@ -715,7 +735,7 @@
         "date": "2026-08-07T10:56:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
@@ -725,7 +745,7 @@
         "date": "2026-08-07T09:39:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "智元下架了首席科学家罗剑岚",
@@ -735,7 +755,7 @@
         "date": "2026-08-07T09:25:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
@@ -745,7 +765,7 @@
         "date": "2026-08-07T09:15:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "冲刺全球首个100万小时具身数据！国产公司联手了",
@@ -755,7 +775,7 @@
         "date": "2026-08-07T08:55:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
@@ -765,7 +785,7 @@
         "date": "2026-08-07T08:25:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
@@ -775,7 +795,7 @@
         "date": "2026-08-06T17:58:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
@@ -785,7 +805,7 @@
         "date": "2026-08-06T16:02:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
@@ -795,7 +815,7 @@
         "date": "2026-08-06T15:43:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "这人谁啊？哈萨比斯都让位了",
@@ -805,7 +825,7 @@
         "date": "2026-08-06T14:17:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”",
@@ -815,7 +835,7 @@
         "date": "2026-08-06T13:36:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
@@ -825,7 +845,7 @@
         "date": "2026-08-06T13:29:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
@@ -835,7 +855,7 @@
         "date": "2026-08-06T07:52:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 25
       },
       {
         "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
@@ -845,7 +865,7 @@
         "date": "2026-08-05T22:09:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 26
       },
       {
         "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
@@ -855,7 +875,7 @@
         "date": "2026-08-05T21:47:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 27
       },
       {
         "title": "又一家AI基金暴雷了",
@@ -865,7 +885,7 @@
         "date": "2026-08-05T20:43:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 28
       },
       {
         "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
@@ -875,7 +895,7 @@
         "date": "2026-08-05T17:38:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 29
       },
       {
         "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
@@ -883,26 +903,6 @@
         "desc": "10秒1080P，成本只要5毛钱",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/截屏2026-08-05-15.02.48-e1785913402661.png",
         "date": "2026-08-05T15:05:41",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 28
-      },
-      {
-        "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
-        "url": "https://www.qbitai.com/2026/08/466739.html",
-        "desc": "内部默认用GPT-5.6",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/2026hfl-nadella-1.jpeg",
-        "date": "2026-08-05T14:33:40",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
-        "url": "https://www.qbitai.com/2026/08/466553.html",
-        "desc": "CUDA又危了？",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/79133230d36a28a46f6bdc9645ac5e6e.webp",
-        "date": "2026-08-05T13:53:38",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -950,6 +950,16 @@
         "rank": 4
       },
       {
+        "title": "中信聚信落子南京",
+        "url": "https://m.36kr.com/newsflashes/3930546214239363",
+        "desc": "36氪获悉，据南京发布，8月4日，“南京聚信天晟股权投资合伙企业（有限合伙）”正式落地紫金山国际科创基金街区。基金规模10.01亿元，管理人为中信聚信（北京）资本管理有限公司，其向上穿透的实际控制人为中信集团，管理人整体管理规模超百亿元。该基金在2026紫金山创投大会上签约启动组建，将重点投向新一代信息技术、高端装备、新材料、新能源、生物医药及新消费等领域。",
+        "cover": "",
+        "date": 1786175642000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "湖北首家宇树科技产业学院成立",
         "url": "https://m.36kr.com/newsflashes/3930542821277061",
         "desc": "36氪获悉，据湖北日报，8月7日，湖北省首家宇树科技产业学院在长江工程职业技术学院成立。据报道，“宇树科技产业学院”由宇树科技股份有限公司与长江工程职业技术学院共建，实行“企业专家任院长、校内教授任执行副院长”双院长制管理架构，聚焦机器人调试、运维、技术支持等市场紧缺岗位，精准培育紧缺人才。",
@@ -957,7 +967,7 @@
         "date": 1786174522000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "爷爷不泡茶：网传门店冲突事件发生于2025年，双方已达成和解",
@@ -967,7 +977,7 @@
         "date": 1786173223000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "金饰克价，重回1300元",
@@ -977,7 +987,7 @@
         "date": 1786171478000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "美媒：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -987,7 +997,7 @@
         "date": 1786170050000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "2026年8月票房破15亿元",
@@ -997,7 +1007,7 @@
         "date": 1786168292000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "新兴产业新设企业40万户 上半年全国经营主体发展数据发布",
@@ -1007,7 +1017,7 @@
         "date": 1786167019000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "香港保监局：密切关注内地有关金融产品税务安排",
@@ -1017,7 +1027,7 @@
         "date": 1786165226000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
@@ -1027,7 +1037,7 @@
         "date": 1786163550000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "禁止“抱团”抬价！东北明确新能源集中报价仅限同省同集团",
@@ -1037,7 +1047,7 @@
         "date": 1786162239000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "工信部第410批《道路机动车辆生产企业及产品公告》发布，问界M8多款车型在列",
@@ -1047,7 +1057,7 @@
         "date": 1786161418174,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "Alphabet启动250亿美元债券发行，期限最长达40年",
@@ -1057,7 +1067,7 @@
         "date": 1786161099000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "英伟达据悉拟向Lancium投资最高30亿美元 支持AI数据中心电力基础设施",
@@ -1067,7 +1077,7 @@
         "date": 1786160028000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "中国东方电气集团原董事宋致远接受审查调查",
@@ -1077,7 +1087,7 @@
         "date": 1786158940657,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "英特尔任命Dean Jarnac为首席销售官",
@@ -1087,7 +1097,7 @@
         "date": 1786158891000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "A股半年报盘点丨171家上市公司已披露 16家公司净利润超10亿元",
@@ -1097,7 +1107,7 @@
         "date": 1786157731000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "7月我国线下消费持续升温 消费支付金额同比增长2.2%",
@@ -1107,7 +1117,7 @@
         "date": 1786156563000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "消息称SpaceX收购Cursor交易最快下周完成，新产品或启用Grok品牌",
@@ -1117,7 +1127,7 @@
         "date": 1786155284000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "星环聚能完成新一轮8.8亿元融资",
@@ -1127,7 +1137,7 @@
         "date": 1786154214000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "Anthropic优化Fable 5生物安全机制，将减少85%相关误拦截",
@@ -1137,25 +1147,15 @@
         "date": 1786152941000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "FOF迎来发行大年 年内首募规模已超1300亿元",
-        "url": "https://m.36kr.com/newsflashes/3930177284455556",
-        "desc": "Choice数据显示，截至8月7日，年内新成立了121只FOF产品，总计募集规模达到1311.73亿元，在全部新发基金募集规模中占比超过18%。无论是规模还是占比，均已创出历史单年新高。今年以来，FOF产品的结构性分化现象较为显著。Choice数据显示，如果不算今年新成立的FOF，存量FOF二季度末规模为2246.88亿元，较去年末下降了近185亿元。（上海证券报）",
-        "cover": "",
-        "date": 1786151776000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786174867797,
-    "bilibili": 1786174872853,
-    "qbitai": 1786174890747,
-    "36kr": 1786174891344
+    "thepaper": 1786175769055,
+    "bilibili": 1786174344705,
+    "qbitai": 1786175803344,
+    "36kr": 1786175804031
   },
   "failures": {}
 }
