@@ -109,9 +109,10 @@ class H(BaseHTTPRequestHandler):
   elif u.path=='/hot-news.json':
    self.send_static(ROOT/'hot-news.json','application/json; charset=utf-8',300)
   elif u.path.startswith('/assets/site-icons/'):
-   icon=(ROOT/u.path.lstrip('/')).resolve();icon_root=(ROOT/'assets'/'site-icons').resolve()
-   if icon.parent==icon_root and icon.suffix.lower()=='.png' and icon.is_file():self.send_static(icon,'image/png',86400)
-   else:self.send_error(404)
+     icon=(ROOT/u.path.lstrip('/')).resolve();icon_root=(ROOT/'assets'/'site-icons').resolve()
+     if icon.parent==icon_root and icon.suffix.lower()=='.png' and icon.is_file():self.send_static(icon,'image/png',86400)
+     elif icon.parent==icon_root and icon.suffix.lower()=='.svg' and icon.is_file():self.send_static(icon,'image/svg+xml',86400)
+     else:self.send_error(404)
   else:self.send_error(404)
  def log_message(self,*a):pass
 if __name__=='__main__':
