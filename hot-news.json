@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T09:11:33Z",
+  "updatedAt": "2026-08-08T09:26:29Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "【2024全球总决赛】10月17日 LNG vs WBG",
-        "url": "https://www.bilibili.com/video/BV1c8yTYkEvE",
+        "title": "【2026LPL第三赛段】8月8日 WBG vs LNG",
+        "url": "https://www.bilibili.com/video/BV1Couu6tExw",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2024全球总决赛】10月17日 LNG vs WBG",
-        "content": "【2024全球总决赛】10月17日 LNG vs WBG",
-        "bvid": "BV1c8yTYkEvE",
+        "description": "【2026LPL第三赛段】8月8日 WBG vs LNG",
+        "content": "【2026LPL第三赛段】8月8日 WBG vs LNG",
+        "bvid": "BV1Couu6tExw",
         "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "237:13",
-        "cover": "//i0.hdslb.com/bfs/archive/2cfa4a5649bcf3f1374c135c7695f5fed828eabe.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c8yTYkEvE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "131:1",
+        "cover": "//i0.hdslb.com/bfs/archive/e90120e3a361812a47793e706c6deaf11fbdafe4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Couu6tExw&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "WBG战胜LNG LPL第三赛段"
       },
       {
@@ -462,19 +462,19 @@
         "hotTitle": "怪兽中出了一个奥特曼的卧底"
       },
       {
-        "title": "白海豚将重回超强台风！登陆后警惕危险暴雨",
-        "url": "https://www.bilibili.com/video/BV1CDut65Esq",
+        "title": "台北龙卷风！白海豚外围悬臂引发极端天气，漏斗云接天连地",
+        "url": "https://www.bilibili.com/video/BV1pFug6xEtS",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
-        "description": "台风白海豚基本锁定登陆浙江了。而且科普航发现，白海豚还要焕发第六春，再次加强为超强台风，暴雨将远超巴威。白海豚会比巴威厉害多少？什么时候开始影响华东？ 8月7号白天，台风白海豚开始穿越琉球群岛，在黑潮暖流滋养下，白海豚的核心结构再次巩固、风眼又一次清晰，与论岛机场气象站在白海豚的台风眼内测到了938百帕，可见它已经是15级强台风上限强度。接下来，白海豚将放慢移动速度，把台风鲸鱼残余环流和水汽彻底消化、体型也将迅速膨胀，很显然，白海豚正在进行它生命史中第六次，也是最后一次加强，中央气象台认为它将在7日夜间第",
-        "content": "台风白海豚基本锁定登陆浙江了。而且科普航发现，白海豚还要焕发第六春，再次加强为超强台风，暴雨将远超巴威。白海豚会比巴威厉害多少？什么时候开始影响华东？ 8月7号白天，台风白海豚开始穿越琉球群岛，在黑潮暖流滋养下，白海豚的核心结构再次巩固、风眼又一次清晰，与论岛机场气象站在白海豚的台风眼内测到了938百帕，可见它已经是15级强台风上限强度。接下来，白海豚将放慢移动速度，把台风鲸鱼残余环流和水汽彻底消化、体型也将迅速膨胀，很显然，白海豚正在进行它生命史中第六次，也是最后一次加强，中央气象台认为它将在7日夜间第",
-        "bvid": "BV1CDut65Esq",
-        "author": "中气爱科普航",
-        "duration": "1:44",
-        "cover": "//i2.hdslb.com/bfs/archive/05a8d5838570884a4820252b824774d1138d7ac7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CDut65Esq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1pFug6xEtS",
+        "author": "中气爱mini",
+        "duration": "1:45",
+        "cover": "//i0.hdslb.com/bfs/archive/21cd8b7acdbb0b90ebae252f002b62ac888f64fc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pFug6xEtS&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "台风白海豚实时路径"
       },
       {
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786180267351,
-    "bilibili": 1786180276485,
-    "qbitai": 1786180292599,
-    "36kr": 1786180293105
+    "thepaper": 1786181166728,
+    "bilibili": 1786179754625,
+    "qbitai": 1786181188761,
+    "36kr": 1786181189284
   },
   "failures": {}
 }
