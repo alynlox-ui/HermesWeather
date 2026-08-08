@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T11:11:26Z",
+  "updatedAt": "2026-08-08T11:26:26Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -136,7 +136,7 @@
         "content": "【2026LPL第三赛段】8月8日 LGD vs AL",
         "bvid": "BV1jjuG6pEcX",
         "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "78:50",
+        "duration": "125:58",
         "cover": "//i0.hdslb.com/bfs/archive/5ff1b47e125174b33eb2a126463dcf9a6686b082.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jjuG6pEcX&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "LGD vs AL LPL第三赛段"
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786187463445,
-    "bilibili": 1786187470819,
-    "qbitai": 1786187486597,
-    "36kr": 1786187486930
+    "thepaper": 1786188363137,
+    "bilibili": 1786186961563,
+    "qbitai": 1786188386253,
+    "36kr": 1786188386636
   },
   "failures": {}
 }
