@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T12:41:30Z",
+  "updatedAt": "2026-08-08T12:56:26Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "江苏省城市电竞超级联赛宿迁VS泰州",
-        "url": "https://www.bilibili.com/video/BV1Exu86gEET",
+        "title": "江苏省城市足球联赛 徐州vs常州",
+        "url": "https://www.bilibili.com/video/BV1z4u36dEZ9",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Exu86gEET",
-        "author": "宿迁电子竞技运动协会",
-        "duration": "0:36",
-        "cover": "//i0.hdslb.com/bfs/archive/5af972ea7db1df3137e91c7868ece36c1aa53702.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Exu86gEET&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1z4u36dEZ9",
+        "author": "飞毛腿_摩根",
+        "duration": "1:25",
+        "cover": "//i0.hdslb.com/bfs/archive/6ff649e7bb3d35e5a3bc444e22ef6bce236d5482.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z4u36dEZ9&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "江苏省城市足球联赛 徐州vs常州"
       },
       {
@@ -222,19 +222,19 @@
         "hotTitle": "台风白海豚逼近升级应急响应"
       },
       {
-        "title": "【2026LPL第三赛段】8月8日 LGD vs AL",
-        "url": "https://www.bilibili.com/video/BV1jjuG6pEcX",
+        "title": "AL 2-0 LGD 赛后数据雷达图+虎扑评分丨LPL第三赛段",
+        "url": "https://www.bilibili.com/video/BV1TRu36BEri",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026LPL第三赛段】8月8日 LGD vs AL",
-        "content": "【2026LPL第三赛段】8月8日 LGD vs AL",
-        "bvid": "BV1jjuG6pEcX",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "138:30",
-        "cover": "//i0.hdslb.com/bfs/archive/5ff1b47e125174b33eb2a126463dcf9a6686b082.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jjuG6pEcX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1TRu36BEri",
+        "author": "苦练李香兰",
+        "duration": "2:39",
+        "cover": "//i0.hdslb.com/bfs/archive/68bcd17d918ade620fd9fc8fc982747d6aa4e2d8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TRu36BEri&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "AL战胜LGD LPL第三赛段"
       },
       {
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786192863103,
-    "bilibili": 1786192871575,
-    "qbitai": 1786192889826,
-    "36kr": 1786192890141
+    "thepaper": 1786193763267,
+    "bilibili": 1786192385664,
+    "qbitai": 1786193785944,
+    "36kr": 1786193786354
   },
   "failures": {}
 }
