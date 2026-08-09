@@ -101,13 +101,15 @@ class H(BaseHTTPRequestHandler):
    finally:
     if acquired:self.article_slots.release()
   elif u.path=='/health':
-   self.sendj({'status':'ok','service':'all-contained-web','crawlerRevision':'web-1.17.0-wanna-brand'})
+   self.sendj({'status':'ok','service':'all-contained-web','crawlerRevision':'web-1.17.1-wanna-icon'})
   elif u.path in ('/','/index.html'):
    self.send_static(ROOT/'index.html','text/html; charset=utf-8',300)
   elif u.path=='/study-goal-tracker.html':
    self.send_static(ROOT/'study-goal-tracker.html','text/html; charset=utf-8',300)
   elif u.path=='/hot-news.json':
    self.send_static(ROOT/'hot-news.json','application/json; charset=utf-8',300)
+  elif u.path=='/assets/wanna-logo.svg':
+   self.send_static(ROOT/'assets'/'wanna-logo.svg','image/svg+xml',86400)
   elif u.path.startswith('/assets/site-icons/'):
      icon=(ROOT/u.path.lstrip('/')).resolve();icon_root=(ROOT/'assets'/'site-icons').resolve()
      if icon.parent==icon_root and icon.suffix.lower()=='.png' and icon.is_file():self.send_static(icon,'image/png',86400)
