@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-09T02:26:41Z",
-  "liveSourceCount": 3,
+  "updatedAt": "2026-08-09T02:41:20Z",
+  "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
@@ -126,26 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "雨台风来了：白海豚登陆浙江前还将加强，最需警惕的不是风而是暴雨",
-        "url": "https://www.bilibili.com/video/BV1hXuV62Eg4",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "和其他登陆浙江的强台风相比，白海豚的结构比较特殊，是一个巨大的松散外围雨带搭配细小的紧密核心。这是因为，第一，在长达13天的长途跋涉中，白海豚的整体环流越滚越大，到东海时已经成了巨无霸，东海的水汽能量是养不起这个巨无霸的，因此总体环流只能松散，只能低能耗运行；第二，白海豚的内核结构非常扎实，历经至少3轮强烈干空气入侵都没有崩溃，一直保留到了东海。在低能耗运行的基础上，白海豚为了保住这个核心，只能不断紧缩核心云团和台风眼，让其越来越小。 这就意味着，虽然白海豚的登陆强度可能比较强，但破坏性的狂风范围，会和它",
-        "content": "和其他登陆浙江的强台风相比，白海豚的结构比较特殊，是一个巨大的松散外围雨带搭配细小的紧密核心。这是因为，第一，在长达13天的长途跋涉中，白海豚的整体环流越滚越大，到东海时已经成了巨无霸，东海的水汽能量是养不起这个巨无霸的，因此总体环流只能松散，只能低能耗运行；第二，白海豚的内核结构非常扎实，历经至少3轮强烈干空气入侵都没有崩溃，一直保留到了东海。在低能耗运行的基础上，白海豚为了保住这个核心，只能不断紧缩核心云团和台风眼，让其越来越小。 这就意味着，虽然白海豚的登陆强度可能比较强，但破坏性的狂风范围，会和它",
-        "bvid": "BV1hXuV62Eg4",
-        "author": "中气爱",
-        "duration": "3:22",
-        "cover": "//i0.hdslb.com/bfs/archive/1387279d97d40eed96ca5753b902b67485377c0c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hXuV62Eg4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "直击台风白海豚"
-      },
-      {
         "title": "恭喜KSG！KSG 4-3 AG.AL 赛后数据雷达图+虎扑现状丨2026EWC决赛",
         "url": "https://www.bilibili.com/video/BV1Y1uV6HEbj",
         "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -156,6 +140,22 @@
         "cover": "//i2.hdslb.com/bfs/archive/efce6b1f0c691036aa5361f9247a02ff37fac9d3.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Y1uV6HEbj&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "KSG战胜AG.AL赛后数据"
+      },
+      {
+        "title": "雨台风来了：白海豚登陆浙江前还将加强，最需警惕的不是风而是暴雨",
+        "url": "https://www.bilibili.com/video/BV1hXuV62Eg4",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "和其他登陆浙江的强台风相比，白海豚的结构比较特殊，是一个巨大的松散外围雨带搭配细小的紧密核心。这是因为，第一，在长达13天的长途跋涉中，白海豚的整体环流越滚越大，到东海时已经成了巨无霸，东海的水汽能量是养不起这个巨无霸的，因此总体环流只能松散，只能低能耗运行；第二，白海豚的内核结构非常扎实，历经至少3轮强烈干空气入侵都没有崩溃，一直保留到了东海。在低能耗运行的基础上，白海豚为了保住这个核心，只能不断紧缩核心云团和台风眼，让其越来越小。 这就意味着，虽然白海豚的登陆强度可能比较强，但破坏性的狂风范围，会和它",
+        "content": "和其他登陆浙江的强台风相比，白海豚的结构比较特殊，是一个巨大的松散外围雨带搭配细小的紧密核心。这是因为，第一，在长达13天的长途跋涉中，白海豚的整体环流越滚越大，到东海时已经成了巨无霸，东海的水汽能量是养不起这个巨无霸的，因此总体环流只能松散，只能低能耗运行；第二，白海豚的内核结构非常扎实，历经至少3轮强烈干空气入侵都没有崩溃，一直保留到了东海。在低能耗运行的基础上，白海豚为了保住这个核心，只能不断紧缩核心云团和台风眼，让其越来越小。 这就意味着，虽然白海豚的登陆强度可能比较强，但破坏性的狂风范围，会和它",
+        "bvid": "BV1hXuV62Eg4",
+        "author": "中气爱",
+        "duration": "3:22",
+        "cover": "//i0.hdslb.com/bfs/archive/1387279d97d40eed96ca5753b902b67485377c0c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hXuV62Eg4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "直击台风白海豚"
       },
       {
         "title": "果葡糖浆不好？对，但白砂糖也一样！",
@@ -190,58 +190,26 @@
         "hotTitle": "堂主年马计划一周年"
       },
       {
-        "title": "永远有某个二十岁出头的人住进那个出租屋",
-        "url": "https://www.bilibili.com/video/BV1yUut61E43",
+        "title": "曼城愿意7000万卖罗德里！巴萨5000万卖鲨鱼哥哥!（8月9日）",
+        "url": "https://www.bilibili.com/video/BV1Pau76mEuM",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1yUut61E43",
-        "author": "七颗猩猩QKXX",
-        "duration": "2:32",
-        "cover": "//i2.hdslb.com/bfs/archive/78050ecd3214cc2bbfac51d4c0bc61635b90eb8a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yUut61E43&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大学刚毕业的我们belike"
-      },
-      {
-        "title": "歌剧老师锐评《歌手2026》歌王之战（上）",
-        "url": "https://www.bilibili.com/video/BV1kHu36FEv7",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "歌剧老师锐评《歌手2026》歌王之战（上）",
-        "content": "歌剧老师锐评《歌手2026》歌王之战（上）",
-        "bvid": "BV1kHu36FEv7",
-        "author": "铁豆钢蛋",
-        "duration": "71:54",
-        "cover": "//i0.hdslb.com/bfs/archive/798fa51c2105beacf8016214235211d2474da18a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kHu36FEv7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "歌剧老师锐评歌王之战"
-      },
-      {
-        "title": "《财神窦占龙》定档8月16日！",
-        "url": "https://www.bilibili.com/video/BV1kSux6TEWo",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "8月16日起，每周日9:00，锁定哔哩哔哩追番吧！",
-        "content": "8月16日起，每周日9:00，锁定哔哩哔哩追番吧！",
-        "bvid": "BV1kSux6TEWo",
-        "author": "哔哩哔哩国创",
-        "duration": "2:16",
-        "cover": "//i2.hdslb.com/bfs/archive/d02f3b82887372dd70d7d005f2334bcdfe21a185.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kSux6TEWo&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "财神窦占龙定档8月16日"
+        "description": "视频制作不易，还请大家记得点赞和投币，非常感 谢各位大佬的支持！ 所有的消息，都不一定是准确的，整理出来，大家 看着图一乐就行，不要太较真",
+        "content": "视频制作不易，还请大家记得点赞和投币，非常感 谢各位大佬的支持！ 所有的消息，都不一定是准确的，整理出来，大家 看着图一乐就行，不要太较真",
+        "bvid": "BV1Pau76mEuM",
+        "author": "罗马诺plus",
+        "duration": "4:58",
+        "cover": "//i1.hdslb.com/bfs/archive/625fe40e65a94202fed37a17412a7485f3748f6e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Pau76mEuM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "曝费兰托雷斯和巴黎达成协议"
       },
       {
         "title": "王楚淇解说：巴黎圣日耳曼一比一曼联",
         "url": "https://www.bilibili.com/video/BV1PkuG6vEb8",
         "desc": "",
-        "rank": 8,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -254,26 +222,26 @@
         "hotTitle": "曼联1-1巴黎"
       },
       {
-        "title": "5元瓷碗vs皇家瓷器! 景德镇陶瓷差距有多大?",
-        "url": "https://www.bilibili.com/video/BV1Mhug6NEfv",
+        "title": "回归我荒废6年的游戏服务器",
+        "url": "https://www.bilibili.com/video/BV1Yuu46WENa",
         "desc": "",
-        "rank": 9,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "这一期我去到了千年瓷都--景德镇。我们日常使用的瓷碗，和拍卖会上价值连城的陶瓷制品，可能都出自这里。这期视频我会以游客视角、本地人的看法、以及国宝级收藏品的角度，来探秘陶瓷文化!",
-        "content": "这一期我去到了千年瓷都--景德镇。我们日常使用的瓷碗，和拍卖会上价值连城的陶瓷制品，可能都出自这里。这期视频我会以游客视角、本地人的看法、以及国宝级收藏品的角度，来探秘陶瓷文化!",
-        "bvid": "BV1Mhug6NEfv",
-        "author": "杰克小兔",
-        "duration": "15:6",
-        "cover": "//i1.hdslb.com/bfs/archive/94cbc73c6b02833dfa6ddf567ff290a16ae721a6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Mhug6NEfv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "从游客视角探秘陶瓷文化"
+        "description": "我简直不敢相信，6年前一个随机的视频竟引发了这一切，在这些年间它居然发生了如此大的变化，那些建筑实在令人惊叹。不过我想说明的是，我现在不再拥有这个我的世界服务器，它已交由社区管理，让我们一起维护它吧！记得一键三连！！",
+        "content": "我简直不敢相信，6年前一个随机的视频竟引发了这一切，在这些年间它居然发生了如此大的变化，那些建筑实在令人惊叹。不过我想说明的是，我现在不再拥有这个我的世界服务器，它已交由社区管理，让我们一起维护它吧！记得一键三连！！",
+        "bvid": "BV1Yuu46WENa",
+        "author": "野兽游戏MrBeast",
+        "duration": "19:45",
+        "cover": "//i0.hdslb.com/bfs/archive/abdc09edeb9f1b126d689533094b9de1cebe8aeb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yuu46WENa&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "野兽先生回归6年前的MC"
       },
       {
         "title": "搞笑解说《顶级魅魔罗子君》：剧中人物遇到她，会自动觉醒服务型人格！",
         "url": "https://www.bilibili.com/video/BV1dsut6wEBn",
         "desc": "",
-        "rank": 10,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -286,20 +254,52 @@
         "hotTitle": "罗子君近期为何再次翻红"
       },
       {
-        "title": "妈妈，你不能单挑大棕熊，坐坦克打枪吧！？！",
-        "url": "https://www.bilibili.com/video/BV1mDuu6aEDF",
+        "title": "永远有某个二十岁出头的人住进那个出租屋",
+        "url": "https://www.bilibili.com/video/BV1yUut61E43",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1yUut61E43",
+        "author": "七颗猩猩QKXX",
+        "duration": "2:32",
+        "cover": "//i2.hdslb.com/bfs/archive/78050ecd3214cc2bbfac51d4c0bc61635b90eb8a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yUut61E43&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大学刚毕业的我们belike"
+      },
+      {
+        "title": "5元瓷碗vs皇家瓷器! 景德镇陶瓷差距有多大?",
+        "url": "https://www.bilibili.com/video/BV1Mhug6NEfv",
+        "desc": "",
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这一期我去到了千年瓷都--景德镇。我们日常使用的瓷碗，和拍卖会上价值连城的陶瓷制品，可能都出自这里。这期视频我会以游客视角、本地人的看法、以及国宝级收藏品的角度，来探秘陶瓷文化!",
+        "content": "这一期我去到了千年瓷都--景德镇。我们日常使用的瓷碗，和拍卖会上价值连城的陶瓷制品，可能都出自这里。这期视频我会以游客视角、本地人的看法、以及国宝级收藏品的角度，来探秘陶瓷文化!",
+        "bvid": "BV1Mhug6NEfv",
+        "author": "杰克小兔",
+        "duration": "15:6",
+        "cover": "//i1.hdslb.com/bfs/archive/94cbc73c6b02833dfa6ddf567ff290a16ae721a6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Mhug6NEfv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "从游客视角探秘陶瓷文化"
+      },
+      {
+        "title": "【2026EWC决赛二路解说合集】8月8日 AG.AL vs KSG",
+        "url": "https://www.bilibili.com/video/BV1Yku361EJy",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "这一期还是俄罗斯之行！！我们将会带大家体验最最纯粹的俄罗斯当地土特产——枪炮，也会带大家看看最不“俄罗斯”的地方，独属于他们的伟大文化与浪漫。",
-        "content": "这一期还是俄罗斯之行！！我们将会带大家体验最最纯粹的俄罗斯当地土特产——枪炮，也会带大家看看最不“俄罗斯”的地方，独属于他们的伟大文化与浪漫。",
-        "bvid": "BV1mDuu6aEDF",
-        "author": "-欣小萌-",
-        "duration": "16:16",
-        "cover": "//i1.hdslb.com/bfs/archive/11f8377de074d6a597eb9952333051d77ff98905.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mDuu6aEDF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "欣小萌俄罗斯坐坦克打枪"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Yku361EJy",
+        "author": "kpl二路",
+        "duration": "6645:30",
+        "cover": "//i1.hdslb.com/bfs/archive/f93308c4d9fd9d8eb25ac0d3596534f44a2dc3ac.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yku361EJy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "KSG战胜AG.AL KWC"
       },
       {
         "title": "《完蛋我被男同学包围》近期舆论的澄清和道歉",
@@ -318,20 +318,20 @@
         "hotTitle": "完蛋男同学主创回应"
       },
       {
-        "title": "【2026EWC决赛二路解说合集】8月8日 AG.AL vs KSG",
-        "url": "https://www.bilibili.com/video/BV1Yku361EJy",
+        "title": "妈妈，你不能单挑大棕熊，坐坦克打枪吧！？！",
+        "url": "https://www.bilibili.com/video/BV1mDuu6aEDF",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Yku361EJy",
-        "author": "kpl二路",
-        "duration": "6645:30",
-        "cover": "//i1.hdslb.com/bfs/archive/f93308c4d9fd9d8eb25ac0d3596534f44a2dc3ac.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yku361EJy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "KSG战胜AG.AL KWC"
+        "description": "这一期还是俄罗斯之行！！我们将会带大家体验最最纯粹的俄罗斯当地土特产——枪炮，也会带大家看看最不“俄罗斯”的地方，独属于他们的伟大文化与浪漫。",
+        "content": "这一期还是俄罗斯之行！！我们将会带大家体验最最纯粹的俄罗斯当地土特产——枪炮，也会带大家看看最不“俄罗斯”的地方，独属于他们的伟大文化与浪漫。",
+        "bvid": "BV1mDuu6aEDF",
+        "author": "-欣小萌-",
+        "duration": "16:16",
+        "cover": "//i1.hdslb.com/bfs/archive/11f8377de074d6a597eb9952333051d77ff98905.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mDuu6aEDF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "欣小萌俄罗斯坐坦克打枪"
       },
       {
         "title": "【2026LPL第三赛段】8月8日 WBG vs LNG",
@@ -366,20 +366,20 @@
         "hotTitle": "BLG战胜EDG LPL第三赛段"
       },
       {
-        "title": "全网首发！藏宝图/宝藏箱全部点位来啦！记得先领口令联动红！",
-        "url": "https://www.bilibili.com/video/BV1q4uT6gE71",
+        "title": "历届最烂！收视率垫底！完结锐评《歌手2026》！",
+        "url": "https://www.bilibili.com/video/BV1Lauu61EpM",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "全地图藏宝图点位来啦！ 签约B站了！有KPI了！大家点点赞感谢！",
-        "content": "全地图藏宝图点位来啦！ 签约B站了！有KPI了！大家点点赞感谢！",
-        "bvid": "BV1q4uT6gE71",
-        "author": "Key725",
-        "duration": "12:39",
-        "cover": "//i2.hdslb.com/bfs/archive/2daa52b88bb069a0a95ab9e1883271af2270ae65.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1q4uT6gE71&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "三角洲宝藏月最全点位"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Lauu61EpM",
+        "author": "LexBurner",
+        "duration": "6:7",
+        "cover": "//i0.hdslb.com/bfs/archive/885ffd9d9f15bac51d0c532eb077f463913513b5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Lauu61EpM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Lex锐评歌手决赛"
       },
       {
         "title": "多重算计！字字杀机！《凡人修仙传》186逐帧解析",
@@ -398,90 +398,58 @@
         "hotTitle": "逐帧解析凡人修仙传186集"
       },
       {
-        "title": "《异环》残虹角色短片丨灵魂的颜色",
-        "url": "https://www.bilibili.com/video/BV1RgM16rEe6",
+        "title": "全网首发！藏宝图/宝藏箱全部点位来啦！记得先领口令联动红！",
+        "url": "https://www.bilibili.com/video/BV1q4uT6gE71",
         "desc": "",
         "rank": 18,
         "kind": "video",
         "platform": "bilibili",
-        "description": "超自然都市开放世界RPG《异环》全新版本「雾中朔望星回」即将开启！立刻下载>>>https://www.biligame.com/detail/?id=111795 我曾以为，人的灵魂和血肉是相同的颜色； 直到那抹高洁的火焰映入我的眼中。 「……在你眼里，我的灵魂是什么颜色？」",
-        "content": "超自然都市开放世界RPG《异环》全新版本「雾中朔望星回」即将开启！立刻下载>>>https://www.biligame.com/detail/?id=111795 我曾以为，人的灵魂和血肉是相同的颜色； 直到那抹高洁的火焰映入我的眼中。 「……在你眼里，我的灵魂是什么颜色？」",
-        "bvid": "BV1RgM16rEe6",
-        "author": "异环",
-        "duration": "17:14",
-        "cover": "//i1.hdslb.com/bfs/archive/9ceb719370fe641eb9781fe9f1d8e99c162aa4f8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RgM16rEe6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "异环残虹角色短片"
+        "description": "全地图藏宝图点位来啦！ 签约B站了！有KPI了！大家点点赞感谢！",
+        "content": "全地图藏宝图点位来啦！ 签约B站了！有KPI了！大家点点赞感谢！",
+        "bvid": "BV1q4uT6gE71",
+        "author": "Key725",
+        "duration": "12:39",
+        "cover": "//i2.hdslb.com/bfs/archive/2daa52b88bb069a0a95ab9e1883271af2270ae65.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1q4uT6gE71&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "三角洲宝藏月最全点位"
       },
       {
-        "title": "怪兽中 出了一个奥特曼的卧底",
-        "url": "https://www.bilibili.com/video/BV1gnub6REqy",
+        "title": "为家乡献声！周深《每个人》MV正式上线！",
+        "url": "https://www.bilibili.com/video/BV1qXuH6UERW",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "没想到，怪兽中出了一个奥特曼的卧底",
-        "content": "没想到，怪兽中出了一个奥特曼的卧底",
-        "bvid": "BV1gnub6REqy",
-        "author": "istupidpig",
-        "duration": "2:27",
-        "cover": "//i1.hdslb.com/bfs/archive/8c4a66570e5318ddfcebb4bca05384e382d4ed13.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gnub6REqy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "怪兽中出了一个奥特曼的卧底"
+        "description": "周深再度携手著名音乐家舒楠老师，为家乡贵州深情献唱哔哩哔哩出品的《每个人》，歌曲由知名作词家玉镯儿作词。这也是周深第一次用家乡方言演唱个人原唱歌曲。其清澈通透的声线，似游走于黔地山水间的清风，完美诠释旋律的婉转悠扬。 歌曲巧妙融入侗族大歌元素，自带浓郁贵州风情；歌词以“天空是蜡染的蓝”“长桌宴不散”等句，勾勒出贵州的山水灵秀与民俗风情，也暗藏着贵州的知名景点，“黄小西吃晚饭”便是对这些景点的生动概括：黄果树、小七孔、西江苗寨、赤水丹霞、万峰林、梵净山，六大景点在歌声中一一铺展。 在周深舒展干净的歌声中",
+        "content": "周深再度携手著名音乐家舒楠老师，为家乡贵州深情献唱哔哩哔哩出品的《每个人》，歌曲由知名作词家玉镯儿作词。这也是周深第一次用家乡方言演唱个人原唱歌曲。其清澈通透的声线，似游走于黔地山水间的清风，完美诠释旋律的婉转悠扬。 歌曲巧妙融入侗族大歌元素，自带浓郁贵州风情；歌词以“天空是蜡染的蓝”“长桌宴不散”等句，勾勒出贵州的山水灵秀与民俗风情，也暗藏着贵州的知名景点，“黄小西吃晚饭”便是对这些景点的生动概括：黄果树、小七孔、西江苗寨、赤水丹霞、万峰林、梵净山，六大景点在歌声中一一铺展。 在周深舒展干净的歌声中",
+        "bvid": "BV1qXuH6UERW",
+        "author": "卡布叻_周深",
+        "duration": "3:51",
+        "cover": "//i2.hdslb.com/bfs/archive/bf6f71c1e9bcf286758c0806b52ebac0fb3d63cd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qXuH6UERW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "周深贵州方言新歌每个人"
       },
       {
-        "title": "依然做自己！要被nba抛弃？威少26赛季有多弱？",
-        "url": "https://www.bilibili.com/video/BV1vBu36EEkP",
+        "title": "点映大爆！和药神齐名？蛰伏两年的《龙餐馆》，能否压哨登顶",
+        "url": "https://www.bilibili.com/video/BV1Wquh6QEJH",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1vBu36EEkP",
-        "author": "业余球探刀先生",
-        "duration": "12:34",
-        "cover": "//i1.hdslb.com/bfs/archive/2415b6c664ee4bb664525064812ff662d5d5d215.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vBu36EEkP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "威少新赛季将何去何从"
-      },
-      {
-        "title": "在洛杉矶喝200%糖蜜雪冰城，吃全球最古早麦当劳，有不胖的风险吗",
-        "url": "https://www.bilibili.com/video/BV1rRut6rEGS",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "bgm列表： Ricky Nelson - Travelin' Man Janelle Monáe - Make Me Feel Laidback - Happy Dreamer Chinese Man - Miss Chang Bob Marley; Bob Marley & The Wailers - One Drop Alabama Shakes - This Feeling Greyson Chance - shut up 88rising; Rich Brian; NIKI; 王嘉尔; War",
-        "content": "bgm列表： Ricky Nelson - Travelin' Man Janelle Monáe - Make Me Feel Laidback - Happy Dreamer Chinese Man - Miss Chang Bob Marley; Bob Marley & The Wailers - One Drop Alabama Shakes - This Feeling Greyson Chance - shut up 88rising; Rich Brian; NIKI; 王嘉尔; War",
-        "bvid": "BV1rRut6rEGS",
-        "author": "超Carry的柴西",
-        "duration": "29:5",
-        "cover": "//i0.hdslb.com/bfs/archive/bf3f07f9156dd65a2d495bf3ff4f0cd8109592ea.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rRut6rEGS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "柴西洛杉矶自驾体验落日飞车"
-      },
-      {
-        "title": "两条谣言引发边境危机，摩洛哥西班牙互相算计，几万难民成了谁的筹码？",
-        "url": "https://www.bilibili.com/video/BV1oUuK6KETt",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "一键三连推荐给更多朋友！",
-        "content": "一键三连推荐给更多朋友！",
-        "bvid": "BV1oUuK6KETt",
-        "author": "小王Albert",
-        "duration": "19:51",
-        "cover": "//i1.hdslb.com/bfs/archive/54f8aa2278f6a6e949b10e69f692eeef996889e9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oUuK6KETt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "欧洲难民成了谁的筹码"
+        "bvid": "BV1Wquh6QEJH",
+        "author": "毒舌电影编辑部",
+        "duration": "8:53",
+        "cover": "//i0.hdslb.com/bfs/archive/e7eb04c98d8866e7d4c36fcb5660ff29356115d0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wquh6QEJH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "欢迎来龙餐馆值得看吗"
       },
       {
         "title": "李缨宁:右手刀，左手剑，韩立我想见就见（有我在，你来黄龙山有点多余了噢）",
         "url": "https://www.bilibili.com/video/BV17Gug67EqE",
         "desc": "",
-        "rank": 23,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -494,26 +462,10 @@
         "hotTitle": "韩立一语道破慕兰奸计"
       },
       {
-        "title": "历届最烂！收视率垫底！完结锐评《歌手2026》！",
-        "url": "https://www.bilibili.com/video/BV1Lauu61EpM",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Lauu61EpM",
-        "author": "LexBurner",
-        "duration": "6:7",
-        "cover": "//i0.hdslb.com/bfs/archive/885ffd9d9f15bac51d0c532eb077f463913513b5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Lauu61EpM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Lex锐评歌手决赛"
-      },
-      {
         "title": "20分钟《奥德赛》终极功课！原著/内核/影厅选择，一期视频全搞懂！",
         "url": "https://www.bilibili.com/video/BV1cPug69Ene",
         "desc": "",
-        "rank": 25,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "一点关于《奥德赛》的简单功课...",
@@ -526,10 +478,106 @@
         "hotTitle": "奥德赛终极功课"
       },
       {
+        "title": "《异环》残虹角色短片丨灵魂的颜色",
+        "url": "https://www.bilibili.com/video/BV1RgM16rEe6",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "超自然都市开放世界RPG《异环》全新版本「雾中朔望星回」即将开启！立刻下载>>>https://www.biligame.com/detail/?id=111795 我曾以为，人的灵魂和血肉是相同的颜色； 直到那抹高洁的火焰映入我的眼中。 「……在你眼里，我的灵魂是什么颜色？」",
+        "content": "超自然都市开放世界RPG《异环》全新版本「雾中朔望星回」即将开启！立刻下载>>>https://www.biligame.com/detail/?id=111795 我曾以为，人的灵魂和血肉是相同的颜色； 直到那抹高洁的火焰映入我的眼中。 「……在你眼里，我的灵魂是什么颜色？」",
+        "bvid": "BV1RgM16rEe6",
+        "author": "异环",
+        "duration": "17:14",
+        "cover": "//i1.hdslb.com/bfs/archive/9ceb719370fe641eb9781fe9f1d8e99c162aa4f8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RgM16rEe6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "异环残虹角色短片"
+      },
+      {
+        "title": "“以军把枪口对准了我”，记者现场直击以军在巴勒斯坦军事行动",
+        "url": "https://www.bilibili.com/video/BV1qtuu67Eiy",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1qtuu67Eiy",
+        "author": "新华社",
+        "duration": "2:23",
+        "cover": "//i0.hdslb.com/bfs/archive/7674886a0a47529407cc06d04c1936aa9b136e72.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qtuu67Eiy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "直击以军在巴勒斯坦军事行动"
+      },
+      {
+        "title": "两条谣言引发边境危机，摩洛哥西班牙互相算计，几万难民成了谁的筹码？",
+        "url": "https://www.bilibili.com/video/BV1oUuK6KETt",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "一键三连推荐给更多朋友！",
+        "content": "一键三连推荐给更多朋友！",
+        "bvid": "BV1oUuK6KETt",
+        "author": "小王Albert",
+        "duration": "19:51",
+        "cover": "//i1.hdslb.com/bfs/archive/54f8aa2278f6a6e949b10e69f692eeef996889e9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oUuK6KETt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "欧洲难民成了谁的筹码"
+      },
+      {
+        "title": "怪兽中 出了一个奥特曼的卧底",
+        "url": "https://www.bilibili.com/video/BV1gnub6REqy",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "没想到，怪兽中出了一个奥特曼的卧底",
+        "content": "没想到，怪兽中出了一个奥特曼的卧底",
+        "bvid": "BV1gnub6REqy",
+        "author": "istupidpig",
+        "duration": "2:27",
+        "cover": "//i1.hdslb.com/bfs/archive/8c4a66570e5318ddfcebb4bca05384e382d4ed13.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gnub6REqy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "怪兽中出了一个奥特曼的卧底"
+      },
+      {
+        "title": "SpaceX火箭残骸撞月球前后对比图公布",
+        "url": "https://www.bilibili.com/video/BV139u46WEuS",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "视频来源：央视财经、光明网",
+        "content": "视频来源：央视财经、光明网",
+        "bvid": "BV139u46WEuS",
+        "author": "新华社",
+        "duration": "0:38",
+        "cover": "//i0.hdslb.com/bfs/archive/ecdf0c467e257b3d1d696b66cfc5a1dc4549d87b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV139u46WEuS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "猎鹰火箭残骸撞月球对比图"
+      },
+      {
+        "title": "依然做自己！要被nba抛弃？威少26赛季有多弱？",
+        "url": "https://www.bilibili.com/video/BV1vBu36EEkP",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1vBu36EEkP",
+        "author": "业余球探刀先生",
+        "duration": "12:34",
+        "cover": "//i1.hdslb.com/bfs/archive/2415b6c664ee4bb664525064812ff662d5d5d215.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vBu36EEkP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "威少新赛季将何去何从"
+      },
+      {
         "title": "【歌手2026】《再见》Vinida万妮达｜不回头的走下去",
         "url": "https://www.bilibili.com/video/BV1Ngu86nEN9",
         "desc": "",
-        "rank": 26,
+        "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -542,68 +590,20 @@
         "hotTitle": "万妮达再见让我哭"
       },
       {
-        "title": "上车性骚扰，下车就偷钱！证据确凿，拒不认罪？结局让人大呼我靠的神奇悬案！《开庭》第二案",
-        "url": "https://www.bilibili.com/video/BV1WXuT6pETY",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "今天我们继续看开分8.6的港剧《开庭》第二案：酒店劳工盗窃案。",
-        "content": "今天我们继续看开分8.6的港剧《开庭》第二案：酒店劳工盗窃案。",
-        "bvid": "BV1WXuT6pETY",
-        "author": "小片片说大片",
-        "duration": "45:39",
-        "cover": "//i2.hdslb.com/bfs/archive/9ed0811d518b7ceb09b0e0e28ac0a53ef221aac0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WXuT6pETY&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "解读悬疑新剧开庭第二案"
-      },
-      {
-        "title": "曼城愿意7000万卖罗德里！巴萨5000万卖鲨鱼哥哥!（8月9日）",
-        "url": "https://www.bilibili.com/video/BV1Pau76mEuM",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "视频制作不易，还请大家记得点赞和投币，非常感 谢各位大佬的支持！ 所有的消息，都不一定是准确的，整理出来，大家 看着图一乐就行，不要太较真",
-        "content": "视频制作不易，还请大家记得点赞和投币，非常感 谢各位大佬的支持！ 所有的消息，都不一定是准确的，整理出来，大家 看着图一乐就行，不要太较真",
-        "bvid": "BV1Pau76mEuM",
-        "author": "罗马诺plus",
-        "duration": "4:58",
-        "cover": "//i1.hdslb.com/bfs/archive/625fe40e65a94202fed37a17412a7485f3748f6e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Pau76mEuM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "曝费兰托雷斯和巴黎达成协议"
-      },
-      {
-        "title": "细线条，光污染，新动画画风真的在集体“审美降级”吗？",
-        "url": "https://www.bilibili.com/video/BV17uuM6rEwJ",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本视频为【bilibili次元论战S3】活动 杂谈圆桌 稿件，所属主题是“揭秘动画中的创作魔法”。 还有这些UP主也参与了该主题讨论，欢迎大家观看： BV1qyu468ENv 安妮动画屋 BV11Su86XEWq 东云阳_Official 如果你也对该主题感兴趣，带上圆桌tag词“创作解析”即刻投稿加入圆桌讨论吧>>> https://www.bilibili.com/blackboard/era/ACGRoundtableS3.html",
-        "content": "本视频为【bilibili次元论战S3】活动 杂谈圆桌 稿件，所属主题是“揭秘动画中的创作魔法”。 还有这些UP主也参与了该主题讨论，欢迎大家观看： BV1qyu468ENv 安妮动画屋 BV11Su86XEWq 东云阳_Official 如果你也对该主题感兴趣，带上圆桌tag词“创作解析”即刻投稿加入圆桌讨论吧>>> https://www.bilibili.com/blackboard/era/ACGRoundtableS3.html",
-        "bvid": "BV17uuM6rEwJ",
-        "author": "42手册",
-        "duration": "28:29",
-        "cover": "//i2.hdslb.com/bfs/archive/320689e30ef971756c6f1611fcda5efe3063533e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17uuM6rEwJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "动画真的审美降级了吗"
-      },
-      {
-        "title": "点映大爆！和药神齐名？蛰伏两年的《龙餐馆》，能否压哨登顶",
-        "url": "https://www.bilibili.com/video/BV1Wquh6QEJH",
+        "title": "在洛杉矶喝200%糖蜜雪冰城，吃全球最古早麦当劳，有不胖的风险吗",
+        "url": "https://www.bilibili.com/video/BV1rRut6rEGS",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Wquh6QEJH",
-        "author": "毒舌电影编辑部",
-        "duration": "8:53",
-        "cover": "//i0.hdslb.com/bfs/archive/e7eb04c98d8866e7d4c36fcb5660ff29356115d0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wquh6QEJH&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "欢迎来龙餐馆值得看吗"
+        "description": "bgm列表： Ricky Nelson - Travelin' Man Janelle Monáe - Make Me Feel Laidback - Happy Dreamer Chinese Man - Miss Chang Bob Marley; Bob Marley & The Wailers - One Drop Alabama Shakes - This Feeling Greyson Chance - shut up 88rising; Rich Brian; NIKI; 王嘉尔; War",
+        "content": "bgm列表： Ricky Nelson - Travelin' Man Janelle Monáe - Make Me Feel Laidback - Happy Dreamer Chinese Man - Miss Chang Bob Marley; Bob Marley & The Wailers - One Drop Alabama Shakes - This Feeling Greyson Chance - shut up 88rising; Rich Brian; NIKI; 王嘉尔; War",
+        "bvid": "BV1rRut6rEGS",
+        "author": "超Carry的柴西",
+        "duration": "29:5",
+        "cover": "//i0.hdslb.com/bfs/archive/bf3f07f9156dd65a2d495bf3ff4f0cd8109592ea.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rRut6rEGS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "柴西洛杉矶自驾体验落日飞车"
       }
     ],
     "qbitai": [
@@ -960,6 +960,36 @@
         "rank": 5
       },
       {
+        "title": "美银证券：百济神州重申“买入”评级，目标价升至255.43港元",
+        "url": "https://m.36kr.com/newsflashes/3931688111259016",
+        "desc": "美银证券发布研报称，重申百济神州(210, 10.50, 5.26%)（06160）“买入”评级，将目标价由243.83港元上调至255.43港元。报告提到，百济神州管理层进一步上调今年全年总收入指引至66亿至68亿美元，而此前为63亿至65亿美元。美银证券上调公司2026至28年收入预测5.5%、6.7%及6.9%，以反映公司上半年强劲销售表现、指引提升及sonrotoclax在美国获批。（新浪财经）",
+        "cover": "",
+        "date": 1786243198196,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "大唐发电完成发行25亿元科技创新可续期公司债券",
+        "url": "https://m.36kr.com/newsflashes/3931687025704325",
+        "desc": "大唐发电发布公告，大唐国际发电股份有限公司（“公司”）面向专业投资者公开发行面值不超过人民币 300 亿元的公司债券已经上海证券交易所审核同意，并已收到中国证券监督管理委员会《关于同意大唐国际发电股份有限公司向专业投资者公开发行公司债券注册的批复》（证监许可〔2025〕1334 号）。（新浪财经）",
+        "cover": "",
+        "date": 1786243131939,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "理想汽车-W于8月6日斥资361.82万美元回购57.27万股",
+        "url": "https://m.36kr.com/newsflashes/3931686172785801",
+        "desc": "理想汽车-W发布公告，于2026年8月6日，该公司斥资361.82万美元回购57.27万股。（新浪财经）",
+        "cover": "",
+        "date": 1786243079881,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
         "title": "日本大饭核电站3号机组因发电机异常停止运行",
         "url": "https://m.36kr.com/newsflashes/3931647492684928",
         "desc": "当地时间8月8日23时55分左右，位于日本福井县的关西电力公司大饭核电站3号机组，因发电机内部装置出现异常，相关警报被触发，反应堆自动停止运行。关西电力表示，此次事故不会对周边环境造成放射性影响。关西电力旗下同样位于福井县的美滨核电站3号机组，今年5月也曾出现因汽轮机发生蒸汽泄漏而采取手动停机措施的情况。（央视新闻）",
@@ -967,7 +997,7 @@
         "date": 1786240719035,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "国际足联：不支持任何违反章程的主席选举进程",
@@ -977,7 +1007,7 @@
         "date": 1786240687571,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "韩国股市杠杆盘出清，波动率飙升态势有所缓和",
@@ -987,7 +1017,7 @@
         "date": 1786240487780,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "爆买1300亿元，伯克希尔罕见出手",
@@ -997,7 +1027,7 @@
         "date": 1786240435358,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "苹果中国官网删除Apple智能接入阿里千问使用手册",
@@ -1007,7 +1037,7 @@
         "date": 1786240368968,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "宇树科技明天申购",
@@ -1017,7 +1047,7 @@
         "date": 1786240224837,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "我国渤海首个千亿方大气田Ⅰ期开发项目全面投产",
@@ -1027,7 +1057,7 @@
         "date": 1786240145805,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "光大证券：短期内市场或继续反弹，关注三条业绩主线",
@@ -1037,7 +1067,7 @@
         "date": 1786240042341,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "光大证券：7月美国非农数据转负，加息预期继续收敛",
@@ -1047,7 +1077,7 @@
         "date": 1786239991069,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "马斯克发布Terafab渲染视频",
@@ -1057,7 +1087,7 @@
         "date": 1786239773639,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
@@ -1067,7 +1097,7 @@
         "date": 1786239635572,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "电影《奥德赛》点映及预售总票房突破6000万元",
@@ -1077,7 +1107,7 @@
         "date": 1786239528441,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "2026年7月份工业生产者出厂价格同比上涨3.5%",
@@ -1087,7 +1117,7 @@
         "date": 1786239497702,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "国家统计局：7月份CPI同比上涨0.5% CPI总体保持温和上涨",
@@ -1097,7 +1127,7 @@
         "date": 1786239464439,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "十周年“新物种爆炸”发布会登陆香港，吴声发布六大AI商业预判",
@@ -1107,7 +1137,7 @@
         "date": 1786196810536,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 23
       },
       {
         "title": "新疆优化调整旅游景区内自驾服务费",
@@ -1117,7 +1147,7 @@
         "date": 1786183858000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 24
       },
       {
         "title": "Apple智能可配合阿里千问模型工作",
@@ -1127,46 +1157,15 @@
         "date": 1786183220000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "江波龙：完成37亿元定增事项 发行价格为560元/股",
-        "url": "https://m.36kr.com/newsflashes/3930652553919872",
-        "desc": "36氪获悉，8月7日，江波龙公告称，公司完成向特定对象发行股票，实际发行660.71万股，发行价格为560.00元/股，募集资金总额37亿元，扣除发行费用后净额36.68亿元。发行对象最终确定为21家，包括易方达基金、金长江、赵启祥、贺伟等，限售期均为6个月。",
-        "cover": "",
-        "date": 1786182325000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "张雪机车：成立小车手培育专项基金，每年捐赠100万元",
-        "url": "https://m.36kr.com/newsflashes/3930644012399746",
-        "desc": "8月8日，@张雪机车 宣布成立小车手培育专项基金，每年捐赠100万元，定向资助11至16岁的中国青少年摩托车手，每人每年可获10万至30万元，首批计划资助5至10人。",
-        "cover": "",
-        "date": 1786181424000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 24
-      },
-      {
-        "title": "景林资产二季度大举清仓美股科技巨头，转投半导体上游设备与算力基建",
-        "url": "https://m.36kr.com/newsflashes/3930567571668096",
-        "desc": "8月7日，景林资产披露截至2026年第二季度末的美国证券持仓情况。数据显示，景林美股持仓总市值由一季度末的38.78亿美元大幅降至21.86亿美元，环比降幅达43.64%。二季度期间，景林清仓了包括Meta、亚马逊、英伟达在内的多家科技龙头，同时全额出清了阿里巴巴、新东方、好未来、联合健康和Lumentum等股票。在大幅回收现金的同时，景林将资金精准投向了半导体设备与数据中心基础设施领域。本季度，景林新进建仓了芯片制造设备巨头阿斯麦（ASML）和应用材料（AMAT），以及光通信企业应用光电（AAOI）和数据中心运营商世纪互联（VNET）。（界面新闻）",
-        "cover": "",
-        "date": 1786180253000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786242363820,
-    "bilibili": 1786241137365,
-    "36kr": 1786242401680
+    "thepaper": 1786243263890,
+    "bilibili": 1786243266085,
+    "qbitai": 1786243279784,
+    "36kr": 1786243280114
   },
-  "failures": {
-    "qbitai": "RuntimeError('QbitAI JSON not found')"
-  }
+  "failures": {}
 }
