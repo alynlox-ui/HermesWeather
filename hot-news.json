@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T03:11:28Z",
+  "updatedAt": "2026-08-09T03:26:27Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,26 @@
     ],
     "qbitai": [
       {
+        "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+        "url": "https://www.qbitai.com/2026/08/468766.html",
+        "desc": "据说GPT-5.6很适合拿来做游戏",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/493a018bd46d4ab311083614726751b3.webp",
+        "date": "2026-08-09T11:25:00",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+        "url": "https://www.qbitai.com/2026/08/468715.html",
+        "desc": "谷歌缓兵之计把人留下",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/dca9d89a1ff8744e27ed2f085db4e44f.webp",
+        "date": "2026-08-09T11:17:18",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
+      {
         "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
         "url": "https://www.qbitai.com/2026/08/468631.html",
         "desc": "这就有些尴尬了。",
@@ -615,7 +635,7 @@
         "date": "2026-08-08T15:57:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 3
       },
       {
         "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
@@ -625,7 +645,7 @@
         "date": "2026-08-08T15:56:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 4
       },
       {
         "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
@@ -635,7 +655,7 @@
         "date": "2026-08-08T15:51:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
@@ -645,7 +665,7 @@
         "date": "2026-08-08T12:33:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
@@ -655,7 +675,7 @@
         "date": "2026-08-08T10:45:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
@@ -665,7 +685,7 @@
         "date": "2026-08-08T10:35:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
@@ -675,7 +695,7 @@
         "date": "2026-08-07T15:43:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
@@ -685,7 +705,7 @@
         "date": "2026-08-07T14:21:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
@@ -695,7 +715,7 @@
         "date": "2026-08-07T14:18:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
@@ -705,7 +725,7 @@
         "date": "2026-08-07T13:30:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
@@ -715,7 +735,7 @@
         "date": "2026-08-07T11:23:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
@@ -725,7 +745,7 @@
         "date": "2026-08-07T11:23:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
@@ -735,7 +755,7 @@
         "date": "2026-08-07T11:08:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "AI SSD：大模型推理的存储范式转移",
@@ -745,7 +765,7 @@
         "date": "2026-08-07T10:56:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
@@ -755,7 +775,7 @@
         "date": "2026-08-07T09:39:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "智元下架了首席科学家罗剑岚",
@@ -765,7 +785,7 @@
         "date": "2026-08-07T09:25:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
@@ -775,7 +795,7 @@
         "date": "2026-08-07T09:15:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "冲刺全球首个100万小时具身数据！国产公司联手了",
@@ -785,7 +805,7 @@
         "date": "2026-08-07T08:55:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
@@ -795,7 +815,7 @@
         "date": "2026-08-07T08:25:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
@@ -805,7 +825,7 @@
         "date": "2026-08-06T17:58:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
@@ -815,7 +835,7 @@
         "date": "2026-08-06T16:02:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
@@ -825,7 +845,7 @@
         "date": "2026-08-06T15:43:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "这人谁啊？哈萨比斯都让位了",
@@ -835,7 +855,7 @@
         "date": "2026-08-06T14:17:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 25
       },
       {
         "title": "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”",
@@ -845,7 +865,7 @@
         "date": "2026-08-06T13:36:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 26
       },
       {
         "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
@@ -855,7 +875,7 @@
         "date": "2026-08-06T13:29:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 27
       },
       {
         "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
@@ -865,7 +885,7 @@
         "date": "2026-08-06T07:52:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 28
       },
       {
         "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
@@ -875,7 +895,7 @@
         "date": "2026-08-05T22:09:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 29
       },
       {
         "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
@@ -883,26 +903,6 @@
         "desc": "MiniMax H3也能开箱即用了",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/c6a9c641c8da7bbb7fa3b58edfa392f8.png",
         "date": "2026-08-05T21:47:51",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 28
-      },
-      {
-        "title": "又一家AI基金暴雷了",
-        "url": "https://www.qbitai.com/2026/08/467001.html",
-        "desc": "开源改写游戏规则",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/756ca155da24ed6d640112328e4b23ca.png",
-        "date": "2026-08-05T20:43:18",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-        "url": "https://www.qbitai.com/2026/08/466998.html",
-        "desc": "阿里巴巴淘天集团开启2027届应届生招聘。",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/c1ebf75b079ca49adf2bd0a92d9a1163-e1785922649559.jpeg",
-        "date": "2026-08-05T17:38:49",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1162,10 +1162,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786245064840,
-    "bilibili": 1786245067716,
-    "qbitai": 1786245087725,
-    "36kr": 1786245088023
+    "thepaper": 1786245965889,
+    "bilibili": 1786244742100,
+    "qbitai": 1786245987344,
+    "36kr": 1786245987680
   },
   "failures": {}
 }
