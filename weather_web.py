@@ -13,7 +13,7 @@ def get(url,p):
  last=None
  for attempt in range(2):
   try:
-   req=Request(url+'?'+urlencode(p),headers={'User-Agent':'HermesWeatherWeb/2.1','Accept':'application/json'})
+   req=Request(url+'?'+urlencode(p),headers={'User-Agent':'AllContainedWeb/1.17','Accept':'application/json'})
    with urlopen(req,timeout=12) as r:return json.load(r)
   except Exception as e:
    last=e
@@ -101,7 +101,7 @@ class H(BaseHTTPRequestHandler):
    finally:
     if acquired:self.article_slots.release()
   elif u.path=='/health':
-   self.sendj({'status':'ok','service':'hermes-weather-web','crawlerRevision':'web-1.15.0-niche-sites-icons'})
+   self.sendj({'status':'ok','service':'all-contained-web','crawlerRevision':'web-1.17.0-wanna-brand'})
   elif u.path in ('/','/index.html'):
    self.send_static(ROOT/'index.html','text/html; charset=utf-8',300)
   elif u.path=='/study-goal-tracker.html':
@@ -122,7 +122,7 @@ if __name__=='__main__':
   except OSError:continue
  if s is None:
   print('启动失败：8765-8775 端口均被占用。');input('按回车键退出…');raise SystemExit(1)
- url=f'http://{host}:{port}';print('Hermes Weather 已启动：'+url);threading.Timer(.7,lambda:webbrowser.open(url)).start()
+ url=f'http://{host}:{port}';print('万纳 All Contained 已启动：'+url);threading.Timer(.7,lambda:webbrowser.open(url)).start()
  try:s.serve_forever()
  except KeyboardInterrupt:pass
  finally:s.server_close()

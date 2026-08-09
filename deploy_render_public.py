@@ -137,7 +137,7 @@ def main():
         health = json.loads(resp.read())
         revision = health.get("crawlerRevision")
         print("PUBLIC_HEALTH", resp.status, revision, flush=True)
-        if revision != "web-1.15.0-niche-sites-icons":
+        if revision != "web-1.17.0-wanna-brand":
             return 11
     with urllib.request.urlopen(PUBLIC_URL + "hot-news.json?public_verify=" + str(time.time()), timeout=90) as resp:
         snapshot = resp.read()
