@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T12:26:24Z",
+  "updatedAt": "2026-08-09T12:41:31Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "【2026LPL第三赛段】7月24日 WE vs JDG",
-        "url": "https://www.bilibili.com/video/BV1HDga6REpy",
+        "title": "【2026LPL第三赛段】8月9日 JDG vs WE",
+        "url": "https://www.bilibili.com/video/BV1uau26gEmX",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026LPL第三赛段】7月24日 WE vs JDG",
-        "content": "【2026LPL第三赛段】7月24日 WE vs JDG",
-        "bvid": "BV1HDga6REpy",
+        "description": "【2026LPL第三赛段】8月9日 JDG vs WE",
+        "content": "【2026LPL第三赛段】8月9日 JDG vs WE",
+        "bvid": "BV1uau26gEmX",
         "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "176:23",
-        "cover": "//i1.hdslb.com/bfs/archive/c78f904d714f35616df9f823687ab3cf1dcf7b0d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HDga6REpy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "64:10",
+        "cover": "//i2.hdslb.com/bfs/archive/71f004654c8b0ad3bd74ad9185cbc39b6ebdc50b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uau26gEmX&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "JDG vs WE LPL第三赛段"
       },
       {
@@ -1162,10 +1162,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786278363723,
+    "thepaper": 1786279265190,
     "bilibili": 1786277549215,
-    "qbitai": 1786278383961,
-    "36kr": 1786278384346
+    "qbitai": 1786279290770,
+    "36kr": 1786279291173
   },
   "failures": {}
 }
