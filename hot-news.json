@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T16:26:37Z",
+  "updatedAt": "2026-08-10T16:41:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -142,19 +142,19 @@
         "hotTitle": "食贫道讲述墨西哥后世界杯时代"
       },
       {
-        "title": "第1-37届百花奖获奖代表登台",
-        "url": "https://www.bilibili.com/video/BV1K6uZ6eEY3",
+        "title": "百花奖获奖名单",
+        "url": "https://www.bilibili.com/video/BV1KZuo6AECp",
         "desc": "",
         "rank": 2,
         "kind": "video",
         "platform": "bilibili",
-        "description": "#第38届大众电影百花奖#颁奖典礼上，第1届至第37届百花奖获奖代表登台，走上“百花之路”。每一位获奖者都是一段难忘的“百花记忆”，都记载着“百花绽放”的光荣时刻！",
-        "content": "#第38届大众电影百花奖#颁奖典礼上，第1届至第37届百花奖获奖代表登台，走上“百花之路”。每一位获奖者都是一段难忘的“百花记忆”，都记载着“百花绽放”的光荣时刻！",
-        "bvid": "BV1K6uZ6eEY3",
-        "author": "电影频道融媒体中心",
-        "duration": "14:9",
-        "cover": "//i0.hdslb.com/bfs/archive/5519a1b54359e4beeafb903957d79443ebd2d279.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1K6uZ6eEY3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1KZuo6AECp",
+        "author": "3344xCUT",
+        "duration": "0:25",
+        "cover": "//i2.hdslb.com/bfs/archive/6226ecfd64a9b4d6fb6613d369e39ca994dce973.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KZuo6AECp&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "百花奖获奖名单公布"
       },
       {
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786379164234,
-    "bilibili": 1786379177406,
-    "qbitai": 1786379196978,
-    "36kr": 1786379197375
+    "thepaper": 1786380064139,
+    "bilibili": 1786378966154,
+    "qbitai": 1786380091660,
+    "36kr": 1786380092108
   },
   "failures": {}
 }
