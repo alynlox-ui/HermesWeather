@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T04:11:21Z",
+  "updatedAt": "2026-08-10T04:26:21Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -28,32 +28,32 @@
         "rank": 4
       },
       {
-        "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33743326",
-        "desc": "",
-        "rank": 5
-      },
-      {
         "title": "面对面丨蔡磊：与渐冻症抗争，纵使不敌，也不屈服",
         "url": "https://www.thepaper.cn/newsDetail_forward_33750215",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "日媒：战时日本多所大学进行输血人体实验，向患者注射动物血",
         "url": "https://www.thepaper.cn/newsDetail_forward_33748107",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
         "url": "https://www.thepaper.cn/newsDetail_forward_33748209",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "湖南一企业诉县政府未交地：这边还在打官司，那边涉案土地被拍卖了",
         "url": "https://www.thepaper.cn/newsDetail_forward_33748183",
+        "desc": "",
+        "rank": 8
+      },
+      {
+        "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33750449",
         "desc": "",
         "rank": 9
       },
@@ -64,14 +64,14 @@
         "rank": 10
       },
       {
-        "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33750449",
+        "title": "人民锐评：“坐公交车就能走出大山”，这句回复为啥火了？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33748980",
         "desc": "",
         "rank": 11
       },
       {
-        "title": "人民锐评：“坐公交车就能走出大山”，这句回复为啥火了？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33748980",
+        "title": "拜登之子：拜登癌症已扩散，令他非常痛苦",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33750313",
         "desc": "",
         "rank": 12
       },
@@ -142,10 +142,26 @@
         "hotTitle": "LGD致谢Somnus前来试训"
       },
       {
+        "title": "世界杯扩员是“洪水猛兽”还是“草根福音”？从佛得角门将看FIFA政治",
+        "url": "https://www.bilibili.com/video/BV1DJuQ6XEHm",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1DJuQ6XEHm",
+        "author": "央视新闻",
+        "duration": "1:34",
+        "cover": "//i1.hdslb.com/bfs/archive/cb7491942a18768d586556f8bd3365bbc1ef4fc7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DJuQ6XEHm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "从佛得角门将看FIFA政治"
+      },
+      {
         "title": "【球竞】吃瓜吃到自己身上了，C罗发表情包幽默辟谣婚礼",
         "url": "https://www.bilibili.com/video/BV16eum6oEz8",
         "desc": "",
-        "rank": 2,
+        "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -156,22 +172,6 @@
         "cover": "//i0.hdslb.com/bfs/archive/4f4497418f6b776a998c4d0bea6fdf27cf42910b.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16eum6oEz8&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "C罗发表情包回应婚礼"
-      },
-      {
-        "title": "【ATC录音】台风落地无望 两架海航盘旋一小时 无奈开启聊天",
-        "url": "https://www.bilibili.com/video/BV19cu16rEZ3",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "2026年8月9日 上午 台风来袭 两架海航已经盘旋了许久 于是两人开始在123.45频率上聊了起来",
-        "content": "2026年8月9日 上午 台风来袭 两架海航已经盘旋了许久 于是两人开始在123.45频率上聊了起来",
-        "bvid": "BV19cu16rEZ3",
-        "author": "ZSSS-36R",
-        "duration": "1:11",
-        "cover": "//i2.hdslb.com/bfs/archive/a8b97fee5995efa26e9be34cbd5fa110bb7da29f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19cu16rEZ3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "直击台风白海豚"
       },
       {
         "title": "尘埃落定，LGD官宣新中单，Lgd.Topson来了！秃子再次败给Topson。",
@@ -190,10 +190,42 @@
         "hotTitle": "Topson正式加入LGD"
       },
       {
+        "title": "【ATC录音】台风落地无望 两架海航盘旋一小时 无奈开启聊天",
+        "url": "https://www.bilibili.com/video/BV19cu16rEZ3",
+        "desc": "",
+        "rank": 5,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "2026年8月9日 上午 台风来袭 两架海航已经盘旋了许久 于是两人开始在123.45频率上聊了起来",
+        "content": "2026年8月9日 上午 台风来袭 两架海航已经盘旋了许久 于是两人开始在123.45频率上聊了起来",
+        "bvid": "BV19cu16rEZ3",
+        "author": "ZSSS-36R",
+        "duration": "1:11",
+        "cover": "//i2.hdslb.com/bfs/archive/a8b97fee5995efa26e9be34cbd5fa110bb7da29f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19cu16rEZ3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "直击台风白海豚"
+      },
+      {
+        "title": "揽佬《中国人能飞》线下首唱 纽约",
+        "url": "https://www.bilibili.com/video/BV1ZUug6QEeo",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "揽佬《中国人能飞》 纽约0808 现场破chu 首唱（狗头",
+        "content": "揽佬《中国人能飞》 纽约0808 现场破chu 首唱（狗头",
+        "bvid": "BV1ZUug6QEeo",
+        "author": "爱德爱力克",
+        "duration": "2:23",
+        "cover": "//i0.hdslb.com/bfs/archive/2435fd89acee5ca2a97fbcbed69573a0353339cd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZUug6QEeo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国人能飞线下首唱"
+      },
+      {
         "title": "8月10日宇树科技开启科创板IPO申购 宇树科技打新攻略 中一签预计需缴款7.54万元！",
         "url": "https://www.bilibili.com/video/BV1LKuS6REgp",
         "desc": "",
-        "rank": 5,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -206,202 +238,10 @@
         "hotTitle": "宇树科技今日申购"
       },
       {
-        "title": "【世界周刊】“足球之王”的危机",
-        "url": "https://www.bilibili.com/video/BV1owuS64EdA",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1owuS64EdA",
-        "author": "央视新闻",
-        "duration": "18:28",
-        "cover": "//i1.hdslb.com/bfs/archive/987472fe92d0097efef4dba2362b2cc2de8dc858.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1owuS64EdA&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "足球之王因凡蒂诺的危机"
-      },
-      {
-        "title": "你对台风的认识不足1%",
-        "url": "https://www.bilibili.com/video/BV1eGub6FEbt",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1eGub6FEbt",
-        "author": "耿华军-星球研究所",
-        "duration": "1:43",
-        "cover": "//i0.hdslb.com/bfs/archive/94bf94d2ad047fdd73d762c3f03b48315f225d9f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eGub6FEbt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "拆开看台风是什么"
-      },
-      {
-        "title": "【凡人186集逐帧解析】步步为营 谁人获利",
-        "url": "https://www.bilibili.com/video/BV1eCum6DE6C",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1eCum6DE6C",
-        "author": "拂水房-房东",
-        "duration": "25:39",
-        "cover": "//i2.hdslb.com/bfs/archive/d4ae48119295031caba6ff68a9f1a73230581080.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eCum6DE6C&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "凡人186集的文戏博弈"
-      },
-      {
-        "title": "【2026LPL第三赛段】8月9日 IG vs LNG",
-        "url": "https://www.bilibili.com/video/BV1cyuy6WEvF",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【2026LPL第三赛段】8月9日 IG vs LNG",
-        "content": "【2026LPL第三赛段】8月9日 IG vs LNG",
-        "bvid": "BV1cyuy6WEvF",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "133:17",
-        "cover": "//i1.hdslb.com/bfs/archive/62369a8983a4ff2a1ec86c13e3f7dac7703c3915.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cyuy6WEvF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "IG战胜LNG LPL第三赛段"
-      },
-      {
-        "title": "太有视觉冲击力了！全长399.99米、全球最大级别的运输船通过长江大桥！",
-        "url": "https://www.bilibili.com/video/BV1Bzum6WEAM",
-        "desc": "",
-        "rank": 10,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Bzum6WEAM",
-        "author": "人民网",
-        "duration": "0:23",
-        "cover": "//i2.hdslb.com/bfs/archive/eabb96b980f8ce02489e149a01baf311fa721aee.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Bzum6WEAM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "全球最大级别运输船通过长江大桥"
-      },
-      {
-        "title": "牧神记第96集，皇帝国师血洗收权！秦牧治延丰帝睡七公主！斗法班公措小毒王",
-        "url": "https://www.bilibili.com/video/BV1HLuj6zEAa",
-        "desc": "",
-        "rank": 11,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1HLuj6zEAa",
-        "author": "专注解说",
-        "duration": "26:39",
-        "cover": "//i2.hdslb.com/bfs/archive/6bce19d5b5bf5aa07940c4aa7ce79a2e3779f3a3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HLuj6zEAa&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "牧神记延丰帝被驾崩"
-      },
-      {
-        "title": "搞笑解说《顶级魅魔罗子君》：剧中人物遇到她，会自动觉醒服务型人格！",
-        "url": "https://www.bilibili.com/video/BV1dsut6wEBn",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1dsut6wEBn",
-        "author": "low君热剧",
-        "duration": "11:30",
-        "cover": "//i2.hdslb.com/bfs/archive/a89fcc0b1e4bee2d03ec148b28fd5de5426ae1b9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dsut6wEBn&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "罗子君近期为何再次翻红"
-      },
-      {
-        "title": "爆破4v8挑战：挑战情久战队！林威、煜参战！哪边会赢！",
-        "url": "https://www.bilibili.com/video/BV1dBu36EEXU",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本期你将看到，极致的枪法，绝妙的智斗，军事化管理，8人团队战术以及王神的指挥，答应我一定要看完！给个三连啊，谢谢兄弟们！！ AK103浴火麒麟现已开放领取！",
-        "content": "本期你将看到，极致的枪法，绝妙的智斗，军事化管理，8人团队战术以及王神的指挥，答应我一定要看完！给个三连啊，谢谢兄弟们！！ AK103浴火麒麟现已开放领取！",
-        "bvid": "BV1dBu36EEXU",
-        "author": "布锅锅",
-        "duration": "47:57",
-        "cover": "//i0.hdslb.com/bfs/archive/9780f6eef4d5322f98843813eaba0872662fac42.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dBu36EEXU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "CF爆破4v8挑战情久战队"
-      },
-      {
-        "title": "近视手术：人类是怎么敢在眼球上开刀的？",
-        "url": "https://www.bilibili.com/video/BV1uYu56JESd",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "为了彻底摘掉眼镜，人类究竟对自己下了什么狠手？ 参考文献： [1]MCALINDEN C. Corneal refractive surgery: past to present[J]. Clinical and Experimental Optometry, 2012, 95(4): 386-398. [2]MARDIANTO U, WINDYANI A, RAHAYU T. Refractive surgery for myopic astigmatism: systematic review for",
-        "content": "为了彻底摘掉眼镜，人类究竟对自己下了什么狠手？ 参考文献： [1]MCALINDEN C. Corneal refractive surgery: past to present[J]. Clinical and Experimental Optometry, 2012, 95(4): 386-398. [2]MARDIANTO U, WINDYANI A, RAHAYU T. Refractive surgery for myopic astigmatism: systematic review for",
-        "bvid": "BV1uYu56JESd",
-        "author": "大圆镜科普",
-        "duration": "6:59",
-        "cover": "//i2.hdslb.com/bfs/archive/0ecaaaed4bec661c763a8a2cfbe289a2606f58d2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uYu56JESd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "人眼为何会近视"
-      },
-      {
-        "title": "山东人疯抢的知了猴 能随便抓吗？一次性讲明白！【主播说三农】",
-        "url": "https://www.bilibili.com/video/BV1Xcu36CED6",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Xcu36CED6",
-        "author": "央视农业",
-        "duration": "4:13",
-        "cover": "//i2.hdslb.com/bfs/archive/f2e019ea6acc97d81d61b3ac430e65c45dec1260.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xcu36CED6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "关于知了猴的硬核知识"
-      },
-      {
-        "title": "20分钟《奥德赛》终极功课！原著/内核/影厅选择，一期视频全搞懂！",
-        "url": "https://www.bilibili.com/video/BV1cPug69Ene",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "一点关于《奥德赛》的简单功课...",
-        "content": "一点关于《奥德赛》的简单功课...",
-        "bvid": "BV1cPug69Ene",
-        "author": "迷影至下Filmlast",
-        "duration": "22:7",
-        "cover": "//i0.hdslb.com/bfs/archive/e3ccf9445c1aa1c2f2c1dd0c18d89b877874a048.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cPug69Ene&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "奥德赛终极功课"
-      },
-      {
-        "title": "评分8.7！我们奥特曼有救啦！提欧奥特曼开播吐槽！",
-        "url": "https://www.bilibili.com/video/BV1Cnu16ZEnP",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "点个关注再走哦",
-        "content": "点个关注再走哦",
-        "bvid": "BV1Cnu16ZEnP",
-        "author": "瓶子君152",
-        "duration": "11:44",
-        "cover": "//i0.hdslb.com/bfs/archive/1acd562a951cb8927cc6c2bfc6f5b22c66174391.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Cnu16ZEnP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "提欧奥特曼开播好看吗"
-      },
-      {
         "title": "【2026LPL第三赛段】8月9日 TT vs TES",
         "url": "https://www.bilibili.com/video/BV1Ujum6uEF3",
         "desc": "",
-        "rank": 18,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "【2026LPL第三赛段】8月9日 TT vs TES",
@@ -414,26 +254,74 @@
         "hotTitle": "TES战胜TT LPL第三赛段"
       },
       {
-        "title": "白海豚要在我国滞留一周以上！是来报仇的吗",
-        "url": "https://www.bilibili.com/video/BV1Knum6qEPp",
+        "title": "神作！超越我不是药神！《龙餐馆》微剧透影评！",
+        "url": "https://www.bilibili.com/video/BV1J5uU68ENB",
         "desc": "",
-        "rank": 19,
+        "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "白海豚要在我国境内滞留一周以上，不会真的是巴威转世后来复仇的吧！科普航发现，台风白海豚将在西风槽、东边双台风、副热带高压以及大陆暖高压的推搡中，彻底迷路，有可能在我国原地滞留一周。这到底怎么回事？会有什么影响？ 从登陆前的路径剧本上看，白海豚确实和巴威一样，被副热带高压压着一路西行，最后登陆浙江南部。但登陆之后，剧本全部变了。西北太平洋区的天气系统可谓乱成了一锅粥。首先，西风槽异常活跃，把白海豚北侧的副热带高压击溃，让副高暂时退缩回热带；其次，白海豚东边出现两个台风，三个台风之间互相出现了藤原效应，相互影",
-        "content": "白海豚要在我国境内滞留一周以上，不会真的是巴威转世后来复仇的吧！科普航发现，台风白海豚将在西风槽、东边双台风、副热带高压以及大陆暖高压的推搡中，彻底迷路，有可能在我国原地滞留一周。这到底怎么回事？会有什么影响？ 从登陆前的路径剧本上看，白海豚确实和巴威一样，被副热带高压压着一路西行，最后登陆浙江南部。但登陆之后，剧本全部变了。西北太平洋区的天气系统可谓乱成了一锅粥。首先，西风槽异常活跃，把白海豚北侧的副热带高压击溃，让副高暂时退缩回热带；其次，白海豚东边出现两个台风，三个台风之间互相出现了藤原效应，相互影",
-        "bvid": "BV1Knum6qEPp",
-        "author": "中气爱科普航",
-        "duration": "1:51",
-        "cover": "//i2.hdslb.com/bfs/archive/6c7c8be9a159030703fefdb460aaea38c4eab1de.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Knum6qEPp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "台风白海豚将滞留一周以上"
+        "description": "纯属个人意见，所有评论都仅代表个人意见，有任何不同看法都是你对！我不懂电影，纯胡说八道的！！！",
+        "content": "纯属个人意见，所有评论都仅代表个人意见，有任何不同看法都是你对！我不懂电影，纯胡说八道的！！！",
+        "bvid": "BV1J5uU68ENB",
+        "author": "Super也好君",
+        "duration": "7:34",
+        "cover": "//i2.hdslb.com/bfs/archive/2b69c9276de2eede989ff55f33b50783a163b252.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1J5uU68ENB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "龙餐馆微剧透影评"
+      },
+      {
+        "title": "请问谁才是日本一哥？张本智和4-2松岛辉空",
+        "url": "https://www.bilibili.com/video/BV17Quy6UEnK",
+        "desc": "",
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV17Quy6UEnK",
+        "author": "乒乓Q奇",
+        "duration": "16:36",
+        "cover": "//i0.hdslb.com/bfs/archive/c97a6741125b050f5795125c648b26614452c4a8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17Quy6UEnK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "逐帧解析张本智和表现"
+      },
+      {
+        "title": "新篇章 | 《穿越火线：潜伏》CF IP嘉年华发布现场",
+        "url": "https://www.bilibili.com/video/BV1eCuV6XEga",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "\"枪响，正当燃！\"火线宇宙的新旅程，迎来了一位重要的新朋友—— 《穿越火线：潜伏》首席创意官Taylor首次登上中国舞台，与玩家面对面： 讲述创作初心，首次展示为中国玩家准备的独家片段。 《穿越火线：潜伏》希望能拓展火线宇宙所能承载的想象。 第一次，全世界——从这里开始。",
+        "content": "\"枪响，正当燃！\"火线宇宙的新旅程，迎来了一位重要的新朋友—— 《穿越火线：潜伏》首席创意官Taylor首次登上中国舞台，与玩家面对面： 讲述创作初心，首次展示为中国玩家准备的独家片段。 《穿越火线：潜伏》希望能拓展火线宇宙所能承载的想象。 第一次，全世界——从这里开始。",
+        "bvid": "BV1eCuV6XEga",
+        "author": "穿越火线潜伏",
+        "duration": "7:59",
+        "cover": "//i0.hdslb.com/bfs/archive/58f44165f27f6080c7d4c2b7685b294c6ccf2b71.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eCuV6XEga&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "CF潜伏新剧情发布现场"
+      },
+      {
+        "title": "牧神记第96集，皇帝国师血洗收权！秦牧治延丰帝睡七公主！斗法班公措小毒王",
+        "url": "https://www.bilibili.com/video/BV1HLuj6zEAa",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1HLuj6zEAa",
+        "author": "专注解说",
+        "duration": "26:39",
+        "cover": "//i2.hdslb.com/bfs/archive/6bce19d5b5bf5aa07940c4aa7ce79a2e3779f3a3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HLuj6zEAa&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "牧神记延丰帝被驾崩"
       },
       {
         "title": "【巫师】万字吃透科技国运暴富机会，以及我是怎么亏的",
         "url": "https://www.bilibili.com/video/BV1hxug6BEL6",
         "desc": "",
-        "rank": 20,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -446,10 +334,234 @@
         "hotTitle": "普通人如何抓住科技红利"
       },
       {
+        "title": "24小时707毫米！白海豚引发浙江台州极端特大暴雨，临海三门温岭等地洪水滔天",
+        "url": "https://www.bilibili.com/video/BV1xwuU6BEUT",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1xwuU6BEUT",
+        "author": "中气爱mini",
+        "duration": "3:30",
+        "cover": "//i0.hdslb.com/bfs/archive/2936ed8604ce83d486caba729c7f0f8110e59498.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xwuU6BEUT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "白海豚极端暴雨席卷台州"
+      },
+      {
+        "title": "【节奏术力口1.0】震撼首发！x 可以随时玩的术曲？！全新音游来了【B站AI创造公开赛】",
+        "url": "https://www.bilibili.com/video/BV1rvu76yEJJ",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "已登录阿B的toy平台~ 完全免费游玩，只需要2个硬币，就能支持UP，继续开发！ 试玩地址： https://www.bilibili.com/toy/rhythm-vocaloid/index.html 请把最想玩到的术曲发在评论区，也欢迎反馈bug和说出你的创意灵感，帮助我们优化！如果采纳了你的建议，我们会加在致谢名单！~ 本期歌单： 甩葱歌-Otomania 医学 -原口沙輔 BV1nafnYUEac I Can't Wait - d0tc0mmie BV15GmhBaEZF 人是猫 -张卡",
+        "content": "已登录阿B的toy平台~ 完全免费游玩，只需要2个硬币，就能支持UP，继续开发！ 试玩地址： https://www.bilibili.com/toy/rhythm-vocaloid/index.html 请把最想玩到的术曲发在评论区，也欢迎反馈bug和说出你的创意灵感，帮助我们优化！如果采纳了你的建议，我们会加在致谢名单！~ 本期歌单： 甩葱歌-Otomania 医学 -原口沙輔 BV1nafnYUEac I Can't Wait - d0tc0mmie BV15GmhBaEZF 人是猫 -张卡",
+        "bvid": "BV1rvu76yEJJ",
+        "author": "墨白茜兔",
+        "duration": "2:41",
+        "cover": "//i1.hdslb.com/bfs/archive/43d537370746f3cf4632529c8ac2db5fb6e73761.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rvu76yEJJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "打开即玩的术力口曲"
+      },
+      {
+        "title": "“以军把枪口对准了我”，记者现场直击以军在巴勒斯坦军事行动",
+        "url": "https://www.bilibili.com/video/BV1qtuu67Eiy",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1qtuu67Eiy",
+        "author": "新华社",
+        "duration": "2:23",
+        "cover": "//i0.hdslb.com/bfs/archive/7674886a0a47529407cc06d04c1936aa9b136e72.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qtuu67Eiy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "直击以军在巴勒斯坦军事行动"
+      },
+      {
+        "title": "近视手术：人类是怎么敢在眼球上开刀的？",
+        "url": "https://www.bilibili.com/video/BV1uYu56JESd",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "为了彻底摘掉眼镜，人类究竟对自己下了什么狠手？ 参考文献： [1]MCALINDEN C. Corneal refractive surgery: past to present[J]. Clinical and Experimental Optometry, 2012, 95(4): 386-398. [2]MARDIANTO U, WINDYANI A, RAHAYU T. Refractive surgery for myopic astigmatism: systematic review for",
+        "content": "为了彻底摘掉眼镜，人类究竟对自己下了什么狠手？ 参考文献： [1]MCALINDEN C. Corneal refractive surgery: past to present[J]. Clinical and Experimental Optometry, 2012, 95(4): 386-398. [2]MARDIANTO U, WINDYANI A, RAHAYU T. Refractive surgery for myopic astigmatism: systematic review for",
+        "bvid": "BV1uYu56JESd",
+        "author": "大圆镜科普",
+        "duration": "6:59",
+        "cover": "//i2.hdslb.com/bfs/archive/0ecaaaed4bec661c763a8a2cfbe289a2606f58d2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uYu56JESd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "人眼为何会近视"
+      },
+      {
+        "title": "[8.10]夏休期最大喜讯！拉塞尔海滩浪漫求婚成功，签下人生最重要终身合约!",
+        "url": "https://www.bilibili.com/video/BV17buX6iE27",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV17buX6iE27",
+        "author": "F1老杨",
+        "duration": "1:31",
+        "cover": "//i0.hdslb.com/bfs/archive/d6d2acc2ff49bf60dab481db6d32e6dce3bba7a4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17buX6iE27&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "F1车手拉塞尔求婚成功"
+      },
+      {
+        "title": "我活到头了！沈腾不搞笑，诺兰不烧脑？《奥德赛》《欢迎来龙餐馆》《去你的岛》《大唐妖探》2026暑期排雷04",
+        "url": "https://www.bilibili.com/video/BV1scu26hEfy",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "暑期档就这么突然结束了吗？",
+        "content": "暑期档就这么突然结束了吗？",
+        "bvid": "BV1scu26hEfy",
+        "author": "轩邈Elias",
+        "duration": "10:14",
+        "cover": "//i1.hdslb.com/bfs/archive/075fba6d28792eec21a4a953aaa659b3c89692dd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1scu26hEfy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "暑期档哪部电影值得看"
+      },
+      {
+        "title": "20分钟《奥德赛》终极功课！原著/内核/影厅选择，一期视频全搞懂！",
+        "url": "https://www.bilibili.com/video/BV1cPug69Ene",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "一点关于《奥德赛》的简单功课...",
+        "content": "一点关于《奥德赛》的简单功课...",
+        "bvid": "BV1cPug69Ene",
+        "author": "迷影至下Filmlast",
+        "duration": "22:7",
+        "cover": "//i0.hdslb.com/bfs/archive/e3ccf9445c1aa1c2f2c1dd0c18d89b877874a048.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cPug69Ene&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "奥德赛终极功课"
+      },
+      {
+        "title": "山东人疯抢的知了猴 能随便抓吗？一次性讲明白！【主播说三农】",
+        "url": "https://www.bilibili.com/video/BV1Xcu36CED6",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Xcu36CED6",
+        "author": "央视农业",
+        "duration": "4:13",
+        "cover": "//i2.hdslb.com/bfs/archive/f2e019ea6acc97d81d61b3ac430e65c45dec1260.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xcu36CED6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "关于知了猴的硬核知识"
+      },
+      {
+        "title": "央视详解“南天门计划” 核聚变是重中之重！",
+        "url": "https://www.bilibili.com/video/BV11Muj65EK2",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "脚踏实地，挺进星空。",
+        "content": "脚踏实地，挺进星空。",
+        "bvid": "BV11Muj65EK2",
+        "author": "央视网",
+        "duration": "1:1",
+        "cover": "//i2.hdslb.com/bfs/archive/2aedfa6592951ec99bcf696bc05137a5f3ca8a82.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11Muj65EK2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "央视详解南天门计划"
+      },
+      {
+        "title": "搞笑解说《顶级魅魔罗子君》：剧中人物遇到她，会自动觉醒服务型人格！",
+        "url": "https://www.bilibili.com/video/BV1dsut6wEBn",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1dsut6wEBn",
+        "author": "low君热剧",
+        "duration": "11:30",
+        "cover": "//i2.hdslb.com/bfs/archive/a89fcc0b1e4bee2d03ec148b28fd5de5426ae1b9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dsut6wEBn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "罗子君近期为何再次翻红"
+      },
+      {
+        "title": "果葡糖浆不好？对，但白砂糖也一样！",
+        "url": "https://www.bilibili.com/video/BV1JAuM61EP5",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "参考文献 [1] Softic S, Stanhope KL, Boucher J, et al. Fructose and hepatic insulin resistance. Crit Rev Clin Lab Sci. 2020;57(5):308-322. [2] Pyner A, Nyambe-Silavwe H, Williamson G. Inhibition of Human and Rat Sucrase and Maltase Activities To Assess Antigly",
+        "content": "参考文献 [1] Softic S, Stanhope KL, Boucher J, et al. Fructose and hepatic insulin resistance. Crit Rev Clin Lab Sci. 2020;57(5):308-322. [2] Pyner A, Nyambe-Silavwe H, Williamson G. Inhibition of Human and Rat Sucrase and Maltase Activities To Assess Antigly",
+        "bvid": "BV1JAuM61EP5",
+        "author": "中国食品报融媒体",
+        "duration": "8:55",
+        "cover": "//i1.hdslb.com/bfs/archive/0bde377a00d36ff8fcce528ebedb3ef8a8defc59.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JAuM61EP5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "警惕食品中的含糖陷阱"
+      },
+      {
+        "title": "点映大爆！和药神齐名？蛰伏两年的《龙餐馆》，能否压哨登顶",
+        "url": "https://www.bilibili.com/video/BV1Wquh6QEJH",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Wquh6QEJH",
+        "author": "毒舌电影编辑部",
+        "duration": "8:53",
+        "cover": "//i0.hdslb.com/bfs/archive/e7eb04c98d8866e7d4c36fcb5660ff29356115d0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wquh6QEJH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "欢迎来龙餐馆值得看吗"
+      },
+      {
+        "title": "【杀戮尖塔2】爬塔时也能看公式化弹幕了？原创模组「弹幕尖塔」正式发布！（支持多人联机）",
+        "url": "https://www.bilibili.com/video/BV1Lsu56REKA",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《杀戮尖塔2》原创模组「弹幕尖塔 DanmakuSpire」现已发布！ 打出关键牌、受到攻击、购买物品、跳过奖励、在火堆休息或敲牌、进行SL，以及触发一些特殊场景时，都可能有与当前操作对应的“现场观众”从屏幕上飘过。 已经发布到创意工坊，搜索“弹幕尖塔”即可 反馈bug，提新创意，获取模组文件资源加1103403846",
+        "content": "《杀戮尖塔2》原创模组「弹幕尖塔 DanmakuSpire」现已发布！ 打出关键牌、受到攻击、购买物品、跳过奖励、在火堆休息或敲牌、进行SL，以及触发一些特殊场景时，都可能有与当前操作对应的“现场观众”从屏幕上飘过。 已经发布到创意工坊，搜索“弹幕尖塔”即可 反馈bug，提新创意，获取模组文件资源加1103403846",
+        "bvid": "BV1Lsu56REKA",
+        "author": "Icnsis",
+        "duration": "1:31",
+        "cover": "//i1.hdslb.com/bfs/archive/16104533aed929998697677bfd8272bdafe9e7b9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Lsu56REKA&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主自制弹幕尖塔模组"
+      },
+      {
+        "title": "太有视觉冲击力了！全长399.99米、全球最大级别的运输船通过长江大桥！",
+        "url": "https://www.bilibili.com/video/BV1Bzum6WEAM",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Bzum6WEAM",
+        "author": "人民网",
+        "duration": "0:23",
+        "cover": "//i2.hdslb.com/bfs/archive/eabb96b980f8ce02489e149a01baf311fa721aee.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Bzum6WEAM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "全球最大级别运输船通过长江大桥"
+      },
+      {
         "title": "450毫米！白海豚最危险暴雨，可能下在华北",
         "url": "https://www.bilibili.com/video/BV1oZu26HETh",
         "desc": "",
-        "rank": 21,
+        "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "500毫米的超级暴雨啊！台风“白海豚”要冲着河南山东京津冀去了，不仅登陆地浙江可能下出超级暴雨，北方搞不好会下出更极端的暴雨，五大危险因素同时出现，个别数值模式还算出23年8月“杜苏芮”台风的可怕剧本。这究竟有多凶险？",
@@ -465,7 +577,7 @@
         "title": "塞门约一分钟两送助攻！曼城3-1马竞 马尔穆什双响塞16岁多明戈斯破门#足球通 看#西甲 #英超 #五大联赛 太合适了！",
         "url": "https://www.bilibili.com/video/BV1KsuS6kEAb",
         "desc": "",
-        "rank": 22,
+        "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "塞门约一分钟两送助攻！曼城3-1马竞 马尔穆什双响塞16岁多明戈斯破门#足球通 看#西甲 #英超 #五大联赛 太合适了！",
@@ -478,132 +590,20 @@
         "hotTitle": "马雷斯卡首秀曼城3-1马竞"
       },
       {
-        "title": "《完蛋我被男同学包围》近期舆论的澄清和道歉",
-        "url": "https://www.bilibili.com/video/BV13sug6uESP",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《完蛋！我被男同学包围了》近期舆论的澄清和道歉： 很抱歉让观众朋友们卷入骂战中，我们在这里向大家说声 对不起 也希望大家在接下来的时间里不会再起纠纷 感谢大家对我们的包容和喜爱 视频内容拍的比较轻松， 我们想用这种轻松活泼的氛围让大家知道其实我们并没有被处分或者批评， 我们也希望通过我们一直以来的轻松欢快的方式去化解这次矛盾， 再次感谢你们的支持",
-        "content": "《完蛋！我被男同学包围了》近期舆论的澄清和道歉： 很抱歉让观众朋友们卷入骂战中，我们在这里向大家说声 对不起 也希望大家在接下来的时间里不会再起纠纷 感谢大家对我们的包容和喜爱 视频内容拍的比较轻松， 我们想用这种轻松活泼的氛围让大家知道其实我们并没有被处分或者批评， 我们也希望通过我们一直以来的轻松欢快的方式去化解这次矛盾， 再次感谢你们的支持",
-        "bvid": "BV13sug6uESP",
-        "author": "游戏学社",
-        "duration": "2:0",
-        "cover": "//i0.hdslb.com/bfs/archive/9802f89c55a7132ee746570a294f6d1f28c9270c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13sug6uESP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "完蛋男同学主创回应"
-      },
-      {
-        "title": "24小时707毫米！白海豚引发浙江台州极端特大暴雨，临海三门温岭等地洪水滔天",
-        "url": "https://www.bilibili.com/video/BV1xwuU6BEUT",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1xwuU6BEUT",
-        "author": "中气爱mini",
-        "duration": "3:30",
-        "cover": "//i0.hdslb.com/bfs/archive/2936ed8604ce83d486caba729c7f0f8110e59498.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xwuU6BEUT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "白海豚极端暴雨席卷台州"
-      },
-      {
-        "title": "神作！超越我不是药神！《龙餐馆》微剧透影评！",
-        "url": "https://www.bilibili.com/video/BV1J5uU68ENB",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "纯属个人意见，所有评论都仅代表个人意见，有任何不同看法都是你对！我不懂电影，纯胡说八道的！！！",
-        "content": "纯属个人意见，所有评论都仅代表个人意见，有任何不同看法都是你对！我不懂电影，纯胡说八道的！！！",
-        "bvid": "BV1J5uU68ENB",
-        "author": "Super也好君",
-        "duration": "7:34",
-        "cover": "//i2.hdslb.com/bfs/archive/2b69c9276de2eede989ff55f33b50783a163b252.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1J5uU68ENB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "龙餐馆微剧透影评"
-      },
-      {
-        "title": "闪光你已无处可逃！神秘面具男实战思路",
-        "url": "https://www.bilibili.com/video/BV1AYuK67Ess",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "极致的爆发力和压制力！神秘面具男实战思路！看完教学 别忘了交上你的“目押”作业~",
-        "content": "极致的爆发力和压制力！神秘面具男实战思路！看完教学 别忘了交上你的“目押”作业~",
-        "bvid": "BV1AYuK67Ess",
-        "author": "拉杰l",
-        "duration": "6:4",
-        "cover": "//i1.hdslb.com/bfs/archive/a4113fb7c28047501e4a2beb716883c9e0a4125b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AYuK67Ess&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "火影手游神秘面具男实战思路"
-      },
-      {
-        "title": "央视详解“南天门计划” 核聚变是重中之重！",
-        "url": "https://www.bilibili.com/video/BV11Muj65EK2",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "脚踏实地，挺进星空。",
-        "content": "脚踏实地，挺进星空。",
-        "bvid": "BV11Muj65EK2",
-        "author": "央视网",
-        "duration": "1:1",
-        "cover": "//i2.hdslb.com/bfs/archive/2aedfa6592951ec99bcf696bc05137a5f3ca8a82.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11Muj65EK2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "央视详解南天门计划"
-      },
-      {
-        "title": "点映大爆！和药神齐名？蛰伏两年的《龙餐馆》，能否压哨登顶",
-        "url": "https://www.bilibili.com/video/BV1Wquh6QEJH",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Wquh6QEJH",
-        "author": "毒舌电影编辑部",
-        "duration": "8:53",
-        "cover": "//i0.hdslb.com/bfs/archive/e7eb04c98d8866e7d4c36fcb5660ff29356115d0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wquh6QEJH&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "欢迎来龙餐馆值得看吗"
-      },
-      {
-        "title": "果葡糖浆不好？对，但白砂糖也一样！",
-        "url": "https://www.bilibili.com/video/BV1JAuM61EP5",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "参考文献 [1] Softic S, Stanhope KL, Boucher J, et al. Fructose and hepatic insulin resistance. Crit Rev Clin Lab Sci. 2020;57(5):308-322. [2] Pyner A, Nyambe-Silavwe H, Williamson G. Inhibition of Human and Rat Sucrase and Maltase Activities To Assess Antigly",
-        "content": "参考文献 [1] Softic S, Stanhope KL, Boucher J, et al. Fructose and hepatic insulin resistance. Crit Rev Clin Lab Sci. 2020;57(5):308-322. [2] Pyner A, Nyambe-Silavwe H, Williamson G. Inhibition of Human and Rat Sucrase and Maltase Activities To Assess Antigly",
-        "bvid": "BV1JAuM61EP5",
-        "author": "中国食品报融媒体",
-        "duration": "8:55",
-        "cover": "//i1.hdslb.com/bfs/archive/0bde377a00d36ff8fcce528ebedb3ef8a8defc59.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JAuM61EP5&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "警惕食品中的含糖陷阱"
-      },
-      {
-        "title": "请问谁才是日本一哥？张本智和4-2松岛辉空",
-        "url": "https://www.bilibili.com/video/BV17Quy6UEnK",
+        "title": "【三角洲】零号大坝1-11藏宝图/宝藏箱所有位置 保姆级教学 全程贴心领跑",
+        "url": "https://www.bilibili.com/video/BV1EwuK6BEir",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV17Quy6UEnK",
-        "author": "乒乓Q奇",
-        "duration": "16:36",
-        "cover": "//i0.hdslb.com/bfs/archive/c97a6741125b050f5795125c648b26614452c4a8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17Quy6UEnK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "逐帧解析张本智和表现"
+        "description": "........................",
+        "content": "........................",
+        "bvid": "BV1EwuK6BEir",
+        "author": "异环代肝",
+        "duration": "9:3",
+        "cover": "//i1.hdslb.com/bfs/archive/28e61a9d240256df4d2263f511faf9648a50f102.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EwuK6BEir&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "三角洲宝藏箱所有点位"
       }
     ],
     "qbitai": [
@@ -940,6 +940,26 @@
         "rank": 3
       },
       {
+        "title": "公募机构扎堆调研医药生物行业",
+        "url": "https://m.36kr.com/newsflashes/3933170658000009",
+        "desc": "公募排排网数据显示，上周（8月3日—8月9日）共有112家公募机构参与到A股调研活动中，覆盖到16个申万行业中的41只个股，合计调研达384次。其中公募机构对医药生物行业调研热度明显攀升，调研次数突破100次，排名居首。（证券时报）",
+        "cover": "",
+        "date": 1786335782000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "晓鸣股份：7月鸡产品销售收入8864.08万元，同比增长17.97%",
+        "url": "https://m.36kr.com/newsflashes/3933169627020424",
+        "desc": "36氪获悉，晓鸣股份发布7月鸡产品销售情况简报，公司2026年7月销售鸡产品2128.74万羽，销售收入8864.08万元，环比变动分别为9.44%、18.04%，同比变动分别为6.82%、17.97%。公司鸡产品销售数量和销售收入环比、同比均有所增长，主要系全国多地天气处于高温高湿状态，在产蛋鸡产蛋率下降，鸡蛋供应呈现阶段性偏紧，蛋价维持高位运行，养殖单位补栏积极性回升。",
+        "cover": "",
+        "date": 1786335418000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "退市新规征求意见，全球芯片LOF跌停，白银LOF重挫",
         "url": "https://m.36kr.com/newsflashes/3933168739875977",
         "desc": "周一早盘，多只前期高溢价LOF同步回调。其中，全球芯片LOF跌停，但溢价仍居高不下、维持在18%；国投白银LOF盘中一度大跌超8%，溢价率同样突破18%。行情异动或源于上周末的重磅监管新规。沪深交易所联合发布LOF退市新规征求意见稿，明确两类产品强制退市情形，精准直击场内LOF长期存在的高溢价投机炒作、迷你基金流动性枯竭、价格易被操纵等市场顽疾。沪上一位公募人士受访称，对于当前溢价率较高的QDII或商品期货LOF，退市预期或将直接打击投机情绪。（第一财经）",
@@ -947,7 +967,7 @@
         "date": 1786334946000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "海南发布《海南省关于进一步深化投融资改革的若干举措》",
@@ -957,7 +977,7 @@
         "date": 1786334661208,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "恒指午间休盘涨0.72%，恒生科技指数涨0.37%",
@@ -967,7 +987,7 @@
         "date": 1786334554252,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "半日主力资金加仓医药生物板块，抛售电子板块",
@@ -977,7 +997,7 @@
         "date": 1786334024000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "欧盟机构：7月全球海洋表面温度创新高",
@@ -987,7 +1007,7 @@
         "date": 1786333608000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "五粮液集团等成立新材料科技公司，注册资本1.5亿",
@@ -997,7 +1017,7 @@
         "date": 1786333178000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "A股三大指数午间休盘涨跌不一，医药股走强",
@@ -1007,7 +1027,7 @@
         "date": 1786332716673,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "中央政府将在澳门发行60亿元人民币国债",
@@ -1017,7 +1037,7 @@
         "date": 1786332304000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "与美竞争，欧洲敲定自家“星链”规划",
@@ -1027,7 +1047,7 @@
         "date": 1786331994000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "天猫成为ALO中国独家电商平台，官方旗舰店已上线",
@@ -1037,7 +1057,7 @@
         "date": 1786331875945,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "阿维塔高管：不认为和华为的合作模式是“必要项”",
@@ -1047,7 +1067,7 @@
         "date": 1786331707000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "港股新消费概念走势分化，沪上阿姨跌超20%",
@@ -1057,7 +1077,7 @@
         "date": 1786331619780,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "中国AI大模型调用量连续十五周领跑：环比增长570%，DeepSeek-V4-Flash正式版登顶",
@@ -1067,7 +1087,7 @@
         "date": 1786331409000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "中钨在线：钨精矿价格暂稳，钨废料价格上行",
@@ -1077,7 +1097,7 @@
         "date": 1786330710511,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "国投证券：猪周期反转渐近，建议积极关注养殖股",
@@ -1087,7 +1107,7 @@
         "date": 1786330074776,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "创业板指跌超2%",
@@ -1097,7 +1117,7 @@
         "date": 1786329918271,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "罗马仕等被执行2056万",
@@ -1107,7 +1127,7 @@
         "date": 1786329485000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "韩国总统李在明将视察AI相关投资计划进展",
@@ -1117,35 +1137,15 @@
         "date": 1786329215000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "英国首相宣布将打击“虚假折扣”等误导性定价行为",
-        "url": "https://m.36kr.com/newsflashes/3933090017115524",
-        "desc": "据英国方面消息称，英国首相伯纳姆8月9日宣布，政府计划加强监管零售商“虚假折扣”等误导性定价行为，重点打击商家通过人为抬高商品原价或所谓“此前价格”、使用误导性建议零售价等方式、使消费者产生商品大幅降价的错觉。（央视新闻）",
-        "cover": "",
-        "date": 1786328763739,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "千问开放平台上线",
-        "url": "https://m.36kr.com/newsflashes/3933077654306181",
-        "desc": "36氪获悉，8月10日，千问开放平台上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入。据介绍，首批接入的伙伴覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域，只需在对话中@相关服务，或点击页面右上角的“圆点角标”进入相应智能体，就能体验从咨询、推荐到下单的完整服务。",
-        "cover": "",
-        "date": 1786328009173,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786335064323,
-    "bilibili": 1786333568178,
-    "qbitai": 1786335081565,
-    "36kr": 1786335081859
+    "thepaper": 1786335963983,
+    "bilibili": 1786335966265,
+    "qbitai": 1786335980747,
+    "36kr": 1786335981104
   },
   "failures": {}
 }
