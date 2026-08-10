@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T19:26:20Z",
+  "updatedAt": "2026-08-10T19:41:20Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786389964095,
-    "bilibili": 1786389966323,
-    "qbitai": 1786389979756,
-    "36kr": 1786389980179
+    "thepaper": 1786390863979,
+    "bilibili": 1786389799201,
+    "qbitai": 1786390879701,
+    "36kr": 1786390880231
   },
   "failures": {}
 }
