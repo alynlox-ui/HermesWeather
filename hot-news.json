@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T15:41:36Z",
+  "updatedAt": "2026-08-11T15:56:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -190,19 +190,19 @@
         "hotTitle": "央视探访广西受灾茉莉花田"
       },
       {
-        "title": "EDG不敌JDG创队史新低！DRG巨大优势惨遭翻盘无缘季后赛！【奶爸侃瓦387】",
-        "url": "https://www.bilibili.com/video/BV1NxuB6GEFn",
+        "title": "【2026 VCTCN 第二赛段】8月11日 DRG vs TE //夜莲&babyblue解说",
+        "url": "https://www.bilibili.com/video/BV1fzuB6aEcw",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1NxuB6GEFn",
-        "author": "解说奶爸",
-        "duration": "9:38",
-        "cover": "//i0.hdslb.com/bfs/archive/eb2306cde7c03a33533bad5a161abc4e5f81e6bf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NxuB6GEFn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "https://live.bilibili.com/24160384 麻烦大伙多点点赞点点关注点点转发！希望大家有时间的尽量多看直播感谢 ！ 解说：@夜莲Annbbers @JDG_Babyblue 切片：@夜莲的工作人格",
+        "content": "https://live.bilibili.com/24160384 麻烦大伙多点点赞点点关注点点转发！希望大家有时间的尽量多看直播感谢 ！ 解说：@夜莲Annbbers @JDG_Babyblue 切片：@夜莲的工作人格",
+        "bvid": "BV1fzuB6aEcw",
+        "author": "夜莲的生活人格",
+        "duration": "366:36",
+        "cover": "//i1.hdslb.com/bfs/archive/13d0a3fdd9f27439cb7814a2e864f1311a39a612.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fzuB6aEcw&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TE战胜DRG晋级季后赛"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786462863386,
-    "bilibili": 1786462871982,
-    "qbitai": 1786462896030,
-    "36kr": 1786462896490
+    "thepaper": 1786463763213,
+    "bilibili": 1786462811225,
+    "qbitai": 1786463794908,
+    "36kr": 1786463795259
   },
   "failures": {}
 }
