@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T21:56:19Z",
+  "updatedAt": "2026-08-11T22:11:19Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -270,19 +270,19 @@
         "hotTitle": "日全食巧遇英仙座流星雨"
       },
       {
-        "title": "【高下立判】TE 2-1 DRG，韧性！TE赛点图极限翻盘，S1季军DRG无缘季后赛！",
-        "url": "https://www.bilibili.com/video/BV1FBuB6PEY6",
+        "title": "【DRG vs TE】半场2-10拖入加时完成翻盘！TE鏖战三图挺进季后赛！[夜莲解说]ALLGAME",
+        "url": "https://www.bilibili.com/video/BV1fBuB6AEpT",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "以为DRG2-1拿下了，提前写的比分，结果TE翻盘了忘记改了，赶紧删了重传结果又写反了",
-        "content": "以为DRG2-1拿下了，提前写的比分，结果TE翻盘了忘记改了，赶紧删了重传结果又写反了",
-        "bvid": "BV1FBuB6PEY6",
-        "author": "小徐还在绕",
-        "duration": "2:56",
-        "cover": "//i2.hdslb.com/bfs/archive/61604012138962111b36bf261e43b5a9a7f40ae9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FBuB6PEY6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "解说：@夜莲Annbbers @JDG_Babyblue",
+        "content": "解说：@夜莲Annbbers @JDG_Babyblue",
+        "bvid": "BV1fBuB6AEpT",
+        "author": "瓦赛事",
+        "duration": "40:8",
+        "cover": "//i2.hdslb.com/bfs/archive/f6c3120ab4cf55975d41c978b0e0bc82edf2de8b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fBuB6AEpT&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TE战胜DRG晋级季后赛"
       },
       {
@@ -574,19 +574,19 @@
         "hotTitle": "穿越火线潜伏预告透露了哪些内容"
       },
       {
-        "title": "杨紫:百花奖提名者表彰大会后台采访杨紫：提名已经很开心了，获不获奖已经无所谓了，提名既肯定；特别感谢一直支持我的朋友，拍更好的作品回报大家",
-        "url": "https://www.bilibili.com/video/BV1aT4y1A786",
+        "title": "第38届大众电影百花奖颁奖典礼暨闭幕式 揭晓时刻！1080p",
+        "url": "https://www.bilibili.com/video/BV1Aguz6GECS",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "https://m.weibo.cn/7352645355/4553046316816363",
-        "content": "https://m.weibo.cn/7352645355/4553046316816363",
-        "bvid": "BV1aT4y1A786",
-        "author": "人生如梦559",
-        "duration": "5:28",
-        "cover": "//i2.hdslb.com/bfs/archive/e658f70ea69b64b7dc53ea73b9ce9a7fa5b9d863.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aT4y1A786&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "互联网",
+        "content": "互联网",
+        "bvid": "BV1Aguz6GECS",
+        "author": "纪录片典藏",
+        "duration": "151:2",
+        "cover": "//i0.hdslb.com/bfs/archive/689d1279038c49b54241947a2eaf33a0845b36f0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Aguz6GECS&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "百花奖获奖名单公布"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786485361813,
+    "thepaper": 1786486262328,
     "bilibili": 1786484532925,
-    "qbitai": 1786485379097,
-    "36kr": 1786485379542
+    "qbitai": 1786486278854,
+    "36kr": 1786486279293
   },
   "failures": {}
 }
