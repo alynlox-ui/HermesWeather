@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T22:26:21Z",
+  "updatedAt": "2026-08-11T22:41:19Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -446,19 +446,19 @@
         "hotTitle": "文西龙餐馆真实观后感"
       },
       {
-        "title": "【高下立判】TE 2-1 DRG，韧性！TE赛点图极限翻盘，S1季军DRG无缘季后赛！",
-        "url": "https://www.bilibili.com/video/BV1FBuB6PEY6",
+        "title": "【2026VCTCN第二赛段】8月11日 DRG vs TE",
+        "url": "https://www.bilibili.com/video/BV1EBui6xEPz",
         "desc": "",
         "rank": 21,
         "kind": "video",
         "platform": "bilibili",
-        "description": "以为DRG2-1拿下了，提前写的比分，结果TE翻盘了忘记改了，赶紧删了重传结果又写反了",
-        "content": "以为DRG2-1拿下了，提前写的比分，结果TE翻盘了忘记改了，赶紧删了重传结果又写反了",
-        "bvid": "BV1FBuB6PEY6",
-        "author": "小徐还在绕",
-        "duration": "2:56",
-        "cover": "//i2.hdslb.com/bfs/archive/61604012138962111b36bf261e43b5a9a7f40ae9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FBuB6PEY6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026VCTCN第二赛段】8月11日 DRG vs TE",
+        "content": "【2026VCTCN第二赛段】8月11日 DRG vs TE",
+        "bvid": "BV1EBui6xEPz",
+        "author": "无畏契约赛事",
+        "duration": "203:54",
+        "cover": "//i0.hdslb.com/bfs/archive/3a1ee66add22ec881b92f3f8dff8fe2e218317a9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EBui6xEPz&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TE战胜DRG晋级季后赛"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786487162892,
+    "thepaper": 1786488061900,
     "bilibili": 1786486334512,
-    "qbitai": 1786487181086,
-    "36kr": 1786487181630
+    "qbitai": 1786488078497,
+    "36kr": 1786488079063
   },
   "failures": {}
 }
