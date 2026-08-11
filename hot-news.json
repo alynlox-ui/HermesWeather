@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T00:41:19Z",
+  "updatedAt": "2026-08-11T00:56:20Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,26 @@
     ],
     "bilibili": [
       {
+        "title": "DNS 2-0 GEN 赛后数据雷达图+虎扑评分丨LCK-KeSPA杯",
+        "url": "https://www.bilibili.com/video/BV1BGuY61EGA",
+        "desc": "",
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1BGuY61EGA",
+        "author": "苦练李香兰",
+        "duration": "2:9",
+        "cover": "//i2.hdslb.com/bfs/archive/656bc723c30446840f1d44af7272975266b6c442.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BGuY61EGA&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DNS战胜GEN赛后数据"
+      },
+      {
         "title": "浙江首创无堂食外卖集聚地，力图破解“幽灵外卖”乱象",
         "url": "https://www.bilibili.com/video/BV1N6uZ6eEdw",
         "desc": "",
-        "rank": 1,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "（素材来源：人民网浙江）",
@@ -142,36 +158,20 @@
         "hotTitle": "浙江首创无堂食外卖集聚地"
       },
       {
-        "title": "【分猪肉大会】第38届大众电影百花奖 各主要奖项汇总",
-        "url": "https://www.bilibili.com/video/BV12zuZ6PEWf",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV12zuZ6PEWf",
-        "author": "起风了Osaka",
-        "duration": "63:29",
-        "cover": "//i1.hdslb.com/bfs/archive/a80a560f9537d6acca5d0fbbfde161e8173a6b5a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12zuZ6PEWf&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "百花奖获奖名单公布"
-      },
-      {
-        "title": "Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
-        "url": "https://www.bilibili.com/video/BV15Zud6GExQ",
+        "title": "【IGN】《奥德赛》评测：并非爽片，但很诺兰",
+        "url": "https://www.bilibili.com/video/BV1ddud6yEYC",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "Ti首日对阵出炉，CNDota的第一天，怎么说？！ Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
-        "content": "Ti首日对阵出炉，CNDota的第一天，怎么说？！ Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
-        "bvid": "BV15Zud6GExQ",
-        "author": "化圆直",
-        "duration": "7:15",
-        "cover": "//i1.hdslb.com/bfs/archive/64cbcdb8fc73d14db8440b1ff9992ad21918ff58.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Zud6GExQ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "TI2026首日对阵前瞻"
+        "description": "《奥德赛》既是一部关于过去的史诗，也是一部属于当下世界的寓言。诺兰并非试图简单地为观众讲述遥远的希腊传说，而是通过奥德修斯的归途，展现亘古不变的困境，为何不断走向冲突，又如何面对暴力留下的创伤。",
+        "content": "《奥德赛》既是一部关于过去的史诗，也是一部属于当下世界的寓言。诺兰并非试图简单地为观众讲述遥远的希腊传说，而是通过奥德修斯的归途，展现亘古不变的困境，为何不断走向冲突，又如何面对暴力留下的创伤。",
+        "bvid": "BV1ddud6yEYC",
+        "author": "IGN中国",
+        "duration": "7:19",
+        "cover": "//i1.hdslb.com/bfs/archive/ea02c02b165ba7074255896c1ce919ceb60c039f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ddud6yEYC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "IGN评电影奥德赛"
       },
       {
         "title": "白海豚大拐弯：江浙沪多地特大暴雨破纪录，北方暴雨启动或有三个重点",
@@ -190,90 +190,26 @@
         "hotTitle": "白海豚大拐弯"
       },
       {
-        "title": "哥伦比亚发生7.5级强震，多栋建筑物受损",
-        "url": "https://www.bilibili.com/video/BV1qquo62EPb",
+        "title": "台风白海豚登陆 猫妈妈给自己找了个好地方",
+        "url": "https://www.bilibili.com/video/BV1UpuQ6DE2s",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1qquo62EPb",
-        "author": "央视新闻",
-        "duration": "0:21",
-        "cover": "//i2.hdslb.com/bfs/archive/f42d3f883da8140106a77c9d7ad57e8aea20c50c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qquo62EPb&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "哥伦比亚发生7.5级强震"
-      },
-      {
-        "title": "【TES滔滔不绝】五连胜，势如破竹! | TES vs BLG/TT",
-        "url": "https://www.bilibili.com/video/BV19WuZ65E3B",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "对战BLG、TT场的滔滔不绝来啦！ 拿下五连胜啦，奔赴下一程，我们苏州见~",
-        "content": "对战BLG、TT场的滔滔不绝来啦！ 拿下五连胜啦，奔赴下一程，我们苏州见~",
-        "bvid": "BV19WuZ65E3B",
-        "author": "滔搏电子竞技俱乐部",
-        "duration": "12:58",
-        "cover": "//i0.hdslb.com/bfs/archive/e14e9763447c5cfe33f8191561535f501349e07b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19WuZ65E3B&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "TES五连胜比赛语音"
-      },
-      {
-        "title": "季后赛历史最高分！乔丹的63分，到底强到什么程度？",
-        "url": "https://www.bilibili.com/video/BV1WauQ61EYD",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1WauQ61EYD",
-        "author": "太吾车神",
-        "duration": "18:13",
-        "cover": "//i1.hdslb.com/bfs/archive/9566b4ab744fc3205f059d22dae56a634a7180ee.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WauQ61EYD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "乔丹的季后赛63分强到什么程度"
-      },
-      {
-        "title": "在墨西哥，你甚至可以和神父摔角?!",
-        "url": "https://www.bilibili.com/video/BV1Ckud6sEHm",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "热知识：墨西哥是唯一举办过三届世界杯的国家，这里体育氛围非常浓厚。今天咱们就走进墨西哥，世界杯到底给这片土地带来了什么，摔角对墨西哥人又意味着什么。如果你喜欢这期视频，还请多多三连支持和转发哦~",
-        "content": "热知识：墨西哥是唯一举办过三届世界杯的国家，这里体育氛围非常浓厚。今天咱们就走进墨西哥，世界杯到底给这片土地带来了什么，摔角对墨西哥人又意味着什么。如果你喜欢这期视频，还请多多三连支持和转发哦~",
-        "bvid": "BV1Ckud6sEHm",
-        "author": "食贫道",
-        "duration": "36:23",
-        "cover": "//i2.hdslb.com/bfs/archive/d62b47c9e92bf486a12f979242a8478d990eee04.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ckud6sEHm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "食贫道讲述墨西哥后世界杯时代"
-      },
-      {
-        "title": "重磅突破！中国科学家破解甘蔗育种世纪难题【主播说三农】",
-        "url": "https://www.bilibili.com/video/BV1MQuR6bEa8",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1MQuR6bEa8",
-        "author": "央视农业",
-        "duration": "6:23",
-        "cover": "//i0.hdslb.com/bfs/archive/9b206e6d163fddf225f176b885684c03df159e3d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MQuR6bEa8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "甘蔗育种世纪难题被破解"
+        "bvid": "BV1UpuQ6DE2s",
+        "author": "阿孟的养猫日记",
+        "duration": "3:56",
+        "cover": "//i0.hdslb.com/bfs/archive/79d1c127843e0dae8afd42d0c7fe762652e60f93.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UpuQ6DE2s&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "台风白海豚实时路径"
       },
       {
         "title": "公交车能耗和驾驶员绩效工资挂钩，兰州公交第六客运公司：已暂停能耗考核",
         "url": "https://www.bilibili.com/video/BV126uZ6YEq1",
         "desc": "",
-        "rank": 10,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -286,26 +222,106 @@
         "hotTitle": "兰州回应公交能耗与工资挂钩"
       },
       {
-        "title": "王健林现在怎么样了? 万达什么情况?",
-        "url": "https://www.bilibili.com/video/BV1XPuo6uES8",
+        "title": "假面骑士祥子 01.沉默的骑士",
+        "url": "https://www.bilibili.com/video/BV1pmu26FEZZ",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1pmu26FEZZ",
+        "author": "洛卡sus",
+        "duration": "14:56",
+        "cover": "//i0.hdslb.com/bfs/archive/4e35a80b035a38b371ac0091d62eae55d884207e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pmu26FEZZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "假面骑士祥子"
+      },
+      {
+        "title": "【分猪肉大会】第38届大众电影百花奖 各主要奖项汇总",
+        "url": "https://www.bilibili.com/video/BV12zuZ6PEWf",
+        "desc": "",
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV12zuZ6PEWf",
+        "author": "起风了Osaka",
+        "duration": "63:29",
+        "cover": "//i1.hdslb.com/bfs/archive/a80a560f9537d6acca5d0fbbfde161e8173a6b5a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12zuZ6PEWf&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "百花奖获奖名单公布"
+      },
+      {
+        "title": "Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
+        "url": "https://www.bilibili.com/video/BV15Zud6GExQ",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "Ti首日对阵出炉，CNDota的第一天，怎么说？！ Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
+        "content": "Ti首日对阵出炉，CNDota的第一天，怎么说？！ Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
+        "bvid": "BV15Zud6GExQ",
+        "author": "化圆直",
+        "duration": "7:15",
+        "cover": "//i1.hdslb.com/bfs/archive/64cbcdb8fc73d14db8440b1ff9992ad21918ff58.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Zud6GExQ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TI2026首日对阵前瞻"
+      },
+      {
+        "title": "记者直击台风“白海豚”登陆后现场",
+        "url": "https://www.bilibili.com/video/BV1Xwuo66Eho",
+        "desc": "",
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Xwuo66Eho",
+        "author": "新华社",
+        "duration": "0:44",
+        "cover": "//i0.hdslb.com/bfs/archive/7a9f3c5fc2e68ea6a24d7d35f132215a582c6daa.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xwuo66Eho&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "直击台风白海豚登陆后现场"
+      },
+      {
+        "title": "上海暴雨破百年记录！白海豚你不讲武德",
+        "url": "https://www.bilibili.com/video/BV1WCuZ6aErq",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "万达商管、万达商业、珠海万达、大连万达 ......万达这个庞然大物，商业结构极其复杂。 而这些名字背后盘根错节的资本游戏，才是压垮万达的关键。 今天咱们就来聊一聊：万达到底经历了什么？昔日的中国首富，是怎么被一步一步逼到了今天的境地？",
-        "content": "万达商管、万达商业、珠海万达、大连万达 ......万达这个庞然大物，商业结构极其复杂。 而这些名字背后盘根错节的资本游戏，才是压垮万达的关键。 今天咱们就来聊一聊：万达到底经历了什么？昔日的中国首富，是怎么被一步一步逼到了今天的境地？",
-        "bvid": "BV1XPuo6uES8",
-        "author": "小Lin说",
-        "duration": "23:53",
-        "cover": "//i1.hdslb.com/bfs/archive/d3fd5ebcf88dd8c23ba9af5500c192a255f4deb8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XPuo6uES8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "万达现状如何"
+        "description": "上海的暴雨，已经是极端特大暴雨了。很多朋友问科普航，这场暴雨到底有多大，为什么会这么大，要下到什么时候？ 首先，这场暴雨真的打破百年纪录了。8月9日起，上海全市都暴雨如注，中心城区、金山区暴雨尤为猛烈。其中徐家汇24小时雨量达到316毫米，超过了特大暴雨标准，也超过了上海2001年的0185暴雨，为1872年有观测以来第一，徐汇区斜土路24小时雨量超过350毫米。而且这场暴雨连续下了两天，到8月10日下午并没有停下来的迹象，徐家汇过程累积雨量将接近500毫米，徐汇区斜土路过程累积雨量有可能超过600毫米。",
+        "content": "上海的暴雨，已经是极端特大暴雨了。很多朋友问科普航，这场暴雨到底有多大，为什么会这么大，要下到什么时候？ 首先，这场暴雨真的打破百年纪录了。8月9日起，上海全市都暴雨如注，中心城区、金山区暴雨尤为猛烈。其中徐家汇24小时雨量达到316毫米，超过了特大暴雨标准，也超过了上海2001年的0185暴雨，为1872年有观测以来第一，徐汇区斜土路24小时雨量超过350毫米。而且这场暴雨连续下了两天，到8月10日下午并没有停下来的迹象，徐家汇过程累积雨量将接近500毫米，徐汇区斜土路过程累积雨量有可能超过600毫米。",
+        "bvid": "BV1WCuZ6aErq",
+        "author": "中气爱科普航",
+        "duration": "1:47",
+        "cover": "//i0.hdslb.com/bfs/archive/8539787b4ce1ae5f07a465fcdec96702312327c4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WCuZ6aErq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "白海豚带来的暴雨究竟多大"
+      },
+      {
+        "title": "受台风“白海豚”影响，钱塘江江滩现“大地流沙画”。滩涂之上，泥沙舒展如万千羽毛",
+        "url": "https://www.bilibili.com/video/BV1QcuR6YEBS",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1QcuR6YEBS",
+        "author": "人民日报",
+        "duration": "0:23",
+        "cover": "//i2.hdslb.com/bfs/archive/cedb3b07e96c558616af80bc58e4a82c8a3debe7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QcuR6YEBS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "台风天钱塘江现大地流沙画"
       },
       {
         "title": "【LGD.Topson已连接】过去一整年直播高光",
         "url": "https://www.bilibili.com/video/BV1VEu96AEhy",
         "desc": "",
-        "rank": 12,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "重发一次蹭个热度xdd 希望主播不要开赛5天就回来直播了。 🎵 BGM: John Newman – Love Me Again (Instrumental) Gorillaz – Feel Good Inc. (Instrumental) EnV – Pneumatic Tokyo Clair Obscur: Expedition 33 Original Soundtrack – Gestral Summer Party Daft Punk Ft. Pharrell Williams – Get Luc",
@@ -318,68 +334,52 @@
         "hotTitle": "Topson正式加入LGD"
       },
       {
-        "title": "2026和平精英刺激之夜完整高清回放",
-        "url": "https://www.bilibili.com/video/BV1ffuU6bEHj",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "和平精英和每一位玩家，一起一路生长，从一局游戏，长成了现在这样一个越来越大的和平宇宙。刺激不重样，越打越年轻！又一年，让刺激大秀一场。",
-        "content": "和平精英和每一位玩家，一起一路生长，从一局游戏，长成了现在这样一个越来越大的和平宇宙。刺激不重样，越打越年轻！又一年，让刺激大秀一场。",
-        "bvid": "BV1ffuU6bEHj",
-        "author": "和平精英",
-        "duration": "184:37",
-        "cover": "//i2.hdslb.com/bfs/archive/0a0e31d2b06cc8a84db12fd7fa1635af0e98a0fc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ffuU6bEHj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "和平精英刺激之夜回放"
-      },
-      {
-        "title": "【萌黄一槽】神秘面具男[百战]全技能爆料！以诡谲的手段穿梭虚实！",
-        "url": "https://www.bilibili.com/video/BV1yfuR69EXK",
+        "title": "王健林现在怎么样了? 万达什么情况?",
+        "url": "https://www.bilibili.com/video/BV1XPuo6uES8",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "明明近在咫尺却能让敌人无法触及......被他的锁链束缚，可就逃不掉咯！",
-        "content": "明明近在咫尺却能让敌人无法触及......被他的锁链束缚，可就逃不掉咯！",
-        "bvid": "BV1yfuR69EXK",
-        "author": "火影忍者手游情报君",
-        "duration": "5:10",
-        "cover": "//i0.hdslb.com/bfs/archive/5736abee0d9c33ef1a8273430b49da4f22d9dcc4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yfuR69EXK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "火影手游百战虎皮技能全爆料"
+        "description": "万达商管、万达商业、珠海万达、大连万达 ......万达这个庞然大物，商业结构极其复杂。 而这些名字背后盘根错节的资本游戏，才是压垮万达的关键。 今天咱们就来聊一聊：万达到底经历了什么？昔日的中国首富，是怎么被一步一步逼到了今天的境地？",
+        "content": "万达商管、万达商业、珠海万达、大连万达 ......万达这个庞然大物，商业结构极其复杂。 而这些名字背后盘根错节的资本游戏，才是压垮万达的关键。 今天咱们就来聊一聊：万达到底经历了什么？昔日的中国首富，是怎么被一步一步逼到了今天的境地？",
+        "bvid": "BV1XPuo6uES8",
+        "author": "小Lin说",
+        "duration": "23:53",
+        "cover": "//i1.hdslb.com/bfs/archive/d3fd5ebcf88dd8c23ba9af5500c192a255f4deb8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XPuo6uES8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "万达现状如何"
       },
       {
-        "title": "【自制动画】《赤霄·绝影-驰！！！！！！！！》",
-        "url": "https://www.bilibili.com/video/BV1j5uG69EQQ",
+        "title": "古巴奇迹：四年太阳能发电飙增近十倍",
+        "url": "https://www.bilibili.com/video/BV1LYuR6rEdg",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "哈哈哈 这次画了超大杯近卫火陈，还有我超级喜欢的艾丽妮 ，不过赤霄剑法还是太厉害了 。。。 当然还有最后登场的予愿安洁莉娜，安洁帮艾利妮打浮空应该有一战之力吧 哈哈哈 最后再补一句 是的 我60发就出杰哥了 希望大家也都欧皇附体 冲冲冲冲！！！！",
-        "content": "哈哈哈 这次画了超大杯近卫火陈，还有我超级喜欢的艾丽妮 ，不过赤霄剑法还是太厉害了 。。。 当然还有最后登场的予愿安洁莉娜，安洁帮艾利妮打浮空应该有一战之力吧 哈哈哈 最后再补一句 是的 我60发就出杰哥了 希望大家也都欧皇附体 冲冲冲冲！！！！",
-        "bvid": "BV1j5uG69EQQ",
-        "author": "旋风博文",
-        "duration": "0:50",
-        "cover": "//i0.hdslb.com/bfs/archive/d91077f39732bf9fe6d1ee23dc19fb247a10b598.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j5uG69EQQ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主自制明日方舟动画"
+        "description": "",
+        "content": "",
+        "bvid": "BV1LYuR6rEdg",
+        "author": "波士顿圆脸",
+        "duration": "15:58",
+        "cover": "//i0.hdslb.com/bfs/archive/19d6bc4d874775947ec0f22e45d10bd100b6586c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LYuR6rEdg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "古巴如何应对能源短缺"
       },
       {
-        "title": "《原神》角色预告-「阿罗夏：冬狩之围」",
-        "url": "https://www.bilibili.com/video/BV1fZuU6FEox",
+        "title": "至此，昆明迎来了最权威的落地签。。。",
+        "url": "https://www.bilibili.com/video/BV1a4u26CE43",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "或许大部分人都觉得，雪原是块贫瘠的土地。 但在合格的猎手眼中，这里遍布慷慨的馈赠，只是需要一些手段去夺取。 中文CV： 阿罗夏——王辅平 日文CV： 阿罗夏——佐藤元 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
-        "content": "或许大部分人都觉得，雪原是块贫瘠的土地。 但在合格的猎手眼中，这里遍布慷慨的馈赠，只是需要一些手段去夺取。 中文CV： 阿罗夏——王辅平 日文CV： 阿罗夏——佐藤元 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
-        "bvid": "BV1fZuU6FEox",
-        "author": "原神",
-        "duration": "5:38",
-        "cover": "//i1.hdslb.com/bfs/archive/aae90ce1b955023d6ba302c77f16a6ce550732aa.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fZuU6FEox&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "原神阿罗夏角色预告"
+        "description": "至此，昆明迎来了最权威的落地签！谁这么天才！既传承了文化又发展了经济，拯救了还有30年就要消失的滇剧。。。",
+        "content": "至此，昆明迎来了最权威的落地签！谁这么天才！既传承了文化又发展了经济，拯救了还有30年就要消失的滇剧。。。",
+        "bvid": "BV1a4u26CE43",
+        "author": "知名相声演员BBBBB大王",
+        "duration": "15:38",
+        "cover": "//i1.hdslb.com/bfs/archive/384fb26bb75e48695e90001fae68c0cee0833724.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1a4u26CE43&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "昆明有自己的落地签"
       },
       {
         "title": "张凌赫演技搞笑吐槽：奸臣式演技天花板【铁柱】",
@@ -398,58 +398,10 @@
         "hotTitle": "锐评内娱古偶男主演技"
       },
       {
-        "title": "从借鸡生蛋到可控回收，中国航天是如何绝处逢生？",
-        "url": "https://www.bilibili.com/video/BV1y6ud6REqu",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "火箭发射真好看，虽然过去一个月了，但下次还去； 长征十号乙首飞成功 我国运载火箭首次实现可控回收 2026 07/10 13:38:51 来源：新华网 写在第十一个“中国航天日”之际 2026 04/23 22:47:28 来源：新华社",
-        "content": "火箭发射真好看，虽然过去一个月了，但下次还去； 长征十号乙首飞成功 我国运载火箭首次实现可控回收 2026 07/10 13:38:51 来源：新华网 写在第十一个“中国航天日”之际 2026 04/23 22:47:28 来源：新华社",
-        "bvid": "BV1y6ud6REqu",
-        "author": "星辰趣味屋",
-        "duration": "13:42",
-        "cover": "//i1.hdslb.com/bfs/archive/1b6472b772dc64ced7d980c415c9e433fa0319d9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1y6ud6REqu&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "看中国航天如何绝处逢生"
-      },
-      {
-        "title": "至此，昆明迎来了最权威的落地签。。。",
-        "url": "https://www.bilibili.com/video/BV1a4u26CE43",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "至此，昆明迎来了最权威的落地签！谁这么天才！既传承了文化又发展了经济，拯救了还有30年就要消失的滇剧。。。",
-        "content": "至此，昆明迎来了最权威的落地签！谁这么天才！既传承了文化又发展了经济，拯救了还有30年就要消失的滇剧。。。",
-        "bvid": "BV1a4u26CE43",
-        "author": "知名相声演员BBBBB大王",
-        "duration": "15:38",
-        "cover": "//i1.hdslb.com/bfs/archive/384fb26bb75e48695e90001fae68c0cee0833724.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1a4u26CE43&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "昆明有自己的落地签"
-      },
-      {
-        "title": "暑期档最佳？恭喜沈腾可以称影帝了!《欢迎来龙餐馆》诚实观后感",
-        "url": "https://www.bilibili.com/video/BV1ZTu96zEwg",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本视频素材来自网络，由文西激情解说！",
-        "content": "本视频素材来自网络，由文西激情解说！",
-        "bvid": "BV1ZTu96zEwg",
-        "author": "文西与阿漆",
-        "duration": "7:55",
-        "cover": "//i1.hdslb.com/bfs/archive/85fc1b081cfb6582709277526ff39f343487b1af.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZTu96zEwg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "文西龙餐馆真实观后感"
-      },
-      {
         "title": "年度最佳华语片预定！沈腾主演《欢迎来龙餐馆》质量能超越《我不是药神》吗？",
         "url": "https://www.bilibili.com/video/BV1pTu264Egx",
         "desc": "",
-        "rank": 21,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "一点关于《欢迎来龙餐馆》的热乎观感...",
@@ -462,26 +414,10 @@
         "hotTitle": "欢迎来龙餐馆能超越我不是药神吗"
       },
       {
-        "title": "信息量很大！中国可控核聚变最新进展来了",
-        "url": "https://www.bilibili.com/video/BV1vfud6kEiq",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "随着人们对“人造太阳”和可控核聚变技术越来越关注，在社会上掀起了一股“聚变热”。“人造太阳”到底是什么？可控核聚变技术何时能落地？中国的“人造太阳”造到什么程度了？中核集团聚变领域首席科学家段旭如，披露我国“人造太阳”最新进展。（开讲啦）",
-        "content": "随着人们对“人造太阳”和可控核聚变技术越来越关注，在社会上掀起了一股“聚变热”。“人造太阳”到底是什么？可控核聚变技术何时能落地？中国的“人造太阳”造到什么程度了？中核集团聚变领域首席科学家段旭如，披露我国“人造太阳”最新进展。（开讲啦）",
-        "bvid": "BV1vfud6kEiq",
-        "author": "央视军事",
-        "duration": "12:28",
-        "cover": "//i2.hdslb.com/bfs/archive/60c2d944abf1c9480c9dc5fa3b328b7d0cac5951.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vfud6kEiq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国可控核聚变最新进展"
-      },
-      {
         "title": "12 个脑洞大开小食谱，台风天居家必备！",
         "url": "https://www.bilibili.com/video/BV18auG6GEGy",
         "desc": "",
-        "rank": 23,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -494,68 +430,132 @@
         "hotTitle": "台风天宅家12个脑洞食谱"
       },
       {
-        "title": "受台风“白海豚”影响，钱塘江江滩现“大地流沙画”。滩涂之上，泥沙舒展如万千羽毛",
-        "url": "https://www.bilibili.com/video/BV1QcuR6YEBS",
+        "title": "季后赛历史最高分！乔丹的63分，到底强到什么程度？",
+        "url": "https://www.bilibili.com/video/BV1WauQ61EYD",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1WauQ61EYD",
+        "author": "太吾车神",
+        "duration": "18:13",
+        "cover": "//i1.hdslb.com/bfs/archive/9566b4ab744fc3205f059d22dae56a634a7180ee.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WauQ61EYD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "乔丹的季后赛63分强到什么程度"
+      },
+      {
+        "title": "信息量很大！中国可控核聚变最新进展来了",
+        "url": "https://www.bilibili.com/video/BV1vfud6kEiq",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "随着人们对“人造太阳”和可控核聚变技术越来越关注，在社会上掀起了一股“聚变热”。“人造太阳”到底是什么？可控核聚变技术何时能落地？中国的“人造太阳”造到什么程度了？中核集团聚变领域首席科学家段旭如，披露我国“人造太阳”最新进展。（开讲啦）",
+        "content": "随着人们对“人造太阳”和可控核聚变技术越来越关注，在社会上掀起了一股“聚变热”。“人造太阳”到底是什么？可控核聚变技术何时能落地？中国的“人造太阳”造到什么程度了？中核集团聚变领域首席科学家段旭如，披露我国“人造太阳”最新进展。（开讲啦）",
+        "bvid": "BV1vfud6kEiq",
+        "author": "央视军事",
+        "duration": "12:28",
+        "cover": "//i2.hdslb.com/bfs/archive/60c2d944abf1c9480c9dc5fa3b328b7d0cac5951.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vfud6kEiq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国可控核聚变最新进展"
+      },
+      {
+        "title": "【自制动画】《赤霄·绝影-驰！！！！！！！！》",
+        "url": "https://www.bilibili.com/video/BV1j5uG69EQQ",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "哈哈哈 这次画了超大杯近卫火陈，还有我超级喜欢的艾丽妮 ，不过赤霄剑法还是太厉害了 。。。 当然还有最后登场的予愿安洁莉娜，安洁帮艾利妮打浮空应该有一战之力吧 哈哈哈 最后再补一句 是的 我60发就出杰哥了 希望大家也都欧皇附体 冲冲冲冲！！！！",
+        "content": "哈哈哈 这次画了超大杯近卫火陈，还有我超级喜欢的艾丽妮 ，不过赤霄剑法还是太厉害了 。。。 当然还有最后登场的予愿安洁莉娜，安洁帮艾利妮打浮空应该有一战之力吧 哈哈哈 最后再补一句 是的 我60发就出杰哥了 希望大家也都欧皇附体 冲冲冲冲！！！！",
+        "bvid": "BV1j5uG69EQQ",
+        "author": "旋风博文",
+        "duration": "0:50",
+        "cover": "//i0.hdslb.com/bfs/archive/d91077f39732bf9fe6d1ee23dc19fb247a10b598.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j5uG69EQQ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主自制明日方舟动画"
+      },
+      {
+        "title": "2026和平精英刺激之夜完整高清回放",
+        "url": "https://www.bilibili.com/video/BV1ffuU6bEHj",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "和平精英和每一位玩家，一起一路生长，从一局游戏，长成了现在这样一个越来越大的和平宇宙。刺激不重样，越打越年轻！又一年，让刺激大秀一场。",
+        "content": "和平精英和每一位玩家，一起一路生长，从一局游戏，长成了现在这样一个越来越大的和平宇宙。刺激不重样，越打越年轻！又一年，让刺激大秀一场。",
+        "bvid": "BV1ffuU6bEHj",
+        "author": "和平精英",
+        "duration": "184:37",
+        "cover": "//i2.hdslb.com/bfs/archive/0a0e31d2b06cc8a84db12fd7fa1635af0e98a0fc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ffuU6bEHj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "和平精英刺激之夜回放"
+      },
+      {
+        "title": "【TES滔滔不绝】五连胜，势如破竹! | TES vs BLG/TT",
+        "url": "https://www.bilibili.com/video/BV19WuZ65E3B",
         "desc": "",
         "rank": 24,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1QcuR6YEBS",
-        "author": "人民日报",
-        "duration": "0:23",
-        "cover": "//i2.hdslb.com/bfs/archive/cedb3b07e96c558616af80bc58e4a82c8a3debe7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QcuR6YEBS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "台风天钱塘江现大地流沙画"
+        "description": "对战BLG、TT场的滔滔不绝来啦！ 拿下五连胜啦，奔赴下一程，我们苏州见~",
+        "content": "对战BLG、TT场的滔滔不绝来啦！ 拿下五连胜啦，奔赴下一程，我们苏州见~",
+        "bvid": "BV19WuZ65E3B",
+        "author": "滔搏电子竞技俱乐部",
+        "duration": "12:58",
+        "cover": "//i0.hdslb.com/bfs/archive/e14e9763447c5cfe33f8191561535f501349e07b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19WuZ65E3B&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TES五连胜比赛语音"
       },
       {
-        "title": "假面骑士祥子 01.沉默的骑士",
-        "url": "https://www.bilibili.com/video/BV1pmu26FEZZ",
+        "title": "沈腾这部新片，是中国电影第一次用东方式智慧回应当代世界【逸语道破】",
+        "url": "https://www.bilibili.com/video/BV1dZud6VEwG",
         "desc": "",
         "rank": 25,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1pmu26FEZZ",
-        "author": "洛卡sus",
-        "duration": "14:56",
-        "cover": "//i0.hdslb.com/bfs/archive/4e35a80b035a38b371ac0091d62eae55d884207e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pmu26FEZZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "假面骑士祥子"
+        "description": "在欧美霸权主义居高临下的叙事和极端主义的疯狂复仇之外，《欢迎来龙餐馆》提供了第三种视角——中国视角。不是拯救世界，不是改变一切，而是在力所能及的范围内，让身边的人过得更好一点。这种\"东方式的智慧\"，放在今天的世界上，尤为可贵。",
+        "content": "在欧美霸权主义居高临下的叙事和极端主义的疯狂复仇之外，《欢迎来龙餐馆》提供了第三种视角——中国视角。不是拯救世界，不是改变一切，而是在力所能及的范围内，让身边的人过得更好一点。这种\"东方式的智慧\"，放在今天的世界上，尤为可贵。",
+        "bvid": "BV1dZud6VEwG",
+        "author": "沈逸老师",
+        "duration": "23:5",
+        "cover": "//i1.hdslb.com/bfs/archive/f7e41e3216e6391b17be184f10d44eaeb596eed3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dZud6VEwG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "沈腾新片里的东方式智慧"
       },
       {
-        "title": "年度血腥恐怖片？家族老宅变炼狱！恶灵附身轮流杀！万字拆解《鬼玩人6：炼狱》",
-        "url": "https://www.bilibili.com/video/BV1iauX6eE1q",
+        "title": "哥伦比亚发生7.5级强震，多栋建筑物受损",
+        "url": "https://www.bilibili.com/video/BV1qquo62EPb",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "这部最新恐怖片真的给我看的开启疼痛共享了...",
-        "content": "这部最新恐怖片真的给我看的开启疼痛共享了...",
-        "bvid": "BV1iauX6eE1q",
-        "author": "迷影至下Filmlast",
-        "duration": "64:56",
-        "cover": "//i0.hdslb.com/bfs/archive/f722fac5fa6c65d7bb42071ab2792d77b928d35e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iauX6eE1q&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "拆解年度恐怖片鬼玩人6"
+        "description": "",
+        "content": "",
+        "bvid": "BV1qquo62EPb",
+        "author": "央视新闻",
+        "duration": "0:21",
+        "cover": "//i2.hdslb.com/bfs/archive/f42d3f883da8140106a77c9d7ad57e8aea20c50c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qquo62EPb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "哥伦比亚发生7.5级强震"
       },
       {
-        "title": "《阴阳师》×Vsinger丨联动PV：云华依言歌",
-        "url": "https://www.bilibili.com/video/BV1sBu96JExV",
+        "title": "歌剧老师锐评《歌手2026》歌王之战（中）",
+        "url": "https://www.bilibili.com/video/BV1NmuD61EWk",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "#阴阳师Vsinger联动# ☆阴阳师×Vsinger联动PV：云华依言歌☆ 友人相伴寻觅新律灵感，误入一场异世界奇遇~奇人异士齐聚云英盛会，携手勘破谜案，来将沿途的万般光景，铸成崭新乐章吧！ 阴阳师 × Vsinger联动新篇「云华依言歌」8月19日开启，全新联动限定角色SSR洛天依、SSR言和 即将降临平安京！ 「鼠假护肝服」全平台互通新区【天籁和音】将同步上线，现已开启预约集结，免费领取99名式神，至少可召唤3个SSR/SP式神，更有五倍挑战效率，双倍经验、金币等护肝活动等你体验~ #阴阳师云华依",
-        "content": "#阴阳师Vsinger联动# ☆阴阳师×Vsinger联动PV：云华依言歌☆ 友人相伴寻觅新律灵感，误入一场异世界奇遇~奇人异士齐聚云英盛会，携手勘破谜案，来将沿途的万般光景，铸成崭新乐章吧！ 阴阳师 × Vsinger联动新篇「云华依言歌」8月19日开启，全新联动限定角色SSR洛天依、SSR言和 即将降临平安京！ 「鼠假护肝服」全平台互通新区【天籁和音】将同步上线，现已开启预约集结，免费领取99名式神，至少可召唤3个SSR/SP式神，更有五倍挑战效率，双倍经验、金币等护肝活动等你体验~ #阴阳师云华依",
-        "bvid": "BV1sBu96JExV",
-        "author": "网易阴阳师手游",
-        "duration": "1:47",
-        "cover": "//i1.hdslb.com/bfs/archive/00e4c5b2340683951d4c3ef4ce5d4cb8c176ab9c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sBu96JExV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "阴阳师Vsinger联动PV"
+        "description": "歌剧老师锐评《歌手2026》歌王之战（中）",
+        "content": "歌剧老师锐评《歌手2026》歌王之战（中）",
+        "bvid": "BV1NmuD61EWk",
+        "author": "铁豆钢蛋",
+        "duration": "61:47",
+        "cover": "//i2.hdslb.com/bfs/archive/2d71b622b33dc97efd0c7ea5b1a3c01ae6170093.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NmuD61EWk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "歌剧老师锐评歌王之战"
       },
       {
         "title": "【真实锐评】圣枪哥加入BLG 诠释团队精神！从而激发最强形态左手冲击S赛！bin哥怎么办！",
@@ -574,39 +574,49 @@
         "hotTitle": "真实电竞谈圣枪哥加入BLG"
       },
       {
-        "title": "沈腾这部新片，是中国电影第一次用东方式智慧回应当代世界【逸语道破】",
-        "url": "https://www.bilibili.com/video/BV1dZud6VEwG",
+        "title": "重磅突破！中国科学家破解甘蔗育种世纪难题【主播说三农】",
+        "url": "https://www.bilibili.com/video/BV1MQuR6bEa8",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "在欧美霸权主义居高临下的叙事和极端主义的疯狂复仇之外，《欢迎来龙餐馆》提供了第三种视角——中国视角。不是拯救世界，不是改变一切，而是在力所能及的范围内，让身边的人过得更好一点。这种\"东方式的智慧\"，放在今天的世界上，尤为可贵。",
-        "content": "在欧美霸权主义居高临下的叙事和极端主义的疯狂复仇之外，《欢迎来龙餐馆》提供了第三种视角——中国视角。不是拯救世界，不是改变一切，而是在力所能及的范围内，让身边的人过得更好一点。这种\"东方式的智慧\"，放在今天的世界上，尤为可贵。",
-        "bvid": "BV1dZud6VEwG",
-        "author": "沈逸老师",
-        "duration": "23:5",
-        "cover": "//i1.hdslb.com/bfs/archive/f7e41e3216e6391b17be184f10d44eaeb596eed3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dZud6VEwG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "沈腾新片里的东方式智慧"
+        "description": "",
+        "content": "",
+        "bvid": "BV1MQuR6bEa8",
+        "author": "央视农业",
+        "duration": "6:23",
+        "cover": "//i0.hdslb.com/bfs/archive/9b206e6d163fddf225f176b885684c03df159e3d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MQuR6bEa8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "甘蔗育种世纪难题被破解"
       },
       {
-        "title": "近视手术：人类是怎么敢在眼球上开刀的？",
-        "url": "https://www.bilibili.com/video/BV1uYu56JESd",
+        "title": "暑期档最佳？恭喜沈腾可以称影帝了!《欢迎来龙餐馆》诚实观后感",
+        "url": "https://www.bilibili.com/video/BV1ZTu96zEwg",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "为了彻底摘掉眼镜，人类究竟对自己下了什么狠手？ 参考文献： [1]MCALINDEN C. Corneal refractive surgery: past to present[J]. Clinical and Experimental Optometry, 2012, 95(4): 386-398. [2]MARDIANTO U, WINDYANI A, RAHAYU T. Refractive surgery for myopic astigmatism: systematic review for",
-        "content": "为了彻底摘掉眼镜，人类究竟对自己下了什么狠手？ 参考文献： [1]MCALINDEN C. Corneal refractive surgery: past to present[J]. Clinical and Experimental Optometry, 2012, 95(4): 386-398. [2]MARDIANTO U, WINDYANI A, RAHAYU T. Refractive surgery for myopic astigmatism: systematic review for",
-        "bvid": "BV1uYu56JESd",
-        "author": "大圆镜科普",
-        "duration": "6:59",
-        "cover": "//i2.hdslb.com/bfs/archive/0ecaaaed4bec661c763a8a2cfbe289a2606f58d2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uYu56JESd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "人眼为何会近视"
+        "description": "本视频素材来自网络，由文西激情解说！",
+        "content": "本视频素材来自网络，由文西激情解说！",
+        "bvid": "BV1ZTu96zEwg",
+        "author": "文西与阿漆",
+        "duration": "7:55",
+        "cover": "//i1.hdslb.com/bfs/archive/85fc1b081cfb6582709277526ff39f343487b1af.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZTu96zEwg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "文西龙餐馆真实观后感"
       }
     ],
     "qbitai": [
+      {
+        "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+        "url": "https://www.qbitai.com/2026/08/469860.html",
+        "desc": "三视角世界模型谁更稳?",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/aa57c8a408d957c703f0b92e713064eb.webp",
+        "date": "2026-08-11T08:46:23",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
       {
         "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
         "url": "https://www.qbitai.com/2026/08/469795.html",
@@ -615,7 +625,7 @@
         "date": "2026-08-10T21:58:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "PDF当死，ARA该立！论文是时候Agent原生了",
@@ -625,7 +635,7 @@
         "date": "2026-08-10T21:53:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "模型路线趋同之后，Physical AI的胜负手变了",
@@ -635,7 +645,7 @@
         "date": "2026-08-10T17:20:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
@@ -645,7 +655,7 @@
         "date": "2026-08-10T14:58:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
@@ -655,7 +665,7 @@
         "date": "2026-08-10T13:37:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
@@ -665,7 +675,7 @@
         "date": "2026-08-10T11:24:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
@@ -675,7 +685,7 @@
         "date": "2026-08-10T10:34:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
@@ -685,7 +695,7 @@
         "date": "2026-08-10T10:25:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
@@ -695,7 +705,7 @@
         "date": "2026-08-10T09:34:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
@@ -705,7 +715,7 @@
         "date": "2026-08-10T09:12:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "范式与华夏金融订立服务器售后回租安排 盘活算力资产 赋能业务长效发展",
@@ -715,7 +725,7 @@
         "date": "2026-08-09T20:33:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "180万刀，连亚马逊都烧不起Claude了",
@@ -725,7 +735,7 @@
         "date": "2026-08-09T17:25:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
@@ -735,7 +745,7 @@
         "date": "2026-08-09T17:16:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
@@ -745,7 +755,7 @@
         "date": "2026-08-09T11:40:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
@@ -755,7 +765,7 @@
         "date": "2026-08-09T11:25:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
@@ -765,7 +775,7 @@
         "date": "2026-08-09T11:17:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
@@ -775,7 +785,7 @@
         "date": "2026-08-08T15:57:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
@@ -785,7 +795,7 @@
         "date": "2026-08-08T15:56:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
@@ -795,7 +805,7 @@
         "date": "2026-08-08T15:51:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
@@ -805,7 +815,7 @@
         "date": "2026-08-08T12:33:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
@@ -815,7 +825,7 @@
         "date": "2026-08-08T10:45:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
@@ -825,7 +835,7 @@
         "date": "2026-08-08T10:35:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
@@ -835,7 +845,7 @@
         "date": "2026-08-07T15:43:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
@@ -845,7 +855,7 @@
         "date": "2026-08-07T14:21:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
@@ -855,7 +865,7 @@
         "date": "2026-08-07T14:18:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
@@ -865,7 +875,7 @@
         "date": "2026-08-07T13:30:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
@@ -875,7 +885,7 @@
         "date": "2026-08-07T11:23:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
@@ -885,7 +895,7 @@
         "date": "2026-08-07T11:23:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
@@ -893,16 +903,6 @@
         "desc": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/2efc6b3a6789e96e64bb7a0135aa4354.jpeg",
         "date": "2026-08-07T11:08:51",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "AI SSD：大模型推理的存储范式转移",
-        "url": "https://www.qbitai.com/2026/08/467840.html",
-        "desc": "算力、网络、内存与存储开始围绕每个Token协同",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/缩略.jpg",
-        "date": "2026-08-07T10:56:46",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -950,6 +950,46 @@
         "rank": 4
       },
       {
+        "title": "中信证券：北交所流动性走势有望在政策催化下迎来拐点",
+        "url": "https://m.36kr.com/newsflashes/3934415714827400",
+        "desc": "36氪获悉，中信证券研报称，在北交所政策持续优化的背景下，资本运作活跃，再融资简易程序直击创新型中小企业“融资难、融资慢”痛点。并且北交所流动性触底回升，中信证券认为当前北交所指数流动性处于较低位置，有可能处于估值底、情绪底。展望未来，流动性走势有望在政策催化下迎来拐点：政策端持续优化流动性预期，北证50指数基金规模上限提高及北证50ETF的预期落地；在机构资金潜在增量及基本面扎实的标的被错杀的背景下，当前市场已具备较高的估值安全边际，为投资者提供了潜在的布局良机；2026年年初以来北交所外延并购也符合当前A股外延并购的整体态势，从“规模扩张”到“价值整合”，建议关注北交所外延并购带来的投资机会，重点关注“硬科技产业链整合”与“传统龙头转型升级”。",
+        "cover": "",
+        "date": 1786409677906,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "新加坡上调全年经济增长预期至4.5%-5.5%",
+        "url": "https://m.36kr.com/newsflashes/3934415030418567",
+        "desc": "新加坡贸工部8月11日公布二季经济同比增长5.9%，高于初步预估的5.7%，较第一季的6.3%有所放缓。新加坡贸工部将全年经济增长预期从2%-4%上调至4.5%-5.5%。（界面）",
+        "cover": "",
+        "date": 1786409636133,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "两市融资余额增加140.31亿元",
+        "url": "https://m.36kr.com/newsflashes/3934412288884096",
+        "desc": "36氪获悉，截至8月10日，上交所融资余额报13500.88亿元，较前一交易日增加54.71亿元；深交所融资余额报12782.04亿元，较前一交易日增加85.6亿元；两市合计26282.92亿元，较前一交易日增加140.31亿元。",
+        "cover": "",
+        "date": 1786409468803,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "铠侠称SK海力士关联投资实体为其最大股东",
+        "url": "https://m.36kr.com/newsflashes/3934404862213505",
+        "desc": "铠侠周二在一份声明中表示，截至8月3日，前母公司东芝公司已将其在铠侠的持股比例从14.48%降至约14.12%，这使得由贝恩资本设立的BCPE Pangea Cayman2 以14.19%的持股比例，成为铠侠的第一大股东。铠侠的年度报告显示，SK海力士持有可转换为BCPE Pangea Cayman2“几乎全部”投票权的债券。在该报告中，铠侠明确将SK海力士的该项权益主张列为风险因素，称其有可能引发利益冲突。SK海力士曾参与2018年由贝恩资本牵头的财团收购铠侠的交易。作为交易条款的一部分，SK海力士承诺，除非获得铠侠许可，否则到2028年之前，其持有的铠侠投票权占比不得超过15%。（财联社）",
+        "cover": "",
+        "date": 1786409015515,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
         "title": "世界最大冲击式水电机组顺利完成转子吊装",
         "url": "https://m.36kr.com/newsflashes/3934401786854784",
         "desc": "今天（11日），世界最大冲击式水电机组在大唐扎拉水电站顺利完成转子吊装，标志着我国超高水头、大容量冲击式水电装备核心技术跻身世界领先行列，有力助推藏东南清洁能源基地建设。（央视新闻）",
@@ -957,7 +997,7 @@
         "date": 1786408827810,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "银河证券：全球储能市场进入多元化增长阶段，中长期需求强劲",
@@ -967,7 +1007,7 @@
         "date": 1786408586460,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "年内A股并购重组规模达1.29万亿元",
@@ -977,7 +1017,7 @@
         "date": 1786408336022,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "中信证券：硅基材料行业静待修复，下游高增领域受益",
@@ -987,7 +1027,7 @@
         "date": 1786408054530,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "智利国家铜业公司首次获准将财年利润用于再投资，旨在维持运营、缓解债务负担",
@@ -997,7 +1037,7 @@
         "date": 1786407937217,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "中信建投：中长期钨精矿价格趋势向上",
@@ -1007,7 +1047,7 @@
         "date": 1786407747777,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "中报窗口期机构密集调研，创新药步入业绩与国际化兑现期",
@@ -1017,7 +1057,7 @@
         "date": 1786407520045,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "中信证券：算力突破电力边界，SST开启硅进铜退新周期",
@@ -1027,7 +1067,7 @@
         "date": 1786407443200,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "华泰证券：基础模型竞争正由产品探索逐步走向高价值场景、企业市场与使用量驱动的商业化竞争",
@@ -1037,7 +1077,7 @@
         "date": 1786407387572,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "五一视界：上半年实现收入约1.24亿元，同比增长129.8%",
@@ -1047,7 +1087,7 @@
         "date": 1786407336595,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "Anthropic据悉与Riot Platforms达成超90亿美元算力协议",
@@ -1057,7 +1097,7 @@
         "date": 1786407085065,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "中国AI产业链凸显增长韧性，国际资本借道ETF加力布局",
@@ -1067,7 +1107,7 @@
         "date": 1786406970338,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "市场情绪逐渐回暖，机构称A股反弹行情有望持续",
@@ -1077,7 +1117,7 @@
         "date": 1786406908086,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "险资曲线入股宇树科技，不断扩大战新产业配置",
@@ -1087,7 +1127,7 @@
         "date": 1786406873547,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 22
       },
       {
         "title": "韩互联网巨头Naver据悉已向Anthropic投资700万美元，考虑追加投资",
@@ -1097,7 +1137,7 @@
         "date": 1786406789640,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 23
       },
       {
         "title": "锂价止跌企稳，碳酸锂紧平衡格局仍稳固",
@@ -1107,55 +1147,15 @@
         "date": 1786406761321,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "创新药“中国首发”密集落地，新靶点、新机制、新疗法加速向中国集聚",
-        "url": "https://m.36kr.com/newsflashes/3934362293943427",
-        "desc": "近期，一款罕见病创新药在中国“首报首发”，引起广泛关注。这并非孤例——今年以来，已有多款跨国药企的创新药在中国率先上市，与此同时，百利天恒、科济药业等本土企业的全球首创新药也密集落地。跨国巨头与本土企业不约而同地将首发地设在中国，延续数十年的“先欧美、后中国”旧格局，被彻底改写。“中国首发”成为常态，创新药正以黑马之姿跻身我国“新新三样”的行列。这场首发潮的背后，是新靶点、新机制、新疗法加速向中国集聚，中国创新药产业正从全球参与者迈向全球引领者。（证券时报）",
-        "cover": "",
-        "date": 1786406417354,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "破解小币种跨境结算繁难，银行组合拳赋能外贸企业出海",
-        "url": "https://m.36kr.com/newsflashes/3934361419267204",
-        "desc": "成本高、汇款难、中间环节繁琐……当前，国内外贸企业不断深耕全球市场，小币种跨境结算需求随之持续攀升。但此前“小币种先兑美元再折算人民币”的双重汇兑模式，叠加多币种结算手续繁琐，小币种汇率避险工具缺失，让一些外贸企业被汇兑损耗高、资金到账慢等问题困扰。记者走访多地外贸企业与商业银行发现，银行业正打出跨境金融服务组合拳。今年以来一些银行纷纷上线小币种直兑清算业务，省去美元中转环节，压降企业汇兑成本，部分银行结合企业需求，差异化定制汇率避险方案。多方赋能下，跨境金融的“毛细血管”正被重新疏通。（中证报）",
-        "cover": "",
-        "date": 1786406363968,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "明星新股密集上市，多家银行上线“打新理财”专区",
-        "url": "https://m.36kr.com/newsflashes/3934360379178116",
-        "desc": "8月10日，宇树科技开启网上、网下申购，发行价格为150.80元/股，发行数量4044.6434万股。根据宇树科技此前披露的发行公告，光大理财、民生理财、南银理财、宁银理财、招银理财、中邮理财旗下相关产品均进入初步询价阶段的有效报价名单。就在不久前，长鑫科技上市第一周股价大幅上涨，赚钱效应引发市场关注。记者调研发现，多家银行正借势这一波打新行情，向投资者推介“打新策略”理财产品，招商银行、浦发银行等手机银行App已上线“打新理财”专区。（中证报）",
-        "cover": "",
-        "date": 1786406300486,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "多路资金买入黄金，机构热议新“击球区”出现",
-        "url": "https://m.36kr.com/newsflashes/3934359245274245",
-        "desc": "黄金近期迎来了一波强势反攻。8月以来，COMEX黄金期货价格突破4400美元/盎司关口，黄金ETF被净申购近20亿份，部分FOF、基金投顾等资金也回流黄金。随着压制金价的政策、资金、地缘“三座大山”边际改善，多家机构判断黄金已迎来配置“击球区”，建议关注阶段性修复机会。（上证报）",
-        "cover": "",
-        "date": 1786406231278,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786408863855,
-    "bilibili": 1786407838017,
-    "qbitai": 1786408879440,
-    "36kr": 1786408879821
+    "thepaper": 1786409764444,
+    "bilibili": 1786409766580,
+    "qbitai": 1786409779703,
+    "36kr": 1786409780124
   },
   "failures": {}
 }
