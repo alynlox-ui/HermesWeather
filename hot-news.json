@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T03:41:21Z",
+  "updatedAt": "2026-08-11T03:56:21Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,26 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "Claude在黎曼猜想方向做出了巨大突破！",
-        "url": "https://www.bilibili.com/video/BV1JDuY6SEJz",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1JDuY6SEJz",
-        "author": "钰子一",
-        "duration": "8:44",
-        "cover": "//i2.hdslb.com/bfs/archive/706764a66b85c4a20665a1511911138410587298.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JDuY6SEJz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI在黎曼猜想上做出了什么突破"
-      },
-      {
         "title": "最新体检报告｜为破年马世界纪录，堂主身体付出了什么代价？运动学博士的深度解析",
         "url": "https://www.bilibili.com/video/BV1eFue6CEvk",
         "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "每天一个马拉松，坚持一年，身体会发生了什么变化",
@@ -158,20 +142,36 @@
         "hotTitle": "堂主年马破纪录身体现状如何"
       },
       {
-        "title": "哥伦比亚7.5级强震已致111人死亡，87人受伤，61座建筑物倒塌",
-        "url": "https://www.bilibili.com/video/BV19nuY6gESU",
+        "title": "Claude在黎曼猜想方向做出了巨大突破！",
+        "url": "https://www.bilibili.com/video/BV1JDuY6SEJz",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1JDuY6SEJz",
+        "author": "钰子一",
+        "duration": "8:44",
+        "cover": "//i2.hdslb.com/bfs/archive/706764a66b85c4a20665a1511911138410587298.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JDuY6SEJz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AI在黎曼猜想上做出了什么突破"
+      },
+      {
+        "title": "20年前我在伊拉克开中国龙餐馆",
+        "url": "https://www.bilibili.com/video/BV12VuR6sEqX",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV19nuY6gESU",
-        "author": "鹤林文",
-        "duration": "13:14",
-        "cover": "//i1.hdslb.com/bfs/archive/3343533b67b70b4627f0648c5481864a618723fb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19nuY6gESU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "现场直击哥伦比亚强震"
+        "description": "想了解更多当年背后的真实故事，欢迎来评论区留言",
+        "content": "想了解更多当年背后的真实故事，欢迎来评论区留言",
+        "bvid": "BV12VuR6sEqX",
+        "author": "爱瞎逛的淘金客",
+        "duration": "1:11",
+        "cover": "//i2.hdslb.com/bfs/archive/97ef06aa5dbabb81199c50f7cd5f0367eea0b6c4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12VuR6sEqX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "欢迎来龙餐馆原型回应"
       },
       {
         "title": "大理百元豪车租赁乱象调查：186元租的保时捷是重大事故车，游客拒买高价保险遭敲诈【探照灯计划】",
@@ -222,10 +222,26 @@
         "hotTitle": "花小龙带张伟丽自律的一天"
       },
       {
+        "title": "湖北舰，开火！",
+        "url": "https://www.bilibili.com/video/BV1wtui6AE7H",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "来源：中国军号",
+        "content": "来源：中国军号",
+        "bvid": "BV1wtui6AE7H",
+        "author": "新华社",
+        "duration": "0:26",
+        "cover": "//i1.hdslb.com/bfs/archive/dd315b628ab80f31b01bbbb26873b36e02e9a3af.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wtui6AE7H&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "湖北舰全训考核画面"
+      },
+      {
         "title": "台风白海豚登陆 猫妈妈给自己找了个好地方",
         "url": "https://www.bilibili.com/video/BV1UpuQ6DE2s",
         "desc": "",
-        "rank": 7,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -238,52 +254,36 @@
         "hotTitle": "台风白海豚实时路径"
       },
       {
-        "title": "王骁获百花奖 母亲王馥荔台下落泪",
-        "url": "https://www.bilibili.com/video/BV1AMuZ6xEF8",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "#王骁百花奖最佳男配角# 第38届大众电影百花奖最佳男配角：王骁 《南京照相馆》饰老金（金承宗）。王骁感言：“电影真是场梦，感谢观众朋友们，因为观众永远是电影的最后一环，是你们让一部电影有更深的意义，愿世界和平”！王骁发言时，他的母亲表演艺术家王馥荔在台下激动落泪。#王骁获百花奖母亲王馥荔台下落泪#",
-        "content": "#王骁百花奖最佳男配角# 第38届大众电影百花奖最佳男配角：王骁 《南京照相馆》饰老金（金承宗）。王骁感言：“电影真是场梦，感谢观众朋友们，因为观众永远是电影的最后一环，是你们让一部电影有更深的意义，愿世界和平”！王骁发言时，他的母亲表演艺术家王馥荔在台下激动落泪。#王骁获百花奖母亲王馥荔台下落泪#",
-        "bvid": "BV1AMuZ6xEF8",
-        "author": "电影频道融媒体中心",
-        "duration": "4:38",
-        "cover": "//i0.hdslb.com/bfs/archive/70b6a18516a0c5ac5ab0779aca805b839cd04f91.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AMuZ6xEF8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "王骁获奖母亲王馥荔喜极而泣"
-      },
-      {
-        "title": "Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
-        "url": "https://www.bilibili.com/video/BV15Zud6GExQ",
+        "title": "哥伦比亚7.5级强震已致111人死亡，87人受伤，61座建筑物倒塌",
+        "url": "https://www.bilibili.com/video/BV19nuY6gESU",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "Ti首日对阵出炉，CNDota的第一天，怎么说？！ Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
-        "content": "Ti首日对阵出炉，CNDota的第一天，怎么说？！ Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
-        "bvid": "BV15Zud6GExQ",
-        "author": "化圆直",
-        "duration": "7:15",
-        "cover": "//i1.hdslb.com/bfs/archive/64cbcdb8fc73d14db8440b1ff9992ad21918ff58.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Zud6GExQ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "TI2026首日对阵前瞻"
+        "description": "",
+        "content": "",
+        "bvid": "BV19nuY6gESU",
+        "author": "鹤林文",
+        "duration": "13:14",
+        "cover": "//i1.hdslb.com/bfs/archive/3343533b67b70b4627f0648c5481864a618723fb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19nuY6gESU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "现场直击哥伦比亚强震"
       },
       {
-        "title": "DNS 2-0 GEN 赛后数据雷达图+虎扑评分丨LCK-KeSPA杯",
-        "url": "https://www.bilibili.com/video/BV1BGuY61EGA",
+        "title": "如果上学是一款游戏",
+        "url": "https://www.bilibili.com/video/BV1V2um6SEYS",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1BGuY61EGA",
-        "author": "苦练李香兰",
-        "duration": "2:9",
-        "cover": "//i2.hdslb.com/bfs/archive/656bc723c30446840f1d44af7272975266b6c442.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BGuY61EGA&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "DNS战胜GEN赛后数据"
+        "bvid": "BV1V2um6SEYS",
+        "author": "张开-",
+        "duration": "5:32",
+        "cover": "//i1.hdslb.com/bfs/archive/76e668bc54f4f4036b25a25a8a13f7c60d335096.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1V2um6SEYS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如果上学是一款游戏"
       },
       {
         "title": "【LGD.Topson已连接】过去一整年直播高光",
@@ -302,74 +302,10 @@
         "hotTitle": "Topson正式加入LGD"
       },
       {
-        "title": "古巴奇迹：四年太阳能发电飙增近十倍",
-        "url": "https://www.bilibili.com/video/BV1LYuR6rEdg",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1LYuR6rEdg",
-        "author": "波士顿圆脸",
-        "duration": "15:58",
-        "cover": "//i0.hdslb.com/bfs/archive/19d6bc4d874775947ec0f22e45d10bd100b6586c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LYuR6rEdg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "古巴如何应对能源短缺"
-      },
-      {
-        "title": "iOS27beta5及iOS26.6.1，新功能及改进汇总",
-        "url": "https://www.bilibili.com/video/BV1cHua6DEPq",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1cHua6DEPq",
-        "author": "Hi果粉",
-        "duration": "1:21",
-        "cover": "//i2.hdslb.com/bfs/archive/ea63e3dadf4519f2280c5c3fa2359020e316a70f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cHua6DEPq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "iOS27Beta5新功能汇总"
-      },
-      {
-        "title": "浙江首创无堂食外卖集聚地，力图破解“幽灵外卖”乱象",
-        "url": "https://www.bilibili.com/video/BV1N6uZ6eEdw",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "（素材来源：人民网浙江）",
-        "content": "（素材来源：人民网浙江）",
-        "bvid": "BV1N6uZ6eEdw",
-        "author": "人民日报",
-        "duration": "0:21",
-        "cover": "//i0.hdslb.com/bfs/archive/a7600b5c6de23637946c0b9e2bb358dd73770534.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1N6uZ6eEdw&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "浙江首创无堂食外卖集聚地"
-      },
-      {
-        "title": "第38届大众电影百花奖颁奖典礼暨闭幕式",
-        "url": "https://www.bilibili.com/video/BV1jquo62ERF",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "第38届大众电影百花奖颁奖典礼暨闭幕式 分享 第38届大众电影百花奖颁奖典礼暨闭幕式将于8月10日晚在国家速滑馆“冰丝带”启幕。本届闭幕式以“相聚”为主线，分为“大众的选票”“时代的记忆”“新人的表达”“电影的信仰”四幕，由开场节目《电影让我们相会》拉开序幕，百花奖历届获奖代表将重聚现场，串联起百花奖与人民相伴六十余年的光辉历程。颁奖典礼将依次揭晓最佳男配角、最佳女配角、最佳编剧、最佳新人、最佳男主角、最佳女主角、最佳导演、优秀影片及最佳影片等荣誉。颁奖典礼暨闭幕式将全程直播，邀您共同见证。",
-        "content": "第38届大众电影百花奖颁奖典礼暨闭幕式 分享 第38届大众电影百花奖颁奖典礼暨闭幕式将于8月10日晚在国家速滑馆“冰丝带”启幕。本届闭幕式以“相聚”为主线，分为“大众的选票”“时代的记忆”“新人的表达”“电影的信仰”四幕，由开场节目《电影让我们相会》拉开序幕，百花奖历届获奖代表将重聚现场，串联起百花奖与人民相伴六十余年的光辉历程。颁奖典礼将依次揭晓最佳男配角、最佳女配角、最佳编剧、最佳新人、最佳男主角、最佳女主角、最佳导演、优秀影片及最佳影片等荣誉。颁奖典礼暨闭幕式将全程直播，邀您共同见证。",
-        "bvid": "BV1jquo62ERF",
-        "author": "视组编辑部",
-        "duration": "148:39",
-        "cover": "//i2.hdslb.com/bfs/archive/042edc9d5c6ba2bfcd667a7d27151b24d124ecaa.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jquo62ERF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "百花奖获奖名单公布"
-      },
-      {
         "title": "白海豚大拐弯：江浙沪多地特大暴雨破纪录，北方暴雨启动或有三个重点",
         "url": "https://www.bilibili.com/video/BV1G2uo66Enh",
         "desc": "",
-        "rank": 16,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "在白海豚的这番操作下，它北侧的螺旋雨带持续在浙江东部、上海、江苏南部上岸，江浙沪出现大范围的大暴雨到特大暴雨。其中，浙江台州的温岭、三门特大暴雨，雨量超过利奇马、云娜和9711号台风，打破历史纪录，山区局部最大累积雨量超过800毫米。上海徐汇区特大暴雨，徐家汇最大24小时雨量316毫米，超过2001年0185特大暴雨，为1872年有观测以来徐家汇最大暴雨，徐汇区斜土路总累积雨量即将达到500毫米。江苏苏州、无锡、常州雨量均打破历史纪录，其中常州气象站24小时雨量250.0毫米，为当地史上首个特大暴雨，无锡",
@@ -382,26 +318,10 @@
         "hotTitle": "白海豚大拐弯"
       },
       {
-        "title": "季后赛历史最高分！乔丹的63分，到底强到什么程度？",
-        "url": "https://www.bilibili.com/video/BV1WauQ61EYD",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1WauQ61EYD",
-        "author": "太吾车神",
-        "duration": "18:13",
-        "cover": "//i1.hdslb.com/bfs/archive/9566b4ab744fc3205f059d22dae56a634a7180ee.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WauQ61EYD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "乔丹的季后赛63分强到什么程度"
-      },
-      {
         "title": "重磅突破！中国科学家破解甘蔗育种世纪难题【主播说三农】",
         "url": "https://www.bilibili.com/video/BV1MQuR6bEa8",
         "desc": "",
-        "rank": 18,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -414,42 +334,10 @@
         "hotTitle": "甘蔗育种世纪难题被破解"
       },
       {
-        "title": "公交车能耗和驾驶员绩效工资挂钩，兰州公交第六客运公司：已暂停能耗考核",
-        "url": "https://www.bilibili.com/video/BV126uZ6YEq1",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV126uZ6YEq1",
-        "author": "央视新闻",
-        "duration": "3:39",
-        "cover": "//i0.hdslb.com/bfs/archive/fe1b1bad54b67833ff616ca8b2a89801a5fea9fd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV126uZ6YEq1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "兰州回应公交能耗与工资挂钩"
-      },
-      {
-        "title": "12 个脑洞大开小食谱，台风天居家必备！",
-        "url": "https://www.bilibili.com/video/BV18auG6GEGy",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV18auG6GEGy",
-        "author": "胡仔一人食",
-        "duration": "6:43",
-        "cover": "//i2.hdslb.com/bfs/archive/69d3cdb05e35b8009848885fb75e669c2a0c34a2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18auG6GEGy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "台风天宅家12个脑洞食谱"
-      },
-      {
         "title": "沈腾这部新片，是中国电影第一次用东方式智慧回应当代世界【逸语道破】",
         "url": "https://www.bilibili.com/video/BV1dZud6VEwG",
         "desc": "",
-        "rank": 21,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "在欧美霸权主义居高临下的叙事和极端主义的疯狂复仇之外，《欢迎来龙餐馆》提供了第三种视角——中国视角。不是拯救世界，不是改变一切，而是在力所能及的范围内，让身边的人过得更好一点。这种\"东方式的智慧\"，放在今天的世界上，尤为可贵。",
@@ -462,58 +350,90 @@
         "hotTitle": "沈腾新片里的东方式智慧"
       },
       {
-        "title": "受台风“白海豚”影响，钱塘江江滩现“大地流沙画”。滩涂之上，泥沙舒展如万千羽毛",
-        "url": "https://www.bilibili.com/video/BV1QcuR6YEBS",
+        "title": "史上最难！只有一块黑曜石该如何通关？",
+        "url": "https://www.bilibili.com/video/BV1dcuV6HEig",
         "desc": "",
-        "rank": 22,
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "鸣谢： @阿玮是人 @巫山云玩家 @肆柒_sIqI @吃年糕的安sir @节操Pro 提供灵感和指导 @无处可去的愚者 @文绪 @野生的矿泉水 @花野大猫猫 @阿怪说不来话 提供素材 ———————————————————————————— 啊啊啊啊啊啊！终于做出来了，从五月底到现在，打磨好久才端上来，希望各位看的满意 另外回答几个问题 1.不会断更，每个系列都会玩到结束，答应各位的圆明园第二期也会做的 2.up即将步入高三，更新将会减少，不会轻易整这么大的活了，但是我会一直活着的",
+        "content": "鸣谢： @阿玮是人 @巫山云玩家 @肆柒_sIqI @吃年糕的安sir @节操Pro 提供灵感和指导 @无处可去的愚者 @文绪 @野生的矿泉水 @花野大猫猫 @阿怪说不来话 提供素材 ———————————————————————————— 啊啊啊啊啊啊！终于做出来了，从五月底到现在，打磨好久才端上来，希望各位看的满意 另外回答几个问题 1.不会断更，每个系列都会玩到结束，答应各位的圆明园第二期也会做的 2.up即将步入高三，更新将会减少，不会轻易整这么大的活了，但是我会一直活着的",
+        "bvid": "BV1dcuV6HEig",
+        "author": "一只玖玄吖",
+        "duration": "10:3",
+        "cover": "//i0.hdslb.com/bfs/archive/1c5d12679b42efd2ec799073683eb5a7546b59a9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dcuV6HEig&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "一块黑曜石如何通关MC"
+      },
+      {
+        "title": "公交车能耗和驾驶员绩效工资挂钩，兰州公交第六客运公司：已暂停能耗考核",
+        "url": "https://www.bilibili.com/video/BV126uZ6YEq1",
+        "desc": "",
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1QcuR6YEBS",
-        "author": "人民日报",
-        "duration": "0:23",
-        "cover": "//i2.hdslb.com/bfs/archive/cedb3b07e96c558616af80bc58e4a82c8a3debe7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QcuR6YEBS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "台风天钱塘江现大地流沙画"
+        "bvid": "BV126uZ6YEq1",
+        "author": "央视新闻",
+        "duration": "3:39",
+        "cover": "//i0.hdslb.com/bfs/archive/fe1b1bad54b67833ff616ca8b2a89801a5fea9fd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV126uZ6YEq1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "兰州回应公交能耗与工资挂钩"
       },
       {
-        "title": "如果上学是一款游戏",
-        "url": "https://www.bilibili.com/video/BV1V2um6SEYS",
+        "title": "古巴奇迹：四年太阳能发电飙增近十倍",
+        "url": "https://www.bilibili.com/video/BV1LYuR6rEdg",
         "desc": "",
-        "rank": 23,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1V2um6SEYS",
-        "author": "张开-",
-        "duration": "5:32",
-        "cover": "//i1.hdslb.com/bfs/archive/76e668bc54f4f4036b25a25a8a13f7c60d335096.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1V2um6SEYS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如果上学是一款游戏"
+        "bvid": "BV1LYuR6rEdg",
+        "author": "波士顿圆脸",
+        "duration": "15:58",
+        "cover": "//i0.hdslb.com/bfs/archive/19d6bc4d874775947ec0f22e45d10bd100b6586c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LYuR6rEdg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "古巴如何应对能源短缺"
       },
       {
-        "title": "张凌赫演技搞笑吐槽：奸臣式演技天花板【铁柱】",
-        "url": "https://www.bilibili.com/video/BV1Z9uy6jEh6",
+        "title": "季后赛历史最高分！乔丹的63分，到底强到什么程度？",
+        "url": "https://www.bilibili.com/video/BV1WauQ61EYD",
         "desc": "",
-        "rank": 24,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
-        "description": "OK，又是一个，典型的日子过得太顺了，资源不停地喂过来，没有太尝过扑街没戏接的日子，被一声声的好帅给迷惑了，没有时间琢磨演技",
-        "content": "OK，又是一个，典型的日子过得太顺了，资源不停地喂过来，没有太尝过扑街没戏接的日子，被一声声的好帅给迷惑了，没有时间琢磨演技",
-        "bvid": "BV1Z9uy6jEh6",
-        "author": "铁铁铁柱_",
-        "duration": "16:31",
-        "cover": "//i2.hdslb.com/bfs/archive/66101ccc43d84cd8832bd2e613e7eb901473b2a1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z9uy6jEh6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "锐评内娱古偶男主演技"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1WauQ61EYD",
+        "author": "太吾车神",
+        "duration": "18:13",
+        "cover": "//i1.hdslb.com/bfs/archive/9566b4ab744fc3205f059d22dae56a634a7180ee.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WauQ61EYD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "乔丹的季后赛63分强到什么程度"
+      },
+      {
+        "title": "王健林现在怎么样了? 万达什么情况?",
+        "url": "https://www.bilibili.com/video/BV1XPuo6uES8",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "万达商管、万达商业、珠海万达、大连万达 ......万达这个庞然大物，商业结构极其复杂。 而这些名字背后盘根错节的资本游戏，才是压垮万达的关键。 今天咱们就来聊一聊：万达到底经历了什么？昔日的中国首富，是怎么被一步一步逼到了今天的境地？",
+        "content": "万达商管、万达商业、珠海万达、大连万达 ......万达这个庞然大物，商业结构极其复杂。 而这些名字背后盘根错节的资本游戏，才是压垮万达的关键。 今天咱们就来聊一聊：万达到底经历了什么？昔日的中国首富，是怎么被一步一步逼到了今天的境地？",
+        "bvid": "BV1XPuo6uES8",
+        "author": "小Lin说",
+        "duration": "23:53",
+        "cover": "//i1.hdslb.com/bfs/archive/d3fd5ebcf88dd8c23ba9af5500c192a255f4deb8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XPuo6uES8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "万达现状如何"
       },
       {
         "title": "假面骑士祥子 01.沉默的骑士",
         "url": "https://www.bilibili.com/video/BV1pmu26FEZZ",
         "desc": "",
-        "rank": 25,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -524,6 +444,86 @@
         "cover": "//i0.hdslb.com/bfs/archive/4e35a80b035a38b371ac0091d62eae55d884207e.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pmu26FEZZ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "假面骑士祥子"
+      },
+      {
+        "title": "至此，昆明迎来了最权威的落地签。。。",
+        "url": "https://www.bilibili.com/video/BV1a4u26CE43",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "至此，昆明迎来了最权威的落地签！谁这么天才！既传承了文化又发展了经济，拯救了还有30年就要消失的滇剧。。。",
+        "content": "至此，昆明迎来了最权威的落地签！谁这么天才！既传承了文化又发展了经济，拯救了还有30年就要消失的滇剧。。。",
+        "bvid": "BV1a4u26CE43",
+        "author": "知名相声演员BBBBB大王",
+        "duration": "15:38",
+        "cover": "//i1.hdslb.com/bfs/archive/384fb26bb75e48695e90001fae68c0cee0833724.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1a4u26CE43&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "昆明有自己的落地签"
+      },
+      {
+        "title": "浙江首创无堂食外卖集聚地，力图破解“幽灵外卖”乱象",
+        "url": "https://www.bilibili.com/video/BV1N6uZ6eEdw",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "（素材来源：人民网浙江）",
+        "content": "（素材来源：人民网浙江）",
+        "bvid": "BV1N6uZ6eEdw",
+        "author": "人民日报",
+        "duration": "0:21",
+        "cover": "//i0.hdslb.com/bfs/archive/a7600b5c6de23637946c0b9e2bb358dd73770534.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1N6uZ6eEdw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "浙江首创无堂食外卖集聚地"
+      },
+      {
+        "title": "DNS 2-0 GEN 赛后数据雷达图+虎扑评分丨LCK-KeSPA杯",
+        "url": "https://www.bilibili.com/video/BV1BGuY61EGA",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1BGuY61EGA",
+        "author": "苦练李香兰",
+        "duration": "2:9",
+        "cover": "//i2.hdslb.com/bfs/archive/656bc723c30446840f1d44af7272975266b6c442.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BGuY61EGA&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DNS战胜GEN赛后数据"
+      },
+      {
+        "title": "深化扫黑除恶专项斗争第一轮集中收网",
+        "url": "https://www.bilibili.com/video/BV1xeuY6hE8B",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "近日，公安部指挥全国公安机关同步开展深化扫黑除恶专项斗争第一轮集中收网行动，成功打掉各类犯罪团伙1000余个，抓获犯罪嫌疑人8200余名，破获各类刑事案件5400余起。 记者：李明辉、卢佳、宋立峰、杨金鑫、吴刚",
+        "content": "近日，公安部指挥全国公安机关同步开展深化扫黑除恶专项斗争第一轮集中收网行动，成功打掉各类犯罪团伙1000余个，抓获犯罪嫌疑人8200余名，破获各类刑事案件5400余起。 记者：李明辉、卢佳、宋立峰、杨金鑫、吴刚",
+        "bvid": "BV1xeuY6hE8B",
+        "author": "新华社",
+        "duration": "1:7",
+        "cover": "//i0.hdslb.com/bfs/archive/6bcf1149cc0f11c2b102d26e5b69ecb0af0386f9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xeuY6hE8B&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "扫黑除恶打掉1000余个犯罪团伙"
+      },
+      {
+        "title": "信息量很大！中国可控核聚变最新进展来了",
+        "url": "https://www.bilibili.com/video/BV1vfud6kEiq",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "随着人们对“人造太阳”和可控核聚变技术越来越关注，在社会上掀起了一股“聚变热”。“人造太阳”到底是什么？可控核聚变技术何时能落地？中国的“人造太阳”造到什么程度了？中核集团聚变领域首席科学家段旭如，披露我国“人造太阳”最新进展。（开讲啦）",
+        "content": "随着人们对“人造太阳”和可控核聚变技术越来越关注，在社会上掀起了一股“聚变热”。“人造太阳”到底是什么？可控核聚变技术何时能落地？中国的“人造太阳”造到什么程度了？中核集团聚变领域首席科学家段旭如，披露我国“人造太阳”最新进展。（开讲啦）",
+        "bvid": "BV1vfud6kEiq",
+        "author": "央视军事",
+        "duration": "12:28",
+        "cover": "//i2.hdslb.com/bfs/archive/60c2d944abf1c9480c9dc5fa3b328b7d0cac5951.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vfud6kEiq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国可控核聚变最新进展"
       },
       {
         "title": "上海暴雨破百年记录！白海豚你不讲武德",
@@ -542,71 +542,81 @@
         "hotTitle": "白海豚带来的暴雨究竟多大"
       },
       {
-        "title": "《阴阳师》×Vsinger丨联动PV：云华依言歌",
-        "url": "https://www.bilibili.com/video/BV1sBu96JExV",
+        "title": "受台风“白海豚”影响，钱塘江江滩现“大地流沙画”。滩涂之上，泥沙舒展如万千羽毛",
+        "url": "https://www.bilibili.com/video/BV1QcuR6YEBS",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "#阴阳师Vsinger联动# ☆阴阳师×Vsinger联动PV：云华依言歌☆ 友人相伴寻觅新律灵感，误入一场异世界奇遇~奇人异士齐聚云英盛会，携手勘破谜案，来将沿途的万般光景，铸成崭新乐章吧！ 阴阳师 × Vsinger联动新篇「云华依言歌」8月19日开启，全新联动限定角色SSR洛天依、SSR言和 即将降临平安京！ 「鼠假护肝服」全平台互通新区【天籁和音】将同步上线，现已开启预约集结，免费领取99名式神，至少可召唤3个SSR/SP式神，更有五倍挑战效率，双倍经验、金币等护肝活动等你体验~ #阴阳师云华依",
-        "content": "#阴阳师Vsinger联动# ☆阴阳师×Vsinger联动PV：云华依言歌☆ 友人相伴寻觅新律灵感，误入一场异世界奇遇~奇人异士齐聚云英盛会，携手勘破谜案，来将沿途的万般光景，铸成崭新乐章吧！ 阴阳师 × Vsinger联动新篇「云华依言歌」8月19日开启，全新联动限定角色SSR洛天依、SSR言和 即将降临平安京！ 「鼠假护肝服」全平台互通新区【天籁和音】将同步上线，现已开启预约集结，免费领取99名式神，至少可召唤3个SSR/SP式神，更有五倍挑战效率，双倍经验、金币等护肝活动等你体验~ #阴阳师云华依",
-        "bvid": "BV1sBu96JExV",
-        "author": "网易阴阳师手游",
-        "duration": "1:47",
-        "cover": "//i1.hdslb.com/bfs/archive/00e4c5b2340683951d4c3ef4ce5d4cb8c176ab9c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sBu96JExV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "阴阳师Vsinger联动PV"
+        "description": "",
+        "content": "",
+        "bvid": "BV1QcuR6YEBS",
+        "author": "人民日报",
+        "duration": "0:23",
+        "cover": "//i2.hdslb.com/bfs/archive/cedb3b07e96c558616af80bc58e4a82c8a3debe7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QcuR6YEBS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "台风天钱塘江现大地流沙画"
       },
       {
-        "title": "身体天赋与运球技巧的完美融合｜詹姆斯生涯精彩控运时刻",
-        "url": "https://www.bilibili.com/video/BV1UxuQ6UE5n",
+        "title": "暑期档最佳？恭喜沈腾可以称影帝了!《欢迎来龙餐馆》诚实观后感",
+        "url": "https://www.bilibili.com/video/BV1ZTu96zEwg",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1UxuQ6UE5n",
-        "author": "NBA",
-        "duration": "4:45",
-        "cover": "//i2.hdslb.com/bfs/archive/6d43262f4bc8c03f2d1e163cc1879385981ab8db.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UxuQ6UE5n&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "盘点詹姆斯精彩控运时刻"
+        "description": "本视频素材来自网络，由文西激情解说！",
+        "content": "本视频素材来自网络，由文西激情解说！",
+        "bvid": "BV1ZTu96zEwg",
+        "author": "文西与阿漆",
+        "duration": "7:55",
+        "cover": "//i1.hdslb.com/bfs/archive/85fc1b081cfb6582709277526ff39f343487b1af.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZTu96zEwg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "文西龙餐馆真实观后感"
       },
       {
-        "title": "信息量很大！中国可控核聚变最新进展来了",
-        "url": "https://www.bilibili.com/video/BV1vfud6kEiq",
+        "title": "Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
+        "url": "https://www.bilibili.com/video/BV15Zud6GExQ",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "随着人们对“人造太阳”和可控核聚变技术越来越关注，在社会上掀起了一股“聚变热”。“人造太阳”到底是什么？可控核聚变技术何时能落地？中国的“人造太阳”造到什么程度了？中核集团聚变领域首席科学家段旭如，披露我国“人造太阳”最新进展。（开讲啦）",
-        "content": "随着人们对“人造太阳”和可控核聚变技术越来越关注，在社会上掀起了一股“聚变热”。“人造太阳”到底是什么？可控核聚变技术何时能落地？中国的“人造太阳”造到什么程度了？中核集团聚变领域首席科学家段旭如，披露我国“人造太阳”最新进展。（开讲啦）",
-        "bvid": "BV1vfud6kEiq",
-        "author": "央视军事",
-        "duration": "12:28",
-        "cover": "//i2.hdslb.com/bfs/archive/60c2d944abf1c9480c9dc5fa3b328b7d0cac5951.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vfud6kEiq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国可控核聚变最新进展"
+        "description": "Ti首日对阵出炉，CNDota的第一天，怎么说？！ Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
+        "content": "Ti首日对阵出炉，CNDota的第一天，怎么说？！ Ti2026首日对阵出炉！正道沧桑，XG的病根在哪？迷茫的XG该何去何从？TI15上海国际邀请赛赛前分析",
+        "bvid": "BV15Zud6GExQ",
+        "author": "化圆直",
+        "duration": "7:15",
+        "cover": "//i1.hdslb.com/bfs/archive/64cbcdb8fc73d14db8440b1ff9992ad21918ff58.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Zud6GExQ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TI2026首日对阵前瞻"
       },
       {
-        "title": "深化扫黑除恶专项斗争第一轮集中收网",
-        "url": "https://www.bilibili.com/video/BV1xeuY6hE8B",
+        "title": "12 个脑洞大开小食谱，台风天居家必备！",
+        "url": "https://www.bilibili.com/video/BV18auG6GEGy",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "近日，公安部指挥全国公安机关同步开展深化扫黑除恶专项斗争第一轮集中收网行动，成功打掉各类犯罪团伙1000余个，抓获犯罪嫌疑人8200余名，破获各类刑事案件5400余起。 记者：李明辉、卢佳、宋立峰、杨金鑫、吴刚",
-        "content": "近日，公安部指挥全国公安机关同步开展深化扫黑除恶专项斗争第一轮集中收网行动，成功打掉各类犯罪团伙1000余个，抓获犯罪嫌疑人8200余名，破获各类刑事案件5400余起。 记者：李明辉、卢佳、宋立峰、杨金鑫、吴刚",
-        "bvid": "BV1xeuY6hE8B",
-        "author": "新华社",
-        "duration": "1:7",
-        "cover": "//i0.hdslb.com/bfs/archive/6bcf1149cc0f11c2b102d26e5b69ecb0af0386f9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xeuY6hE8B&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "扫黑除恶打掉1000余个犯罪团伙"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV18auG6GEGy",
+        "author": "胡仔一人食",
+        "duration": "6:43",
+        "cover": "//i2.hdslb.com/bfs/archive/69d3cdb05e35b8009848885fb75e669c2a0c34a2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18auG6GEGy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "台风天宅家12个脑洞食谱"
       }
     ],
     "qbitai": [
+      {
+        "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+        "url": "https://www.qbitai.com/2026/08/470228.html",
+        "desc": "大水印时代来了",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/c322041538f6b00abc4bf1bc016a69d0.png",
+        "date": "2026-08-11T11:51:24",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
       {
         "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
         "url": "https://www.qbitai.com/2026/08/469880.html",
@@ -615,7 +625,7 @@
         "date": "2026-08-11T11:37:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
@@ -625,7 +635,7 @@
         "date": "2026-08-11T11:11:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
@@ -635,7 +645,7 @@
         "date": "2026-08-11T08:46:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
@@ -645,7 +655,7 @@
         "date": "2026-08-10T21:58:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "PDF当死，ARA该立！论文是时候Agent原生了",
@@ -655,7 +665,7 @@
         "date": "2026-08-10T21:53:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "模型路线趋同之后，Physical AI的胜负手变了",
@@ -665,7 +675,7 @@
         "date": "2026-08-10T17:20:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
@@ -675,7 +685,7 @@
         "date": "2026-08-10T14:58:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
@@ -685,7 +695,7 @@
         "date": "2026-08-10T13:37:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
@@ -695,7 +705,7 @@
         "date": "2026-08-10T11:24:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
@@ -705,7 +715,7 @@
         "date": "2026-08-10T10:34:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
@@ -715,7 +725,7 @@
         "date": "2026-08-10T10:25:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
@@ -725,7 +735,7 @@
         "date": "2026-08-10T09:34:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
@@ -735,7 +745,7 @@
         "date": "2026-08-10T09:12:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "范式与华夏金融订立服务器售后回租安排 盘活算力资产 赋能业务长效发展",
@@ -745,7 +755,7 @@
         "date": "2026-08-09T20:33:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "180万刀，连亚马逊都烧不起Claude了",
@@ -755,7 +765,7 @@
         "date": "2026-08-09T17:25:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
@@ -765,7 +775,7 @@
         "date": "2026-08-09T17:16:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
@@ -775,7 +785,7 @@
         "date": "2026-08-09T11:40:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
@@ -785,7 +795,7 @@
         "date": "2026-08-09T11:25:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
@@ -795,7 +805,7 @@
         "date": "2026-08-09T11:17:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
@@ -805,7 +815,7 @@
         "date": "2026-08-08T15:57:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
@@ -815,7 +825,7 @@
         "date": "2026-08-08T15:56:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
@@ -825,7 +835,7 @@
         "date": "2026-08-08T15:51:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
@@ -835,7 +845,7 @@
         "date": "2026-08-08T12:33:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
@@ -845,7 +855,7 @@
         "date": "2026-08-08T10:45:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
@@ -855,7 +865,7 @@
         "date": "2026-08-08T10:35:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
@@ -865,7 +875,7 @@
         "date": "2026-08-07T15:43:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
@@ -875,7 +885,7 @@
         "date": "2026-08-07T14:21:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
@@ -885,7 +895,7 @@
         "date": "2026-08-07T14:18:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
@@ -893,16 +903,6 @@
         "desc": "AI卷向运动赛道，Keep的新答卷能否跑通？",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/屏幕截图-2026-08-07-113201-e1786073576315.png",
         "date": "2026-08-07T13:30:08",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-        "url": "https://www.qbitai.com/2026/08/467877.html",
-        "desc": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/2c62c20203ae58e6ee9dda2fa465a85f.png",
-        "date": "2026-08-07T11:23:54",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -940,14 +940,24 @@
         "rank": 3
       },
       {
-        "title": "36氪出海·招募｜迪拜商业论坛·中国，海外嘉宾阵容揭晓",
-        "url": "https://m.36kr.com/p/3917889153773193",
-        "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20260731/v2_acaaa03c1b2a4382bab383c8a35f538b@5284654_oswg1046152oswg1440oswg600_img_png?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
-        "date": 1785486653534,
+        "title": "中煤电力在内蒙古成立清洁能源公司，注册资本5000万",
+        "url": "https://m.36kr.com/newsflashes/3934585910787205",
+        "desc": "36氪获悉，天眼查App显示，中煤电力清洁能源（内蒙古）有限公司于近日成立，注册资本 5000万人民币，法定代表人为杜兴源。该公司经营范围含发电业务、输电业务、供（配）电业务，供电业务，以及发电技术服务等，注册地址位于内蒙古自治区呼伦贝尔市海拉尔区。股东信息显示，该公司由中煤电力有限公司全资持股，认缴出资5000万元人民币。",
+        "cover": "",
+        "date": 1786420065843,
         "platform": "36kr",
         "kind": "article",
         "rank": 4
+      },
+      {
+        "title": "半日主力资金加仓电子板块，抛售有色金属板块",
+        "url": "https://m.36kr.com/newsflashes/3934579299646593",
+        "desc": "主力资金早间净流入电子、医药生物、通信等板块，净流出有色金属、食品饮料、非银金融等板块。具体到个股来看，风华高科、新易盛、中际旭创获净流入35.95亿元、20.94亿元、17.54亿元。净流出方面，紫金矿业、胜宏科技、中钨高新遭抛售10.74亿元、7.79亿元、7.49亿元。（第一财经）",
+        "cover": "",
+        "date": 1786420042411,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
       },
       {
         "title": "保利发展等成立上海保合汇企业发展有限公司",
@@ -957,7 +967,7 @@
         "date": 1786419643000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "A股三大指数午间休盘涨跌不一，百花医药涨停",
@@ -967,7 +977,7 @@
         "date": 1786419134881,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "日本央行据悉将在9月加息以应对通胀风险",
@@ -977,7 +987,7 @@
         "date": 1786418642201,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "越南Vinspace与SpaceX签署协议，计划明年二季度实现卫星发射入轨",
@@ -987,7 +997,7 @@
         "date": 1786418066194,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "通用汽车拟向三星SDI出售35亿美元美国电池合资企业半数权益",
@@ -997,7 +1007,7 @@
         "date": 1786417672598,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "三星电子相对于SK海力士的市盈率溢价或将扩大",
@@ -1007,7 +1017,7 @@
         "date": 1786417499314,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "谷歌在韩月活用户数首超韩国互联网巨头Naver",
@@ -1017,7 +1027,7 @@
         "date": 1786416930918,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "韩国财长：单股杠杆ETF交易规模大幅缩减，将采取一切可能措施降低市场波动性",
@@ -1027,7 +1037,7 @@
         "date": 1786416799510,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "金饰克价涨至1336元",
@@ -1037,7 +1047,7 @@
         "date": 1786416201878,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "董宇辉1000万在北京成立新公司",
@@ -1047,7 +1057,7 @@
         "date": 1786415447575,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "“寻明生科”再获总额1亿美金的B系列融资",
@@ -1057,7 +1067,7 @@
         "date": 1786415140846,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "韩军工巨头韩华拟斥资超10亿美元扩大美国造船业务",
@@ -1067,7 +1077,7 @@
         "date": 1786414554146,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "裕信银行与德国商业银行据悉首次就监管控制变化正式磋商",
@@ -1077,7 +1087,7 @@
         "date": 1786413338513,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "消息称苹果仍计划明年推出全玻璃版iPhone",
@@ -1087,7 +1097,7 @@
         "date": 1786412715331,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "“模量科技”完成数千万元Pre-A轮融资",
@@ -1097,7 +1107,7 @@
         "date": 1786412186726,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "“迅路创新”已于年初完成新一轮超亿元融资",
@@ -1107,7 +1117,7 @@
         "date": 1786412071625,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "央行：8月11日7天期逆回购操作量为零",
@@ -1117,7 +1127,7 @@
         "date": 1786411928001,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "A股三大指数集体低开，黄金股走强",
@@ -1127,35 +1137,15 @@
         "date": 1786411662461,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "恒指开盘涨0.24%，恒生科技指数涨0.27%",
-        "url": "https://m.36kr.com/newsflashes/3934442964204928",
-        "desc": "36氪获悉，恒指开盘涨0.24%，恒生科技指数涨0.27%；石油石化、有色金属板块领涨，山东墨龙涨超4%，大唐黄金涨超3%；半导体、国防军工板块跌幅居前，天数智芯跌超2%，中航科工跌近1%。",
-        "cover": "",
-        "date": 1786411341076,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
-      },
-      {
-        "title": "8月11日人民币对美元中间价调贬16个基点",
-        "url": "https://m.36kr.com/newsflashes/3934437398887809",
-        "desc": "36氪获悉，8月11日，人民币对美元中间价调贬16个基点，报6.7900，上一交易日中间价6.7884。",
-        "cover": "",
-        "date": 1786411001396,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786419664049,
-    "bilibili": 1786418135075,
-    "qbitai": 1786419680843,
-    "36kr": 1786419681125
+    "thepaper": 1786420564530,
+    "bilibili": 1786419935989,
+    "qbitai": 1786420581418,
+    "36kr": 1786420581762
   },
   "failures": {}
 }
