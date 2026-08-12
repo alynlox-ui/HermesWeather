@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T11:41:27Z",
+  "updatedAt": "2026-08-12T11:56:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -10,44 +10,44 @@
         "rank": 1
       },
       {
-        "title": "视频丨C919国产大飞机正式执飞国际商业航线",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33765803",
+        "title": "“人民艺术家”郭兰英逝世，享年97岁",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33763546",
         "desc": "",
         "rank": 2
-      },
-      {
-        "title": "上海书展，值得间关千里，风雨无阻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33759932",
-        "desc": "",
-        "rank": 3
       },
       {
         "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
         "url": "https://www.thepaper.cn/newsDetail_forward_33759913",
         "desc": "",
-        "rank": 4
-      },
-      {
-        "title": "“人民艺术家”郭兰英逝世，享年97岁",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33763546",
-        "desc": "",
-        "rank": 5
+        "rank": 3
       },
       {
         "title": "部分博物馆出现停电、空调瘫痪等情况，国家文物局发布紧急通知",
         "url": "https://www.thepaper.cn/newsDetail_forward_33761589",
         "desc": "",
-        "rank": 6
+        "rank": 4
       },
       {
         "title": "文艺盲盒，还有鲁迅同款毛背心？盘点今年上海书展打卡点",
         "url": "https://www.thepaper.cn/newsDetail_forward_33760940",
         "desc": "",
-        "rank": 7
+        "rank": 5
       },
       {
         "title": "影子调查丨失落的壁上丹青：河北蔚县古壁画遭盗窃与损毁，保护陷困境",
         "url": "https://www.thepaper.cn/newsDetail_forward_33682770",
+        "desc": "",
+        "rank": 6
+      },
+      {
+        "title": "视频丨C919国产大飞机正式执飞国际商业航线",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33765803",
+        "desc": "",
+        "rank": 7
+      },
+      {
+        "title": "上海书展，值得间关千里，风雨无阻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33759932",
         "desc": "",
         "rank": 8
       },
@@ -127,41 +127,25 @@
     "bilibili": [
       {
         "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-        "url": "https://www.bilibili.com/video/BV1MKgL6DEgY",
+        "url": "https://www.bilibili.com/video/BV1usg56UEYF",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1MKgL6DEgY",
-        "author": "新华社",
-        "duration": "2:34",
-        "cover": "//i1.hdslb.com/bfs/archive/aa1990813ed7a54a270f84eeafd7d5f2de20f7fd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MKgL6DEgY&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "朱镕基逝世"
-      },
-      {
-        "title": "《中共中央关于党的百年奋斗重大成就和历史经验的决议》公布",
-        "url": "https://www.bilibili.com/video/BV1vb4y1t77y",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "来源：央视新闻联播 27分钟完整播报！《新闻联播》报道《中共中央关于党的百年奋斗重大成就和历史经验的决议》公布。",
-        "content": "来源：央视新闻联播 27分钟完整播报！《新闻联播》报道《中共中央关于党的百年奋斗重大成就和历史经验的决议》公布。",
-        "bvid": "BV1vb4y1t77y",
-        "author": "中国日报",
-        "duration": "27:25",
-        "cover": "//i2.hdslb.com/bfs/archive/aec210dc2a7821a99139731595e4c15ef095ebbf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vb4y1t77y&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "新闻联播"
+        "bvid": "BV1usg56UEYF",
+        "author": "央视新闻",
+        "duration": "11:35",
+        "cover": "//i1.hdslb.com/bfs/archive/cb48ae77ac08658780c4c7fd03adf30a8da7684a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1usg56UEYF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "朱镕基同志逝世"
       },
       {
         "title": "C919国产大飞机正式执飞国际商业航线 从北京飞至乌兰巴托",
         "url": "https://www.bilibili.com/video/BV1nAuy6HEo3",
         "desc": "",
-        "rank": 3,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "C919国产大飞机正式执飞国际商业航线 从北京飞至乌兰巴托",
@@ -172,6 +156,22 @@
         "cover": "//i2.hdslb.com/bfs/archive/974890542073aee5efca67221a86c044c14b0739.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nAuy6HEo3&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "C919正式执飞国际商业航线"
+      },
+      {
+        "title": "中国人形机器人一骑绝尘 上半年中国人形机器人出货量全球占比超97%",
+        "url": "https://www.bilibili.com/video/BV1kpuC6UEns",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1kpuC6UEns",
+        "author": "央视财经",
+        "duration": "1:2",
+        "cover": "//i0.hdslb.com/bfs/archive/f30c0f61b1e0d58a4544f8e395d8173d3b97b3f3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kpuC6UEns&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国人形机器人一骑绝尘"
       },
       {
         "title": "从奥运冠军到主教练 武大靖出任中国短道速滑队主教练",
@@ -190,42 +190,26 @@
         "hotTitle": "武大靖出任中国短道速滑队主教练"
       },
       {
-        "title": "中国人形机器人一骑绝尘 上半年中国人形机器人出货量全球占比超97%",
-        "url": "https://www.bilibili.com/video/BV1kpuC6UEns",
+        "title": "【经济学模拟器 v0.1】来试试自己搭建一个供需均衡的交易市场",
+        "url": "https://www.bilibili.com/video/BV1qCgG6ZEtk",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1kpuC6UEns",
-        "author": "央视财经",
-        "duration": "1:2",
-        "cover": "//i0.hdslb.com/bfs/archive/f30c0f61b1e0d58a4544f8e395d8173d3b97b3f3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kpuC6UEns&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国人形机器人一骑绝尘"
-      },
-      {
-        "title": "《欢迎来龙餐馆》里的龙抬头和烩饭，究竟什么味？！",
-        "url": "https://www.bilibili.com/video/BV1nigG6YE7B",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "看完沈腾《欢迎来龙餐馆》火速来复刻同款“龙抬头”和“徐福烩饭”，震撼美味！！吃完才能治愈我看完电影的心情，咱们都要好好吃饭ღ( ´･ᴗ･` )！",
-        "content": "看完沈腾《欢迎来龙餐馆》火速来复刻同款“龙抬头”和“徐福烩饭”，震撼美味！！吃完才能治愈我看完电影的心情，咱们都要好好吃饭ღ( ´･ᴗ･` )！",
-        "bvid": "BV1nigG6YE7B",
-        "author": "上班族的便当",
-        "duration": "7:56",
-        "cover": "//i1.hdslb.com/bfs/archive/9d14525cb92a8105c16c2c266ea20bd42e16fcb4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nigG6YE7B&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "复刻龙餐馆同款龙抬头徐福烩饭"
+        "description": "【经济学模拟器 v0.1】发布啦，来试试自己搭建一个供需均衡的交易市场 链接1：https://pan.quark.cn/s/d620d0d1e84a?pwd=Lta9 提取码：Lta9 链接2：https://pan.baidu.com/s/1Fs7Sb-AEOWQE5CbaUyArJg?pwd=596y 提取码: 596y 叠甲：目前依然持续开发中，可能存在 Bug，仅供学习交流使用 欢迎各位在评论区留言讨论，加入更多更有意思的经济学现象",
+        "content": "【经济学模拟器 v0.1】发布啦，来试试自己搭建一个供需均衡的交易市场 链接1：https://pan.quark.cn/s/d620d0d1e84a?pwd=Lta9 提取码：Lta9 链接2：https://pan.baidu.com/s/1Fs7Sb-AEOWQE5CbaUyArJg?pwd=596y 提取码: 596y 叠甲：目前依然持续开发中，可能存在 Bug，仅供学习交流使用 欢迎各位在评论区留言讨论，加入更多更有意思的经济学现象",
+        "bvid": "BV1qCgG6ZEtk",
+        "author": "阿周的Eureka",
+        "duration": "4:56",
+        "cover": "//i2.hdslb.com/bfs/archive/370d37052774b14d4855166b42dd7bd193ee877b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qCgG6ZEtk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主自制经济学模拟器"
       },
       {
         "title": "常州大暴雨此处南夏墅，受台风白海豚影响！",
         "url": "https://www.bilibili.com/video/BV173ud61Eyw",
         "desc": "",
-        "rank": 7,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -238,26 +222,58 @@
         "hotTitle": "直击台风白海豚风雨影响"
       },
       {
-        "title": "韦布望远镜在银河系中心黑洞附近发现水和尘埃",
-        "url": "https://www.bilibili.com/video/BV1cvgG6PEhA",
+        "title": "沈腾拿奖？年度神作？这部电影后劲太大，看完直呼够味儿！《欢迎来龙餐馆》【以片概全】",
+        "url": "https://www.bilibili.com/video/BV1gjgG6jEPo",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "在今年暑期档的激烈竞争中，文牧野和沈腾合作的新片搞了一次突然袭击——临时定档、极速上映，可票房和口碑却稳得相当扎实。 这是一部相当独特的电影。虽然故事背景设定在中东，会让观众有些许疏离感，但以中国人视角看待外部纷争这一点，反倒能让观众眼前一亮。 总之我个人看完很喜欢，所以本期【以片概全】跟大家聊聊。",
+        "content": "在今年暑期档的激烈竞争中，文牧野和沈腾合作的新片搞了一次突然袭击——临时定档、极速上映，可票房和口碑却稳得相当扎实。 这是一部相当独特的电影。虽然故事背景设定在中东，会让观众有些许疏离感，但以中国人视角看待外部纷争这一点，反倒能让观众眼前一亮。 总之我个人看完很喜欢，所以本期【以片概全】跟大家聊聊。",
+        "bvid": "BV1gjgG6jEPo",
+        "author": "小片片说大片",
+        "duration": "9:51",
+        "cover": "//i2.hdslb.com/bfs/archive/a0c6355496425b2248ce5ffcd0f16cd58eb5a6e7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gjgG6jEPo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "小片片聊欢迎来龙餐馆"
+      },
+      {
+        "title": "《欢迎来龙餐馆》里的龙抬头和烩饭，究竟什么味？！",
+        "url": "https://www.bilibili.com/video/BV1nigG6YE7B",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "新华社巴黎8月11日电（记者罗毓）欧洲航天局11日在官网发布公报说，一个国际天文学家团队通过分析美国詹姆斯·韦布空间望远镜2025年的观测数据发现，在银河系中心超大质量黑洞附近一颗处于演化晚期的恒星周围存在水和富氧尘埃。这一发现表明，即使处于强烈辐射环境中，演化晚期的恒星仍可持续向周围空间释放形成恒星和行星所需的物质。 研究团队此次重点观测的是恒星IRS 3，它距离银河系中心超大质量黑洞人马座A*仅约0.55光年，是银河系中心最明亮的中红外辐射源之一。IRS 3已进入生命接近末期的一个演化阶段，在这个被",
-        "content": "新华社巴黎8月11日电（记者罗毓）欧洲航天局11日在官网发布公报说，一个国际天文学家团队通过分析美国詹姆斯·韦布空间望远镜2025年的观测数据发现，在银河系中心超大质量黑洞附近一颗处于演化晚期的恒星周围存在水和富氧尘埃。这一发现表明，即使处于强烈辐射环境中，演化晚期的恒星仍可持续向周围空间释放形成恒星和行星所需的物质。 研究团队此次重点观测的是恒星IRS 3，它距离银河系中心超大质量黑洞人马座A*仅约0.55光年，是银河系中心最明亮的中红外辐射源之一。IRS 3已进入生命接近末期的一个演化阶段，在这个被",
-        "bvid": "BV1cvgG6PEhA",
-        "author": "新华社",
-        "duration": "0:30",
-        "cover": "//i2.hdslb.com/bfs/archive/42b428d5cba39fb5fbae0a874490d2f857686226.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cvgG6PEhA&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "银河系中心黑洞附近发现水和尘埃"
+        "description": "看完沈腾《欢迎来龙餐馆》火速来复刻同款“龙抬头”和“徐福烩饭”，震撼美味！！吃完才能治愈我看完电影的心情，咱们都要好好吃饭ღ( ´･ᴗ･` )！",
+        "content": "看完沈腾《欢迎来龙餐馆》火速来复刻同款“龙抬头”和“徐福烩饭”，震撼美味！！吃完才能治愈我看完电影的心情，咱们都要好好吃饭ღ( ´･ᴗ･` )！",
+        "bvid": "BV1nigG6YE7B",
+        "author": "上班族的便当",
+        "duration": "7:56",
+        "cover": "//i1.hdslb.com/bfs/archive/9d14525cb92a8105c16c2c266ea20bd42e16fcb4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nigG6YE7B&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "复刻龙餐馆同款龙抬头徐福烩饭"
+      },
+      {
+        "title": "开源一个插件，把 YouTube 长视频变成中文学习资料",
+        "url": "https://www.bilibili.com/video/BV1dnuq6dEak",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "YouTube Digest 是我做的一个开源的浏览器插件，支持获取 YouTube 视频的逐字稿、把逐字稿翻译成中文、解释术语、章节和金句提取、笔记等等功能，欢迎大家使用 + 二创～ 这也是一个很好的 vibe coding 上手项目！ 项目链接：https://github.com/zarazhangrui/youtube-digest 粉丝群入口：http://zarazhang.com/group",
+        "content": "YouTube Digest 是我做的一个开源的浏览器插件，支持获取 YouTube 视频的逐字稿、把逐字稿翻译成中文、解释术语、章节和金句提取、笔记等等功能，欢迎大家使用 + 二创～ 这也是一个很好的 vibe coding 上手项目！ 项目链接：https://github.com/zarazhangrui/youtube-digest 粉丝群入口：http://zarazhang.com/group",
+        "bvid": "BV1dnuq6dEak",
+        "author": "张咋啦Zara",
+        "duration": "7:19",
+        "cover": "//i2.hdslb.com/bfs/archive/81124a0d35b8552d125184c093aec7487acc9d33.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dnuq6dEak&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP开源新插件 学习神器加一"
       },
       {
         "title": "30岁无儿无女，一个人在家看我的前半生笑住院了 我的前半生详解P1",
         "url": "https://www.bilibili.com/video/BV1aku361Esu",
         "desc": "",
-        "rank": 9,
+        "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "新系列开启啦！",
@@ -270,26 +286,26 @@
         "hotTitle": "我的前半生为何再次翻红"
       },
       {
-        "title": "河南暴雨仍在持续，会不会打破历史记录？",
-        "url": "https://www.bilibili.com/video/BV1P3gV6zE54",
+        "title": "【2026VCTCN第二赛段】8月11日 JDG vs EDG",
+        "url": "https://www.bilibili.com/video/BV111uq6zEXL",
         "desc": "",
-        "rank": 10,
+        "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "河南的猛烈暴雨已经下了两天了。有读者问科普航，这次河南暴雨为啥这么大，还要下多久，会不会成为破纪录的极端暴雨？ 首先，这次河南的暴雨的确非常大，河南黄河以南地区是普降大暴雨，洛阳、郑州、平顶山、许昌、漯河、周口、南阳七个地级市都出现了特大暴雨，最大24小时雨量在叶县，达到了356.9毫米，远远超出特大暴雨标准。而且这场雨范围极广，截至8月12日早上，大暴雨范围已经超过了2.4万平方公里，接近2021年7月720暴雨的大暴雨范围，也接近1975年758暴雨的大暴雨范围。 这场暴雨毫无疑问是台风白海豚引起。8",
-        "content": "河南的猛烈暴雨已经下了两天了。有读者问科普航，这次河南暴雨为啥这么大，还要下多久，会不会成为破纪录的极端暴雨？ 首先，这次河南的暴雨的确非常大，河南黄河以南地区是普降大暴雨，洛阳、郑州、平顶山、许昌、漯河、周口、南阳七个地级市都出现了特大暴雨，最大24小时雨量在叶县，达到了356.9毫米，远远超出特大暴雨标准。而且这场雨范围极广，截至8月12日早上，大暴雨范围已经超过了2.4万平方公里，接近2021年7月720暴雨的大暴雨范围，也接近1975年758暴雨的大暴雨范围。 这场暴雨毫无疑问是台风白海豚引起。8",
-        "bvid": "BV1P3gV6zE54",
-        "author": "中气爱科普航",
-        "duration": "1:47",
-        "cover": "//i1.hdslb.com/bfs/archive/93f7a94cea668c83b0f8b76863ad4c89e3e7d7dc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1P3gV6zE54&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "河南暴雨还要下多久"
+        "description": "【2026VCTCN第二赛段】8月11日 JDG vs EDG",
+        "content": "【2026VCTCN第二赛段】8月11日 JDG vs EDG",
+        "bvid": "BV111uq6zEXL",
+        "author": "无畏契约赛事",
+        "duration": "128:49",
+        "cover": "//i2.hdslb.com/bfs/archive/92c0d706dec4712495bd22e356af53a5100c0ab6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV111uq6zEXL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "EDG vs AL LPL第三赛段"
       },
       {
         "title": "《影之刃零》预购开启，11分钟实机预告公开",
         "url": "https://www.bilibili.com/video/BV1Hmuv68EWW",
         "desc": "",
-        "rank": 11,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "《影之刃零》现已在Steam等各大平台开启预购！ 各平台国区统一售价：数字标准版268元，数字豪华版328元，豪华版及预购特典内容请见视频最后。 甄子丹自2023年起担任《影之刃零》监制，并为“暗魔天堡之主：魔渊”进行面捕及动捕。甄家班深度参与了游戏的研发工作，我们深感荣幸，在此表示衷心感谢！ 更多信息可关注我们各平台官方社媒@影之刃零 或前往官网",
@@ -300,22 +316,6 @@
         "cover": "//i1.hdslb.com/bfs/archive/b9dd5e0997a003c8abde2d48651191e90f03ac01.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Hmuv68EWW&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "影之刃零11分钟最新实机"
-      },
-      {
-        "title": "【2026LPL第三赛段】8月12日 EDG vs AL",
-        "url": "https://www.bilibili.com/video/BV1dSg56aEfh",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【2026LPL第三赛段】8月12日 EDG vs AL",
-        "content": "【2026LPL第三赛段】8月12日 EDG vs AL",
-        "bvid": "BV1dSg56aEfh",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "134:56",
-        "cover": "//i0.hdslb.com/bfs/archive/4d62da934e9fbdcd06bcdb1ede3c7a7e3638501b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dSg56aEfh&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "EDG vs AL LPL第三赛段"
       },
       {
         "title": "【2026KPL夏季赛】8月12日 济南RW侠 VS 上海EDG.M",
@@ -334,58 +334,26 @@
         "hotTitle": "EDG.M战胜济南RW侠 KPL"
       },
       {
-        "title": "无畏契约手游【千灵华绽】CG 首发",
-        "url": "https://www.bilibili.com/video/BV1XUui6mERi",
+        "title": "【高下立判】TEC 2-1 AG，联赛前四无一幸免，体坛不斩无名之辈！ 高锐琦三图三个位置砍下62杀+15憾负",
+        "url": "https://www.bilibili.com/video/BV1FCg56iEM8",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "玉莲初绽盈盈芳蕊，花潮铺展烂漫盛景 ——【千灵华绽】系列皮肤将于8月16日8:00上架主打商店！",
-        "content": "玉莲初绽盈盈芳蕊，花潮铺展烂漫盛景 ——【千灵华绽】系列皮肤将于8月16日8:00上架主打商店！",
-        "bvid": "BV1XUui6mERi",
-        "author": "无畏契约手游",
-        "duration": "1:47",
-        "cover": "//i2.hdslb.com/bfs/archive/a90c11b8ba3362f1b56fcf0d20731b475c811310.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XUui6mERi&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "无畏契约手游千灵华绽"
-      },
-      {
-        "title": "王宝强获得0票，易烊千玺获得影帝，百花奖成功变成杂草奖！",
-        "url": "https://www.bilibili.com/video/BV1vHuv67Eos",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1vHuv67Eos",
-        "author": "我就是我祖国的小花朵",
-        "duration": "5:32",
-        "cover": "//i0.hdslb.com/bfs/archive/ebc05258203e6d92c5eb5c1b6d2f585fcb32cad3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vHuv67Eos&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "百花奖票数结果争议盘点"
-      },
-      {
-        "title": "TEC连斩伦敦三杰进季后赛！EDG明日生死战对阵JDG【奶爸侃瓦386】",
-        "url": "https://www.bilibili.com/video/BV1Z5uZ6nEEF",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Z5uZ6nEEF",
-        "author": "解说奶爸",
-        "duration": "6:24",
-        "cover": "//i2.hdslb.com/bfs/archive/90edc16b56b35835055f6cfd50969eeb96bf16d0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z5uZ6nEEF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AG vs TEC VCT第二赛段"
+        "bvid": "BV1FCg56iEM8",
+        "author": "小徐还在绕",
+        "duration": "2:56",
+        "cover": "//i1.hdslb.com/bfs/archive/34bcdd89175922e411e178600f991e228f32f5d6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FCg56iEM8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TEC战胜AG VCT第二赛段"
       },
       {
         "title": "恶心套路？情绪共振！细节夯爆！观众比男主先爱上女主！《花开锦绣》",
         "url": "https://www.bilibili.com/video/BV1mwuz62EPy",
         "desc": "",
-        "rank": 17,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "《花开锦绣》首播反馈，可以冲！",
@@ -398,10 +366,58 @@
         "hotTitle": "新剧花开锦绣好看吗"
       },
       {
+        "title": "多 玲 国",
+        "url": "https://www.bilibili.com/video/BV1Zmuk6kExf",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "好久没有做这种多语配音了，因为很多粉丝宝贝都点了，所以做一下吧 这是人肉配音，没有AI呢",
+        "content": "好久没有做这种多语配音了，因为很多粉丝宝贝都点了，所以做一下吧 这是人肉配音，没有AI呢",
+        "bvid": "BV1Zmuk6kExf",
+        "author": "咪Mirror肉",
+        "duration": "2:5",
+        "cover": "//i0.hdslb.com/bfs/archive/bb9911175e1803ebabc0ade08a8ff464bc123f18.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Zmuk6kExf&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "谁是凌玲多国语言版"
+      },
+      {
+        "title": "《影之刃零》：甄子丹？就这？【印象】",
+        "url": "https://www.bilibili.com/video/BV171gG64EHq",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV171gG64EHq",
+        "author": "智能路障",
+        "duration": "10:20",
+        "cover": "//i0.hdslb.com/bfs/archive/312d558b74cbdfd09e68c9ef1a06ba3f6036a19f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV171gG64EHq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主谈甄子丹监制影之刃零"
+      },
+      {
+        "title": "⚡泥 肘⚡",
+        "url": "https://www.bilibili.com/video/BV1TiuZ6TEQw",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "我也不知道我在剪啥",
+        "content": "我也不知道我在剪啥",
+        "bvid": "BV1TiuZ6TEQw",
+        "author": "污污云",
+        "duration": "1:35",
+        "cover": "//i1.hdslb.com/bfs/archive/403bf5f6d04aef4895b8f430744e2e18e5700872.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TiuZ6TEQw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "这盘棋分明是老叟戏顽童"
+      },
+      {
         "title": "预制奖，名利场，大众电影百花奖，大众不发音。",
         "url": "https://www.bilibili.com/video/BV1Zuuy67Ef1",
         "desc": "",
-        "rank": 18,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -417,7 +433,7 @@
         "title": "全面深扒《中餐厅》：职场遇到张雅琪，你能挺到第几关？",
         "url": "https://www.bilibili.com/video/BV15quC6gEtJ",
         "desc": "",
-        "rank": 19,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "说真的，职场里真遇到这样的同事是真的觉得要完damn了！ 如果你也喜欢本期视频，就请给我们个一键三连吧！ 微博关注@话很多的小姐姐们，来和我们吹夸夸鸭~",
@@ -430,90 +446,42 @@
         "hotTitle": "深度拆解张雅琪中餐厅表现"
       },
       {
-        "title": "⚡泥 肘⚡",
-        "url": "https://www.bilibili.com/video/BV1TiuZ6TEQw",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "我也不知道我在剪啥",
-        "content": "我也不知道我在剪啥",
-        "bvid": "BV1TiuZ6TEQw",
-        "author": "污污云",
-        "duration": "1:35",
-        "cover": "//i1.hdslb.com/bfs/archive/403bf5f6d04aef4895b8f430744e2e18e5700872.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TiuZ6TEQw&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "这盘棋分明是老叟戏顽童"
-      },
-      {
-        "title": "【方舟实战论143】这就是元老的归来！机制强大，数值强大，安洁还在向上！丨予愿安洁莉娜",
-        "url": "https://www.bilibili.com/video/BV1rqu66kE3z",
+        "title": "诺兰2.5亿巨制！看懂奥德赛",
+        "url": "https://www.bilibili.com/video/BV1qnuq6dEga",
         "desc": "",
         "rank": 21,
         "kind": "video",
         "platform": "bilibili",
-        "description": "予愿安洁莉娜：啊，家——我回来啦！这次一定要多待几天！ BGM：Falcom Sound Team jdk - Sophisticated Fight、 Wind-Up Yesterday!、螺旋要塞メルセデク 塞壬唱片- 秋绪、直到大地变成一颗酸橙 数据资料来源：prts.wiki",
-        "content": "予愿安洁莉娜：啊，家——我回来啦！这次一定要多待几天！ BGM：Falcom Sound Team jdk - Sophisticated Fight、 Wind-Up Yesterday!、螺旋要塞メルセデク 塞壬唱片- 秋绪、直到大地变成一颗酸橙 数据资料来源：prts.wiki",
-        "bvid": "BV1rqu66kE3z",
-        "author": "二色彩虹",
-        "duration": "16:52",
-        "cover": "//i1.hdslb.com/bfs/archive/6331eae34c8d5987971cd5f81a1cd85f5bc05bb9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rqu66kE3z&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "明日方舟予愿安洁莉娜实战论"
+        "description": "诺兰的史诗新作《奥德赛》终于上映了！ 面对三千年前的宏大文本、拗口的古希腊译名，以及错综复杂的阵营， 可能有些朋友会担心门槛太高 别担心！ 看电影，我们《有备而来》 本期映前导览 我们将用「不剧透」的方式 把那些进影院前最需要了解的设定，为你一次性梳理明白 帮你轻装上阵，一遍看懂这部近三个小时的巨制 喜欢这期的话，别忘了点赞、收藏、分享 你的支持对我们非常重要 如果你身边也有打算去看《奥德赛》的朋友 欢迎把这个视频分享给TA哦~ 祝大家观影愉快！",
+        "content": "诺兰的史诗新作《奥德赛》终于上映了！ 面对三千年前的宏大文本、拗口的古希腊译名，以及错综复杂的阵营， 可能有些朋友会担心门槛太高 别担心！ 看电影，我们《有备而来》 本期映前导览 我们将用「不剧透」的方式 把那些进影院前最需要了解的设定，为你一次性梳理明白 帮你轻装上阵，一遍看懂这部近三个小时的巨制 喜欢这期的话，别忘了点赞、收藏、分享 你的支持对我们非常重要 如果你身边也有打算去看《奥德赛》的朋友 欢迎把这个视频分享给TA哦~ 祝大家观影愉快！",
+        "bvid": "BV1qnuq6dEga",
+        "author": "木鱼水心",
+        "duration": "25:40",
+        "cover": "//i2.hdslb.com/bfs/archive/a5054769e6a1b99ff9488f22cfd8274688e13427.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qnuq6dEga&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何看懂奥德赛"
       },
       {
-        "title": "关店428家！败走日本，折戟越南，雪王出海为什么“水土不服”？",
-        "url": "https://www.bilibili.com/video/BV1Jog36FEYd",
+        "title": "无畏契约手游【千灵华绽】CG 首发",
+        "url": "https://www.bilibili.com/video/BV1XUui6mERi",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
-        "description": "出海就是“二次创业”",
-        "content": "出海就是“二次创业”",
-        "bvid": "BV1Jog36FEYd",
-        "author": "财经不眠姐",
-        "duration": "10:52",
-        "cover": "//i0.hdslb.com/bfs/archive/7154e56b8c0c010f46afb7e48974c14d47ecb88d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Jog36FEYd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "雪王出海为什么水土不服"
-      },
-      {
-        "title": "《原神》角色预告-「奥黛塔：天真的挽歌」",
-        "url": "https://www.bilibili.com/video/BV1sxui6eEGH",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "道别吧，向温暖的炉火与窗畔的梦致歉。 因你将行的路，指向那冷白的晨霜。 中文CV： 奥黛塔——潘丹妮 日文CV： 奥黛塔——上坂堇 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
-        "content": "道别吧，向温暖的炉火与窗畔的梦致歉。 因你将行的路，指向那冷白的晨霜。 中文CV： 奥黛塔——潘丹妮 日文CV： 奥黛塔——上坂堇 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
-        "bvid": "BV1sxui6eEGH",
-        "author": "原神",
-        "duration": "10:18",
-        "cover": "//i2.hdslb.com/bfs/archive/c45b3c81c78f89d67348e65abe761e6ed3ee6021.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sxui6eEGH&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "原神奥黛塔角色预告"
-      },
-      {
-        "title": "8.11闹麻了！王宝强0票！影视寒冬就受着呗！百花奖无敌了！",
-        "url": "https://www.bilibili.com/video/BV129ua6ZEFf",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV129ua6ZEFf",
-        "author": "最新情报局",
-        "duration": "1:26",
-        "cover": "//i2.hdslb.com/bfs/archive/494945a6b44b9f0550a7fd7608aeacd03bdcd6c9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV129ua6ZEFf&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "百花奖获奖名单公布"
+        "description": "玉莲初绽盈盈芳蕊，花潮铺展烂漫盛景 ——【千灵华绽】系列皮肤将于8月16日8:00上架主打商店！",
+        "content": "玉莲初绽盈盈芳蕊，花潮铺展烂漫盛景 ——【千灵华绽】系列皮肤将于8月16日8:00上架主打商店！",
+        "bvid": "BV1XUui6mERi",
+        "author": "无畏契约手游",
+        "duration": "1:47",
+        "cover": "//i2.hdslb.com/bfs/archive/a90c11b8ba3362f1b56fcf0d20731b475c811310.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XUui6mERi&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "无畏契约手游千灵华绽"
       },
       {
         "title": "带张伟丽姐自律的一天！",
         "url": "https://www.bilibili.com/video/BV1vZud6VEYo",
         "desc": "",
-        "rank": 25,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -526,74 +494,42 @@
         "hotTitle": "花小龙带张伟丽自律的一天"
       },
       {
-        "title": "在非洲，我和死亡只隔了一扇车窗……",
-        "url": "https://www.bilibili.com/video/BV1KUuz6jEPM",
+        "title": "龙餐馆：中国人不能只做厨子",
+        "url": "https://www.bilibili.com/video/BV1SmuC6aERV",
         "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "在一起的第七年，这是我们解锁的第七个大洲——非洲！为了去记录这片草原上传奇的生命，也为了去寻找比时间更持久的东西，我们带上了vivo X300 Ultra专业V单，去寻找鼎鼎有名的“非洲五霸”。这期的【清单人生】，我们将会给大家带来一个关于非洲的故事，一个关于Safari（游猎旅行）的故事。",
-        "content": "在一起的第七年，这是我们解锁的第七个大洲——非洲！为了去记录这片草原上传奇的生命，也为了去寻找比时间更持久的东西，我们带上了vivo X300 Ultra专业V单，去寻找鼎鼎有名的“非洲五霸”。这期的【清单人生】，我们将会给大家带来一个关于非洲的故事，一个关于Safari（游猎旅行）的故事。",
-        "bvid": "BV1KUuz6jEPM",
-        "author": "小鹿Lawrence",
-        "duration": "39:8",
-        "cover": "//i0.hdslb.com/bfs/archive/50289114e929c019f8ce23e796fc854b40b858fd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KUuz6jEPM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "小鹿探索非洲草原传奇生命"
-      },
-      {
-        "title": "投票儿戏，颁奖预制，大众百花奖彻底沦为小众自嗨！",
-        "url": "https://www.bilibili.com/video/BV1qnuq6dE4L",
-        "desc": "",
-        "rank": 27,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1qnuq6dE4L",
-        "author": "降B_大调",
-        "duration": "5:33",
-        "cover": "//i0.hdslb.com/bfs/archive/a015392eabe3b70895990974980ef1ec2b1208a0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qnuq6dE4L&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大众百花奖争议盘点"
+        "bvid": "BV1SmuC6aERV",
+        "author": "平原公子",
+        "duration": "8:16",
+        "cover": "//i1.hdslb.com/bfs/archive/5afa4077b6c679f62c1083aff3539e445cd185a9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SmuC6aERV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "龙餐馆 现实比电影更残酷"
       },
       {
-        "title": "【堂主】连续372天马拉松，体检结果把格教练看傻了！",
-        "url": "https://www.bilibili.com/video/BV1Wruy6xEQc",
+        "title": "字母哥现身EWC！各选手预热动态！",
+        "url": "https://www.bilibili.com/video/BV1gKuC6hEWT",
         "desc": "",
-        "rank": 28,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Wruy6xEQc",
-        "author": "CoachGreg格教练",
-        "duration": "13:31",
-        "cover": "//i0.hdslb.com/bfs/archive/48ec5d3395ca3d7e289ca5d71eb73c32b4e0168f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wruy6xEQc&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "格教练点评堂主年马破纪录"
-      },
-      {
-        "title": "沈腾拿奖？年度神作？这部电影后劲太大，看完直呼够味儿！《欢迎来龙餐馆》【以片概全】",
-        "url": "https://www.bilibili.com/video/BV1gjgG6jEPo",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "在今年暑期档的激烈竞争中，文牧野和沈腾合作的新片搞了一次突然袭击——临时定档、极速上映，可票房和口碑却稳得相当扎实。 这是一部相当独特的电影。虽然故事背景设定在中东，会让观众有些许疏离感，但以中国人视角看待外部纷争这一点，反倒能让观众眼前一亮。 总之我个人看完很喜欢，所以本期【以片概全】跟大家聊聊。",
-        "content": "在今年暑期档的激烈竞争中，文牧野和沈腾合作的新片搞了一次突然袭击——临时定档、极速上映，可票房和口碑却稳得相当扎实。 这是一部相当独特的电影。虽然故事背景设定在中东，会让观众有些许疏离感，但以中国人视角看待外部纷争这一点，反倒能让观众眼前一亮。 总之我个人看完很喜欢，所以本期【以片概全】跟大家聊聊。",
-        "bvid": "BV1gjgG6jEPo",
-        "author": "小片片说大片",
-        "duration": "9:51",
-        "cover": "//i2.hdslb.com/bfs/archive/a0c6355496425b2248ce5ffcd0f16cd58eb5a6e7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gjgG6jEPo&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "小片片聊欢迎来龙餐馆"
+        "bvid": "BV1gKuC6hEWT",
+        "author": "CS2万事屋",
+        "duration": "1:11",
+        "cover": "//i1.hdslb.com/bfs/archive/5f2a736776a27851f024c8978d710e506917ce52.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gKuC6hEWT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "字母哥现身EWC"
       },
       {
         "title": "分析下新老同人环境的异同",
         "url": "https://www.bilibili.com/video/BV1NNuz61E2e",
         "desc": "",
-        "rank": 30,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "本视频为【bilibili次元论战S3】活动杂谈圆桌稿件，所属主题是“同人文化”，还有这些up主也参与了该主题讨论，欢迎大家观看： @amuro1985 @魔卡少女君 BV1iJuq64EZD @京剧猫猫民中心 BV1Asui6NEqC 如果你也对该主题感兴趣，带上圆桌tag词“同人文化”即刻投稿加入圆桌讨论吧>>> https://www.bilibili.com/blackboard/era/ACGRoundtableS3.html 为感谢大家对次元论战稿件的支持，若本视频有效评论超过100条，我",
@@ -604,6 +540,70 @@
         "cover": "//i1.hdslb.com/bfs/archive/31b5289f2929367ef9213aef2c7be48ce3370083.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NNuz61E2e&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "新老同人环境的异同"
+      },
+      {
+        "title": "【方舟实战论143】这就是元老的归来！机制强大，数值强大，安洁还在向上！丨予愿安洁莉娜",
+        "url": "https://www.bilibili.com/video/BV1rqu66kE3z",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "予愿安洁莉娜：啊，家——我回来啦！这次一定要多待几天！ BGM：Falcom Sound Team jdk - Sophisticated Fight、 Wind-Up Yesterday!、螺旋要塞メルセデク 塞壬唱片- 秋绪、直到大地变成一颗酸橙 数据资料来源：prts.wiki",
+        "content": "予愿安洁莉娜：啊，家——我回来啦！这次一定要多待几天！ BGM：Falcom Sound Team jdk - Sophisticated Fight、 Wind-Up Yesterday!、螺旋要塞メルセデク 塞壬唱片- 秋绪、直到大地变成一颗酸橙 数据资料来源：prts.wiki",
+        "bvid": "BV1rqu66kE3z",
+        "author": "二色彩虹",
+        "duration": "16:52",
+        "cover": "//i1.hdslb.com/bfs/archive/6331eae34c8d5987971cd5f81a1cd85f5bc05bb9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rqu66kE3z&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "明日方舟予愿安洁莉娜实战论"
+      },
+      {
+        "title": "《异环》残虹角色PV丨惑心谲影",
+        "url": "https://www.bilibili.com/video/BV1y1uq6zEud",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "「这世界并非只有光鲜的一面，在属于弱肉强食的阴影里，曾有许多双眼睛觊觎着伊南娜的财富。」 「而我所做的，就是将她的对手清理干净……当然，大多也是她的同类。」 静谧的庄园里，一支佣兵小队趁着夜色悄然潜入，一场针对庄园主人的猎杀即将开始。 然而，刀口舔血的猎手们全然不知……在她的猎场里，他们才是猎物。",
+        "content": "「这世界并非只有光鲜的一面，在属于弱肉强食的阴影里，曾有许多双眼睛觊觎着伊南娜的财富。」 「而我所做的，就是将她的对手清理干净……当然，大多也是她的同类。」 静谧的庄园里，一支佣兵小队趁着夜色悄然潜入，一场针对庄园主人的猎杀即将开始。 然而，刀口舔血的猎手们全然不知……在她的猎场里，他们才是猎物。",
+        "bvid": "BV1y1uq6zEud",
+        "author": "异环",
+        "duration": "17:5",
+        "cover": "//i0.hdslb.com/bfs/archive/8071261c0aedeb6b97912c65930d2e92b1012f27.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1y1uq6zEud&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "异环残虹角色PV"
+      },
+      {
+        "title": "关店428家！败走日本，折戟越南，雪王出海为什么“水土不服”？",
+        "url": "https://www.bilibili.com/video/BV1Jog36FEYd",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "出海就是“二次创业”",
+        "content": "出海就是“二次创业”",
+        "bvid": "BV1Jog36FEYd",
+        "author": "财经不眠姐",
+        "duration": "10:52",
+        "cover": "//i0.hdslb.com/bfs/archive/7154e56b8c0c010f46afb7e48974c14d47ecb88d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Jog36FEYd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "雪王出海为什么水土不服"
+      },
+      {
+        "title": "王宝强获得0票，易烊千玺获得影帝，百花奖成功变成杂草奖！",
+        "url": "https://www.bilibili.com/video/BV1vHuv67Eos",
+        "desc": "",
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1vHuv67Eos",
+        "author": "我就是我祖国的小花朵",
+        "duration": "5:32",
+        "cover": "//i0.hdslb.com/bfs/archive/ebc05258203e6d92c5eb5c1b6d2f585fcb32cad3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vHuv67Eos&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "百花奖票数结果争议盘点"
       }
     ],
     "qbitai": [
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "诚志股份：上半年净利润2.9亿元，同比增长1416.23%",
+        "url": "https://m.36kr.com/newsflashes/3936468222262663",
+        "desc": "36氪获悉，诚志股份公告，2026年上半年实现营业收入61.47亿元，同比增长2.77%；归属于上市公司股东的净利润2.9亿元，上年同期1912.56万元，同比增长1416.23%；基本每股收益0.2381元/股。报告期内，公司业绩主要受到清洁能源业务和化工新材料业务两大核心板块盈利协同改善的影响。",
+        "cover": "",
+        "date": 1786535541000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "7连板百花医药：不涉及创新药研发 控股股东无未来36个月内进行重大资产重组计划或安排",
         "url": "https://m.36kr.com/newsflashes/3936448889077125",
         "desc": "36氪获悉，百花医药发布股票交易严重异常波动暨风险提示公告，公司是以小分子化学仿制药研发为主的CRO企业，不涉及创新药研发。公司主营业务未发生重大变化，市场环境、行业政策没有发生重大调整，股价短期内连续上涨，股价涨幅与公司经营情况严重偏离。公司控制权变更事项已于2026年6月9日完成股权交割事项，公司控股股东已变更为金华聚新，公司实际控制人已变更为金华市国资委。根据详式权益变动报告，控股股东无在未来36个月内对上市公司及其控股子公司进行重大资产重组的明确计划或安排。",
@@ -947,7 +957,7 @@
         "date": 1786534786000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "招商轮船：拟取得安通控股控制权",
@@ -957,7 +967,7 @@
         "date": 1786534501000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "文远知行上半年总营收3.5亿元，同比增长73%",
@@ -967,7 +977,7 @@
         "date": 1786534143000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "巨轮智能：2025年RV减速器销售收入837.03万元，占营业收入1%",
@@ -977,7 +987,7 @@
         "date": 1786533844000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "频准激光：科创板IPO发行价格186.88元/股",
@@ -987,7 +997,7 @@
         "date": 1786533641000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "李宁公司否认签约姆巴佩",
@@ -997,7 +1007,7 @@
         "date": 1786533369064,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "纽约市议会宣布将针对预测交易平台的营销策略展开调查",
@@ -1007,7 +1017,7 @@
         "date": 1786533342000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "中光防雷：2026年上半年净利润1204.79万元，同比增长12.82%",
@@ -1017,7 +1027,7 @@
         "date": 1786532938000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "央行：下半年投资仍有较大增长空间",
@@ -1027,7 +1037,7 @@
         "date": 1786532717794,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "丰林集团：累计回购股份占总股本2.06% 金额达5226.26万元",
@@ -1037,7 +1047,7 @@
         "date": 1786532598000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "浦发银行：2026年半年度净利润309.51亿元，同比增长4.08%",
@@ -1047,7 +1057,7 @@
         "date": 1786532282000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "紫金矿业：2026年中期A股每股派发现金红利0.42元",
@@ -1057,7 +1067,7 @@
         "date": 1786532063000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "Kalshi年化营收突破40亿美元，新一轮融资目标估值4000亿美元",
@@ -1067,7 +1077,7 @@
         "date": 1786531758000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "硕贝德：拟定增募资不超10.96亿元，用于服务器散热模组等项目",
@@ -1077,7 +1087,7 @@
         "date": 1786531583952,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "2026暑期档票房破90亿",
@@ -1087,7 +1097,7 @@
         "date": 1786531169000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "央行：重点支持数字经济、人工智能、消费基础设施，以及交通、能源、地下管网建设改造等城市更新领域",
@@ -1097,7 +1107,7 @@
         "date": 1786531045454,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "央行：继续实施股票回购增持再贷款",
@@ -1107,7 +1117,7 @@
         "date": 1786530975028,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "央行：平稳有序推动货币政策操作框架改革完善",
@@ -1117,7 +1127,7 @@
         "date": 1786530937800,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "央行：淡化对贷款这个单一融资渠道的关注，把贷款和债券融资等合并观察",
@@ -1127,25 +1137,15 @@
         "date": 1786530914434,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "翰宇药业：与三生蔓迪签署司美格鲁肽注射液（血糖控制适应症）合作协议",
-        "url": "https://m.36kr.com/newsflashes/3936395988712840",
-        "desc": "36氪获悉，翰宇药业公告，公司与三生蔓迪签署司美格鲁肽注射液（血糖控制适应症）合作协议，授予三生蔓迪在中国区域（中国大陆、香港、澳门）的独占商业化许可。合作财务条款包括签约首付款1200万元、注册及商业化里程碑付款以及销售提成。本次合作将深化双方在GLP-1类多肽药物领域的布局，对公司未来经营业绩产生积极影响。",
-        "cover": "",
-        "date": 1786530900000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786534862655,
-    "bilibili": 1786533413084,
-    "qbitai": 1786534886877,
-    "36kr": 1786534887302
+    "thepaper": 1786535762626,
+    "bilibili": 1786535770930,
+    "qbitai": 1786535793420,
+    "36kr": 1786535793832
   },
   "failures": {}
 }
