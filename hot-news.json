@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T01:41:22Z",
+  "updatedAt": "2026-08-12T02:56:22Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -10,38 +10,38 @@
         "rank": 1
       },
       {
+        "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33759913",
+        "desc": "",
+        "rank": 2
+      },
+      {
         "title": "武汉市民政局通报“男子遗体滞留太平间十二年”：开展全面调查核实，将依法依规处理",
         "url": "https://www.thepaper.cn/newsDetail_forward_33759939",
         "desc": "",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "部分博物馆出现停电、空调瘫痪等情况，国家文物局发布紧急通知",
         "url": "https://www.thepaper.cn/newsDetail_forward_33761589",
         "desc": "",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "澎湃回声｜山西省文物局回应“明城墙遭拆旧建新”：正调查，国家文物局已关注",
         "url": "https://www.thepaper.cn/newsDetail_forward_33758609",
         "desc": "",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
         "url": "https://www.thepaper.cn/newsDetail_forward_33710549",
         "desc": "",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "国少主帅浮嶋敏点破青训实情：中国球员天赋不差，差的是这个",
         "url": "https://www.thepaper.cn/newsDetail_forward_33756321",
-        "desc": "",
-        "rank": 6
-      },
-      {
-        "title": "“美个朋友”社交平台被控借女主播诈骗3.2亿元案将恢复庭审",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33757123",
         "desc": "",
         "rank": 7
       },
@@ -70,8 +70,8 @@
         "rank": 11
       },
       {
-        "title": "俄军发射弹道导弹数量翻倍，空袭策略改变让乌军“破防”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33754129",
+        "title": "影子调查丨失落的壁上丹青：河北蔚县古壁画遭盗窃与损毁，保护陷困境",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33682770",
         "desc": "",
         "rank": 12
       },
@@ -88,14 +88,14 @@
         "rank": 14
       },
       {
-        "title": "受贿2.61亿余元，南京市人大常委会原党组书记、主任龙翔一审被判死缓",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33759661",
+        "title": "上海书展，值得间关千里，风雨无阻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33759932",
         "desc": "",
         "rank": 15
       },
       {
-        "title": "专访｜吴谨言：观众看到了“爽”，而我看到了“痛”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33753183",
+        "title": "受贿2.61亿余元，南京市人大常委会原党组书记、主任龙翔一审被判死缓",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33759661",
         "desc": "",
         "rank": 16
       },
@@ -106,8 +106,8 @@
         "rank": 17
       },
       {
-        "title": "上海书展，值得间关千里，风雨无阻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33759932",
+        "title": "专访｜吴谨言：观众看到了“爽”，而我看到了“痛”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33753183",
         "desc": "",
         "rank": 18
       },
@@ -126,26 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "曼城决定在夏窗签下恩佐！马竞要求小蜘蛛道歉认错!（8月12日）",
-        "url": "https://www.bilibili.com/video/BV13xuy6iEKg",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "视频制作不易，还请大家记得点赞和投币，非常感 谢各位大佬的支持！ 所有的消息，都不一定是准确的，整理出来，大家 看着图一乐就行，不要太较真",
-        "content": "视频制作不易，还请大家记得点赞和投币，非常感 谢各位大佬的支持！ 所有的消息，都不一定是准确的，整理出来，大家 看着图一乐就行，不要太较真",
-        "bvid": "BV13xuy6iEKg",
-        "author": "罗马诺plus",
-        "duration": "4:53",
-        "cover": "//i1.hdslb.com/bfs/archive/fa0a7e9d962b8c783fafbd012a08f3e8a33f3f11.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13xuy6iEKg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "曝曼城决定在夏窗签下恩佐"
-      },
-      {
         "title": "回马枪来了：江浙沪皖将出现二茬雨，山河四省后东北将暴雨",
         "url": "https://www.bilibili.com/video/BV1WbuB6gEo5",
         "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "8月11日，白海豚的本体主力雨带已经进入河南、湖北。在白海豚本体雨带影响下，河南黄河以南、湖北西北部出现大范围的暴雨到大暴雨，驻马店局部雨量已经达到特大暴雨量级。而在白海豚外围水汽输送和冷空气作用下，北京、内蒙古也出现散装暴雨，其中北京顺义、延庆局部雨势非常猛烈，顺义后沙峪1小时雨量88.5毫米，达到了短时特大暴雨标准。 然而在北方暴雨开始的同时，江浙沪的暴雨并没有立即消失。8月11日浙江东部的舟山、宁海、大陈岛、温州等地再次出现猛烈暴雨，局部雨量达到大暴雨量级，上海、江苏虽然没有大暴雨，但阵雨仍然非常频",
@@ -158,26 +142,58 @@
         "hotTitle": "白海豚停编后为何还有暴雨能力"
       },
       {
-        "title": "恭喜！C罗社媒宣布与乔治娜结婚，两人今日在葡萄牙低调举行了婚礼！",
-        "url": "https://www.bilibili.com/video/BV1ESuk6GEkD",
+        "title": "《影之刃零》预购开启，11分钟实机预告公开",
+        "url": "https://www.bilibili.com/video/BV1Hmuv68EWW",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《影之刃零》现已在Steam等各大平台开启预购！ 各平台国区统一售价：数字标准版268元，数字豪华版328元，豪华版及预购特典内容请见视频最后。 甄子丹自2023年起担任《影之刃零》监制，并为“暗魔天堡之主：魔渊”进行面捕及动捕。甄家班深度参与了游戏的研发工作，我们深感荣幸，在此表示衷心感谢！ 更多信息可关注我们各平台官方社媒@影之刃零 或前往官网",
+        "content": "《影之刃零》现已在Steam等各大平台开启预购！ 各平台国区统一售价：数字标准版268元，数字豪华版328元，豪华版及预购特典内容请见视频最后。 甄子丹自2023年起担任《影之刃零》监制，并为“暗魔天堡之主：魔渊”进行面捕及动捕。甄家班深度参与了游戏的研发工作，我们深感荣幸，在此表示衷心感谢！ 更多信息可关注我们各平台官方社媒@影之刃零 或前往官网",
+        "bvid": "BV1Hmuv68EWW",
+        "author": "影之刃零",
+        "duration": "11:2",
+        "cover": "//i1.hdslb.com/bfs/archive/b9dd5e0997a003c8abde2d48651191e90f03ac01.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Hmuv68EWW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "影之刃零11分钟最新实机"
+      },
+      {
+        "title": "曼城决定在夏窗签下恩佐！马竞要求小蜘蛛道歉认错!（8月12日）",
+        "url": "https://www.bilibili.com/video/BV13xuy6iEKg",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ESuk6GEkD",
-        "author": "大鹏体育",
-        "duration": "1:1",
-        "cover": "//i0.hdslb.com/bfs/archive/f2c6ae7ab8148037d952bf74208cb9d638337d75.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ESuk6GEkD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "视频制作不易，还请大家记得点赞和投币，非常感 谢各位大佬的支持！ 所有的消息，都不一定是准确的，整理出来，大家 看着图一乐就行，不要太较真",
+        "content": "视频制作不易，还请大家记得点赞和投币，非常感 谢各位大佬的支持！ 所有的消息，都不一定是准确的，整理出来，大家 看着图一乐就行，不要太较真",
+        "bvid": "BV13xuy6iEKg",
+        "author": "罗马诺plus",
+        "duration": "4:53",
+        "cover": "//i1.hdslb.com/bfs/archive/fa0a7e9d962b8c783fafbd012a08f3e8a33f3f11.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13xuy6iEKg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "曝曼城决定在夏窗签下恩佐"
+      },
+      {
+        "title": "C 罗 结 婚 啦 ！",
+        "url": "https://www.bilibili.com/video/BV187uS67EBj",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "一个平行宇宙的美丽故事而已....",
+        "content": "一个平行宇宙的美丽故事而已....",
+        "bvid": "BV187uS67EBj",
+        "author": "阿游Kidding",
+        "duration": "7:40",
+        "cover": "//i1.hdslb.com/bfs/archive/56fd20c9bfc09a4936af83ded8cea44a4a06530b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV187uS67EBj&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "C罗宣布结婚"
       },
       {
         "title": "“人民艺术家”郭兰英逝世，缅怀！",
         "url": "https://www.bilibili.com/video/BV1Mbuy6eEQZ",
         "desc": "",
-        "rank": 4,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -190,10 +206,42 @@
         "hotTitle": "郭兰英逝世"
       },
       {
+        "title": "恶心套路？情绪共振！细节夯爆！观众比男主先爱上女主！《花开锦绣》",
+        "url": "https://www.bilibili.com/video/BV1mwuz62EPy",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《花开锦绣》首播反馈，可以冲！",
+        "content": "《花开锦绣》首播反馈，可以冲！",
+        "bvid": "BV1mwuz62EPy",
+        "author": "噬元兽影视",
+        "duration": "20:10",
+        "cover": "//i0.hdslb.com/bfs/archive/c68a53862cb9df3789fc48e5bc3c08f0b5083bc3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mwuz62EPy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "新剧花开锦绣好看吗"
+      },
+      {
+        "title": "白海豚即将撞上冷空气，河南降雨进入最强时段，什么时候才能结束？#钦天监 #河南强降雨 #河南台风雨 #河南天气 #河南特大暴雨",
+        "url": "https://www.bilibili.com/video/BV1s1uq6zE3v",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1s1uq6zE3v",
+        "author": "钦天监气象追踪",
+        "duration": "1:4",
+        "cover": "//i1.hdslb.com/bfs/archive/01843172212fd25aee8b781083734cac77686db7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1s1uq6zE3v&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "关注全国多地强降雨"
+      },
+      {
         "title": "LPL官方公布BLG对战JDG首发名单！Flandre首发出战！圣枪哥BLG首秀！Wenbo替补",
         "url": "https://www.bilibili.com/video/BV1cvuB6KEqG",
         "desc": "",
-        "rank": 5,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -209,7 +257,7 @@
         "title": "告别“人民艺术家”郭兰英 这些经典歌曲 你一定听过",
         "url": "https://www.bilibili.com/video/BV1bCur64Esd",
         "desc": "",
-        "rank": 6,
+        "rank": 9,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -222,26 +270,58 @@
         "hotTitle": "郭兰英经典作品回顾"
       },
       {
-        "title": "泰国前议员枪杀地方政府高官后，打电话给一直播节目……",
-        "url": "https://www.bilibili.com/video/BV1icui6DEwp",
+        "title": "诺兰2.5亿巨制！看懂奥德赛",
+        "url": "https://www.bilibili.com/video/BV1qnuq6dEga",
         "desc": "",
-        "rank": 7,
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "诺兰的史诗新作《奥德赛》终于上映了！ 面对三千年前的宏大文本、拗口的古希腊译名，以及错综复杂的阵营， 可能有些朋友会担心门槛太高 别担心！ 看电影，我们《有备而来》 本期映前导览 我们将用「不剧透」的方式 把那些进影院前最需要了解的设定，为你一次性梳理明白 帮你轻装上阵，一遍看懂这部近三个小时的巨制 喜欢这期的话，别忘了点赞、收藏、分享 你的支持对我们非常重要 如果你身边也有打算去看《奥德赛》的朋友 欢迎把这个视频分享给TA哦~ 祝大家观影愉快！",
+        "content": "诺兰的史诗新作《奥德赛》终于上映了！ 面对三千年前的宏大文本、拗口的古希腊译名，以及错综复杂的阵营， 可能有些朋友会担心门槛太高 别担心！ 看电影，我们《有备而来》 本期映前导览 我们将用「不剧透」的方式 把那些进影院前最需要了解的设定，为你一次性梳理明白 帮你轻装上阵，一遍看懂这部近三个小时的巨制 喜欢这期的话，别忘了点赞、收藏、分享 你的支持对我们非常重要 如果你身边也有打算去看《奥德赛》的朋友 欢迎把这个视频分享给TA哦~ 祝大家观影愉快！",
+        "bvid": "BV1qnuq6dEga",
+        "author": "木鱼水心",
+        "duration": "25:40",
+        "cover": "//i2.hdslb.com/bfs/archive/a5054769e6a1b99ff9488f22cfd8274688e13427.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qnuq6dEga&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何看懂奥德赛"
+      },
+      {
+        "title": "起猛了，《红警》里的“蜘蛛机器人”就在眼前~",
+        "url": "https://www.bilibili.com/video/BV1qZuv6XEkC",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "近日，俄罗斯武装部队第45独立炮兵旅发布了一段视频，展示了自制的“蜘蛛雷”多足机器人，它的外形与《星际争霸》中的“蜘蛛雷”或《红色警戒》中的“蜘蛛机器人”几乎如出一辙。（兵器面面观）",
+        "content": "近日，俄罗斯武装部队第45独立炮兵旅发布了一段视频，展示了自制的“蜘蛛雷”多足机器人，它的外形与《星际争霸》中的“蜘蛛雷”或《红色警戒》中的“蜘蛛机器人”几乎如出一辙。（兵器面面观）",
+        "bvid": "BV1qZuv6XEkC",
+        "author": "央视军事",
+        "duration": "4:8",
+        "cover": "//i0.hdslb.com/bfs/archive/a227dbbbfc0e64960407171393b0bcb1e063e784.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qZuv6XEkC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "红警蜘蛛机器人走进现实"
+      },
+      {
+        "title": "《欢迎来龙餐馆》，差一步就满分",
+        "url": "https://www.bilibili.com/video/BV1xAuq6uErG",
+        "desc": "",
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1icui6DEwp",
-        "author": "央视新闻",
-        "duration": "1:49",
-        "cover": "//i1.hdslb.com/bfs/archive/ba4656d4bee04cc098145d7358041639170d9bc9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1icui6DEwp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "泰前议员枪杀高官后致电记者"
+        "bvid": "BV1xAuq6uErG",
+        "author": "肝帝董佳宁",
+        "duration": "12:5",
+        "cover": "//i1.hdslb.com/bfs/archive/3b986f2d3b63db418c02d88550be0b044d897675.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xAuq6uErG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "龙餐馆到底好看在哪"
       },
       {
         "title": "当你遇上了奇葩家长",
         "url": "https://www.bilibili.com/video/BV1cAu96VE5U",
         "desc": "",
-        "rank": 8,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "真的有这样的家长吗？",
@@ -254,10 +334,138 @@
         "hotTitle": "当你遇上了奇葩家长"
       },
       {
+        "title": "世界纪录诞生！连续372天每天一个马拉松！堂主真的做到了！",
+        "url": "https://www.bilibili.com/video/BV1Szuz6HEt6",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "恭喜@堂主lee 打破吉尼斯世界纪录！连续372天每天一个全程马拉松，创造新纪录！ 2026年8月9日，来到济南，陪堂主完成年马计划第372天的跑步，见证了吉尼斯世界纪录诞生。 一年前堂主完成了一拳超人琦玉训练法1000天挑战， 同时开启了新的年马计划，每天一个马拉松，打破366天的原纪录。最终在第372天这一天，实现了吉尼斯世界纪录的正式认证。 堂主还要继续跑下去。期待他创造更多辉煌！ 马拉松是一项高风险高消耗高负荷的长距离极限耐力运动，没有常年锻炼习惯，请勿轻易模仿。",
+        "content": "恭喜@堂主lee 打破吉尼斯世界纪录！连续372天每天一个全程马拉松，创造新纪录！ 2026年8月9日，来到济南，陪堂主完成年马计划第372天的跑步，见证了吉尼斯世界纪录诞生。 一年前堂主完成了一拳超人琦玉训练法1000天挑战， 同时开启了新的年马计划，每天一个马拉松，打破366天的原纪录。最终在第372天这一天，实现了吉尼斯世界纪录的正式认证。 堂主还要继续跑下去。期待他创造更多辉煌！ 马拉松是一项高风险高消耗高负荷的长距离极限耐力运动，没有常年锻炼习惯，请勿轻易模仿。",
+        "bvid": "BV1Szuz6HEt6",
+        "author": "橙飞一下",
+        "duration": "10:57",
+        "cover": "//i2.hdslb.com/bfs/archive/0cf00eb6a0bade7748e488729dbecb24d431539a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Szuz6HEt6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主见证堂主打破世界纪录"
+      },
+      {
+        "title": "王健林现在怎么样了? 万达什么情况?",
+        "url": "https://www.bilibili.com/video/BV1XPuo6uES8",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "万达商管、万达商业、珠海万达、大连万达 ......万达这个庞然大物，商业结构极其复杂。 而这些名字背后盘根错节的资本游戏，才是压垮万达的关键。 今天咱们就来聊一聊：万达到底经历了什么？昔日的中国首富，是怎么被一步一步逼到了今天的境地？",
+        "content": "万达商管、万达商业、珠海万达、大连万达 ......万达这个庞然大物，商业结构极其复杂。 而这些名字背后盘根错节的资本游戏，才是压垮万达的关键。 今天咱们就来聊一聊：万达到底经历了什么？昔日的中国首富，是怎么被一步一步逼到了今天的境地？",
+        "bvid": "BV1XPuo6uES8",
+        "author": "小Lin说",
+        "duration": "23:53",
+        "cover": "//i1.hdslb.com/bfs/archive/d3fd5ebcf88dd8c23ba9af5500c192a255f4deb8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XPuo6uES8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "万达现状如何"
+      },
+      {
+        "title": "深化扫黑除恶专项斗争第一轮集中收网",
+        "url": "https://www.bilibili.com/video/BV1xeuY6hE8B",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "近日，公安部指挥全国公安机关同步开展深化扫黑除恶专项斗争第一轮集中收网行动，成功打掉各类犯罪团伙1000余个，抓获犯罪嫌疑人8200余名，破获各类刑事案件5400余起。 记者：李明辉、卢佳、宋立峰、杨金鑫、吴刚",
+        "content": "近日，公安部指挥全国公安机关同步开展深化扫黑除恶专项斗争第一轮集中收网行动，成功打掉各类犯罪团伙1000余个，抓获犯罪嫌疑人8200余名，破获各类刑事案件5400余起。 记者：李明辉、卢佳、宋立峰、杨金鑫、吴刚",
+        "bvid": "BV1xeuY6hE8B",
+        "author": "新华社",
+        "duration": "1:7",
+        "cover": "//i0.hdslb.com/bfs/archive/6bcf1149cc0f11c2b102d26e5b69ecb0af0386f9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xeuY6hE8B&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "扫黑除恶打掉1000余个犯罪团伙"
+      },
+      {
+        "title": "【原神】至冬有哪些新玩法？一个视频带你快速上手，到了至冬不迷路！",
+        "url": "https://www.bilibili.com/video/BV1eBuR6MEYD",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这期主要是带大家速览至冬新增的各种玩法，探索解谜又出了很多新姿势。 有帮助的话还请三连支持一下！ 原神最全的攻略导航：https://www.bilibili.com/read/cv13698984",
+        "content": "这期主要是带大家速览至冬新增的各种玩法，探索解谜又出了很多新姿势。 有帮助的话还请三连支持一下！ 原神最全的攻略导航：https://www.bilibili.com/read/cv13698984",
+        "bvid": "BV1eBuR6MEYD",
+        "author": "你的影月月",
+        "duration": "6:19",
+        "cover": "//i0.hdslb.com/bfs/archive/8344080daa4c43feac7f296439e5f0f607278a70.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eBuR6MEYD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "原神至冬有哪些新玩法"
+      },
+      {
+        "title": "泰国前议员枪杀地方政府高官后，打电话给一直播节目……",
+        "url": "https://www.bilibili.com/video/BV1icui6DEwp",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1icui6DEwp",
+        "author": "央视新闻",
+        "duration": "1:49",
+        "cover": "//i1.hdslb.com/bfs/archive/ba4656d4bee04cc098145d7358041639170d9bc9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1icui6DEwp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "泰前议员枪杀高官后致电记者"
+      },
+      {
+        "title": "带张伟丽姐自律的一天！",
+        "url": "https://www.bilibili.com/video/BV1vZud6VEYo",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1vZud6VEYo",
+        "author": "花小龙oy",
+        "duration": "5:16",
+        "cover": "//i0.hdslb.com/bfs/archive/60f949bc51a7412a6c204dd841491b7541df1c18.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vZud6VEYo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "花小龙带张伟丽自律的一天"
+      },
+      {
+        "title": "《龙餐馆》为什么后劲这么大？15个细节，刀刀都有出处",
+        "url": "https://www.bilibili.com/video/BV1nBuB6PENm",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1nBuB6PENm",
+        "author": "毒舌电影编辑部",
+        "duration": "12:18",
+        "cover": "//i1.hdslb.com/bfs/archive/c6d1fbcff34018d3f2b2c98819b918181491fbe4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nBuB6PENm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "龙餐馆15个彩蛋细节盘点"
+      },
+      {
+        "title": "央视探访广西横州受灾茉莉花田 花农和花都还好吗？【主播说三农】",
+        "url": "https://www.bilibili.com/video/BV1Y3uB6QECE",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Y3uB6QECE",
+        "author": "央视农业",
+        "duration": "7:1",
+        "cover": "//i2.hdslb.com/bfs/archive/870f5e713a87a7dc39547b8a63fcafb5b23ee833.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Y3uB6QECE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "央视探访广西受灾茉莉花田"
+      },
+      {
         "title": "万人后室生存大挑战！【AI全民制作人】",
         "url": "https://www.bilibili.com/video/BV1eZu96vECs",
         "desc": "",
-        "rank": 9,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -273,7 +481,7 @@
         "title": "假如你一觉醒来，一只霸王龙空降到你家楼下会发生什么？",
         "url": "https://www.bilibili.com/video/BV1Aguq6eEwv",
         "desc": "",
-        "rank": 10,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -286,90 +494,10 @@
         "hotTitle": "把恐龙投放到现代社会它能活多久"
       },
       {
-        "title": "Topson官宣替补加入LGD，查理斯：感觉秃子被戏耍了",
-        "url": "https://www.bilibili.com/video/BV1z7uU6tEea",
-        "desc": "",
-        "rank": 11,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "林鳖和谐聊天群：882143196 如果小伙伴们觉得阿林切片还算用心的话，给个免费的点赞和关注可以嘛，谢谢大家！(⌐■_■)",
-        "content": "林鳖和谐聊天群：882143196 如果小伙伴们觉得阿林切片还算用心的话，给个免费的点赞和关注可以嘛，谢谢大家！(⌐■_■)",
-        "bvid": "BV1z7uU6tEea",
-        "author": "刀客阿林",
-        "duration": "2:58",
-        "cover": "//i0.hdslb.com/bfs/archive/6a200425a9efd68a35103a323bf3634fe622f1e8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z7uU6tEea&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Topson正式加入LGD"
-      },
-      {
-        "title": "【高下立判】JDG 2-0 EDG 创造队史无缘季后赛！康哥一绿带四红砍下全场最高分，鱼神稳定发挥带队晋级季后赛！",
-        "url": "https://www.bilibili.com/video/BV1vyui6HE1E",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1vyui6HE1E",
-        "author": "小徐还在绕",
-        "duration": "2:2",
-        "cover": "//i2.hdslb.com/bfs/archive/58e7b939cd0a422ec73a904a24da14bf48520570.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vyui6HE1E&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "JDG零封EDG赛后数据"
-      },
-      {
-        "title": "最新体检报告｜为破年马世界纪录，堂主身体付出了什么代价？运动学博士的深度解析",
-        "url": "https://www.bilibili.com/video/BV1eFue6CEvk",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "每天一个马拉松，坚持一年，身体会发生了什么变化",
-        "content": "每天一个马拉松，坚持一年，身体会发生了什么变化",
-        "bvid": "BV1eFue6CEvk",
-        "author": "北美运动学博士Bruce_PhD",
-        "duration": "12:15",
-        "cover": "//i1.hdslb.com/bfs/archive/b9ac95922ed235ad5c2ba2f6a6ff88c0205bae0e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eFue6CEvk&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "堂主年马破纪录身体现状如何"
-      },
-      {
-        "title": "起猛了，《红警》里的“蜘蛛机器人”就在眼前~",
-        "url": "https://www.bilibili.com/video/BV1qZuv6XEkC",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "近日，俄罗斯武装部队第45独立炮兵旅发布了一段视频，展示了自制的“蜘蛛雷”多足机器人，它的外形与《星际争霸》中的“蜘蛛雷”或《红色警戒》中的“蜘蛛机器人”几乎如出一辙。（兵器面面观）",
-        "content": "近日，俄罗斯武装部队第45独立炮兵旅发布了一段视频，展示了自制的“蜘蛛雷”多足机器人，它的外形与《星际争霸》中的“蜘蛛雷”或《红色警戒》中的“蜘蛛机器人”几乎如出一辙。（兵器面面观）",
-        "bvid": "BV1qZuv6XEkC",
-        "author": "央视军事",
-        "duration": "4:8",
-        "cover": "//i0.hdslb.com/bfs/archive/a227dbbbfc0e64960407171393b0bcb1e063e784.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qZuv6XEkC&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "红警蜘蛛机器人走进现实"
-      },
-      {
-        "title": "世界纪录诞生！连续372天每天一个马拉松！堂主真的做到了！",
-        "url": "https://www.bilibili.com/video/BV1Szuz6HEt6",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "恭喜@堂主lee 打破吉尼斯世界纪录！连续372天每天一个全程马拉松，创造新纪录！ 2026年8月9日，来到济南，陪堂主完成年马计划第372天的跑步，见证了吉尼斯世界纪录诞生。 一年前堂主完成了一拳超人琦玉训练法1000天挑战， 同时开启了新的年马计划，每天一个马拉松，打破366天的原纪录。最终在第372天这一天，实现了吉尼斯世界纪录的正式认证。 堂主还要继续跑下去。期待他创造更多辉煌！ 马拉松是一项高风险高消耗高负荷的长距离极限耐力运动，没有常年锻炼习惯，请勿轻易模仿。",
-        "content": "恭喜@堂主lee 打破吉尼斯世界纪录！连续372天每天一个全程马拉松，创造新纪录！ 2026年8月9日，来到济南，陪堂主完成年马计划第372天的跑步，见证了吉尼斯世界纪录诞生。 一年前堂主完成了一拳超人琦玉训练法1000天挑战， 同时开启了新的年马计划，每天一个马拉松，打破366天的原纪录。最终在第372天这一天，实现了吉尼斯世界纪录的正式认证。 堂主还要继续跑下去。期待他创造更多辉煌！ 马拉松是一项高风险高消耗高负荷的长距离极限耐力运动，没有常年锻炼习惯，请勿轻易模仿。",
-        "bvid": "BV1Szuz6HEt6",
-        "author": "橙飞一下",
-        "duration": "10:57",
-        "cover": "//i2.hdslb.com/bfs/archive/0cf00eb6a0bade7748e488729dbecb24d431539a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Szuz6HEt6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主见证堂主打破世界纪录"
-      },
-      {
         "title": "假面骑士祥子 01.沉默的骑士",
         "url": "https://www.bilibili.com/video/BV1pmu26FEZZ",
         "desc": "",
-        "rank": 16,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -382,138 +510,26 @@
         "hotTitle": "假面骑士祥子"
       },
       {
-        "title": "在非洲，我和死亡只隔了一扇车窗……",
-        "url": "https://www.bilibili.com/video/BV1KUuz6jEPM",
+        "title": "赛博家居？我把客厅升级成了智能机械空间！",
+        "url": "https://www.bilibili.com/video/BV19cuo63Emc",
         "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "在一起的第七年，这是我们解锁的第七个大洲——非洲！为了去记录这片草原上传奇的生命，也为了去寻找比时间更持久的东西，我们带上了vivo X300 Ultra专业V单，去寻找鼎鼎有名的“非洲五霸”。这期的【清单人生】，我们将会给大家带来一个关于非洲的故事，一个关于Safari（游猎旅行）的故事。",
-        "content": "在一起的第七年，这是我们解锁的第七个大洲——非洲！为了去记录这片草原上传奇的生命，也为了去寻找比时间更持久的东西，我们带上了vivo X300 Ultra专业V单，去寻找鼎鼎有名的“非洲五霸”。这期的【清单人生】，我们将会给大家带来一个关于非洲的故事，一个关于Safari（游猎旅行）的故事。",
-        "bvid": "BV1KUuz6jEPM",
-        "author": "小鹿Lawrence",
-        "duration": "39:8",
-        "cover": "//i0.hdslb.com/bfs/archive/50289114e929c019f8ce23e796fc854b40b858fd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KUuz6jEPM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "小鹿探索非洲草原传奇生命"
-      },
-      {
-        "title": "《欢迎来龙餐馆》，差一步就满分",
-        "url": "https://www.bilibili.com/video/BV1xAuq6uErG",
-        "desc": "",
-        "rank": 18,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1xAuq6uErG",
-        "author": "肝帝董佳宁",
-        "duration": "12:5",
-        "cover": "//i1.hdslb.com/bfs/archive/3b986f2d3b63db418c02d88550be0b044d897675.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xAuq6uErG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "龙餐馆到底好看在哪"
-      },
-      {
-        "title": "王健林现在怎么样了? 万达什么情况?",
-        "url": "https://www.bilibili.com/video/BV1XPuo6uES8",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "万达商管、万达商业、珠海万达、大连万达 ......万达这个庞然大物，商业结构极其复杂。 而这些名字背后盘根错节的资本游戏，才是压垮万达的关键。 今天咱们就来聊一聊：万达到底经历了什么？昔日的中国首富，是怎么被一步一步逼到了今天的境地？",
-        "content": "万达商管、万达商业、珠海万达、大连万达 ......万达这个庞然大物，商业结构极其复杂。 而这些名字背后盘根错节的资本游戏，才是压垮万达的关键。 今天咱们就来聊一聊：万达到底经历了什么？昔日的中国首富，是怎么被一步一步逼到了今天的境地？",
-        "bvid": "BV1XPuo6uES8",
-        "author": "小Lin说",
-        "duration": "23:53",
-        "cover": "//i1.hdslb.com/bfs/archive/d3fd5ebcf88dd8c23ba9af5500c192a255f4deb8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XPuo6uES8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "万达现状如何"
-      },
-      {
-        "title": "2026和平精英刺激之夜完整高清回放",
-        "url": "https://www.bilibili.com/video/BV1ffuU6bEHj",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "和平精英和每一位玩家，一起一路生长，从一局游戏，长成了现在这样一个越来越大的和平宇宙。刺激不重样，越打越年轻！又一年，让刺激大秀一场。",
-        "content": "和平精英和每一位玩家，一起一路生长，从一局游戏，长成了现在这样一个越来越大的和平宇宙。刺激不重样，越打越年轻！又一年，让刺激大秀一场。",
-        "bvid": "BV1ffuU6bEHj",
-        "author": "和平精英",
-        "duration": "184:37",
-        "cover": "//i2.hdslb.com/bfs/archive/0a0e31d2b06cc8a84db12fd7fa1635af0e98a0fc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ffuU6bEHj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "和平精英刺激之夜回放"
-      },
-      {
-        "title": "投票儿戏，颁奖预制，大众百花奖彻底沦为小众自嗨！",
-        "url": "https://www.bilibili.com/video/BV1qnuq6dE4L",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1qnuq6dE4L",
-        "author": "降B_大调",
-        "duration": "5:33",
-        "cover": "//i0.hdslb.com/bfs/archive/a015392eabe3b70895990974980ef1ec2b1208a0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qnuq6dE4L&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大众百花奖争议盘点"
-      },
-      {
-        "title": "兄弟没办法，末世啊......",
-        "url": "https://www.bilibili.com/video/BV14guR64EkG",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "救世主模式就得变救世主！",
-        "content": "救世主模式就得变救世主！",
-        "bvid": "BV14guR64EkG",
-        "author": "是橘长呀",
-        "duration": "8:32",
-        "cover": "//i1.hdslb.com/bfs/archive/066bab3d1b3edca0e886dc9f32001cd0eac18686.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14guR64EkG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主爆笑演绎穿越火线救世主模式"
-      },
-      {
-        "title": "大理百元豪车租赁乱象调查：186元租的保时捷是重大事故车，游客拒买高价保险遭敲诈【探照灯计划】",
-        "url": "https://www.bilibili.com/video/BV1xyux6rENC",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1xyux6rENC",
-        "author": "晨视频晨世",
-        "duration": "9:38",
-        "cover": "//i2.hdslb.com/bfs/archive/11a7c5f8445a8ef98b34eddcf7d4630aa2ac3978.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xyux6rENC&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大理百元豪车租赁乱象调查"
-      },
-      {
-        "title": "家人们，我终于来了！！！",
-        "url": "https://www.bilibili.com/video/BV1r5uz6BE5U",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1r5uz6BE5U",
-        "author": "瓦伦丁_德比斯",
-        "duration": "0:21",
-        "cover": "//i0.hdslb.com/bfs/archive/8d18a34ab2aff3c5c70742bb89640be60e659016.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1r5uz6BE5U&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "德比斯官宣将与张雪见面"
+        "bvid": "BV19cuo63Emc",
+        "author": "苏打baka",
+        "duration": "5:54",
+        "cover": "//i2.hdslb.com/bfs/archive/98fc81818af7abe794e2ffda6f61f05b66ee9927.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19cuo63Emc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主自制赛博家居"
       },
       {
         "title": "当西方开始反思自身衰落，恐惧对手的崛起，于是有了《奥德赛》",
         "url": "https://www.bilibili.com/video/BV1Xbuq6nER4",
         "desc": "",
-        "rank": 25,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "电影中，奥德修斯的所有恐惧，用一句话就可以总结：如果我靠打破底线获得了胜利，那么接下来我将注定面临一大群底线更低的敌人。",
@@ -526,87 +542,81 @@
         "hotTitle": "奥德赛 西方版西游记"
       },
       {
-        "title": "三角洲首款淘汰盒子！流光矩阵详细测评！没想到盒子上的灯效还有小巧思！",
-        "url": "https://www.bilibili.com/video/BV1SUua6wEF3",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "竟然还有小巧思！ 签约B站了！有KPI了！大家点点赞感谢！",
-        "content": "竟然还有小巧思！ 签约B站了！有KPI了！大家点点赞感谢！",
-        "bvid": "BV1SUua6wEF3",
-        "author": "Key725",
-        "duration": "2:14",
-        "cover": "//i2.hdslb.com/bfs/archive/277b121f04696fd0154082d39192ce41b00406c9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SUua6wEF3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "三角洲首款淘汰盒子测评"
-      },
-      {
-        "title": "带张伟丽姐自律的一天！",
-        "url": "https://www.bilibili.com/video/BV1vZud6VEYo",
+        "title": "最新体检报告｜为破年马世界纪录，堂主身体付出了什么代价？运动学博士的深度解析",
+        "url": "https://www.bilibili.com/video/BV1eFue6CEvk",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1vZud6VEYo",
-        "author": "花小龙oy",
-        "duration": "5:16",
-        "cover": "//i0.hdslb.com/bfs/archive/60f949bc51a7412a6c204dd841491b7541df1c18.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vZud6VEYo&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "花小龙带张伟丽自律的一天"
+        "description": "每天一个马拉松，坚持一年，身体会发生了什么变化",
+        "content": "每天一个马拉松，坚持一年，身体会发生了什么变化",
+        "bvid": "BV1eFue6CEvk",
+        "author": "北美运动学博士Bruce_PhD",
+        "duration": "12:15",
+        "cover": "//i1.hdslb.com/bfs/archive/b9ac95922ed235ad5c2ba2f6a6ff88c0205bae0e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eFue6CEvk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "堂主年马破纪录身体现状如何"
       },
       {
-        "title": "首届新三国only展，专属于新三国粉丝的狂欢节",
-        "url": "https://www.bilibili.com/video/BV1U3uo6eE4z",
+        "title": "在非洲，我和死亡只隔了一扇车窗……",
+        "url": "https://www.bilibili.com/video/BV1KUuz6jEPM",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1U3uo6eE4z",
-        "author": "吃蛋挞的折棒",
-        "duration": "13:22",
-        "cover": "//i1.hdslb.com/bfs/archive/c89be8aeafb586440f6325ad2907f472a516fa74.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1U3uo6eE4z&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "首届新三国only展"
+        "description": "在一起的第七年，这是我们解锁的第七个大洲——非洲！为了去记录这片草原上传奇的生命，也为了去寻找比时间更持久的东西，我们带上了vivo X300 Ultra专业V单，去寻找鼎鼎有名的“非洲五霸”。这期的【清单人生】，我们将会给大家带来一个关于非洲的故事，一个关于Safari（游猎旅行）的故事。",
+        "content": "在一起的第七年，这是我们解锁的第七个大洲——非洲！为了去记录这片草原上传奇的生命，也为了去寻找比时间更持久的东西，我们带上了vivo X300 Ultra专业V单，去寻找鼎鼎有名的“非洲五霸”。这期的【清单人生】，我们将会给大家带来一个关于非洲的故事，一个关于Safari（游猎旅行）的故事。",
+        "bvid": "BV1KUuz6jEPM",
+        "author": "小鹿Lawrence",
+        "duration": "39:8",
+        "cover": "//i0.hdslb.com/bfs/archive/50289114e929c019f8ce23e796fc854b40b858fd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KUuz6jEPM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "小鹿探索非洲草原传奇生命"
       },
       {
-        "title": "什么！我成蜘蛛侠了？!",
-        "url": "https://www.bilibili.com/video/BV1RJud6uEjk",
+        "title": "大理百元豪车租赁乱象调查：186元租的保时捷是重大事故车，游客拒买高价保险遭敲诈【探照灯计划】",
+        "url": "https://www.bilibili.com/video/BV1xyux6rENC",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1RJud6uEjk",
-        "author": "百万剪辑狮",
-        "duration": "2:9",
-        "cover": "//i0.hdslb.com/bfs/archive/06b7447d28ac2f745d078142580ae120f88cb8b4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RJud6uEjk&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "假如我成为蜘蛛侠"
+        "bvid": "BV1xyux6rENC",
+        "author": "晨视频晨世",
+        "duration": "9:38",
+        "cover": "//i2.hdslb.com/bfs/archive/11a7c5f8445a8ef98b34eddcf7d4630aa2ac3978.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xyux6rENC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大理百元豪车租赁乱象调查"
       },
       {
-        "title": "8.11闹麻了！王宝强0票！影视寒冬就受着呗！百花奖无敌了！",
-        "url": "https://www.bilibili.com/video/BV129ua6ZEFf",
+        "title": "青瓦台不是从外部被攻破的！李在明废除韩国监察厅？",
+        "url": "https://www.bilibili.com/video/BV1sAuq6uEma",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV129ua6ZEFf",
-        "author": "最新情报局",
-        "duration": "1:26",
-        "cover": "//i2.hdslb.com/bfs/archive/494945a6b44b9f0550a7fd7608aeacd03bdcd6c9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV129ua6ZEFf&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "百花奖获奖名单公布"
+        "description": "本期视频提及的事件以及信息来源如下： 《韩国通过法案全面取消检察机关侦查权》，新华网，2026-08-04 《韩前总统尹锡悦一审获刑 其当选可能无效》，新华网，2026-07-27 《韩国会通过新特检法修正案继续调查尹锡悦夫妇》，新华网，2026-07-21 《韩国第二大在野党党首被判2年徒刑》，新华网，2024-12-12 《深度解读｜“青瓦台魔咒”怎么破？》，新华网，2025-04-05 《热点问答｜韩国总统府为何搬回青瓦台》，新华网，2025-12-29 《“无效总统”，赔钱2个亿？》，中国新闻周刊",
+        "content": "本期视频提及的事件以及信息来源如下： 《韩国通过法案全面取消检察机关侦查权》，新华网，2026-08-04 《韩前总统尹锡悦一审获刑 其当选可能无效》，新华网，2026-07-27 《韩国会通过新特检法修正案继续调查尹锡悦夫妇》，新华网，2026-07-21 《韩国第二大在野党党首被判2年徒刑》，新华网，2024-12-12 《深度解读｜“青瓦台魔咒”怎么破？》，新华网，2025-04-05 《热点问答｜韩国总统府为何搬回青瓦台》，新华网，2025-12-29 《“无效总统”，赔钱2个亿？》，中国新闻周刊",
+        "bvid": "BV1sAuq6uEma",
+        "author": "麻薯波比呀",
+        "duration": "16:30",
+        "cover": "//i0.hdslb.com/bfs/archive/5947d105f3671c77e2796753eab8312dabb47c3f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sAuq6uEma&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "韩国为何废除检察厅"
       }
     ],
     "qbitai": [
+      {
+        "title": "刚刚，Manus恢复独立运营",
+        "url": "https://www.qbitai.com/2026/08/470805.html",
+        "desc": "Manus，完成复活赛了！",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/38b5b5c3bcb8bc9b1167b45ef9e7c341.png",
+        "date": "2026-08-12T10:51:44",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
       {
         "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
         "url": "https://www.qbitai.com/2026/08/470674.html",
@@ -615,7 +625,7 @@
         "date": "2026-08-11T21:57:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
@@ -625,7 +635,7 @@
         "date": "2026-08-11T19:36:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
@@ -635,7 +645,7 @@
         "date": "2026-08-11T17:24:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
@@ -645,7 +655,7 @@
         "date": "2026-08-11T13:12:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "宇树会破发吗？王兴兴回应了",
@@ -655,7 +665,7 @@
         "date": "2026-08-11T12:42:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
@@ -665,7 +675,7 @@
         "date": "2026-08-11T12:31:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
@@ -675,7 +685,7 @@
         "date": "2026-08-11T11:51:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
@@ -685,7 +695,7 @@
         "date": "2026-08-11T11:37:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
@@ -695,7 +705,7 @@
         "date": "2026-08-11T11:11:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
@@ -705,7 +715,7 @@
         "date": "2026-08-11T08:46:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
@@ -715,7 +725,7 @@
         "date": "2026-08-10T21:58:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "PDF当死，ARA该立！论文是时候Agent原生了",
@@ -725,7 +735,7 @@
         "date": "2026-08-10T21:53:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "模型路线趋同之后，Physical AI的胜负手变了",
@@ -735,7 +745,7 @@
         "date": "2026-08-10T17:20:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
@@ -745,7 +755,7 @@
         "date": "2026-08-10T14:58:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
@@ -755,7 +765,7 @@
         "date": "2026-08-10T13:37:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
@@ -765,7 +775,7 @@
         "date": "2026-08-10T11:24:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
@@ -775,7 +785,7 @@
         "date": "2026-08-10T10:34:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
@@ -785,7 +795,7 @@
         "date": "2026-08-10T10:25:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
@@ -795,7 +805,7 @@
         "date": "2026-08-10T09:34:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
@@ -805,7 +815,7 @@
         "date": "2026-08-10T09:12:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "范式与华夏金融订立服务器售后回租安排 盘活算力资产 赋能业务长效发展",
@@ -815,7 +825,7 @@
         "date": "2026-08-09T20:33:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "180万刀，连亚马逊都烧不起Claude了",
@@ -825,7 +835,7 @@
         "date": "2026-08-09T17:25:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
@@ -835,7 +845,7 @@
         "date": "2026-08-09T17:16:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
@@ -845,7 +855,7 @@
         "date": "2026-08-09T11:40:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
@@ -855,7 +865,7 @@
         "date": "2026-08-09T11:25:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
@@ -865,7 +875,7 @@
         "date": "2026-08-09T11:17:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
@@ -875,7 +885,7 @@
         "date": "2026-08-08T15:57:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
@@ -885,7 +895,7 @@
         "date": "2026-08-08T15:56:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
@@ -893,16 +903,6 @@
         "desc": "「我，Jeff Dean，打钱」",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/1dc9a3a154104fbaa698dc8dfccba84f.webp",
         "date": "2026-08-08T15:51:53",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
-        "url": "https://www.qbitai.com/2026/08/468462.html",
-        "desc": "唉，赶紧整完快点发布吧。。。",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/90c5b74b300a10bf7aca983fa55a199f.png",
-        "date": "2026-08-08T12:33:53",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -940,6 +940,116 @@
         "rank": 3
       },
       {
+        "title": "野村在新加坡推出实物黄金交易和托管服务",
+        "url": "https://m.36kr.com/newsflashes/3935946095508872",
+        "desc": "野村在新加坡推出实物黄金交易和托管服务。（新浪财经）",
+        "cover": "",
+        "date": 1786503084930,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "调查：全球科技巨头AI加速抢占韩国搜索市场，NAVER等本土服务面临显著差距",
+        "url": "https://m.36kr.com/newsflashes/3935935648267398",
+        "desc": "据报道，韩国科学技术信息通信部8月12日表示，今年6月发布的“2025年附加通信业务实态调查”显示，生成式AI用户中有60%回答，过半以上的搜索已通过AI进行。韩国信息通信政策研究院（KISDI）的分析显示，以2025年为准，生成式AI的主要使用目的中“搜索日常信息”位居首位，占比达42.5%。据韩国科技信息通信部调查，ChatGPT和Gemini在AI服务体验率（可多选）方面，分别以41.8%和9.8%的占比位居前二。加上微软的AI服务Copilot（2.2%），来自海外的三处AI服务体验率合计高达53.8%。而本土服务NAVER的CLOVA X仅为2%。（界面）",
+        "cover": "",
+        "date": 1786502447281,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "REDMI K100 Pro系列发布",
+        "url": "https://m.36kr.com/newsflashes/3935933931978120",
+        "desc": "36氪获悉，8月11日，REDMI正式发布REDMI K100 Pro系列，包括REDMI K100 Pro、REDMI K100 Pro Max两款机型。全系搭载旗舰芯片与AI独显D2。K100 Pro与K100 Pro Max首销起售价分别为3699元和4199元。",
+        "cover": "",
+        "date": 1786502342527,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "航天投资等在杭州成立太空智能科技公司",
+        "url": "https://m.36kr.com/newsflashes/3935927977704584",
+        "desc": "36氪获悉，企查查App显示，近日，杭州四维太空智能科技有限公司成立，法定代表人为常明，注册资本为20亿元，经营范围包含人工智能应用软件开发；人工智能理论与算法软件开发；卫星技术综合应用系统集成；卫星遥感数据处理等。企查查股权穿透显示，该公司由杭州西湖云创集团有限公司、航天投资控股有限公司等共同持股。",
+        "cover": "",
+        "date": 1786501979107,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "阿里云灵骏真武M890超节点实例正式上线，首批在乌兰察布开服",
+        "url": "https://m.36kr.com/newsflashes/3935927510973575",
+        "desc": "36氪获悉，8月12日消息，阿里云宣布灵骏真武M890超节点实例正式上线，首批已在乌兰察布地域开售。企业级客户无需自建机房，在云上即可开通64卡高速互联算力单元，最高可承载十万亿参数级MoE大模型推理。阿里云灵骏真武M890超节点也是国内首个成功运行超2万亿参数大模型的超节点形态算力，Kimi K3和Qwen3.8 Max均已通过该实例对外提供服务。",
+        "cover": "",
+        "date": 1786501950620,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
+        "title": "青岛啤酒等成立华樽酒业新公司",
+        "url": "https://m.36kr.com/newsflashes/3935922189991301",
+        "desc": "36氪获悉，企查查App显示，近日，青岛华樽酒业有限公司成立，经营范围包含货物进出口；品牌管理；供应链管理服务等。企查查股权穿透显示，该公司由青岛啤酒等共同持股。",
+        "cover": "",
+        "date": 1786501625853,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 9
+      },
+      {
+        "title": "小鹏G9L开启预售",
+        "url": "https://m.36kr.com/newsflashes/3935910471548291",
+        "desc": "36氪获悉，8月11日，小鹏G9L正式亮相并开启预售，新车采用纯电、超级增程两种动力形式，预售价25.98万元。",
+        "cover": "",
+        "date": 1786500910616,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 10
+      },
+      {
+        "title": "SpaceXAI推出“全天候数字同事”Grok Bot",
+        "url": "https://m.36kr.com/newsflashes/3935901507796097",
+        "desc": "SpaceXAI当地时间8月11日宣布推出AI代理产品Grok Bot，目前处于测试阶段。声明称，Grok Bot是一支全天候在线的智能助手团队，可接受并完成用户分配给它们的实际工作任务。据介绍，Grok Bot拥有独立的云端计算机，可以登录用户已经在用的工具，跨应用、收件箱等场景工作，任务完成后才返回汇报。马斯克在社媒平台X发文称：“我们将在修复早期测试的基本问题、并于本周晚些时候发布Grok 4.6之后，扩大Grok Bot的测试规模。”（界面）",
+        "cover": "",
+        "date": 1786500363512,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 11
+      },
+      {
+        "title": "“希奥端计算”完成数亿元A轮融资",
+        "url": "https://m.36kr.com/newsflashes/3935896160369795",
+        "desc": "36氪获悉，服务器CPU厂商“希奥端计算”完成数亿元A轮融资，并同步将总部迁至南京江北新区。本轮融资由铭哲资本、现象资本联合VC领投，中信建投资本、兆易创新等多家产业资本与投资机构首次入局，老股东持续加码。本次募资将投向三大方向：加速BlueDot V1 芯片回片验证与2026年底小批量试商用；启动第二代CPU产品研发；强化软硬件生态适配与兼容认证，完善服务器CPU开发生态。",
+        "cover": "",
+        "date": 1786500037131,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 12
+      },
+      {
+        "title": "超微电脑四季度净销售额111亿美元，同比接近翻番",
+        "url": "https://m.36kr.com/newsflashes/3935893666610562",
+        "desc": "超微电脑8月11日公布四季度净销售额为111亿美元，去年同期为58亿美元；非GAAP稀释后每股普通股净收益为1.70美元，去年同期为0.41美元；财年净销售额为391亿美元，前一财年为220亿美元。超微电脑预计2027财年一季度净销售额将在145亿美元至155亿美元之间。（界面）",
+        "cover": "",
+        "date": 1786499884924,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 13
+      },
+      {
+        "title": "暑期飞猪酒店间夜量逆势增长，8月上旬日均增超60%",
+        "url": "https://m.36kr.com/newsflashes/3935887464037510",
+        "desc": "36氪获悉，飞猪酒店业务规模已连续四个季度高位增长。2026年4月至今，飞猪酒店日均履约间夜增速同比可达50%左右，8月上旬甚至逼近70%。据了解，酒店业务规模扩大主要受益于飞猪App与淘宝App的深度打通，其中，88VIP人群带动效果显著。6月去重后活跃用户数（MAU）同比增长在30%以上。",
+        "cover": "",
+        "date": 1786499506349,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 14
+      },
+      {
         "title": "Alpha Compute将斥资超5000万美元，在美国宾州建天然气数据中心园区",
         "url": "https://m.36kr.com/newsflashes/3935870290771334",
         "desc": "当地时间8月11日，人工智能基础设施公司Alpha Compute宣布签署有约束力意向书，计划在美国宾夕法尼亚州收购天然气资产，建设一座规划容量200兆瓦、以天然气供电的数据中心园区，并有可能扩建至1吉瓦。该资产的收购基准价格定为5500万美元，在签署最终协议后，Alpha Compute需支付300万美元定金。（界面）",
@@ -947,7 +1057,7 @@
         "date": 1786498458176,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 15
       },
       {
         "title": "A股三大指数集体低开，煤炭股下挫",
@@ -957,7 +1067,7 @@
         "date": 1786498054547,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 16
       },
       {
         "title": "央行：8月12日7天期逆回购操作量为零",
@@ -967,7 +1077,7 @@
         "date": 1786497890128,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 17
       },
       {
         "title": "恒指开盘跌0.6%，恒生科技指数跌0.8%",
@@ -977,7 +1087,7 @@
         "date": 1786497755209,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 18
       },
       {
         "title": "8月12日人民币对美元中间价调升18个基点",
@@ -987,7 +1097,7 @@
         "date": 1786497462212,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 19
       },
       {
         "title": "小米汽车7月SU7销量21044辆",
@@ -997,7 +1107,7 @@
         "date": 1786497033106,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 20
       },
       {
         "title": "xAI联合创始人创立的River AI融资11亿美元，英伟达、AMD参投",
@@ -1007,7 +1117,7 @@
         "date": 1786496957778,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 21
       },
       {
         "title": "“西湖机器人”完成A轮融资",
@@ -1017,7 +1127,7 @@
         "date": 1786496797967,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 22
       },
       {
         "title": "北京无限宇航科技有限公司完成近亿元A轮融资",
@@ -1027,125 +1137,15 @@
         "date": 1786496693808,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
-      },
-      {
-        "title": "澳大利亚招聘平台Seek计划出售10亿澳元基金资产以进行资本返还",
-        "url": "https://m.36kr.com/newsflashes/3935837345725577",
-        "desc": "澳大利亚招聘平台Seek的首席执行官伊恩·纳雷夫（Ian Narev）表示，在该公司持有多数股权的成长型基金出售了价值超过7亿美元的资产后，Seek计划向股东返还资本。Seek周三表示，其持有近84%股份的成长型基金的管理层打算出售价值逾10亿澳元的资产，合7.062亿美元。该公司预计这些计划将在12月底前敲定。（新浪财经）",
-        "cover": "",
-        "date": 1786496447370,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 13
-      },
-      {
-        "title": "平陆运河实船试验正式启动，工程进度超98%",
-        "url": "https://m.36kr.com/newsflashes/3935834240744578",
-        "desc": "今天（8月12日），平陆运河实船试验正式启动。这是平陆运河首次进行全航道、全船型实船试验，也是平陆运河全线通航前的最后一次“大考”。平陆运河是西部陆海新通道骨干工程，也是新中国成立以来第一条国家层面统筹的通江达海的运河工程，目前工程建设整体进度已超98%，预计今年9月正式通航。（央视新闻）",
-        "cover": "",
-        "date": 1786496257857,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 14
-      },
-      {
-        "title": "量子计算公司Quantinuum与甲骨文达成多年合作",
-        "url": "https://m.36kr.com/newsflashes/3935832312216963",
-        "desc": "当地时间8月11日，量子计算公司Quantinuum与甲骨文宣布建立多年战略合作伙伴关系，向在美甲骨文云基础设施（OCI）AI数据中心部署Quantinuum的量子计算机Helios。根据协议，OCI客户将能够通过OCI的量子服务直接访问Helios，并结合使用OCI的高性能计算（HPC）及GPU基础设施。（界面）",
-        "cover": "",
-        "date": 1786496140149,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 15
-      },
-      {
-        "title": "Anthropic将在AI生成文本中嵌入隐形水印",
-        "url": "https://m.36kr.com/newsflashes/3935829215100034",
-        "desc": "美国人工智能公司Anthropic计划推出一种隐形水印技术，用于识别由AI生成的文本内容。Anthropic表示，自8月2日及之后发布的模型起，该公司会在Claude AI生成的文本中直接嵌入人类无法察觉、仅机器可识别的水印。人类肉眼看不到该水印，不会降低文本质量与可读性。即便复制粘贴文本，水印也会随之保留，部分轻度编辑操作也无法清除水印。（但大规模改写或翻译操作大概率会破坏该水印标识。）（新浪财经）",
-        "cover": "",
-        "date": 1786495951116,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 16
-      },
-      {
-        "title": "截至今年6月，我国可再生能源制氢产能规模超140万吨",
-        "url": "https://m.36kr.com/newsflashes/3935827380042880",
-        "desc": "国家能源局昨天（11日）发布的《中国氢能发展报告（2026）》显示，截至今年6月，我国以电解水制氢为主要路线的建成和在建可再生能源制氢年产能规模已超140万吨，氢能产业取得积极进展。当前，我国氢能基础设施稳步建设。截至6月，全国累计建成加氢站约620座，建成投运纯氢管道长度超350公里。（央视新闻）",
-        "cover": "",
-        "date": 1786495839113,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 17
-      },
-      {
-        "title": "两市融资余额增加12.99亿元",
-        "url": "https://m.36kr.com/newsflashes/3935826500762760",
-        "desc": "36氪获悉，截至8月11日，上交所融资余额报13504.24亿元，较前一交易日增加3.35亿元；深交所融资余额报12791.68亿元，较前一交易日增加9.64亿元；两市合计26295.92亿元，较前一交易日增加12.99亿元。",
-        "cover": "",
-        "date": 1786495785446,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "三星电子计划在1nm级制程节点实现High NA EUV商业应用",
-        "url": "https://m.36kr.com/newsflashes/3935826152029568",
-        "desc": "据ZDNET Korea，三星电子计划在1nm级工艺制程节点实现High NA EUV设备的商业化应用。三星电子晶圆代工工艺开发团队朴昌民表示，对于2nm的SF2和1.4nm的SF1.4两个近期节点来说，High NA EUV光刻图案化技术仍不算成熟。而更高的图案化分辨率将在1nm级成为刚需，因此三星晶圆代工正以此为目标与合作伙伴联合研发。考虑到三星晶圆代工此前将2029年设定为SF1.4的量产时点并计划在2030年推出改进型SF1.4+，其1nm节点最快也要到2030年才会推出。 （财联社）",
-        "cover": "",
-        "date": 1786495764161,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "面壁智能启动IPO",
-        "url": "https://m.36kr.com/newsflashes/3935825542610055",
-        "desc": "36氪获悉，证监会网站披露，北京面壁智能科技股份有限公司于2026年8月11日在北京证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为中信证券。辅导备案报告显示，该公司无控股股东，公司第一大股东为北京清语启航科技中心（有限合伙），持股比例16.45%。",
-        "cover": "",
-        "date": 1786495726965,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "英特尔增发200亿美元前据悉曾寻求美政府批准",
-        "url": "https://m.36kr.com/newsflashes/3935823981837442",
-        "desc": "当地时间8月11日，英特尔宣布其普通股注册公开发行定价为每股95美元，共发行210526315股普通股，发行规模从此前公布的150亿美元扩大至200亿美元。据报道，英特尔CEO陈立武在公司增发股票前，曾致电美国商务部长卢特尼克寻求批准。美国政府最终决定不参与此次股票发行。（界面）",
-        "cover": "",
-        "date": 1786495631703,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "两大龙头中报披露在即，机构研判港股后市或转入震荡整固期",
-        "url": "https://m.36kr.com/newsflashes/3935821884472452",
-        "desc": "在经历一个多月的持续反弹后，近几个交易日港股市场涨势放缓，主要股指呈现区间震荡态势。本周，腾讯控股、京东集团-SW等行业龙头将披露的2026年中报是市场关注的重点，对于整个港股市场而言，中报季的盈利确定性将成为行情的主导变量。在业内人士看来，港股8月或转入震荡整固期，随着中报披露进入高峰期，市场定价逻辑正从情绪修复与资金轮动切换至基本面验证与结构性再平衡，市场整体或仍以结构性行情为主。在具体配置上，在继续将高股息红利资产作为投资组合“稳定器”的同时，建议可适当增加对港股高弹性方向的关注。（中证报）",
-        "cover": "",
-        "date": 1786495503690,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "中信证券：高质量、合规且版权清晰的数据供给稀缺性持续提升，优质版权数据资产价值有望迎来重估",
-        "url": "https://m.36kr.com/newsflashes/3935813619776643",
-        "desc": "36氪获悉，中信证券研报称，随着公开互联网数据逐步被充分利用、模型向Coding、Agent、世界模型及专业领域持续延伸，大模型竞争正由“算力+算法”进一步走向“算力+算法+数据”，训练数据需求亦由通用公域数据向高质量、专业化、多模态及过程数据迁移。高质量、合规且版权清晰的数据供给稀缺性持续提升，优质版权数据资产价值有望迎来重估。",
-        "cover": "",
-        "date": 1786494999253,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786498861786,
-    "bilibili": 1786497143893,
-    "qbitai": 1786498881687,
-    "36kr": 1786498882050
+    "thepaper": 1786503362561,
+    "bilibili": 1786502717099,
+    "qbitai": 1786503382541,
+    "36kr": 1786503382993
   },
   "failures": {}
 }
