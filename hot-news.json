@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T15:56:33Z",
+  "updatedAt": "2026-08-12T16:11:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -302,19 +302,19 @@
         "hotTitle": "影之刃零11分钟最新实机"
       },
       {
-        "title": "宁王:我只能跟你说EDG跟AL打了三个点 Doinb:谁的问题啊 宁王:EDG今天输完这场比赛0-9 你问一下你的好兄弟 Doinb:我两边都有好兄弟",
-        "url": "https://www.bilibili.com/video/BV1cFgj6kEkP",
+        "title": "【大兔子】AL2比1EDG JDG2比1BLG赛后锐评：bulldog可以踢了！圣枪哥BLG首秀开门黑！一塌糊涂！",
+        "url": "https://www.bilibili.com/video/BV1GEgj6hEaU",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1cFgj6kEkP",
-        "author": "大大咧咧难得一次",
-        "duration": "1:6",
-        "cover": "//i2.hdslb.com/bfs/archive/e7c02f347026a8039204af36576ce63cffff244b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cFgj6kEkP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "一塌糊涂 明日预测：WBG2比1Nip，TES2比0LGD，BLG2比1TT 交流一群174961006，交流二群1098024813，欢迎加入~一起畅聊赛事！",
+        "content": "一塌糊涂 明日预测：WBG2比1Nip，TES2比0LGD，BLG2比1TT 交流一群174961006，交流二群1098024813，欢迎加入~一起畅聊赛事！",
+        "bvid": "BV1GEgj6hEaU",
+        "author": "大兔子老师Alter",
+        "duration": "6:59",
+        "cover": "//i1.hdslb.com/bfs/archive/89833b09e44f022e8142b7c3117799b7765852b2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GEgj6hEaU&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "AL战胜EDG LPL第三赛段"
       },
       {
@@ -334,19 +334,19 @@
         "hotTitle": "日食记探访哔哩哔哩山歌小学"
       },
       {
-        "title": "【KPL夏季赛二路解说合集】8月12日 KSG vs SYG",
-        "url": "https://www.bilibili.com/video/BV1Qng56HEk1",
+        "title": "【2026KPL夏季赛】8月12日 SYG VS KSG",
+        "url": "https://www.bilibili.com/video/BV137g56WEQx",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Qng56HEk1",
-        "author": "kpl二路",
-        "duration": "1002:18",
-        "cover": "//i0.hdslb.com/bfs/archive/5babf3953cb99de98b8d4546882929568fe6b626.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qng56HEk1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026KPL夏季赛】8月12日 SYG VS KSG",
+        "content": "【2026KPL夏季赛】8月12日 SYG VS KSG",
+        "bvid": "BV137g56WEQx",
+        "author": "哔哩哔哩王者荣耀赛事",
+        "duration": "108:10",
+        "cover": "//i1.hdslb.com/bfs/archive/7a06d2dda898300da3d41d54402fb1a2fb11a869.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV137g56WEQx&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "SYG战胜KSG KPL"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786550163788,
-    "bilibili": 1786550172207,
-    "qbitai": 1786550193508,
-    "36kr": 1786550193869
+    "thepaper": 1786551062347,
+    "bilibili": 1786549632114,
+    "qbitai": 1786551094353,
+    "36kr": 1786551094801
   },
   "failures": {}
 }
