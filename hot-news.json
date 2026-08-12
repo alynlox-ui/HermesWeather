@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-12T14:56:35Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-08-12T15:11:57Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -286,19 +286,19 @@
         "hotTitle": "UP主自制经济学模拟器"
       },
       {
-        "title": "EDG差点战胜AL！如何评价jiejie今天的表现？是登峰水平还是涅槃水平？",
-        "url": "https://www.bilibili.com/video/BV1mhgj6pECC",
+        "title": "【2026LPL第三赛段】8月12日 EDG vs AL",
+        "url": "https://www.bilibili.com/video/BV1dSg56aEfh",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1mhgj6pECC",
-        "author": "贴吧虎先锋",
-        "duration": "0:48",
-        "cover": "//i1.hdslb.com/bfs/archive/d1b3643a8a20d0391f84f673ca26f3df48a0d70b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mhgj6pECC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026LPL第三赛段】8月12日 EDG vs AL",
+        "content": "【2026LPL第三赛段】8月12日 EDG vs AL",
+        "bvid": "BV1dSg56aEfh",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "207:31",
+        "cover": "//i0.hdslb.com/bfs/archive/4d62da934e9fbdcd06bcdb1ede3c7a7e3638501b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dSg56aEfh&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "AL战胜EDG LPL第三赛段"
       },
       {
@@ -1142,10 +1142,11 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786546562356,
-    "bilibili": 1786546571273,
-    "qbitai": 1786546595405,
-    "36kr": 1786546595909
+    "thepaper": 1786547462453,
+    "bilibili": 1786546029593,
+    "36kr": 1786547517543
   },
-  "failures": {}
+  "failures": {
+    "qbitai": "RuntimeError('QbitAI JSON not found')"
+  }
 }
