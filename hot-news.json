@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T15:26:35Z",
+  "updatedAt": "2026-08-12T15:41:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -206,19 +206,19 @@
         "hotTitle": "台风过后水产养殖户如何补救"
       },
       {
-        "title": "炫神看blg被jdg虐，自己好兄弟有点没用啊",
-        "url": "https://www.bilibili.com/video/BV1Nqgj6EEyF",
+        "title": "圣枪哥BLG首秀！京东战胜BLG！JDG2比1BLG，虎扑评分+赛后数据雷达图",
+        "url": "https://www.bilibili.com/video/BV1p6gj6jEdM",
         "desc": "",
         "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1Nqgj6EEyF",
-        "author": "肉质倒数",
-        "duration": "1:9",
-        "cover": "//i2.hdslb.com/bfs/archive/560b463d60545d0a8873c9e011d37acb1c3c436f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nqgj6EEyF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1p6gj6jEdM",
+        "author": "饿了裤子",
+        "duration": "2:13",
+        "cover": "//i2.hdslb.com/bfs/archive/7faf3e392dfe4584551ad6a64c31c6e8dd79c581.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1p6gj6jEdM&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "JDG战胜BLG LPL第三赛段"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786548362433,
-    "bilibili": 1786548372386,
-    "qbitai": 1786548395329,
-    "36kr": 1786548395824
+    "thepaper": 1786549263094,
+    "bilibili": 1786547831209,
+    "qbitai": 1786549293796,
+    "36kr": 1786549294225
   },
   "failures": {}
 }
