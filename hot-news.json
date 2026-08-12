@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T16:56:35Z",
+  "updatedAt": "2026-08-12T17:11:20Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -200,7 +200,7 @@
         "content": "",
         "bvid": "BV1EKgj6zEbZ",
         "author": "黑鸦Heya",
-        "duration": "0:22",
+        "duration": "1:16",
         "cover": "//i0.hdslb.com/bfs/archive/b5f0031adaf4277d344c0abcda1bbe97f55e1b5f.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EKgj6zEbZ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "DeepSeek V4 Pro正式版上线"
@@ -286,19 +286,19 @@
         "hotTitle": "小片片聊欢迎来龙餐馆"
       },
       {
-        "title": "【大兔子】AL2比1EDG JDG2比1BLG赛后锐评：bulldog可以踢了！圣枪哥BLG首秀开门黑！一塌糊涂！",
-        "url": "https://www.bilibili.com/video/BV1GEgj6hEaU",
+        "title": "【2026LPL第三赛段】8月12日 EDG vs AL",
+        "url": "https://www.bilibili.com/video/BV1dSg56aEfh",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "一塌糊涂 明日预测：WBG2比1Nip，TES2比0LGD，BLG2比1TT 交流一群174961006，交流二群1098024813，欢迎加入~一起畅聊赛事！",
-        "content": "一塌糊涂 明日预测：WBG2比1Nip，TES2比0LGD，BLG2比1TT 交流一群174961006，交流二群1098024813，欢迎加入~一起畅聊赛事！",
-        "bvid": "BV1GEgj6hEaU",
-        "author": "大兔子老师Alter",
-        "duration": "6:59",
-        "cover": "//i1.hdslb.com/bfs/archive/89833b09e44f022e8142b7c3117799b7765852b2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GEgj6hEaU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026LPL第三赛段】8月12日 EDG vs AL",
+        "content": "【2026LPL第三赛段】8月12日 EDG vs AL",
+        "bvid": "BV1dSg56aEfh",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "207:31",
+        "cover": "//i0.hdslb.com/bfs/archive/4d62da934e9fbdcd06bcdb1ede3c7a7e3638501b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dSg56aEfh&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "AL战胜EDG LPL第三赛段"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786553762440,
-    "bilibili": 1786553771198,
-    "qbitai": 1786553794723,
-    "36kr": 1786553795341
+    "thepaper": 1786554662298,
+    "bilibili": 1786553234571,
+    "qbitai": 1786554680177,
+    "36kr": 1786554680613
   },
   "failures": {}
 }
