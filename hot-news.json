@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T17:26:20Z",
+  "updatedAt": "2026-08-12T17:41:21Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -201,7 +201,7 @@
         "bvid": "BV1EKgj6zEbZ",
         "author": "黑鸦Heya",
         "duration": "1:16",
-        "cover": "//i0.hdslb.com/bfs/archive/b5f0031adaf4277d344c0abcda1bbe97f55e1b5f.jpg",
+        "cover": "//i2.hdslb.com/bfs/archive/e918688e372b4e9c9da3f16fef3a6bda69e03b03.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EKgj6zEbZ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "DeepSeek V4 Pro正式版上线"
       },
@@ -286,19 +286,19 @@
         "hotTitle": "大学一个月要多少生活费"
       },
       {
-        "title": "【2026LPL第三赛段】8月12日 EDG vs AL",
-        "url": "https://www.bilibili.com/video/BV1dSg56aEfh",
+        "title": "【LPL赛事速看】第三赛段W4D1: AL二比一击败EDG JDG二比一战胜BLG",
+        "url": "https://www.bilibili.com/video/BV1xXgL6EEN7",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026LPL第三赛段】8月12日 EDG vs AL",
-        "content": "【2026LPL第三赛段】8月12日 EDG vs AL",
-        "bvid": "BV1dSg56aEfh",
+        "description": "【LPL赛事速看】第三赛段W4D1: AL二比一击败EDG JDG二比一战胜BLG",
+        "content": "【LPL赛事速看】第三赛段W4D1: AL二比一击败EDG JDG二比一战胜BLG",
+        "bvid": "BV1xXgL6EEN7",
         "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "207:31",
-        "cover": "//i0.hdslb.com/bfs/archive/4d62da934e9fbdcd06bcdb1ede3c7a7e3638501b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dSg56aEfh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "32:33",
+        "cover": "//i0.hdslb.com/bfs/archive/e3e84d794c429dd25ee865bdd6dc85d646f5707f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xXgL6EEN7&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "AL战胜EDG LPL第三赛段"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786555563228,
-    "bilibili": 1786555565348,
-    "qbitai": 1786555580023,
-    "36kr": 1786555580423
+    "thepaper": 1786556462396,
+    "bilibili": 1786555037137,
+    "qbitai": 1786556480777,
+    "36kr": 1786556481483
   },
   "failures": {}
 }
