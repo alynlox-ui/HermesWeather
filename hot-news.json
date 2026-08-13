@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T08:26:24Z",
+  "updatedAt": "2026-08-13T08:41:25Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "刚刚！Ilya首个模型曝光了",
+        "url": "https://www.qbitai.com/2026/08/471701.html",
+        "desc": "SSI第一剑，劈向持续学习",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/73c7382372897ac3870892952735e212.png",
+        "date": "2026-08-13T16:36:53",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
         "url": "https://www.qbitai.com/2026/08/471697.html",
         "desc": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
@@ -615,7 +625,7 @@
         "date": "2026-08-13T14:33:52",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
@@ -625,7 +635,7 @@
         "date": "2026-08-13T13:10:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5",
@@ -635,7 +645,7 @@
         "date": "2026-08-13T11:54:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
@@ -645,7 +655,7 @@
         "date": "2026-08-13T11:11:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
@@ -655,7 +665,7 @@
         "date": "2026-08-13T11:00:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
@@ -665,7 +675,7 @@
         "date": "2026-08-12T21:46:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
@@ -675,7 +685,7 @@
         "date": "2026-08-12T21:38:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
@@ -685,7 +695,7 @@
         "date": "2026-08-12T21:10:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
@@ -695,7 +705,7 @@
         "date": "2026-08-12T18:54:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
@@ -705,7 +715,7 @@
         "date": "2026-08-12T15:31:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
@@ -715,7 +725,7 @@
         "date": "2026-08-12T12:29:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "刚刚，Manus恢复独立运营",
@@ -725,7 +735,7 @@
         "date": "2026-08-12T10:51:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
@@ -735,7 +745,7 @@
         "date": "2026-08-11T21:57:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
@@ -745,7 +755,7 @@
         "date": "2026-08-11T19:36:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
@@ -755,7 +765,7 @@
         "date": "2026-08-11T17:24:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
@@ -765,7 +775,7 @@
         "date": "2026-08-11T13:12:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "宇树会破发吗？王兴兴回应了",
@@ -775,7 +785,7 @@
         "date": "2026-08-11T12:42:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
@@ -785,7 +795,7 @@
         "date": "2026-08-11T12:31:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
@@ -795,7 +805,7 @@
         "date": "2026-08-11T11:51:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
@@ -805,7 +815,7 @@
         "date": "2026-08-11T11:37:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
@@ -815,7 +825,7 @@
         "date": "2026-08-11T11:11:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
@@ -825,7 +835,7 @@
         "date": "2026-08-11T08:46:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
@@ -835,7 +845,7 @@
         "date": "2026-08-10T21:58:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "PDF当死，ARA该立！论文是时候Agent原生了",
@@ -845,7 +855,7 @@
         "date": "2026-08-10T21:53:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "模型路线趋同之后，Physical AI的胜负手变了",
@@ -855,7 +865,7 @@
         "date": "2026-08-10T17:20:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
@@ -865,7 +875,7 @@
         "date": "2026-08-10T14:58:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
@@ -875,7 +885,7 @@
         "date": "2026-08-10T13:37:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
@@ -885,7 +895,7 @@
         "date": "2026-08-10T11:24:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
@@ -893,16 +903,6 @@
         "desc": "先解决这轮内存荒！",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/5e601a9628ee5d6777224a7da3e36039.png",
         "date": "2026-08-10T10:34:48",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
-        "url": "https://www.qbitai.com/2026/08/469454.html",
-        "desc": "",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/a39027d35d89537304b1a9ce3e0eddc8.jpeg",
-        "date": "2026-08-10T10:25:55",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -940,6 +940,36 @@
         "rank": 3
       },
       {
+        "title": "重庆东证方大创业投资基金登记成立，出资额30亿",
+        "url": "https://m.36kr.com/newsflashes/3937699591945604",
+        "desc": "36氪获悉，天眼查App显示，近日，重庆东证方大创业投资基金合伙企业（有限合伙）成立，执行事务合伙人为上海东方证券资本投资有限公司，出资额30亿人民币，经营范围为创业投资，由上海沪旭投资管理有限公司、重庆产业投资母基金合伙企业（有限合伙）、上海东方证券资本投资有限公司、重庆临空远翔股权投资基金合伙企业（有限合伙）共同出资。",
+        "cover": "",
+        "date": 1786610109859,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "大豪科技：上半年净利润同比增长33.45%",
+        "url": "https://m.36kr.com/newsflashes/3937698295266694",
+        "desc": "36氪获悉，大豪科技披露半年报，公司2026年上半年实现营业收入18.3亿元，同比增长23.36%；归属于上市公司股东的净利润5.32亿元，同比增长33.45%；基本每股收益0.48元。",
+        "cover": "",
+        "date": 1786610030716,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "中煤电力在泰安成立新公司，注册资本5000万",
+        "url": "https://m.36kr.com/newsflashes/3937691691629701",
+        "desc": "36氪获悉，天眼查App显示，近日，中煤（泰安）能源有限公司成立，法定代表人为刘勇，注册资本5000万人民币，经营范围包括新兴能源技术研发、煤炭及制品销售、发电技术服务等，由中煤电力有限公司全资持股。",
+        "cover": "",
+        "date": 1786609627662,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "挪威央行将政策利率维持在4.25%不变，符合市场预期",
         "url": "https://m.36kr.com/newsflashes/3937683089521799",
         "desc": "当地时间8月12日，挪威央行货币政策与金融稳定委员会决定将政策利率维持在4.25%不变，符合市场预期。挪威央行行长表示：“今年夏天通胀已有所放缓，且低于预期。通胀放缓是个好消息，但通胀水平仍然过高，现在断言通胀前景已发生实质性变化还为时过早。因此，未来可能仍需上调政策利率。”（界面）",
@@ -947,7 +977,7 @@
         "date": 1786609102631,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "北方稀土旗下包头稀土研究院增资至6.1亿，增幅约14%",
@@ -957,7 +987,7 @@
         "date": 1786609057827,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "恒指收跌0.17%，联想集团涨超20%",
@@ -967,7 +997,7 @@
         "date": 1786608646391,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "伦敦金属交易所铜库存减少4400吨",
@@ -977,7 +1007,7 @@
         "date": 1786608199361,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "土耳其央行将年末通胀预期上调至28%",
@@ -987,7 +1017,7 @@
         "date": 1786608092992,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "Flipkart创始人旗下Navi聘请投行推进3.15亿美元IPO",
@@ -997,7 +1027,7 @@
         "date": 1786607591713,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "平陆运河首次进行实船单线双向过闸试验",
@@ -1007,7 +1037,7 @@
         "date": 1786607435809,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "宁德时代等在海南成立绿色产投基金",
@@ -1017,7 +1047,7 @@
         "date": 1786607383049,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "WorkBuddy升级“资料库”能力",
@@ -1027,7 +1057,7 @@
         "date": 1786606750544,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "恒力重工集团旗下大连造船公司增资至190亿，增幅约53%",
@@ -1037,7 +1067,7 @@
         "date": 1786606523685,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "乐刻用户数突破2000万，全国门店超2300家",
@@ -1047,7 +1077,7 @@
         "date": 1786606236479,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "外资涌入日本芯片行业，投资规模已达6万亿日元",
@@ -1057,7 +1087,7 @@
         "date": 1786606177278,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "L&T获超10亿美元英伟达B300 AI工厂订单",
@@ -1067,7 +1097,7 @@
         "date": 1786606059089,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "联想CEO：本财年力争实现1000亿美元营收",
@@ -1077,7 +1107,7 @@
         "date": 1786605549313,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "京东与灵御智能达成战略合作",
@@ -1087,7 +1117,7 @@
         "date": 1786605404753,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "三星、SK海力士积极引入AI，人员绩效考核与AI部署直接挂钩",
@@ -1097,7 +1127,7 @@
         "date": 1786604977681,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "A股三大指数集体收跌，生物科技板块走强",
@@ -1107,45 +1137,15 @@
         "date": 1786604479941,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "投资方预计Anthropic将于10月挂牌上市，估值有望达2万亿美元",
-        "url": "https://m.36kr.com/newsflashes/3937597450993026",
-        "desc": "投资方预计，人工智能初创企业Anthropic将于10月挂牌上市，估值达到2万亿美元乃至更高。这一惊人估值将超越SpaceX，让这家AI实验室创下史上规模最大的首次公开募股纪录。六位该公司投资方透露，凭借营收迅猛攀升，Anthropic计划于今年秋季上市，估值较当前水平有望翻一倍以上。倘若以此估值完成上市，这家成立五年的企业早期投资方将斩获数十亿美元收益。（财联社）",
-        "cover": "",
-        "date": 1786603875670,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "联想CEO：计划今年晚些时候推出搭载英伟达RTX芯片的AI PC",
-        "url": "https://m.36kr.com/newsflashes/3937592865717639",
-        "desc": "联想CEO表示，与英伟达合作，计划在今年晚些时候推出搭载RTX芯片的AI PC；内存短缺不会推迟AI PC的出货，将根据供应情况灵活调整消费电子产品价格。（财联社）",
-        "cover": "",
-        "date": 1786603595807,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "三大指数尾盘集体翻绿",
-        "url": "https://m.36kr.com/newsflashes/3937591700389001",
-        "desc": "36氪获悉，A股三大指数尾盘集体翻绿，贵金属、教育、光伏设备、房地产等板块跌幅居前，沪深京三市下跌个股超4300只。",
-        "cover": "",
-        "date": 1786603524681,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786609567012,
+    "thepaper": 1786610464616,
     "bilibili": 1786608943922,
-    "qbitai": 1786609584176,
-    "36kr": 1786609584618
+    "qbitai": 1786610485223,
+    "36kr": 1786610485538
   },
   "failures": {}
 }
