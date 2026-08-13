@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T17:41:20Z",
+  "updatedAt": "2026-08-13T17:56:23Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "真实电竞锐评BLG 2:0 TT，请问各位今天换文波能赢TT吗，能让大家舒服吗",
-        "url": "https://www.bilibili.com/video/BV1jtgs64Ezt",
+        "title": "【BLG vs TT】德云色解说：误会解除！（2026第三赛段）",
+        "url": "https://www.bilibili.com/video/BV1o2gW6sExP",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1jtgs64Ezt",
-        "author": "晚风不及晨晔",
-        "duration": "4:33",
-        "cover": "//i1.hdslb.com/bfs/archive/c6f273d2bc75d7ae3398796c2bfe5b46ed11e12f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jtgs64Ezt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 @小孩kiddddd @dys渔不沮 @dys融融子 @释梦398 @DYS-嚣张花卷 @德云色黑莓 @看不见的Dv彡 @Muchyoung1 @二柱子il 百度贴吧：德云色",
+        "content": "德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 @小孩kiddddd @dys渔不沮 @dys融融子 @释梦398 @DYS-嚣张花卷 @德云色黑莓 @看不见的Dv彡 @Muchyoung1 @二柱子il 百度贴吧：德云色",
+        "bvid": "BV1o2gW6sExP",
+        "author": "老实憨厚的笑笑",
+        "duration": "302:44",
+        "cover": "//i1.hdslb.com/bfs/archive/8b527bd9d3cdd2b8569a11bda9f6ab042851b1c5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1o2gW6sExP&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG战胜TT LPL第三赛段"
       },
       {
@@ -382,19 +382,19 @@
         "hotTitle": "臣妾要线上告发熹贵妃"
       },
       {
-        "title": "【KPL夏季赛二路解说合集】8月13日 成都AG超玩会 vs 长沙TES.A",
-        "url": "https://www.bilibili.com/video/BV13egp6yECR",
+        "title": "【B站二路解说KPL夏季赛】8月13日 成都AG超玩会 vs 长沙TES.A",
+        "url": "https://www.bilibili.com/video/BV1XYgp6LEzy",
         "desc": "",
         "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV13egp6yECR",
+        "bvid": "BV1XYgp6LEzy",
         "author": "kpl二路",
-        "duration": "1325:56",
-        "cover": "//i0.hdslb.com/bfs/archive/8819625a73c312a957d8f55d821f66a5e9cab73c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13egp6yECR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "1873:17",
+        "cover": "//i2.hdslb.com/bfs/archive/2c661dd34b795bb7438adcfacd14e0cb2a98d5bc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XYgp6LEzy&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "长沙TES.A战胜成都AG超玩会 KPL"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786642863572,
+    "thepaper": 1786643763677,
     "bilibili": 1786642118589,
-    "qbitai": 1786642879784,
-    "36kr": 1786642880224
+    "qbitai": 1786643783001,
+    "36kr": 1786643783402
   },
   "failures": {}
 }
