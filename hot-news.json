@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:11:26Z",
+  "updatedAt": "2026-08-13T22:26:27Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -16,32 +16,32 @@
         "rank": 2
       },
       {
+        "title": "国内成品油价年内第五次下调将至",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33777833",
+        "desc": "",
+        "rank": 3
+      },
+      {
         "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
         "url": "https://www.thepaper.cn/newsDetail_forward_33773012",
         "desc": "",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "视频丨普京首次登上俄日争议岛屿",
         "url": "https://www.thepaper.cn/newsDetail_forward_33775032",
         "desc": "",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "马上评｜郭德纲即兴改编是否违规，武汉文旅不妨以调查给出结论",
         "url": "https://www.thepaper.cn/newsDetail_forward_33774962",
         "desc": "",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
         "url": "https://www.thepaper.cn/newsDetail_forward_33768942",
-        "desc": "",
-        "rank": 6
-      },
-      {
-        "title": "国内成品油价年内第五次下调将至",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33777833",
         "desc": "",
         "rank": 7
       },
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786659063054,
+    "thepaper": 1786659963241,
     "bilibili": 1786658423742,
-    "qbitai": 1786659086400,
-    "36kr": 1786659086948
+    "qbitai": 1786659987032,
+    "36kr": 1786659987518
   },
   "failures": {}
 }
