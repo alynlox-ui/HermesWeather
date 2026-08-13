@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T17:11:22Z",
+  "updatedAt": "2026-08-13T17:26:21Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -52,14 +52,14 @@
         "rank": 8
       },
       {
-        "title": "马上评｜博物馆不能总让小朋友来当“校对”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33774383",
+        "title": "国内成品油价年内第五次下调将至",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33777833",
         "desc": "",
         "rank": 9
       },
       {
-        "title": "国内成品油价年内第五次下调将至",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33777833",
+        "title": "马上评｜博物馆不能总让小朋友来当“校对”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33774383",
         "desc": "",
         "rank": 10
       },
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "BLG晋级S赛！BLG 2-0 TT 赛后数据雷达图+虎扑评分丨LPL第三赛段",
-        "url": "https://www.bilibili.com/video/BV1W5gs6KE7r",
+        "title": "【2026LPL第三赛段】8月13日 TT vs BLG",
+        "url": "https://www.bilibili.com/video/BV1xmgs6CEeM",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1W5gs6KE7r",
-        "author": "苦练李香兰",
-        "duration": "2:40",
-        "cover": "//i0.hdslb.com/bfs/archive/82c9670f4f38d4a58905e87cb5b20233a0badad8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1W5gs6KE7r&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026LPL第三赛段】8月13日 TT vs BLG",
+        "content": "【2026LPL第三赛段】8月13日 TT vs BLG",
+        "bvid": "BV1xmgs6CEeM",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "144:4",
+        "cover": "//i2.hdslb.com/bfs/archive/26a548196ea6a69491e29c51e0ba9ae128fbf6d0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xmgs6CEeM&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG战胜TT LPL第三赛段"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786641063304,
+    "thepaper": 1786641963865,
     "bilibili": 1786640312070,
-    "qbitai": 1786641082310,
-    "36kr": 1786641082795
+    "qbitai": 1786641980660,
+    "36kr": 1786641981034
   },
   "failures": {}
 }
