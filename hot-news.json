@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T05:56:23Z",
+  "updatedAt": "2026-08-14T06:11:25Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -238,19 +238,19 @@
         "hotTitle": "百花奖最佳导演的来时路"
       },
       {
-        "title": "直击河南郏县溃口抢险现场：武警官兵闻令而动投入堤坝加固、缺口封堵任务",
-        "url": "https://www.bilibili.com/video/BV1SegF6LEkB",
+        "title": "接应急管理部救援协调局指令，中国安能西安救援队携动力舟桥、大功率排涝泵车等重型专业装备，紧急驰援河南驻马店、平顶山，全力投入抗洪救援任务。（尹思诚、王俊）",
+        "url": "https://www.bilibili.com/video/BV1c1gE6DESX",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "受极端强降雨及上游水库大流量泄洪共同影响，8月12日晚，河南平顶山郏县、长桥镇、北汝河段民堤发生溃口，溃口宽度40余米。武警河南总队平顶山支队官兵闻令而动，投入堤坝加固、缺口封堵任务。13日凌晨3时前，当地已组织两批次共计2182名群众转移避险，暂未接到人员被困和伤亡情况报告。",
-        "content": "受极端强降雨及上游水库大流量泄洪共同影响，8月12日晚，河南平顶山郏县、长桥镇、北汝河段民堤发生溃口，溃口宽度40余米。武警河南总队平顶山支队官兵闻令而动，投入堤坝加固、缺口封堵任务。13日凌晨3时前，当地已组织两批次共计2182名群众转移避险，暂未接到人员被困和伤亡情况报告。",
-        "bvid": "BV1SegF6LEkB",
-        "author": "青蜂侠-Bee",
-        "duration": "0:58",
-        "cover": "//i1.hdslb.com/bfs/archive/7ac958ad993d3d69c90f54320d630f3b756e8182.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SegF6LEkB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1c1gE6DESX",
+        "author": "中国安能-水电铁军",
+        "duration": "0:23",
+        "cover": "//i0.hdslb.com/bfs/archive/90860861cee21157ad0b20cbadc945b483387279.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c1gE6DESX&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "直击河南溃口封堵抢险现场"
       },
       {
@@ -940,6 +940,36 @@
         "rank": 3
       },
       {
+        "title": "港股AI应用板块午后跌幅扩大，MINIMAX-W跌超10%",
+        "url": "https://m.36kr.com/newsflashes/3938970539965568",
+        "desc": "36氪获悉，港股AI应用板块午后跌幅扩大，MINIMAX-W跌超10%，智谱跌近6%，速腾聚创、佑驾创新等跟跌。",
+        "cover": "",
+        "date": 1786687682370,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "灵犀专业版首发接入GLM-5.3",
+        "url": "https://m.36kr.com/newsflashes/3938965845146757",
+        "desc": "36氪获悉，8月14日，金山办公旗下AI办公智能体灵犀专业版宣布首发接入智谱GLM-5.3模型。用户在灵犀专业版内切换至该模型即可直接使用，无需额外配置。接入GLM-5.3后，灵犀专业版在写代码、跑数据、处理复杂办公流程等代码驱动任务上的交付能力进一步增强，端到端完成工作的链路更完整。",
+        "cover": "",
+        "date": 1786687395821,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "众擎机器人等成立科技公司，智能无人飞行器制造业务",
+        "url": "https://m.36kr.com/newsflashes/3938961033198978",
+        "desc": "36氪获悉，企查查App显示，近日，上海星意擎坤科技有限公司成立，法定代表人为吕学敏，注册资本为6120万元，经营范围包含人工智能基础软件开发；智能机器人的研发；智能机器人销售；工业机器人销售；智能无人飞行器制造等。企查查股权穿透显示，该公司由深圳众擎机器人科技股份有限公司、上海傲意信息科技有限公司等共同持股。",
+        "cover": "",
+        "date": 1786687102123,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "天海防务等成立智慧船港航股权投资基金",
         "url": "https://m.36kr.com/newsflashes/3938955588320645",
         "desc": "36氪获悉，企查查App显示，近日，九江市智慧船港航股权投资基金合伙企业（有限合伙）成立，经营范围包含以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该企业由天海防务等共同出资。",
@@ -947,7 +977,7 @@
         "date": 1786686769794,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "消息人士称日本央行考虑9月加息，并加快紧缩步伐",
@@ -957,7 +987,7 @@
         "date": 1786686545172,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "智谱正式发布GLM-5.3",
@@ -967,7 +997,7 @@
         "date": 1786686483890,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "江苏：支持火箭卫星总体、卫星载荷等领域龙头企业对接资本市场，加快上市步伐",
@@ -977,7 +1007,7 @@
         "date": 1786686119174,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "江苏：推进太空计算全链条降本，支持太空超算中心等前瞻性试验建设",
@@ -987,7 +1017,7 @@
         "date": 1786686002088,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "京投发展触及跌停，上演天地板",
@@ -997,7 +1027,7 @@
         "date": 1786685003720,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "消息称亚洲私募股权公司Trustar Capital正接近达成收购阿里巴巴集团游戏业务的交易",
@@ -1007,7 +1037,7 @@
         "date": 1786684830266,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "机构：预估至2030年，全球LED通用照明市场规模有望达609.42亿美元",
@@ -1017,7 +1047,7 @@
         "date": 1786684473831,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "恒生科技指数跌幅扩大至2%",
@@ -1027,7 +1057,7 @@
         "date": 1786684072149,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "2026年度电影总票房突破250亿",
@@ -1037,7 +1067,7 @@
         "date": 1786683641239,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "月之暗面增资至224万，增幅约47%",
@@ -1047,7 +1077,7 @@
         "date": 1786683207019,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "星空芯片获头部新能源车企定点",
@@ -1057,7 +1087,7 @@
         "date": 1786682940101,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "消息称苹果针对中国市场训练了一款AI模型",
@@ -1067,7 +1097,7 @@
         "date": 1786682634315,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "微信明确：朋友圈未来不会推出二次编辑功能",
@@ -1077,7 +1107,7 @@
         "date": 1786682178960,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "SK海力士考虑合资建设存储芯片工厂，降低资本支出和产能过剩风险",
@@ -1087,7 +1117,7 @@
         "date": 1786681946319,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "叮咚买菜将正式进驻合肥",
@@ -1097,7 +1127,7 @@
         "date": 1786681845203,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "正帆科技在浙江成立科技公司",
@@ -1107,45 +1137,15 @@
         "date": 1786681067976,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "百度搭子7月月访问量达到897万，环比增长845%",
-        "url": "https://m.36kr.com/newsflashes/3938853072043395",
-        "desc": "36氪获悉，8月14日消息，AI产品榜·网站榜发布2026年7月榜单。百度搭子7月月访问量达到897万，环比增长845%，位列全球增速总榜第二，同时成为该榜单中增速最快的AI Agent产品。",
-        "cover": "",
-        "date": 1786680512697,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "恒指午间休盘跌0.93%，恒生科技指数跌1.79%",
-        "url": "https://m.36kr.com/newsflashes/3938848040582534",
-        "desc": "36氪获悉，恒指午间休盘跌0.93%，恒生科技指数跌1.79%；煤炭、电信、食品饮料板块领涨，卫龙美味涨超4%，中国秦发、中国电信涨超3%；医药、保险、半导体板块跌幅居前，华虹宏力跌超12%，福森药业跌超5%，中国人寿跌超2%；南向资金净买入16.83亿港元。",
-        "cover": "",
-        "date": 1786680205601,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "泰佩思琦：第四季度销售额19亿美元，同比增长9%",
-        "url": "https://m.36kr.com/newsflashes/3938837285191045",
-        "desc": "36氪获悉，泰佩思琦集团公布截至2026年6月27日的2026财年第四季度及全年业绩。第四季度销售额19亿美元，同比增长9%，按备考恒定汇率计算增长11%，主要由COACH品牌15%（按固定汇率计算为14%）的业绩增长带动。2026财年全年销售额80亿美元，同比增长14%，按备考恒定汇率计算增长17%。",
-        "cover": "",
-        "date": 1786679549144,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786686965041,
+    "thepaper": 1786687866250,
     "bilibili": 1786686222733,
-    "qbitai": 1786686983460,
-    "36kr": 1786686983823
+    "qbitai": 1786687884928,
+    "36kr": 1786687885445
   },
   "failures": {}
 }
