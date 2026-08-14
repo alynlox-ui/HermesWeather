@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T08:41:25Z",
+  "updatedAt": "2026-08-14T08:56:24Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -270,19 +270,19 @@
         "hotTitle": "如何看德国总理默茨34项改革"
       },
       {
-        "title": "湖南涟源市杨梅山煤矿发生一起瓦斯突出事故 7人失联#湖南#煤矿",
-        "url": "https://www.bilibili.com/video/BV1Vagw6xEqu",
+        "title": "湖南涟源杨梅山煤矿发生煤与瓦斯突出事故，2人升井，5人仍失联",
+        "url": "https://www.bilibili.com/video/BV1DkgP6xE1o",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Vagw6xEqu",
-        "author": "冀时新闻",
-        "duration": "0:7",
-        "cover": "//i2.hdslb.com/bfs/archive/2f7bb515b2d192d0e60a5426904caa6f638ca969.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vagw6xEqu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "湖南涟源杨梅山煤矿发生煤与瓦斯突出事故最新情况，2人升井，5人仍失联",
+        "content": "湖南涟源杨梅山煤矿发生煤与瓦斯突出事故最新情况，2人升井，5人仍失联",
+        "bvid": "BV1DkgP6xE1o",
+        "author": "煤矿守护星",
+        "duration": "0:8",
+        "cover": "//i0.hdslb.com/bfs/archive/94e2493be7321b07229c28754282d6d2e32c5e2c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DkgP6xE1o&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "湖南一煤矿发生瓦斯突出事故"
       },
       {
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+        "url": "https://www.qbitai.com/2026/08/473038.html",
+        "desc": "顺手拿下最强开源安全模型",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/3f298c7b973d2c3ac094f8f82d540123.webp",
+        "date": "2026-08-14T16:47:51",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
         "url": "https://www.qbitai.com/2026/08/473144.html",
         "desc": "",
@@ -615,7 +625,7 @@
         "date": "2026-08-14T16:36:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
@@ -625,7 +635,7 @@
         "date": "2026-08-14T15:29:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
@@ -635,7 +645,7 @@
         "date": "2026-08-14T14:18:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "深度体验DeepSeek Harness，我原谅它涨价了",
@@ -645,7 +655,7 @@
         "date": "2026-08-14T00:03:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
@@ -655,7 +665,7 @@
         "date": "2026-08-13T20:34:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
@@ -665,7 +675,7 @@
         "date": "2026-08-13T20:04:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
@@ -675,7 +685,7 @@
         "date": "2026-08-13T19:53:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
@@ -685,7 +695,7 @@
         "date": "2026-08-13T19:29:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
@@ -695,7 +705,7 @@
         "date": "2026-08-13T18:20:32",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
@@ -705,7 +715,7 @@
         "date": "2026-08-13T18:01:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "刚刚！Ilya首个模型曝光了",
@@ -715,7 +725,7 @@
         "date": "2026-08-13T16:36:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
@@ -725,7 +735,7 @@
         "date": "2026-08-13T14:33:52",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
@@ -735,7 +745,7 @@
         "date": "2026-08-13T13:10:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5",
@@ -745,7 +755,7 @@
         "date": "2026-08-13T11:54:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
@@ -755,7 +765,7 @@
         "date": "2026-08-13T11:11:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
@@ -765,7 +775,7 @@
         "date": "2026-08-13T11:00:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
@@ -775,7 +785,7 @@
         "date": "2026-08-12T21:46:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
@@ -785,7 +795,7 @@
         "date": "2026-08-12T21:38:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
@@ -795,7 +805,7 @@
         "date": "2026-08-12T21:10:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
@@ -805,7 +815,7 @@
         "date": "2026-08-12T18:54:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
@@ -815,7 +825,7 @@
         "date": "2026-08-12T15:31:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
@@ -825,7 +835,7 @@
         "date": "2026-08-12T12:29:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "刚刚，Manus恢复独立运营",
@@ -835,7 +845,7 @@
         "date": "2026-08-12T10:51:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
@@ -845,7 +855,7 @@
         "date": "2026-08-11T21:57:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
@@ -855,7 +865,7 @@
         "date": "2026-08-11T19:36:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
@@ -865,7 +875,7 @@
         "date": "2026-08-11T17:24:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
@@ -875,7 +885,7 @@
         "date": "2026-08-11T13:12:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "宇树会破发吗？王兴兴回应了",
@@ -885,7 +895,7 @@
         "date": "2026-08-11T12:42:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
@@ -893,16 +903,6 @@
         "desc": "真就把GPU当理财产品了～",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/ecce598fd92c2f5d17730d17fb272ca1.webp",
         "date": "2026-08-11T12:31:39",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
-        "url": "https://www.qbitai.com/2026/08/470228.html",
-        "desc": "大水印时代来了",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/c322041538f6b00abc4bf1bc016a69d0.png",
-        "date": "2026-08-11T11:51:24",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,66 @@
         "rank": 2
       },
       {
+        "title": "香港上半年实质本地生产总值按年增长5.1%",
+        "url": "https://m.36kr.com/newsflashes/3939126880959878",
+        "desc": "香港特区政府今日（14日）发表《2026年半年经济报告》和2026年第二季度的本地生产总值修订数字。特区政府经济顾问范婉儿阐述2026年第二季度的经济表现，以及最新的2026年全年本地生产总值和物价预测。受对外贸易蓬勃和内部需求强韧所支持，香港经济在2026第二季度继续蓬勃扩张。实质本地生产总值在第二季按年增长4.3%，上一季增长5.9%。2026年上半年，实质本地生产总值按年增长5.1%，是近五年来最强劲的半年度表现。（大湾区之声）",
+        "cover": "",
+        "date": 1786697640000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "腾讯混元资深研究员徐灿转岗微信WeLM",
+        "url": "https://m.36kr.com/newsflashes/3939132139240835",
+        "desc": "36氪从相关人士处获悉，混元资深研究员徐灿在近期加入腾讯WeLM团队，从事大模型研发相关工作。多名知情人士透露，在姚顺雨接手腾讯大语言模型研发前，徐灿在混元LLM体系中担任后训练一个方向上的负责人。值得一提的是，这次转岗发生在微信持续强化自研大模型和Agent能力的阶段。6月，微信原生AI助手“小微”已进入小范围灰度测试，可通过文字或语音操作微信原生功能，并调用小程序完成服务任务。",
+        "cover": "",
+        "date": 1786697545607,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "阿里超15亿美金向中信资本出售灵犀互娱",
+        "url": "https://m.36kr.com/newsflashes/3939130106281093",
+        "desc": "据报道，阿里旗下灵犀互娱的买方已经确定，为中信资本旗下的信宸资本（Trustar Capital），出售价格预计超过15亿（约合101亿元人民币）。（21财经）",
+        "cover": "",
+        "date": 1786697421525,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "SK海力士因可交换债换股及股价上涨确认3.98万亿韩元损失",
+        "url": "https://m.36kr.com/newsflashes/3939122262408320",
+        "desc": "根据监管文件，SK海力士在2026年上半年确认与2023年4月发行的可交换债券相关的衍生品交易损失3.98万亿韩元。该损失源于相关债券持有人行使换股权，以及SK海力士在韩国上市股票价格上涨。SK海力士表示，上述会计损失不会导致实际现金流出；同时，当可交换债券转换为股份时确认的库存股处置收益，已基本抵消相关损失。（财联社）",
+        "cover": "",
+        "date": 1786697359000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "Coach母公司Tapestry 2026财年营收80亿美元，同比增长14%",
+        "url": "https://m.36kr.com/newsflashes/3939120495099265",
+        "desc": "当地时间8月13日，Coach母公司Tapestry公布2026财年第四季度及全年业绩。第四季度营收18.77亿美元，同比增长9%；营业利润4.42亿美元，上年同期营业亏损5.84亿美元。全年营收80.04亿美元，同比增长14%；营业利润19.14亿美元，上年同期为4.15亿美元；稀释后每股收益7.27美元，上年同期为0.82美元。（界面）",
+        "cover": "",
+        "date": 1786697198752,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "7月贷款利率保持低位水平",
+        "url": "https://m.36kr.com/newsflashes/3939121503173764",
+        "desc": "从中国人民银行获悉，今年以来，我国贷款利率保持低位水平，7月延续下行态势。7月份，企业新发放贷款加权平均利率略低于3%，比上年同期低约0.2个百分点；个人住房新发放贷款加权平均利率约3.1%，与上年同期基本持平。（新华社）",
+        "cover": "",
+        "date": 1786696896433,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
         "title": "央行：前七个月人民币贷款增加10.38万亿元",
         "url": "https://m.36kr.com/newsflashes/3939119936748933",
         "desc": "36氪获悉，央行数据显示，7月末，本外币贷款余额286.07万亿元，同比增长5%。月末人民币贷款余额282.29万亿元，同比增长5.1%。前七个月人民币贷款增加10.38万亿元。分部门看，住户贷款减少8271亿元，其中，短期贷款减少9281亿元，中长期贷款增加1010亿元；企（事）业单位贷款增加11万亿元，其中，短期贷款增加4.34万亿元，中长期贷款增加5.32万亿元，票据融资增加1.19万亿元；非银行业金融机构贷款减少3944亿元。",
@@ -937,7 +997,7 @@
         "date": 1786696800826,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 9
       },
       {
         "title": "央行：前七个月人民币存款增加17.79万亿元",
@@ -947,7 +1007,7 @@
         "date": 1786696696354,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 10
       },
       {
         "title": "央行：2026年7月末社会融资规模存量为463.27万亿元，同比增长7.4%",
@@ -957,7 +1017,7 @@
         "date": 1786696667603,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 11
       },
       {
         "title": "央行：7月末广义货币（M2）余额同比增长7.7%",
@@ -967,7 +1027,7 @@
         "date": 1786696601906,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 12
       },
       {
         "title": "央行：前七个月社会融资规模增量累计为22.25万亿元",
@@ -977,7 +1037,7 @@
         "date": 1786696566929,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 13
       },
       {
         "title": "乘联分会：轻型商用车2026全年销量有望达到296万辆",
@@ -987,7 +1047,7 @@
         "date": 1786696562583,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 14
       },
       {
         "title": "开勒股份：终止收购科盛机电不低于50%股权",
@@ -997,7 +1057,7 @@
         "date": 1786696332220,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 15
       },
       {
         "title": "英伟达宣布CPO交换机全面量产",
@@ -1007,7 +1067,7 @@
         "date": 1786696084000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 16
       },
       {
         "title": "广州海珠落地“词元八条”",
@@ -1017,7 +1077,7 @@
         "date": 1786696028176,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 17
       },
       {
         "title": "炬光科技：NPO/CPO相关微光学产品及高通道V型槽产品部分完成批量验证，在手订单持续增加",
@@ -1027,7 +1087,7 @@
         "date": 1786695990167,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 18
       },
       {
         "title": "佰维存储：股东孙静减持计划届满，累计减持0.50%股份",
@@ -1037,7 +1097,7 @@
         "date": 1786695895000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 19
       },
       {
         "title": "广东省首个词元经济专项金融产品“Token贷”在广州海珠发布",
@@ -1047,7 +1107,7 @@
         "date": 1786695476327,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 20
       },
       {
         "title": "恒指收跌1.1%，恒生科技指数跌1.77%",
@@ -1057,7 +1117,7 @@
         "date": 1786695001561,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 21
       },
       {
         "title": "高性价比中国大模型兵临城下，美头部AI实验室大幅降价应对",
@@ -1067,75 +1127,15 @@
         "date": 1786694491000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
-      },
-      {
-        "title": "春秋航空：7月旅客周转量同比增长9.72%",
-        "url": "https://m.36kr.com/newsflashes/3939067532164233",
-        "desc": "36氪获悉，春秋航空公告，2026年7月份旅客周转量58.69亿人公里，同比增长9.72%；客座率93.31%，同比增长1.45%。",
-        "cover": "",
-        "date": 1786694199000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 17
-      },
-      {
-        "title": "上海机场：7月浦东国际机场旅客吞吐量同比增长7.89%",
-        "url": "https://m.36kr.com/newsflashes/3939066685701250",
-        "desc": "36氪获悉，上海机场公告，2026年7月，浦东国际机场旅客吞吐量807.16万人次，同比增长7.89%；货邮吞吐量40.68万吨，同比增长14.59%。虹桥国际机场旅客吞吐量443.73万人次，同比增长4.85%；货邮吞吐量3.52万吨，同比下降0.87%。",
-        "cover": "",
-        "date": 1786693967000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "三友化工：拟开展不超26亿元商品期货套期保值业务",
-        "url": "https://m.36kr.com/newsflashes/3939064472730753",
-        "desc": "36氪获悉，三友化工公告，为规避产品及原材料价格波动风险，公司拟开展商品期货套期保值业务。本次套保业务预计动用交易保证金和权利金不超9亿元，任一交易日持有的最高合约价值不超26亿元，额度可循环使用，资金为自有资金。交易期限自股东会审议通过之日起12个月，交易品种含纯碱、烧碱等。公司制定了风控措施，套保业务有助于增强经营及财务稳健性。该议案已通过十届一次董事会会议审议，将在8月25日召开的2026年第三次临时股东会审议。",
-        "cover": "",
-        "date": 1786693809974,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "国电南瑞：拟以5亿元-10亿元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/3939063834066313",
-        "desc": "36氪获悉，国电南瑞公告，拟以不低于人民币5亿元（含本数）、不超过人民币10亿元（含本数）回购公司股份，回购价格不超过35.17元/股（含本数），回购资金来源为自有资金。回购股份用于未来实施股权激励计划，公司如在股份回购完成之后36个月内未能实施上述用途，或所回购的股份未全部用于上述用途，未使用的部分将履行相关程序予以注销。",
-        "cover": "",
-        "date": 1786693376590,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "贵州茅台集团党委原副书记赵书跃接受审查调查",
-        "url": "https://m.36kr.com/newsflashes/3939060585151880",
-        "desc": "36氪获悉，据贵州省纪委监委消息：中国贵州茅台酒厂（集团）有限责任公司党委原副书记赵书跃涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。",
-        "cover": "",
-        "date": 1786693178292,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "澳大利亚每25户家庭就有1户安装储能电池，家庭储能规模超过美国",
-        "url": "https://m.36kr.com/newsflashes/3939057107336328",
-        "desc": "在一项政府计划推动下，澳大利亚已有50万户家庭安装家用储能电池，约占全国家庭总数的4%。“这是澳大利亚家庭取得的一项具有全球意义的成就：实现了14吉瓦时的储能容量，”Bowen在新闻发布会上表示，“相比之下，美国全国仅有9吉瓦时储能容量，而其人口规模是我们的12倍。”（财联社）",
-        "cover": "",
-        "date": 1786692966023,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786696864806,
+    "thepaper": 1786697765302,
     "bilibili": 1786696025940,
-    "qbitai": 1786696885581,
-    "36kr": 1786696885957
+    "qbitai": 1786697784401,
+    "36kr": 1786697784716
   },
   "failures": {}
 }
