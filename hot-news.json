@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T07:56:29Z",
+  "updatedAt": "2026-08-14T08:11:23Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,26 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "EDG不敌JDG创队史新低！DRG巨大优势惨遭翻盘无缘季后赛！【奶爸侃瓦387】",
-        "url": "https://www.bilibili.com/video/BV1NxuB6GEFn",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1NxuB6GEFn",
-        "author": "解说奶爸",
-        "duration": "9:38",
-        "cover": "//i0.hdslb.com/bfs/archive/eb2306cde7c03a33533bad5a161abc4e5f81e6bf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NxuB6GEFn&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "EDG vs LGD LPL第三赛段"
-      },
-      {
         "title": "终于等到陆光视角！第三季开篇就在疯狂回收第一季的刀",
         "url": "https://www.bilibili.com/video/BV1LcgH6EE9B",
         "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -156,6 +140,22 @@
         "cover": "//i1.hdslb.com/bfs/archive/5c4749ee05ed09e07983ece9c09a21b9e73909ff.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LcgH6EE9B&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "时光代理人第三季开播"
+      },
+      {
+        "title": "EDG不敌JDG创队史新低！DRG巨大优势惨遭翻盘无缘季后赛！【奶爸侃瓦387】",
+        "url": "https://www.bilibili.com/video/BV1NxuB6GEFn",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1NxuB6GEFn",
+        "author": "解说奶爸",
+        "duration": "9:38",
+        "cover": "//i0.hdslb.com/bfs/archive/eb2306cde7c03a33533bad5a161abc4e5f81e6bf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NxuB6GEFn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "EDG vs LGD LPL第三赛段"
       },
       {
         "title": "特朗普下令：放弃电磁弹射，改回蒸汽弹射",
@@ -174,10 +174,26 @@
         "hotTitle": "特朗普允许美海军海外建造舰船"
       },
       {
+        "title": "德国总理默茨孤注一掷！34项改革能够阻止改革党上台？",
+        "url": "https://www.bilibili.com/video/BV1M6gF6GEcK",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本期视频提及的事件以及信息来源如下： 《德国7月通胀率升至2.8% 能源价格大幅上涨》，新华网，2026-07-30 《德国总理宣布改组联邦政府》，新华网，2026-07-24 《调查：德国一半高收入人群考虑移居海外》，凤凰欧洲公众号，2026-07-20 《希特勒出生故居变警局》，凤凰欧洲公众号，2026-07-23 《默茨的“孤注一掷”，能否开启“德国复苏”模式》，环球网，2026-07-07 《在德国，请病假成了政治问题》，工人日报公众号，2026-07-07 《民调机构：德国选择党支持率创新高》，",
+        "content": "本期视频提及的事件以及信息来源如下： 《德国7月通胀率升至2.8% 能源价格大幅上涨》，新华网，2026-07-30 《德国总理宣布改组联邦政府》，新华网，2026-07-24 《调查：德国一半高收入人群考虑移居海外》，凤凰欧洲公众号，2026-07-20 《希特勒出生故居变警局》，凤凰欧洲公众号，2026-07-23 《默茨的“孤注一掷”，能否开启“德国复苏”模式》，环球网，2026-07-07 《在德国，请病假成了政治问题》，工人日报公众号，2026-07-07 《民调机构：德国选择党支持率创新高》，",
+        "bvid": "BV1M6gF6GEcK",
+        "author": "麻薯波比呀",
+        "duration": "16:25",
+        "cover": "//i0.hdslb.com/bfs/archive/ba7c8439f0fd0332429b7772a5b228b63e34a63d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1M6gF6GEcK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何看德国总理默茨34项改革"
+      },
+      {
         "title": "突发：智谱发布 GLM-5.3 模型！",
         "url": "https://www.bilibili.com/video/BV1NUgw6yE8M",
         "desc": "",
-        "rank": 4,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -187,23 +203,7 @@
         "duration": "1:19",
         "cover": "//i0.hdslb.com/bfs/archive/744640f465e8d06d926347f85bf3994ba7fd4d55.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NUgw6yE8M&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "智谱发布 GLM-5.3 模型"
-      },
-      {
-        "title": "湖南涟源市杨梅山煤矿发生一起瓦斯突出事故 7人失联#湖南#煤矿",
-        "url": "https://www.bilibili.com/video/BV1Vagw6xEqu",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Vagw6xEqu",
-        "author": "冀时新闻",
-        "duration": "0:7",
-        "cover": "//i2.hdslb.com/bfs/archive/2f7bb515b2d192d0e60a5426904caa6f638ca969.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vagw6xEqu&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "湖南一煤矿发生瓦斯突出事故"
+        "hotTitle": "智谱发布GLM-5.3模型"
       },
       {
         "title": "【超哥查理斯+SDN解说】XG vs Spirit TI15国际邀请赛小组赛【2026年8月13日】",
@@ -254,36 +254,36 @@
         "hotTitle": "史上最大IPO或将易主"
       },
       {
-        "title": "【恐怖版】PVZ恐怖版：序章宣传片",
-        "url": "https://www.bilibili.com/video/BV1F2gj6GEMw",
+        "title": "湖南涟源市杨梅山煤矿发生一起瓦斯突出事故 7人失联#湖南#煤矿",
+        "url": "https://www.bilibili.com/video/BV1Vagw6xEqu",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "策划：对不起贱笑了 程序：@道源君Tao 动画：@小趣糕 @灵风-_- @你Ruigi大爹 美术：@沮痛丶 @黯月-_ @咕呱要摸鱼 音乐：@夜暮青CINK 宣传：@阿都ai42 游戏下载链接： 安卓手机 https://pan.quark.cn/s/9065bc24fc5d Win电脑 https://pan.quark.cn/s/8b949883a562",
-        "content": "策划：对不起贱笑了 程序：@道源君Tao 动画：@小趣糕 @灵风-_- @你Ruigi大爹 美术：@沮痛丶 @黯月-_ @咕呱要摸鱼 音乐：@夜暮青CINK 宣传：@阿都ai42 游戏下载链接： 安卓手机 https://pan.quark.cn/s/9065bc24fc5d Win电脑 https://pan.quark.cn/s/8b949883a562",
-        "bvid": "BV1F2gj6GEMw",
-        "author": "对不起贱笑了",
-        "duration": "2:31",
-        "cover": "//i1.hdslb.com/bfs/archive/3e54fe78936623f861749b2ac2c83c7a732982f6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1F2gj6GEMw&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主自制植物大战僵尸恐怖版"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Vagw6xEqu",
+        "author": "冀时新闻",
+        "duration": "0:7",
+        "cover": "//i2.hdslb.com/bfs/archive/2f7bb515b2d192d0e60a5426904caa6f638ca969.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vagw6xEqu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "湖南一煤矿发生瓦斯突出事故"
       },
       {
-        "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
-        "url": "https://www.bilibili.com/video/BV1FRgn6pEph",
+        "title": "当DOTA玩家想起十年前的今天...",
+        "url": "https://www.bilibili.com/video/BV1xKgs6rEyt",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "《Waste The Fallen》是一款超自然暗黑生存搜打撤射击游戏。现已开启Steam心愿单，欢迎加入！ 世界裂开的时候，没有人听见声音。 只是从某一天起，缝隙里显露出一些古老的、不该被看见的事物，它们不属于这里，却比我们更像这片土地的主人。如今地表之上，是被异常侵蚀的废弃区域，散落着旧世界所有值钱的东西；地表之下，是没人愿意讨论的黑暗。 如同其他异质者一样，你的那条手臂在那天之后就不再属于人类——它会疼，会在靠近某些地方时发烫，也会让你做到人类做不到的事。 你要一次次回到那些地方。 带上枪，",
-        "content": "《Waste The Fallen》是一款超自然暗黑生存搜打撤射击游戏。现已开启Steam心愿单，欢迎加入！ 世界裂开的时候，没有人听见声音。 只是从某一天起，缝隙里显露出一些古老的、不该被看见的事物，它们不属于这里，却比我们更像这片土地的主人。如今地表之上，是被异常侵蚀的废弃区域，散落着旧世界所有值钱的东西；地表之下，是没人愿意讨论的黑暗。 如同其他异质者一样，你的那条手臂在那天之后就不再属于人类——它会疼，会在靠近某些地方时发烫，也会让你做到人类做不到的事。 你要一次次回到那些地方。 带上枪，",
-        "bvid": "BV1FRgn6pEph",
-        "author": "WasteTheFallen",
-        "duration": "5:11",
-        "cover": "//i1.hdslb.com/bfs/archive/a5739e1fa25eade5ccdce960c171c2e25f4c6f6c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FRgn6pEph&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Waste The Fallen首曝PV"
+        "description": "已经十年了xdm... @DOTA2国服 圈一下官方一起招魂",
+        "content": "已经十年了xdm... @DOTA2国服 圈一下官方一起招魂",
+        "bvid": "BV1xKgs6rEyt",
+        "author": "风咒",
+        "duration": "0:41",
+        "cover": "//i0.hdslb.com/bfs/archive/1e2fc265fcb5e88aa5e72415bda1af5a09f9737a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xKgs6rEyt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Wings TI6夺冠十周年"
       },
       {
         "title": "【原神一条龙全收集】至冬7.0(成就数/冰神瞳/摩拉/影生翼滴/枪械蓝图)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
@@ -318,58 +318,42 @@
         "hotTitle": "中国足球小将战平巴萨"
       },
       {
-        "title": "原来咱都能飞~",
-        "url": "https://www.bilibili.com/video/BV1yauQ61EZL",
+        "title": "Falcons确认参加IEM北京，NiKo曾许诺夺冠就现场跳战舞。",
+        "url": "https://www.bilibili.com/video/BV1m1gw61EqV",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1yauQ61EZL",
-        "author": "小八JJay",
-        "duration": "1:36",
-        "cover": "//i0.hdslb.com/bfs/archive/51772dcecaaa779ad377528455b5be189d2f95e3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yauQ61EZL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "模仿华语歌手唱中国人能飞"
+        "bvid": "BV1m1gw61EqV",
+        "author": "每日CS2",
+        "duration": "1:42",
+        "cover": "//i1.hdslb.com/bfs/archive/37b746d7188e7f1888d739dd8defb6d97e2356ad.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1m1gw61EqV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Falcons确认参加IEM北京"
       },
       {
-        "title": "史莱姆牛奶、磁铁萝卜、美国学生午餐有多离谱",
-        "url": "https://www.bilibili.com/video/BV1AygE6pEK9",
+        "title": "最新研究：一种完全由“力”构成的物质——胶球！【科学漫谈】",
+        "url": "https://www.bilibili.com/video/BV18pgA6nE6v",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "随便啦",
-        "content": "随便啦",
-        "bvid": "BV1AygE6pEK9",
-        "author": "老白的奇奇怪怪",
-        "duration": "3:16",
-        "cover": "//i0.hdslb.com/bfs/archive/e843cd56df2c894b03d491073eb0ae2fa6f670c5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AygE6pEK9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "美国学生午餐为何会走红"
-      },
-      {
-        "title": "《奥德赛》万字解析！104个彩蛋&细节&结局分析！回家之旅的黑暗真相！",
-        "url": "https://www.bilibili.com/video/BV11WgH6aENy",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《奥德赛》万字解析",
-        "content": "《奥德赛》万字解析",
-        "bvid": "BV11WgH6aENy",
-        "author": "超英队长",
-        "duration": "45:27",
-        "cover": "//i0.hdslb.com/bfs/archive/0800599e67c2f505399e25bfd3d7054dbb1493d9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11WgH6aENy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "奥德赛104个彩蛋解析"
+        "description": "最近科学家验证胶球存在的新闻火了。到底什么是“胶球”？它是怎么产生的？科学家为何断定它就是胶球？为什么这次的研究这么被关注？这些问题这期视频一次性全部解答。对了，今天（8月14日）下午5点，《基石纪元·三体二十周年纪念典藏》会员购准时开售！也可提前锁定B站文轩九月官方直播间，一起抢刘慈欣亲签！ [1] BESIII Collaboration. Lightest 0−+ Glueball as Dominant Constituent of X(2370). arXiv preprint arXiv:2",
+        "content": "最近科学家验证胶球存在的新闻火了。到底什么是“胶球”？它是怎么产生的？科学家为何断定它就是胶球？为什么这次的研究这么被关注？这些问题这期视频一次性全部解答。对了，今天（8月14日）下午5点，《基石纪元·三体二十周年纪念典藏》会员购准时开售！也可提前锁定B站文轩九月官方直播间，一起抢刘慈欣亲签！ [1] BESIII Collaboration. Lightest 0−+ Glueball as Dominant Constituent of X(2370). arXiv preprint arXiv:2",
+        "bvid": "BV18pgA6nE6v",
+        "author": "Linvo说宇宙",
+        "duration": "9:27",
+        "cover": "//i2.hdslb.com/bfs/archive/c0f26c517c1ddf1a52ed0fe724902f90ee1758f1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18pgA6nE6v&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "我国首次确证胶球存在有何意义"
       },
       {
         "title": "查理斯：“输掉Ti决赛后我至今没看过真视界”｜刀圈首个2小时深度播客",
         "url": "https://www.bilibili.com/video/BV1hggJ6eEuz",
         "desc": "",
-        "rank": 16,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "过去三年，小冰冰和BB姬一直在记录CNDOTA，我们采访过长夜中也不会离开CNDOTA的杨哥，也在赛年初和重拾勇气、再次出发的XG聊过。这一次我们把镜头转向了查理斯，想捕捉到他在标签之外的另一面，当曾经的队友走向不同的人生，有人继续留在赛场，有人再次出发，有人选择直播，他又如何看待自己的选择？ “Ti8就对我来说就是最正确的五个人”、“我不是针对太阳”、“Maybe现在倒也没赤兔那么厉害”、“Ame有点像姜维，你懂吧”……从Ti聊到极氪001，从最好的五个人聊到从哲学视角审视太阳功效…… 于是就有了刀",
@@ -385,7 +369,7 @@
         "title": "当甄子丹登场，老雨血的音乐响起！《影之刃零》",
         "url": "https://www.bilibili.com/video/BV14mgs6CETa",
         "desc": "",
-        "rank": 17,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "音乐区的游戏UP，热爱游戏BGM，喜欢的不要忘记关注+一键三连 玩游戏，听BGM，分享游戏娱乐设备",
@@ -396,6 +380,22 @@
         "cover": "//i1.hdslb.com/bfs/archive/296c5043ba36038eff583a0454bd62072f437abc.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14mgs6CETa&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "影之刃零音乐制作人专访"
+      },
+      {
+        "title": "坏结果！！",
+        "url": "https://www.bilibili.com/video/BV1Xfg56sEGm",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Xfg56sEGm",
+        "author": "云南交警",
+        "duration": "1:32",
+        "cover": "//i0.hdslb.com/bfs/archive/654500b3f2ce701813d5c36d3b5f022cec82c8a6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xfg56sEGm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "云南交警翻唱坏苹果"
       },
       {
         "title": "断档领先！中国玩家再度创造历史，全宇宙第一个sub48速通月总的记录诞生！",
@@ -414,20 +414,20 @@
         "hotTitle": "UP主泰拉瑞亚再创新历史"
       },
       {
-        "title": "当DOTA玩家想起十年前的今天...",
-        "url": "https://www.bilibili.com/video/BV1xKgs6rEyt",
+        "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
+        "url": "https://www.bilibili.com/video/BV1FRgn6pEph",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "已经十年了xdm... @DOTA2国服 圈一下官方一起招魂",
-        "content": "已经十年了xdm... @DOTA2国服 圈一下官方一起招魂",
-        "bvid": "BV1xKgs6rEyt",
-        "author": "风咒",
-        "duration": "0:41",
-        "cover": "//i0.hdslb.com/bfs/archive/1e2fc265fcb5e88aa5e72415bda1af5a09f9737a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xKgs6rEyt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Wings TI6夺冠十周年"
+        "description": "《Waste The Fallen》是一款超自然暗黑生存搜打撤射击游戏。现已开启Steam心愿单，欢迎加入！ 世界裂开的时候，没有人听见声音。 只是从某一天起，缝隙里显露出一些古老的、不该被看见的事物，它们不属于这里，却比我们更像这片土地的主人。如今地表之上，是被异常侵蚀的废弃区域，散落着旧世界所有值钱的东西；地表之下，是没人愿意讨论的黑暗。 如同其他异质者一样，你的那条手臂在那天之后就不再属于人类——它会疼，会在靠近某些地方时发烫，也会让你做到人类做不到的事。 你要一次次回到那些地方。 带上枪，",
+        "content": "《Waste The Fallen》是一款超自然暗黑生存搜打撤射击游戏。现已开启Steam心愿单，欢迎加入！ 世界裂开的时候，没有人听见声音。 只是从某一天起，缝隙里显露出一些古老的、不该被看见的事物，它们不属于这里，却比我们更像这片土地的主人。如今地表之上，是被异常侵蚀的废弃区域，散落着旧世界所有值钱的东西；地表之下，是没人愿意讨论的黑暗。 如同其他异质者一样，你的那条手臂在那天之后就不再属于人类——它会疼，会在靠近某些地方时发烫，也会让你做到人类做不到的事。 你要一次次回到那些地方。 带上枪，",
+        "bvid": "BV1FRgn6pEph",
+        "author": "WasteTheFallen",
+        "duration": "5:11",
+        "cover": "//i1.hdslb.com/bfs/archive/a5739e1fa25eade5ccdce960c171c2e25f4c6f6c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FRgn6pEph&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Waste The Fallen首曝PV"
       },
       {
         "title": "《顽童戏老叟》",
@@ -446,122 +446,10 @@
         "hotTitle": "顽童戏老叟"
       },
       {
-        "title": "坏结果！！",
-        "url": "https://www.bilibili.com/video/BV1Xfg56sEGm",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Xfg56sEGm",
-        "author": "云南交警",
-        "duration": "1:32",
-        "cover": "//i0.hdslb.com/bfs/archive/654500b3f2ce701813d5c36d3b5f022cec82c8a6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xfg56sEGm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "云南交警翻唱坏苹果"
-      },
-      {
-        "title": "当我模仿前半生主角们！贺涵～～～哈哈哈哈哈",
-        "url": "https://www.bilibili.com/video/BV1yggp6cExS",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1yggp6cExS",
-        "author": "李如儒也是李蠕蠕",
-        "duration": "2:7",
-        "cover": "//i0.hdslb.com/bfs/archive/5f4988c375afea21c9bbecb0f4812096f6bf7234.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yggp6cExS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "当李蠕蠕模仿我的前半生"
-      },
-      {
-        "title": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
-        "url": "https://www.bilibili.com/video/BV1cXgp6aESY",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
-        "content": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
-        "bvid": "BV1cXgp6aESY",
-        "author": "荒草音乐",
-        "duration": "2:17",
-        "cover": "//i1.hdslb.com/bfs/archive/f9c9d5ce20dac68dac371691d404268a9a913228.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cXgp6aESY&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "百花奖最佳导演的来时路"
-      },
-      {
-        "title": "仔细想想我们这是被绑架了吧 😱 | TXT第一次旅行去上海 #要逃跑吗？#EP.1",
-        "url": "https://www.bilibili.com/video/BV1gcgV6jEgU",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "🎥: 我们要拍摄第一次旅行的内容了 🧑‍🧑‍🧒‍🧒: 什么时候开始呢？ 🎥: 3 🧑‍🧑‍🧒‍🧒: 3天后? 🎥: 2... 1.... 开始!",
-        "content": "🎥: 我们要拍摄第一次旅行的内容了 🧑‍🧑‍🧒‍🧒: 什么时候开始呢？ 🎥: 3 🧑‍🧑‍🧒‍🧒: 3天后? 🎥: 2... 1.... 开始!",
-        "bvid": "BV1gcgV6jEgU",
-        "author": "TXT_OFFICIAL",
-        "duration": "26:40",
-        "cover": "//i0.hdslb.com/bfs/archive/afc64fb9608b9e7174f67fb23441709eb204be15.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gcgV6jEgU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "跟着TXT乱闯上海"
-      },
-      {
-        "title": "Falcons确认参加IEM北京，NiKo曾许诺夺冠就现场跳战舞。",
-        "url": "https://www.bilibili.com/video/BV1m1gw61EqV",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1m1gw61EqV",
-        "author": "每日CS2",
-        "duration": "1:42",
-        "cover": "//i1.hdslb.com/bfs/archive/37b746d7188e7f1888d739dd8defb6d97e2356ad.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1m1gw61EqV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Falcons确认参加IEM北京"
-      },
-      {
-        "title": "猎哥说打绝航能让人眼前一亮【三角洲动画·勇敢者篇】",
-        "url": "https://www.bilibili.com/video/BV13Ygn6qEG3",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "在红翎（猎哥）破产了数个月后，幻海和阳尘终于把她的账号救了回来，按照约定，他们终于可以开始去做勇敢者行动了…… 这条片子做了3个多月，推翻了好几版，人也没少去医院，全工作室的人甚至在最后一个月高强度的加班，终于把它做出来了，我感觉差点都要见到奈何桥了，如果能让大家喜欢的话，求个三连吧，求求你们了 求求你们了 求求你们了",
-        "content": "在红翎（猎哥）破产了数个月后，幻海和阳尘终于把她的账号救了回来，按照约定，他们终于可以开始去做勇敢者行动了…… 这条片子做了3个多月，推翻了好几版，人也没少去医院，全工作室的人甚至在最后一个月高强度的加班，终于把它做出来了，我感觉差点都要见到奈何桥了，如果能让大家喜欢的话，求个三连吧，求求你们了 求求你们了 求求你们了",
-        "bvid": "BV13Ygn6qEG3",
-        "author": "神·潜行瞬杀",
-        "duration": "21:6",
-        "cover": "//i1.hdslb.com/bfs/archive/7865c0b603a437aac3974c00d8d6da06b9a2be0d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13Ygn6qEG3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "猎哥说打绝航能让人眼前一亮"
-      },
-      {
-        "title": "⚡老 叟 爱 炸 鱼⚡",
-        "url": "https://www.bilibili.com/video/BV1TvgE6tEg8",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1TvgE6tEg8",
-        "author": "不拉花奶茶",
-        "duration": "1:16",
-        "cover": "//i1.hdslb.com/bfs/archive/536a9b27e615004b09f7de1bebde3e08aa2396c8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TvgE6tEg8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "老叟爱炸鱼"
-      },
-      {
         "title": "年赚一个亿的店，说关就关，于东来：我宁可不要这钱，也不惯着你",
         "url": "https://www.bilibili.com/video/BV1vquC6uEdQ",
         "desc": "",
-        "rank": 28,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -574,10 +462,90 @@
         "hotTitle": "胖东来关闭老店背后的商业逻辑"
       },
       {
+        "title": "河流地貌",
+        "url": "https://www.bilibili.com/video/BV1o1gG6xEXK",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1o1gG6xEXK",
+        "author": "川不过气",
+        "duration": "6:37",
+        "cover": "//i1.hdslb.com/bfs/archive/f0b432d746273b092b173713dd6673244bb0eeee.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1o1gG6xEXK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主发现微缩版河流地貌"
+      },
+      {
+        "title": "⚡老 叟 爱 炸 鱼⚡",
+        "url": "https://www.bilibili.com/video/BV1TvgE6tEg8",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1TvgE6tEg8",
+        "author": "不拉花奶茶",
+        "duration": "1:16",
+        "cover": "//i1.hdslb.com/bfs/archive/536a9b27e615004b09f7de1bebde3e08aa2396c8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TvgE6tEg8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "老叟爱炸鱼"
+      },
+      {
+        "title": "猎哥说打绝航能让人眼前一亮【三角洲动画·勇敢者篇】",
+        "url": "https://www.bilibili.com/video/BV13Ygn6qEG3",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "在红翎（猎哥）破产了数个月后，幻海和阳尘终于把她的账号救了回来，按照约定，他们终于可以开始去做勇敢者行动了…… 这条片子做了3个多月，推翻了好几版，人也没少去医院，全工作室的人甚至在最后一个月高强度的加班，终于把它做出来了，我感觉差点都要见到奈何桥了，如果能让大家喜欢的话，求个三连吧，求求你们了 求求你们了 求求你们了",
+        "content": "在红翎（猎哥）破产了数个月后，幻海和阳尘终于把她的账号救了回来，按照约定，他们终于可以开始去做勇敢者行动了…… 这条片子做了3个多月，推翻了好几版，人也没少去医院，全工作室的人甚至在最后一个月高强度的加班，终于把它做出来了，我感觉差点都要见到奈何桥了，如果能让大家喜欢的话，求个三连吧，求求你们了 求求你们了 求求你们了",
+        "bvid": "BV13Ygn6qEG3",
+        "author": "神·潜行瞬杀",
+        "duration": "21:6",
+        "cover": "//i1.hdslb.com/bfs/archive/7865c0b603a437aac3974c00d8d6da06b9a2be0d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13Ygn6qEG3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "猎哥说打绝航能让人眼前一亮"
+      },
+      {
+        "title": "当我模仿前半生主角们！贺涵～～～哈哈哈哈哈",
+        "url": "https://www.bilibili.com/video/BV1yggp6cExS",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1yggp6cExS",
+        "author": "李如儒也是李蠕蠕",
+        "duration": "2:7",
+        "cover": "//i0.hdslb.com/bfs/archive/5f4988c375afea21c9bbecb0f4812096f6bf7234.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yggp6cExS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "当李蠕蠕模仿我的前半生"
+      },
+      {
+        "title": "仔细想想我们这是被绑架了吧 😱 | TXT第一次旅行去上海 #要逃跑吗？#EP.1",
+        "url": "https://www.bilibili.com/video/BV1gcgV6jEgU",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "🎥: 我们要拍摄第一次旅行的内容了 🧑‍🧑‍🧒‍🧒: 什么时候开始呢？ 🎥: 3 🧑‍🧑‍🧒‍🧒: 3天后? 🎥: 2... 1.... 开始!",
+        "content": "🎥: 我们要拍摄第一次旅行的内容了 🧑‍🧑‍🧒‍🧒: 什么时候开始呢？ 🎥: 3 🧑‍🧑‍🧒‍🧒: 3天后? 🎥: 2... 1.... 开始!",
+        "bvid": "BV1gcgV6jEgU",
+        "author": "TXT_OFFICIAL",
+        "duration": "26:40",
+        "cover": "//i0.hdslb.com/bfs/archive/afc64fb9608b9e7174f67fb23441709eb204be15.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gcgV6jEgU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "跟着TXT乱闯上海"
+      },
+      {
         "title": "高中牲自制蛛丝发射器（一）",
         "url": "https://www.bilibili.com/video/BV17Bui6xE1n",
         "desc": "",
-        "rank": 29,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -590,20 +558,52 @@
         "hotTitle": "高中生自制蛛丝发射器"
       },
       {
-        "title": "河流地貌",
-        "url": "https://www.bilibili.com/video/BV1o1gG6xEXK",
+        "title": "三角洲最逆天技巧，丢包撤离炸塔前撤离",
+        "url": "https://www.bilibili.com/video/BV1NBgE6xEWp",
         "desc": "",
-        "rank": 30,
+        "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1o1gG6xEXK",
-        "author": "川不过气",
-        "duration": "6:37",
-        "cover": "//i1.hdslb.com/bfs/archive/f0b432d746273b092b173713dd6673244bb0eeee.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1o1gG6xEXK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主发现微缩版河流地貌"
+        "bvid": "BV1NBgE6xEWp",
+        "author": "小怂弟",
+        "duration": "0:50",
+        "cover": "//i2.hdslb.com/bfs/archive/a8ebe8423c6b458b42e33ef04600baf8e60bdc75.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NBgE6xEWp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "三角洲丢包撤离技巧"
+      },
+      {
+        "title": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
+        "url": "https://www.bilibili.com/video/BV1cXgp6aESY",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
+        "content": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
+        "bvid": "BV1cXgp6aESY",
+        "author": "荒草音乐",
+        "duration": "2:17",
+        "cover": "//i1.hdslb.com/bfs/archive/f9c9d5ce20dac68dac371691d404268a9a913228.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cXgp6aESY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "百花奖最佳导演的来时路"
+      },
+      {
+        "title": "【恐怖版】PVZ恐怖版：序章宣传片",
+        "url": "https://www.bilibili.com/video/BV1F2gj6GEMw",
+        "desc": "",
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "策划：对不起贱笑了 程序：@道源君Tao 动画：@小趣糕 @灵风-_- @你Ruigi大爹 美术：@沮痛丶 @黯月-_ @咕呱要摸鱼 音乐：@夜暮青CINK 宣传：@阿都ai42 游戏下载链接： 安卓手机 https://pan.quark.cn/s/9065bc24fc5d Win电脑 https://pan.quark.cn/s/8b949883a562",
+        "content": "策划：对不起贱笑了 程序：@道源君Tao 动画：@小趣糕 @灵风-_- @你Ruigi大爹 美术：@沮痛丶 @黯月-_ @咕呱要摸鱼 音乐：@夜暮青CINK 宣传：@阿都ai42 游戏下载链接： 安卓手机 https://pan.quark.cn/s/9065bc24fc5d Win电脑 https://pan.quark.cn/s/8b949883a562",
+        "bvid": "BV1F2gj6GEMw",
+        "author": "对不起贱笑了",
+        "duration": "2:31",
+        "cover": "//i1.hdslb.com/bfs/archive/3e54fe78936623f861749b2ac2c83c7a732982f6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1F2gj6GEMw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主自制植物大战僵尸恐怖版"
       }
     ],
     "qbitai": [
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "恒指收跌1.1%，恒生科技指数跌1.77%",
+        "url": "https://m.36kr.com/newsflashes/3939090457591170",
+        "desc": "京东物流跌超13%，MINIMAX-W跌超12%，华虹宏力、京东集体跌超10%；GEO、半导体领跌，煤炭、钢铁涨幅居前；南向资金净流出13.16亿港元。",
+        "cover": "",
+        "date": 1786695001561,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "高性价比中国大模型兵临城下，美头部AI实验室大幅降价应对",
+        "url": "https://m.36kr.com/newsflashes/3939070420286857",
+        "desc": "OpenAI等美国头部AI实验室近期大幅下调中端AI模型价格以留住客户，Silicon Data数据显示7月中旬以来客户采购美国头部实验室模型的实际支出已降近四分之一。AI使用成本持续走高，中国AI企业凭借模型的高性价比优势不断获取新的客户，令美国科技行业感到担忧。（财联社）",
+        "cover": "",
+        "date": 1786694491000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "春秋航空：7月旅客周转量同比增长9.72%",
+        "url": "https://m.36kr.com/newsflashes/3939067532164233",
+        "desc": "36氪获悉，春秋航空公告，2026年7月份旅客周转量58.69亿人公里，同比增长9.72%；客座率93.31%，同比增长1.45%。",
+        "cover": "",
+        "date": 1786694199000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "上海机场：7月浦东国际机场旅客吞吐量同比增长7.89%",
         "url": "https://m.36kr.com/newsflashes/3939066685701250",
         "desc": "36氪获悉，上海机场公告，2026年7月，浦东国际机场旅客吞吐量807.16万人次，同比增长7.89%；货邮吞吐量40.68万吨，同比增长14.59%。虹桥国际机场旅客吞吐量443.73万人次，同比增长4.85%；货邮吞吐量3.52万吨，同比下降0.87%。",
@@ -937,7 +967,7 @@
         "date": 1786693967000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "三友化工：拟开展不超26亿元商品期货套期保值业务",
@@ -947,7 +977,7 @@
         "date": 1786693809974,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "国电南瑞：拟以5亿元-10亿元回购公司股份",
@@ -957,7 +987,7 @@
         "date": 1786693376590,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "贵州茅台集团党委原副书记赵书跃接受审查调查",
@@ -967,7 +997,7 @@
         "date": 1786693178292,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "澳大利亚每25户家庭就有1户安装储能电池，家庭储能规模超过美国",
@@ -977,7 +1007,7 @@
         "date": 1786692966023,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "LG Innotek上半年据报对苹果销售额创同期新高",
@@ -987,7 +1017,7 @@
         "date": 1786692810060,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "发改委：8月14日24时起，国内汽、柴油零售限价每吨分别下调230元和220元",
@@ -997,7 +1027,7 @@
         "date": 1786692346978,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "百度文库网盘GenFlow官宣中文名“库库AI”，MAU超2500万",
@@ -1007,7 +1037,7 @@
         "date": 1786692002577,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "7月中国快递发展指数同比增长2.4%",
@@ -1017,7 +1047,7 @@
         "date": 1786691848115,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "中石化旗下长城燃气投资公司增资至8.2亿，增幅约715%",
@@ -1027,7 +1057,7 @@
         "date": 1786691262126,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "A股三大指数集体收涨，光模块概念领涨",
@@ -1037,7 +1067,7 @@
         "date": 1786690934243,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "沪深两市成交额突破2万亿",
@@ -1047,7 +1077,7 @@
         "date": 1786690378370,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "快手与星竞威武达成战略合作，深度共建游戏电竞内容生态",
@@ -1057,7 +1087,7 @@
         "date": 1786690237846,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "宁德时代等在海南成立产业投资基金，出资额50亿",
@@ -1067,7 +1097,7 @@
         "date": 1786689257051,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "全球资金加速涌入，中国股票基金近一个月吸金逾500亿美元",
@@ -1077,7 +1107,7 @@
         "date": 1786688890060,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "乘联分会崔东树：2026年7月车市走弱是多重因素共振所致",
@@ -1087,7 +1117,7 @@
         "date": 1786688545785,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "港股AI应用板块午后跌幅扩大，MINIMAX-W跌超10%",
@@ -1097,45 +1127,15 @@
         "date": 1786687682370,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "灵犀专业版首发接入GLM-5.3",
-        "url": "https://m.36kr.com/newsflashes/3938965845146757",
-        "desc": "36氪获悉，8月14日，金山办公旗下AI办公智能体灵犀专业版宣布首发接入智谱GLM-5.3模型。用户在灵犀专业版内切换至该模型即可直接使用，无需额外配置。接入GLM-5.3后，灵犀专业版在写代码、跑数据、处理复杂办公流程等代码驱动任务上的交付能力进一步增强，端到端完成工作的链路更完整。",
-        "cover": "",
-        "date": 1786687395821,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "众擎机器人等成立科技公司，智能无人飞行器制造业务",
-        "url": "https://m.36kr.com/newsflashes/3938961033198978",
-        "desc": "36氪获悉，企查查App显示，近日，上海星意擎坤科技有限公司成立，法定代表人为吕学敏，注册资本为6120万元，经营范围包含人工智能基础软件开发；智能机器人的研发；智能机器人销售；工业机器人销售；智能无人飞行器制造等。企查查股权穿透显示，该公司由深圳众擎机器人科技股份有限公司、上海傲意信息科技有限公司等共同持股。",
-        "cover": "",
-        "date": 1786687102123,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "天海防务等成立智慧船港航股权投资基金",
-        "url": "https://m.36kr.com/newsflashes/3938955588320645",
-        "desc": "36氪获悉，企查查App显示，近日，九江市智慧船港航股权投资基金合伙企业（有限合伙）成立，经营范围包含以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该企业由天海防务等共同出资。",
-        "cover": "",
-        "date": 1786686769794,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786694165144,
-    "bilibili": 1786693438591,
-    "qbitai": 1786694188894,
-    "36kr": 1786694189223
+    "thepaper": 1786695065036,
+    "bilibili": 1786694222652,
+    "qbitai": 1786695083597,
+    "36kr": 1786695083990
   },
   "failures": {}
 }
