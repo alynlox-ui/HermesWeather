@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T01:41:23Z",
+  "updatedAt": "2026-08-14T01:56:31Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -940,6 +940,26 @@
         "rank": 3
       },
       {
+        "title": "“亮源新创”完成数亿元Pre-A轮融资",
+        "url": "https://m.36kr.com/newsflashes/3938720679067011",
+        "desc": "36氪获悉，近日，“亮源新创”宣布完成数亿元Pre-A轮融资。本轮融资由国科投资领投，招商局创投、襄禾资本等机构参与投资，资金将主要用于超大规模具身智能模型训练、多模态数据基础设施建设、软硬件全栈平台研发以及高人才密度的团队扩张。",
+        "cover": "",
+        "date": 1786672432071,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "南向资金净买入额达20亿港元",
+        "url": "https://m.36kr.com/newsflashes/3938712756829577",
+        "desc": "36氪获悉，南向资金净买入额达20亿港元。",
+        "cover": "",
+        "date": 1786671948536,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "央行：8月14日7天期逆回购操作量为零",
         "url": "https://m.36kr.com/newsflashes/3938704106077319",
         "desc": "36氪获悉，央行公告，根据公开市场业务一级交易商的需求，2026年8月14日7天期逆回购操作量为零。",
@@ -947,7 +967,7 @@
         "date": 1786671420536,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "中芯国际赵海军：三季度计入新增产能后的利用率预计维持在约95%高位",
@@ -957,7 +977,7 @@
         "date": 1786671341022,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "A股三大指数集体高开，存储芯片概念走强",
@@ -967,7 +987,7 @@
         "date": 1786670894059,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "恒指开盘跌0.7%，恒生科技指数跌0.6%",
@@ -977,7 +997,7 @@
         "date": 1786670568382,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "8月14日人民币对美元中间价调升10个基点",
@@ -987,7 +1007,7 @@
         "date": 1786670224237,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
@@ -997,7 +1017,7 @@
         "date": 1786670209429,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "“什方科技”连续完成两轮融资",
@@ -1007,7 +1027,7 @@
         "date": 1786670172033,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "中芯国际赵海军：客户提前拉货抵消了部分终端下行影响",
@@ -1017,7 +1037,7 @@
         "date": 1786669783732,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "小马智行与Uber扩大合作，计划在欧洲5城部署超2000辆Robotaxi",
@@ -1027,7 +1047,7 @@
         "date": 1786669657046,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "中芯国际赵海军：二季度海外订单回流，在地化制造继续加强",
@@ -1037,7 +1057,7 @@
         "date": 1786669454335,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "中芯国际赵海军：二季度晶圆平均销售单价环比提升5.7%",
@@ -1047,7 +1067,7 @@
         "date": 1786668845249,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "现货白银向下触及64美元/盎司",
@@ -1057,7 +1077,7 @@
         "date": 1786668736121,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "两市融资余额增加23.89亿元",
@@ -1067,7 +1087,7 @@
         "date": 1786668649714,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "维珍银河新一代Delta级飞船首飞推迟至2027年",
@@ -1077,7 +1097,7 @@
         "date": 1786668584840,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "美联新材：公司控股企业辉虹科技的EX电子材料销量稳步增长",
@@ -1087,7 +1107,7 @@
         "date": 1786668455203,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "2025年我国安全应急装备重点领域产业规模突破1万亿元",
@@ -1097,7 +1117,7 @@
         "date": 1786668336836,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "截至6月30日，马斯克持有SpaceX 48.4%股权",
@@ -1107,7 +1127,7 @@
         "date": 1786668195030,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "全球最大的黄金ETF SPDR Gold Trust持仓较前日减少2.57吨",
@@ -1117,35 +1137,15 @@
         "date": 1786668178109,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "据称KKR以每股最高80美元的价格出售BridgeBio Pharma股票",
-        "url": "https://m.36kr.com/newsflashes/3938644774239621",
-        "desc": "当地时间8月13日，据报道，知情人士透露，私募股权投资公司KKR的一家关联公司正以每股78至80美元的价格出售生物技术公司BridgeBio Pharma的股票。（界面）",
-        "cover": "",
-        "date": 1786667799208,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "Reddit将被纳入标普500指数",
-        "url": "https://m.36kr.com/newsflashes/3938641949130114",
-        "desc": "当地时间8月13日，Reddit宣布公司将于8月18日开盘前正式纳入标普500指数。（界面）",
-        "cover": "",
-        "date": 1786667626777,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1786671667257,
+    "thepaper": 1786672566366,
     "bilibili": 1786671040855,
-    "qbitai": 1786671683146,
-    "36kr": 1786671683673
+    "qbitai": 1786672590434,
+    "36kr": 1786672591001
   },
   "failures": {}
 }
