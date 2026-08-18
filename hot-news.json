@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-18T13:26:35Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-08-18T13:41:50Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -70,8 +70,8 @@
         "rank": 11
       },
       {
-        "title": "马上评｜随地吐痰最高罚千元，让屡教不改者“肉痛”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33799580",
+        "title": "经纬度：活跃县域消费，夯实扩消费的根基",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33804859",
         "desc": "",
         "rank": 12
       },
@@ -100,14 +100,14 @@
         "rank": 16
       },
       {
-        "title": "日本第22轮核污染水排海总量近8000吨",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33799759",
+        "title": "杭州酒局事件通报：涉事招商蛇口高管、滨江区公职人员被刑拘，两人均已被免职",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33804121",
         "desc": "",
         "rank": 17
       },
       {
-        "title": "杭州酒局事件通报：涉事招商蛇口高管、滨江区公职人员被刑拘，两人均已被免职",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33804121",
+        "title": "日本第22轮核污染水排海总量近8000吨",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33799759",
         "desc": "",
         "rank": 18
       },
@@ -118,8 +118,8 @@
         "rank": 19
       },
       {
-        "title": "女患者称“就诊时被男医生猥亵揉胸”，广西人民医院：已内部调查，双方均已报警",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33804360",
+        "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33803619",
         "desc": "",
         "rank": 20
       }
@@ -1142,10 +1142,11 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787059564914,
-    "bilibili": 1787059574396,
-    "qbitai": 1787059594815,
-    "36kr": 1787059595332
+    "thepaper": 1787060464499,
+    "bilibili": 1787058999449,
+    "36kr": 1787060510494
   },
-  "failures": {}
+  "failures": {
+    "qbitai": "RuntimeError('QbitAI JSON not found')"
+  }
 }
