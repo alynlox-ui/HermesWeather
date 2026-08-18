@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T06:26:27Z",
+  "updatedAt": "2026-08-18T06:41:23Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -64,20 +64,20 @@
         "rank": 10
       },
       {
-        "title": "孩子车上呕吐司机索要500元清洁费，家长协商未果遭尾随阻拦，阳光出行：司机账号永久下线",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33797914",
+        "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33800378",
         "desc": "",
         "rank": 11
       },
       {
-        "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33800378",
+        "title": "强降雨致太湖水位持续上涨，苏州多地内涝严重，记者实探积水抽排现场",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33799401",
         "desc": "",
         "rank": 12
       },
       {
-        "title": "强降雨致太湖水位持续上涨，苏州多地内涝严重，记者实探积水抽排现场",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33799401",
+        "title": "马上评｜随地吐痰最高罚千元，让屡教不改者“肉痛”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33799580",
         "desc": "",
         "rank": 13
       },
@@ -88,14 +88,14 @@
         "rank": 14
       },
       {
-        "title": "马上评｜随地吐痰最高罚千元，让屡教不改者“肉痛”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33799580",
+        "title": "重估宇树",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33784711",
         "desc": "",
         "rank": 15
       },
       {
-        "title": "重估宇树",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33784711",
+        "title": "人工智能安全：下一阶段人工智能产业竞争的新赛道",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33799807",
         "desc": "",
         "rank": 16
       },
@@ -112,14 +112,14 @@
         "rank": 18
       },
       {
-        "title": "直播丨太湖流域发生洪水，苏州多地内涝严重，积水抽排争分夺秒进行中",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33797861",
+        "title": "日本第22轮核污染水排海总量近8000吨",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33799759",
         "desc": "",
         "rank": 19
       },
       {
-        "title": "河南周口：消防三班倒连夜加急排涝，多处阻断道路逐步具备通行条件",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33800210",
+        "title": "直播丨太湖流域发生洪水，苏州多地内涝严重，积水抽排争分夺秒进行中",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33797861",
         "desc": "",
         "rank": 20
       }
@@ -618,6 +618,16 @@
         "rank": 1
       },
       {
+        "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
+        "url": "https://www.qbitai.com/2026/08/471668.html",
+        "desc": "",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/微信图片_20260813115641_31_1441-1-scaled-e1786598379135.png",
+        "date": "2026-08-18T13:10:50",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
+      {
         "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
         "url": "https://www.qbitai.com/2026/08/474647.html",
         "desc": "MyContext补上Agent的数据加工层",
@@ -625,7 +635,7 @@
         "date": "2026-08-18T12:40:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
@@ -635,7 +645,7 @@
         "date": "2026-08-18T11:31:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
@@ -645,7 +655,7 @@
         "date": "2026-08-17T17:30:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
@@ -655,7 +665,7 @@
         "date": "2026-08-17T17:04:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
@@ -665,7 +675,7 @@
         "date": "2026-08-17T16:36:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
@@ -675,7 +685,7 @@
         "date": "2026-08-17T16:26:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
@@ -685,7 +695,7 @@
         "date": "2026-08-17T15:39:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "杭州95后小伙，5亿买走硅谷城堡",
@@ -695,7 +705,7 @@
         "date": "2026-08-16T19:51:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "李飞飞最新访谈：AI咋能代替人呢？",
@@ -705,7 +715,7 @@
         "date": "2026-08-16T18:45:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
@@ -715,7 +725,7 @@
         "date": "2026-08-16T18:36:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
@@ -725,7 +735,7 @@
         "date": "2026-08-16T13:37:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
@@ -735,7 +745,7 @@
         "date": "2026-08-16T13:28:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
@@ -745,7 +755,7 @@
         "date": "2026-08-15T14:42:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
@@ -755,7 +765,7 @@
         "date": "2026-08-15T14:36:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
@@ -765,7 +775,7 @@
         "date": "2026-08-15T14:05:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
@@ -775,7 +785,7 @@
         "date": "2026-08-15T13:53:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
@@ -785,7 +795,7 @@
         "date": "2026-08-15T12:21:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
@@ -795,7 +805,7 @@
         "date": "2026-08-15T12:03:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
@@ -805,7 +815,7 @@
         "date": "2026-08-14T23:41:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "7亿年薪留不住！余家辉离职Meta创业",
@@ -815,7 +825,7 @@
         "date": "2026-08-14T22:59:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
@@ -825,7 +835,7 @@
         "date": "2026-08-14T22:51:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
@@ -835,7 +845,7 @@
         "date": "2026-08-14T18:25:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
@@ -845,7 +855,7 @@
         "date": "2026-08-14T16:47:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
@@ -855,7 +865,7 @@
         "date": "2026-08-14T16:36:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
@@ -865,7 +875,7 @@
         "date": "2026-08-14T15:29:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
@@ -875,7 +885,7 @@
         "date": "2026-08-14T14:18:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "深度体验DeepSeek Harness，我原谅它涨价了",
@@ -885,7 +895,7 @@
         "date": "2026-08-14T00:03:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
@@ -893,16 +903,6 @@
         "desc": "首颗AI芯片已进入量产",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/d30b814a0e10ae3682ef9ff374bb97d9.webp",
         "date": "2026-08-13T20:34:42",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
-        "url": "https://www.qbitai.com/2026/08/472067.html",
-        "desc": "马斯克版Workbuddy也来了",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/截屏2026-08-13-20.00.12.png",
-        "date": "2026-08-13T20:04:29",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "上海：到2030年城市公共安全体系总体完善，本质安全全面加强",
+        "url": "https://m.36kr.com/newsflashes/3944663407951238",
+        "desc": "36氪获悉，上海市人民政府印发《上海市韧性安全城市建设“十五五”规划》。其中提出，到2030年，城市公共安全体系总体完善，本质安全全面加强，城市空间资源平急复合利用效能显著提升，关键基础设施和房屋建筑安全防御水平持续提高，城市安全社会共治合力更加凝聚，安全风险防范化解体系常态长效，应急救援实战能力持续提升，城市安全数智赋能水平整体提高，人民群众安全感不断增强，全面建成国内领先、国际一流的韧性安全城市。",
+        "cover": "",
+        "date": 1787035147457,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "台湾地区功率半导体厂商酝酿第三波涨价",
+        "url": "https://m.36kr.com/newsflashes/3944659355122816",
+        "desc": "据台湾经济日报报道，台湾地区功率半导体厂商正酝酿第三波价格调整，最快10月起针对非合约产品，涨价10%至15%。业界看好台半、强茂、德微等厂商下半年营运量价齐升。（财联社）",
+        "cover": "",
+        "date": 1787034900092,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "今日起，阿里“千问办公”接入企业微信",
+        "url": "https://m.36kr.com/newsflashes/3944657131715971",
+        "desc": "36氪获悉，8月18日，阿里旗下Agent产品“千问办公”正式接入企业微信。此前，该产品已接入钉钉和飞书。至此，“千问办公”实现国内三大主流协同办公平台的全面支持。",
+        "cover": "",
+        "date": 1787034764386,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "共生知行发布人形机器人赛车Demo",
         "url": "https://m.36kr.com/newsflashes/3944650639932553",
         "desc": "36氪获悉，8月17日，具身智能初创公司共生知行（Symbiosis Robotics）发布双足人形机器人驾驶卡丁车Demo，这是公司成立后首次系统展示“全身智能”阶段性进展。据了解，共生知行聚焦面向双足人形机器人的全身智能基座模型，尝试打通感知、决策、全身运动控制与数据训练链路。公司表示，未来将快速迭代发布共生知行的技术进展、Demo、开源项目等。",
@@ -937,7 +967,7 @@
         "date": 1787034368159,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "工信部电池工作组启动钠电池针刺摸底测评，产业化进一步提速",
@@ -947,7 +977,7 @@
         "date": 1787034278050,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "集邦咨询：第二季度全球前五大NAND Flash品牌合计营收季增77%，达688.7亿美元",
@@ -957,7 +987,7 @@
         "date": 1787034183298,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "希音被曝估值大幅缩水，正寻求以260亿至270亿美元估值进行IPO",
@@ -967,7 +997,7 @@
         "date": 1787033602041,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "沪深两市成交额突破2万亿",
@@ -977,7 +1007,7 @@
         "date": 1787033375697,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "谷歌据悉拟2027年停止在中国生产Pixel系列产品",
@@ -987,7 +1017,7 @@
         "date": 1787033343348,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "长鑫科技成交额超200亿元",
@@ -997,7 +1027,7 @@
         "date": 1787033193051,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "英伟达到处给人“兜底融资”？“新债王”冈拉克：预示市场或见顶",
@@ -1007,7 +1037,7 @@
         "date": 1787032571214,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "云天化成立新材料公司，含金属加工机械制造业务",
@@ -1017,7 +1047,7 @@
         "date": 1787032481913,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "虚拟软件公司Virtualware签署协议收购英国企业Virtalis",
@@ -1027,7 +1057,7 @@
         "date": 1787032455330,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "中国中煤在广西成立电力销售新公司",
@@ -1037,7 +1067,7 @@
         "date": 1787032038811,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "广东前7月离境退税申请增6.4倍，电子产品和服装成热门商品",
@@ -1047,7 +1077,7 @@
         "date": 1787031839081,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "汇丰要求部分内地存量投资客户提交资金来源声明，未及时提交或将终止相关服务",
@@ -1057,7 +1087,7 @@
         "date": 1787031616869,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "现货白银失守65美元/盎司",
@@ -1067,7 +1097,7 @@
         "date": 1787031125672,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "豆包工作任务上新，可以在虚拟桌面操作Windows",
@@ -1077,7 +1107,7 @@
         "date": 1787031106497,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "印度国家证券交易所据悉拟在印度创纪录IPO中争取最高550亿美元估值",
@@ -1087,7 +1117,7 @@
         "date": 1787030320751,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "我国首批数据领域国际合作试点在上海、海南等地开展",
@@ -1097,45 +1127,15 @@
         "date": 1787029631635,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "英国评估无法获取前沿人工智能所带来的经济冲击",
-        "url": "https://m.36kr.com/newsflashes/3944562389564809",
-        "desc": "英国《金融时报》援引未具名知情人士消息报道，英国内阁办公室已要求商业、创新与科学贸易部，评估英国若被禁止使用最新前沿人工智能模型将对本国经济造成的影响。该评估预计数周内完成。（新浪财经）",
-        "cover": "",
-        "date": 1787028981784,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "世界精度最高百米级射电望远镜完成核心结构安装",
-        "url": "https://m.36kr.com/newsflashes/3944547953343624",
-        "desc": "今天（8月18日），坐落于新疆昌吉州奇台县的110米口径射电望远镜项目，天线座架三层结构顺利完成合拢，标志着该项目主体结构进入最后建设阶段。这座在建的世界精度最高的射电望远镜，建成后可重点解决我国在深空探测等领域缺少超大口径天线装备的难题。（央视新闻）",
-        "cover": "",
-        "date": 1787028100667,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "美国物流地产商安博据悉考虑发行点心债，拟筹资约20亿元人民币",
-        "url": "https://m.36kr.com/newsflashes/3944540940975493",
-        "desc": "美国物流地产解决方案提供商安博旗下机构Prologis LP据悉考虑发行点心债，规模约20亿元人民币。知情人士透露，发行时间尚未确定，细节可能变化。（新浪财经）",
-        "cover": "",
-        "date": 1787027672666,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787034364063,
+    "thepaper": 1787035263765,
     "bilibili": 1787033537872,
-    "qbitai": 1787034386960,
-    "36kr": 1787034387226
+    "qbitai": 1787035282887,
+    "36kr": 1787035283288
   },
   "failures": {}
 }
