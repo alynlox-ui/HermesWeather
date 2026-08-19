@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T15:11:36Z",
+  "updatedAt": "2026-08-19T15:26:42Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -185,7 +185,7 @@
         "bvid": "BV1dw8p6NEQS",
         "author": "anno大笨蛋",
         "duration": "2:6",
-        "cover": "//i1.hdslb.com/bfs/archive/7ffeb3bd7c451fbf403537ed59a24a0069770904.jpg",
+        "cover": "//i0.hdslb.com/bfs/archive/0fe91f440c75387fafaadc83a09408043d3f148a.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dw8p6NEQS&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG战胜XLG VCT第二赛段"
       },
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787152265045,
-    "bilibili": 1787152274488,
-    "qbitai": 1787152296084,
-    "36kr": 1787152296550
+    "thepaper": 1787153166188,
+    "bilibili": 1787151867802,
+    "qbitai": 1787153201858,
+    "36kr": 1787153202323
   },
   "failures": {}
 }
