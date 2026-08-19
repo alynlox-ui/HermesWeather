@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T04:56:36Z",
+  "updatedAt": "2026-08-19T05:11:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -334,19 +334,19 @@
         "hotTitle": "龙餐馆演员讲述亲历的伊拉克战争"
       },
       {
-        "title": "周处除三害现实版，我们干掉他了！",
-        "url": "https://www.bilibili.com/video/BV1VfbR6pEw9",
+        "title": "《漓人书院》第十一集",
+        "url": "https://www.bilibili.com/video/BV1s8KM6jEEy",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "现实中没有陈桂林，但是没关系。 有我们。 画面：《周处除三害》",
-        "content": "现实中没有陈桂林，但是没关系。 有我们。 画面：《周处除三害》",
-        "bvid": "BV1VfbR6pEw9",
-        "author": "温柔JUNZ",
-        "duration": "3:2",
-        "cover": "//i1.hdslb.com/bfs/archive/8ec963e2a06f63e149e11b3f966439e0a6428520.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VfbR6pEw9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "夜市花灯，共寄情长",
+        "content": "夜市花灯，共寄情长",
+        "bvid": "BV1s8KM6jEEy",
+        "author": "悠闲的小十九",
+        "duration": "1:25",
+        "cover": "//i1.hdslb.com/bfs/archive/306d4f4001b3b77f39c8cae3b478fed4acdb3cfc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1s8KM6jEEy&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "UP主聊曝光如是书院过程"
       },
       {
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "沪指跌幅扩大至2%",
+        "url": "https://m.36kr.com/newsflashes/3945984002571655",
+        "desc": "36氪获悉，沪指跌幅扩大至2%，深证成指跌4.1%，创业板指跌5.13%；半导体、光模块、玻纤方向领跌，全市场近5000股下跌。",
+        "cover": "",
+        "date": 1787115750156,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "Alphabet拟发行澳元债券，20年期融资成本或接近7%",
         "url": "https://m.36kr.com/newsflashes/3945967762963593",
         "desc": "8月19日，据报道，Alphabet拟发行总额最高55亿澳元（约39亿美元）的多期限澳元债券，其中20年期债券收益率指引约为6.95%，融资成本或接近7%，最终定价仍可能有所变化。该债券发行获得超过200亿澳元的投资者认购需求。（界面）",
@@ -947,7 +957,7 @@
         "date": 1787115172000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "华润啤酒：2026年上半年股东应占溢利为51.69亿元",
@@ -957,7 +967,7 @@
         "date": 1787114842000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "博泰车联：获头部新能源车企8397座舱平台项目定点",
@@ -967,7 +977,7 @@
         "date": 1787114280097,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "韩国智库上调今年经济增长预期至3.2%，因AI需求强劲",
@@ -977,7 +987,7 @@
         "date": 1787113840000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "香港交易所：上半年股东应占溢利为105.68亿元，同比增长24%",
@@ -987,7 +997,7 @@
         "date": 1787113338000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "朱雀三号关联方10年增资719倍",
@@ -997,7 +1007,7 @@
         "date": 1787112901000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "旺能环境：控股股东美欣达集团解除质押900.00万股",
@@ -1007,7 +1017,7 @@
         "date": 1787112444000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "恒指午间休盘涨0.24%，恒生科技指数跌0.82%",
@@ -1017,7 +1027,7 @@
         "date": 1787112258730,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "《全民医疗保障“十五五”规划》发布",
@@ -1027,7 +1037,7 @@
         "date": 1787111948158,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "比特币巨鲸重返市场，两个月增持27.5亿美元",
@@ -1037,7 +1047,7 @@
         "date": 1787111755371,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "半日主力资金加仓银行股，抛售电子股",
@@ -1047,7 +1057,7 @@
         "date": 1787111551000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "2026七夕档票房破亿",
@@ -1057,7 +1067,7 @@
         "date": 1787111090610,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "嫦娥七号计划近日择机实施发射，器箭组合体完成垂直转运",
@@ -1067,7 +1077,7 @@
         "date": 1787110730052,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "A股三大指数午间休盘集体下跌，全市场超4900股下跌",
@@ -1077,7 +1087,7 @@
         "date": 1787110511384,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "Momenta、XHEART与QNX宣布达成合作",
@@ -1087,7 +1097,7 @@
         "date": 1787109706250,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "宇树科技今年成立两家新公司",
@@ -1097,7 +1107,7 @@
         "date": 1787108317194,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "频准激光盘中股价跌破1000元，跌幅超过14%",
@@ -1107,7 +1117,7 @@
         "date": 1787107170670,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "科创50指数跌超5%",
@@ -1117,7 +1127,7 @@
         "date": 1787106726569,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "《上海张江高新技术产业开发区发展“十五五”规划》发布",
@@ -1127,25 +1137,15 @@
         "date": 1787106412284,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "创业板指跌4%",
-        "url": "https://m.36kr.com/newsflashes/3945825967045764",
-        "desc": "36氪获悉，创业板指跌4%，深证成指跌3.3%，沪指跌1.79%，科创50指数跌4.8%，MLCC概念、CPO板块、存储芯片、人形机器人板块跌幅居前，全市场超4900只个股下跌。",
-        "cover": "",
-        "date": 1787106104433,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787115366491,
-    "bilibili": 1787115370568,
-    "qbitai": 1787115395624,
-    "36kr": 1787115396356
+    "thepaper": 1787116267040,
+    "bilibili": 1787114810741,
+    "qbitai": 1787116293501,
+    "36kr": 1787116294116
   },
   "failures": {}
 }
