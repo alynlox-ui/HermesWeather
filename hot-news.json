@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T13:11:31Z",
+  "updatedAt": "2026-08-19T13:26:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "TES2:1AL，小奶油的永恩站出来了！塔赞秒掉哥哥也无法战胜！",
-        "url": "https://www.bilibili.com/video/BV1A28J6BEjG",
+        "title": "名场面！水晶哥看小奶油天秀永恩团战游龙1砍5看傻在场所有人，塔赞独木难支 AL大优势开局被TES翻了。k神彻底看傻：我的玛雅！真就靠着永恩这一个英雄砍赢了比赛",
+        "url": "https://www.bilibili.com/video/BV1zS8J6vEYh",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1A28J6BEjG",
-        "author": "请叫我电竞老妪",
-        "duration": "0:51",
-        "cover": "//i1.hdslb.com/bfs/archive/63574547ff509e1acec1fb750d3842164f00afed.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1A28J6BEjG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1zS8J6vEYh",
+        "author": "切片小子",
+        "duration": "7:11",
+        "cover": "//i1.hdslb.com/bfs/archive/bea1a01cd60df3de30cc32a0ff2b811c9c689635.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zS8J6vEYh&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TES战胜AL LPL第三赛段"
       },
       {
@@ -222,19 +222,19 @@
         "hotTitle": "当表情包有了战力图"
       },
       {
-        "title": "给塔菲整哪来了，这还是pvz吗",
-        "url": "https://www.bilibili.com/video/BV1Tzbi6WEps",
+        "title": "Asaki大人玩《恐怖版植物大战僵尸》全流程实况弹幕版！这么阴是真有点吓人啊，我这植物怎么天天变异啊！！！",
+        "url": "https://www.bilibili.com/video/BV1mY8J6jEUr",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "taffy直播间：https://live.bilibili.com/22603245 taffy个人主页：https://space.bilibili.com/1265680561/ 关注塔菲谢谢喵！！！ 游戏：恐怖版植物大战僵尸 【【恐怖版】PVZ恐怖版：序章宣传片】 https://www.bilibili.com/video/BV1F2gj6GEMw/?share_source=copy_web&vd_source=6265ae64bb052b11505884206a145838 @对不起贱笑了",
-        "content": "taffy直播间：https://live.bilibili.com/22603245 taffy个人主页：https://space.bilibili.com/1265680561/ 关注塔菲谢谢喵！！！ 游戏：恐怖版植物大战僵尸 【【恐怖版】PVZ恐怖版：序章宣传片】 https://www.bilibili.com/video/BV1F2gj6GEMw/?share_source=copy_web&vd_source=6265ae64bb052b11505884206a145838 @对不起贱笑了",
-        "bvid": "BV1Tzbi6WEps",
-        "author": "Ace_鼠鼠喵",
-        "duration": "48:21",
-        "cover": "//i0.hdslb.com/bfs/archive/d17df81d837831f30ec542db4753ab7a88ddcca1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Tzbi6WEps&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "@Asaki大人 https://live.bilibili.com/732",
+        "content": "@Asaki大人 https://live.bilibili.com/732",
+        "bvid": "BV1mY8J6jEUr",
+        "author": "笙笙子",
+        "duration": "34:2",
+        "cover": "//i2.hdslb.com/bfs/archive/ae8fd9d6462154e173af379a7fae0bfc94fd25b1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mY8J6jEUr&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Asaki大人试玩PVZ恐怖版"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787145063675,
-    "bilibili": 1787145067732,
-    "qbitai": 1787145090877,
-    "36kr": 1787145091333
+    "thepaper": 1787145964014,
+    "bilibili": 1787144639254,
+    "qbitai": 1787145992850,
+    "36kr": 1787145993400
   },
   "failures": {}
 }
