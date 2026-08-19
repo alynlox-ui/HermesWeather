@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-19T06:26:32Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-08-19T06:41:39Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -46,80 +46,80 @@
         "rank": 7
       },
       {
+        "title": "大方之谈丨对话虞先濬：病人是我的老师",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33727936",
+        "desc": "",
+        "rank": 8
+      },
+      {
+        "title": "中一签赚47.46万！宇树科技开盘暴涨629.44%，总市值4449亿元",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33807884",
+        "desc": "",
+        "rank": 9
+      },
+      {
         "title": "经纬度：活跃县域消费，夯实扩消费的根基",
         "url": "https://www.thepaper.cn/newsDetail_forward_33804859",
         "desc": "",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "视频丨我国首次！重复使用火箭陆地回收成功",
         "url": "https://www.thepaper.cn/newsDetail_forward_33807888",
         "desc": "",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "四川长宁县一升学宴突发墙体倒塌事故，已致5死17伤",
         "url": "https://www.thepaper.cn/newsDetail_forward_33807960",
         "desc": "",
-        "rank": 10
-      },
-      {
-        "title": "大方之谈丨对话虞先濬：病人是我的老师",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33727936",
-        "desc": "",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "南通城隍庙回应“修缮被指改变文物现状”：加装藻井系学习延续传统城隍庙风格",
         "url": "https://www.thepaper.cn/newsDetail_forward_33804506",
         "desc": "",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "“低价团”导游胁迫游客消费？云南通报调查处理情况",
         "url": "https://www.thepaper.cn/newsDetail_forward_33805425",
         "desc": "",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "杭州酒局事件通报：涉事招商蛇口高管、滨江区公职人员被刑拘，两人均已被免职",
         "url": "https://www.thepaper.cn/newsDetail_forward_33804121",
         "desc": "",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "假冒“港中大客座教授”“西部新闻网总编”，张龙50多个头衔从何而来",
         "url": "https://www.thepaper.cn/newsDetail_forward_33806408",
         "desc": "",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "为何冒死游向欧洲？一场结构困境、虚假信息和地缘博弈交织的边境危机",
         "url": "https://www.thepaper.cn/newsDetail_forward_33804678",
         "desc": "",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "四川长宁县一升学宴突发事故致5人死亡，硐底镇政府表示伤者已全部送医，邻县曾派人员协助救援",
         "url": "https://www.thepaper.cn/newsDetail_forward_33808030",
         "desc": "",
-        "rank": 17
-      },
-      {
-        "title": "马上评｜合力铲除滋生假名人的社会土壤",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33808110",
-        "desc": "",
         "rank": 18
       },
       {
-        "title": "女患者称“就诊时被男医生猥亵揉胸”，广西人民医院：已内部调查，双方均已报警",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33804360",
+        "title": "28家具身独角兽估值超3500亿元，谁是下一个宇树？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33591259",
         "desc": "",
         "rank": 19
       },
       {
-        "title": "胖东来澄清“无门槛招聘刑满释放人员”：排除性侵等恶性犯罪前科人员",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33808245",
+        "title": "马上评｜合力铲除滋生假名人的社会土壤",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33808110",
         "desc": "",
         "rank": 20
       }
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "鸿海加码越南、墨西哥子公司，或扩增CPO、AI服务器产能",
+        "url": "https://m.36kr.com/newsflashes/3946069994208385",
+        "desc": "据台湾经济日报，鸿海昨日公告，增资越南子公司3.584亿美元（约新台币114.75亿元），外界推测是扩增CPO产能；同步公告增资墨西哥子公司4.6亿墨西哥披索（约新台币8.59亿元），外界推测主要是扩增AI服务器产能。（财联社）",
+        "cover": "",
+        "date": 1787120998669,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "创业板指跌幅扩大至6%",
         "url": "https://m.36kr.com/newsflashes/3946065559879049",
         "desc": "36氪获悉，创业板指跌幅扩大至6%，沪指跌2.4%，深证成指跌4.8%。",
@@ -947,7 +957,7 @@
         "date": 1787120728019,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "嘉士伯上半年营收增2.6%，上调全年盈利指引",
@@ -957,7 +967,7 @@
         "date": 1787120637815,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "我国牵头制定，全球首个针对客船涂装技术的国际标准发布",
@@ -967,7 +977,7 @@
         "date": 1787120050307,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "工信部：将推动机器人产业聚焦2个关键环节、4个重点行业",
@@ -977,7 +987,7 @@
         "date": 1787120008755,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "Pimco总裁称财富管理机构正撤出私募信贷市场",
@@ -987,7 +997,7 @@
         "date": 1787119768516,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "台积电先进封装CoWoS产能供不应求，订单爆满",
@@ -997,7 +1007,7 @@
         "date": 1787119504231,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "市场监管总局：1至7月依法办结垄断协议和滥用市场支配地位案件13件",
@@ -1007,7 +1017,7 @@
         "date": 1787119326875,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "AI需求推动，韩国上市公司上半年合并营业利润同比飙升近350%",
@@ -1017,7 +1027,7 @@
         "date": 1787118930000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "工信部副部长辛国斌：上半年机器人产业规上企业营收达1655亿元，同比增长24.5%",
@@ -1027,7 +1037,7 @@
         "date": 1787118326853,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "新加坡承诺对基金经理实施税收豁免",
@@ -1037,7 +1047,7 @@
         "date": 1787117493000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "北京火箭大街商业航天智能测运控中心正式启用",
@@ -1047,7 +1057,7 @@
         "date": 1787117221289,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "汇丰上调韩国股市评级至“超配”",
@@ -1057,7 +1067,7 @@
         "date": 1787117025409,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "SK海力士芯片产出推动，韩国忠清北道第二季度矿业及制造业产出同比激增近28%",
@@ -1067,7 +1077,7 @@
         "date": 1787116740941,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "沪指失守3900点，日内跌超2.3%",
@@ -1077,7 +1087,7 @@
         "date": 1787116666197,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "人形机器人板块午后持续走低，10余股触及跌停",
@@ -1087,7 +1097,7 @@
         "date": 1787116593957,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "下周起，CHATGPT广告将拓展至31个欧洲国家",
@@ -1097,7 +1107,7 @@
         "date": 1787116508754,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "沪指跌幅扩大至2%",
@@ -1107,7 +1117,7 @@
         "date": 1787115750156,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "Alphabet拟发行澳元债券，20年期融资成本或接近7%",
@@ -1117,7 +1127,7 @@
         "date": 1787115172000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "华润啤酒：2026年上半年股东应占溢利为51.69亿元",
@@ -1127,25 +1137,16 @@
         "date": 1787114842000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "博泰车联：获头部新能源车企8397座舱平台项目定点",
-        "url": "https://m.36kr.com/newsflashes/3945959917124993",
-        "desc": "36氪获悉，博泰车联发布自愿公告，公司收到某头部OEM新能源车企的项目定点通知，被选定为下一代全新车型8397座舱平台供应商。本次定点标志着公司基于高端座舱平台构建物理AI及车载智能体系统的技术方案获得主流车企广泛认可，将有助于持续夯实公司在新能源乘用车领域市场份额，强化车载前沿AI场景化应用的领先优势，为集团长期可持续发展提供坚实支撑。鉴于新一代平台解决方案研发过程中存在风险及不确定性，公司将积极推进研发工作并加强风险管控。",
-        "cover": "",
-        "date": 1787114280097,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787120767508,
+    "thepaper": 1787121666180,
     "bilibili": 1787120158382,
-    "qbitai": 1787120792052,
-    "36kr": 1787120792690
+    "36kr": 1787121699254
   },
-  "failures": {}
+  "failures": {
+    "qbitai": "RuntimeError('QbitAI JSON not found')"
+  }
 }
