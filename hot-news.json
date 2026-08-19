@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T09:41:37Z",
+  "updatedAt": "2026-08-19T09:56:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -558,19 +558,19 @@
         "hotTitle": "全面分析易烊千玺"
       },
       {
-        "title": "现场直击我国首次实现火箭陆地回收！",
-        "url": "https://www.bilibili.com/video/BV15h856VE7m",
+        "title": "现场视频！朱雀三号成功回收",
+        "url": "https://www.bilibili.com/video/BV1jt856LECs",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "https://www.yspapp.cn/66py（央视频号：新闻来了）",
-        "content": "https://www.yspapp.cn/66py（央视频号：新闻来了）",
-        "bvid": "BV15h856VE7m",
-        "author": "央视频",
-        "duration": "1:36",
-        "cover": "//i1.hdslb.com/bfs/archive/bd2ed854f9471a16abe383255c9c2bd5324a123d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15h856VE7m&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1jt856LECs",
+        "author": "央视新闻",
+        "duration": "1:22",
+        "cover": "//i0.hdslb.com/bfs/archive/1cf6106fd9eac42f596c2b990e7ceacc03e5f085.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jt856LECs&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "我国首次火箭陆地回收全过程"
       },
       {
@@ -940,6 +940,26 @@
         "rank": 3
       },
       {
+        "title": "荣泰健康：上半年净利润1.12亿元，同比增长31.48%",
+        "url": "https://m.36kr.com/newsflashes/3946265028001153",
+        "desc": "36氪获悉，荣泰健康披露半年报，2026年上半年，公司实现营业收入9.91亿元，同比增长22.29%；归属于上市公司股东的净利润1.12亿元，同比增长31.48%；基本每股收益0.56元。",
+        "cover": "",
+        "date": 1787132902587,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "南向资金今日净卖出华虹宏力29.69亿港元",
+        "url": "https://m.36kr.com/newsflashes/3946258557058433",
+        "desc": "南向资金今日净卖出106.21亿港元。腾讯控股、兆易创新分别获净买入3.21亿港元、1.38亿港元；华虹宏力、小米集团-W分别遭净卖出29.69亿港元、15.1亿港元。（证券时报）",
+        "cover": "",
+        "date": 1787132507632,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "韩国家庭信贷迈入2000万亿韩元时代",
         "url": "https://m.36kr.com/newsflashes/3946250984455556",
         "desc": "受住房相关贷款及用于杠杆炒股的信用贷款大幅增加推动，韩国家庭信贷规模首次突破2000万亿韩元。韩国的家庭信贷主要由金融机构发放贷款与信用卡赊购两部分共同组成。韩国央行于当地时间19日发布的第二季度家庭信贷数据显示，当季家庭信贷为2019.8万亿韩元（约1.48万亿美元），较上一季度增加25.9万亿韩元。这是该数据有史以来首次突破2000万亿韩元大关，且第二季度增幅为2021年第三季度以来的最大单季增幅。（财联社）",
@@ -947,7 +967,7 @@
         "date": 1787132045437,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "国信证券、华福证券等在深圳成立微电子装备合伙企业，出资额约4.1亿",
@@ -957,7 +977,7 @@
         "date": 1787131221782,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "保变电气：上半年净利润1.34亿元，同比增长77.34%",
@@ -967,7 +987,7 @@
         "date": 1787130997826,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "中国卫星：上半年净利润3456.58万元，同比扭亏为盈",
@@ -977,7 +997,7 @@
         "date": 1787130675497,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "三星电子据悉因需求激增上调芯片代工价格，最高涨幅达15%",
@@ -987,7 +1007,7 @@
         "date": 1787130351990,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "微博：二季度总营收4.538亿美元，调整后运营利润1.254亿美元",
@@ -997,7 +1017,7 @@
         "date": 1787130201186,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "国轩高科旗下桐城新能源公司增资至35.3亿，增幅约30%",
@@ -1007,7 +1027,7 @@
         "date": 1787129984265,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "1至7月进出口银行新发放制造业贷款近5000亿元",
@@ -1017,7 +1037,7 @@
         "date": 1787129845252,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "飞南资源：上半年净利润6.49亿元，同比增长307.31%",
@@ -1027,7 +1047,7 @@
         "date": 1787129681602,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "华盛锂电：上半年净利润2.23亿元，拟10派3元",
@@ -1037,7 +1057,7 @@
         "date": 1787128957094,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "快手：可灵AI二季度营业收入超过8.5亿元，同比增长超过200%",
@@ -1047,7 +1067,7 @@
         "date": 1787128636287,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "快手：第二季度财报营收355亿元，同比增长1.4%",
@@ -1057,7 +1077,7 @@
         "date": 1787128311260,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "黔西南农村商业银行登记成立，注册资本20亿",
@@ -1067,7 +1087,7 @@
         "date": 1787127529437,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "上海：推进第六代移动通信技术（6G）试验网实现智能协同并部署商用",
@@ -1077,7 +1097,7 @@
         "date": 1787127479456,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "上海：支持头部数商平稳发展，鼓励行业龙头、互联网平台企业数据业务运营",
@@ -1087,7 +1107,7 @@
         "date": 1787127413575,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "恒指收涨0.09%，恒生科技指数跌1.21%",
@@ -1097,7 +1117,7 @@
         "date": 1787127132390,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "上海：构建“通用+智能+超算”三位一体的算力服务体系",
@@ -1107,7 +1127,7 @@
         "date": 1787126672846,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "南向资金净卖出额达100亿港元",
@@ -1117,35 +1137,15 @@
         "date": 1787125927023,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "国电南自：上半年净利润1.94亿元，同比增长22.01%",
-        "url": "https://m.36kr.com/newsflashes/3946149454069124",
-        "desc": "36氪获悉，国电南自披露半年报，2026年上半年实现营业收入39.47亿元，同比下降7.82%；归属于上市公司股东的净利润1.94亿元，同比增长22.01%；基本每股收益0.19元。",
-        "cover": "",
-        "date": 1787125848514,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "拓荆科技旗下沈阳半导体设备公司增资至33.6亿，增幅约572%",
-        "url": "https://m.36kr.com/newsflashes/3946146016656770",
-        "desc": "36氪获悉，天眼查App显示，近日，拓荆创益（沈阳）半导体设备有限公司发生工商变更，刘静卸任法定代表人，由宁建平接任，同时，注册资本由5亿人民币增至约33.6亿人民币，增幅约572%。拓荆创益（沈阳）半导体设备有限公司成立于2023年2月，经营范围包括电子专用设备制造、电子专用设备销售、半导体器件专用设备制造、半导体器件专用设备销售等，由拓荆科技股份有限公司全资持股。",
-        "cover": "",
-        "date": 1787125638711,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787132467339,
-    "bilibili": 1787132473638,
-    "qbitai": 1787132496848,
-    "36kr": 1787132497404
+    "thepaper": 1787133367581,
+    "bilibili": 1787132014853,
+    "qbitai": 1787133394052,
+    "36kr": 1787133394694
   },
   "failures": {}
 }
