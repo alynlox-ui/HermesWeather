@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T14:41:41Z",
+  "updatedAt": "2026-08-19T14:56:38Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -232,7 +232,7 @@
         "content": "",
         "bvid": "BV1Z58J6bEHW",
         "author": "山雀子ovo",
-        "duration": "60:4",
+        "duration": "120:8",
         "cover": "//i1.hdslb.com/bfs/archive/52316414c028ded7f751215400633258ba087ae7.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z58J6bEHW&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Asaki大人试玩PVZ恐怖版"
@@ -414,19 +414,19 @@
         "hotTitle": "徐静雨评电影龙餐馆"
       },
       {
-        "title": "众主播看whzy巨夸张的一帧甩枪！全员惊呼！这一枪全是天赋！BLG vs XLG",
-        "url": "https://www.bilibili.com/video/BV1348J6HEx5",
+        "title": "众主播看BLG战胜XLG！再赢一场就进冠军赛了！BLG vs XLG",
+        "url": "https://www.bilibili.com/video/BV1dw8p6NEQS",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
         "content": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
-        "bvid": "BV1348J6HEx5",
+        "bvid": "BV1dw8p6NEQS",
         "author": "anno大笨蛋",
-        "duration": "3:5",
-        "cover": "//i2.hdslb.com/bfs/archive/ac59027462c2557cd6c57c6128736f1dcdb8c3a3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1348J6HEx5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "2:6",
+        "cover": "//i1.hdslb.com/bfs/archive/7ffeb3bd7c451fbf403537ed59a24a0069770904.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dw8p6NEQS&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG vs XLG VCT第二赛段"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787150465468,
-    "bilibili": 1787150475981,
-    "qbitai": 1787150500907,
-    "36kr": 1787150501412
+    "thepaper": 1787151363876,
+    "bilibili": 1787150055922,
+    "qbitai": 1787151398117,
+    "36kr": 1787151398520
   },
   "failures": {}
 }
