@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-20T03:11:34Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-08-20T03:27:09Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -960,6 +960,26 @@
         "rank": 5
       },
       {
+        "title": "中伟新材成立金属资源公司，注册资本10亿元",
+        "url": "https://m.36kr.com/newsflashes/3947303399079047",
+        "desc": "36氪获悉，企查查App显示，近日，中伟恒通金属资源（上海）有限公司成立，法定代表人为孙亚弟，注册资本为10亿元，经营范围包含：有色金属合金销售；金属材料销售；金属制品销售；金属矿石销售；非金属矿及制品销售等。企查查股权穿透显示，该公司由中伟新材全资持股。",
+        "cover": "",
+        "date": 1787196279728,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "摩根大通称SK海力士明年或向股东返还至少1300亿美元",
+        "url": "https://m.36kr.com/newsflashes/3947293774658953",
+        "desc": "摩根大通称，SK海力士在完成新的巨额股票回购计划后，明年可能会向股东返还至少1300亿美元。（新浪财经）",
+        "cover": "",
+        "date": 1787195692300,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "菜鸟在欧洲再新开两座海外仓",
         "url": "https://m.36kr.com/newsflashes/3947284506852741",
         "desc": "36氪从菜鸟获悉，近日，菜鸟和4PX海外供应链在法国巴黎和德国曼海姆连开两座新仓，支持大件存储和本地配送服务，目前首柜货物均已顺利入仓。从今年4月以来，菜鸟在欧洲新开了7座新仓，分布在荷兰、法国、西班牙、波兰、英国和德国，仅法国就新开两座仓库。",
@@ -967,7 +987,7 @@
         "date": 1787195126638,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "新加坡当局开始调查铁矿石贸易商Radiant World",
@@ -977,7 +997,7 @@
         "date": 1787194636314,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "“原子矩阵”完成数亿元人民币A+轮融资",
@@ -987,7 +1007,7 @@
         "date": 1787194053890,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "美国扩大长期国债回购规模推动金价大涨",
@@ -997,7 +1017,7 @@
         "date": 1787193547160,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "中汽协：1—7月销量排名前十位的SUV生产企业共销售615.5万辆",
@@ -1007,7 +1027,7 @@
         "date": 1787193393082,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "免部署一键调用，国家超算互联网上线GLM-5.3 API",
@@ -1017,7 +1037,7 @@
         "date": 1787192673161,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "硕贝德成立前沿工程技术公司，含AI及集成电路芯片业务",
@@ -1027,7 +1047,7 @@
         "date": 1787192551079,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "宁波方正等成立智能科技公司，含云计算设备销售业务",
@@ -1037,7 +1057,7 @@
         "date": 1787192058775,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "三星据悉将公布100万亿韩元股东回报计划",
@@ -1047,7 +1067,7 @@
         "date": 1787191823119,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "王兴兴：具身智能跨越ChatGPT时刻，关键在于模型与机器人对齐",
@@ -1057,7 +1077,7 @@
         "date": 1787191627962,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "今起吉尔吉斯斯坦、越南公民可适用240小时过境免签政策",
@@ -1067,7 +1087,7 @@
         "date": 1787191296717,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "北京亦庄：将加快实现10万台套级具身智能机器人规模量产",
@@ -1077,7 +1097,7 @@
         "date": 1787191250790,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "“钛动科技”完成新一轮融资",
@@ -1087,7 +1107,7 @@
         "date": 1787190673559,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "王兴兴：我们尚未对人形机器人进行大规模推广，因为这类机器人的效率与通用能力仍不够完善",
@@ -1097,7 +1117,7 @@
         "date": 1787190142738,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "A股三大指数集体高开，医药股走强",
@@ -1107,7 +1127,7 @@
         "date": 1787189261462,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "恒指开盘涨1.11%，恒生科技指数涨1.69%",
@@ -1117,7 +1137,7 @@
         "date": 1787188933968,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "8月20日人民币对美元中间价调升46个基点",
@@ -1127,7 +1147,7 @@
         "date": 1787188630863,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "商务部：7月份重点平台具身智能机器人销售额增长95.1%",
@@ -1137,35 +1157,16 @@
         "date": 1787188359505,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "8月LPR报价出炉：1年期和5年期以上利率均维持不变",
-        "url": "https://m.36kr.com/newsflashes/3947163970190724",
-        "desc": "36氪获悉，2026年8月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；5年期以上LPR为3.5%，上月为3.5%。",
-        "cover": "",
-        "date": 1787187769664,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 24
-      },
-      {
-        "title": "稀宇科技推出MiniMax Design",
-        "url": "https://m.36kr.com/newsflashes/3947156521713033",
-        "desc": "36氪获悉，据稀宇科技消息，公司推出MiniMax Design。MiniMax Design是一款把多模态模型能力变成真实可用的生产力的Harness。用户提出创作需求后，它能够理解目标、拆解任务、调用相应的模型与Skills，完成从素材处理、生成和编辑到最终交付的完整过程。",
-        "cover": "",
-        "date": 1787187315045,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787195466007,
-    "bilibili": 1787195469617,
-    "qbitai": 1787195493906,
-    "36kr": 1787195494484
+    "thepaper": 1787196365899,
+    "bilibili": 1787195023157,
+    "36kr": 1787196429115
   },
-  "failures": {}
+  "failures": {
+    "qbitai": "RuntimeError('QbitAI JSON not found')"
+  }
 }
