@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T06:11:36Z",
+  "updatedAt": "2026-08-20T06:26:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -302,19 +302,19 @@
         "hotTitle": "他予回声新团曝光"
       },
       {
-        "title": "【超哥查理斯+SDN解说】Spirit vs 1W TI15国际邀请赛小组赛【2026年8月20日】",
-        "url": "https://www.bilibili.com/video/BV1uZ8F6bESt",
+        "title": "【TI2026】Iron Wing vs Spirit 8月20日 淘汰赛",
+        "url": "https://www.bilibili.com/video/BV1Tn8F69EtR",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "感谢观看 喜欢的话请大家帮忙点点赞谢谢大家 你们的支持是我坚持的动力 Q群425275864 936472149",
-        "content": "感谢观看 喜欢的话请大家帮忙点点赞谢谢大家 你们的支持是我坚持的动力 Q群425275864 936472149",
-        "bvid": "BV1uZ8F6bESt",
-        "author": "XiaoYuan666666丶",
-        "duration": "146:8",
-        "cover": "//i2.hdslb.com/bfs/archive/816ea3177ac2be773b82958a871581ab517111f9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uZ8F6bESt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【TI2026】Iron Wing vs Spirit 8月20日 淘汰赛",
+        "content": "【TI2026】Iron Wing vs Spirit 8月20日 淘汰赛",
+        "bvid": "BV1Tn8F69EtR",
+        "author": "哔哩哔哩刀塔2赛事",
+        "duration": "237:48",
+        "cover": "//i2.hdslb.com/bfs/archive/b063a47ffa2f11e73a48511acad763dafa78101a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Tn8F69EtR&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Spirit战胜Iron Wing"
       },
       {
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
+        "url": "https://www.qbitai.com/2026/08/476120.html",
+        "desc": "这几个玩家或可被“押注”",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/4a44fca6753c4c10ddffb7ea667353a7.png",
+        "date": "2026-08-20T14:17:10",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
         "url": "https://www.qbitai.com/2026/08/476078.html",
         "desc": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
@@ -615,7 +625,7 @@
         "date": "2026-08-20T09:37:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
@@ -625,7 +635,7 @@
         "date": "2026-08-20T09:21:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
@@ -635,7 +645,7 @@
         "date": "2026-08-20T09:06:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
@@ -645,7 +655,7 @@
         "date": "2026-08-19T18:54:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
@@ -655,7 +665,7 @@
         "date": "2026-08-19T18:12:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
@@ -665,7 +675,7 @@
         "date": "2026-08-19T16:34:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "MiniMax核心工程负责人阿岛离职",
@@ -675,7 +685,7 @@
         "date": "2026-08-19T16:23:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
@@ -685,7 +695,7 @@
         "date": "2026-08-19T15:42:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
@@ -695,7 +705,7 @@
         "date": "2026-08-19T15:40:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
@@ -705,7 +715,7 @@
         "date": "2026-08-19T15:22:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑",
@@ -715,7 +725,7 @@
         "date": "2026-08-19T14:35:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
@@ -725,7 +735,7 @@
         "date": "2026-08-19T14:29:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "郭富城换车，30万级顶配华为全家桶",
@@ -735,7 +745,7 @@
         "date": "2026-08-19T08:59:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
@@ -745,7 +755,7 @@
         "date": "2026-08-18T19:07:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
@@ -755,7 +765,7 @@
         "date": "2026-08-18T18:40:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
@@ -765,7 +775,7 @@
         "date": "2026-08-18T18:04:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
@@ -775,7 +785,7 @@
         "date": "2026-08-18T17:57:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
@@ -785,7 +795,7 @@
         "date": "2026-08-18T17:38:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
@@ -795,7 +805,7 @@
         "date": "2026-08-18T15:33:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "今日起，阿里“千问办公”接入企业微信",
@@ -805,7 +815,7 @@
         "date": "2026-08-18T15:17:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "吉利汽车业绩高点，李书福激流勇退",
@@ -815,7 +825,7 @@
         "date": "2026-08-18T14:46:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
@@ -825,7 +835,7 @@
         "date": "2026-08-18T13:58:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
@@ -835,7 +845,7 @@
         "date": "2026-08-18T12:40:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
@@ -845,7 +855,7 @@
         "date": "2026-08-18T11:31:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
@@ -855,7 +865,7 @@
         "date": "2026-08-17T17:30:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
@@ -865,7 +875,7 @@
         "date": "2026-08-17T17:04:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
@@ -875,7 +885,7 @@
         "date": "2026-08-17T16:36:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
@@ -885,7 +895,7 @@
         "date": "2026-08-17T16:26:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
@@ -893,16 +903,6 @@
         "desc": "即将完全开源",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/ce2c3c82848a04cd790d09c13f4fc70c.webp",
         "date": "2026-08-17T15:39:56",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
-        "url": "https://www.qbitai.com/2026/08/471668.html",
-        "desc": "",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/微信图片_20260813115641_31_1441-1-scaled-e1786598379135.png",
-        "date": "2026-08-17T13:10:50",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -960,6 +960,26 @@
         "rank": 5
       },
       {
+        "title": "“大空头”伯里唱空英伟达，力挺AI芯片新秀Etched",
+        "url": "https://m.36kr.com/newsflashes/3947477291842693",
+        "desc": "“大空头”迈克尔·伯里再次唱空英伟达，称AI芯片公司Etched是其严峻竞争对手，后者芯片性能提升10倍、成本更低。Etched约15%员工来自英伟达，8月18日完成7亿美元融资估值210亿美元，其芯片仅用44天投入运行。（财联社）",
+        "cover": "",
+        "date": 1787206893300,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "崔东树：260万辆新能源车面临电池脱保，长效电池质保是新能源下半场关键命题",
+        "url": "https://m.36kr.com/newsflashes/3947471915285889",
+        "desc": "36氪获悉，乘联分会崔东树发文称，截至2026年6月底，全国新能源汽车保有量达4897万辆，占汽车总量的13.19%，较去年同期提高2.92个百分点。2026年，中国新能源汽车产业正在穿越一个关键节点。根据公安部及乘联分会数据推算，到今年年底，全国车龄超过8年的新能源汽车保有量将达到260万辆，这意味着最早一批进入私人消费市场的新能源车将陆续脱离国家规定的“8年或12万公里”动力电池最低质保期。海量存量车辆进入质保空窗期，电池故障维修、续航衰减、安全兜底等问题快速凸显，成为当前新能源售后市场的核心痛点。",
+        "cover": "",
+        "date": 1787206565141,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "三星晶圆代工技术蓝图调整，1.4纳米延后至2029年量产",
         "url": "https://m.36kr.com/newsflashes/3947466750229633",
         "desc": "三星晶圆代工近期在SAFE Forum 2026论坛上更新技术蓝图，调整1.4纳米量产时间，目前已预告预定2029年量产，相关目标将晚于台积电约一年（台积电A14计划于2028年如期进入量产）。三星晶圆代工最初在2022年曾发布新闻稿预告，2纳米2025年量产以及1.4纳米2027年量产。（财联社）",
@@ -967,7 +987,7 @@
         "date": 1787206249891,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "三大股指集体翻绿",
@@ -977,7 +997,7 @@
         "date": 1787205729788,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "今年前7个月香港ETF市场日均成交额406亿，按年增22%",
@@ -987,7 +1007,7 @@
         "date": 1787205328159,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "神龙汽车科技（武汉）有限公司正式成立",
@@ -997,7 +1017,7 @@
         "date": 1787204639000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "坤维科技推出专为户外运动打造的轻量化助力外骨骼",
@@ -1007,7 +1027,7 @@
         "date": 1787204501000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "宇树科技王兴兴：公司正在推进让物理AI机器人模型自进化",
@@ -1017,7 +1037,7 @@
         "date": 1787204277780,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "瑞为技术行李转运机器人解决方案首发亮相WRC 2026",
@@ -1027,7 +1047,7 @@
         "date": 1787204083155,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "险资投资信托存量规模跌破万亿元，已连续5年下降",
@@ -1037,7 +1057,7 @@
         "date": 1787203574942,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "SK海力士与工会就薪酬和奖金达成初步协议",
@@ -1047,7 +1067,7 @@
         "date": 1787202687923,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "OpenAI对抗Anthropic的最新举措：承诺不留存客户数据",
@@ -1057,7 +1077,7 @@
         "date": 1787202571987,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "亚马逊计划今年将无人机配送服务扩展至美国近500个城镇",
@@ -1067,7 +1087,7 @@
         "date": 1787202414477,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "房地产板块短线拉升，城投控股涨停",
@@ -1077,7 +1097,7 @@
         "date": 1787202271985,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "南京银行回应上半年信用减值损失同比上升：主要是考虑加大风险处置出清力度",
@@ -1087,7 +1107,7 @@
         "date": 1787202057176,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "上海：加快推进收购二手住房用作保障性租赁住房",
@@ -1097,7 +1117,7 @@
         "date": 1787202010531,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "上海：推行房票安置",
@@ -1107,7 +1127,7 @@
         "date": 1787201962739,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "上海：出台阶段性购房补贴政策",
@@ -1117,7 +1137,7 @@
         "date": 1787201646110,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "上海：优化二套房贷首付款比例",
@@ -1127,7 +1147,7 @@
         "date": 1787201539203,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "上海优化房地产政策措施",
@@ -1137,35 +1157,15 @@
         "date": 1787201403233,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "友发集团等成立新公司，含金属材料制造业务",
-        "url": "https://m.36kr.com/newsflashes/3947383610473863",
-        "desc": "36氪获悉，企查查App显示，近日，四川友发管道科技有限公司成立，法定代表人为苏九川，注册资本为1亿元，经营范围包含：钢压延加工；有色金属压延加工；金属材料制造；塑料制品制造；金属制品研发等。企查查股权穿透显示，该公司由友发集团全资子公司天津友发管道科技有限公司等共同持股。",
-        "cover": "",
-        "date": 1787201175443,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 24
-      },
-      {
-        "title": "正荣地产：境外重组方案条款书已送交部分债权人",
-        "url": "https://m.36kr.com/newsflashes/3947382588898435",
-        "desc": "36氪获悉，正荣地产公告，一份载列公司为解决流动资金问题而提出的境外整体债务管理方案建议条款的条款书已送交本集团的若干债权人，包括曾针对Zhenro Hong Kong Limited提出清盘呈请的呈请人。",
-        "cover": "",
-        "date": 1787201113091,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787206263080,
-    "bilibili": 1787206265392,
-    "qbitai": 1787206295693,
-    "36kr": 1787206296184
+    "thepaper": 1787207163728,
+    "bilibili": 1787205837679,
+    "qbitai": 1787207194980,
+    "36kr": 1787207195543
   },
   "failures": {}
 }
