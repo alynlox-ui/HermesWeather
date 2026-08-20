@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T01:41:24Z",
+  "updatedAt": "2026-08-20T01:56:28Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,20 +126,20 @@
     ],
     "bilibili": [
       {
-        "title": "BLG首发Bin！圣枪哥替补 ！LPL官方公布BLG对战LGD首发名单Bin回归！Flandre替补！Bin重回首发！",
-        "url": "https://www.bilibili.com/video/BV1Bf8H6TEDY",
+        "title": "@猎鹰：踢对人了！各主播看Aurora 1-2 FURIA止步16强！Kyxsan指挥Mirage进攻方一分不拿！",
+        "url": "https://www.bilibili.com/video/BV1Xrbd6XEgq",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Bf8H6TEDY",
-        "author": "灯火电竞Pro",
-        "duration": "0:22",
-        "cover": "//i2.hdslb.com/bfs/archive/c7d8ab7d3ea0953a9731ee2191cdb57f94ca17e0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Bf8H6TEDY&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Bin回归BLG首发"
+        "description": "@猎鹰：踢对人了！各主播看Aurora 1-2 FURIA止步16强！Kyxsan指挥Mirage进攻方一分不拿！",
+        "content": "@猎鹰：踢对人了！各主播看Aurora 1-2 FURIA止步16强！Kyxsan指挥Mirage进攻方一分不拿！",
+        "bvid": "BV1Xrbd6XEgq",
+        "author": "CS2主播赛事名场面",
+        "duration": "11:33",
+        "cover": "//i2.hdslb.com/bfs/archive/38dbe324a65d3d2cc1e2897d5a300dbfa20b08c7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xrbd6XEgq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "FURIA战胜Aurora"
       },
       {
         "title": "宇树，稀土与擎天柱：人形机器人的第一名，是谁？",
@@ -158,26 +158,42 @@
         "hotTitle": "宇树是人形机器人第一名吗"
       },
       {
-        "title": "全新起航！哈姆扎破门拉菲点射 巴萨甘伯杯夺冠 巴萨2比1开罗国民",
-        "url": "https://www.bilibili.com/video/BV1ywbo6uE3Q",
+        "title": "李刚仁首秀世界波！马竞2-0马拉加！巴埃纳任意球建功，阿尔瓦雷斯缺战！",
+        "url": "https://www.bilibili.com/video/BV1oebd6tEoe",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1ywbo6uE3Q",
-        "author": "吉罗很快乐",
-        "duration": "15:58",
-        "cover": "//i1.hdslb.com/bfs/archive/bddaf07f35f1c9a70b5b8e7bb780f24c6c8bcf2b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ywbo6uE3Q&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "巴萨2-1开罗国民"
+        "bvid": "BV1oebd6tEoe",
+        "author": "小周侃球锦集",
+        "duration": "4:11",
+        "cover": "//i2.hdslb.com/bfs/archive/8d60c2db9bd5aef1ae0e2081cd444b105b668a6c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oebd6tEoe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "李刚仁马竞首秀轰世界波"
+      },
+      {
+        "title": "BLG首发Bin！圣枪哥替补 ！LPL官方公布BLG对战LGD首发名单Bin回归！Flandre替补！Bin重回首发！",
+        "url": "https://www.bilibili.com/video/BV1Bf8H6TEDY",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Bf8H6TEDY",
+        "author": "灯火电竞Pro",
+        "duration": "0:22",
+        "cover": "//i2.hdslb.com/bfs/archive/c7d8ab7d3ea0953a9731ee2191cdb57f94ca17e0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Bf8H6TEDY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Bin回归BLG首发"
       },
       {
         "title": "现场视频！朱雀三号成功回收",
         "url": "https://www.bilibili.com/video/BV1jt856LECs",
         "desc": "",
-        "rank": 4,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -193,7 +209,7 @@
         "title": "大范围降雨来了：双黄蛋台风胚胎将在东部上岸，台风沙德尔生成将成超强台风",
         "url": "https://www.bilibili.com/video/BV1X48J6nETi",
         "desc": "",
-        "rank": 5,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "8月19日，台风白海豚的残余低压已经转化为温带气旋，彻底离开了我国东北，黑龙江、吉林的散装暴雨已经结束。但与此同时，我国东部海区、太平洋深处以及中太平洋共有四个风暴活动。它们分别是我国华南附近的台风胚胎95W，华东附近的台风胚胎94W，太平洋深处的18号台风沙德尔，以及中太平洋飓风拉拉。 其中，我国近海的这两个台风胚胎环流连在一起，结构非常松散，像一个体型庞大的散黄双黄蛋，且离陆地已经很近了。在陆地和对方的影响下，它们加强成为正规台风的可能性已经越来越小。尤其是华东近海的94W，它中心空洞，几乎看不出气旋",
@@ -209,7 +225,7 @@
         "title": "恐怖版新僵尸：僵尸潜伏者",
         "url": "https://www.bilibili.com/video/BV18A8j6gEsb",
         "desc": "",
-        "rank": 6,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "新商店界面没做好，拿旧的先顶着吧！ 第41关核弹菇没爆炸的用这个新链接下新版 v1.0.1 主菜单显示1.1的是旧版 安卓：https://pan.quark.cn/s/9065bc24fc5d 电脑 ：https://pan.quark.cn/s/8b949883a562 IOS：https://pan.quark.cn/s/d486d71d3fa8",
@@ -225,7 +241,7 @@
         "title": "不用下载，点击立即哈气【B站AI创造公开赛】",
         "url": "https://www.bilibili.com/video/BV18fbz6TEaQ",
         "desc": "",
-        "rank": 7,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "不用下载，立刻哈气！ 链接：https://www.bilibili.com/toy/Ji-mi-dou/index.html",
@@ -238,58 +254,58 @@
         "hotTitle": "小猫哈气对决模拟器"
       },
       {
-        "title": "【2026LPL第三赛段】8月19日 LNG vs WBG",
-        "url": "https://www.bilibili.com/video/BV1Qc8E6JEQy",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【2026LPL第三赛段】8月19日 LNG vs WBG",
-        "content": "【2026LPL第三赛段】8月19日 LNG vs WBG",
-        "bvid": "BV1Qc8E6JEQy",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "191:26",
-        "cover": "//i2.hdslb.com/bfs/archive/5bd4e78f3914e00bd28727453c72eadc98e9764f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qc8E6JEQy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "WBG战胜LNG LPL第三赛段"
-      },
-      {
-        "title": "《精讲龙餐馆》-电影内核只讲一件事，就是我是中国人",
-        "url": "https://www.bilibili.com/video/BV1kebr6wEvL",
+        "title": "展望新赛季英超六大豪门之曼联",
+        "url": "https://www.bilibili.com/video/BV1Bz836gEAZ",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "舰长审核群有了，群号：199183012，老哥们入群后在群里发一下上舰截图，管理会私信你现在可加的舰长群群号和入群答案。审核结束后请退出本群，爱你们哟（づ￣3￣）づ╭❤～。",
-        "content": "舰长审核群有了，群号：199183012，老哥们入群后在群里发一下上舰截图，管理会私信你现在可加的舰长群群号和入群答案。审核结束后请退出本群，爱你们哟（づ￣3￣）づ╭❤～。",
-        "bvid": "BV1kebr6wEvL",
-        "author": "斯奎奇大王",
-        "duration": "3:47",
-        "cover": "//i2.hdslb.com/bfs/archive/453b95306a032923d515347e0205f96e1e85dd03.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kebr6wEvL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "详细拆解龙餐馆电影内核"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Bz836gEAZ",
+        "author": "评述员詹俊",
+        "duration": "4:34",
+        "cover": "//i2.hdslb.com/bfs/archive/4fe642b825f02f2503a79373f7c050928fecb214.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Bz836gEAZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "詹俊评新赛季英超曼联"
       },
       {
-        "title": "【2026VCTCN第二赛段】8月19日 BLG vs XLG",
-        "url": "https://www.bilibili.com/video/BV1b58n6EECR",
+        "title": "关于CNDOTA我的一点看法",
+        "url": "https://www.bilibili.com/video/BV1Pz876vEyL",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026VCTCN第二赛段】8月19日 BLG vs XLG",
-        "content": "【2026VCTCN第二赛段】8月19日 BLG vs XLG",
-        "bvid": "BV1b58n6EECR",
-        "author": "无畏契约赛事",
-        "duration": "196:15",
-        "cover": "//i2.hdslb.com/bfs/archive/e9e59b76467850b47ab9e20b46015c30d2dfc168.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1b58n6EECR&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG战胜XLG VCT第二赛段"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Pz876vEyL",
+        "author": "国士无双LaNm",
+        "duration": "38:46",
+        "cover": "//i2.hdslb.com/bfs/archive/0c82e9ed0eed1f6f845c6bf2da33ab4a4d4ea13a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Pz876vEyL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "XG教练LaNm谈CNDOTA现状"
+      },
+      {
+        "title": "王者S45赛季英雄前瞻改动！牛魔夏侯惇戈娅苍大调整！新召唤师技能雾行千山曝光！",
+        "url": "https://www.bilibili.com/video/BV1ru8H6rEXN",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1ru8H6rEXN",
+        "author": "猫萌大当家",
+        "duration": "6:30",
+        "cover": "//i2.hdslb.com/bfs/archive/3756f5ac1d00c4f71650ee533187244583bf1516.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ru8H6rEXN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "王者S45赛季英雄前瞻改动"
       },
       {
         "title": "一个伊拉克人的战争记忆：第一小时的轰炸把黑夜照成白昼 孩子在天台被美军扫射",
         "url": "https://www.bilibili.com/video/BV1oTbr6SEv7",
         "desc": "",
-        "rank": 11,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "一键三连推荐给更多的朋友！",
@@ -302,68 +318,52 @@
         "hotTitle": "龙餐馆演员讲述亲历的伊拉克战争"
       },
       {
-        "title": "“生日快乐，陈千语！”《终末地》二创短片",
-        "url": "https://www.bilibili.com/video/BV1eDbr6nEi2",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "生日快乐小陈！ BGM：你从未离去 - 白挺 烟火 - 鲸鱼马戏团 喜欢的话可以点点关注喵~",
-        "content": "生日快乐小陈！ BGM：你从未离去 - 白挺 烟火 - 鲸鱼马戏团 喜欢的话可以点点关注喵~",
-        "bvid": "BV1eDbr6nEi2",
-        "author": "Serendi_OvO",
-        "duration": "4:26",
-        "cover": "//i0.hdslb.com/bfs/archive/5771f69ea0e3d570d3f4363e0c8615d9612b2a2e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eDbr6nEi2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "终末地陈千语二创短片"
-      },
-      {
-        "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
-        "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
+        "title": "【2026LPL第三赛段】8月19日 LNG vs WBG",
+        "url": "https://www.bilibili.com/video/BV1Qc8E6JEQy",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "前后断断续续4个月，从剧本打磨到后期完成，全由一个人完成，抽卡预算有限，效果差强人意，穿帮也不少，这次先这样吧，seedance2.5又出来了，没时间回头了。 感谢@RunningHub 赞助了大部分算力，rhtv在性价比这一块真心高。 其中用到的神调原唱灰宝宝，婆婆丁-灿哥（原唱张新华）。",
-        "content": "前后断断续续4个月，从剧本打磨到后期完成，全由一个人完成，抽卡预算有限，效果差强人意，穿帮也不少，这次先这样吧，seedance2.5又出来了，没时间回头了。 感谢@RunningHub 赞助了大部分算力，rhtv在性价比这一块真心高。 其中用到的神调原唱灰宝宝，婆婆丁-灿哥（原唱张新华）。",
-        "bvid": "BV1gMgM6KEUM",
-        "author": "咩咩是个迷",
-        "duration": "112:58",
-        "cover": "//i2.hdslb.com/bfs/archive/06bc5d8c63a9cdc49b34a04f0180fadb17575465.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gMgM6KEUM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "自制AI电影出马仙镇东北"
+        "description": "【2026LPL第三赛段】8月19日 LNG vs WBG",
+        "content": "【2026LPL第三赛段】8月19日 LNG vs WBG",
+        "bvid": "BV1Qc8E6JEQy",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "191:26",
+        "cover": "//i2.hdslb.com/bfs/archive/5bd4e78f3914e00bd28727453c72eadc98e9764f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qc8E6JEQy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "WBG战胜LNG LPL第三赛段"
       },
       {
-        "title": "⚡️高 玩 戏 老 叟⚡️",
-        "url": "https://www.bilibili.com/video/BV1n1be6rEw2",
+        "title": "《奥德赛》为什么西方爆火，中国却爆冷？从诺兰细思“牛来”的12个隐喻，看好莱坞【预制神片】",
+        "url": "https://www.bilibili.com/video/BV1Gt8g6fECU",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "仅供娱乐",
-        "content": "仅供娱乐",
-        "bvid": "BV1n1be6rEw2",
-        "author": "酸奶煎个蛋",
-        "duration": "1:20",
-        "cover": "//i1.hdslb.com/bfs/archive/61cc4c47bb2cd6c5df362aed4341ca814b33529e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1n1be6rEw2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "老叟戏顽童之模仿棋"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Gt8g6fECU",
+        "author": "嗑书的阿冉叔",
+        "duration": "17:49",
+        "cover": "//i0.hdslb.com/bfs/archive/ec8c06191158f957b24a34fe768beafb829f055f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Gt8g6fECU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "奥德赛为何西方封神中国遇冷"
       },
       {
-        "title": "当表情包也有了战力图，你最爱哪个表情包呢？",
-        "url": "https://www.bilibili.com/video/BV1fWbQ6UEFF",
+        "title": "全新起航！哈姆扎破门拉菲点射 巴萨甘伯杯夺冠 巴萨2比1开罗国民",
+        "url": "https://www.bilibili.com/video/BV1ywbo6uE3Q",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "我去，我也没想到视频这么火，表情包打战力纯属娱乐整活哈，各位宝子有什么建议或者感兴趣的类型可以私发主播，主播看到每一个私信都会认真回复",
-        "content": "我去，我也没想到视频这么火，表情包打战力纯属娱乐整活哈，各位宝子有什么建议或者感兴趣的类型可以私发主播，主播看到每一个私信都会认真回复",
-        "bvid": "BV1fWbQ6UEFF",
-        "author": "爱鉴赏の子干",
-        "duration": "1:38",
-        "cover": "//i2.hdslb.com/bfs/archive/a33c1d339cd1fbfff3889b18bf49ba97183d6d61.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fWbQ6UEFF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "当表情包有了战力图"
+        "description": "",
+        "content": "",
+        "bvid": "BV1ywbo6uE3Q",
+        "author": "吉罗很快乐",
+        "duration": "15:58",
+        "cover": "//i1.hdslb.com/bfs/archive/bddaf07f35f1c9a70b5b8e7bb780f24c6c8bcf2b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ywbo6uE3Q&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "巴萨2-1开罗国民"
       },
       {
         "title": "不是，感觉它在贴着地面飞......",
@@ -382,42 +382,10 @@
         "hotTitle": "世界人形机器人运动会选手测试"
       },
       {
-        "title": "干员们的七夕大作战",
-        "url": "https://www.bilibili.com/video/BV1Vg836cEn1",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "枪林弹雨暂歇，七夕的游乐园成了干员们的休闲场所 脱下战术装备，更换常服，平日里并肩作战的搭档们，在游乐园里又会露出何种放松的姿态，等等，似乎好像并不只有干员们在这里游玩?",
-        "content": "枪林弹雨暂歇，七夕的游乐园成了干员们的休闲场所 脱下战术装备，更换常服，平日里并肩作战的搭档们，在游乐园里又会露出何种放松的姿态，等等，似乎好像并不只有干员们在这里游玩?",
-        "bvid": "BV1Vg836cEn1",
-        "author": "哈米伦的弄笛者",
-        "duration": "1:10",
-        "cover": "//i0.hdslb.com/bfs/archive/1682770a6f198f064bc622f1933427619e65c421.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vg836cEn1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "三角洲干员们的七夕大作战"
-      },
-      {
-        "title": "【高下立判】BLG 2-1 XLG 世一尚来了！哲哥钱包366分暴力炸，向上海蠕动！VCTCN stage2 季后赛 数据雷达图",
-        "url": "https://www.bilibili.com/video/BV1vN8p6AEyy",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1vN8p6AEyy",
-        "author": "小徐还在绕",
-        "duration": "6:44",
-        "cover": "//i0.hdslb.com/bfs/archive/857341612a8743f95100998e773e7cc7d8ce492e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vN8p6AEyy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG晋级胜决赛后数据图"
-      },
-      {
         "title": "BIGBANG - ‘BiiiG’ M/V",
         "url": "https://www.bilibili.com/video/BV1U88766ErY",
         "desc": "",
-        "rank": 19,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -430,74 +398,10 @@
         "hotTitle": "BIGBANG新歌MV"
       },
       {
-        "title": "多厨狂喜！舞蹈区顶流锦依卫们来给痒痒鼠庆生啦！",
-        "url": "https://www.bilibili.com/video/BV1Rc8E6JEKV",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "BGM: 《极乐Disco》 Dancer: @猛男舞团IconX @醋醋cucu @矮乐多Aliga @鱼肉肉pabo @紫颜-小仙紫 @咝小喵MAO @宅舞联萌官方 Production co-ordinator: NN 祝阴阳师十周年快乐！",
-        "content": "BGM: 《极乐Disco》 Dancer: @猛男舞团IconX @醋醋cucu @矮乐多Aliga @鱼肉肉pabo @紫颜-小仙紫 @咝小喵MAO @宅舞联萌官方 Production co-ordinator: NN 祝阴阳师十周年快乐！",
-        "bvid": "BV1Rc8E6JEKV",
-        "author": "猛男舞团IconX",
-        "duration": "3:27",
-        "cover": "//i1.hdslb.com/bfs/archive/30534e7dd2a15b9ebe58a0f2d7a11dd3f0aa6b19.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Rc8E6JEKV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "舞蹈区集体cos洛天依跳舞"
-      },
-      {
-        "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
-        "url": "https://www.bilibili.com/video/BV1wrba6iE56",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "没想到，奥特曼中出了一个怪兽的卧底",
-        "content": "没想到，奥特曼中出了一个怪兽的卧底",
-        "bvid": "BV1wrba6iE56",
-        "author": "istupidpig",
-        "duration": "2:59",
-        "cover": "//i0.hdslb.com/bfs/archive/336919079a3a2d7bb31f9937d0bfa6c9c77d96cd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wrba6iE56&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "当奥特曼出了怪兽卧底"
-      },
-      {
-        "title": "从真冷到真香，北极航道为什么突然火了？",
-        "url": "https://www.bilibili.com/video/BV1qf8J6bEcs",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "亚欧海运的百年版图，可能正在被一条冰封的航路彻底改写！ 今年夏天，这条曾经被视为“航海家禁区”的冰上通道，突然迎来了破纪录的密集发船。多家中国航运企业集中“北上”。其中，海杰航运更是在8月15日开启了每周一班的定期航班，从宁波舟山港首发，随后在上海港、太仓港、青岛港满载后，直达英国费利克斯托港。这就意味着，北极航道正在从过去探险性质的偶尔试水，逐步迈向常态化运营的商业时代。 几百年前，欧洲航海家们为了寻找这条直通东方的“冰上捷径”，付出了无数船只沉没、甚至整支探险队葬身冰原的惨烈代价；而今天，满载着中",
-        "content": "亚欧海运的百年版图，可能正在被一条冰封的航路彻底改写！ 今年夏天，这条曾经被视为“航海家禁区”的冰上通道，突然迎来了破纪录的密集发船。多家中国航运企业集中“北上”。其中，海杰航运更是在8月15日开启了每周一班的定期航班，从宁波舟山港首发，随后在上海港、太仓港、青岛港满载后，直达英国费利克斯托港。这就意味着，北极航道正在从过去探险性质的偶尔试水，逐步迈向常态化运营的商业时代。 几百年前，欧洲航海家们为了寻找这条直通东方的“冰上捷径”，付出了无数船只沉没、甚至整支探险队葬身冰原的惨烈代价；而今天，满载着中",
-        "bvid": "BV1qf8J6bEcs",
-        "author": "看看新闻Knews",
-        "duration": "11:28",
-        "cover": "//i1.hdslb.com/bfs/archive/05f304600e0a2aab24117e5da7750ff1e3aee1bd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qf8J6bEcs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中欧北极航道为何爆火"
-      },
-      {
-        "title": "我们造了一台能起飞的遥控车！加上机翼能飞吗？",
-        "url": "https://www.bilibili.com/video/BV1Kz8g6HEVb",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "纯靠轮子抓地力加速，没有空气动力推进器",
-        "content": "纯靠轮子抓地力加速，没有空气动力推进器",
-        "bvid": "BV1Kz8g6HEVb",
-        "author": "魔界造物",
-        "duration": "7:2",
-        "cover": "//i1.hdslb.com/bfs/archive/9be01856a9f2e8795eae5bb5841af4d6b266a849.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Kz8g6HEVb&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主手搓能起飞的遥控车"
-      },
-      {
         "title": "韩国从黄金时代到黑铁",
         "url": "https://www.bilibili.com/video/BV1RV876HEd5",
         "desc": "",
-        "rank": 24,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "本视频提及事件以及信息来源如下： 《热钱杠杆吹大泡沫，外资收割散户身家，韩国紧急应对股市“七月风暴”》来自：环球时报，2026-07-31 09:55发布 《韩国股市迈向史上最大单月跌幅》来自：第一财经，2026-07-30 07:09发布 《李在明支持率创新低，30多岁群体降幅最大！韩股指数近9000点时支持率近70%，如今6300点时支持率跌破50%》来自：每日经济新闻，2026-08-04 23:41发布 《韩国股市，缘何大起大落》来自：潮新闻客户端，2026-08-05 17:27发布 《李在明上",
@@ -510,10 +414,90 @@
         "hotTitle": "韩国股市为何大起大落"
       },
       {
+        "title": "⚡️高 玩 戏 老 叟⚡️",
+        "url": "https://www.bilibili.com/video/BV1n1be6rEw2",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "仅供娱乐",
+        "content": "仅供娱乐",
+        "bvid": "BV1n1be6rEw2",
+        "author": "酸奶煎个蛋",
+        "duration": "1:20",
+        "cover": "//i1.hdslb.com/bfs/archive/61cc4c47bb2cd6c5df362aed4341ca814b33529e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1n1be6rEw2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "老叟戏顽童之模仿棋"
+      },
+      {
+        "title": "我们造了一台能起飞的遥控车！加上机翼能飞吗？",
+        "url": "https://www.bilibili.com/video/BV1Kz8g6HEVb",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "纯靠轮子抓地力加速，没有空气动力推进器",
+        "content": "纯靠轮子抓地力加速，没有空气动力推进器",
+        "bvid": "BV1Kz8g6HEVb",
+        "author": "魔界造物",
+        "duration": "7:2",
+        "cover": "//i1.hdslb.com/bfs/archive/9be01856a9f2e8795eae5bb5841af4d6b266a849.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Kz8g6HEVb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主手搓能起飞的遥控车"
+      },
+      {
+        "title": "当表情包也有了战力图，你最爱哪个表情包呢？",
+        "url": "https://www.bilibili.com/video/BV1fWbQ6UEFF",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "我去，我也没想到视频这么火，表情包打战力纯属娱乐整活哈，各位宝子有什么建议或者感兴趣的类型可以私发主播，主播看到每一个私信都会认真回复",
+        "content": "我去，我也没想到视频这么火，表情包打战力纯属娱乐整活哈，各位宝子有什么建议或者感兴趣的类型可以私发主播，主播看到每一个私信都会认真回复",
+        "bvid": "BV1fWbQ6UEFF",
+        "author": "爱鉴赏の子干",
+        "duration": "1:38",
+        "cover": "//i2.hdslb.com/bfs/archive/a33c1d339cd1fbfff3889b18bf49ba97183d6d61.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fWbQ6UEFF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "当表情包有了战力图"
+      },
+      {
+        "title": "干员们的七夕大作战",
+        "url": "https://www.bilibili.com/video/BV1Vg836cEn1",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "枪林弹雨暂歇，七夕的游乐园成了干员们的休闲场所 脱下战术装备，更换常服，平日里并肩作战的搭档们，在游乐园里又会露出何种放松的姿态，等等，似乎好像并不只有干员们在这里游玩?",
+        "content": "枪林弹雨暂歇，七夕的游乐园成了干员们的休闲场所 脱下战术装备，更换常服，平日里并肩作战的搭档们，在游乐园里又会露出何种放松的姿态，等等，似乎好像并不只有干员们在这里游玩?",
+        "bvid": "BV1Vg836cEn1",
+        "author": "哈米伦的弄笛者",
+        "duration": "1:10",
+        "cover": "//i0.hdslb.com/bfs/archive/1682770a6f198f064bc622f1933427619e65c421.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vg836cEn1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "三角洲干员们的七夕大作战"
+      },
+      {
+        "title": "胡乱、浪漫又盛大！四个女孩的公路片《直到大地变成一颗酸橙》剧情解析",
+        "url": "https://www.bilibili.com/video/BV16b8u6uEYp",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "它甜美而酸涩、柔软又粗粝，既有离去的仓促与寻觅的凄惶，也有善意的闪光与即将相见的雀跃。它不是单一的幸福象征，而是生活本身——理想与苦难、失去与重逢，同时回到舌尖。正因为酸涩无法被剔除，所有短暂的甜，才显得如此真实。",
+        "content": "它甜美而酸涩、柔软又粗粝，既有离去的仓促与寻觅的凄惶，也有善意的闪光与即将相见的雀跃。它不是单一的幸福象征，而是生活本身——理想与苦难、失去与重逢，同时回到舌尖。正因为酸涩无法被剔除，所有短暂的甜，才显得如此真实。",
+        "bvid": "BV16b8u6uEYp",
+        "author": "杨颜同学",
+        "duration": "22:43",
+        "cover": "//i2.hdslb.com/bfs/archive/ee7a9f286e4d1ea25b8cbe808c670e61a6f2ee8e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16b8u6uEYp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "直到大地变成一颗酸橙剧情解析"
+      },
+      {
         "title": "【萌黄一槽】享受痛觉吧！飞段[晓·三]全技能爆料！",
         "url": "https://www.bilibili.com/video/BV1vT836AEJf",
         "desc": "",
-        "rank": 25,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "“哈哈哈哈哈哈哈哈哈哈哈哈，好痛啊！！！”",
@@ -526,26 +510,58 @@
         "hotTitle": "火影手游晓三飞段全技能爆料"
       },
       {
-        "title": "牛魔玩法升级爆料来了！",
-        "url": "https://www.bilibili.com/video/BV1jq8n6YEXx",
+        "title": "多厨狂喜！舞蹈区顶流锦依卫们来给痒痒鼠庆生啦！",
+        "url": "https://www.bilibili.com/video/BV1Rc8E6JEKV",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "BGM: 《极乐Disco》 Dancer: @猛男舞团IconX @醋醋cucu @矮乐多Aliga @鱼肉肉pabo @紫颜-小仙紫 @咝小喵MAO @宅舞联萌官方 Production co-ordinator: NN 祝阴阳师十周年快乐！",
+        "content": "BGM: 《极乐Disco》 Dancer: @猛男舞团IconX @醋醋cucu @矮乐多Aliga @鱼肉肉pabo @紫颜-小仙紫 @咝小喵MAO @宅舞联萌官方 Production co-ordinator: NN 祝阴阳师十周年快乐！",
+        "bvid": "BV1Rc8E6JEKV",
+        "author": "猛男舞团IconX",
+        "duration": "3:27",
+        "cover": "//i1.hdslb.com/bfs/archive/30534e7dd2a15b9ebe58a0f2d7a11dd3f0aa6b19.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Rc8E6JEKV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "舞蹈区集体cos洛天依跳舞"
+      },
+      {
+        "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
+        "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "新增掷斧机制，落地后可拾取或召回巨斧，局内特效全面优化，拉扯开团全面掌握！",
-        "content": "新增掷斧机制，落地后可拾取或召回巨斧，局内特效全面优化，拉扯开团全面掌握！",
-        "bvid": "BV1jq8n6YEXx",
-        "author": "王者荣耀",
-        "duration": "0:25",
-        "cover": "//i0.hdslb.com/bfs/archive/6c9dbd9b9aa036e068e63ecac436a8b64299c6f5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jq8n6YEXx&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "王者牛魔玩法升级爆料"
+        "description": "前后断断续续4个月，从剧本打磨到后期完成，全由一个人完成，抽卡预算有限，效果差强人意，穿帮也不少，这次先这样吧，seedance2.5又出来了，没时间回头了。 感谢@RunningHub 赞助了大部分算力，rhtv在性价比这一块真心高。 其中用到的神调原唱灰宝宝，婆婆丁-灿哥（原唱张新华）。",
+        "content": "前后断断续续4个月，从剧本打磨到后期完成，全由一个人完成，抽卡预算有限，效果差强人意，穿帮也不少，这次先这样吧，seedance2.5又出来了，没时间回头了。 感谢@RunningHub 赞助了大部分算力，rhtv在性价比这一块真心高。 其中用到的神调原唱灰宝宝，婆婆丁-灿哥（原唱张新华）。",
+        "bvid": "BV1gMgM6KEUM",
+        "author": "咩咩是个迷",
+        "duration": "112:58",
+        "cover": "//i2.hdslb.com/bfs/archive/06bc5d8c63a9cdc49b34a04f0180fadb17575465.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gMgM6KEUM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "自制AI电影出马仙镇东北"
+      },
+      {
+        "title": "【微综艺】第五人格加页手记·特别企划节目《夜莺的眼泪》",
+        "url": "https://www.bilibili.com/video/BV14L8n6mErK",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【微综艺】第五人格加页手记·特别企划节目《夜莺的眼泪》 第五人格加页手记·特别企划节目《夜莺的眼泪》正片来了！ 在异象环生的古堡中，与@凉哈皮 、 @正直少年李发卡 、罗予彤 、@潇仔不是洋芋片 一起，真相揭示！《加页手记》重磅更新将于8月20日上线，敬请关注！",
+        "content": "【微综艺】第五人格加页手记·特别企划节目《夜莺的眼泪》 第五人格加页手记·特别企划节目《夜莺的眼泪》正片来了！ 在异象环生的古堡中，与@凉哈皮 、 @正直少年李发卡 、罗予彤 、@潇仔不是洋芋片 一起，真相揭示！《加页手记》重磅更新将于8月20日上线，敬请关注！",
+        "bvid": "BV14L8n6mErK",
+        "author": "网易第五人格手游",
+        "duration": "96:19",
+        "cover": "//i1.hdslb.com/bfs/archive/dda7831b6f0bcaefe63d44de00419d618cd58954.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14L8n6mErK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "用综艺片打开第五人格"
       },
       {
         "title": "【绝区零动画短片】虚！狩！战！争！",
         "url": "https://www.bilibili.com/video/BV1CJ8E6TEnz",
         "desc": "",
-        "rank": 27,
+        "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "总算是憋出来了，希望大家看得开心~ 另外：有什么不足之处希望大家能指出来，以及求三连加关注口牙！",
@@ -558,52 +574,36 @@
         "hotTitle": "绝区零虚狩战争动画短片"
       },
       {
-        "title": "耗时一年花费10万，我终于为盲人大哥装上了“眼睛”【B站AI创造公开赛】",
-        "url": "https://www.bilibili.com/video/BV1aSbq6vEgz",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "距离上一次我们在发布盲人眼睛的原型已经过去十个月，这十个月收集了b站的观众们的建议，基于这些意见，我们对盲人眼睛的软硬件进行了完全的重构。 今天终于我们要迈出最关键的一步，让视障朋友张大哥亲自测试它...",
-        "content": "距离上一次我们在发布盲人眼睛的原型已经过去十个月，这十个月收集了b站的观众们的建议，基于这些意见，我们对盲人眼睛的软硬件进行了完全的重构。 今天终于我们要迈出最关键的一步，让视障朋友张大哥亲自测试它...",
-        "bvid": "BV1aSbq6vEgz",
-        "author": "AI研究室-帆哥",
-        "duration": "18:53",
-        "cover": "//i1.hdslb.com/bfs/archive/e200cdd877b15b63875a2422a52cbdf24d3e448a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aSbq6vEgz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主用AI给盲人装上眼睛"
-      },
-      {
-        "title": "【8K实拍】回收成功！朱雀三号发射成功！！！",
-        "url": "https://www.bilibili.com/video/BV1FH856nESi",
+        "title": "武侠诞生才一百年？哪部作品是你的武侠启蒙？",
+        "url": "https://www.bilibili.com/video/BV1ncbr6RELx",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "北京时间2026年8月19日07时35分，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，运载火箭全程飞行正常，一子级成功着陆于回收场预定位置，二子级将搭载的鸿鹄03星顺利送入预定轨道，飞行试验任务取得圆满成功。 此次任务是朱雀三号运载火箭的第2次飞行。 部分素材来自蓝箭航天",
-        "content": "北京时间2026年8月19日07时35分，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，运载火箭全程飞行正常，一子级成功着陆于回收场预定位置，二子级将搭载的鸿鹄03星顺利送入预定轨道，飞行试验任务取得圆满成功。 此次任务是朱雀三号运载火箭的第2次飞行。 部分素材来自蓝箭航天",
-        "bvid": "BV1FH856nESi",
-        "author": "摸鱼的白鼠同学",
-        "duration": "2:59",
-        "cover": "//i2.hdslb.com/bfs/archive/5fd9b020e326d5158859a8534849934fc8b53e7b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FH856nESi&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "8K实拍朱雀三号可回收火箭"
+        "description": "“天下风云出我辈，一入江湖岁月催。” “金鳞岂是池中物，一遇风云便化龙！” “寒江孤影，江湖故人，相逢何必曾相识。” “一曲肝肠断，天涯何处觅知音？” “有人的地方就有江湖，有恩怨就有江湖，你怎么退出？” “佛山黄飞鸿！”“咏春，叶问！” 我们童年的武学基因，都来自一场全民的梦，这个梦，叫做“武侠”。 飞檐走壁内力神功，江湖武林血雨腥风，少侠！你的童年武侠启蒙是什么？一期带你了解，中国武侠，如何诞生？",
+        "content": "“天下风云出我辈，一入江湖岁月催。” “金鳞岂是池中物，一遇风云便化龙！” “寒江孤影，江湖故人，相逢何必曾相识。” “一曲肝肠断，天涯何处觅知音？” “有人的地方就有江湖，有恩怨就有江湖，你怎么退出？” “佛山黄飞鸿！”“咏春，叶问！” 我们童年的武学基因，都来自一场全民的梦，这个梦，叫做“武侠”。 飞檐走壁内力神功，江湖武林血雨腥风，少侠！你的童年武侠启蒙是什么？一期带你了解，中国武侠，如何诞生？",
+        "bvid": "BV1ncbr6RELx",
+        "author": "浪花姜",
+        "duration": "17:28",
+        "cover": "//i1.hdslb.com/bfs/archive/06cdc38035081ad15f9304ddafa9f677655fdb16.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ncbr6RELx&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "哪部作品是你的武侠启蒙"
       },
       {
-        "title": "【微综艺】第五人格加页手记·特别企划节目《夜莺的眼泪》",
-        "url": "https://www.bilibili.com/video/BV14L8n6mErK",
+        "title": "特效小哥大战逗比的雀巢！",
+        "url": "https://www.bilibili.com/video/BV1mkbQ6iEWJ",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【微综艺】第五人格加页手记·特别企划节目《夜莺的眼泪》 第五人格加页手记·特别企划节目《夜莺的眼泪》正片来了！ 在异象环生的古堡中，与@凉哈皮 、 @正直少年李发卡 、罗予彤 、@潇仔不是洋芋片 一起，真相揭示！《加页手记》重磅更新将于8月20日上线，敬请关注！",
-        "content": "【微综艺】第五人格加页手记·特别企划节目《夜莺的眼泪》 第五人格加页手记·特别企划节目《夜莺的眼泪》正片来了！ 在异象环生的古堡中，与@凉哈皮 、 @正直少年李发卡 、罗予彤 、@潇仔不是洋芋片 一起，真相揭示！《加页手记》重磅更新将于8月20日上线，敬请关注！",
-        "bvid": "BV14L8n6mErK",
-        "author": "网易第五人格手游",
-        "duration": "96:19",
-        "cover": "//i1.hdslb.com/bfs/archive/dda7831b6f0bcaefe63d44de00419d618cd58954.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14L8n6mErK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "用综艺片打开第五人格"
+        "description": "兄弟们想打谁欢迎在评论区评论啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+        "content": "兄弟们想打谁欢迎在评论区评论啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+        "bvid": "BV1mkbQ6iEWJ",
+        "author": "特效小哥studio",
+        "duration": "12:27",
+        "cover": "//i1.hdslb.com/bfs/archive/bcbf101cf6afcb4a06de732c8bfaf89b0f57fb2a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mkbQ6iEWJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "特效小哥大战逗比的雀巢"
       }
     ],
     "qbitai": [
@@ -940,6 +940,46 @@
         "rank": 3
       },
       {
+        "title": "美债到5%，吓坏了AI投资者",
+        "url": "https://m.36kr.com/p/3946058108370057",
+        "desc": "",
+        "cover": "https://img.36krcdn.com/hsossms/20260819/v2_9d677e527d214898ba6fca5464ef14a0@5426566_oswg280717oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
+        "date": 1787121930843,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "36氪出海·招募｜迪拜商业论坛·中国，海外嘉宾阵容揭晓",
+        "url": "https://m.36kr.com/p/3917889153773193",
+        "desc": "",
+        "cover": "https://img.36krcdn.com/hsossms/20260731/v2_acaaa03c1b2a4382bab383c8a35f538b@5284654_oswg1046152oswg1440oswg600_img_png?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
+        "date": 1785486653534,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "“钛动科技”完成新一轮融资",
+        "url": "https://m.36kr.com/newsflashes/3947211547606147",
+        "desc": "36氪获悉，AI营销科技公司“钛动科技”宣布完成新一轮融资。本轮融资由华泰泛大西洋基金领投，鲲鹏光远、广汽资本、金沙江创投等机构跟投。",
+        "cover": "",
+        "date": 1787190673559,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "宇树科技王兴兴：我们尚未对人形机器人进行大规模推广，因为这类机器人的效率与通用能力仍不够完善",
+        "url": "https://m.36kr.com/newsflashes/3947202850635142",
+        "desc": "宇树科技创始人兼CEO王兴兴：我们尚未对人形机器人进行大规模推广，因为这类机器人的效率与通用能力仍不够完善。（新浪财经）",
+        "cover": "",
+        "date": 1787190142738,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "A股三大指数集体高开，医药股走强",
         "url": "https://m.36kr.com/newsflashes/3947188411808896",
         "desc": "36氪获悉，A股三大指数集体高开，沪指高开0.33%，深成指高开1.03%，创指高开1.27%；N绿控传动上市首日开涨超370%；C宇树开盘下跌6.51％，股价报790元，昨日收涨460％；贵金属、生物科技、制药、通信设备领涨，百克生物、双鹭药业涨停，招金黄金涨超6%，剑桥科技涨超2%；农业、煤炭、银行股下挫，秋乐种业跌超8%，郑州煤电跌超6%，中信银行跌超1%。",
@@ -947,7 +987,7 @@
         "date": 1787189261462,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 8
       },
       {
         "title": "恒指开盘涨1.11%，恒生科技指数涨1.69%",
@@ -957,7 +997,7 @@
         "date": 1787188933968,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "8月20日人民币对美元中间价调升46个基点",
@@ -967,7 +1007,7 @@
         "date": 1787188630863,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "商务部：7月份重点平台具身智能机器人销售额增长95.1%",
@@ -977,7 +1017,7 @@
         "date": 1787188359505,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "8月LPR报价出炉：1年期和5年期以上利率均维持不变",
@@ -987,7 +1027,7 @@
         "date": 1787187769664,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "稀宇科技推出MiniMax Design",
@@ -997,7 +1037,7 @@
         "date": 1787187315045,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "两市融资余额减少296.69亿元",
@@ -1007,7 +1047,7 @@
         "date": 1787186930638,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "华泰证券：中长期仍看好民航行业景气底部回暖，左侧布局具备较高性价比",
@@ -1017,7 +1057,7 @@
         "date": 1787186588779,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "帝尔激光：在TGV方向除激光改质设备外，也在布局刻蚀、AOI检测等配套设备",
@@ -1027,7 +1067,7 @@
         "date": 1787186538349,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "三星宣布将于下周发布Galaxy S26最新机型",
@@ -1037,7 +1077,7 @@
         "date": 1787186251461,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "天山铝业：二季度氧化铝生产成本较一季度略有下降",
@@ -1047,7 +1087,7 @@
         "date": 1787186177285,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "平陆运河顺利完成企石枢纽到青年枢纽实船试验",
@@ -1057,7 +1097,7 @@
         "date": 1787186110169,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "中信证券：白酒板块迎来修复，关注中秋旺季动销",
@@ -1067,7 +1107,7 @@
         "date": 1787186071391,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "OpenAI称ChatGPT.com注册和登录功能无法使用，正在修复中",
@@ -1077,7 +1117,7 @@
         "date": 1787186048284,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "中信证券：国产算力订单预期清晰度有望进一步增强，建议关注国产算力产业链头部厂商",
@@ -1087,7 +1127,7 @@
         "date": 1787186007924,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 22
       },
       {
         "title": "长和就巴拿马违反投资保护条约启动国际仲裁程序，寻求逾15亿美元损害赔偿",
@@ -1097,7 +1137,7 @@
         "date": 1787185624507,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 23
       },
       {
         "title": "多家A股钼业公司加码上游布局",
@@ -1107,7 +1147,7 @@
         "date": 1787185455326,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 24
       },
       {
         "title": "券商上半年科创债承销规模突破5000亿元",
@@ -1117,35 +1157,15 @@
         "date": 1787185412002,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "债市“惊魂”，美国财政部紧急下场",
-        "url": "https://m.36kr.com/newsflashes/3947123739655296",
-        "desc": "当地时间8月19日，美国财政部突然宣布扩大长期名义国债回购规模，将流动性支持回购操作的规模至少增加一倍，单次操作的最高规模将由20亿美元，至少提高至40亿美元。此次调整涵盖10年期至20年期和20年期至30年期债券，调整将于9月9日生效，持续至2026年11月4日。美国财政部表示，将在下一次季度再融资会议上（定于2026年11月4日举行）提供有关未来回购规模的更多信息。此次美国财政部宣布回购规模扩容，正值美国长期国债收益率持续攀升之际。8月17日，30年期美债收益率升至5.31%，创下2007年6月以来新高，10年期美债收益率站上4.7%关口。更值得警惕的是，这场抛售并非局限于美国，德国、法国、日本等主要经济体的长期限国债收益率也纷纷走高，海外债市联动共振。（上证报）",
-        "cover": "",
-        "date": 1787185314187,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "日本7月份出口同比增长23.2%",
-        "url": "https://m.36kr.com/newsflashes/3947119267446145",
-        "desc": "日本7月份出口同比增长23.2%，预期为20.1%，前值为19.3%；日本7月份进口同比增长27.8%，预期为25.1%，前值为25.4%。（界面）",
-        "cover": "",
-        "date": 1787185041225,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
+        "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787190065311,
-    "bilibili": 1787188403811,
-    "qbitai": 1787190083944,
-    "36kr": 1787190084356
+    "thepaper": 1787190964933,
+    "bilibili": 1787190205429,
+    "qbitai": 1787190988192,
+    "36kr": 1787190988510
   },
   "failures": {}
 }
