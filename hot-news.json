@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T01:26:21Z",
+  "updatedAt": "2026-08-20T01:41:24Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -40,14 +40,14 @@
         "rank": 6
       },
       {
-        "title": "视频丨我国首次！重复使用火箭陆地回收成功",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33807888",
+        "title": "28家具身独角兽估值超3500亿元，谁是下一个宇树？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33591259",
         "desc": "",
         "rank": 7
       },
       {
-        "title": "28家具身独角兽估值超3500亿元，谁是下一个宇树？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33591259",
+        "title": "穿武磊国家队球衣小球迷遭围攻？警方通报：3人谩骂其父亲被行拘",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33812693",
         "desc": "",
         "rank": 8
       },
@@ -58,20 +58,20 @@
         "rank": 9
       },
       {
-        "title": "穿武磊国家队球衣小球迷遭围攻？警方通报：3人谩骂其父亲被行拘",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33812693",
+        "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33768776",
         "desc": "",
         "rank": 10
       },
       {
-        "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33768776",
+        "title": "教师招聘笔试前13名落选、后5名进体检名单？佛山通报",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33810219",
         "desc": "",
         "rank": 11
       },
       {
-        "title": "教师招聘笔试前13名落选、后5名进体检名单？佛山通报",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33810219",
+        "title": "言短意长｜如何识别一口气吹出50个头衔的骗子",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33809326",
         "desc": "",
         "rank": 12
       },
@@ -106,8 +106,8 @@
         "rank": 17
       },
       {
-        "title": "大方之谈丨对话虞先濬：病人是我的老师",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33727936",
+        "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33815315",
         "desc": "",
         "rank": 18
       },
@@ -118,8 +118,8 @@
         "rank": 19
       },
       {
-        "title": "落实省会引领：南昌，加速跑",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33804455",
+        "title": "游客称在洪崖洞周边拍照遭商拍驱赶，重庆渝中：对商拍霸占机位“零容忍”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33808105",
         "desc": "",
         "rank": 20
       }
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
+        "url": "https://www.qbitai.com/2026/08/476078.html",
+        "desc": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/76a6659a176d7f0caa5bcb482cb77f1c-e1787189823517.jpeg",
+        "date": "2026-08-20T09:37:34",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
         "url": "https://www.qbitai.com/2026/08/476075.html",
         "desc": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放",
@@ -615,7 +625,7 @@
         "date": "2026-08-20T09:21:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
@@ -625,7 +635,7 @@
         "date": "2026-08-20T09:06:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
@@ -635,7 +645,7 @@
         "date": "2026-08-19T18:54:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
@@ -645,7 +655,7 @@
         "date": "2026-08-19T18:12:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
@@ -655,7 +665,7 @@
         "date": "2026-08-19T16:34:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "MiniMax核心工程负责人阿岛离职",
@@ -665,7 +675,7 @@
         "date": "2026-08-19T16:23:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
@@ -675,7 +685,7 @@
         "date": "2026-08-19T15:42:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
@@ -685,7 +695,7 @@
         "date": "2026-08-19T15:40:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
@@ -695,7 +705,7 @@
         "date": "2026-08-19T15:22:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑",
@@ -705,7 +715,7 @@
         "date": "2026-08-19T14:35:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
@@ -715,7 +725,7 @@
         "date": "2026-08-19T14:29:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "郭富城换车，30万级顶配华为全家桶",
@@ -725,7 +735,7 @@
         "date": "2026-08-19T08:59:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
@@ -735,7 +745,7 @@
         "date": "2026-08-18T19:07:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
@@ -745,7 +755,7 @@
         "date": "2026-08-18T18:40:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
@@ -755,7 +765,7 @@
         "date": "2026-08-18T18:04:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
@@ -765,7 +775,7 @@
         "date": "2026-08-18T17:57:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
@@ -775,7 +785,7 @@
         "date": "2026-08-18T17:38:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
@@ -785,7 +795,7 @@
         "date": "2026-08-18T15:33:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "今日起，阿里“千问办公”接入企业微信",
@@ -795,7 +805,7 @@
         "date": "2026-08-18T15:17:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "吉利汽车业绩高点，李书福激流勇退",
@@ -805,7 +815,7 @@
         "date": "2026-08-18T14:46:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
@@ -815,7 +825,7 @@
         "date": "2026-08-18T13:58:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
@@ -825,7 +835,7 @@
         "date": "2026-08-18T12:40:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
@@ -835,7 +845,7 @@
         "date": "2026-08-18T11:31:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
@@ -845,7 +855,7 @@
         "date": "2026-08-17T17:30:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
@@ -855,7 +865,7 @@
         "date": "2026-08-17T17:04:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
@@ -865,7 +875,7 @@
         "date": "2026-08-17T16:36:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
@@ -875,7 +885,7 @@
         "date": "2026-08-17T16:26:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
@@ -885,7 +895,7 @@
         "date": "2026-08-17T15:39:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
@@ -893,16 +903,6 @@
         "desc": "",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/微信图片_20260813115641_31_1441-1-scaled-e1786598379135.png",
         "date": "2026-08-17T13:10:50",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "杭州95后小伙，5亿买走硅谷城堡",
-        "url": "https://www.qbitai.com/2026/08/474245.html",
-        "desc": "辞别马斯克xAI半年之后…",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/截屏2026-08-16-19.33.58-e1786880838945.png",
-        "date": "2026-08-16T19:51:08",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "A股三大指数集体高开，医药股走强",
+        "url": "https://m.36kr.com/newsflashes/3947188411808896",
+        "desc": "36氪获悉，A股三大指数集体高开，沪指高开0.33%，深成指高开1.03%，创指高开1.27%；N绿控传动上市首日开涨超370%；C宇树开盘下跌6.51％，股价报790元，昨日收涨460％；贵金属、生物科技、制药、通信设备领涨，百克生物、双鹭药业涨停，招金黄金涨超6%，剑桥科技涨超2%；农业、煤炭、银行股下挫，秋乐种业跌超8%，郑州煤电跌超6%，中信银行跌超1%。",
+        "cover": "",
+        "date": 1787189261462,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "恒指开盘涨1.11%，恒生科技指数涨1.69%",
         "url": "https://m.36kr.com/newsflashes/3947183046147456",
         "desc": "36氪获悉，恒指开盘涨1.11%，恒生科技指数涨1.69%；有色金属、医药生物板块领涨，康希诺生物涨15%，招金矿业涨超7%；传媒、石油石化板块跌幅居前，快手跌超4%，山东墨龙跌0.53%。",
@@ -947,7 +957,7 @@
         "date": 1787188933968,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "8月20日人民币对美元中间价调升46个基点",
@@ -957,7 +967,7 @@
         "date": 1787188630863,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "商务部：7月份重点平台具身智能机器人销售额增长95.1%",
@@ -967,7 +977,7 @@
         "date": 1787188359505,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "8月LPR报价出炉：1年期和5年期以上利率均维持不变",
@@ -977,7 +987,7 @@
         "date": 1787187769664,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "稀宇科技推出MiniMax Design",
@@ -987,7 +997,7 @@
         "date": 1787187315045,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "两市融资余额减少296.69亿元",
@@ -997,7 +1007,7 @@
         "date": 1787186930638,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "华泰证券：中长期仍看好民航行业景气底部回暖，左侧布局具备较高性价比",
@@ -1007,7 +1017,7 @@
         "date": 1787186588779,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "帝尔激光：在TGV方向除激光改质设备外，也在布局刻蚀、AOI检测等配套设备",
@@ -1017,7 +1027,7 @@
         "date": 1787186538349,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "三星宣布将于下周发布Galaxy S26最新机型",
@@ -1027,7 +1037,7 @@
         "date": 1787186251461,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "天山铝业：二季度氧化铝生产成本较一季度略有下降",
@@ -1037,7 +1047,7 @@
         "date": 1787186177285,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "平陆运河顺利完成企石枢纽到青年枢纽实船试验",
@@ -1047,7 +1057,7 @@
         "date": 1787186110169,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "中信证券：白酒板块迎来修复，关注中秋旺季动销",
@@ -1057,7 +1067,7 @@
         "date": 1787186071391,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "OpenAI称ChatGPT.com注册和登录功能无法使用，正在修复中",
@@ -1067,7 +1077,7 @@
         "date": 1787186048284,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "中信证券：国产算力订单预期清晰度有望进一步增强，建议关注国产算力产业链头部厂商",
@@ -1077,7 +1087,7 @@
         "date": 1787186007924,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "长和就巴拿马违反投资保护条约启动国际仲裁程序，寻求逾15亿美元损害赔偿",
@@ -1087,7 +1097,7 @@
         "date": 1787185624507,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "多家A股钼业公司加码上游布局",
@@ -1097,7 +1107,7 @@
         "date": 1787185455326,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "券商上半年科创债承销规模突破5000亿元",
@@ -1107,7 +1117,7 @@
         "date": 1787185412002,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "债市“惊魂”，美国财政部紧急下场",
@@ -1117,7 +1127,7 @@
         "date": 1787185314187,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "日本7月份出口同比增长23.2%",
@@ -1127,25 +1137,15 @@
         "date": 1787185041225,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "天孚通信：正积极配合客户推进下一代更高密度、更多通道的光连接解决方案开发",
-        "url": "https://m.36kr.com/newsflashes/3947118776630661",
-        "desc": "36氪获悉，天孚通信在机构现场参观时表示，公司面向CPO应用的FAU、ELS外置光源等相关产品目前处于交付状态。依托在光学耦合、精密制造及批量交付方面的长期积累，公司相关产品在性能、良率及交付保障等方面具备较好的基础。同时，公司研发团队正积极配合客户推进下一代更高密度、更多通道的光连接解决方案开发。",
-        "cover": "",
-        "date": 1787185011268,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787189164256,
+    "thepaper": 1787190065311,
     "bilibili": 1787188403811,
-    "qbitai": 1787189181288,
-    "36kr": 1787189181775
+    "qbitai": 1787190083944,
+    "36kr": 1787190084356
   },
   "failures": {}
 }
