@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T12:56:41Z",
+  "updatedAt": "2026-08-21T13:11:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "黑神话钟馗主角到底是谁"
       },
       {
-        "title": "AL 1:1 WE后虎扑现状",
-        "url": "https://www.bilibili.com/video/BV1UN8q6bEey",
+        "title": "[LPL速看]【AL vs WE】第二局丨2026LPL第三赛段组内赛丨20260821",
+        "url": "https://www.bilibili.com/video/BV1Eb8z6QEak",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1UN8q6bEey",
-        "author": "B站用户12130",
-        "duration": "1:0",
-        "cover": "//i0.hdslb.com/bfs/archive/64eb6c9bd58534374620a30c07650447b59d160b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UN8q6bEey&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Eb8z6QEak",
+        "author": "大木GameDay",
+        "duration": "10:57",
+        "cover": "//i2.hdslb.com/bfs/archive/7f8c4c57e173323207a0d03c779e72eb142541ce.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Eb8z6QEak&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "WE战胜AL LPL第三赛段"
       },
       {
@@ -328,7 +328,7 @@
         "content": "【2026KPL夏季赛】8月21日 成都AG超玩会 VS 广州TTG",
         "bvid": "BV1rH8z6xEj3",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "44:23",
+        "duration": "69:20",
         "cover": "//i2.hdslb.com/bfs/archive/9c8be79a0497bd4794ed886826e15e95fb43db70.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rH8z6xEj3&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "成都AG超玩会 vs 广州TTG KPL"
@@ -1062,7 +1062,7 @@
       {
         "title": "东方甄选：2026财年营收57.01亿元，同比增长29.8%",
         "url": "https://m.36kr.com/newsflashes/3949227548720264",
-        "desc": "36氪获悉，东方甄选发布公告，2026财年营收57.01亿元，同比增长29.8%；公司拥有人应占年内溢利5.44亿元，同比增长9377.8%。",
+        "desc": "36氪获悉，东方甄选发布公告，2026财年营收57.01亿元，同比增长29.8%；公司拥有人应占年内溢利5.44亿元，同比增长9377.8%。本财年，东方甄选毛利为20亿元，同比增加45.2%，经营利润为6.6亿元，相比去年同期，公司实现扭亏为盈。",
         "cover": "",
         "date": 1787313720502,
         "platform": "36kr",
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787316967204,
+    "thepaper": 1787317867285,
     "bilibili": 1787316176804,
-    "qbitai": 1787317000779,
-    "36kr": 1787317001359
+    "qbitai": 1787317895800,
+    "36kr": 1787317896245
   },
   "failures": {}
 }
