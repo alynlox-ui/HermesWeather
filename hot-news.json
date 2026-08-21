@@ -1,135 +1,151 @@
 {
-  "updatedAt": "2026-08-21T13:26:30Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-08-21T13:56:55Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
-      {
-        "title": "上海市城市更新和住房发展“十五五”规划：到2030年，计划实施老旧小区改造3000万至4000万平方米",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33819239",
-        "desc": "",
-        "rank": 1
-      },
       {
         "title": "人民锐评：座位讨论背后是规则共识",
         "url": "https://www.thepaper.cn/newsDetail_forward_33820087",
         "desc": "",
-        "rank": 2
+        "rank": 1
       },
       {
         "title": "妄称自己写了电影《给阿嬷的情书》主题曲，假总编张龙再度被打假",
         "url": "https://www.thepaper.cn/newsDetail_forward_33819837",
         "desc": "",
-        "rank": 3
-      },
-      {
-        "title": "日本拟研发潜射高超声速导弹，加速打造水下进攻性远程打击力",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33818922",
-        "desc": "",
-        "rank": 4
+        "rank": 2
       },
       {
         "title": "曾经顶流｜82岁庞中华：仍在为硬笔书法“正名”",
         "url": "https://www.thepaper.cn/newsDetail_forward_33762358",
         "desc": "",
-        "rank": 5
+        "rank": 3
       },
       {
         "title": "观察丨当“像人”不再是难题，人形机器人真正比拼的是什么？",
         "url": "https://www.thepaper.cn/newsDetail_forward_33820651",
         "desc": "",
-        "rank": 6
+        "rank": 4
       },
       {
         "title": "言短意长｜痛击骗子张龙彰显主流媒体担当",
         "url": "https://www.thepaper.cn/newsDetail_forward_33824156",
         "desc": "",
-        "rank": 7
+        "rank": 5
       },
       {
         "title": "江西吉安一景区精卫填海雕塑被指用外国天使形象，景区声明：将组织文史专家、市民代表共同评议",
         "url": "https://www.thepaper.cn/newsDetail_forward_33824681",
         "desc": "",
-        "rank": 8
+        "rank": 6
       },
       {
         "title": "零食占座惹争议，火车席别权利有何区别？律师解读公共出行边界",
         "url": "https://www.thepaper.cn/newsDetail_forward_33819908",
         "desc": "",
-        "rank": 9
-      },
-      {
-        "title": "日本议员计划访华推动改善中日关系，外交部：敦促日当政者倾听重视这些声音",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33824620",
-        "desc": "",
-        "rank": 10
+        "rank": 7
       },
       {
         "title": "菲律宾3架小型飞机非法侵入中国黄岩岛领空，南部战区空军新闻发言人回应",
         "url": "https://www.thepaper.cn/newsDetail_forward_33824976",
         "desc": "",
-        "rank": 11
+        "rank": 8
+      },
+      {
+        "title": "日本议员计划访华推动改善中日关系，外交部：敦促日当政者倾听重视这些声音",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33824620",
+        "desc": "",
+        "rank": 9
       },
       {
         "title": "视频丨江西吉安一处广告牌换上钱学森、邓稼先、袁隆平等人公益海报",
         "url": "https://www.thepaper.cn/newsDetail_forward_33823654",
         "desc": "",
-        "rank": 12
-      },
-      {
-        "title": "来论｜“多买票占座”违背铁路普惠公益原则",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33824094",
-        "desc": "",
-        "rank": 13
-      },
-      {
-        "title": "辽阳三院回应“孕妇产检因医生疏忽误服有毒液体”：涉事医生暂停执业，孕妇和胎儿指标正常",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33819752",
-        "desc": "",
-        "rank": 14
+        "rank": 10
       },
       {
         "title": "39岁员工厕所里猝死，因打卡后未到工位不被认定工伤？深圳涉事上市公司称将积极推进认定",
         "url": "https://www.thepaper.cn/newsDetail_forward_33819961",
         "desc": "",
-        "rank": 15
+        "rank": 11
+      },
+      {
+        "title": "来论｜“多买票占座”违背铁路普惠公益原则",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33824094",
+        "desc": "",
+        "rank": 12
+      },
+      {
+        "title": "辽阳三院回应“孕妇产检因医生疏忽误服有毒液体”：涉事医生暂停执业，孕妇和胎儿指标正常",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33819752",
+        "desc": "",
+        "rank": 13
       },
       {
         "title": "打卡中国｜买海鲜怕被坑？三亚发布海鲜图鉴和信用星级，帮你认准了",
         "url": "https://www.thepaper.cn/newsDetail_forward_33819490",
         "desc": "",
-        "rank": 16
+        "rank": 14
       },
       {
         "title": "检察日报特邀三位法学专家评《重器》：回望法治建设的来时路",
         "url": "https://www.thepaper.cn/newsDetail_forward_33822663",
         "desc": "",
-        "rank": 17
+        "rank": 15
       },
       {
         "title": "体坛联播｜哈登9700万续约骑士，樊振东亮相杜塞尔多夫",
         "url": "https://www.thepaper.cn/newsDetail_forward_33822719",
         "desc": "",
-        "rank": 18
+        "rank": 16
+      },
+      {
+        "title": "成都铁路局回应“旅客买票占座放零食”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33825862",
+        "desc": "",
+        "rank": 17
       },
       {
         "title": "“成都27岁女子遇害案”被害人母亲起诉网暴者获法院立案：不认识他们，为什么要来诽谤我和我的孩子",
         "url": "https://www.thepaper.cn/newsDetail_forward_33823232",
         "desc": "",
-        "rank": 19
+        "rank": 18
       },
       {
         "title": "郑栅洁主持召开民营企业座谈会，围绕稳定经济运行促进有效投资听取意见建议",
         "url": "https://www.thepaper.cn/newsDetail_forward_33819526",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "广州市中级人民法院依法受理恒大地产集团有限公司破产清算案",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33824082",
         "desc": "",
         "rank": 20
       }
     ],
     "bilibili": [
       {
+        "title": "【2026KPL夏季赛】8月21日 成都AG超玩会 VS 广州TTG",
+        "url": "https://www.bilibili.com/video/BV1rH8z6xEj3",
+        "desc": "",
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【2026KPL夏季赛】8月21日 成都AG超玩会 VS 广州TTG",
+        "content": "【2026KPL夏季赛】8月21日 成都AG超玩会 VS 广州TTG",
+        "bvid": "BV1rH8z6xEj3",
+        "author": "哔哩哔哩王者荣耀赛事",
+        "duration": "101:47",
+        "cover": "//i2.hdslb.com/bfs/archive/9c8be79a0497bd4794ed886826e15e95fb43db70.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rH8z6xEj3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "广州TTG战胜成都AG超玩会 KPL"
+      },
+      {
         "title": "突发：DeepSeek API 平台上线多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp ！",
         "url": "https://www.bilibili.com/video/BV1aq8q6BE1N",
         "desc": "",
-        "rank": 1,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -142,90 +158,26 @@
         "hotTitle": "DeepSeek多模态模型来了"
       },
       {
-        "title": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告",
-        "url": "https://www.bilibili.com/video/BV1VQ8i6uEr4",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告节目现已公开。 为了感谢管理员对《明日方舟：终末地》的支持，我们已通过游戏内邮件发放嵌晶玉×1000，折金票×10000，初级认知载体×8，武器检查套组×4。 发放时间：2026/08/21 19:30（UTC+8） 发放条件：2026/09/04 19:30（UTC+8）前登录游戏 发放说明：奖励将通过【邮件】发送，开启【邮箱】功能后可领取，邮件有效期为14天，请管理员及时领取 未来我们会在官方自媒体账号陆续更新《明日方舟：终末地》「雪凇幽梦」版本的相关信息与",
-        "content": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告节目现已公开。 为了感谢管理员对《明日方舟：终末地》的支持，我们已通过游戏内邮件发放嵌晶玉×1000，折金票×10000，初级认知载体×8，武器检查套组×4。 发放时间：2026/08/21 19:30（UTC+8） 发放条件：2026/09/04 19:30（UTC+8）前登录游戏 发放说明：奖励将通过【邮件】发送，开启【邮箱】功能后可领取，邮件有效期为14天，请管理员及时领取 未来我们会在官方自媒体账号陆续更新《明日方舟：终末地》「雪凇幽梦」版本的相关信息与",
-        "bvid": "BV1VQ8i6uEr4",
-        "author": "明日方舟终末地",
-        "duration": "44:28",
-        "cover": "//i1.hdslb.com/bfs/archive/3fdff61b119d2be05b9816b2ba4ba5c4e2df0a97.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VQ8i6uEr4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "终末地雪凇幽梦版本前瞻预告"
-      },
-      {
-        "title": "蜜雪冰城雪王全新动画！！",
-        "url": "https://www.bilibili.com/video/BV1Jogp6fELx",
+        "title": "外网热议，联合国人权理事会上中国代表李梓敬：爱泼斯坦们统治 的国家有什么资格对我们指手画脚？",
+        "url": "https://www.bilibili.com/video/BV1m6A3zvEsZ",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "蜜雪冰城雪王全新动画即将播出！《雪王来了！》真的来了~ 繁华都市的角落，藏着最温暖的相遇。 有雪王在的地方，就有欢笑！ 《雪王来了！》⑧月②①日上午11:00全平台上线，首播六集，敬请期待~",
-        "content": "蜜雪冰城雪王全新动画即将播出！《雪王来了！》真的来了~ 繁华都市的角落，藏着最温暖的相遇。 有雪王在的地方，就有欢笑！ 《雪王来了！》⑧月②①日上午11:00全平台上线，首播六集，敬请期待~",
-        "bvid": "BV1Jogp6fELx",
-        "author": "蜜雪冰城雪王",
-        "duration": "1:57",
-        "cover": "//i0.hdslb.com/bfs/archive/39f8edc309c3865acebbd3dda8f01477a8adb935.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Jogp6fELx&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "蜜雪冰城雪王新动画开播"
-      },
-      {
-        "title": "【2026KPL夏季赛】8月21日 成都AG超玩会 VS 广州TTG",
-        "url": "https://www.bilibili.com/video/BV1rH8z6xEj3",
-        "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【2026KPL夏季赛】8月21日 成都AG超玩会 VS 广州TTG",
-        "content": "【2026KPL夏季赛】8月21日 成都AG超玩会 VS 广州TTG",
-        "bvid": "BV1rH8z6xEj3",
-        "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "69:20",
-        "cover": "//i2.hdslb.com/bfs/archive/9c8be79a0497bd4794ed886826e15e95fb43db70.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rH8z6xEj3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "成都AG超玩会 vs 广州TTG KPL"
-      },
-      {
-        "title": "【2026VCTCN第二赛段】8月21日 JDG vs BLG",
-        "url": "https://www.bilibili.com/video/BV1KX8q6tE5i",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【2026VCTCN第二赛段】8月21日 JDG vs BLG",
-        "content": "【2026VCTCN第二赛段】8月21日 JDG vs BLG",
-        "bvid": "BV1KX8q6tE5i",
-        "author": "无畏契约赛事",
-        "duration": "152:32",
-        "cover": "//i2.hdslb.com/bfs/archive/02698b90542841447039ff834585989123746230.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KX8q6tE5i&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "JDG战胜BLG VCT第二赛段"
-      },
-      {
-        "title": "全网独家首发！宇宙级显微镜盯帧拆解！黑钟馗开发的幕后故事！",
-        "url": "https://www.bilibili.com/video/BV1N48i6xEzF",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "太肝了……简介后补……",
-        "content": "太肝了……简介后补……",
-        "bvid": "BV1N48i6xEzF",
-        "author": "冷斯基Snake",
-        "duration": "20:55",
-        "cover": "//i2.hdslb.com/bfs/archive/5e9ee48567c655c2422edff11a1b465bb01202fb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1N48i6xEzF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "游科如何做到一年三预告"
+        "description": "",
+        "content": "",
+        "bvid": "BV1m6A3zvEsZ",
+        "author": "CH龙HUI",
+        "duration": "3:20",
+        "cover": "//i1.hdslb.com/bfs/archive/feae025541f1efb4347c20367dd8173e05e429f7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1m6A3zvEsZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "联合国官员谈中国沙漠治理"
       },
       {
         "title": "【2026LPL第三赛段】8月7日 BLG vs TES",
         "url": "https://www.bilibili.com/video/BV1Xiu86aETY",
         "desc": "",
-        "rank": 7,
+        "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "【2026LPL第三赛段】8月7日 BLG vs TES",
@@ -238,26 +190,58 @@
         "hotTitle": "TES vs BLG LPL第三赛段"
       },
       {
-        "title": "全球十大餐厅！为吃这顿饭！我们在欧洲被偷5万！到底值不值？",
-        "url": "https://www.bilibili.com/video/BV1UU8q6FEPL",
+        "title": "耗资20万元，现实打造了一个末日避难所！",
+        "url": "https://www.bilibili.com/video/BV1tP8q6cEWC",
         "desc": "",
-        "rank": 8,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "小测今天带大家探秘，全球十大餐厅！连续9年获得米其林三星最高荣誉，曾被全球50佳餐厅榜单，评选为世界十大餐厅。为了吃这顿饭，我们在欧洲被偷了，损失了5万多，那这家餐厅到底吃什么？值不值？今天就跟小测一起！前往欧洲！一探究竟！",
-        "content": "小测今天带大家探秘，全球十大餐厅！连续9年获得米其林三星最高荣誉，曾被全球50佳餐厅榜单，评选为世界十大餐厅。为了吃这顿饭，我们在欧洲被偷了，损失了5万多，那这家餐厅到底吃什么？值不值？今天就跟小测一起！前往欧洲！一探究竟！",
-        "bvid": "BV1UU8q6FEPL",
-        "author": "HOLA小测佬",
-        "duration": "11:27",
-        "cover": "//i0.hdslb.com/bfs/archive/9c499446932b68d6dafd811a925f7b3e69fb6780.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UU8q6FEPL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "西班牙国王同款世界十大餐厅"
+        "description": "末日改造内容仅供娱乐，请勿现实模仿。",
+        "content": "末日改造内容仅供娱乐，请勿现实模仿。",
+        "bvid": "BV1tP8q6cEWC",
+        "author": "史蒂猪StevenPig",
+        "duration": "10:1",
+        "cover": "//i0.hdslb.com/bfs/archive/df3f007e327bac876b8d3552d16727b9356dcc50.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tP8q6cEWC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主打造末日避难所"
+      },
+      {
+        "title": "《欢迎来龙餐馆》：暑期档最佳！年度最佳预定！沈腾得拿影帝！",
+        "url": "https://www.bilibili.com/video/BV16x8z6XEwL",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《欢迎来龙餐馆》：暑期档最佳！年度最佳预定！沈腾得拿影帝！",
+        "content": "《欢迎来龙餐馆》：暑期档最佳！年度最佳预定！沈腾得拿影帝！",
+        "bvid": "BV16x8z6XEwL",
+        "author": "东倾电影",
+        "duration": "14:40",
+        "cover": "//i0.hdslb.com/bfs/archive/ab0773480c3dd9c20a3d40c3bd7803b17238148c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16x8z6XEwL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "拆解龙餐馆文牧野导演水平"
+      },
+      {
+        "title": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告",
+        "url": "https://www.bilibili.com/video/BV1VQ8i6uEr4",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告节目现已公开。 为了感谢管理员对《明日方舟：终末地》的支持，我们已通过游戏内邮件发放嵌晶玉×1000，折金票×10000，初级认知载体×8，武器检查套组×4。 发放时间：2026/08/21 19:30（UTC+8） 发放条件：2026/09/04 19:30（UTC+8）前登录游戏 发放说明：奖励将通过【邮件】发送，开启【邮箱】功能后可领取，邮件有效期为14天，请管理员及时领取 未来我们会在官方自媒体账号陆续更新《明日方舟：终末地》「雪凇幽梦」版本的相关信息与",
+        "content": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告节目现已公开。 为了感谢管理员对《明日方舟：终末地》的支持，我们已通过游戏内邮件发放嵌晶玉×1000，折金票×10000，初级认知载体×8，武器检查套组×4。 发放时间：2026/08/21 19:30（UTC+8） 发放条件：2026/09/04 19:30（UTC+8）前登录游戏 发放说明：奖励将通过【邮件】发送，开启【邮箱】功能后可领取，邮件有效期为14天，请管理员及时领取 未来我们会在官方自媒体账号陆续更新《明日方舟：终末地》「雪凇幽梦」版本的相关信息与",
+        "bvid": "BV1VQ8i6uEr4",
+        "author": "明日方舟终末地",
+        "duration": "44:28",
+        "cover": "//i1.hdslb.com/bfs/archive/3fdff61b119d2be05b9816b2ba4ba5c4e2df0a97.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VQ8i6uEr4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "终末地雪凇幽梦版本前瞻预告"
       },
       {
         "title": "歌剧老师锐评《披荆斩棘的哥哥2026》初舞台（下）",
         "url": "https://www.bilibili.com/video/BV1RZ8M68Eon",
         "desc": "",
-        "rank": 9,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "歌剧老师锐评《披荆斩棘的哥哥2026》初舞台（下）",
@@ -270,36 +254,52 @@
         "hotTitle": "披荆斩棘2026一公舞台陪看"
       },
       {
-        "title": "开源核电站，去中国化破产，骂学生蟑螂，发达印度要剑指2047？",
-        "url": "https://www.bilibili.com/video/BV1pt8n6zEWd",
+        "title": "全球十大餐厅！为吃这顿饭！我们在欧洲被偷5万！到底值不值？",
+        "url": "https://www.bilibili.com/video/BV1UU8q6FEPL",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "小测今天带大家探秘，全球十大餐厅！连续9年获得米其林三星最高荣誉，曾被全球50佳餐厅榜单，评选为世界十大餐厅。为了吃这顿饭，我们在欧洲被偷了，损失了5万多，那这家餐厅到底吃什么？值不值？今天就跟小测一起！前往欧洲！一探究竟！",
+        "content": "小测今天带大家探秘，全球十大餐厅！连续9年获得米其林三星最高荣誉，曾被全球50佳餐厅榜单，评选为世界十大餐厅。为了吃这顿饭，我们在欧洲被偷了，损失了5万多，那这家餐厅到底吃什么？值不值？今天就跟小测一起！前往欧洲！一探究竟！",
+        "bvid": "BV1UU8q6FEPL",
+        "author": "HOLA小测佬",
+        "duration": "11:27",
+        "cover": "//i0.hdslb.com/bfs/archive/9c499446932b68d6dafd811a925f7b3e69fb6780.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UU8q6FEPL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "西班牙国王同款世界十大餐厅"
+      },
+      {
+        "title": "全网独家首发！宇宙级显微镜盯帧拆解！黑钟馗开发的幕后故事！",
+        "url": "https://www.bilibili.com/video/BV1N48i6xEzF",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "更不完，球球懂王别整活儿了，我要去看龙餐馆 莫迪称印度必须保护自身经济利益 2025 08/04 19:48:06 来源：新华网 莫迪誓言，印度将在2047年成为转型 极目新闻 2026-08-16 22:21:45 商务部：对原产于印度的进口单模光纤续征反倾销税 2026 08/13 17:24:00 来源：新华网 印度国防部总结“印度制造”计划近期进展情况 2025 04/25 09:11:43 来源：中国航空报",
-        "content": "更不完，球球懂王别整活儿了，我要去看龙餐馆 莫迪称印度必须保护自身经济利益 2025 08/04 19:48:06 来源：新华网 莫迪誓言，印度将在2047年成为转型 极目新闻 2026-08-16 22:21:45 商务部：对原产于印度的进口单模光纤续征反倾销税 2026 08/13 17:24:00 来源：新华网 印度国防部总结“印度制造”计划近期进展情况 2025 04/25 09:11:43 来源：中国航空报",
-        "bvid": "BV1pt8n6zEWd",
-        "author": "星辰趣味屋",
-        "duration": "20:43",
-        "cover": "//i2.hdslb.com/bfs/archive/d0174499f7d312d968ae060f6f251a8504d8c194.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pt8n6zEWd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "印度要如何成为发达国家"
+        "description": "太肝了……简介后补……",
+        "content": "太肝了……简介后补……",
+        "bvid": "BV1N48i6xEzF",
+        "author": "冷斯基Snake",
+        "duration": "20:55",
+        "cover": "//i2.hdslb.com/bfs/archive/5e9ee48567c655c2422edff11a1b465bb01202fb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1N48i6xEzF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "游科如何做到一年三预告"
       },
       {
-        "title": "细节拉满！黑神话钟馗新实机有什么故事？？主角到底是谁？？？",
-        "url": "https://www.bilibili.com/video/BV1cq8i6UEZK",
+        "title": "【2026VCTCN第二赛段】8月21日 JDG vs BLG",
+        "url": "https://www.bilibili.com/video/BV1KX8q6tE5i",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "这期新片你觉得怎么样？？ 选题：五四 文案：五四/硝基/十元 素材：五四/硝基/十元 剪辑：老狼/五四",
-        "content": "这期新片你觉得怎么样？？ 选题：五四 文案：五四/硝基/十元 素材：五四/硝基/十元 剪辑：老狼/五四",
-        "bvid": "BV1cq8i6UEZK",
-        "author": "五四IAM",
-        "duration": "10:31",
-        "cover": "//i1.hdslb.com/bfs/archive/fe4e4e8c615010f529d50daabc04039b82817b5e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cq8i6UEZK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "黑神话钟馗主角到底是谁"
+        "description": "【2026VCTCN第二赛段】8月21日 JDG vs BLG",
+        "content": "【2026VCTCN第二赛段】8月21日 JDG vs BLG",
+        "bvid": "BV1KX8q6tE5i",
+        "author": "无畏契约赛事",
+        "duration": "152:32",
+        "cover": "//i2.hdslb.com/bfs/archive/02698b90542841447039ff834585989123746230.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KX8q6tE5i&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "JDG战胜BLG VCT第二赛段"
       },
       {
         "title": "【2026LPL第三赛段】8月21日 AL vs WE",
@@ -328,32 +328,16 @@
         "content": "感谢观看 喜欢的话请大家帮忙点点赞谢谢大家 你们的支持是我坚持的动力 Q群425275864 936472149",
         "bvid": "BV1c68i62EuD",
         "author": "XiaoYuan666666丶",
-        "duration": "150:16",
+        "duration": "194:58",
         "cover": "//i2.hdslb.com/bfs/archive/80c9a34f9f62ea9bf2fe9745b3309972e2d2ceb5.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c68i62EuD&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Spirit vs VISION TI2026"
       },
       {
-        "title": "【2026IVL夏季赛】 总决赛 Day2 北京WBG vs MRC",
-        "url": "https://www.bilibili.com/video/BV1EW8q67EKk",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
-        "content": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
-        "bvid": "BV1EW8q67EKk",
-        "author": "第五人格赛事",
-        "duration": "237:6",
-        "cover": "//i0.hdslb.com/bfs/archive/6bb1acdb257a96322668cfe04fec0e31d9bcbe41.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EW8q67EKk&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "ACT vs FPX.ZQ IVL"
-      },
-      {
         "title": "在机器人公司Figure上班是种什么体验？｜对话Jed Yang",
         "url": "https://www.bilibili.com/video/BV1RS8i66Eng",
         "desc": "",
-        "rank": 15,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "本期我们邀请到了 Figure 的研究员Jed yang杨佳宁 ，他曾在密歇根大学攻读博士，在 Meta FAIR 实习，参与了 SAM 3D 项目；如今他在Figure做研究员。我们聊了 Figure 内部的工作体验 、电影级 Demo 背后的真相、200 小时机器人直播，以及人形机器人从展示走向部署时，需要解决的可靠性、泛化与数据问题。 这可能是中文互联网上第一个对 Figure 员工的采访。让我们一起揭秘这家神秘的机器人公司吧！",
@@ -366,26 +350,58 @@
         "hotTitle": "Figure研究员全网首秀"
       },
       {
-        "title": "终于走回深圳了｜挑战上海走回深圳最后一集！！",
-        "url": "https://www.bilibili.com/video/BV1yh8w6RE4b",
+        "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
+        "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "万千声音曾试图将她描述，为她命名。 当所有的喧嚣都归于寂静，她听见了来自胸膛深处的共鸣。 中文CV： 知更鸟——钱琛 星期日——徐翔 翡翠——张若瑜 日文CV： 知更鸟——名冢佳织 星期日——大冢刚央 翡翠——三石琴乃 英文CV： 知更鸟——Alice Himora 星期日——Griffin Puatu 翡翠——Faye Mata 韩文CV： 知更鸟——신온유 星期日——강성우 翡翠——김순미",
+        "content": "万千声音曾试图将她描述，为她命名。 当所有的喧嚣都归于寂静，她听见了来自胸膛深处的共鸣。 中文CV： 知更鸟——钱琛 星期日——徐翔 翡翠——张若瑜 日文CV： 知更鸟——名冢佳织 星期日——大冢刚央 翡翠——三石琴乃 英文CV： 知更鸟——Alice Himora 星期日——Griffin Puatu 翡翠——Faye Mata 韩文CV： 知更鸟——신온유 星期日——강성우 翡翠——김순미",
+        "bvid": "BV1Vj8K6DEFM",
+        "author": "崩坏星穹铁道",
+        "duration": "17:38",
+        "cover": "//i0.hdslb.com/bfs/archive/193aa670f4f3091179dd9a96af88298eb7a3bcb6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vj8K6DEFM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "崩坏星穹铁道千星纪游PV"
+      },
+      {
+        "title": "【2026LPL第三赛段】8月21日 EDG vs TT",
+        "url": "https://www.bilibili.com/video/BV1UC8q6YEfu",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1yh8w6RE4b",
-        "author": "拉宏桑",
-        "duration": "11:45",
-        "cover": "//i2.hdslb.com/bfs/archive/5677910b77a52666e96d7ef4e5e2b66c877ad9e2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yh8w6RE4b&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "拉宏桑从上海走回深圳完结篇"
+        "description": "【2026LPL第三赛段】8月21日 EDG vs TT",
+        "content": "【2026LPL第三赛段】8月21日 EDG vs TT",
+        "bvid": "BV1UC8q6YEfu",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "133:9",
+        "cover": "//i2.hdslb.com/bfs/archive/ec98cc3f20368e4960e0beb184e6a50012738e85.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UC8q6YEfu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "EDG战胜TT LPL第三赛段"
+      },
+      {
+        "title": "蜜雪冰城雪王全新动画！！",
+        "url": "https://www.bilibili.com/video/BV1Jogp6fELx",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "蜜雪冰城雪王全新动画即将播出！《雪王来了！》真的来了~ 繁华都市的角落，藏着最温暖的相遇。 有雪王在的地方，就有欢笑！ 《雪王来了！》⑧月②①日上午11:00全平台上线，首播六集，敬请期待~",
+        "content": "蜜雪冰城雪王全新动画即将播出！《雪王来了！》真的来了~ 繁华都市的角落，藏着最温暖的相遇。 有雪王在的地方，就有欢笑！ 《雪王来了！》⑧月②①日上午11:00全平台上线，首播六集，敬请期待~",
+        "bvid": "BV1Jogp6fELx",
+        "author": "蜜雪冰城雪王",
+        "duration": "1:57",
+        "cover": "//i0.hdslb.com/bfs/archive/39f8edc309c3865acebbd3dda8f01477a8adb935.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Jogp6fELx&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "蜜雪冰城雪王新动画开播"
       },
       {
         "title": "【高下立判】JDG 2-0 BLG 卖票！bail哥我们错了！BerLIN精彩发挥重回世界赛。VCTCN stage2 季后赛 数据雷达图",
         "url": "https://www.bilibili.com/video/BV1LQ8i6uETV",
         "desc": "",
-        "rank": 17,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -398,26 +414,58 @@
         "hotTitle": "JDG晋级上海冠军赛赛后数据"
       },
       {
-        "title": "总统清仓跑路，国民高位接盘，后黄金时代韩国何去何从",
-        "url": "https://www.bilibili.com/video/BV16T8M6vENv",
+        "title": "与《欢迎来龙餐馆》幕后厨师合作!【徐福烩饭】家庭版来了！",
+        "url": "https://www.bilibili.com/video/BV1yh8w6REcs",
         "desc": "",
-        "rank": 18,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "股灾过后，韩国火葬场老板迎来了他的黄金时代。",
-        "content": "股灾过后，韩国火葬场老板迎来了他的黄金时代。",
-        "bvid": "BV16T8M6vENv",
-        "author": "棱镜Talk",
-        "duration": "12:8",
-        "cover": "//i2.hdslb.com/bfs/archive/04ce229f88093fd13e1a690d91d764df42183deb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16T8M6vENv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "后黄金时代韩国何去何从"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1yh8w6REcs",
+        "author": "鲁菜老厨陈宗明",
+        "duration": "20:5",
+        "cover": "//i1.hdslb.com/bfs/archive/049ae30f5d59347efccce130590b289b08bc92ec.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yh8w6REcs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "龙餐馆幕后厨师徐福烩饭教程"
+      },
+      {
+        "title": "我用AI给我家写了一本史书",
+        "url": "https://www.bilibili.com/video/BV15A8F6KE9v",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV15A8F6KE9v",
+        "author": "小狮日记",
+        "duration": "7:17",
+        "cover": "//i2.hdslb.com/bfs/archive/49f305ea07097edae964bc941dc8c01df79119dd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15A8F6KE9v&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主用AI自制家庭史书APP"
+      },
+      {
+        "title": "老王在龙餐馆！从伊拉克到中国，他说好好吃饭是很伟大的事情",
+        "url": "https://www.bilibili.com/video/BV1fD8M6NEJ8",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "“呀哈比比，我是你们的好兄弟老王！”视频博主王立轩（“老王在中国”）从战火中的伊拉克来到充满“烟火气”的中国，他学会“好好吃饭”，并说这是很伟大的事情。在电影《欢迎来龙餐馆》里，他演回自己。 记者：薛晨 编导：黄康懿、苏家梁",
+        "content": "“呀哈比比，我是你们的好兄弟老王！”视频博主王立轩（“老王在中国”）从战火中的伊拉克来到充满“烟火气”的中国，他学会“好好吃饭”，并说这是很伟大的事情。在电影《欢迎来龙餐馆》里，他演回自己。 记者：薛晨 编导：黄康懿、苏家梁",
+        "bvid": "BV1fD8M6NEJ8",
+        "author": "新华社",
+        "duration": "5:3",
+        "cover": "//i1.hdslb.com/bfs/archive/d6a34ec9e0bb0997a486b190a07563ec52b582be.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fD8M6NEJ8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主老王谈出演龙餐馆"
       },
       {
         "title": "十名选手八个来自WE！AL大战WE，背后藏着怎样的“WE系”故事？",
         "url": "https://www.bilibili.com/video/BV1tD8N6BEPR",
         "desc": "",
-        "rank": 19,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "恰波皇粮 第一次做这种短的赛前介绍，试试看效果效果如何 不出意外，23号应该是就更新BLG起源篇了",
@@ -433,7 +481,7 @@
         "title": "林肯号航母士兵“哗变”？赫排长面临中年危机",
         "url": "https://www.bilibili.com/video/BV1XP8u6xEwk",
         "desc": "",
-        "rank": 20,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "本期视频提及的事件以及信息来源如下： 《伊朗战事延宕 美航母部署时长恐将再刷纪录》，新华网，2026-08-15 《美媒称五角大楼正评估减少在海湾地区的军事存在》，新华网，2026-08-19 《特朗普否认对美防长赫格塞思不满》，新华网，2026-08-07 《“林肯”号水兵厌战：一场不该打的仗》，新华网，2026-08-17 《美防长称可“无限期维持”对伊朗海上封锁》，新华网，2026-08-14 《观天下丨脱离民众、部署混乱 航母风波凸显美军困境》，新华网，2026-08-16 《美媒：“华盛顿”号航",
@@ -444,54 +492,6 @@
         "cover": "//i2.hdslb.com/bfs/archive/cbc6b4d96911d6e3fc654fb203468413cf1fb154.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XP8u6xEwk&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "美林肯号航母士兵哗变始末"
-      },
-      {
-        "title": "我的蚊子生病了，带它去看病",
-        "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "（中医不能诊脉昆虫，此片段仅供娱乐）",
-        "content": "（中医不能诊脉昆虫，此片段仅供娱乐）",
-        "bvid": "BV1Dx876VEXe",
-        "author": "柯铭和四只熊孩子",
-        "duration": "2:50",
-        "cover": "//i0.hdslb.com/bfs/archive/8e0edaefa0651a4ffb60dd84057b480f37c0cbdf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dx876VEXe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主带蚊子去看病"
-      },
-      {
-        "title": "一口气看完，原神1.0-7.0！从蒙德到至冬，原神用6年讲了什么？",
-        "url": "https://www.bilibili.com/video/BV1kKbf65Ezj",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "重温《原神》的主线故事，从太古起源，到蒙德序章，再到最新的至冬篇！ 从1.0到7.0，快来看看原神用6年讲了什么故事吧！ 这期视频内容量超大，玩了半年多的原神，爆肝了4W字，还请大家多多点赞、三连支持一下吧~感谢！",
-        "content": "重温《原神》的主线故事，从太古起源，到蒙德序章，再到最新的至冬篇！ 从1.0到7.0，快来看看原神用6年讲了什么故事吧！ 这期视频内容量超大，玩了半年多的原神，爆肝了4W字，还请大家多多点赞、三连支持一下吧~感谢！",
-        "bvid": "BV1kKbf65Ezj",
-        "author": "芙芙家的洗碗君",
-        "duration": "137:7",
-        "cover": "//i0.hdslb.com/bfs/archive/4534038154a71fc8ad06c95a62f018170c7b6dd0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kKbf65Ezj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "原神用6年讲了什么故事"
-      },
-      {
-        "title": "老王在龙餐馆！从伊拉克到中国，他说好好吃饭是很伟大的事情",
-        "url": "https://www.bilibili.com/video/BV1fD8M6NEJ8",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "“呀哈比比，我是你们的好兄弟老王！”视频博主王立轩（“老王在中国”）从战火中的伊拉克来到充满“烟火气”的中国，他学会“好好吃饭”，并说这是很伟大的事情。在电影《欢迎来龙餐馆》里，他演回自己。 记者：薛晨 编导：黄康懿、苏家梁",
-        "content": "“呀哈比比，我是你们的好兄弟老王！”视频博主王立轩（“老王在中国”）从战火中的伊拉克来到充满“烟火气”的中国，他学会“好好吃饭”，并说这是很伟大的事情。在电影《欢迎来龙餐馆》里，他演回自己。 记者：薛晨 编导：黄康懿、苏家梁",
-        "bvid": "BV1fD8M6NEJ8",
-        "author": "新华社",
-        "duration": "5:3",
-        "cover": "//i1.hdslb.com/bfs/archive/d6a34ec9e0bb0997a486b190a07563ec52b582be.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fD8M6NEJ8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主老王谈出演龙餐馆"
       },
       {
         "title": "众主播看TYL零封NOVA挺进败决！明天和BLG争夺最后一张门票！TYL vs NOVA",
@@ -510,26 +510,10 @@
         "hotTitle": "TYL战胜NOVA VCT第二赛段"
       },
       {
-        "title": "2",
-        "url": "https://www.bilibili.com/video/BV1j28i6kE7n",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1j28i6kE7n",
-        "author": "Ericzyq",
-        "duration": "0:12",
-        "cover": "//i1.hdslb.com/bfs/archive/fb8326a770a2eaf9d749033b35fbafe335ba4d5e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j28i6kE7n&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "烽火职业联赛夏季赛"
-      },
-      {
         "title": "【KPL夏季赛二路解说合集】8月21日 KSG vs 南通Hero久竞",
         "url": "https://www.bilibili.com/video/BV1qt8q6CEpX",
         "desc": "",
-        "rank": 26,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -540,6 +524,22 @@
         "cover": "//i2.hdslb.com/bfs/archive/92613f0a75aff3fc699278e60dd6a582b09c1c6e.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qt8q6CEpX&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "南通Hero久竞战胜KSG KPL"
+      },
+      {
+        "title": "终于走回深圳了｜挑战上海走回深圳最后一集！！",
+        "url": "https://www.bilibili.com/video/BV1yh8w6RE4b",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1yh8w6RE4b",
+        "author": "拉宏桑",
+        "duration": "11:45",
+        "cover": "//i2.hdslb.com/bfs/archive/5677910b77a52666e96d7ef4e5e2b66c877ad9e2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yh8w6RE4b&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "拉宏桑从上海走回深圳完结篇"
       },
       {
         "title": "《黑神话：钟馗》15分钟实机演示",
@@ -558,36 +558,36 @@
         "hotTitle": "黑神话钟馗15分钟实机演示"
       },
       {
-        "title": "我用AI给我家写了一本史书",
-        "url": "https://www.bilibili.com/video/BV15A8F6KE9v",
+        "title": "歌剧老师锐评《披荆斩棘的哥哥2026》初舞台（下）",
+        "url": "https://www.bilibili.com/video/BV1RZ8M68Eon",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV15A8F6KE9v",
-        "author": "小狮日记",
-        "duration": "7:17",
-        "cover": "//i2.hdslb.com/bfs/archive/49f305ea07097edae964bc941dc8c01df79119dd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15A8F6KE9v&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主用AI自制家庭史书APP"
+        "description": "歌剧老师锐评《披荆斩棘的哥哥2026》初舞台（下）",
+        "content": "歌剧老师锐评《披荆斩棘的哥哥2026》初舞台（下）",
+        "bvid": "BV1RZ8M68Eon",
+        "author": "铁豆钢蛋",
+        "duration": "83:14",
+        "cover": "//i1.hdslb.com/bfs/archive/cb96509c8b60e1c949f34e05482a4f3173a57858.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RZ8M68Eon&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "歌剧老师锐评披哥初舞台"
       },
       {
-        "title": "停更7年，我又以经典的方式玩MC",
-        "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
+        "title": "我的蚊子生病了，带它去看病",
+        "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "停更了七年的时空小涵我的世界第一季-国服第一探险家生存 今天我又回来了！ 喜欢这个系列的话一定要多多点赞！！！ 灵感来源:aCookieGod",
-        "content": "停更了七年的时空小涵我的世界第一季-国服第一探险家生存 今天我又回来了！ 喜欢这个系列的话一定要多多点赞！！！ 灵感来源:aCookieGod",
-        "bvid": "BV1bQ8u6WEtT",
-        "author": "时空小涵",
-        "duration": "33:24",
-        "cover": "//i0.hdslb.com/bfs/archive/ca6c70b80222af8521e4d85d26012963ac8f49e4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bQ8u6WEtT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "回到最经典的MC"
+        "description": "（中医不能诊脉昆虫，此片段仅供娱乐）",
+        "content": "（中医不能诊脉昆虫，此片段仅供娱乐）",
+        "bvid": "BV1Dx876VEXe",
+        "author": "柯铭和四只熊孩子",
+        "duration": "2:50",
+        "cover": "//i0.hdslb.com/bfs/archive/8e0edaefa0651a4ffb60dd84057b480f37c0cbdf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dx876VEXe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主带蚊子去看病"
       },
       {
         "title": "无畏契约| Welcome EDG.stew",
@@ -1142,10 +1142,11 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787318763883,
-    "bilibili": 1787317978362,
-    "qbitai": 1787318790388,
-    "36kr": 1787318790837
+    "thepaper": 1787320564403,
+    "bilibili": 1787319781933,
+    "36kr": 1787320615184
   },
-  "failures": {}
+  "failures": {
+    "qbitai": "RuntimeError('QbitAI JSON not found')"
+  }
 }
