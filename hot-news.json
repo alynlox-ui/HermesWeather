@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T14:11:37Z",
+  "updatedAt": "2026-08-22T14:26:30Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "阿森纳签下孔萨"
       },
       {
-        "title": "「BLG vs TYL」天禄门票战3-0横扫挺进上海冠军赛 slowly全场71杀 Erv残局1V4拖入加时完成逆转",
-        "url": "https://www.bilibili.com/video/BV1Br8m6yEvh",
+        "title": "【高下立判】TYL 3-0 BLG 小肥一红带四绿，天禄火力全开横扫BLG拿下最后一张门票。VCTCN stage2 季后赛 数据雷达图",
+        "url": "https://www.bilibili.com/video/BV15G8m6vEGP",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "Karsamzing苏弟 116864 嘉宾：EDG CHICHOO",
-        "content": "Karsamzing苏弟 116864 嘉宾：EDG CHICHOO",
-        "bvid": "BV1Br8m6yEvh",
-        "author": "瓦播君",
-        "duration": "43:25",
-        "cover": "//i1.hdslb.com/bfs/archive/6b9c584b3f3b3d8a91b93b97c8750a9e6378ffec.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Br8m6yEvh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV15G8m6vEGP",
+        "author": "小徐还在绕",
+        "duration": "3:41",
+        "cover": "//i1.hdslb.com/bfs/archive/e7e4f828fe509179f040162283470a6249cb39bb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15G8m6vEGP&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TYL战胜BLG VCT第二赛段"
       },
       {
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+        "url": "https://www.qbitai.com/2026/08/477246.html",
+        "desc": "直击WRC",
+        "cover": "",
+        "date": "2026-08-22T22:19:39",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
         "url": "https://www.qbitai.com/2026/08/477155.html",
         "desc": "一脑驱动多形落地",
@@ -615,7 +625,7 @@
         "date": "2026-08-22T22:11:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
@@ -625,7 +635,7 @@
         "date": "2026-08-22T21:56:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
@@ -635,7 +645,7 @@
         "date": "2026-08-22T20:21:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
@@ -645,7 +655,7 @@
         "date": "2026-08-22T20:11:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
@@ -655,7 +665,7 @@
         "date": "2026-08-22T16:53:13",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
@@ -665,7 +675,7 @@
         "date": "2026-08-22T16:41:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
@@ -675,7 +685,7 @@
         "date": "2026-08-21T19:47:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
@@ -685,7 +695,7 @@
         "date": "2026-08-21T17:44:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
@@ -695,7 +705,7 @@
         "date": "2026-08-21T17:00:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
@@ -705,7 +715,7 @@
         "date": "2026-08-21T15:17:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
@@ -715,7 +725,7 @@
         "date": "2026-08-21T14:40:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
@@ -725,7 +735,7 @@
         "date": "2026-08-21T13:38:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
@@ -735,7 +745,7 @@
         "date": "2026-08-21T13:09:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
@@ -745,7 +755,7 @@
         "date": "2026-08-21T12:05:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
@@ -755,7 +765,7 @@
         "date": "2026-08-21T11:14:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
@@ -765,7 +775,7 @@
         "date": "2026-08-21T10:31:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
@@ -775,7 +785,7 @@
         "date": "2026-08-21T10:26:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
@@ -785,7 +795,7 @@
         "date": "2026-08-21T10:22:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值",
@@ -795,7 +805,7 @@
         "date": "2026-08-21T10:15:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
@@ -805,7 +815,7 @@
         "date": "2026-08-20T18:17:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
@@ -815,7 +825,7 @@
         "date": "2026-08-20T18:13:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
@@ -825,7 +835,7 @@
         "date": "2026-08-20T17:46:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "今年WRC最大展台，预告具身智能未来",
@@ -835,7 +845,7 @@
         "date": "2026-08-20T17:42:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
@@ -845,7 +855,7 @@
         "date": "2026-08-20T17:22:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
@@ -855,7 +865,7 @@
         "date": "2026-08-20T14:17:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
@@ -865,7 +875,7 @@
         "date": "2026-08-20T09:37:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
@@ -875,7 +885,7 @@
         "date": "2026-08-20T09:21:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
@@ -885,7 +895,7 @@
         "date": "2026-08-20T09:06:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
@@ -893,16 +903,6 @@
         "desc": "",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/f0806896b391b82410900f6b69e1fbbb.jpeg",
         "date": "2026-08-19T18:54:07",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
-        "url": "https://www.qbitai.com/2026/08/475907.html",
-        "desc": "超维动力KAI全栈具身智能硬核登场",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/6c590c11876fedaa624927642308b53b.jpeg",
-        "date": "2026-08-19T18:12:09",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787407863733,
-    "bilibili": 1787407872457,
-    "qbitai": 1787407897368,
-    "36kr": 1787407897709
+    "thepaper": 1787408762721,
+    "bilibili": 1787407521029,
+    "qbitai": 1787408790322,
+    "36kr": 1787408790610
   },
   "failures": {}
 }
