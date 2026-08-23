@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T15:05:28Z",
+  "updatedAt": "2026-08-23T15:11:41Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "特大暴雨来了"
       },
       {
-        "title": "德云色解说BLG1-1AL：BLG逆转AL扳回一局，4兄弟是真的不想枪哥输给AL",
-        "url": "https://www.bilibili.com/video/BV1nK8h6vEoo",
+        "title": "[LPL速看]【BLG vs AL】第二局丨2026LPL第三赛段组内赛丨20260823",
+        "url": "https://www.bilibili.com/video/BV1wM8h6PEaw",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1nK8h6vEoo",
-        "author": "DYS张姓理中客",
-        "duration": "9:59",
-        "cover": "//i1.hdslb.com/bfs/archive/53f47df5fdeeb531d3d8646a3806cbcdabf9deed.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nK8h6vEoo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1wM8h6PEaw",
+        "author": "大木GameDay",
+        "duration": "12:55",
+        "cover": "//i2.hdslb.com/bfs/archive/44075e28c3de340ebe4966b4e45def8758661f7a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wM8h6PEaw&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG vs AL LPL第三赛段"
       },
       {
@@ -222,19 +222,19 @@
         "hotTitle": "央视专访朱雀三号总指挥戴政"
       },
       {
-        "title": "【阿梓】我们直播间不准支持FUT！我就这么霸道！小孩梓必须给我支持绿龙！",
-        "url": "https://www.bilibili.com/video/BV1JW8t6xExT",
+        "title": "谁能加冕EWC的冠军？绿龙的优势是新版本的hally！",
+        "url": "https://www.bilibili.com/video/BV1hE8s6wEtK",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "阿梓从小就很可爱的个人主页：https://space.bilibili.com/7706705 阿梓从小就很可爱的直播间：https://live.bilibili.com/80397?live_from=87003",
-        "content": "阿梓从小就很可爱的个人主页：https://space.bilibili.com/7706705 阿梓从小就很可爱的直播间：https://live.bilibili.com/80397?live_from=87003",
-        "bvid": "BV1JW8t6xExT",
-        "author": "TDD-珈蓝梦",
-        "duration": "0:43",
-        "cover": "//i2.hdslb.com/bfs/archive/72ae0fe065c13370b248e402c64b60683e264949.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JW8t6xExT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1hE8s6wEtK",
+        "author": "CS2万事屋",
+        "duration": "1:7",
+        "cover": "//i2.hdslb.com/bfs/archive/59255616226cc7f4bd4c9d59feca302d312f8aa3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hE8s6wEtK&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "FUT vs Spirit 电竞世俱杯"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787497491490,
+    "thepaper": 1787497866182,
     "bilibili": 1787496377804,
-    "qbitai": 1787497527989,
-    "36kr": 1787497528462
+    "qbitai": 1787497901404,
+    "36kr": 1787497901894
   },
   "failures": {}
 }
