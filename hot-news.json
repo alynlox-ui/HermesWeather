@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T06:41:38Z",
+  "updatedAt": "2026-08-23T06:56:40Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -184,7 +184,7 @@
         "content": "-",
         "bvid": "BV1b4846eEi6",
         "author": "kpl二路",
-        "duration": "166:23",
+        "duration": "313:46",
         "cover": "//i1.hdslb.com/bfs/archive/14c9e571bdf23d212f6e357facea8d58a1d8c0b8.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1b4846eEi6&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "杭州LGD.NBW vs KSG KPL"
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "300MW级F级首台套示范电站项目落地广东",
+        "url": "https://m.36kr.com/newsflashes/3951649626013056",
+        "desc": "近日，广东省发展改革委发布《关于中国重燃自主研制300MW级F级重型燃气轮机首台套示范电站项目核准的批复》（粤发改核准〔2026〕6号），正式核准国家电投中国重燃自主研制300MW级F级重型燃气轮机首台套示范电站项目建设。“300MW级F级重型燃气轮机是我国自主研制的功率最大、技术等级最高的燃气轮机”概括了这台装备的分量。（中国能源报）",
+        "cover": "",
+        "date": 1787467851000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "联影、天津大学联合发布全球首个磁共振脑机接口全栈式解决方案uMR神观",
         "url": "https://m.36kr.com/newsflashes/3951647265406343",
         "desc": "全国首届磁共振脑机接口大会今日在天津召开。会议期间，联影医疗携手天津大学发布了全球首个磁共振脑机接口全栈式解决方案uMR神观，并联合发起成立磁共振脑机接口创新联盟。联影医疗磁共振事业部、联合创新部总监袁健闵介绍，uMR神观打通“成像-仿真-调控-评估-算法迭代”完整闭环，使磁共振从影像工具升级为脑机交互核心中枢。天津大学医学院副院长范秋筠表示，磁共振脑机接口创新联盟旨在打通“采集-解码-调控-评估”全链条，推动我国在这一战略性前沿方向抢占国际制高点。 (财联社)",
@@ -947,7 +957,7 @@
         "date": 1787466007000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "国内最大糖肽产业化生产基地落地新疆",
@@ -957,7 +967,7 @@
         "date": 1787464397000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "阿里巴巴拟配售800亿港元新股",
@@ -967,7 +977,7 @@
         "date": 1787462733000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -977,7 +987,7 @@
         "date": 1787461076000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "国家级知识产权平台落子安徽",
@@ -987,7 +997,7 @@
         "date": 1787459706000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "DeepSeek调整峰谷计费规则，周末全天按低谷时段价格计费",
@@ -997,7 +1007,7 @@
         "date": 1787458510000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "国际图灵小镇落户海口国家高新区",
@@ -1007,7 +1017,7 @@
         "date": 1787457420000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "第二十一届中国长春电影节今日开幕",
@@ -1017,7 +1027,7 @@
         "date": 1787456426000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "《欢迎来龙餐馆》票房破15亿",
@@ -1027,7 +1037,7 @@
         "date": 1787455635000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "Neko Health 正与脑机接口公司 Neuralink 开展合作",
@@ -1037,7 +1047,7 @@
         "date": 1787454601000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "第48届世界技能大赛中国代表团成立",
@@ -1047,7 +1057,7 @@
         "date": 1787453700000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "上纬新材“启元机器人”正式开启预订",
@@ -1057,7 +1067,7 @@
         "date": 1787452801670,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "蔚来李斌：中国汽车行业正在进入四个新阶段",
@@ -1067,7 +1077,7 @@
         "date": 1787452665000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "翔宇医疗激光毫米波治疗仪获国家医疗器械注册证",
@@ -1077,7 +1087,7 @@
         "date": 1787451615000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "富加镓业6英寸氧化镓晶锭等径厚度逾70mm",
@@ -1087,7 +1097,7 @@
         "date": 1787450384000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "泰康保险集团聘任总裁刘挺军为CEO，董事长陈东升不再兼任",
@@ -1097,7 +1107,7 @@
         "date": 1787449268000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "百家机构扎堆调研股曝光，2股市盈率低至个位数",
@@ -1107,7 +1117,7 @@
         "date": 1787448279000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”",
@@ -1117,7 +1127,7 @@
         "date": 1787447318838,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "工商银行：优化完善贴息配套政策，贴息上限由每年3000元提高至5000元",
@@ -1127,25 +1137,15 @@
         "date": 1787386417064,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "特斯拉无人驾驶电动车Cybercab发布会定档",
-        "url": "https://m.36kr.com/newsflashes/3950417977785729",
-        "desc": "特斯拉在社交平台宣布，将于2026年9月3日在美国得州奥斯汀举行Cybercab发布会。据了解，今年4月，特斯拉无人驾驶电动车Cybercab在北美正式投产，称该车由AI驱动，无需方向盘、踏板和后视镜。（财联社）",
-        "cover": "",
-        "date": 1787386378526,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787467265180,
-    "bilibili": 1787467275259,
-    "qbitai": 1787467297959,
-    "36kr": 1787467298394
+    "thepaper": 1787468164377,
+    "bilibili": 1787466760261,
+    "qbitai": 1787468199629,
+    "36kr": 1787468200160
   },
   "failures": {}
 }
