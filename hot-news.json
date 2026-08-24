@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T07:26:36Z",
+  "updatedAt": "2026-08-24T07:41:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,90 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "【EWC高光时刻】 法国总统马克龙为AG.AL颁发EWC俱乐部锦标赛冠军奖杯",
-        "url": "https://www.bilibili.com/video/BV1yA8Y65Esq",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【EWC高光时刻】 法国总统马克龙为AG.AL颁发EWC俱乐部锦标赛冠军奖杯",
-        "content": "【EWC高光时刻】 法国总统马克龙为AG.AL颁发EWC俱乐部锦标赛冠军奖杯",
-        "bvid": "BV1yA8Y65Esq",
-        "author": "EWC电竞世俱杯官方账号",
-        "duration": "1:7",
-        "cover": "//i0.hdslb.com/bfs/archive/85d79b130ce5f36a31ebb7c6be0f1e87dcf5517e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yA8Y65Esq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "马克龙为AG.AL颁奖"
-      },
-      {
-        "title": "国家卫健委：我们能欣喜地告诉大家，白血病不再是不治之症",
-        "url": "https://www.bilibili.com/video/BV1kU8y6VEUa",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1kU8y6VEUa",
-        "author": "海客新闻",
-        "duration": "1:35",
-        "cover": "//i0.hdslb.com/bfs/archive/3fae3359275657c74dd27eaac604bd1a5994f15f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kU8y6VEUa&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "卫健委称白血病不再是不治之症"
-      },
-      {
-        "title": "四六级出分就在24号！祝大家查分统统好运来！",
-        "url": "https://www.bilibili.com/video/BV1JXbo6KEbF",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1JXbo6KEbF",
-        "author": "考研英语晓燕",
-        "duration": "0:36",
-        "cover": "//i2.hdslb.com/bfs/archive/6262d5316178453513c26919cc3eb11016d97aba.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JXbo6KEbF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "四六级查分"
-      },
-      {
-        "title": "【2026 EWC 电竞世俱杯 十六强 数据图】巨龙时代，骄傲的少年再一次登上世界之巅，donk不再过度追求个人的极致表演，以团队之姿取得胜利。",
-        "url": "https://www.bilibili.com/video/BV1Ec8i6VE7i",
-        "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Ec8i6VE7i",
-        "author": "马龙MA1ONG",
-        "duration": "7:51",
-        "cover": "//i1.hdslb.com/bfs/archive/6f775cfa4b7157ef27a969c83cc815797873f342.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ec8i6VE7i&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "CS电竞世俱杯16强数据图"
-      },
-      {
-        "title": "四台风共舞！今年第21号台风“艾莎尼”生成",
-        "url": "https://www.bilibili.com/video/BV1nd8v62Eth",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "https://www.yspapp.cn/68lv（央视频号：新闻来了）",
-        "content": "https://www.yspapp.cn/68lv（央视频号：新闻来了）",
-        "bvid": "BV1nd8v62Eth",
-        "author": "央视频",
-        "duration": "6:40",
-        "cover": "//i2.hdslb.com/bfs/archive/dbf45b1642aaf16c48c02513087370837f598b8a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nd8v62Eth&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "四台风共舞"
-      },
-      {
         "title": "叮！风灵月影眼球版？DeepSeek视觉寄生体首测",
         "url": "https://www.bilibili.com/video/BV1Ce8m6JEBc",
         "desc": "",
-        "rank": 6,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "喜欢我的视频记得一键三连哦",
@@ -222,106 +142,122 @@
         "hotTitle": "DeepSeek视觉寄生体首测"
       },
       {
-        "title": "恐怖版新植物：竹子火炮手",
-        "url": "https://www.bilibili.com/video/BV1cH8t6oEpp",
+        "title": "【EWC高光时刻】 法国总统马克龙为AG.AL颁发EWC俱乐部锦标赛冠军奖杯",
+        "url": "https://www.bilibili.com/video/BV1yA8Y65Esq",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【EWC高光时刻】 法国总统马克龙为AG.AL颁发EWC俱乐部锦标赛冠军奖杯",
+        "content": "【EWC高光时刻】 法国总统马克龙为AG.AL颁发EWC俱乐部锦标赛冠军奖杯",
+        "bvid": "BV1yA8Y65Esq",
+        "author": "EWC电竞世俱杯官方账号",
+        "duration": "1:7",
+        "cover": "//i0.hdslb.com/bfs/archive/85d79b130ce5f36a31ebb7c6be0f1e87dcf5517e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yA8Y65Esq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "马克龙为AG.AL颁奖"
+      },
+      {
+        "title": "【2026 EWC 电竞世俱杯 十六强 数据图】巨龙时代，骄傲的少年再一次登上世界之巅，donk不再过度追求个人的极致表演，以团队之姿取得胜利。",
+        "url": "https://www.bilibili.com/video/BV1Ec8i6VE7i",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Ec8i6VE7i",
+        "author": "马龙MA1ONG",
+        "duration": "7:51",
+        "cover": "//i1.hdslb.com/bfs/archive/6f775cfa4b7157ef27a969c83cc815797873f342.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ec8i6VE7i&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "CS电竞世俱杯16强数据图"
+      },
+      {
+        "title": "(精剪弹幕版①)名场面不断！首日开幕赛。第二届世界人形机器人运动会开幕赛！",
+        "url": "https://www.bilibili.com/video/BV1XJ8S6qEzm",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1XJ8S6qEzm",
+        "author": "阿羊的杂货铺丶",
+        "duration": "30:5",
+        "cover": "//i1.hdslb.com/bfs/archive/b833e0615b5638b043e2f2440d565ee0a0d0c58d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XJ8S6qEzm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "世界机器人运动会"
+      },
+      {
+        "title": "国家卫健委：我们能欣喜地告诉大家，白血病不再是不治之症",
+        "url": "https://www.bilibili.com/video/BV1kU8y6VEUa",
+        "desc": "",
+        "rank": 5,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1kU8y6VEUa",
+        "author": "海客新闻",
+        "duration": "1:35",
+        "cover": "//i0.hdslb.com/bfs/archive/3fae3359275657c74dd27eaac604bd1a5994f15f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kU8y6VEUa&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "卫健委称白血病不再是不治之症"
+      },
+      {
+        "title": "【瓦赛杂谈】siufatBB为天禄带来了什么？",
+        "url": "https://www.bilibili.com/video/BV13N886jELU",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV13N886jELU",
+        "author": "KiddoJioJio",
+        "duration": "6:18",
+        "cover": "//i1.hdslb.com/bfs/archive/9e802d1bb4369cbcb580ed1dbb35e1453b0db957.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13N886jELU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "SiuFatBB是否适配TYL"
+      },
+      {
+        "title": "四六级出分就在24号！祝大家查分统统好运来！",
+        "url": "https://www.bilibili.com/video/BV1JXbo6KEbF",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "第41关核弹菇没爆炸的用这个新链接下新版 v1.0.1 主菜单显示1.1的是旧版 安卓：https://pan.quark.cn/s/9065bc24fc5d 电脑 ：https://pan.quark.cn/s/8b949883a562 IOS：https://pan.quark.cn/s/d486d71d3fa8",
-        "content": "第41关核弹菇没爆炸的用这个新链接下新版 v1.0.1 主菜单显示1.1的是旧版 安卓：https://pan.quark.cn/s/9065bc24fc5d 电脑 ：https://pan.quark.cn/s/8b949883a562 IOS：https://pan.quark.cn/s/d486d71d3fa8",
-        "bvid": "BV1cH8t6oEpp",
-        "author": "对不起贱笑了",
-        "duration": "6:52",
-        "cover": "//i2.hdslb.com/bfs/archive/1598cc7e79bfb392c357deab3089d3cb1aa92c87.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cH8t6oEpp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "恐怖版PVZ新植物 竹子火炮手"
+        "description": "",
+        "content": "",
+        "bvid": "BV1JXbo6KEbF",
+        "author": "考研英语晓燕",
+        "duration": "0:36",
+        "cover": "//i2.hdslb.com/bfs/archive/6262d5316178453513c26919cc3eb11016d97aba.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JXbo6KEbF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "四六级查分"
       },
       {
-        "title": "全场狂嘘被迫回更衣室？小蜘蛛与马竞何以至此？",
-        "url": "https://www.bilibili.com/video/BV11c8Y61EEk",
+        "title": "\"赶紧修，我还要回去比赛呢！\" 记者探秘机器人之家",
+        "url": "https://www.bilibili.com/video/BV1f88t6nEFM",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV11c8Y61EEk",
-        "author": "大都会的车西Pen",
-        "duration": "7:51",
-        "cover": "//i1.hdslb.com/bfs/archive/f882e3024dbf3c224cc5bd48143f2e0399ec51fd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11c8Y61EEk&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "阿尔瓦雷斯被狂嘘"
-      },
-      {
-        "title": "中埃空军联训，歼-16出战！",
-        "url": "https://www.bilibili.com/video/BV1qN8i66Ehi",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "埃及空军某基地，中埃空军的战机接续升空，双方飞行员展开激烈较量。中埃空军联合训练的首个飞行日，中国空军的歼-16战机与埃及空军战机进行中距和近距空战对抗。（记者：王磊 刘蓉蓉 闫超 马百川 贾冲 叶立富）",
-        "content": "埃及空军某基地，中埃空军的战机接续升空，双方飞行员展开激烈较量。中埃空军联合训练的首个飞行日，中国空军的歼-16战机与埃及空军战机进行中距和近距空战对抗。（记者：王磊 刘蓉蓉 闫超 马百川 贾冲 叶立富）",
-        "bvid": "BV1qN8i66Ehi",
-        "author": "央视军事",
-        "duration": "0:36",
-        "cover": "//i1.hdslb.com/bfs/archive/63f4456edcad042ff096794c558f47a8a6fbc439.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qN8i66Ehi&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中埃空军联合训练"
-      },
-      {
-        "title": "荷兰弟和赞达亚，凭什么拿到这么逆天的资源？",
-        "url": "https://www.bilibili.com/video/BV1Dk8x6vEpD",
-        "desc": "",
-        "rank": 10,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "荷兰弟和赞达亚拿到这么逆天资源背后的深层原因是什么呢？本期节目两个角度和大家深度拆解！",
-        "content": "荷兰弟和赞达亚拿到这么逆天资源背后的深层原因是什么呢？本期节目两个角度和大家深度拆解！",
-        "bvid": "BV1Dk8x6vEpD",
-        "author": "博闻强记的富内斯",
-        "duration": "9:48",
-        "cover": "//i2.hdslb.com/bfs/archive/9f3d22918c218b5c7d29139a15acac8dc97a34ce.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dk8x6vEpD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "荷兰弟赞达亚爆火的背后"
-      },
-      {
-        "title": "国铁集团进一步回应“旅客买票占座放零食”",
-        "url": "https://www.bilibili.com/video/BV1z28b6bEU1",
-        "desc": "",
-        "rank": 11,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "https://www.yspapp.cn/684q（央视频号：新闻来了）",
-        "content": "https://www.yspapp.cn/684q（央视频号：新闻来了）",
-        "bvid": "BV1z28b6bEU1",
-        "author": "央视频",
-        "duration": "4:57",
-        "cover": "//i2.hdslb.com/bfs/archive/d7a74c7f87850cf72f9e5d00bc091cbb7e21976b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z28b6bEU1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "国铁集团回应旅客买票占座放零食"
-      },
-      {
-        "title": "《未定事件簿》「心乐未名」音乐会官方完整版",
-        "url": "https://www.bilibili.com/video/BV1nE826rEJ4",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "命运交错的迷局，更迭轨迹的相逢。 朝夕相伴的点滴，镌刻岁月的誓言。 旧日的回忆，于旋律的起伏中交织流转， 当最后一枚音符落下，爱意的回响永不止息。",
-        "content": "命运交错的迷局，更迭轨迹的相逢。 朝夕相伴的点滴，镌刻岁月的誓言。 旧日的回忆，于旋律的起伏中交织流转， 当最后一枚音符落下，爱意的回响永不止息。",
-        "bvid": "BV1nE826rEJ4",
-        "author": "未定事件簿",
-        "duration": "90:13",
-        "cover": "//i2.hdslb.com/bfs/archive/08d4e3639edebdcc279d6f25464be6f9e3a33ac9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nE826rEJ4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "未定事件簿音乐会正式发布"
+        "bvid": "BV1f88t6nEFM",
+        "author": "央视新闻",
+        "duration": "1:22",
+        "cover": "//i1.hdslb.com/bfs/archive/b4a41d2f53da60ee21e10a081334175865bbf514.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1f88t6nEFM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "央视探秘机器人运动员村"
       },
       {
         "title": "对话潘斌龙：配得感太低，是逃避也是交出人生主动权【视频播客】",
         "url": "https://www.bilibili.com/video/BV1LL8M6FEU4",
         "desc": "",
-        "rank": 13,
+        "rank": 9,
         "kind": "video",
         "platform": "bilibili",
         "description": "和大潘老师认识很多年了，这是第一次好好坐下来聊。我们聊他从部队到北漂的日子，还有他演了半辈子配角，心中的“甘与不甘”。他说，以前想做好演员大潘，以后想做主角大潘。希望他的人生能活出主角的光彩。",
@@ -334,10 +270,58 @@
         "hotTitle": "潘斌龙聊演员把形象授权给AI"
       },
       {
+        "title": "四台风共舞！今年第21号台风“艾莎尼”生成",
+        "url": "https://www.bilibili.com/video/BV1nd8v62Eth",
+        "desc": "",
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "https://www.yspapp.cn/68lv（央视频号：新闻来了）",
+        "content": "https://www.yspapp.cn/68lv（央视频号：新闻来了）",
+        "bvid": "BV1nd8v62Eth",
+        "author": "央视频",
+        "duration": "6:40",
+        "cover": "//i2.hdslb.com/bfs/archive/dbf45b1642aaf16c48c02513087370837f598b8a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nd8v62Eth&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "四台风共舞"
+      },
+      {
+        "title": "【F1荷兰战报】正赛 | 诺里斯连赢两场，速度惊人 | 维斯塔潘第一圈上墙退赛，霍肯伯格神级躲避",
+        "url": "https://www.bilibili.com/video/BV1A48e6mE2y",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【F1荷兰战报】正赛 | 诺里斯连赢两场，速度惊人 | 维斯塔潘第一圈上墙退赛，霍肯伯格神级躲避",
+        "content": "【F1荷兰战报】正赛 | 诺里斯连赢两场，速度惊人 | 维斯塔潘第一圈上墙退赛，霍肯伯格神级躲避",
+        "bvid": "BV1A48e6mE2y",
+        "author": "F1赛事资讯",
+        "duration": "18:33",
+        "cover": "//i0.hdslb.com/bfs/archive/ba25603d1534797d2e630f7fb708d6a7986bcccd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1A48e6mE2y&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "F1荷兰站诺里斯夺冠"
+      },
+      {
+        "title": "【Reaction】开学新生群显眼包的嘉豪行为",
+        "url": "https://www.bilibili.com/video/BV1KU8x6hEBj",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1KU8x6hEBj",
+        "author": "沙雕网友咸叽叽",
+        "duration": "3:36",
+        "cover": "//i2.hdslb.com/bfs/archive/a5a462162e9c4aacf280d12ee41831ea962eba2f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KU8x6hEBj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "开学新生群belike"
+      },
+      {
         "title": "抓鱼被困水下15天后奇迹生还，墨西哥拉奎瓦洞穴潜水事故",
         "url": "https://www.bilibili.com/video/BV1F68m6jEpR",
         "desc": "",
-        "rank": 14,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "2026年7月23日，墨西哥一男子跟随父亲潜入水下洞穴抓鱼，结果失踪，搜救无果后官方宣布其已经死亡，谁知15天后，当潜水员进入水下搜寻遗体时，竟发现他还活着，独自1人整整15天他究竟如何活下来的？本期视频将带您了解两周前刚发生的一起水下奇迹。",
@@ -350,26 +334,10 @@
         "hotTitle": "抓鱼被困水下15天后奇迹生还"
       },
       {
-        "title": "8年恩怨大和解！一条视频看完王传君与《爱情公寓》的恩怨始末",
-        "url": "https://www.bilibili.com/video/BV1bi8y6HENE",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个",
-        "content": "点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个",
-        "bvid": "BV1bi8y6HENE",
-        "author": "毛知竹解读",
-        "duration": "33:30",
-        "cover": "//i0.hdslb.com/bfs/archive/128ddd3208e02527fcabc3638c203eeb41dd1487.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bi8y6HENE&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "王传君与爱情公寓恩怨始末"
-      },
-      {
         "title": "⚡顽 叟 戏 老 童⚡",
         "url": "https://www.bilibili.com/video/BV1ED8b6dEyX",
         "desc": "",
-        "rank": 16,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "内容AI生成，仅供娱乐，请勿过度解读",
@@ -385,7 +353,7 @@
         "title": "⚡李道长速通生化危机⚡",
         "url": "https://www.bilibili.com/video/BV1678q6nEQS",
         "desc": "",
-        "rank": 17,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -398,42 +366,26 @@
         "hotTitle": "李道长速通生化危机"
       },
       {
-        "title": "【Reaction】开学新生群显眼包的嘉豪行为",
-        "url": "https://www.bilibili.com/video/BV1KU8x6hEBj",
+        "title": "那 个 傲 慢 的 郝 哥 想 弄 伤 华 强 的 鳞 片！",
+        "url": "https://www.bilibili.com/video/BV1td8C6UEGj",
         "desc": "",
-        "rank": 18,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1KU8x6hEBj",
-        "author": "沙雕网友咸叽叽",
-        "duration": "3:36",
-        "cover": "//i2.hdslb.com/bfs/archive/a5a462162e9c4aacf280d12ee41831ea962eba2f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KU8x6hEBj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "开学新生群belike"
-      },
-      {
-        "title": "在枪店上班是什么体验！真的很赚钱吗？",
-        "url": "https://www.bilibili.com/video/BV1w88C6qEdM",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "如果是你们，你们愿意来枪店上班吗？",
-        "content": "如果是你们，你们愿意来枪店上班吗？",
-        "bvid": "BV1w88C6qEdM",
-        "author": "老李船长",
-        "duration": "19:44",
-        "cover": "//i0.hdslb.com/bfs/archive/49c195a052245aca4ba429e6bfafbeab7b5a3be6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1w88C6qEdM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "在枪店上班是什么体验"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1td8C6UEGj",
+        "author": "Crazy-face",
+        "duration": "2:31",
+        "cover": "//i0.hdslb.com/bfs/archive/c93f201a36ee74e7d1e38b1dd468611954b561e0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1td8C6UEGj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "华强买瓜但傲慢小贩郝哥"
       },
       {
         "title": "一架背叛美国理想的六代机，却成为了新一代300咩鳖神器？",
         "url": "https://www.bilibili.com/video/BV1Ey8s65EFq",
         "desc": "",
-        "rank": 20,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "美国上一次把全新有人战斗机从竞争一路推到生产，是 2001 年的 F-35。到 2025 年 F-47 授标，中间 24 年，没有一个新项目。 F-119 的生产线，2013 年交付完第 507 台发动机之后就没了；F-22 从 750 架一路砍到 187 架；ATF 从立项到形成战斗力，用了 24 年零 1 个月；JSF 用了整整 30 年。 而波音养的智库米切尔研究所，2026 年 2 月直接放话：打穿中国腹地，要 300 架 F-47 加 200 架 B-21。 至于它的发动机——公开的地面试验时间",
@@ -446,36 +398,84 @@
         "hotTitle": "深度剖析美国航空产业发展"
       },
       {
-        "title": "【F1荷兰战报】正赛 | 诺里斯连赢两场，速度惊人 | 维斯塔潘第一圈上墙退赛，霍肯伯格神级躲避",
-        "url": "https://www.bilibili.com/video/BV1A48e6mE2y",
+        "title": "《黑钟馗》美学鉴赏：从地理与古建到神话和游戏，展望游科的野心【使徒子】",
+        "url": "https://www.bilibili.com/video/BV1o88t6nE8f",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "8月20日，《黑神话：钟馗》实机演示亮相！主角竟是白衣帅哥，配合此前曝光的黑面天师，暗示要完整讲述钟馗前传故事，而非延续西游后传。场景融合终南山仙游寺、太行山古建，阴雨中苔藓木纹质感拉满。海岛镇水设定更有民俗学考据支撑。从白衣道士到阴阳缝补者，游科这把刀估计比黑猴更狠。你们觉得呢？",
+        "content": "8月20日，《黑神话：钟馗》实机演示亮相！主角竟是白衣帅哥，配合此前曝光的黑面天师，暗示要完整讲述钟馗前传故事，而非延续西游后传。场景融合终南山仙游寺、太行山古建，阴雨中苔藓木纹质感拉满。海岛镇水设定更有民俗学考据支撑。从白衣道士到阴阳缝补者，游科这把刀估计比黑猴更狠。你们觉得呢？",
+        "bvid": "BV1o88t6nE8f",
+        "author": "使徒子",
+        "duration": "7:58",
+        "cover": "//i1.hdslb.com/bfs/archive/6b5fcc2b9d9671e74481c5135dbe1c45c7dfb422.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1o88t6nE8f&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "黑神话钟馗美学鉴赏"
+      },
+      {
+        "title": "国铁集团进一步回应“旅客买票占座放零食”",
+        "url": "https://www.bilibili.com/video/BV1z28b6bEU1",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "https://www.yspapp.cn/684q（央视频号：新闻来了）",
+        "content": "https://www.yspapp.cn/684q（央视频号：新闻来了）",
+        "bvid": "BV1z28b6bEU1",
+        "author": "央视频",
+        "duration": "4:57",
+        "cover": "//i2.hdslb.com/bfs/archive/d7a74c7f87850cf72f9e5d00bc091cbb7e21976b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z28b6bEU1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "国铁集团回应旅客买票占座放零食"
+      },
+      {
+        "title": "圆梦世界冠军！梁王组合速通谢苏组合夺得世锦赛冠军！2026年世锦赛",
+        "url": "https://www.bilibili.com/video/BV1Dm8862EUN",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "梁王在奥运错失世界冠军之后，在今年的世锦赛终于是圆梦了世界冠军，今天的梁王，整个中前场连贯逼抢，真的是非常大的亮点，虽然依旧还有不少失误，但是实在是架不住两人在中前场双压的超快速度，谢苏在第一局其实被压的非常难受，而第二局，王开始在网前各种神拦截，神抓球，这网前建立的优势就更大了，虽然还是有虽迟但到的蹦迪模式，但是还是稳住了，确实是打的漂亮，这场比赛，让我们真的看到了梁王，在中前场连贯上的巨大进步，恭喜他们夺得世锦赛冠军，圆梦世界冠军之梦吧 粉丝群暗号：光影我要聊球 18群：955219738 微信群私信",
+        "content": "梁王在奥运错失世界冠军之后，在今年的世锦赛终于是圆梦了世界冠军，今天的梁王，整个中前场连贯逼抢，真的是非常大的亮点，虽然依旧还有不少失误，但是实在是架不住两人在中前场双压的超快速度，谢苏在第一局其实被压的非常难受，而第二局，王开始在网前各种神拦截，神抓球，这网前建立的优势就更大了，虽然还是有虽迟但到的蹦迪模式，但是还是稳住了，确实是打的漂亮，这场比赛，让我们真的看到了梁王，在中前场连贯上的巨大进步，恭喜他们夺得世锦赛冠军，圆梦世界冠军之梦吧 粉丝群暗号：光影我要聊球 18群：955219738 微信群私信",
+        "bvid": "BV1Dm8862EUN",
+        "author": "ご光影的故事ご",
+        "duration": "8:30",
+        "cover": "//i1.hdslb.com/bfs/archive/e26cea9f897ac040f7989788f3d6079a6510707a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dm8862EUN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "梁王组合世锦赛夺冠"
+      },
+      {
+        "title": "直击2026年Google I/O大会！有哪些神级创新？",
+        "url": "https://www.bilibili.com/video/BV1iU8i63EGd",
         "desc": "",
         "rank": 21,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【F1荷兰战报】正赛 | 诺里斯连赢两场，速度惊人 | 维斯塔潘第一圈上墙退赛，霍肯伯格神级躲避",
-        "content": "【F1荷兰战报】正赛 | 诺里斯连赢两场，速度惊人 | 维斯塔潘第一圈上墙退赛，霍肯伯格神级躲避",
-        "bvid": "BV1A48e6mE2y",
-        "author": "F1赛事资讯",
-        "duration": "18:33",
-        "cover": "//i0.hdslb.com/bfs/archive/ba25603d1534797d2e630f7fb708d6a7986bcccd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1A48e6mE2y&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "F1荷兰站诺里斯夺冠"
+        "description": "这次2026 Google开发者大会，抓到了总裁stanley老师聊了半个小时，在未来，一个人凭什么可以带50个不睡觉的Agent工作？中国开发者出海，真正的卡点在哪？AlphaFold为什么要开源？展区的盲人开发者,怎么让图片和公式\"开口说话\"？本期视频聊聊～",
+        "content": "这次2026 Google开发者大会，抓到了总裁stanley老师聊了半个小时，在未来，一个人凭什么可以带50个不睡觉的Agent工作？中国开发者出海，真正的卡点在哪？AlphaFold为什么要开源？展区的盲人开发者,怎么让图片和公式\"开口说话\"？本期视频聊聊～",
+        "bvid": "BV1iU8i63EGd",
+        "author": "GenJi是真想教会你",
+        "duration": "12:50",
+        "cover": "//i0.hdslb.com/bfs/archive/0f88e0ee2d46c9590bc5efbd599695d07ded50ed.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iU8i63EGd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "2026Google开发者大会有何看点"
       },
       {
-        "title": "“在世界末日前回到过去吧”《记忆管理局》EP03-制作花絮#记忆管理局#",
-        "url": "https://www.bilibili.com/video/BV1xk8c6tEeb",
+        "title": "8年恩怨大和解！一条视频看完王传君与《爱情公寓》的恩怨始末",
+        "url": "https://www.bilibili.com/video/BV1bi8y6HENE",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
-        "description": "“在世界末日前回到过去吧” 《记忆管理局》EP03-制作花絮 #记忆管理局#",
-        "content": "“在世界末日前回到过去吧” 《记忆管理局》EP03-制作花絮 #记忆管理局#",
-        "bvid": "BV1xk8c6tEeb",
-        "author": "记忆管理局",
-        "duration": "0:56",
-        "cover": "//i0.hdslb.com/bfs/archive/23372699e4bbb425bcd7849101562392f239e741.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xk8c6tEeb&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "记忆管理局关潮决战空洞"
+        "description": "点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个",
+        "content": "点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个赞吧！点个关注吧！点个",
+        "bvid": "BV1bi8y6HENE",
+        "author": "毛知竹解读",
+        "duration": "33:30",
+        "cover": "//i0.hdslb.com/bfs/archive/128ddd3208e02527fcabc3638c203eeb41dd1487.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bi8y6HENE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "王传君与爱情公寓恩怨始末"
       },
       {
         "title": "自驾爱好者福音！环疆通海“黄金大外环”要来了！",
@@ -494,26 +494,74 @@
         "hotTitle": "环疆通海黄金大外环要来了"
       },
       {
-        "title": "跟他爆了！美加贸易战是怎么打起来的？",
-        "url": "https://www.bilibili.com/video/BV1t88b6gEzB",
+        "title": "2026-27赛季法甲第1轮 雷恩2-2巴黎圣日耳曼",
+        "url": "https://www.bilibili.com/video/BV1W48e6mECV",
         "desc": "",
         "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1t88b6gEzB",
-        "author": "波士顿圆脸",
-        "duration": "14:9",
-        "cover": "//i1.hdslb.com/bfs/archive/d96cd77c93bc771afb3f0986bd8e5852938b7da9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1t88b6gEzB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "美加贸易战是怎么打起来的"
+        "bvid": "BV1W48e6mECV",
+        "author": "尤文远征军",
+        "duration": "7:26",
+        "cover": "//i1.hdslb.com/bfs/archive/a183a3278ef49c95080a240ee05fea01c34273ad.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1W48e6mECV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "巴黎2-2雷恩"
+      },
+      {
+        "title": "“在世界末日前回到过去吧”《记忆管理局》EP03-制作花絮#记忆管理局#",
+        "url": "https://www.bilibili.com/video/BV1xk8c6tEeb",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "“在世界末日前回到过去吧” 《记忆管理局》EP03-制作花絮 #记忆管理局#",
+        "content": "“在世界末日前回到过去吧” 《记忆管理局》EP03-制作花絮 #记忆管理局#",
+        "bvid": "BV1xk8c6tEeb",
+        "author": "记忆管理局",
+        "duration": "0:56",
+        "cover": "//i0.hdslb.com/bfs/archive/23372699e4bbb425bcd7849101562392f239e741.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xk8c6tEeb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "记忆管理局关潮决战空洞"
+      },
+      {
+        "title": "绿龙一晚双冠！donk成为最年轻的百万奖金选手！",
+        "url": "https://www.bilibili.com/video/BV1gG8a6JEjy",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1gG8a6JEjy",
+        "author": "CS2万事屋",
+        "duration": "1:24",
+        "cover": "//i2.hdslb.com/bfs/archive/41a71fa704cb7e6c42085701947118288751aa45.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gG8a6JEjy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "绿龙一晚包揽两项赛事冠军"
+      },
+      {
+        "title": "恐怖版新植物：竹子火炮手",
+        "url": "https://www.bilibili.com/video/BV1cH8t6oEpp",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "第41关核弹菇没爆炸的用这个新链接下新版 v1.0.1 主菜单显示1.1的是旧版 安卓：https://pan.quark.cn/s/9065bc24fc5d 电脑 ：https://pan.quark.cn/s/8b949883a562 IOS：https://pan.quark.cn/s/d486d71d3fa8",
+        "content": "第41关核弹菇没爆炸的用这个新链接下新版 v1.0.1 主菜单显示1.1的是旧版 安卓：https://pan.quark.cn/s/9065bc24fc5d 电脑 ：https://pan.quark.cn/s/8b949883a562 IOS：https://pan.quark.cn/s/d486d71d3fa8",
+        "bvid": "BV1cH8t6oEpp",
+        "author": "对不起贱笑了",
+        "duration": "6:52",
+        "cover": "//i2.hdslb.com/bfs/archive/1598cc7e79bfb392c357deab3089d3cb1aa92c87.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cH8t6oEpp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "恐怖版PVZ新植物 竹子火炮手"
       },
       {
         "title": "当学校举办美术大赛！",
         "url": "https://www.bilibili.com/video/BV1St8b6rEeD",
         "desc": "",
-        "rank": 25,
+        "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "老叟戏顽童～",
@@ -526,84 +574,36 @@
         "hotTitle": "当学校举办美术大赛"
       },
       {
-        "title": "《黑神话：钟馗》实机演示 民乐制作花絮",
-        "url": "https://www.bilibili.com/video/BV1v1816PE2L",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "音乐里加一点点潇洒 再加一点点自在 添加一些澎湃和悸动 然后让我们再来一遍 “大考”就此交卷，感谢大家对我们音乐的喜爱~各位的声音我们都有看到，道阻且长我们一步一步稳稳向前走",
-        "content": "音乐里加一点点潇洒 再加一点点自在 添加一些澎湃和悸动 然后让我们再来一遍 “大考”就此交卷，感谢大家对我们音乐的喜爱~各位的声音我们都有看到，道阻且长我们一步一步稳稳向前走",
-        "bvid": "BV1v1816PE2L",
-        "author": "8082Audio",
-        "duration": "2:19",
-        "cover": "//i2.hdslb.com/bfs/archive/cd67893855624ab2be243f5a549684c334e0ef86.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1v1816PE2L&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "黑神话钟馗民乐制作花絮"
-      },
-      {
-        "title": "恩怨局！BLG 2-1 AL 赛后数据雷达图+虎扑评分丨LPL第三赛段",
-        "url": "https://www.bilibili.com/video/BV1Xy886UE9D",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Xy886UE9D",
-        "author": "苦练李香兰",
-        "duration": "3:34",
-        "cover": "//i1.hdslb.com/bfs/archive/16187e3ab523880eccc3d4d7d11597de69ff64dd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xy886UE9D&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG战胜AL赛后数据"
-      },
-      {
-        "title": "【锐评HLE零封T1】依旧第三！T1全方位被HLE完爆~",
-        "url": "https://www.bilibili.com/video/BV1nX8h6AE3p",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "相关游戏：英雄联盟 简介补充：恭喜HLE2:0横扫T1锁定常规赛第二，那落败的T1就是第三了，接下来就是季后赛，有些看客老爷问我T1要怎么进世界赛？这个季后赛以及进世界赛规则我去年有发过详细解答，大家去我主页搜规则俩字就出来了（BV1yiegzMEsb），直接代入就可以，因为今年排名和去年没什么变化，GEN还是第一、HLE还是第二、T1还是第三，一模一样不用改，直接套用就可以了！",
-        "content": "相关游戏：英雄联盟 简介补充：恭喜HLE2:0横扫T1锁定常规赛第二，那落败的T1就是第三了，接下来就是季后赛，有些看客老爷问我T1要怎么进世界赛？这个季后赛以及进世界赛规则我去年有发过详细解答，大家去我主页搜规则俩字就出来了（BV1yiegzMEsb），直接代入就可以，因为今年排名和去年没什么变化，GEN还是第一、HLE还是第二、T1还是第三，一模一样不用改，直接套用就可以了！",
-        "bvid": "BV1nX8h6AE3p",
-        "author": "呆梦demo",
-        "duration": "9:56",
-        "cover": "//i0.hdslb.com/bfs/archive/3d7bf5152d330920d1bfee0675a69c181562aea8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nX8h6AE3p&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "锐评HLE零封T1"
-      },
-      {
-        "title": "放弃电弹，舰岛前移，超期服役到崩溃，特朗普要微操海军退回二战？",
-        "url": "https://www.bilibili.com/video/BV1r7826GEb7",
+        "title": "全场狂嘘被迫回更衣室？小蜘蛛与马竞何以至此？",
+        "url": "https://www.bilibili.com/video/BV11c8Y61EEk",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "欢迎来龙餐馆嘎嘎好看 美媒称美军考虑将一在建航母改以特朗普命名 2026 08/21 14:01:02 来源：新华网 美媒称特朗普再次要求修改新航母设计 2026 08/16 13:05:27 来源：新华网 特朗普下令美国新航母弃用电磁弹射系统 2026 08/14 14:13:47 来源：新华网 五角大楼解雇军报负责人 指其“不服从命令” 2026-08-22 16:10:32 来源：新华网",
-        "content": "欢迎来龙餐馆嘎嘎好看 美媒称美军考虑将一在建航母改以特朗普命名 2026 08/21 14:01:02 来源：新华网 美媒称特朗普再次要求修改新航母设计 2026 08/16 13:05:27 来源：新华网 特朗普下令美国新航母弃用电磁弹射系统 2026 08/14 14:13:47 来源：新华网 五角大楼解雇军报负责人 指其“不服从命令” 2026-08-22 16:10:32 来源：新华网",
-        "bvid": "BV1r7826GEb7",
-        "author": "星辰趣味屋",
-        "duration": "19:43",
-        "cover": "//i2.hdslb.com/bfs/archive/cc44b1dbe4070caa8a155e9fa7a709b8fb725b53.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1r7826GEb7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主锐评特朗普海军新政"
+        "description": "",
+        "content": "",
+        "bvid": "BV11c8Y61EEk",
+        "author": "大都会的车西Pen",
+        "duration": "7:51",
+        "cover": "//i1.hdslb.com/bfs/archive/f882e3024dbf3c224cc5bd48143f2e0399ec51fd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11c8Y61EEk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "阿尔瓦雷斯被狂嘘"
       },
       {
-        "title": "特大暴雨来了：三台风几乎都已锁定我国，超强台风沙德尔走位古怪",
-        "url": "https://www.bilibili.com/video/BV1rM8h6AERG",
+        "title": "在枪店上班是什么体验！真的很赚钱吗？",
+        "url": "https://www.bilibili.com/video/BV1w88C6qEdM",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "19号台风紫檀已经给我国广西、越南带去特大暴雨。截至8月23日，防城港局部最大72小时累积雨量已达700毫米以上，越南最大累积雨量1000毫米左右，南宁、广东湛江等也出现短时暴雨，这是台风美莎克以来广西的最强暴雨。而20号台风简拉维带来了多种天气：在江浙沪、安徽和江西东部、福建、广东东部，是散装暴雨和热带蓝、积云交替的天气；而在台湾西南部，它也带来了大暴雨到特大暴雨。 这是因为，简拉维实在太弱且结构实在混乱。8月23日它的北侧中心登陆浙江台州附近后，迅速被副高下沉气流拍死，连雨也没下多少，该怎么热还是怎么",
-        "content": "19号台风紫檀已经给我国广西、越南带去特大暴雨。截至8月23日，防城港局部最大72小时累积雨量已达700毫米以上，越南最大累积雨量1000毫米左右，南宁、广东湛江等也出现短时暴雨，这是台风美莎克以来广西的最强暴雨。而20号台风简拉维带来了多种天气：在江浙沪、安徽和江西东部、福建、广东东部，是散装暴雨和热带蓝、积云交替的天气；而在台湾西南部，它也带来了大暴雨到特大暴雨。 这是因为，简拉维实在太弱且结构实在混乱。8月23日它的北侧中心登陆浙江台州附近后，迅速被副高下沉气流拍死，连雨也没下多少，该怎么热还是怎么",
-        "bvid": "BV1rM8h6AERG",
-        "author": "中气爱",
-        "duration": "3:13",
-        "cover": "//i0.hdslb.com/bfs/archive/aafe81ff3fa1cd75ebe0e943cfcff2f4f8f18494.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rM8h6AERG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "特大暴雨来了"
+        "description": "如果是你们，你们愿意来枪店上班吗？",
+        "content": "如果是你们，你们愿意来枪店上班吗？",
+        "bvid": "BV1w88C6qEdM",
+        "author": "老李船长",
+        "duration": "19:44",
+        "cover": "//i0.hdslb.com/bfs/archive/49c195a052245aca4ba429e6bfafbeab7b5a3be6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1w88C6qEdM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "在枪店上班是什么体验"
       }
     ],
     "qbitai": [
@@ -940,6 +940,46 @@
         "rank": 3
       },
       {
+        "title": "深圳瑞捷：半导体洁净室业务尚处市场拓展期，收入占比较低",
+        "url": "https://m.36kr.com/newsflashes/3953213825793155",
+        "desc": "36氪获悉，深圳瑞捷在互动平台表示，半导体行业客户拓展处于积极推进阶段，除已披露的鹏芯微、敏芯等客户外，公司已与多家产业链企业开展技术交流与商务接洽，具体客户名称及合作进展属于商业敏感信息，暂不便披露。半导体洁净室业务尚处市场拓展期，收入占比较低。",
+        "cover": "https://img.36krcdn.com/hsossms/20260824/v2_6622aa943674468c8358c1ee0ac434f1@6433421_oswg16498oswg869oswg227_img_png",
+        "date": 1787557023546,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "牧原股份：近期生产工艺创新，生产性生物资产有一定增加",
+        "url": "https://m.36kr.com/newsflashes/3953211100839040",
+        "desc": "36氪获悉，牧原股份在互动平台表示，近期公司进行生产工艺创新，从乳猪段开始挑选后备，进入后备猪群进行健康管理，替换淘汰现有母猪，实现疾病净化，提升母猪的健康水平和性能，体现在财务上，公司的生产性生物资产有一定增加。公司积极响应国家生猪产能调控政策，截至2026年6月末，公司能繁母猪存栏为311.3万头，计划在9月底降至300万头以下，较去年的阶段性高点下降60万头左右。",
+        "cover": "https://img.36krcdn.com/hsossms/20260824/v2_e79515208e8c44f5bad63c0c3b9576d0@6433421_oswg15275oswg878oswg198_img_png",
+        "date": 1787556857228,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "Hugging Face正探索出售，潜在估值或超130亿美元",
+        "url": "https://m.36kr.com/newsflashes/3953209472793985",
+        "desc": "开源AI模型平台Hugging Face正在与投资银行合作，试探潜在买家兴趣，交易估值可能达到130亿美元或更高。公司尚未正式回应，目前也无达成任何交易。（新浪财经）",
+        "cover": "",
+        "date": 1787556757860,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "美国法律AI独角兽Harvey基于Kimi K3推出自有模型Tenet",
+        "url": "https://m.36kr.com/newsflashes/3953208612879495",
+        "desc": "36氪获悉，美国法律AI独角兽Harvey日前宣布，基于月之暗面的开放权重模型Kimi K3，通过后训练技术开发出法律专用AI模型Harvey Tenet，这意味着中国开放权重模型开始进入美国头部垂直AI公司的模型训练体系。Harvey此前主要依靠OpenAI、Anthropic等公司的闭源模型提供法律AI服务，服务超过2400家机构，覆盖20多万名律师，大量世界级企业法律部门均在其客户之列。公开报道显示，Harvey当前估值110亿美元，年化收入约3.5亿美元，为公开范围内估值最高的法律AI独角兽，正以约155亿美元进行新一轮融资。",
+        "cover": "",
+        "date": 1787556705375,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "拓竹科技回应2027年IPO传闻：消息不实",
         "url": "https://m.36kr.com/newsflashes/3953198241152386",
         "desc": "有媒体报道称，拓竹科技计划在2027年开启IPO进程。若如期推进，拓竹将成为2026年以来第三家明确走向资本市场的头部Maker企业。对此，接近拓竹科技人士回应称：消息不实，感谢关注。 (21财经）",
@@ -947,7 +987,7 @@
         "date": 1787556072335,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 8
       },
       {
         "title": "上海黄浦：到2030年，预计累计新增高能级首店100家左右",
@@ -957,7 +997,7 @@
         "date": 1787555823261,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "新疆众和成立新矿业公司注册资本1亿",
@@ -967,7 +1007,7 @@
         "date": 1787555666784,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "A股三大指数集体收跌，全市场超3900股下跌",
@@ -977,7 +1017,7 @@
         "date": 1787554893933,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "小米集团发布国内首款3nm智驾高算力AI芯片玄戒D100",
@@ -987,7 +1027,7 @@
         "date": 1787554324153,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "新国标为小微型企业量身打造安全生产“极简实用”管理体系",
@@ -997,7 +1037,7 @@
         "date": 1787553969594,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "上海：建立汽车研发测试用废旧关键零部件进口“试点清单”制度",
@@ -1007,7 +1047,7 @@
         "date": 1787553704183,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "小米公布玄戒O3芯片架构",
@@ -1017,7 +1057,7 @@
         "date": 1787553495305,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "阿里配售获近3倍超额认购，主权和长线基金最终认购比例超40%",
@@ -1027,7 +1067,7 @@
         "date": 1787553175009,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "新版《车用压缩天然气》强制性国家标准发布",
@@ -1037,7 +1077,7 @@
         "date": 1787552865090,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "中际旭创A股成交额超300亿元",
@@ -1047,7 +1087,7 @@
         "date": 1787552016740,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "巴克莱：美联储主席沃什可能会主张减少美联储对前瞻指引的使用",
@@ -1057,7 +1097,7 @@
         "date": 1787550870404,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "儒意电影成立新公司，含出版物零售业务",
@@ -1067,7 +1107,7 @@
         "date": 1787550673592,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "贵州国资成立产业并购股权投资基金",
@@ -1077,7 +1117,7 @@
         "date": 1787550339630,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "科创50指数跌逾4%",
@@ -1087,7 +1127,7 @@
         "date": 1787549983303,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 22
       },
       {
         "title": "杨士旭将卸任bp中国区总裁",
@@ -1097,55 +1137,15 @@
         "date": 1787549721167,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "月之暗面：第一代万亿参数多模态模型Kimi K2.5本月底即将结束服役",
-        "url": "https://m.36kr.com/newsflashes/3953088203013506",
-        "desc": "36氪获悉，月之暗面Kimi发布动态称，公司第一代万亿参数多模态模型，Kimi K2.5本月底即将结束服役。",
-        "cover": "",
-        "date": 1787549356140,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "沪深京三市成交额超1.5万亿元",
-        "url": "https://m.36kr.com/newsflashes/3953087205277057",
-        "desc": "36氪获悉，沪深京三市成交额超1.5万亿元，较上日此时放量1104亿元。",
-        "cover": "",
-        "date": 1787549295243,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "Claude据悉正在调查Mythos 5、Fable 5、Opus模型错误率异常升高的问题",
-        "url": "https://m.36kr.com/newsflashes/3953086915870081",
-        "desc": "Claude据悉正在调查Mythos 5、Fable 5、Opus模型错误率异常升高的问题。（财联社）",
-        "cover": "",
-        "date": 1787549277579,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "金一文化：二次并购事项仍处于筹划阶段，正在积极推进中",
-        "url": "https://m.36kr.com/newsflashes/3953078006152579",
-        "desc": "36氪获悉，金一文化在互动平台表示，公司二次并购事项仍处于筹划阶段，正在积极推进中，尚未签署任何意向性协议，相关事项暂未达到披露标准。",
-        "cover": "",
-        "date": 1787548733773,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787556362835,
-    "bilibili": 1787555142947,
-    "qbitai": 1787556396404,
-    "36kr": 1787556396720
+    "thepaper": 1787557262654,
+    "bilibili": 1787557271397,
+    "qbitai": 1787557296453,
+    "36kr": 1787557296804
   },
   "failures": {}
 }
