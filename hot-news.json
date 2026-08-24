@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-24T14:11:27Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-08-24T14:27:11Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -82,32 +82,32 @@
         "rank": 13
       },
       {
+        "title": "青岛崂山警方再通报“一女子在公园被男子辱骂”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33840951",
+        "desc": "",
+        "rank": 14
+      },
+      {
         "title": "江苏多地市场强化大白菜检测，部分已禁止康保县大白菜入场",
         "url": "https://www.thepaper.cn/newsDetail_forward_33839104",
         "desc": "",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "媒体：醉酒乘客被丢在高速，平台判司机无责谁给的底气？",
         "url": "https://www.thepaper.cn/newsDetail_forward_33837793",
         "desc": "",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "“韩红基金会救护车供应商争议”最新进展：市监部门对企业上门检查",
         "url": "https://www.thepaper.cn/newsDetail_forward_33839294",
         "desc": "",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "四川南充市民讲述收到“7.7级地震预警”：正要下楼时预警变为3.9级，鱼缸中的水轻微晃动",
         "url": "https://www.thepaper.cn/newsDetail_forward_33839701",
-        "desc": "",
-        "rank": 17
-      },
-      {
-        "title": "青岛崂山警方再通报“一女子在公园被男子辱骂”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33840951",
         "desc": "",
         "rank": 18
       },
@@ -1142,10 +1142,11 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787580662233,
-    "bilibili": 1787580665449,
-    "qbitai": 1787580687303,
-    "36kr": 1787580687650
+    "thepaper": 1787581562277,
+    "bilibili": 1787580474929,
+    "36kr": 1787581631179
   },
-  "failures": {}
+  "failures": {
+    "qbitai": "RuntimeError('QbitAI JSON not found')"
+  }
 }
