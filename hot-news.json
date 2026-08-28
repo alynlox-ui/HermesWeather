@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T14:26:30Z",
+  "updatedAt": "2026-08-28T14:41:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -142,19 +142,19 @@
         "hotTitle": "动画演示吉隆泥石流灾害全程"
       },
       {
-        "title": "摩根仙术杯梦碎追猎三结局 主台解说席一片唏嘘",
-        "url": "https://www.bilibili.com/video/BV1krtN6oE2U",
+        "title": "仙术杯#9 初赛day1",
+        "url": "https://www.bilibili.com/video/BV19htF6FE7n",
         "desc": "",
         "rank": 2,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1krtN6oE2U",
-        "author": "袜师傅CC",
-        "duration": "25:25",
-        "cover": "//i2.hdslb.com/bfs/archive/846de73b1f860300545f39169057cdbb97756881.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1krtN6oE2U&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "仙术杯#9 day1 @MR流星飞 破坏战术分队 | 圣聆初雪开局 | 分数：3326.5 ﻿@天离beta 远程战术分队 | 维什戴尔开局 | 分数：3501.25 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
+        "content": "仙术杯#9 day1 @MR流星飞 破坏战术分队 | 圣聆初雪开局 | 分数：3326.5 ﻿@天离beta 远程战术分队 | 维什戴尔开局 | 分数：3501.25 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
+        "bvid": "BV19htF6FE7n",
+        "author": "龙哥哥今天又鸽了",
+        "duration": "301:16",
+        "cover": "//i0.hdslb.com/bfs/archive/e781779b0a98fa5861003b31928abcdfa50fef91.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19htF6FE7n&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "明日方舟仙术杯9day2"
       },
       {
@@ -174,19 +174,19 @@
         "hotTitle": "美国为何突然出手救日元"
       },
       {
-        "title": "TT vs IG 离谱！TT下路发狂19分钟被推平！JiaQi暴虐人机5分钟二塔对线！ Game 3 丨 2026 LPL 季后赛",
-        "url": "https://www.bilibili.com/video/BV1rytN6REr6",
+        "title": "八字批电竞——骑士之路 TT vs IG",
+        "url": "https://www.bilibili.com/video/BV11c8Y61Ev3",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1rytN6REr6",
-        "author": "最新联盟",
-        "duration": "9:41",
-        "cover": "//i1.hdslb.com/bfs/archive/394eb4f9abc3d1543a6e7f32e6e2ec1ea895bfa1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rytN6REr6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "IG，TT，谁是涅槃?谁能登峰?",
+        "content": "IG，TT，谁是涅槃?谁能登峰?",
+        "bvid": "BV11c8Y61Ev3",
+        "author": "觉皇山下住",
+        "duration": "2:54",
+        "cover": "//i0.hdslb.com/bfs/archive/e9ac26e4c28642cb12a9d2493980d2f16d5936a5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11c8Y61Ev3&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "IG战胜TT LPL第三赛段"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787927163853,
-    "bilibili": 1787927174462,
-    "qbitai": 1787927189827,
-    "36kr": 1787927190190
+    "thepaper": 1787928063309,
+    "bilibili": 1787927136116,
+    "qbitai": 1787928094499,
+    "36kr": 1787928095023
   },
   "failures": {}
 }
