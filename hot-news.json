@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T13:56:30Z",
+  "updatedAt": "2026-08-28T14:11:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "锐评开学最后一晚补作业方法"
       },
       {
-        "title": "仙术杯#9 初赛day1",
-        "url": "https://www.bilibili.com/video/BV19htF6FE7n",
+        "title": "摩根仙术杯梦碎追猎三结局 主台解说席一片唏嘘",
+        "url": "https://www.bilibili.com/video/BV1krtN6oE2U",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "仙术杯#9 day1 @MR流星飞 破坏战术分队 | 圣聆初雪开局 | 分数：3326.5 ﻿@天离beta 远程战术分队 | 维什戴尔开局 | 分数：3501.25 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
-        "content": "仙术杯#9 day1 @MR流星飞 破坏战术分队 | 圣聆初雪开局 | 分数：3326.5 ﻿@天离beta 远程战术分队 | 维什戴尔开局 | 分数：3501.25 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
-        "bvid": "BV19htF6FE7n",
-        "author": "龙哥哥今天又鸽了",
-        "duration": "301:16",
-        "cover": "//i0.hdslb.com/bfs/archive/e781779b0a98fa5861003b31928abcdfa50fef91.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19htF6FE7n&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1krtN6oE2U",
+        "author": "袜师傅CC",
+        "duration": "25:25",
+        "cover": "//i2.hdslb.com/bfs/archive/846de73b1f860300545f39169057cdbb97756881.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1krtN6oE2U&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "明日方舟仙术杯9day2"
       },
       {
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "SkyProduction接入阿里视频生成模型Wan 3.0，限时3天免费",
+        "url": "https://m.36kr.com/newsflashes/3959263773031552",
+        "desc": "8月28日，昆仑万维旗下的AI平台SkyProduction（天工工作台，原名“天工短剧工作台”）正式接入阿里巴巴最新视频生成模型Wan 3.0。同时，SkyProduction携手通义万相联合宣布：8月28日—30日，Wan 3.0将在官网上，面向所有用户限时免费使用。",
+        "cover": "",
+        "date": 1787926283021,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "北京银行：智能体创作平台累计搭建智能体300余个",
         "url": "https://m.36kr.com/newsflashes/3959204100799617",
         "desc": "北京银行2026年半年度报告显示，该行纵深推进人工智能应用，发布智算平台，实现AI资产统一纳管及模型访问统一入口；智能体创作平台累计搭建智能体300余个，在信贷审批、财富管理、风险防控等核心领域规模化落地高价值场景，为业务发展提质增效筑牢数字底座；深化企业知识库建设，覆盖合规、零售、金融研究等领域；完成DeepSeek-V4、Kimi-K2.6等前沿模型部署，引入多模态模型，打造超级智能体，推动智能体从“对话交互”向“执行任务的行动者”演进。",
@@ -947,7 +957,7 @@
         "date": 1787922640917,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "热门中概股美股盘前多数上涨，百度涨超1%",
@@ -957,7 +967,7 @@
         "date": 1787921691849,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "美股大型科技股盘前多数上涨，英特尔跌超1%",
@@ -967,7 +977,7 @@
         "date": 1787921551221,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "中基协：7月资产支持专项计划新增备案规模合计1956.14亿元",
@@ -977,7 +987,7 @@
         "date": 1787920965984,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "优必选：上半年营收12.7亿元，全尺寸具身智能人形机器人收入同比增长1445%",
@@ -987,7 +997,7 @@
         "date": 1787920935552,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "有研硅：拟收购山东有研艾斯及山东有研半导体部分股权，股票自8月31日起停牌",
@@ -997,7 +1007,7 @@
         "date": 1787920114520,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "福田汽车品牌日落地多项核心成果",
@@ -1007,7 +1017,7 @@
         "date": 1787919635775,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "中金公司：上半年净利润81.99亿元，同比增长89.35%",
@@ -1017,7 +1027,7 @@
         "date": 1787919468272,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "云南白药：上半年净利润37.01亿元，同比增长1.88%",
@@ -1027,7 +1037,7 @@
         "date": 1787919105573,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "苏宁易购：上半年归母净利润1.27亿元，同比增长161.41%",
@@ -1037,7 +1047,7 @@
         "date": 1787919022915,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "英国高院判三星侵犯Swatch商标权赔1160万美元，三星称或上诉",
@@ -1047,7 +1057,7 @@
         "date": 1787918242796,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "中国人保：上半年净利润367.45亿元，同比增长38.5%",
@@ -1057,7 +1067,7 @@
         "date": 1787918197624,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "兖矿能源：上半年净利润71.5亿元，同比增长47.75%",
@@ -1067,7 +1077,7 @@
         "date": 1787918052156,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "中国神华：上半年净利润287.15亿元，同比增长4.1%",
@@ -1077,7 +1087,7 @@
         "date": 1787917754671,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "美的集团：上半年净利润264.46亿元，同比增长1.66%",
@@ -1087,7 +1097,7 @@
         "date": 1787917518383,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "华泰证券：上半年净利润116.92亿元，同比增长54.87%",
@@ -1097,7 +1107,7 @@
         "date": 1787917362297,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "美团电话会：预期三季度外卖UE同比改善，保持正值",
@@ -1107,7 +1117,7 @@
         "date": 1787917167797,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "改革完善房地产融资制度，国家金融监督管理总局印发五个管理办法",
@@ -1117,7 +1127,7 @@
         "date": 1787916531635,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "一汽解放：上半年净利润3.06亿元，同比增长1459.16%",
@@ -1127,25 +1137,15 @@
         "date": 1787916488389,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "两部门：月房贷支出与收入比控制在50%以下（含50%）",
-        "url": "https://m.36kr.com/newsflashes/3959099650079873",
-        "desc": "36氪获悉，国家金融监督管理总局、中国人民银行发布关于印发《个人住房贷款管理办法（试行）》的通知。其中提出，贷款人应当着重考核借款人还款能力，根据当地房地产市场情况、借款人收入和债务状况等因素，合理设定借款人个人住房贷款的月房贷支出与收入比例上限和月所有债务支出与收入比例上限，其中月房贷支出与收入比控制在50%以下（含50%），月所有债务支出与收入比控制在60％以下（含60%）。",
-        "cover": "",
-        "date": 1787916265751,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787925365809,
-    "bilibili": 1787925368170,
-    "qbitai": 1787925389727,
-    "36kr": 1787925390130
+    "thepaper": 1787926264034,
+    "bilibili": 1787925333795,
+    "qbitai": 1787926294905,
+    "36kr": 1787926295336
   },
   "failures": {}
 }
