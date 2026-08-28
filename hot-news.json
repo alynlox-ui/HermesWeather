@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T15:56:37Z",
+  "updatedAt": "2026-08-28T16:11:41Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "IG战胜TT LPL第三赛段"
       },
       {
-        "title": "【2026 BLAST 波尔图公开赛 资格赛 数据图】G2 0-2 TS 当你放弃自己的执念和欲望而把重心全部放在团队之上，倒一便会蜕变成世一。",
-        "url": "https://www.bilibili.com/video/BV1gCtP6qEYS",
+        "title": "【2026 BLAST 波尔图公开赛 资格赛 数据图】DEN 0-2 TS 哈利风评急转直下，对不起现在是哈夫克时代。",
+        "url": "https://www.bilibili.com/video/BV1Xa8Z6hEMF",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1gCtP6qEYS",
+        "bvid": "BV1Xa8Z6hEMF",
         "author": "马龙MA1ONG",
         "duration": "3:43",
-        "cover": "//i0.hdslb.com/bfs/archive/05040343ff18ba12834672cbb222d361dba59908.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gCtP6qEYS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "cover": "//i2.hdslb.com/bfs/archive/386ad997a5033a08d2b5e19329ac5af10aec5bc8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xa8Z6hEMF&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLAST波尔图TS战胜G2赛后数据"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787932563226,
-    "bilibili": 1787932572447,
-    "qbitai": 1787932597039,
-    "36kr": 1787932597363
+    "thepaper": 1787933464990,
+    "bilibili": 1787932540589,
+    "qbitai": 1787933501115,
+    "36kr": 1787933501548
   },
   "failures": {}
 }
