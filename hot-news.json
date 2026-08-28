@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T07:56:43Z",
+  "updatedAt": "2026-08-28T08:11:38Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -462,19 +462,19 @@
         "hotTitle": "自动驾驶前夜谁做好了准备"
       },
       {
-        "title": "乔爸误会夏斐是乔苓男朋友被踹飞，时光照相馆收留夏斐",
-        "url": "https://www.bilibili.com/video/BV1ph4f63EF7",
+        "title": "【独家】时光代理人 第2集 预告【4月国创】",
+        "url": "https://www.bilibili.com/video/BV1Ai4y1P7jH",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1ph4f63EF7",
-        "author": "Bliay",
-        "duration": "1:31",
-        "cover": "//i0.hdslb.com/bfs/archive/ffa42d7ad97f2407455381d8fc41280ac9503f29.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ph4f63EF7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "时光照相馆收到了来自知名餐饮连锁公司老板的委托，她的目标竟是多年的合伙人？",
+        "content": "时光照相馆收到了来自知名餐饮连锁公司老板的委托，她的目标竟是多年的合伙人？",
+        "bvid": "BV1Ai4y1P7jH",
+        "author": "哔哩哔哩国创",
+        "duration": "0:35",
+        "cover": "//i0.hdslb.com/bfs/archive/7df77cb1cf6532edf1b8c5dd7069ffe79645b0f4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ai4y1P7jH&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "时光照相馆收留夏斐"
       },
       {
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "xTool正式发布全球首个一体化激光平台xTool X1",
+        "url": "https://m.36kr.com/newsflashes/3958897837309061",
+        "desc": "36氪获悉，近日，xTool正式发布全球首个一体化激光平台xTool X1。xTool X1首次将高速精细雕刻、大幅面加工与多光源扩展能力整合于同一平台，攻克了过去速度与幅面难以兼得、不同光源需要多台不同设备等行业难题。",
+        "cover": "",
+        "date": 1787903948077,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "广州珠江区涉宅用地80.56亿元成交，溢价率33.02%",
         "url": "https://m.36kr.com/newsflashes/3958889904651398",
         "desc": "8月28日，广州有3宗涉宅用地出让，总起始价96.09亿元。其中，海珠区琶洲南区涉宅用地吸引了5家竞买人参与竞拍，经过201轮竞价，最终由华润置地以总价80.56亿元竞得，成交楼面价61423元/㎡，溢价率33.02%。（证券时报）",
@@ -947,7 +957,7 @@
         "date": 1787903463906,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "现货白银涨幅扩大至2%",
@@ -957,7 +967,7 @@
         "date": 1787902714533,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "Anthropic据悉最早10天后将公布招股书，IPO已至最后冲刺阶段",
@@ -967,7 +977,7 @@
         "date": 1787902503250,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "文件显示SHEIN通过港股IPO筹资17亿美元",
@@ -977,7 +987,7 @@
         "date": 1787901510428,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "软银寻求100亿美元贷款，为投资OpenAI融资债务再融资",
@@ -987,7 +997,7 @@
         "date": 1787901442751,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "财政部：地方附加税拟实行11%—13%的幅度税率",
@@ -997,7 +1007,7 @@
         "date": 1787901356870,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "今年前8月市场监管总局已发布服务业国家标准900余项",
@@ -1007,7 +1017,7 @@
         "date": 1787901197743,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "途牛：亲子及青年客群构成了暑期出游的主力军",
@@ -1017,7 +1027,7 @@
         "date": 1787901162435,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "品浩：AI融资“过多过快”正在推高债券收益率",
@@ -1027,7 +1037,7 @@
         "date": 1787900839629,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "国家发改委：自8月28日24时起，国内汽、柴油（标准品）价格每吨分别上调375元、360元",
@@ -1037,7 +1047,7 @@
         "date": 1787900561362,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "A股三大指数集体收跌，半导体板块下挫",
@@ -1047,7 +1057,7 @@
         "date": 1787900491589,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "现货白银站上70美元/盎司",
@@ -1057,7 +1067,7 @@
         "date": 1787900192621,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "驭势科技：上半年营业收入1.63亿元，同比增长64.9%",
@@ -1067,7 +1077,7 @@
         "date": 1787899869935,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "Anthropic首款在物理世界运行的AI工具问世",
@@ -1077,7 +1087,7 @@
         "date": 1787899716258,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "深圳前海：鼓励面向低空经济企业开展上市培育、合规辅导及跨境资本服务",
@@ -1087,7 +1097,7 @@
         "date": 1787899355937,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "神舟二十三号航天员乘组圆满完成出舱活动",
@@ -1097,7 +1107,7 @@
         "date": 1787898926576,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "Hy4 preview正式发布",
@@ -1107,7 +1117,7 @@
         "date": 1787898067358,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "亚马逊与瑞典四座风力发电场达成电力供应协议",
@@ -1117,7 +1127,7 @@
         "date": 1787897879000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "常宝股份：目前公司HRSG管产线保持良好运行",
@@ -1127,25 +1137,15 @@
         "date": 1787897399000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "韩国国民年金公团上半年投资回报率达27%",
-        "url": "https://m.36kr.com/newsflashes/3958789509856644",
-        "desc": "韩国规模达1866万亿韩元的国民年金公团（NPS）公布，今年上半年收益率达27.2%，创下自2022年以来同期最佳表现。（新浪财经）",
-        "cover": "",
-        "date": 1787897336294,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787903764093,
+    "thepaper": 1787904663651,
     "bilibili": 1787902993203,
-    "qbitai": 1787903803152,
-    "36kr": 1787903803490
+    "qbitai": 1787904698206,
+    "36kr": 1787904698748
   },
   "failures": {}
 }
