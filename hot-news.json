@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T07:26:33Z",
+  "updatedAt": "2026-08-28T07:41:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -940,6 +940,26 @@
         "rank": 3
       },
       {
+        "title": "现货白银涨幅扩大至2%",
+        "url": "https://m.36kr.com/newsflashes/3958877626924169",
+        "desc": "36氪获悉，现货白银涨幅扩大至2%，报70.65美元/盎司。",
+        "cover": "",
+        "date": 1787902714533,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "Anthropic据悉最早10天后将公布招股书，IPO已至最后冲刺阶段",
+        "url": "https://m.36kr.com/newsflashes/3958874165263747",
+        "desc": "据知情人士称，Anthropic计划在美国劳动节（9月7日）后公布其IPO招股说明书，并可能在9月下旬或10月初在美上市。该公司拟允许现有股东在IPO中出售股份，部分股东的禁售期可能超过180天，这将降低IPO后的抛售压力。目前尚不清楚在Anthropic此次IPO中，新发行的股票和现有股东出售的股票各占多少比例。但报道称，Anthropic希望在IPO中筹集至少1300亿美元以扩张算力，这将超过6月上市的SpaceX，当时其筹集了860亿美元。（财联社）",
+        "cover": "",
+        "date": 1787902503250,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "文件显示SHEIN通过港股IPO筹资17亿美元",
         "url": "https://m.36kr.com/newsflashes/3958857898868102",
         "desc": "据文件显示，SHEIN通过港股IPO筹资17亿美元，以每股48.56港元的价格发行约2.8亿股股票。（财联社）",
@@ -947,7 +967,7 @@
         "date": 1787901510428,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "软银寻求100亿美元贷款，为投资OpenAI融资债务再融资",
@@ -957,7 +977,7 @@
         "date": 1787901442751,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "财政部：地方附加税拟实行11%—13%的幅度税率",
@@ -967,7 +987,7 @@
         "date": 1787901356870,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "今年前8月市场监管总局已发布服务业国家标准900余项",
@@ -977,7 +997,7 @@
         "date": 1787901197743,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "途牛：亲子及青年客群构成了暑期出游的主力军",
@@ -987,7 +1007,7 @@
         "date": 1787901162435,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "品浩：AI融资“过多过快”正在推高债券收益率",
@@ -997,7 +1017,7 @@
         "date": 1787900839629,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "国家发改委：自8月28日24时起，国内汽、柴油（标准品）价格每吨分别上调375元、360元",
@@ -1007,7 +1027,7 @@
         "date": 1787900561362,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "A股三大指数集体收跌，半导体板块下挫",
@@ -1017,7 +1037,7 @@
         "date": 1787900491589,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "现货白银站上70美元/盎司",
@@ -1027,7 +1047,7 @@
         "date": 1787900192621,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "驭势科技：上半年营业收入1.63亿元，同比增长64.9%",
@@ -1037,7 +1057,7 @@
         "date": 1787899869935,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "Anthropic首款在物理世界运行的AI工具问世",
@@ -1047,7 +1067,7 @@
         "date": 1787899716258,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "深圳前海：鼓励面向低空经济企业开展上市培育、合规辅导及跨境资本服务",
@@ -1057,7 +1077,7 @@
         "date": 1787899355937,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "神舟二十三号航天员乘组圆满完成出舱活动",
@@ -1067,17 +1087,17 @@
         "date": 1787898926576,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "Hy4 preview正式发布",
         "url": "https://m.36kr.com/newsflashes/3958801487608965",
-        "desc": "36氪获悉，8月28日，腾讯混元发布并开源新一代大语言模型Hy4 preview ，总参数770B、激活参数49B，上下文长度突破1M。据了解，ima、WorkBuddy均已接入Hy4 preview。",
+        "desc": "36氪获悉，8月28日，腾讯混元发布并开源新一代大语言模型Hy4 preview ，总参数770B、激活参数49B，上下文长度突破1M。据了解，ima、WorkBuddy、元宝均已接入Hy4 preview。",
         "cover": "",
         "date": 1787898067358,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "亚马逊与瑞典四座风力发电场达成电力供应协议",
@@ -1087,7 +1107,7 @@
         "date": 1787897879000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "常宝股份：目前公司HRSG管产线保持良好运行",
@@ -1097,7 +1117,7 @@
         "date": 1787897399000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "韩国国民年金公团上半年投资回报率达27%",
@@ -1107,7 +1127,7 @@
         "date": 1787897336294,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "Marshall Wace据悉将在日本设办事处，加入其他对冲基金的行列",
@@ -1117,35 +1137,15 @@
         "date": 1787896620000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "比亚迪第10000座闪充站落成",
-        "url": "https://m.36kr.com/newsflashes/3958741543386501",
-        "desc": "36氪获悉，据比亚迪消息，8月28日，比亚迪第10000座闪充站暨深圳龙华闪充旗舰站正式落成。截至目前，比亚迪全国闪充站总用户量突破183万，其他品牌用户占比接近三分之一。",
-        "cover": "",
-        "date": 1787896430000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "竞价201轮，华润置地80.6亿元摘取广州海珠琶洲南区一地块",
-        "url": "https://m.36kr.com/newsflashes/3958739358710917",
-        "desc": "广州今日出让3宗涉宅用地，起始总价96.09亿元，其中，上午出让的海珠区琶洲南区石榴岗路涉宅用地，引发激烈争夺。该地块为二类居住用地兼容商业设施用地，规划建筑面积131160平方米，起始价60.56亿元。该地块吸引了越秀&保利、中海、华润置地等5家竞买人参与竞拍，经过201轮竞价，最终被华润置地以80.56亿元的价格竞得，成交楼面价61423元/平方米，溢价率33.02%，这一成交楼面价也刷新了广州涉宅用地成交楼面价TOP3位置。（财联社）",
-        "cover": "",
-        "date": 1787895760000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787901963530,
+    "thepaper": 1787902863210,
     "bilibili": 1787901191685,
-    "qbitai": 1787901992984,
-    "36kr": 1787901993314
+    "qbitai": 1787902895076,
+    "36kr": 1787902895386
   },
   "failures": {}
 }
