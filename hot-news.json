@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T07:41:35Z",
+  "updatedAt": "2026-08-28T07:56:43Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -136,32 +136,16 @@
         "content": "【2026LPL第三赛段】8月28日 EDG vs NIP",
         "bvid": "BV1wRtF6yEgF",
         "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "70:58",
+        "duration": "120:15",
         "cover": "//i1.hdslb.com/bfs/archive/c6b0a206d7c8631f8967dff037147f27d8efac94.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wRtF6yEgF&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "EDG vs NIP LPL第三赛段"
       },
       {
-        "title": "“水陆空”并进！消防救援队已抵达西藏吉隆受灾核心区",
-        "url": "https://www.bilibili.com/video/BV1Ertc6gES8",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Ertc6gES8",
-        "author": "央视新闻",
-        "duration": "0:21",
-        "cover": "//i1.hdslb.com/bfs/archive/08b138635b495e0d1aff847c404ffddc68a249fc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ertc6gES8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "消防救援队抵达西藏吉隆受灾核心区"
-      },
-      {
         "title": "《变形金刚》系列“擎天柱”配音演员彼得·库伦去世，享年85岁",
         "url": "https://www.bilibili.com/video/BV1qC4f6wEXF",
         "desc": "",
-        "rank": 3,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "《变形金刚》系列“擎天柱”配音演员彼得·库伦去世，享年85岁",
@@ -172,6 +156,22 @@
         "cover": "//i0.hdslb.com/bfs/archive/1a42ade5a9151a864138a4945622c93b0b089303.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qC4f6wEXF&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "擎天柱配音演员去世"
+      },
+      {
+        "title": "“水陆空”并进！消防救援队已抵达西藏吉隆受灾核心区",
+        "url": "https://www.bilibili.com/video/BV1Ertc6gES8",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Ertc6gES8",
+        "author": "央视新闻",
+        "duration": "0:21",
+        "cover": "//i1.hdslb.com/bfs/archive/08b138635b495e0d1aff847c404ffddc68a249fc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ertc6gES8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "消防救援队抵达西藏吉隆受灾核心区"
       },
       {
         "title": "土木终于迎来第二春！我下跪道歉！！！",
@@ -190,10 +190,42 @@
         "hotTitle": "土木学生迎来第二春"
       },
       {
+        "title": "只因小学期末平均成绩30分以下，四川一县将低分班级教师合影并称为耻辱，当地教体局回应：正在调查核实",
+        "url": "https://www.bilibili.com/video/BV1Brtc63E2u",
+        "desc": "",
+        "rank": 5,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Brtc63E2u",
+        "author": "观察者网",
+        "duration": "0:10",
+        "cover": "//i0.hdslb.com/bfs/archive/95eca1e517af08ec924153c2939246d776fc2bca.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Brtc63E2u&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "教体局回应将低分班级教师称为耻辱"
+      },
+      {
+        "title": "【炸不多的泪】新作上线，快来看看！",
+        "url": "https://www.bilibili.com/video/BV1Kahc6FEFb",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Kahc6FEFb",
+        "author": "炸不多的泪",
+        "duration": "0:12",
+        "cover": "//i0.hdslb.com/bfs/archive/29471276fa6e1dc02e33d9c96cb0e1faf6d9df0d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Kahc6FEFb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "烽火职业联赛夏季赛"
+      },
+      {
         "title": "GTA6最新超长实机演示！究竟隐藏多少你不知道的细节？？一次性带你看完！",
         "url": "https://www.bilibili.com/video/BV1j8tw6BEkb",
         "desc": "",
-        "rank": 5,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "快来参与五四的抽奖！ 选题：五四/十元 文案：十元/五四 剪辑：老狼/五四",
@@ -209,7 +241,7 @@
         "title": "10投7中！杨瀚森独砍15分 中国男篮83比57大胜卡塔尔男篮",
         "url": "https://www.bilibili.com/video/BV1MktF6QEVh",
         "desc": "",
-        "rank": 6,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -222,68 +254,36 @@
         "hotTitle": "中国男篮大胜卡塔尔"
       },
       {
-        "title": "【炸不多的泪】新作上线，快来看看！",
-        "url": "https://www.bilibili.com/video/BV1Kahc6FEFb",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Kahc6FEFb",
-        "author": "炸不多的泪",
-        "duration": "0:12",
-        "cover": "//i0.hdslb.com/bfs/archive/29471276fa6e1dc02e33d9c96cb0e1faf6d9df0d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Kahc6FEFb&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "烽火职业联赛夏季赛"
-      },
-      {
-        "title": "当你的大学是旅游胜地：",
-        "url": "https://www.bilibili.com/video/BV1KZ4R6TEkt",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1KZ4R6TEkt",
-        "author": "戚小鱼_",
-        "duration": "1:41",
-        "cover": "//i0.hdslb.com/bfs/archive/ad741a0093caf2897e2023c48d1709b5e75e75dd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KZ4R6TEkt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "当你的大学是旅游胜地"
-      },
-      {
-        "title": "新闻1+1 | 西藏吉隆泥石流灾害，抢险救援进行时！",
-        "url": "https://www.bilibili.com/video/BV15htF6FEgA",
+        "title": "为什么20年前华语乐坛神仙打架?现在流行歌全成BGM了?【阿Test正经比比】",
+        "url": "https://www.bilibili.com/video/BV1Vfhc66EzF",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV15htF6FEgA",
-        "author": "央视网",
-        "duration": "24:12",
-        "cover": "//i1.hdslb.com/bfs/archive/591821cf9cfd52db9d1fbbb2ba306536f028777a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15htF6FEgA&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "西藏泥石流抢险救援现场"
+        "description": "参考文献： 《流行音乐与资本主义》 《流行音乐简史套装》 名人面对面专访崔健(下集) 【十年榜】2000-2009年最强华语金曲T0P100--SavageTurely 《流行音乐与资本主义》 《流行音乐简史套装》 名人面对面专访崔健(下集) 【十年榜】2000-2009年最强华语金曲T0P100-SavageTurely BGM： Tension Motion - Mark Anderson Running Up The ScoreKissez in Gallop - Club des Beluga",
+        "content": "参考文献： 《流行音乐与资本主义》 《流行音乐简史套装》 名人面对面专访崔健(下集) 【十年榜】2000-2009年最强华语金曲T0P100--SavageTurely 《流行音乐与资本主义》 《流行音乐简史套装》 名人面对面专访崔健(下集) 【十年榜】2000-2009年最强华语金曲T0P100-SavageTurely BGM： Tension Motion - Mark Anderson Running Up The ScoreKissez in Gallop - Club des Beluga",
+        "bvid": "BV1Vfhc66EzF",
+        "author": "阿Test正经比比",
+        "duration": "23:56",
+        "cover": "//i0.hdslb.com/bfs/archive/00c3c1b05185dd4cee7822f82ff02be913ddfbdf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vfhc66EzF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "为什么流行歌全成了BGM"
       },
       {
-        "title": "🏖️《GTA6》26分钟深度演示预告！任务、驾驶、射击等海量信息！",
-        "url": "https://www.bilibili.com/video/BV1Nr4Z6yEoS",
+        "title": "【西安Vlog】Monki让蔚蓝边际别唱歌了",
+        "url": "https://www.bilibili.com/video/BV1aN4o6nEyB",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "https://www.rockstargames.com/",
-        "content": "https://www.rockstargames.com/",
-        "bvid": "BV1Nr4Z6yEoS",
-        "author": "游戏星GameStar",
-        "duration": "26:46",
-        "cover": "//i0.hdslb.com/bfs/archive/177fa411495ceeb3d9346a5b6dfab7029c49f8cc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nr4Z6yEoS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GTA6新预告片"
+        "description": "参演：Monki，夏安，聒噪的山海君，蔚蓝边际 策划：蔚蓝边际 编导：蔚蓝边际 脚本：蔚蓝边际 摄像：蔚蓝边际 录音：蔚蓝边际 旁白：蔚蓝边际 剪辑：蔚蓝边际 调色：蔚蓝边际 字幕：蔚蓝边际 混音：益辉 场务：婉莹 BGM：逐星，长安朝露吟，here-by-kv，The First Waltz ，oh-boy-ok-by-rrrrros，lemonade-by-snoozybe 特别鸣谢：西安曲江电竞中心，西安曲江WE电子竞技俱乐部，接受采访的线下观众",
+        "content": "参演：Monki，夏安，聒噪的山海君，蔚蓝边际 策划：蔚蓝边际 编导：蔚蓝边际 脚本：蔚蓝边际 摄像：蔚蓝边际 录音：蔚蓝边际 旁白：蔚蓝边际 剪辑：蔚蓝边际 调色：蔚蓝边际 字幕：蔚蓝边际 混音：益辉 场务：婉莹 BGM：逐星，长安朝露吟，here-by-kv，The First Waltz ，oh-boy-ok-by-rrrrros，lemonade-by-snoozybe 特别鸣谢：西安曲江电竞中心，西安曲江WE电子竞技俱乐部，接受采访的线下观众",
+        "bvid": "BV1aN4o6nEyB",
+        "author": "蔚蓝边际",
+        "duration": "8:11",
+        "cover": "//i1.hdslb.com/bfs/archive/aea33fc4d20605203966854f04571a1b7e03a82c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aN4o6nEyB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Monki让蔚蓝边际别唱歌了"
       },
       {
         "title": "⚡用“JOJO ”的方式打开《天龙八部》⚡【bilibilionly同人扶持计划】",
@@ -302,36 +302,36 @@
         "hotTitle": "用JOJO的方式打开天龙八部"
       },
       {
-        "title": "L3 自动驾驶，又是狼来了吗？",
-        "url": "https://www.bilibili.com/video/BV1AFhA6fEGK",
+        "title": "臣妾要自己私通自己【B站笑点大赛】",
+        "url": "https://www.bilibili.com/video/BV1RH896QE2n",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。 近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。 可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么是“华为乾崑”？ 本期视频将从自动驾驶最为重要的“看、想、防”三道关卡出发，深度拆解华为乾崑的自动驾驶之路，同时回答那个更本质的问题： 当我们聊自动驾驶时，我们到底在聊什么？",
-        "content": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。 近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。 可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么是“华为乾崑”？ 本期视频将从自动驾驶最为重要的“看、想、防”三道关卡出发，深度拆解华为乾崑的自动驾驶之路，同时回答那个更本质的问题： 当我们聊自动驾驶时，我们到底在聊什么？",
-        "bvid": "BV1AFhA6fEGK",
-        "author": "所长Wy",
-        "duration": "18:41",
-        "cover": "//i2.hdslb.com/bfs/archive/a38bf453af11905dc538410797ed1fc56cef67fd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AFhA6fEGK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "自动驾驶前夜谁做好了准备"
+        "description": "",
+        "content": "",
+        "bvid": "BV1RH896QE2n",
+        "author": "岩罗Crv",
+        "duration": "2:24",
+        "cover": "//i2.hdslb.com/bfs/archive/ba0c8b009561d86ae9b15734ad094bcde8f4f561.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RH896QE2n&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "臣妾要自己私通自己"
       },
       {
-        "title": "【西安Vlog】Monki让蔚蓝边际别唱歌了",
-        "url": "https://www.bilibili.com/video/BV1aN4o6nEyB",
+        "title": "🏖️《GTA6》26分钟深度演示预告！任务、驾驶、射击等海量信息！",
+        "url": "https://www.bilibili.com/video/BV1Nr4Z6yEoS",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "参演：Monki，夏安，聒噪的山海君，蔚蓝边际 策划：蔚蓝边际 编导：蔚蓝边际 脚本：蔚蓝边际 摄像：蔚蓝边际 录音：蔚蓝边际 旁白：蔚蓝边际 剪辑：蔚蓝边际 调色：蔚蓝边际 字幕：蔚蓝边际 混音：益辉 场务：婉莹 BGM：逐星，长安朝露吟，here-by-kv，The First Waltz ，oh-boy-ok-by-rrrrros，lemonade-by-snoozybe 特别鸣谢：西安曲江电竞中心，西安曲江WE电子竞技俱乐部，接受采访的线下观众",
-        "content": "参演：Monki，夏安，聒噪的山海君，蔚蓝边际 策划：蔚蓝边际 编导：蔚蓝边际 脚本：蔚蓝边际 摄像：蔚蓝边际 录音：蔚蓝边际 旁白：蔚蓝边际 剪辑：蔚蓝边际 调色：蔚蓝边际 字幕：蔚蓝边际 混音：益辉 场务：婉莹 BGM：逐星，长安朝露吟，here-by-kv，The First Waltz ，oh-boy-ok-by-rrrrros，lemonade-by-snoozybe 特别鸣谢：西安曲江电竞中心，西安曲江WE电子竞技俱乐部，接受采访的线下观众",
-        "bvid": "BV1aN4o6nEyB",
-        "author": "蔚蓝边际",
-        "duration": "8:11",
-        "cover": "//i1.hdslb.com/bfs/archive/aea33fc4d20605203966854f04571a1b7e03a82c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aN4o6nEyB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Monki让蔚蓝边际别唱歌了"
+        "description": "https://www.rockstargames.com/",
+        "content": "https://www.rockstargames.com/",
+        "bvid": "BV1Nr4Z6yEoS",
+        "author": "游戏星GameStar",
+        "duration": "26:46",
+        "cover": "//i0.hdslb.com/bfs/archive/177fa411495ceeb3d9346a5b6dfab7029c49f8cc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nr4Z6yEoS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GTA6新预告片"
       },
       {
         "title": "《外 卖 逆 天 对 话》3",
@@ -350,52 +350,52 @@
         "hotTitle": "肥嘟嘟赏析外卖逆天评论"
       },
       {
-        "title": "【独家】时光代理人 第2集 预告【4月国创】",
-        "url": "https://www.bilibili.com/video/BV1Ai4y1P7jH",
+        "title": "当你的大学是旅游胜地：",
+        "url": "https://www.bilibili.com/video/BV1KZ4R6TEkt",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "时光照相馆收到了来自知名餐饮连锁公司老板的委托，她的目标竟是多年的合伙人？",
-        "content": "时光照相馆收到了来自知名餐饮连锁公司老板的委托，她的目标竟是多年的合伙人？",
-        "bvid": "BV1Ai4y1P7jH",
-        "author": "哔哩哔哩国创",
-        "duration": "0:35",
-        "cover": "//i0.hdslb.com/bfs/archive/7df77cb1cf6532edf1b8c5dd7069ffe79645b0f4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ai4y1P7jH&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "时光照相馆收留夏斐"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1KZ4R6TEkt",
+        "author": "戚小鱼_",
+        "duration": "1:41",
+        "cover": "//i0.hdslb.com/bfs/archive/ad741a0093caf2897e2023c48d1709b5e75e75dd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KZ4R6TEkt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "当你的大学是旅游胜地"
       },
       {
-        "title": "关于我的新免费开源字体，和上海展览",
-        "url": "https://www.bilibili.com/video/BV13S4R6kEFC",
+        "title": "自走棋都卷成这样了，《王者万象棋》凭什么还能打出一张新牌？",
+        "url": "https://www.bilibili.com/video/BV15Z4967Eup",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "一场几百万成本、最终可能只有几万块票房的“买卖”，除了热爱，我真的不知道还能用什么理由来解释。",
-        "content": "一场几百万成本、最终可能只有几万块票房的“买卖”，除了热爱，我真的不知道还能用什么理由来解释。",
-        "bvid": "BV13S4R6kEFC",
-        "author": "oooooohmygosh",
-        "duration": "5:46",
-        "cover": "//i0.hdslb.com/bfs/archive/462208b37d6bbe27ce5c2f89703897c597653ee2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13S4R6kEFC&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主倒贴百万办线下设计展"
+        "description": "9月10日《王者万象棋》移动端、PC端同步上线，大伙觉得这张“新王牌”能打出去吗？评论区聊聊",
+        "content": "9月10日《王者万象棋》移动端、PC端同步上线，大伙觉得这张“新王牌”能打出去吗？评论区聊聊",
+        "bvid": "BV15Z4967Eup",
+        "author": "国电武术馆馆长",
+        "duration": "5:44",
+        "cover": "//i1.hdslb.com/bfs/archive/dcb1ba5111bdef7202265576b8f1729008079f58.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Z4967Eup&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "王者这张新牌打得动吗"
       },
       {
-        "title": "臣妾要自己私通自己【B站笑点大赛】",
-        "url": "https://www.bilibili.com/video/BV1RH896QE2n",
+        "title": "【4K】JENNIE - FALLEN ANGEL (Official Video)",
+        "url": "https://www.bilibili.com/video/BV1zWtw6kER3",
         "desc": "",
         "rank": 17,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1RH896QE2n",
-        "author": "岩罗Crv",
-        "duration": "2:24",
-        "cover": "//i2.hdslb.com/bfs/archive/ba0c8b009561d86ae9b15734ad094bcde8f4f561.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RH896QE2n&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "臣妾要自己私通自己"
+        "description": "Official music video for \"FALLEN ANGEL\" by JENNIE",
+        "content": "Official music video for \"FALLEN ANGEL\" by JENNIE",
+        "bvid": "BV1zWtw6kER3",
+        "author": "jennierubyjane",
+        "duration": "5:43",
+        "cover": "//i0.hdslb.com/bfs/archive/9239877b8cf3f8366741bfd45030248ac75714ba.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zWtw6kER3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "JENNIE新歌MV"
       },
       {
         "title": "台风沙德尔路径北调，浙江这地方有点说法！",
@@ -414,138 +414,74 @@
         "hotTitle": "直击台风沙德尔"
       },
       {
-        "title": "三姐妹凌晨醉酒后，居然？？？ 【雷霆姐妹花2】",
-        "url": "https://www.bilibili.com/video/BV1QX8e6fE3g",
+        "title": "新闻1+1 | 西藏吉隆泥石流灾害，抢险救援进行时！",
+        "url": "https://www.bilibili.com/video/BV15htF6FEgA",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "欢迎来到正式改名雷霆姐妹花第2期！！！下一期又会去哪里，发生什么样的有意思的冒险呢！ 喜欢这个系列就多多点赞支持我们吧！ps：点赞20w！！！不管我们三在哪都必须集合出发拍下一期！！！冲鸭！",
-        "content": "欢迎来到正式改名雷霆姐妹花第2期！！！下一期又会去哪里，发生什么样的有意思的冒险呢！ 喜欢这个系列就多多点赞支持我们吧！ps：点赞20w！！！不管我们三在哪都必须集合出发拍下一期！！！冲鸭！",
-        "bvid": "BV1QX8e6fE3g",
-        "author": "宝剑嫂",
-        "duration": "24:57",
-        "cover": "//i0.hdslb.com/bfs/archive/fa9ae49ef44cd052070f11597365187a8e5e5fba.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QX8e6fE3g&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "雷霆姐妹花随机旅行之潮汕"
+        "description": "",
+        "content": "",
+        "bvid": "BV15htF6FEgA",
+        "author": "央视网",
+        "duration": "24:12",
+        "cover": "//i1.hdslb.com/bfs/archive/591821cf9cfd52db9d1fbbb2ba306536f028777a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15htF6FEgA&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "西藏泥石流抢险救援现场"
       },
       {
-        "title": "【4K】JENNIE - FALLEN ANGEL (Official Video)",
-        "url": "https://www.bilibili.com/video/BV1zWtw6kER3",
+        "title": "关于我的新免费开源字体，和上海展览",
+        "url": "https://www.bilibili.com/video/BV13S4R6kEFC",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "Official music video for \"FALLEN ANGEL\" by JENNIE",
-        "content": "Official music video for \"FALLEN ANGEL\" by JENNIE",
-        "bvid": "BV1zWtw6kER3",
-        "author": "jennierubyjane",
-        "duration": "5:43",
-        "cover": "//i0.hdslb.com/bfs/archive/9239877b8cf3f8366741bfd45030248ac75714ba.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zWtw6kER3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "JENNIE新歌MV"
+        "description": "一场几百万成本、最终可能只有几万块票房的“买卖”，除了热爱，我真的不知道还能用什么理由来解释。",
+        "content": "一场几百万成本、最终可能只有几万块票房的“买卖”，除了热爱，我真的不知道还能用什么理由来解释。",
+        "bvid": "BV13S4R6kEFC",
+        "author": "oooooohmygosh",
+        "duration": "5:46",
+        "cover": "//i0.hdslb.com/bfs/archive/462208b37d6bbe27ce5c2f89703897c597653ee2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13S4R6kEFC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主倒贴百万办线下设计展"
       },
       {
-        "title": "星际外卖员：你只迟到了3秒，也被扇了一巴掌【AI全民制作人】",
-        "url": "https://www.bilibili.com/video/BV1uth56uEz3",
+        "title": "L3 自动驾驶，又是狼来了吗？",
+        "url": "https://www.bilibili.com/video/BV1AFhA6fEGK",
         "desc": "",
         "rank": 21,
         "kind": "video",
         "platform": "bilibili",
-        "description": "自从地球普及了星级跃迁。星际送外卖成为了风口。而你，今天接了三单外卖...",
-        "content": "自从地球普及了星级跃迁。星际送外卖成为了风口。而你，今天接了三单外卖...",
-        "bvid": "BV1uth56uEz3",
-        "author": "科学宇宙锋轮",
-        "duration": "5:9",
-        "cover": "//i2.hdslb.com/bfs/archive/2c5be6a588546e5ac86cea39abf63d4858f1254c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uth56uEz3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "当我给外星人送外卖"
+        "description": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。 近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。 可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么是“华为乾崑”？ 本期视频将从自动驾驶最为重要的“看、想、防”三道关卡出发，深度拆解华为乾崑的自动驾驶之路，同时回答那个更本质的问题： 当我们聊自动驾驶时，我们到底在聊什么？",
+        "content": "从1988年的蛮荒萌芽，到2026年的L3试点落地，自动驾驶横跨30年漫长岁月，步入了全面普及前夜的“黎明曙光”。 近日，华为乾崑智驾、鸿蒙座舱搭载量双双突破200万，乾崑APP用户注册用户数也同步突破200万，成为L3落地最现实的写照。 可问题的关键是，“前夜”为何在今天到来？舞台主角又为什么是“华为乾崑”？ 本期视频将从自动驾驶最为重要的“看、想、防”三道关卡出发，深度拆解华为乾崑的自动驾驶之路，同时回答那个更本质的问题： 当我们聊自动驾驶时，我们到底在聊什么？",
+        "bvid": "BV1AFhA6fEGK",
+        "author": "所长Wy",
+        "duration": "18:41",
+        "cover": "//i2.hdslb.com/bfs/archive/a38bf453af11905dc538410797ed1fc56cef67fd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AFhA6fEGK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "自动驾驶前夜谁做好了准备"
       },
       {
-        "title": "虎哥真实采访上",
-        "url": "https://www.bilibili.com/video/BV1Dx8Q63EhJ",
+        "title": "乔爸误会夏斐是乔苓男朋友被踹飞，时光照相馆收留夏斐",
+        "url": "https://www.bilibili.com/video/BV1ph4f63EF7",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1Dx8Q63EhJ",
-        "author": "虎哥二次元教父",
-        "duration": "14:16",
-        "cover": "//i0.hdslb.com/bfs/archive/231e27ff87c34073d2f42410da920971a191cfd6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dx8Q63EhJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "二次元虎哥的来时路"
-      },
-      {
-        "title": "《GTA6》新预告看爽了！这就是游戏工业的顶点【核电波速通版EP.05】",
-        "url": "https://www.bilibili.com/video/BV1Eytc6gEr9",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "欢迎收看“核电波速通版”！刚刚看完《GTA6》的加长实机预告，我已抵达游戏工业的顶点。 本期主播：Nadya / Ryoma",
-        "content": "欢迎收看“核电波速通版”！刚刚看完《GTA6》的加长实机预告，我已抵达游戏工业的顶点。 本期主播：Nadya / Ryoma",
-        "bvid": "BV1Eytc6gEr9",
-        "author": "核电波",
-        "duration": "10:42",
-        "cover": "//i0.hdslb.com/bfs/archive/ee3abbc783200c8fc1bb3a394b9b9bd8f18df8a9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Eytc6gEr9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如何评价GTA6新预告"
-      },
-      {
-        "title": "震撼!看《GTA6》26分钟演示，细节、场景多到惊掉下巴【reaction】",
-        "url": "https://www.bilibili.com/video/BV1c9tF65EC4",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "由于直播为了保证大家流畅的观影 所以对于内容讲解没有暂停介绍，憋死我了 目前正在制作相关的视频解析请稍等",
-        "content": "由于直播为了保证大家流畅的观影 所以对于内容讲解没有暂停介绍，憋死我了 目前正在制作相关的视频解析请稍等",
-        "bvid": "BV1c9tF65EC4",
-        "author": "游戏星GameStar",
-        "duration": "25:50",
-        "cover": "//i2.hdslb.com/bfs/archive/360280c5ed8c5253a3f1c8f027f1d711dd59651c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c9tF65EC4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GTA6新实机演示reaction"
-      },
-      {
-        "title": "开学推迟了，好难过……",
-        "url": "https://www.bilibili.com/video/BV1Entw6yE1q",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "祝大家天天开心万事如意新的一年顺风顺水身体健康 求三连求关注跪谢！求三连求关注跪谢！求三连求关注跪谢！求三连求关注跪谢！",
-        "content": "祝大家天天开心万事如意新的一年顺风顺水身体健康 求三连求关注跪谢！求三连求关注跪谢！求三连求关注跪谢！求三连求关注跪谢！",
-        "bvid": "BV1Entw6yE1q",
-        "author": "鹤吱菌",
-        "duration": "3:2",
-        "cover": "//i2.hdslb.com/bfs/archive/8f4e381bd0e0f316de24c73b5399358caf4adf73.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Entw6yE1q&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "救救我的暑假"
-      },
-      {
-        "title": "陈俊生都仿了！配角们不值得来一期？这一次是真的杀青了哈哈哈哈哈笑死我了",
-        "url": "https://www.bilibili.com/video/BV1pW4R68Ebq",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1pW4R68Ebq",
-        "author": "李如儒也是李蠕蠕",
-        "duration": "2:30",
-        "cover": "//i1.hdslb.com/bfs/archive/066ad941db5b0e2f49cfb85cb7518b0e66055e90.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pW4R68Ebq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "李如儒模仿陈俊生"
+        "bvid": "BV1ph4f63EF7",
+        "author": "Bliay",
+        "duration": "1:31",
+        "cover": "//i0.hdslb.com/bfs/archive/ffa42d7ad97f2407455381d8fc41280ac9503f29.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ph4f63EF7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "时光照相馆收留夏斐"
       },
       {
         "title": "《GTA6》最新实机预告片尾曲「Inner Light」百万级录音棚试听",
         "url": "https://www.bilibili.com/video/BV1AutF6LEea",
         "desc": "",
-        "rank": 27,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "《GTA6》最新实机预告片尾曲「Inner Light」百万级录音棚试听 作词: Alexander Kotz / Jimmy Vallance / Tom Howie 作曲: Alexander Kotz / Jimmy Vallance / Tom Howie 演唱：Elderbrook 音响：真力1234 录音MIC：纽曼149 2支 录音设备：SSL Duality Delta 侵删",
@@ -558,10 +494,42 @@
         "hotTitle": "GTA6新实机片尾曲百万录音棚试听"
       },
       {
+        "title": "三姐妹凌晨醉酒后，居然？？？ 【雷霆姐妹花2】",
+        "url": "https://www.bilibili.com/video/BV1QX8e6fE3g",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "欢迎来到正式改名雷霆姐妹花第2期！！！下一期又会去哪里，发生什么样的有意思的冒险呢！ 喜欢这个系列就多多点赞支持我们吧！ps：点赞20w！！！不管我们三在哪都必须集合出发拍下一期！！！冲鸭！",
+        "content": "欢迎来到正式改名雷霆姐妹花第2期！！！下一期又会去哪里，发生什么样的有意思的冒险呢！ 喜欢这个系列就多多点赞支持我们吧！ps：点赞20w！！！不管我们三在哪都必须集合出发拍下一期！！！冲鸭！",
+        "bvid": "BV1QX8e6fE3g",
+        "author": "宝剑嫂",
+        "duration": "24:57",
+        "cover": "//i0.hdslb.com/bfs/archive/fa9ae49ef44cd052070f11597365187a8e5e5fba.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QX8e6fE3g&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "雷霆姐妹花随机旅行之潮汕"
+      },
+      {
+        "title": "陈俊生都仿了！配角们不值得来一期？这一次是真的杀青了哈哈哈哈哈笑死我了",
+        "url": "https://www.bilibili.com/video/BV1pW4R68Ebq",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1pW4R68Ebq",
+        "author": "李如儒也是李蠕蠕",
+        "duration": "2:30",
+        "cover": "//i1.hdslb.com/bfs/archive/066ad941db5b0e2f49cfb85cb7518b0e66055e90.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pW4R68Ebq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "李如儒模仿陈俊生"
+      },
+      {
         "title": "抓小三，但是广西版😡",
         "url": "https://www.bilibili.com/video/BV1zahL6sE5G",
         "desc": "",
-        "rank": 28,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "台词原创来自dy南仔最有才",
@@ -574,36 +542,68 @@
         "hotTitle": "薛甄珠抓小三但广西版"
       },
       {
-        "title": "邪神入侵全球神话？全站专业最对口up，解析米哈游新作—源初之结",
-        "url": "https://www.bilibili.com/video/BV1fQ496nEs7",
+        "title": "20年了，“扶不扶”的困局为啥解决不了？为什么好人还是会被讹？",
+        "url": "https://www.bilibili.com/video/BV1wD8d6rEqD",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "湖南店主扶晕倒老人反被索赔10万，最终掏1.9万\"买清静\"。警方确认无过错，钱虽退还，但\"按闹分配\"的伤还在。好人法实施7年，为何好人仍心寒？从彭宇案到今天，近20年困局未解。下次看到老人摔倒，你还敢扶吗？评论区聊聊👇 信源一：央广网｜《纠偏不止于退款！帮扶老人反被索赔，还有这些要说清楚》｜2026 年 8 月 25 日 http://news.cnr.cn/dj/20260825/t20260825_527791008.shtml 信源二：九派新闻｜《\"扶老人被索赔\" 事件完整监控视频公开，有关部门确认",
+        "content": "湖南店主扶晕倒老人反被索赔10万，最终掏1.9万\"买清静\"。警方确认无过错，钱虽退还，但\"按闹分配\"的伤还在。好人法实施7年，为何好人仍心寒？从彭宇案到今天，近20年困局未解。下次看到老人摔倒，你还敢扶吗？评论区聊聊👇 信源一：央广网｜《纠偏不止于退款！帮扶老人反被索赔，还有这些要说清楚》｜2026 年 8 月 25 日 http://news.cnr.cn/dj/20260825/t20260825_527791008.shtml 信源二：九派新闻｜《\"扶老人被索赔\" 事件完整监控视频公开，有关部门确认",
+        "bvid": "BV1wD8d6rEqD",
+        "author": "魏武挥鞭否",
+        "duration": "10:7",
+        "cover": "//i0.hdslb.com/bfs/archive/df7af00bcb9ec28eefcb4fa5189fb845dc82e1ee.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wD8d6rEqD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "扶不扶的困局为何难解决"
+      },
+      {
+        "title": "星际外卖员：你只迟到了3秒，也被扇了一巴掌【AI全民制作人】",
+        "url": "https://www.bilibili.com/video/BV1uth56uEz3",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "自从地球普及了星级跃迁。星际送外卖成为了风口。而你，今天接了三单外卖...",
+        "content": "自从地球普及了星级跃迁。星际送外卖成为了风口。而你，今天接了三单外卖...",
+        "bvid": "BV1uth56uEz3",
+        "author": "科学宇宙锋轮",
+        "duration": "5:9",
+        "cover": "//i2.hdslb.com/bfs/archive/2c5be6a588546e5ac86cea39abf63d4858f1254c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uth56uEz3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "当我给外星人送外卖"
+      },
+      {
+        "title": "《GTA6》新预告看爽了！这就是游戏工业的顶点【核电波速通版EP.05】",
+        "url": "https://www.bilibili.com/video/BV1Eytc6gEr9",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "搓这条视频的时候馆长一直在发低烧，包括截至到发布前仍在持续……但毕竟老的这款新游，恐怕是有史以来和馆长专业最对口的游戏了，所以馆长还是尽可能快的做出解析，希望看到的小伙伴三连支持一下……",
-        "content": "搓这条视频的时候馆长一直在发低烧，包括截至到发布前仍在持续……但毕竟老的这款新游，恐怕是有史以来和馆长专业最对口的游戏了，所以馆长还是尽可能快的做出解析，希望看到的小伙伴三连支持一下……",
-        "bvid": "BV1fQ496nEs7",
-        "author": "馆长刘下饭_环球档案",
-        "duration": "8:46",
-        "cover": "//i0.hdslb.com/bfs/archive/801fc017c3f699949fb91f2a810398141a366a85.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fQ496nEs7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "用世界神话地图解析源初之结"
+        "description": "欢迎收看“核电波速通版”！刚刚看完《GTA6》的加长实机预告，我已抵达游戏工业的顶点。 本期主播：Nadya / Ryoma",
+        "content": "欢迎收看“核电波速通版”！刚刚看完《GTA6》的加长实机预告，我已抵达游戏工业的顶点。 本期主播：Nadya / Ryoma",
+        "bvid": "BV1Eytc6gEr9",
+        "author": "核电波",
+        "duration": "10:42",
+        "cover": "//i0.hdslb.com/bfs/archive/ee3abbc783200c8fc1bb3a394b9b9bd8f18df8a9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Eytc6gEr9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何评价GTA6新预告"
       },
       {
-        "title": "我玩到了！米哈游写实风+虚幻5引擎的游戏《源初之结》PV+战斗系统讲解",
-        "url": "https://www.bilibili.com/video/BV1QrhF6AE1M",
+        "title": "当你突然发现父母是亿万富翁",
+        "url": "https://www.bilibili.com/video/BV1MMhw6eEMt",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "游戏玩过了，PV着实炸裂，玩起来怎么样呢，战斗系统什么样的呢，看视频吧！",
-        "content": "游戏玩过了，PV着实炸裂，玩起来怎么样呢，战斗系统什么样的呢，看视频吧！",
-        "bvid": "BV1QrhF6AE1M",
-        "author": "老戴在此",
-        "duration": "13:54",
-        "cover": "//i2.hdslb.com/bfs/archive/a1a4fc59e932fcdd650886beb36ba0caca45fc68.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QrhF6AE1M&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "源初之结战斗系统讲解"
+        "description": "",
+        "content": "",
+        "bvid": "BV1MMhw6eEMt",
+        "author": "马哥巨离谱",
+        "duration": "4:18",
+        "cover": "//i0.hdslb.com/bfs/archive/88d1b0a31f66910dfb7b225bbd13882010ffd9f4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MMhw6eEMt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "当你突然发现父母是亿万富翁"
       }
     ],
     "qbitai": [
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "广州珠江区涉宅用地80.56亿元成交，溢价率33.02%",
+        "url": "https://m.36kr.com/newsflashes/3958889904651398",
+        "desc": "8月28日，广州有3宗涉宅用地出让，总起始价96.09亿元。其中，海珠区琶洲南区涉宅用地吸引了5家竞买人参与竞拍，经过201轮竞价，最终由华润置地以总价80.56亿元竞得，成交楼面价61423元/㎡，溢价率33.02%。（证券时报）",
+        "cover": "",
+        "date": 1787903463906,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "现货白银涨幅扩大至2%",
         "url": "https://m.36kr.com/newsflashes/3958877626924169",
         "desc": "36氪获悉，现货白银涨幅扩大至2%，报70.65美元/盎司。",
@@ -947,7 +957,7 @@
         "date": 1787902714533,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "Anthropic据悉最早10天后将公布招股书，IPO已至最后冲刺阶段",
@@ -957,7 +967,7 @@
         "date": 1787902503250,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "文件显示SHEIN通过港股IPO筹资17亿美元",
@@ -967,7 +977,7 @@
         "date": 1787901510428,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "软银寻求100亿美元贷款，为投资OpenAI融资债务再融资",
@@ -977,7 +987,7 @@
         "date": 1787901442751,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "财政部：地方附加税拟实行11%—13%的幅度税率",
@@ -987,7 +997,7 @@
         "date": 1787901356870,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "今年前8月市场监管总局已发布服务业国家标准900余项",
@@ -997,7 +1007,7 @@
         "date": 1787901197743,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "途牛：亲子及青年客群构成了暑期出游的主力军",
@@ -1007,7 +1017,7 @@
         "date": 1787901162435,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "品浩：AI融资“过多过快”正在推高债券收益率",
@@ -1017,7 +1027,7 @@
         "date": 1787900839629,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "国家发改委：自8月28日24时起，国内汽、柴油（标准品）价格每吨分别上调375元、360元",
@@ -1027,7 +1037,7 @@
         "date": 1787900561362,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "A股三大指数集体收跌，半导体板块下挫",
@@ -1037,7 +1047,7 @@
         "date": 1787900491589,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "现货白银站上70美元/盎司",
@@ -1047,7 +1057,7 @@
         "date": 1787900192621,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "驭势科技：上半年营业收入1.63亿元，同比增长64.9%",
@@ -1057,7 +1067,7 @@
         "date": 1787899869935,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "Anthropic首款在物理世界运行的AI工具问世",
@@ -1067,7 +1077,7 @@
         "date": 1787899716258,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "深圳前海：鼓励面向低空经济企业开展上市培育、合规辅导及跨境资本服务",
@@ -1077,7 +1087,7 @@
         "date": 1787899355937,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "神舟二十三号航天员乘组圆满完成出舱活动",
@@ -1087,7 +1097,7 @@
         "date": 1787898926576,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "Hy4 preview正式发布",
@@ -1097,7 +1107,7 @@
         "date": 1787898067358,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "亚马逊与瑞典四座风力发电场达成电力供应协议",
@@ -1107,7 +1117,7 @@
         "date": 1787897879000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "常宝股份：目前公司HRSG管产线保持良好运行",
@@ -1117,7 +1127,7 @@
         "date": 1787897399000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "韩国国民年金公团上半年投资回报率达27%",
@@ -1127,25 +1137,15 @@
         "date": 1787897336294,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "Marshall Wace据悉将在日本设办事处，加入其他对冲基金的行列",
-        "url": "https://m.36kr.com/newsflashes/3958744634866824",
-        "desc": "据知情人士透露，管理900亿美元资产的英国资产管理公司Marshall Wace计划明年在日本开设办事处，加入其他对冲基金进军日本的行列。知情人士透露，东京办公室初期规模较小，进驻投资人员。他还补充说，待监管部门批准后，该办事处可能在2027年下半年开业。Marshall Wace长期以来一直在亚洲进行交易，其中日本是其关键市场。该公司于2006年在香港开设了办事处，将其开创性的系统化TOPS市场中性策略引进该地区，该策略旨在搜集股票销售人员的构想。目前，该公司仍在运行着一项专注于日本的策略。（新浪财经）",
-        "cover": "",
-        "date": 1787896620000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787902863210,
-    "bilibili": 1787901191685,
-    "qbitai": 1787902895076,
-    "36kr": 1787902895386
+    "thepaper": 1787903764093,
+    "bilibili": 1787902993203,
+    "qbitai": 1787903803152,
+    "36kr": 1787903803490
   },
   "failures": {}
 }
