@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T04:56:35Z",
+  "updatedAt": "2026-08-28T05:11:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -183,26 +183,26 @@
         "description": "依然i土木tv",
         "content": "依然i土木tv",
         "bvid": "BV1oi4R6nEd1",
-        "author": "小小段砸",
+        "author": "",
         "duration": "3:37",
         "cover": "//i2.hdslb.com/bfs/archive/18fc9444b7c359d589abb6ee46dffda1d66dad1e.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oi4R6nEd1&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "土木学生迎来第二春"
       },
       {
-        "title": "《GTA6》全新加长版预告 Grand Theft Auto VI_ An Extended Look",
-        "url": "https://www.bilibili.com/video/BV19K4f64EYB",
+        "title": "🏖️《GTA6》26分钟深度演示预告！任务、驾驶、射击等海量信息！",
+        "url": "https://www.bilibili.com/video/BV1Nr4Z6yEoS",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "《GTA6》全新加长版预告 Grand Theft Auto VI_ An Extended Look 侠盗猎车手6 分量十足的一瞥 4K版本见P2",
-        "content": "《GTA6》全新加长版预告 Grand Theft Auto VI_ An Extended Look 侠盗猎车手6 分量十足的一瞥 4K版本见P2",
-        "bvid": "BV19K4f64EYB",
-        "author": "远鉴字幕组",
-        "duration": "83:19",
-        "cover": "//i0.hdslb.com/bfs/archive/831d0da6c7c146615037d9d632c930a5a85682e8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19K4f64EYB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "https://www.rockstargames.com/",
+        "content": "https://www.rockstargames.com/",
+        "bvid": "BV1Nr4Z6yEoS",
+        "author": "游戏星GameStar",
+        "duration": "26:46",
+        "cover": "//i0.hdslb.com/bfs/archive/177fa411495ceeb3d9346a5b6dfab7029c49f8cc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nr4Z6yEoS&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "GTA6新预告片"
       },
       {
@@ -940,6 +940,26 @@
         "rank": 3
       },
       {
+        "title": "特朗普政府钨废料出口禁令正式生效，美国钨矿股本月暴涨",
+        "url": "https://m.36kr.com/newsflashes/3958691919084935",
+        "desc": "当地时间本周四，美国特朗普政府对钨废料及电池碎料的出口禁令正式生效，这成为了美方将关键战略资源保留在本土的最新举措。而在美股市场上，部分美股钨矿股则在本月迎来了大涨。行情数据显示，钨矿商Almonty Industries的股价周四再度大涨了3.6%，本月有望创下自2025年6月以来的最佳单月表现，迄今涨幅已高达70%。另一家钨矿企业American Tungsten的股价本月迄今亦大幅上涨。（财联社）",
+        "cover": "",
+        "date": 1787893867000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "Omdia：预计2028年AI ASIC出货量将超过GPU",
+        "url": "https://m.36kr.com/newsflashes/3958690153954436",
+        "desc": "36氪获悉，Omdia最新的预测分析显示，2028年定制AI ASIC的出货量将超过GPU。Omdia预计，2028年AI ASIC出货量将达到1050万颗，而GPU出货量为1010万颗。Omdia数据显示，从收入来看，情况则有所不同：GPU收入预计将一直领先至2032年，不过两者之间的差距将从2029年开始逐步缩小。其背后的基本逻辑很简单：GPU价格非常高，且仍在上涨，这一因素目前足以抵消AI ASIC更快的出货量增长。",
+        "cover": "",
+        "date": 1787893239000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "香港交易所将于希音上市日向投资者提供多项产品选择",
         "url": "https://m.36kr.com/newsflashes/3958684550888834",
         "desc": "36氪获悉，香港交易所今天宣布，将于希音国际控股有限公司在2026年9月1日上市时，推出下列产品和措施：一、希音每周及每月期权将于2026年9月1日希音股份上市日同日推出；二、与希音股份相关的衍生权证可于该股份在香港交易所证券市场上市当日挂牌；三、希音股份于2026年9月1日在香港交易所上市后，将于同日纳入可进行卖空的指定证券名单。",
@@ -947,7 +967,7 @@
         "date": 1787892718000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "全国用电负荷四创历史新高，最高达15.57亿千瓦",
@@ -957,7 +977,7 @@
         "date": 1787892205000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "龙湖集团：上半年公司拥有人应占溢利为19.6亿元",
@@ -967,7 +987,7 @@
         "date": 1787891786000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "上海莱士：广西莱士目前处于试生产阶段，尚未正式投产",
@@ -977,7 +997,7 @@
         "date": 1787891246000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "茶百道：上半年营收利润双增长",
@@ -987,7 +1007,7 @@
         "date": 1787891075557,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "恩华药业：获得布瑞哌唑片药品注册证书",
@@ -997,7 +1017,7 @@
         "date": 1787890581000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "恒指午间休盘涨0.47%，恒生科技指数涨0.6%",
@@ -1007,7 +1027,7 @@
         "date": 1787889843069,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "“Popi AI”完成种子轮融资",
@@ -1017,7 +1037,7 @@
         "date": 1787889313000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "半日主力资金加仓基础化工板块，抛售电子股",
@@ -1027,7 +1047,7 @@
         "date": 1787888751000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "A股三大指数午间休盘涨跌不一，万邦医药跌超13%",
@@ -1037,7 +1057,7 @@
         "date": 1787888056097,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "老板电器研发加码：AI岗位同比增长47%，上半年有效专利561件",
@@ -1047,7 +1067,7 @@
         "date": 1787887610660,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "华为云联合多家上市公司发起“华为云码道中国行”",
@@ -1057,7 +1077,7 @@
         "date": 1787887551000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "阿里吴泳铭入选《时代》全球AI百大人物",
@@ -1067,7 +1087,7 @@
         "date": 1787887246288,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "德方纳米：预计补锂增强剂产品全年将保持高速增长趋势",
@@ -1077,7 +1097,7 @@
         "date": 1787887149000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "曙光8000亮相数博会，支持FP64至INT8多种精度运算",
@@ -1087,7 +1107,7 @@
         "date": 1787886885000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "国家药监局副局长杨胜赴江苏调研，鼓励支持创新药发展工作",
@@ -1097,7 +1117,7 @@
         "date": 1787886620000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "高途集团：第二季度实现收入16.70亿元，同比增长20.2%",
@@ -1107,7 +1127,7 @@
         "date": 1787886027445,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "三大指数全部翻绿",
@@ -1117,35 +1137,15 @@
         "date": 1787885864096,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "北京：推动人工智能、机器人等成为外贸发展的新动能",
-        "url": "https://m.36kr.com/newsflashes/3958598437289344",
-        "desc": "北京市副市长唐文弘在国新办新闻发布会上表示，面向“十五五”，我们将持续深化高水平对外开放，也就是以开放促改革促发展。一是积极扩大自主开放，推动服务业扩大开放综合示范区建设迭代升级。二是推动贸易创新发展。充分发挥北京科技创新和数字经济发展优势，推动人工智能、机器人等成为北京外贸发展的新动能；高标准建设国家服务贸易创新发展示范区、国家数字贸易示范区。三是提升双向投资合作水平。把开放机遇充分转化成发展红利，用“好政策+好服务”，支持外资企业深度融入北京现代化产业体系建设；做深做强北京海外综合服务平台，提升对外投资的质量与水平，促进开放合作、互惠共享。（证券时报）",
-        "cover": "",
-        "date": 1787885674150,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "华为轮值董事长徐直军：预计鸿蒙生态今年年底突破1亿用户",
-        "url": "https://m.36kr.com/newsflashes/3958588563766406",
-        "desc": "在鸿蒙生态大会2026上，华为轮值董事长徐直军表示，当前鸿蒙原生应用突破10万个，在HarmonyOS手机上可获取的应用超过40万个。截至8月20日，装载HarmonyOS 6终端设备数已突破8000万台，预计今年第四季度突破1亿用户。这意味着，鸿蒙生态今年年底突破1亿用户的规模临界点，进入增长新阶段。（财联社）",
-        "cover": "",
-        "date": 1787885539000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787892961465,
-    "bilibili": 1787892970055,
-    "qbitai": 1787892995420,
-    "36kr": 1787892995997
+    "thepaper": 1787893861272,
+    "bilibili": 1787892413078,
+    "qbitai": 1787893893104,
+    "36kr": 1787893893473
   },
   "failures": {}
 }
