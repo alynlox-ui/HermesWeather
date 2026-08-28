@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T15:26:30Z",
+  "updatedAt": "2026-08-28T15:41:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "发明可控核聚变能免军训吗"
       },
       {
-        "title": "锐评IG零封TT恭喜IG重归登峰 JIAQI更是顶中顶！",
-        "url": "https://www.bilibili.com/video/BV1b2tw6oENe",
+        "title": "王淞赛后复盘IG 3-0 TT ：今天IG的BP在82开对面，甚至有10-0开的嫌疑！",
+        "url": "https://www.bilibili.com/video/BV1vitP6GETL",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1b2tw6oENe",
-        "author": "中年电竞人",
-        "duration": "7:49",
-        "cover": "//i2.hdslb.com/bfs/archive/a7f3f6a67372a8f425c2ab76b172559ad69df906.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1b2tw6oENe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "王淞赛后复盘IG 3-0 TT",
+        "content": "王淞赛后复盘IG 3-0 TT",
+        "bvid": "BV1vitP6GETL",
+        "author": "borlsese",
+        "duration": "121:10",
+        "cover": "//i1.hdslb.com/bfs/archive/5679018cf39cea293874e38e233e9aa313b3660c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vitP6GETL&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "IG战胜TT LPL第三赛段"
       },
       {
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+        "url": "https://www.qbitai.com/2026/08/480700.html",
+        "desc": "",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/fc9103fe410a934c8e172156a1bbe810.webp",
+        "date": "2026-08-28T23:36:12",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
         "url": "https://www.qbitai.com/2026/08/480666.html",
         "desc": "久久不愿来到台前的智元掌舵人",
@@ -615,7 +625,7 @@
         "date": "2026-08-28T19:13:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
@@ -625,7 +635,7 @@
         "date": "2026-08-28T17:45:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
@@ -635,7 +645,7 @@
         "date": "2026-08-28T15:20:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "首款癌症疫苗，一针300万？？？",
@@ -645,7 +655,7 @@
         "date": "2026-08-28T14:22:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
@@ -655,7 +665,7 @@
         "date": "2026-08-28T14:22:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
@@ -665,7 +675,7 @@
         "date": "2026-08-28T14:13:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
@@ -675,7 +685,7 @@
         "date": "2026-08-28T13:49:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
@@ -685,7 +695,7 @@
         "date": "2026-08-28T12:09:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
@@ -695,7 +705,7 @@
         "date": "2026-08-28T12:06:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
@@ -705,7 +715,7 @@
         "date": "2026-08-28T11:45:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "34克、全天候AI，1996元起，雷鸟iO热卖加速智能眼镜全民普及",
@@ -715,7 +725,7 @@
         "date": "2026-08-28T11:03:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力",
@@ -725,7 +735,7 @@
         "date": "2026-08-28T10:48:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
@@ -735,7 +745,7 @@
         "date": "2026-08-28T09:40:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
@@ -745,7 +755,7 @@
         "date": "2026-08-27T20:16:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
@@ -755,7 +765,7 @@
         "date": "2026-08-27T13:43:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
@@ -765,7 +775,7 @@
         "date": "2026-08-27T10:46:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
@@ -775,7 +785,7 @@
         "date": "2026-08-27T09:45:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
@@ -785,7 +795,7 @@
         "date": "2026-08-27T00:48:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "AI视频应用井喷，美图打开新的增长空间",
@@ -795,7 +805,7 @@
         "date": "2026-08-26T18:18:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
@@ -805,7 +815,7 @@
         "date": "2026-08-26T18:17:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
@@ -815,7 +825,7 @@
         "date": "2026-08-26T18:07:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
@@ -825,7 +835,7 @@
         "date": "2026-08-26T17:17:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
@@ -835,7 +845,7 @@
         "date": "2026-08-26T13:56:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
@@ -845,7 +855,7 @@
         "date": "2026-08-26T13:52:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
@@ -855,7 +865,7 @@
         "date": "2026-08-26T11:25:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法",
@@ -865,7 +875,7 @@
         "date": "2026-08-26T11:02:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案",
@@ -875,7 +885,7 @@
         "date": "2026-08-26T10:59:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
@@ -885,7 +895,7 @@
         "date": "2026-08-26T09:24:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
@@ -893,16 +903,6 @@
         "desc": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/c15744f0e81dd1c22b2926aaf65841a5.jpeg",
         "date": "2026-08-25T17:31:16",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "开源国产8B模型，比肩闭源Image 2了！",
-        "url": "https://www.qbitai.com/2026/08/479192.html",
-        "desc": "SenseNova U1.5 Lite",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/screenshot-20260825-144618-1.png",
-        "date": "2026-08-25T14:53:26",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1787930763558,
-    "bilibili": 1787930766285,
-    "qbitai": 1787930790530,
-    "36kr": 1787930790857
+    "thepaper": 1787931663284,
+    "bilibili": 1787930737822,
+    "qbitai": 1787931695013,
+    "36kr": 1787931695404
   },
   "failures": {}
 }
