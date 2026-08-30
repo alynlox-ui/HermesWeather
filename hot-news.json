@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T04:56:34Z",
+  "updatedAt": "2026-08-30T05:11:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "假面骑士ZZZ完结"
       },
       {
-        "title": "【独家】《记忆管理局》EP06完整版ED正式公开！",
-        "url": "https://www.bilibili.com/video/BV1YY8v6aEhi",
+        "title": "【独家】《记忆管理局》EP07完整版ED正式公开！",
+        "url": "https://www.bilibili.com/video/BV1dRtA6gEMH",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "回不去没关系 ，来不及也没关系，我永远保存着你。 #记忆管理局# EP06完整版ED上线！每周日12:00，锁定bilibili，记得追番哦~",
-        "content": "回不去没关系 ，来不及也没关系，我永远保存着你。 #记忆管理局# EP06完整版ED上线！每周日12:00，锁定bilibili，记得追番哦~",
-        "bvid": "BV1YY8v6aEhi",
+        "description": "“这世界好简单，这空气好喜欢，这大自然好大，就万事如意吧。” 插曲：《飞松》 演唱：@陈粒 锁定bilibili，感谢追番！ #记忆管理局#",
+        "content": "“这世界好简单，这空气好喜欢，这大自然好大，就万事如意吧。” 插曲：《飞松》 演唱：@陈粒 锁定bilibili，感谢追番！ #记忆管理局#",
+        "bvid": "BV1dRtA6gEMH",
         "author": "记忆管理局",
-        "duration": "3:6",
-        "cover": "//i0.hdslb.com/bfs/archive/fc09a6ac9e6809436d735e75d13912c47c1278fb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YY8v6aEhi&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "4:23",
+        "cover": "//i2.hdslb.com/bfs/archive/c60addc37867c92a8499c0916a1d14f6316d240a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dRtA6gEMH&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "记忆管理局关潮启动时间枪"
       },
       {
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "中国双向开放提速加力，外资加码中国消费赛道",
+        "url": "https://m.36kr.com/newsflashes/3961559682317701",
+        "desc": "今年以来，我国扩大高水平对外开放，双向开放提速加力。数据显示，上半年，全国新设外商投资企业3.5万户，同比增长7.0%，吸引外资呈现良好态势，引资结构进一步优化。 从投资区域看，出口大省、沿边省份外商投资企业增长“双轮驱动”。上半年，海南、山东、广东、江苏等出口大省新设外商投资企业增速分别为38.6%、15.2%、8.1%、6.8%；黑龙江、内蒙古、广西、吉林等沿边省份新设外商投资企业增速分别达到79.5%、29.1%、16.6%、12.0%。从投资领域看，消费市场成为吸引外资的新方向。上半年，卫生和社会工作、批发和零售业、住宿和餐饮业新设外商投资企业增速分别为27.1%、11.9%和11.7%，专家表示，多国资本持续加码中国市场，充分体现出国际社会对中国经济、产业创新与营商环境的高度认可。（央视财经）",
+        "cover": "",
+        "date": 1788066414203,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "电影《肖申克的救赎》内地票房破1000万元",
         "url": "https://m.36kr.com/newsflashes/3961517721009282",
         "desc": "据网络数据平台实时数据，截至8月30日11时58分，影片《肖申克的救赎》票房突破1000万元。该片以4K修复版首次登陆中国内地影院，2D、CINITY LED、IMAX版本同步上映。（界面）",
@@ -947,7 +957,7 @@
         "date": 1788064806000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "塞尔维亚首座机器人工厂正式投产，由中塞联合建设",
@@ -957,7 +967,7 @@
         "date": 1788064246000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "国家数据局：探索适配产业实际的词元商业模式",
@@ -967,7 +977,7 @@
         "date": 1788063731200,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "谷歌、OpenAI、Meta正与日本官方机构和本土企业联手，打击激增的网络诈骗案件",
@@ -977,7 +987,7 @@
         "date": 1788060518000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "a16z旗下机器时代基金筹集11亿美元，将投向芯片、机器人等硬件领域",
@@ -987,7 +997,7 @@
         "date": 1788059983984,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "蜜雪冰城会员总量达5亿",
@@ -997,7 +1007,7 @@
         "date": 1788058698000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "北京高端科学仪器与传感器大会举办，发布采购额约4亿元机遇清单",
@@ -1007,7 +1017,7 @@
         "date": 1788057946000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "华为Mate XT 2非凡大师即将发布，余承东：展翼三折叠形态，业界最薄、尺寸最大",
@@ -1017,7 +1027,7 @@
         "date": 1788056835103,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "NASA与SpaceX调整“Crew-13”载人任务发射日期",
@@ -1027,7 +1037,7 @@
         "date": 1788055985000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "洋河股份与京东旗下欧洲线上零售业务Joybuy达成战略合作",
@@ -1037,7 +1047,7 @@
         "date": 1788055066000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "索尼、华纳起诉Anthropic，指控其公然窃取知识产权",
@@ -1047,7 +1057,7 @@
         "date": 1788054322000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "券商中期拟派现金额超273亿元，利润大涨成为分红底气",
@@ -1057,7 +1067,7 @@
         "date": 1788053127000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "SpaceX猎鹰重型火箭已在肯尼迪航天中心39A发射工位完成垂直竖立",
@@ -1067,7 +1077,7 @@
         "date": 1788052529303,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "OpenAI将终止向Cursor提供模型服务，马斯克回应",
@@ -1077,7 +1087,7 @@
         "date": 1788052346118,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "快手内容运营副总裁黄咪咪：两大创作者计划助推好内容生长",
@@ -1087,7 +1097,7 @@
         "date": 1787996378803,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "WPS多维表格“灵感应用”首次亮相：一句自然语言搭出业务应用",
@@ -1097,7 +1107,7 @@
         "date": 1787991303000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "2025年欧盟商业航班数量增至690万架次",
@@ -1107,7 +1117,7 @@
         "date": 1787990428000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "2026暑期全国科技馆累计接待观众超3000万人次",
@@ -1117,7 +1127,7 @@
         "date": 1787989548000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "俄开始量产星链干扰器",
@@ -1127,25 +1137,15 @@
         "date": 1787988639000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "程一笑：快手持续创作超10年的作者超过1700万",
-        "url": "https://m.36kr.com/newsflashes/3960257943895168",
-        "desc": "8月29日，快手科技创始人、董事长兼首席执行官程一笑在2026快手光合创作者大会上表示，目前，快手冷启动流量中，给到万粉以下创作者的占比达到75%。现阶段，每天在快手上发布的作品数量超过5800万；持续发布作品超过10年的创作者已超过1700万。 长期创作也在不断沉淀信任关系。2026年以来，快手上诞生了超过170亿对关注关系，用户年私域人均互动次数超过1300次，私域人均变现效率达到公域的2至3倍。",
-        "cover": "",
-        "date": 1787987730000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788065764536,
-    "bilibili": 1788065773883,
-    "qbitai": 1788065794428,
-    "36kr": 1788065794760
+    "thepaper": 1788066664906,
+    "bilibili": 1788065585974,
+    "qbitai": 1788066694146,
+    "36kr": 1788066694717
   },
   "failures": {}
 }
