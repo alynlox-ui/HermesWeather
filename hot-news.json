@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T08:03:16Z",
+  "updatedAt": "2026-09-01T08:17:59Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -132,16 +132,10 @@
         "rank": 1
       },
       {
-        "title": "实测勇哥自营食堂",
-        "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E5%8B%87%E5%93%A5%E8%87%AA%E8%90%A5%E9%A3%9F%E5%A0%82",
-        "desc": "",
-        "rank": 2
-      },
-      {
         "title": "IG官宣王者荣耀分部成立，IG发布公告正式成立王者荣耀分部，并已顺利通过2027年K甲参赛资质评审，正式迈向K甲赛场！iG将和KGL甲级职业联赛开启新篇章！",
         "url": "https://www.bilibili.com/video/BV1iPtg6tE45",
         "desc": "",
-        "rank": 3,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -152,6 +146,12 @@
         "cover": "//i2.hdslb.com/bfs/archive/e2223473797e53d232611825166cb38793432ba1.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iPtg6tE45&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "IG王者荣耀分部成立"
+      },
+      {
+        "title": "实测勇哥自营食堂",
+        "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E5%8B%87%E5%93%A5%E8%87%AA%E8%90%A5%E9%A3%9F%E5%A0%82",
+        "desc": "",
+        "rank": 3
       },
       {
         "title": "铁豆钢蛋终于见到胡彦斌了",
@@ -176,54 +176,74 @@
         "hotTitle": "JackeyLove单曲大喻治水"
       },
       {
-        "title": "德约科维奇时隔11年重返中网",
-        "url": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E6%97%B6%E9%9A%9411%E5%B9%B4%E9%87%8D%E8%BF%94%E4%B8%AD%E7%BD%91",
+        "title": "中期越无望，懂王越疯狂：伊朗和加拿大都没搞定的特朗普还能怎么赢？",
+        "url": "https://www.bilibili.com/video/BV1X2tb6rE3Z",
         "desc": "",
-        "rank": 6
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "特朗普必须证明自己没有做错。",
+        "content": "特朗普必须证明自己没有做错。",
+        "bvid": "BV1X2tb6rE3Z",
+        "author": "军武志",
+        "duration": "19:54",
+        "cover": "//i0.hdslb.com/bfs/archive/91537e4d8b00169e111ffd85401b61a7f261f149.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1X2tb6rE3Z&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "美国中期选举特朗普能赢吗"
       },
       {
-        "title": "史诗级抽象大战！蜜蜂vs菊花！blast波尔图抽象合集第三期",
-        "url": "https://www.bilibili.com/video/BV1mztu6yE4g",
+        "title": "美网首轮出局！39岁德约科维奇泪洒赛场，他准备退役了？",
+        "url": "https://www.bilibili.com/video/BV1iqtb6mE2R",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1mztu6yE4g",
-        "author": "善一cs2荤素搭配版",
-        "duration": "1:56",
-        "cover": "//i0.hdslb.com/bfs/archive/c73ef165dfdafbcaea44b0442305a51a64b1a518.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mztu6yE4g&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLAST波尔图抽象合集第三期"
+        "description": "美网首轮出局！39岁德约科维奇泪洒赛场，他准备退役了？",
+        "content": "美网首轮出局！39岁德约科维奇泪洒赛场，他准备退役了？",
+        "bvid": "BV1iqtb6mE2R",
+        "author": "球星观察员",
+        "duration": "1:21",
+        "cover": "//i1.hdslb.com/bfs/archive/9fd0ef7768c5b65b48a518bb42bcfab87177d32a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iqtb6mE2R&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "德约科维奇时隔11年重返中网"
       },
       {
-        "title": "吉隆“8·26”泥石流灾害哀悼活动在西藏吉隆举行",
-        "url": "https://www.bilibili.com/video/BV1ShtT6VE5F",
+        "title": "LPL季后赛篇看点合集",
+        "url": "https://search.bilibili.com/all?keyword=LPL%E5%AD%A3%E5%90%8E%E8%B5%9B%E7%AF%87%E7%9C%8B%E7%82%B9%E5%90%88%E9%9B%86",
         "desc": "",
-        "rank": 8,
+        "rank": 8
+      },
+      {
+        "title": "【KPL夏季赛二路解说合集】8月30日 广州TTG vs 北京JDG",
+        "url": "https://www.bilibili.com/video/BV114tH6GEzZ",
+        "desc": "",
+        "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "新华社西藏吉隆9月1日电 9月1日上午9时55分，西藏自治区在日喀则市公安局吉隆口岸分局举行遇难者哀悼活动，泥石流灾害救援现场、道路抢通现场等同步举行，多方人员、地方干部群众等参与哀悼活动。",
-        "content": "新华社西藏吉隆9月1日电 9月1日上午9时55分，西藏自治区在日喀则市公安局吉隆口岸分局举行遇难者哀悼活动，泥石流灾害救援现场、道路抢通现场等同步举行，多方人员、地方干部群众等参与哀悼活动。",
-        "bvid": "BV1ShtT6VE5F",
-        "author": "新华社",
-        "duration": "0:44",
-        "cover": "//i0.hdslb.com/bfs/archive/e4ee75f7d7618ab7e3c5ebbc9fd1ed5594ecdd3b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ShtT6VE5F&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "西藏吉隆举行泥石流灾害哀悼活动"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV114tH6GEzZ",
+        "author": "kpl二路",
+        "duration": "4594:22",
+        "cover": "//i2.hdslb.com/bfs/archive/a58641ff42075edc52583f349aa20de29027604e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV114tH6GEzZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "KPL系列团综回归"
       },
       {
-        "title": "混乱版华强买瓜",
-        "url": "https://search.bilibili.com/all?keyword=%E6%B7%B7%E4%B9%B1%E7%89%88%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C",
+        "title": "原创AI剧集《这是我的世界》第一季 | 异世界篇合集",
+        "url": "https://www.bilibili.com/video/BV1Qk4C62EEn",
         "desc": "",
-        "rank": 9
-      },
-      {
-        "title": "美军高层集体表态伊朗打不动了",
-        "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E9%AB%98%E5%B1%82%E9%9B%86%E4%BD%93%E8%A1%A8%E6%80%81%E4%BC%8A%E6%9C%97%E6%89%93%E4%B8%8D%E5%8A%A8%E4%BA%86",
-        "desc": "",
-        "rank": 10
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《这是我的世界》最初就是因为B站而起意，所以第一季结束之后，我还是想在这里做一个完整的收束。 这一季在B站的流量不算高，内容或许也未必完全适合这里，但我依然遇到了很多很好的观众，也看到了不少认真、具体，甚至会让我重新思考创作的评论。对我来说，这些都很有价值。 谢谢一直看到这里的人。 这次发布的是第一季完整合集，很多镜头、节奏和细节都重新做了修正，也补充了一些之前版本里没有的内容。 如果之前是跟着单集一路看过来的，我依然建议再完整看一次。 第一季，到这里正式结束。",
+        "content": "《这是我的世界》最初就是因为B站而起意，所以第一季结束之后，我还是想在这里做一个完整的收束。 这一季在B站的流量不算高，内容或许也未必完全适合这里，但我依然遇到了很多很好的观众，也看到了不少认真、具体，甚至会让我重新思考创作的评论。对我来说，这些都很有价值。 谢谢一直看到这里的人。 这次发布的是第一季完整合集，很多镜头、节奏和细节都重新做了修正，也补充了一些之前版本里没有的内容。 如果之前是跟着单集一路看过来的，我依然建议再完整看一次。 第一季，到这里正式结束。",
+        "bvid": "BV1Qk4C62EEn",
+        "author": "林杉导演AI工作室",
+        "duration": "71:11",
+        "cover": "//i1.hdslb.com/bfs/archive/5e79f15e65e3c1934937656f3b9f79f6dd7b170c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qk4C62EEn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "用AI手搓异世界剧集"
       },
       {
         "title": "花少2全网重新考古",
@@ -232,142 +252,16 @@
         "rank": 11
       },
       {
-        "title": "以赛亚托马斯巅峰有多强",
-        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E8%B5%9B%E4%BA%9A%E6%89%98%E9%A9%AC%E6%96%AF%E5%B7%85%E5%B3%B0%E6%9C%89%E5%A4%9A%E5%BC%BA",
+        "title": "8月全球时政财经热点回顾",
+        "url": "https://search.bilibili.com/all?keyword=8%E6%9C%88%E5%85%A8%E7%90%83%E6%97%B6%E6%94%BF%E8%B4%A2%E7%BB%8F%E7%83%AD%E7%82%B9%E5%9B%9E%E9%A1%BE",
         "desc": "",
         "rank": 12
-      },
-      {
-        "title": "三代鹿人聊记忆管理局",
-        "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BB%A3%E9%B9%BF%E4%BA%BA%E8%81%8A%E8%AE%B0%E5%BF%86%E7%AE%A1%E7%90%86%E5%B1%80",
-        "desc": "",
-        "rank": 13
-      },
-      {
-        "title": "开学自我介绍指南",
-        "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D%E6%8C%87%E5%8D%97",
-        "desc": "",
-        "rank": 14
-      },
-      {
-        "title": "一条视频看8月：债务和土地，中美旧账单到期，全世界开始找备选方案【地球村月刊】",
-        "url": "https://www.bilibili.com/video/BV1AetW6LEZz",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "一键三连推荐给更多朋友！",
-        "content": "一键三连推荐给更多朋友！",
-        "bvid": "BV1AetW6LEZz",
-        "author": "小王Albert",
-        "duration": "22:26",
-        "cover": "//i1.hdslb.com/bfs/archive/6419125c1b8bb076851f04fa890b6a76e48053e7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AetW6LEZz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "8月全球时政财经热点回顾"
-      },
-      {
-        "title": "一饭封神大厨私藏宝藏小店",
-        "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E%E5%A4%A7%E5%8E%A8%E7%A7%81%E8%97%8F%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%BA%97",
-        "desc": "",
-        "rank": 16
-      },
-      {
-        "title": "巨作完结！我们的少年时代2为什么让我无法自拔",
-        "url": "https://www.bilibili.com/video/BV1g4tt6iEGz",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "小四四们的演技让影视界更加漏水",
-        "content": "小四四们的演技让影视界更加漏水",
-        "bvid": "BV1g4tt6iEGz",
-        "author": "接二连珊妄想症",
-        "duration": "11:22",
-        "cover": "//i2.hdslb.com/bfs/archive/a8fc8030bb0ebae159004fa9230a9c2f257add14.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1g4tt6iEGz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "锐评我们的少年时代2"
-      },
-      {
-        "title": "没坦克也没士兵，乌克兰这次阅兵有点不一样……",
-        "url": "https://www.bilibili.com/video/BV1kMt864EKB",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "8月24日，乌克兰独立35周年之际，一场不同寻常的阅兵式出现在乌克兰首都基辅。没有传统的坦克方阵，也没有整齐行进的士兵，只有涵盖陆海空多型无人装备。（兵器面面观）",
-        "content": "8月24日，乌克兰独立35周年之际，一场不同寻常的阅兵式出现在乌克兰首都基辅。没有传统的坦克方阵，也没有整齐行进的士兵，只有涵盖陆海空多型无人装备。（兵器面面观）",
-        "bvid": "BV1kMt864EKB",
-        "author": "央视军事",
-        "duration": "5:38",
-        "cover": "//i0.hdslb.com/bfs/archive/def064c0f455e8d16ffad831b7ba47e201ac723d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kMt864EKB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "乌克兰无人军火阅兵"
-      },
-      {
-        "title": "1.6万人同唱，龚琳娜现场全开麦！《剑网3》十七周年庆典全程回顾上线",
-        "url": "https://www.bilibili.com/video/BV1FXt864EDe",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《剑网3》十七周年庆典盛宴已圆满落幕！幸与诸君同行，万象新程，共赴此约！十七周年庆典回顾今日为君献上~",
-        "content": "《剑网3》十七周年庆典盛宴已圆满落幕！幸与诸君同行，万象新程，共赴此约！十七周年庆典回顾今日为君献上~",
-        "bvid": "BV1FXt864EDe",
-        "author": "剑网3",
-        "duration": "184:13",
-        "cover": "//i2.hdslb.com/bfs/archive/30b4e1dc4a01dee22aa0ef2cd2beab94a887ceb9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FXt864EDe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "剑网3十七周年演唱会全程回顾"
-      },
-      {
-        "title": "【我在现代当幽差】EP02 神仙？妖怪？谢谢【UP动画】",
-        "url": "https://www.bilibili.com/video/BV1xttH6rEKu",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "久等了各位，做这么久是因为一直在打磨剧本T.T",
-        "content": "久等了各位，做这么久是因为一直在打磨剧本T.T",
-        "bvid": "BV1xttH6rEKu",
-        "author": "红豆稀饭中",
-        "duration": "9:24",
-        "cover": "//i1.hdslb.com/bfs/archive/26584a1ae9d38b8cb94c8ca600dc7637d2bf43bb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xttH6rEKu&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主动画幽差第二集"
-      },
-      {
-        "title": "小片片解说釜山行导演新作",
-        "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C",
-        "desc": "",
-        "rank": 21
-      },
-      {
-        "title": "UP主自制AI韩剧 漂亮的恶意",
-        "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E9%9F%A9%E5%89%A7%20%E6%BC%82%E4%BA%AE%E7%9A%84%E6%81%B6%E6%84%8F",
-        "desc": "",
-        "rank": 22
-      },
-      {
-        "title": "16人格开学第一天!",
-        "url": "https://www.bilibili.com/video/BV1XNtb6zEPF",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "特别感谢： 绘画： 刺猬 萌幻 G since、 格尔洛斯 灰豆绿 露露子 剪辑： 心雨 发财树 FF Junko 聆尔 雨记 D12 彬彬 配音： 柳知萧 云中鹿饮溪 适燃 凹林 恶霸 冥河 黑狗 冷静 调度： 花椒 感谢你的观看！记得评论三连加关注噢ww",
-        "content": "特别感谢： 绘画： 刺猬 萌幻 G since、 格尔洛斯 灰豆绿 露露子 剪辑： 心雨 发财树 FF Junko 聆尔 雨记 D12 彬彬 配音： 柳知萧 云中鹿饮溪 适燃 凹林 恶霸 冥河 黑狗 冷静 调度： 花椒 感谢你的观看！记得评论三连加关注噢ww",
-        "bvid": "BV1XNtb6zEPF",
-        "author": "王维诗里的MBTI",
-        "duration": "14:7",
-        "cover": "//i0.hdslb.com/bfs/archive/c9ecbb46480a8756711b42bde963fc355e7b8fbd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XNtb6zEPF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "16型人格开学第一天"
       },
       {
         "title": "S级越位划线？不，S形！他们怎么敢这么明目张胆！！#中超 #上海申花vs山东泰山 #买乌郎闪电进球 #咖啡醉足球 #越位划线",
         "url": "https://www.bilibili.com/video/BV14nth6MExu",
         "desc": "",
-        "rank": 24,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "S级越位划线？不，S形！他们怎么敢这么明目张胆！！#中超 #上海申花vs山东泰山 #买乌郎闪电进球 #咖啡醉足球 #越位划线",
@@ -380,58 +274,164 @@
         "hotTitle": "申花泰山S形越位线争议"
       },
       {
-        "title": "老叟戏顽童，但是军备竞赛",
-        "url": "https://www.bilibili.com/video/BV1jDtx6GErd",
+        "title": "吉隆“8·26”泥石流灾害哀悼活动在西藏吉隆举行",
+        "url": "https://www.bilibili.com/video/BV1ShtT6VE5F",
         "desc": "",
-        "rank": 25,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "视频灵感来源：@修2 喜欢的点个赞支持吧",
-        "content": "视频灵感来源：@修2 喜欢的点个赞支持吧",
-        "bvid": "BV1jDtx6GErd",
-        "author": "惜缘、过去",
-        "duration": "2:1",
-        "cover": "//i2.hdslb.com/bfs/archive/0e9be1c177024dcb40d3ec67db9b6dc2831268d7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jDtx6GErd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "老叟戏顽童但是军备竞赛"
+        "description": "新华社西藏吉隆9月1日电 9月1日上午9时55分，西藏自治区在日喀则市公安局吉隆口岸分局举行遇难者哀悼活动，泥石流灾害救援现场、道路抢通现场等同步举行，多方人员、地方干部群众等参与哀悼活动。",
+        "content": "新华社西藏吉隆9月1日电 9月1日上午9时55分，西藏自治区在日喀则市公安局吉隆口岸分局举行遇难者哀悼活动，泥石流灾害救援现场、道路抢通现场等同步举行，多方人员、地方干部群众等参与哀悼活动。",
+        "bvid": "BV1ShtT6VE5F",
+        "author": "新华社",
+        "duration": "0:44",
+        "cover": "//i0.hdslb.com/bfs/archive/e4ee75f7d7618ab7e3c5ebbc9fd1ed5594ecdd3b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ShtT6VE5F&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "西藏吉隆举行泥石流灾害哀悼活动"
+      },
+      {
+        "title": "以赛亚托马斯巅峰有多强",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E8%B5%9B%E4%BA%9A%E6%89%98%E9%A9%AC%E6%96%AF%E5%B7%85%E5%B3%B0%E6%9C%89%E5%A4%9A%E5%BC%BA",
+        "desc": "",
+        "rank": 15
+      },
+      {
+        "title": "巨作完结！我们的少年时代2为什么让我无法自拔",
+        "url": "https://www.bilibili.com/video/BV1g4tt6iEGz",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "小四四们的演技让影视界更加漏水",
+        "content": "小四四们的演技让影视界更加漏水",
+        "bvid": "BV1g4tt6iEGz",
+        "author": "接二连珊妄想症",
+        "duration": "11:22",
+        "cover": "//i2.hdslb.com/bfs/archive/a8fc8030bb0ebae159004fa9230a9c2f257add14.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1g4tt6iEGz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "锐评我们的少年时代2"
+      },
+      {
+        "title": "【我在现代当幽差】EP02 神仙？妖怪？谢谢【UP动画】",
+        "url": "https://www.bilibili.com/video/BV1xttH6rEKu",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "久等了各位，做这么久是因为一直在打磨剧本T.T",
+        "content": "久等了各位，做这么久是因为一直在打磨剧本T.T",
+        "bvid": "BV1xttH6rEKu",
+        "author": "红豆稀饭中",
+        "duration": "9:24",
+        "cover": "//i1.hdslb.com/bfs/archive/26584a1ae9d38b8cb94c8ca600dc7637d2bf43bb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xttH6rEKu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主动画幽差第二集"
       },
       {
         "title": "救援人员在口岸联检大楼地毯式搜救",
         "url": "https://search.bilibili.com/all?keyword=%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E5%9C%A8%E5%8F%A3%E5%B2%B8%E8%81%94%E6%A3%80%E5%A4%A7%E6%A5%BC%E5%9C%B0%E6%AF%AF%E5%BC%8F%E6%90%9C%E6%95%91",
         "desc": "",
-        "rank": 26
+        "rank": 18
       },
       {
-        "title": "南方开学 vs 北方开学",
-        "url": "https://www.bilibili.com/video/BV1matt6AEqt",
+        "title": "三代鹿人聊记忆管理局",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BB%A3%E9%B9%BF%E4%BA%BA%E8%81%8A%E8%AE%B0%E5%BF%86%E7%AE%A1%E7%90%86%E5%B1%80",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "16人格开学第一天!",
+        "url": "https://www.bilibili.com/video/BV1XNtb6zEPF",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "特别感谢： 绘画： 刺猬 萌幻 G since、 格尔洛斯 灰豆绿 露露子 剪辑： 心雨 发财树 FF Junko 聆尔 雨记 D12 彬彬 配音： 柳知萧 云中鹿饮溪 适燃 凹林 恶霸 冥河 黑狗 冷静 调度： 花椒 感谢你的观看！记得评论三连加关注噢ww",
+        "content": "特别感谢： 绘画： 刺猬 萌幻 G since、 格尔洛斯 灰豆绿 露露子 剪辑： 心雨 发财树 FF Junko 聆尔 雨记 D12 彬彬 配音： 柳知萧 云中鹿饮溪 适燃 凹林 恶霸 冥河 黑狗 冷静 调度： 花椒 感谢你的观看！记得评论三连加关注噢ww",
+        "bvid": "BV1XNtb6zEPF",
+        "author": "王维诗里的MBTI",
+        "duration": "14:7",
+        "cover": "//i0.hdslb.com/bfs/archive/c9ecbb46480a8756711b42bde963fc355e7b8fbd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XNtb6zEPF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "16型人格开学第一天"
+      },
+      {
+        "title": "混乱版华强买瓜",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B7%B7%E4%B9%B1%E7%89%88%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C",
+        "desc": "",
+        "rank": 21
+      },
+      {
+        "title": "开学自我介绍指南",
+        "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D%E6%8C%87%E5%8D%97",
+        "desc": "",
+        "rank": 22
+      },
+      {
+        "title": "小片片解说釜山行导演新作",
+        "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%B4%E9%87%9C%E5%B1%B1%E8%A1%8C%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C",
+        "desc": "",
+        "rank": 23
+      },
+      {
+        "title": "一饭封神大厨私藏宝藏小店",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E%E5%A4%A7%E5%8E%A8%E7%A7%81%E8%97%8F%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%BA%97",
+        "desc": "",
+        "rank": 24
+      },
+      {
+        "title": "剑网3十七周年演唱会全程回顾",
+        "url": "https://search.bilibili.com/all?keyword=%E5%89%91%E7%BD%913%E5%8D%81%E4%B8%83%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%A8%E7%A8%8B%E5%9B%9E%E9%A1%BE",
+        "desc": "",
+        "rank": 25
+      },
+      {
+        "title": "【解析】宝马为何拒绝F1？",
+        "url": "https://www.bilibili.com/video/BV1Gptt6uEok",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "宝马M部门负责人范·米尔近日接受采访时再次明确表示，宝马不会回归F1。 过去十几年，每当F1迎来新的规则周期，每当制造商有机会重新进入这项运动，宝马都被反复问过同一个问题，你们要不要回来？而宝马给出的答案始终只有一个。不。 作为德国三大豪华品牌之一，梅奔已经拿到八个冠军，奥迪也在今年重返围场，而宝马不仅不回来，好像还很抗拒，要知道最近几年F1越来越火，奥迪、福特、凯迪拉克一个接一个加入，甚至连保时捷都曾认真考虑过和红牛合作，现在的F1，只要你进来，基本就不会赔钱，每年的奖金分成再加上F1对自家品牌的宣传，",
+        "content": "宝马M部门负责人范·米尔近日接受采访时再次明确表示，宝马不会回归F1。 过去十几年，每当F1迎来新的规则周期，每当制造商有机会重新进入这项运动，宝马都被反复问过同一个问题，你们要不要回来？而宝马给出的答案始终只有一个。不。 作为德国三大豪华品牌之一，梅奔已经拿到八个冠军，奥迪也在今年重返围场，而宝马不仅不回来，好像还很抗拒，要知道最近几年F1越来越火，奥迪、福特、凯迪拉克一个接一个加入，甚至连保时捷都曾认真考虑过和红牛合作，现在的F1，只要你进来，基本就不会赔钱，每年的奖金分成再加上F1对自家品牌的宣传，",
+        "bvid": "BV1Gptt6uEok",
+        "author": "解方程F1",
+        "duration": "10:1",
+        "cover": "//i0.hdslb.com/bfs/archive/a8cb36fbe7b54f0234f2d916dfd38c60b4aa8583.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Gptt6uEok&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "宝马为何拒绝F1"
+      },
+      {
+        "title": "华强买瓜，但郝哥能控制AI",
+        "url": "https://www.bilibili.com/video/BV1reth6tEFm",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "让我在评论区康康兄弟们都开学了吗？",
-        "content": "让我在评论区康康兄弟们都开学了吗？",
-        "bvid": "BV1matt6AEqt",
-        "author": "进击的金厂长",
-        "duration": "2:5",
-        "cover": "//i1.hdslb.com/bfs/archive/0f6b832860d1edd73dca306f175005ea953a82db.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1matt6AEqt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "南方开学vs北方开学"
+        "description": "郝哥偶然间发现了AI世界的内幕，有了自由操控AI的能力，想必一定能逃离华强的魔爪。",
+        "content": "郝哥偶然间发现了AI世界的内幕，有了自由操控AI的能力，想必一定能逃离华强的魔爪。",
+        "bvid": "BV1reth6tEFm",
+        "author": "伊介书生",
+        "duration": "7:18",
+        "cover": "//i2.hdslb.com/bfs/archive/c6a46080031546e3dd9717e628293993d998279f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1reth6tEFm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "华强买瓜 但郝哥能控制AI"
       },
       {
-        "title": "IG危险了！Tangyuan究竟有多强？万字复盘LGD战胜TES背后的原因！",
-        "url": "https://www.bilibili.com/video/BV1cStT6cEAK",
+        "title": "没坦克也没士兵，乌克兰这次阅兵有点不一样……",
+        "url": "https://www.bilibili.com/video/BV1kMt864EKB",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1cStT6cEAK",
-        "author": "分析师蓝宝石",
-        "duration": "23:13",
-        "cover": "//i1.hdslb.com/bfs/archive/4bd4845f648fd13672dd25e5d14acbf226a29b61.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cStT6cEAK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "万字复盘LGD战胜TES"
+        "description": "8月24日，乌克兰独立35周年之际，一场不同寻常的阅兵式出现在乌克兰首都基辅。没有传统的坦克方阵，也没有整齐行进的士兵，只有涵盖陆海空多型无人装备。（兵器面面观）",
+        "content": "8月24日，乌克兰独立35周年之际，一场不同寻常的阅兵式出现在乌克兰首都基辅。没有传统的坦克方阵，也没有整齐行进的士兵，只有涵盖陆海空多型无人装备。（兵器面面观）",
+        "bvid": "BV1kMt864EKB",
+        "author": "央视军事",
+        "duration": "5:38",
+        "cover": "//i0.hdslb.com/bfs/archive/def064c0f455e8d16ffad831b7ba47e201ac723d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kMt864EKB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "乌克兰无人军火阅兵"
       },
       {
         "title": "在MC里玩逃离疯人院",
@@ -440,23 +440,23 @@
         "rank": 29
       },
       {
-        "title": "《B 界 修 仙 传：长 篇 电 影》",
-        "url": "https://www.bilibili.com/video/BV1be426SEn7",
+        "title": "实地探访洪水过后的广西崇左",
+        "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E7%9A%84%E5%B9%BF%E8%A5%BF%E5%B4%87%E5%B7%A6",
         "desc": "",
-        "rank": 30,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《B界修仙传》01-12电影合集来啦，助兄弟们爽看！！！投币催更后续精彩内容！！！！！！！！！",
-        "content": "《B界修仙传》01-12电影合集来啦，助兄弟们爽看！！！投币催更后续精彩内容！！！！！！！！！",
-        "bvid": "BV1be426SEn7",
-        "author": "进击的金厂长",
-        "duration": "99:14",
-        "cover": "//i1.hdslb.com/bfs/archive/2767fbeba412fdabfe9c84f6040b67417571a764.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1be426SEn7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "B界修仙传合集"
+        "rank": 30
       }
     ],
     "qbitai": [
+      {
+        "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+        "url": "https://www.qbitai.com/2026/09/482406.html",
+        "desc": "主打一个明升暗降，理直气壮",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/221fbb1407c8d673c6434d6d08eecec5.webp",
+        "date": "2026-09-01T16:15:40",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
       {
         "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
         "url": "https://www.qbitai.com/2026/09/482337.html",
@@ -465,7 +465,7 @@
         "date": "2026-09-01T13:12:30",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
@@ -475,7 +475,7 @@
         "date": "2026-09-01T12:12:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
@@ -485,7 +485,7 @@
         "date": "2026-08-31T21:20:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "滴滴自动驾驶新一代车型开启载客测试服务",
@@ -495,7 +495,7 @@
         "date": "2026-08-31T15:53:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
@@ -505,7 +505,7 @@
         "date": "2026-08-31T15:34:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "「GPT-6」灰测demo刷屏！周四发布在即",
@@ -515,7 +515,7 @@
         "date": "2026-08-31T12:47:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
@@ -525,7 +525,7 @@
         "date": "2026-08-31T11:24:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
@@ -535,7 +535,7 @@
         "date": "2026-08-31T11:11:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
@@ -545,7 +545,7 @@
         "date": "2026-08-31T11:01:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
@@ -555,7 +555,7 @@
         "date": "2026-08-29T21:11:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "去年归国的徐梦迪，成了清华姚班班主任",
@@ -565,7 +565,7 @@
         "date": "2026-08-29T21:01:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
@@ -575,7 +575,7 @@
         "date": "2026-08-29T20:50:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
@@ -585,7 +585,7 @@
         "date": "2026-08-29T20:26:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
@@ -595,7 +595,7 @@
         "date": "2026-08-29T20:11:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "OpenClaw：红过，爱过，散了",
@@ -605,7 +605,7 @@
         "date": "2026-08-29T20:00:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
@@ -615,7 +615,7 @@
         "date": "2026-08-29T19:35:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
@@ -625,7 +625,7 @@
         "date": "2026-08-28T23:36:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
@@ -635,7 +635,7 @@
         "date": "2026-08-28T19:13:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
@@ -645,7 +645,7 @@
         "date": "2026-08-28T17:45:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
@@ -655,7 +655,7 @@
         "date": "2026-08-28T15:20:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "首款癌症疫苗，一针300万？？？",
@@ -665,7 +665,7 @@
         "date": "2026-08-28T14:22:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
@@ -675,7 +675,7 @@
         "date": "2026-08-28T14:22:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
@@ -685,7 +685,7 @@
         "date": "2026-08-28T14:13:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
@@ -695,7 +695,7 @@
         "date": "2026-08-28T13:49:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
@@ -705,7 +705,7 @@
         "date": "2026-08-28T12:09:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
@@ -715,7 +715,7 @@
         "date": "2026-08-28T12:06:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
@@ -725,7 +725,7 @@
         "date": "2026-08-28T11:45:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "34克、全天候AI，1996元起，雷鸟iO热卖加速智能眼镜全民普及",
@@ -735,7 +735,7 @@
         "date": "2026-08-28T11:03:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力",
@@ -743,16 +743,6 @@
         "desc": "8月27日，网易有道正式发布OpenPods有道AI耳机。",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/a072e38fb1e31ca146763620d7e08060-e1787826626915.png",
         "date": "2026-08-28T10:48:37",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
-        "url": "https://www.qbitai.com/2026/08/480186.html",
-        "desc": "Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/0e2c53e01b5fd9eaffbb4ec2d315707e.png",
-        "date": "2026-08-28T09:40:22",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -800,6 +790,26 @@
         "rank": 4
       },
       {
+        "title": "恒指收盘跌0.93%，恒生科技指数跌1.49%",
+        "url": "https://m.36kr.com/newsflashes/3964572648627457",
+        "desc": "36氪获悉，恒指收跌0.93%，恒生科技指数跌1.49%；可选消费、软件服务板块跌幅居前，珞石机器人跌超18%，希音上市首日跌0.12%；银行、造纸与包装板块领涨，阳光纸业涨超7%，邮储银行涨超2%；南向资金净买入77.57亿港元。",
+        "cover": "",
+        "date": 1788250311073,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "两部门：外籍个人从外商投资企业取得的股息红利所得，按照“利息、股息、红利所得”缴纳个人所得税，适用20%税率",
+        "url": "https://m.36kr.com/newsflashes/3964567873150470",
+        "desc": "36氪获悉，财政部、税务总局发布关于外籍个人股息红利个人所得税政策有关事项的公告。一、外籍个人从外商投资企业取得的股息红利所得，按照“利息、股息、红利所得”缴纳个人所得税，适用20%税率。二、外商投资企业向外籍个人支付股息红利时，应当代扣代缴税款，并于支付所得的次月15日内申报纳税。外商投资企业未扣缴税款的，取得股息红利的外籍个人应当在取得所得的次年6月30日前缴纳税款；税务机关通知限期缴纳的，外籍个人应当按照期限缴纳税款。三、本公告自2026年9月1日起执行，《财政部 国家税务总局关于个人所得税若干政策问题的通知》（财税字〔1994〕20号）第二条第（八）项同时废止。",
+        "cover": "",
+        "date": 1788250019601,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "英国30年期国债收益率一度涨8个基点，至1998年以来最高水平",
         "url": "https://m.36kr.com/newsflashes/3964562745564424",
         "desc": "英国政府长期借贷成本升至1998年5月以来的最高水平，30年期国债收益率一度涨8个基点至5.87%，之后涨幅有所收窄。能源价格上涨和中东局势紧张引发了以长端为主的债券抛售潮。（界面）",
@@ -807,7 +817,7 @@
         "date": 1788249706638,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "前8月北京二手房成交超12万套，同比增长近6%",
@@ -817,7 +827,7 @@
         "date": 1788249206302,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "宜家1500多款商品将降价15%至25%，主要集中在欧洲市场",
@@ -827,7 +837,7 @@
         "date": 1788248944253,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "郭明錤：英伟达重启推理预填充优化芯片Rubin CPX项目",
@@ -837,7 +847,7 @@
         "date": 1788248442556,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "现代汽车8月销量同比下跌14%，受罢工影响",
@@ -847,7 +857,7 @@
         "date": 1788247939676,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
@@ -857,7 +867,7 @@
         "date": 1788247133455,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "商务部等三部门：企业在境外销售商品或者提供服务时，不违规在标价之外任意加价或收取未标明费用",
@@ -867,7 +877,7 @@
         "date": 1788246928481,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "商务部等三部门：企业应采取必要措施确保车联网及自动驾驶相关信息收集、使用、保护及数据跨境传输等各类数据处理活动合规",
@@ -877,7 +887,7 @@
         "date": 1788246902980,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "商务部：持续推动完善海外综合服务体系，更好引导汽车行业合理有序跨境布局",
@@ -887,7 +897,7 @@
         "date": 1788246782266,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "商务部等部门发布《汽车行业境外竞争行为与合规建设指引》",
@@ -897,7 +907,7 @@
         "date": 1788246738670,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "中信集团在北京成立新兴产业股权基金，出资额8.89亿",
@@ -907,7 +917,7 @@
         "date": 1788246440453,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "A股三大指数集体收跌，算力股跌幅居前",
@@ -917,7 +927,7 @@
         "date": 1788246092405,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "沪深两市成交额突破2万亿",
@@ -927,7 +937,7 @@
         "date": 1788246041296,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "敬业钢铁全品类钢产品价格上调100元",
@@ -937,7 +947,7 @@
         "date": 1788245548214,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "美国联合包裹服务公司宣布高管人事调整，向全球运营模式转型",
@@ -947,7 +957,7 @@
         "date": 1788245264000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "“沪八条”实施以来市场反馈积极，8月一、二手住房成交面积同比增15%",
@@ -957,7 +967,7 @@
         "date": 1788245032026,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "阿里、上汽等入股垣信卫星",
@@ -967,7 +977,7 @@
         "date": 1788244860833,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "普京称俄愿意将中俄间的免签制度转为永久性安排，外交部回应",
@@ -977,35 +987,15 @@
         "date": 1788244722351,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "第三个InnoHK研发平台启动，香港投入25亿港元设立8个研发中心",
-        "url": "https://m.36kr.com/newsflashes/3964480118742535",
-        "desc": "今日（9月1日），由香港特区政府创新科技署与香港科技园公司合办的第三个InnoHK创新香港研发平台SEAM@InnoHK于香港科学园举行启动礼。InnoHK是特区政府的重点创新科技项目，旨在发展香港成为环球科研合作中心，此前已推出聚焦科技医疗的HEALTH@InnoHK及聚焦人工智能的AIR@InnoHK，此次推出的第三个研发平台SEAM@InnoHK将聚焦可持续发展、能源、先进制造及材料等领域。香港特区政府创新科技及工业局局长孙东致辞时指出，前两个平台目前已链接来自12个经济体超过30所顶尖大学及研究机构，汇集约3000名本地及国际科研合作人员，而特区政府将为新推出的SEAM@InnoHK投入约25亿港元资助，将设立8个研发中心，联合约30个来自内地及海外的合作伙伴。（大湾区之声）",
-        "cover": "",
-        "date": 1788244663497,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "机构：Q2前五大Enterprise SSD品牌营收翻倍至近375.9亿美元",
-        "url": "https://m.36kr.com/newsflashes/3964470678560005",
-        "desc": "36氪获悉，根据TrendForce集邦咨询最新存储器产业研究，NANDFlash原厂为达成获利最大化、优化产品组合，全面扩大供应高毛利的EnterpriseSSD（企业级固态硬盘）产品。在出货量、合约价格同步上升的情况下，2026年第二季全球前五大EnterpriseSSD品牌合计营收已接近375.9亿美元，季增幅度高达103.6%。",
-        "cover": "",
-        "date": 1788244443000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788249363924,
-    "bilibili": 1788247820981,
-    "qbitai": 1788249788614,
-    "36kr": 1788249796047
+    "thepaper": 1788250266446,
+    "bilibili": 1788249628735,
+    "qbitai": 1788250675841,
+    "36kr": 1788250679006
   },
   "failures": {}
 }
