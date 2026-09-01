@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T05:43:49Z",
+  "updatedAt": "2026-09-01T05:59:51Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,20 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "勇哥竟然开餐饮店了！实测勇哥自营食堂，吃到力竭但不便宜…",
-        "url": "https://www.bilibili.com/video/BV1kj4D6mE7H",
+        "title": "实测勇哥自营食堂",
+        "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E5%8B%87%E5%93%A5%E8%87%AA%E8%90%A5%E9%A3%9F%E5%A0%82",
         "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1kj4D6mE7H",
-        "author": "罐头鉴定师",
-        "duration": "3:17",
-        "cover": "//i0.hdslb.com/bfs/archive/5addc5c8e704c83309d427a9c4c5a2fa34602936.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kj4D6mE7H&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "实测勇哥自营食堂"
+        "rank": 1
       },
       {
         "title": "吉隆泥石流救援通道抢通至最后1公里内",
@@ -158,20 +148,10 @@
         "hotTitle": "吉隆救援通道抢通至最后1公里内"
       },
       {
-        "title": "美网首轮出局！39岁德约科维奇泪洒赛场，他准备退役了？",
-        "url": "https://www.bilibili.com/video/BV1iqtb6mE2R",
+        "title": "德约科维奇时隔11年重返中网",
+        "url": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E6%97%B6%E9%9A%9411%E5%B9%B4%E9%87%8D%E8%BF%94%E4%B8%AD%E7%BD%91",
         "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "美网首轮出局！39岁德约科维奇泪洒赛场，他准备退役了？",
-        "content": "美网首轮出局！39岁德约科维奇泪洒赛场，他准备退役了？",
-        "bvid": "BV1iqtb6mE2R",
-        "author": "球星观察员",
-        "duration": "1:21",
-        "cover": "//i1.hdslb.com/bfs/archive/9fd0ef7768c5b65b48a518bb42bcfab87177d32a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iqtb6mE2R&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "德约科维奇时隔11年重返中网"
+        "rank": 3
       },
       {
         "title": "【铁豆钢蛋】你好 斌斌！",
@@ -254,20 +234,10 @@
         "hotTitle": "西藏吉隆举行泥石流灾害哀悼活动"
       },
       {
-        "title": "《开学自我介绍666》",
-        "url": "https://www.bilibili.com/video/BV1v5tN65Em4",
+        "title": "开学自我介绍指南",
+        "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D%E6%8C%87%E5%8D%97",
         "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1v5tN65Em4",
-        "author": "韩比迪",
-        "duration": "1:10",
-        "cover": "//i0.hdslb.com/bfs/archive/414c532261f65865ad74c01ae9a703fe03799d17.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1v5tN65Em4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "开学自我介绍指南"
+        "rank": 9
       },
       {
         "title": "老叟戏顽童，但是军备竞赛",
@@ -286,10 +256,20 @@
         "hotTitle": "老叟戏顽童但是军备竞赛"
       },
       {
-        "title": "花少2全网重新考古",
-        "url": "https://search.bilibili.com/all?keyword=%E8%8A%B1%E5%B0%912%E5%85%A8%E7%BD%91%E9%87%8D%E6%96%B0%E8%80%83%E5%8F%A4",
+        "title": "一口气看完《花少2》",
+        "url": "https://www.bilibili.com/video/BV13oorByE7o",
         "desc": "",
-        "rank": 11
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV13oorByE7o",
+        "author": "读心者新一",
+        "duration": "195:29",
+        "cover": "//i0.hdslb.com/bfs/archive/8d279035eb433a995a023fc73bb49e72b09f42d7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13oorByE7o&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "花少2全网重新考古"
       },
       {
         "title": "《釜山行》2.0？当丧尸学会进化，比人类还团结，我们还能有胜算吗？延尚昊导演科幻惊悚片《群体》",
@@ -404,20 +384,10 @@
         "hotTitle": "拆解GTA6主线任务及性能"
       },
       {
-        "title": "评分9.8，评论区却吵得飞起？它为什么有这么大争议？",
-        "url": "https://www.bilibili.com/video/BV1ZUtx6kEZj",
+        "title": "三代鹿人聊记忆管理局",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BB%A3%E9%B9%BF%E4%BA%BA%E8%81%8A%E8%AE%B0%E5%BF%86%E7%AE%A1%E7%90%86%E5%B1%80",
         "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ZUtx6kEZj",
-        "author": "三代鹿人",
-        "duration": "10:21",
-        "cover": "//i1.hdslb.com/bfs/archive/428e73605385dae0655d6374decc8fbe4c6daec4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZUtx6kEZj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "三代鹿人聊记忆管理局"
+        "rank": 19
       },
       {
         "title": "巨作完结！我们的少年时代2为什么让我无法自拔",
@@ -468,36 +438,16 @@
         "hotTitle": "盘点三角洲被删除的干员技能机制"
       },
       {
-        "title": "如果让专业厨师推荐私藏小店他们会怎么推荐？",
-        "url": "https://www.bilibili.com/video/BV18s4k6gESU",
+        "title": "一饭封神大厨私藏宝藏小店",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E%E5%A4%A7%E5%8E%A8%E7%A7%81%E8%97%8F%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%BA%97",
         "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "霆锋很好奇专业大厨们下班后都会去哪些宝藏餐厅解馋？正好「大众点评锋味宝藏榜」9月20日即将发布！一起去看看广州本地专业厨师藏在心尖尖的饭店，到底是什么样！",
-        "content": "霆锋很好奇专业大厨们下班后都会去哪些宝藏餐厅解馋？正好「大众点评锋味宝藏榜」9月20日即将发布！一起去看看广州本地专业厨师藏在心尖尖的饭店，到底是什么样！",
-        "bvid": "BV18s4k6gESU",
-        "author": "特厨隋坡",
-        "duration": "8:22",
-        "cover": "//i1.hdslb.com/bfs/archive/8fa6002467c449d9c93a3c653e90a194fe065dd0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18s4k6gESU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "一饭封神大厨私藏宝藏小店"
+        "rank": 23
       },
       {
-        "title": "认真的搞笑！划水的告状？《披荆斩棘》一公速评",
-        "url": "https://www.bilibili.com/video/BV1G8t86GEE3",
+        "title": "披哥一公舞台看点速览",
+        "url": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E7%9C%8B%E7%82%B9%E9%80%9F%E8%A7%88",
         "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1G8t86GEE3",
-        "author": "郭本尼",
-        "duration": "26:28",
-        "cover": "//i2.hdslb.com/bfs/archive/e576133b544097d1d21e38a6313b1f12cbb50187.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1G8t86GEE3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "披哥一公舞台看点速览"
+        "rank": 24
       },
       {
         "title": "公安博物馆告诉你，人可以有多丧心病狂",
@@ -522,10 +472,20 @@
         "rank": 26
       },
       {
-        "title": "8月全球时政财经热点回顾",
-        "url": "https://search.bilibili.com/all?keyword=8%E6%9C%88%E5%85%A8%E7%90%83%E6%97%B6%E6%94%BF%E8%B4%A2%E7%BB%8F%E7%83%AD%E7%82%B9%E5%9B%9E%E9%A1%BE",
+        "title": "一条视频看8月：债务和土地，中美旧账单到期，全世界开始找备选方案【地球村月刊】",
+        "url": "https://www.bilibili.com/video/BV1AetW6LEZz",
         "desc": "",
-        "rank": 27
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "一键三连推荐给更多朋友！",
+        "content": "一键三连推荐给更多朋友！",
+        "bvid": "BV1AetW6LEZz",
+        "author": "小王Albert",
+        "duration": "22:26",
+        "cover": "//i1.hdslb.com/bfs/archive/6419125c1b8bb076851f04fa890b6a76e48053e7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AetW6LEZz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "8月全球时政财经热点回顾"
       },
       {
         "title": "漂亮的恶意01|误入充满恶意的顶级财阀校园，川渝转学生表示，她真的只想好好学习！",
@@ -550,10 +510,20 @@
         "rank": 29
       },
       {
-        "title": "剑网3十七周年演唱会全程回顾",
-        "url": "https://search.bilibili.com/all?keyword=%E5%89%91%E7%BD%913%E5%8D%81%E4%B8%83%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%A8%E7%A8%8B%E5%9B%9E%E9%A1%BE",
+        "title": "1.6万人同唱，龚琳娜现场全开麦！《剑网3》十七周年庆典全程回顾上线",
+        "url": "https://www.bilibili.com/video/BV1FXt864EDe",
         "desc": "",
-        "rank": 30
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《剑网3》十七周年庆典盛宴已圆满落幕！幸与诸君同行，万象新程，共赴此约！十七周年庆典回顾今日为君献上~",
+        "content": "《剑网3》十七周年庆典盛宴已圆满落幕！幸与诸君同行，万象新程，共赴此约！十七周年庆典回顾今日为君献上~",
+        "bvid": "BV1FXt864EDe",
+        "author": "剑网3",
+        "duration": "184:13",
+        "cover": "//i2.hdslb.com/bfs/archive/30b4e1dc4a01dee22aa0ef2cd2beab94a887ceb9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FXt864EDe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "剑网3十七周年演唱会全程回顾"
       }
     ],
     "qbitai": [
@@ -900,6 +870,46 @@
         "rank": 4
       },
       {
+        "title": "Manus恢复独立运营",
+        "url": "https://m.36kr.com/newsflashes/3964431262719236",
+        "desc": "Manus宣布已正式恢复独立运营。该公司表示，创始团队将继续领导公司，坚定不移地致力于产品创新，并为全球用户推进通用AI代理的发展。对于部分用户而言，此次过渡需要备份和恢复数据，并应对访问的临时中断。（财联社）",
+        "cover": "",
+        "date": 1788242273000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "多家银行落地40年房贷，有银行称办40年房贷需35岁以下",
+        "url": "https://m.36kr.com/newsflashes/3964423066131714",
+        "desc": "房贷最长期限从30年延至40年，政策落地后各家银行进展不一。据悉，多数银行尚未收到内部操作通知，仍在等待指引。但已有银行明确可办理40年期贷款，部分股份制银行设置借款人年龄加贷款年限不超过75岁的上限条件。已落地的某国有银行工作人员表示，期限拉长意味着每月还款压力减轻，但总利息支出随之增加。已落地新政的银行客户经理介绍，以前贷了30年的客户也可以申请改为40年，100万贷款从30年改为40年，月供本金部分每年可少还7000元。（第一财经）",
+        "cover": "",
+        "date": 1788241972000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "2026年国家基本公共卫生服务经费人均财政补助标准增至99元",
+        "url": "https://m.36kr.com/newsflashes/3964420898594055",
+        "desc": "36氪获悉，国家卫生健康委、财政部、国家中医药局、国家疾控局今天发布《关于做好2026年基本公共卫生服务工作的通知》。《通知》指出，2026年，基本公共卫生服务经费人均财政补助标准为99元，要求各地足额落实并规范管理使用经费，提升基本公共卫生服务均等化水平。",
+        "cover": "",
+        "date": 1788241560000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "蔚来盘中跌超9%，股价创逾一年新低",
+        "url": "https://m.36kr.com/newsflashes/3964427530460674",
+        "desc": "36氪获悉，港股蔚来盘中跌超9%，股价创逾一年新低。",
+        "cover": "",
+        "date": 1788241453763,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
         "title": "“诺瓦聚变”完成总额12亿元Pre-A系列融资",
         "url": "https://m.36kr.com/newsflashes/3964410497735940",
         "desc": "36氪获悉，核聚变企业“诺瓦聚变”完成总额12亿元Pre-A系列融资，美团龙珠、高瓴资本持续加码布局，联想创投、国中资本作为全新战略投资方入局。本轮融资将为下一步并行推进Q>1净聚变能输出验证及商业电站配套提供充足的资金储备。",
@@ -907,7 +917,7 @@
         "date": 1788241239000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "全球首艘32.5万吨甲醇双燃料矿砂船建造完工",
@@ -917,7 +927,7 @@
         "date": 1788241105000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "“Nirva”完成数千万元元种子轮融资",
@@ -927,7 +937,7 @@
         "date": 1788240783000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "美国批准2017年以来最大规模生物燃料豁免",
@@ -937,7 +947,7 @@
         "date": 1788240519000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "陕西对电动汽车大功率充电设施建设给予财政补贴",
@@ -947,7 +957,7 @@
         "date": 1788240127000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "今年铁路暑运全国铁路累计发送旅客9.54亿人次",
@@ -957,7 +967,7 @@
         "date": 1788239971691,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "快乐蜂表示将在香港上市其国际业务部门",
@@ -967,7 +977,7 @@
         "date": 1788239903734,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "摩根士丹利和花旗要求律所降费，分享AI带来的效益",
@@ -977,7 +987,7 @@
         "date": 1788239851000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "《微短剧发展管理办法》今起正式施行",
@@ -987,7 +997,7 @@
         "date": 1788239619000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "创业板指午后翻红",
@@ -997,7 +1007,7 @@
         "date": 1788239610493,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "媒体：Akulaku秘密递交香港IPO申请，募资最高5亿美元",
@@ -1007,7 +1017,7 @@
         "date": 1788239135344,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "广西现代化产业投资基金登记成立，出资额30亿",
@@ -1017,7 +1027,7 @@
         "date": 1788238946000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "8月公募调研A股公司合计超8000次，环比增长超150%",
@@ -1027,7 +1037,7 @@
         "date": 1788238922688,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "百度CFO何海建回应百度双重主要上市：预计有10%至15%增量资金流入",
@@ -1037,7 +1047,7 @@
         "date": 1788238894858,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 22
       },
       {
         "title": "科大讯飞开源两款端侧通用大模型",
@@ -1047,7 +1057,7 @@
         "date": 1788238492000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 23
       },
       {
         "title": "国轩高科在安徽成立新销售公司，注册资本10亿",
@@ -1057,55 +1067,15 @@
         "date": 1788238122000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-        "url": "https://m.36kr.com/newsflashes/3964348967148807",
-        "desc": "36氪获悉，腾讯旗下操作系统层级的AI助手Marvis正式上线“自定义模型”功能。用户现可在 Marvis中自由接入采用行业通用接口标准的第三方模型，包括腾讯云、阿里云、DeepSeek、Minimax、Kimi、智谱、小米等厂商提供和支持的主流模型，同时也支持接入本地部署的开源模型，并可在不同设备间同步使用。",
-        "cover": "",
-        "date": 1788237653530,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "小鹏集团：8月交付新车39107辆，同比增长4%",
-        "url": "https://m.36kr.com/newsflashes/3964354873957638",
-        "desc": "36氪获悉，小鹏集团2026年8月交付新车39107辆，同比增长4%。",
-        "cover": "",
-        "date": 1788237019162,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "蔚来汽车：8月交付35836辆汽车，同比增长14.5%",
-        "url": "https://m.36kr.com/newsflashes/3964353191025924",
-        "desc": "36氪获悉，蔚来汽车2026年8月交付新车35836辆，同比增长14.5%。",
-        "cover": "",
-        "date": 1788236916444,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "理想汽车：8月交付37679辆",
-        "url": "https://m.36kr.com/newsflashes/3964340665343494",
-        "desc": "36氪获悉，理想汽车2026年8月交付新车37679辆。截至2026年8月31日，理想汽车历史累计交付量为1801834辆。",
-        "cover": "",
-        "date": 1788236151937,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788241264933,
+    "thepaper": 1788242166091,
     "bilibili": 1788240604315,
-    "qbitai": 1788241428474,
-    "36kr": 1788241429343
+    "qbitai": 1788242387506,
+    "36kr": 1788242391256
   },
   "failures": {}
 }
