@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T07:17:41Z",
+  "updatedAt": "2026-09-01T07:32:17Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,20 @@
     ],
     "bilibili": [
       {
-        "title": "实测勇哥自营食堂",
-        "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E5%8B%87%E5%93%A5%E8%87%AA%E8%90%A5%E9%A3%9F%E5%A0%82",
+        "title": "勇哥竟然开餐饮店了！实测勇哥自营食堂，吃到力竭但不便宜…",
+        "url": "https://www.bilibili.com/video/BV1kj4D6mE7H",
         "desc": "",
-        "rank": 1
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1kj4D6mE7H",
+        "author": "罐头鉴定师",
+        "duration": "3:17",
+        "cover": "//i0.hdslb.com/bfs/archive/5addc5c8e704c83309d427a9c4c5a2fa34602936.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kj4D6mE7H&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "实测勇哥自营食堂"
       },
       {
         "title": "IG危险了！Tangyuan究竟有多强？万字复盘LGD战胜TES背后的原因！",
@@ -148,26 +158,26 @@
         "hotTitle": "万字复盘LGD战胜TES"
       },
       {
-        "title": "申花泰山S形越位线争议",
-        "url": "https://search.bilibili.com/all?keyword=%E7%94%B3%E8%8A%B1%E6%B3%B0%E5%B1%B1S%E5%BD%A2%E8%B6%8A%E4%BD%8D%E7%BA%BF%E4%BA%89%E8%AE%AE",
+        "title": "S级越位划线？不，S形！他们怎么敢这么明目张胆！！#中超 #上海申花vs山东泰山 #买乌郎闪电进球 #咖啡醉足球 #越位划线",
+        "url": "https://www.bilibili.com/video/BV14nth6MExu",
         "desc": "",
-        "rank": 3
-      },
-      {
-        "title": "【铁豆钢蛋】你好 斌斌！",
-        "url": "https://www.bilibili.com/video/BV1KxtY6kEwY",
-        "desc": "",
-        "rank": 4,
+        "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【铁豆钢蛋】就你叫胡彦斌啊",
-        "content": "【铁豆钢蛋】就你叫胡彦斌啊",
-        "bvid": "BV1KxtY6kEwY",
-        "author": "铁豆钢蛋",
-        "duration": "59:20",
-        "cover": "//i1.hdslb.com/bfs/archive/af05cefedbe384cc49a1f0432f04fd73bdb6066e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KxtY6kEwY&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "铁豆钢蛋终于见到胡彦斌了"
+        "description": "S级越位划线？不，S形！他们怎么敢这么明目张胆！！#中超 #上海申花vs山东泰山 #买乌郎闪电进球 #咖啡醉足球 #越位划线",
+        "content": "S级越位划线？不，S形！他们怎么敢这么明目张胆！！#中超 #上海申花vs山东泰山 #买乌郎闪电进球 #咖啡醉足球 #越位划线",
+        "bvid": "BV14nth6MExu",
+        "author": "咖啡醉足球",
+        "duration": "7:57",
+        "cover": "//i1.hdslb.com/bfs/archive/bafcf6c558560444e805769dd5455532ac4e9e86.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14nth6MExu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "申花泰山S形越位线争议"
+      },
+      {
+        "title": "铁豆钢蛋终于见到胡彦斌了",
+        "url": "https://search.bilibili.com/all?keyword=%E9%93%81%E8%B1%86%E9%92%A2%E8%9B%8B%E7%BB%88%E4%BA%8E%E8%A7%81%E5%88%B0%E8%83%A1%E5%BD%A6%E6%96%8C%E4%BA%86",
+        "desc": "",
+        "rank": 4
       },
       {
         "title": "美网首轮出局！39岁德约科维奇泪洒赛场，他准备退役了？",
@@ -218,10 +228,20 @@
         "hotTitle": "JackeyLove单曲大喻治水"
       },
       {
-        "title": "BLAST波尔图抽象合集第三期",
-        "url": "https://search.bilibili.com/all?keyword=BLAST%E6%B3%A2%E5%B0%94%E5%9B%BE%E6%8A%BD%E8%B1%A1%E5%90%88%E9%9B%86%E7%AC%AC%E4%B8%89%E6%9C%9F",
+        "title": "史诗级抽象大战！蜜蜂vs菊花！blast波尔图抽象合集第三期",
+        "url": "https://www.bilibili.com/video/BV1mztu6yE4g",
         "desc": "",
-        "rank": 8
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1mztu6yE4g",
+        "author": "善一cs2荤素搭配版",
+        "duration": "1:56",
+        "cover": "//i0.hdslb.com/bfs/archive/c73ef165dfdafbcaea44b0442305a51a64b1a518.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mztu6yE4g&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLAST波尔图抽象合集第三期"
       },
       {
         "title": "深度拆解中餐厅谁在划水",
@@ -246,20 +266,10 @@
         "hotTitle": "西藏吉隆举行泥石流灾害哀悼活动"
       },
       {
-        "title": "一口气看完《花少2》",
-        "url": "https://www.bilibili.com/video/BV13oorByE7o",
+        "title": "花少2全网重新考古",
+        "url": "https://search.bilibili.com/all?keyword=%E8%8A%B1%E5%B0%912%E5%85%A8%E7%BD%91%E9%87%8D%E6%96%B0%E8%80%83%E5%8F%A4",
         "desc": "",
-        "rank": 11,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV13oorByE7o",
-        "author": "读心者新一",
-        "duration": "195:29",
-        "cover": "//i0.hdslb.com/bfs/archive/8d279035eb433a995a023fc73bb49e72b09f42d7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13oorByE7o&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "花少2全网重新考古"
+        "rank": 11
       },
       {
         "title": "三代鹿人聊记忆管理局",
@@ -268,36 +278,16 @@
         "rank": 12
       },
       {
-        "title": "【拆解球星】地表最强175！巅峰进攻万人敌！以赛亚托马斯到底是造星还是真的强？",
-        "url": "https://www.bilibili.com/video/BV1tRtb6KEBc",
+        "title": "以赛亚托马斯巅峰有多强",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E8%B5%9B%E4%BA%9A%E6%89%98%E9%A9%AC%E6%96%AF%E5%B7%85%E5%B3%B0%E6%9C%89%E5%A4%9A%E5%BC%BA",
         "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1tRtb6KEBc",
-        "author": "太吾车神",
-        "duration": "17:46",
-        "cover": "//i1.hdslb.com/bfs/archive/967ed27dbfbf6d024bbe7b7bdc499c0a020b464f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tRtb6KEBc&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "以赛亚托马斯巅峰有多强"
+        "rank": 13
       },
       {
-        "title": "一条视频看8月：债务和土地，中美旧账单到期，全世界开始找备选方案【地球村月刊】",
-        "url": "https://www.bilibili.com/video/BV1AetW6LEZz",
+        "title": "8月全球时政财经热点回顾",
+        "url": "https://search.bilibili.com/all?keyword=8%E6%9C%88%E5%85%A8%E7%90%83%E6%97%B6%E6%94%BF%E8%B4%A2%E7%BB%8F%E7%83%AD%E7%82%B9%E5%9B%9E%E9%A1%BE",
         "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "一键三连推荐给更多朋友！",
-        "content": "一键三连推荐给更多朋友！",
-        "bvid": "BV1AetW6LEZz",
-        "author": "小王Albert",
-        "duration": "22:26",
-        "cover": "//i1.hdslb.com/bfs/archive/6419125c1b8bb076851f04fa890b6a76e48053e7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AetW6LEZz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "8月全球时政财经热点回顾"
+        "rank": 14
       },
       {
         "title": "巨作完结！我们的少年时代2为什么让我无法自拔",
@@ -322,10 +312,20 @@
         "rank": 16
       },
       {
-        "title": "开学自我介绍指南",
-        "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D%E6%8C%87%E5%8D%97",
+        "title": "《开学自我介绍666》",
+        "url": "https://www.bilibili.com/video/BV1v5tN65Em4",
         "desc": "",
-        "rank": 17
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1v5tN65Em4",
+        "author": "韩比迪",
+        "duration": "1:10",
+        "cover": "//i0.hdslb.com/bfs/archive/414c532261f65865ad74c01ae9a703fe03799d17.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1v5tN65Em4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "开学自我介绍指南"
       },
       {
         "title": "全程高能！队友接连失踪？活着并逃离这里！！！「逃离疯人院」",
@@ -350,26 +350,26 @@
         "rank": 19
       },
       {
-        "title": "老叟戏顽童，但是军备竞赛",
-        "url": "https://www.bilibili.com/video/BV1jDtx6GErd",
+        "title": "老叟戏顽童但是军备竞赛",
+        "url": "https://search.bilibili.com/all?keyword=%E8%80%81%E5%8F%9F%E6%88%8F%E9%A1%BD%E7%AB%A5%E4%BD%86%E6%98%AF%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B",
         "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "视频灵感来源：@修2 喜欢的点个赞支持吧",
-        "content": "视频灵感来源：@修2 喜欢的点个赞支持吧",
-        "bvid": "BV1jDtx6GErd",
-        "author": "惜缘、过去",
-        "duration": "2:1",
-        "cover": "//i2.hdslb.com/bfs/archive/0e9be1c177024dcb40d3ec67db9b6dc2831268d7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jDtx6GErd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "老叟戏顽童但是军备竞赛"
+        "rank": 20
       },
       {
-        "title": "救援人员在口岸联检大楼地毯式搜救",
-        "url": "https://search.bilibili.com/all?keyword=%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E5%9C%A8%E5%8F%A3%E5%B2%B8%E8%81%94%E6%A3%80%E5%A4%A7%E6%A5%BC%E5%9C%B0%E6%AF%AF%E5%BC%8F%E6%90%9C%E6%95%91",
+        "title": "搜救不停，希望不灭！救援人员在口岸联检大楼附近开展地毯式搜救",
+        "url": "https://www.bilibili.com/video/BV1g3th65EXN",
         "desc": "",
-        "rank": 21
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "（素材来源：中国移民管理）",
+        "content": "（素材来源：中国移民管理）",
+        "bvid": "BV1g3th65EXN",
+        "author": "人民日报",
+        "duration": "0:25",
+        "cover": "//i2.hdslb.com/bfs/archive/7b3ea3c673a656929c882e5ca5fa1eb915668891.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1g3th65EXN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "救援人员在口岸联检大楼地毯式搜救"
       },
       {
         "title": "AI为何能解决数学难题",
@@ -378,20 +378,10 @@
         "rank": 22
       },
       {
-        "title": "【IGN】9月重磅游戏发售信息一览",
-        "url": "https://www.bilibili.com/video/BV1YNth6EEfe",
+        "title": "9月重磅游戏一览",
+        "url": "https://search.bilibili.com/all?keyword=9%E6%9C%88%E9%87%8D%E7%A3%85%E6%B8%B8%E6%88%8F%E4%B8%80%E8%A7%88",
         "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "开学返校季到了，来看看这个热热闹闹的九月，大家能屯上几款备战中秋国庆假期的新游戏吧！",
-        "content": "开学返校季到了，来看看这个热热闹闹的九月，大家能屯上几款备战中秋国庆假期的新游戏吧！",
-        "bvid": "BV1YNth6EEfe",
-        "author": "IGN中国",
-        "duration": "8:58",
-        "cover": "//i2.hdslb.com/bfs/archive/69b317cfd7499771c580f538232bd203c40f9e9d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YNth6EEfe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "9月重磅游戏一览"
+        "rank": 23
       },
       {
         "title": "漂亮的恶意01|误入充满恶意的顶级财阀校园，川渝转学生表示，她真的只想好好学习！",
@@ -410,10 +400,20 @@
         "hotTitle": "UP主自制AI韩剧 漂亮的恶意"
       },
       {
-        "title": "乌克兰无人军火阅兵",
-        "url": "https://search.bilibili.com/all?keyword=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%97%A0%E4%BA%BA%E5%86%9B%E7%81%AB%E9%98%85%E5%85%B5",
+        "title": "没坦克也没士兵，乌克兰这次阅兵有点不一样……",
+        "url": "https://www.bilibili.com/video/BV1kMt864EKB",
         "desc": "",
-        "rank": 25
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "8月24日，乌克兰独立35周年之际，一场不同寻常的阅兵式出现在乌克兰首都基辅。没有传统的坦克方阵，也没有整齐行进的士兵，只有涵盖陆海空多型无人装备。（兵器面面观）",
+        "content": "8月24日，乌克兰独立35周年之际，一场不同寻常的阅兵式出现在乌克兰首都基辅。没有传统的坦克方阵，也没有整齐行进的士兵，只有涵盖陆海空多型无人装备。（兵器面面观）",
+        "bvid": "BV1kMt864EKB",
+        "author": "央视军事",
+        "duration": "5:38",
+        "cover": "//i0.hdslb.com/bfs/archive/def064c0f455e8d16ffad831b7ba47e201ac723d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kMt864EKB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "乌克兰无人军火阅兵"
       },
       {
         "title": "UP主动画幽差第二集",
@@ -434,10 +434,20 @@
         "rank": 28
       },
       {
-        "title": "欧冠新赛季36队是如何产生的",
-        "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E5%86%A0%E6%96%B0%E8%B5%9B%E5%AD%A336%E9%98%9F%E6%98%AF%E5%A6%82%E4%BD%95%E4%BA%A7%E7%94%9F%E7%9A%84",
+        "title": "欧冠新赛季的三十六支参赛球队来自哪些协会？是如何产生的？",
+        "url": "https://www.bilibili.com/video/BV18y4X6TEaC",
         "desc": "",
-        "rank": 29
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "分类汇总，欧冠正赛共36队，根据协会系数而分配的基础名额占去25队，欧战表现席位产生2队(利物浦与皇家贝蒂斯)，欧冠冠军路径再平衡1队(顿涅茨克矿工)，欧联冠军路径再平衡1队(葡萄牙体育)，资格赛冠军路径产生5队，资格赛联赛路径产生2队。",
+        "content": "分类汇总，欧冠正赛共36队，根据协会系数而分配的基础名额占去25队，欧战表现席位产生2队(利物浦与皇家贝蒂斯)，欧冠冠军路径再平衡1队(顿涅茨克矿工)，欧联冠军路径再平衡1队(葡萄牙体育)，资格赛冠军路径产生5队，资格赛联赛路径产生2队。",
+        "bvid": "BV18y4X6TEaC",
+        "author": "图述数说",
+        "duration": "9:2",
+        "cover": "//i1.hdslb.com/bfs/archive/c9f67966d8ed217f1f9822e59252d78bf61f7861.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18y4X6TEaC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "欧冠新赛季36队是如何产生的"
       },
       {
         "title": "跨越山海的友谊",
@@ -800,6 +810,16 @@
         "rank": 4
       },
       {
+        "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
+        "url": "https://m.36kr.com/newsflashes/3964520586534404",
+        "desc": "当地时间9月1日上午，国家主席习近平在比什凯克出席上海合作组织成员国元首理事会第二十六次会议。习近平提出4点主张。第一，坚持发展优先，开创共同繁荣的前景。第二，坚持安全为要，营造普遍安全的环境。第三，坚持以人为本，厚植世代友好的根基。第四，坚持对话协商，完善公平有序的治理。习近平强调，中方愿同各方一道，继续高举“上海精神”旗帜，落实上海合作组织未来10年发展战略，努力实现更高质量发展，为推动构建人类命运共同体作出更大贡献。成员国领导人签署并发表《上海合作组织成员国元首理事会比什凯克宣言》，批准修改和补充《上海合作组织宪章》议定书、应对安全威胁与挑战综合中心条例、禁毒中心条例，通过加强安全、经济、人文合作和组织建设等28份成果文件。（新华社）",
+        "cover": "",
+        "date": 1788247133455,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "商务部等三部门：企业在境外销售商品或者提供服务时，不违规在标价之外任意加价或收取未标明费用",
         "url": "https://m.36kr.com/newsflashes/3964517228240132",
         "desc": "36氪获悉，商务部等三部门发布《汽车行业境外竞争行为与合规建设指引》。企业在境外销售商品或者提供服务时，应依法合规进行透明清晰的标价，不违规在标价之外任意加价或收取未标明费用。企业在境外开展有奖销售、免费试用、折价减价、赠送礼品、汽车金融优惠等促销活动时，应遵守法律法规，遵从当地商业惯例和文化习俗，切实履行合同约定。企业在境外开展品牌展示和宣传活动时，应按东道国（地区）相关规定真实完整披露相关信息，不作虚假宣传，不欺骗或误导消费者，维护中国汽车品牌形象。",
@@ -807,7 +827,7 @@
         "date": 1788246928481,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "商务部等三部门：企业应采取必要措施确保车联网及自动驾驶相关信息收集、使用、保护及数据跨境传输等各类数据处理活动合规",
@@ -817,7 +837,7 @@
         "date": 1788246902980,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "商务部：持续推动完善海外综合服务体系，更好引导汽车行业合理有序跨境布局",
@@ -827,7 +847,7 @@
         "date": 1788246782266,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "商务部等部门发布《汽车行业境外竞争行为与合规建设指引》",
@@ -837,7 +857,7 @@
         "date": 1788246738670,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "中信集团在北京成立新兴产业股权基金，出资额8.89亿",
@@ -847,7 +867,7 @@
         "date": 1788246440453,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "A股三大指数集体收跌，算力股跌幅居前",
@@ -857,7 +877,7 @@
         "date": 1788246092405,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "沪深两市成交额突破2万亿",
@@ -867,7 +887,7 @@
         "date": 1788246041296,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "敬业钢铁全品类钢产品价格上调100元",
@@ -877,7 +897,7 @@
         "date": 1788245548214,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "美国联合包裹服务公司宣布高管人事调整，向全球运营模式转型",
@@ -887,7 +907,7 @@
         "date": 1788245264000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "“沪八条”实施以来市场反馈积极，8月一、二手住房成交面积同比增15%",
@@ -897,7 +917,7 @@
         "date": 1788245032026,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "阿里、上汽等入股垣信卫星",
@@ -907,7 +927,7 @@
         "date": 1788244860833,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "普京称俄愿意将中俄间的免签制度转为永久性安排，外交部回应",
@@ -917,7 +937,7 @@
         "date": 1788244722351,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "第三个InnoHK研发平台启动，香港投入25亿港元设立8个研发中心",
@@ -927,7 +947,7 @@
         "date": 1788244663497,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "机构：Q2前五大Enterprise SSD品牌营收翻倍至近375.9亿美元",
@@ -937,7 +957,7 @@
         "date": 1788244443000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "苹果资深高管菲尔·席勒将卸任App Store和产品发布会负责人",
@@ -947,7 +967,7 @@
         "date": 1788244204000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "算法机制错乱，抖音突发大面积服务异常",
@@ -957,7 +977,7 @@
         "date": 1788244163476,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "国家药监局：进一步加强药品信息化追溯管理工作",
@@ -967,7 +987,7 @@
         "date": 1788243991033,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "新版国家基本药物目录今日施行，新增多种重点病用药",
@@ -977,7 +997,7 @@
         "date": 1788243913483,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "小特朗普旗下风投领投Polymarket 10亿美元融资，估值升至210亿美元",
@@ -987,25 +1007,15 @@
         "date": 1788243699429,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "报道称三星存储器业务部门将2031年前约70%的产能分配给长约订单，HBM抢货情况相当激烈",
-        "url": "https://m.36kr.com/newsflashes/3964460847635975",
-        "desc": "据报道，AI建设热潮引爆HBM需求，并排挤传统DRAM供给、加剧内存缺货。韩媒报道，三星的存储器业务部门已将2031年前约70%的产能分配给长约订单（long-term agreements，简称LTAs），主要签约客户包括英伟达，微软及谷歌等大型科技公司。然而，HBM抢货情况相当激烈，就连这些大型科技公司都无法取得合约约定的全部供货量，使现货价格进一步飙升。（财联社）",
-        "cover": "",
-        "date": 1788243487282,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788246663955,
+    "thepaper": 1788247563665,
     "bilibili": 1788246019385,
-    "qbitai": 1788247060022,
-    "36kr": 1788247061898
+    "qbitai": 1788247932605,
+    "36kr": 1788247937496
   },
   "failures": {}
 }
