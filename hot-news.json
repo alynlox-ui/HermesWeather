@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T04:11:39Z",
+  "updatedAt": "2026-09-01T04:26:45Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+        "url": "https://www.qbitai.com/2026/09/482300.html",
+        "desc": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/生命-1.jpg",
+        "date": "2026-09-01T12:12:49",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
         "url": "https://www.qbitai.com/2026/08/481928.html",
         "desc": "划重点：这次不是你挨家敲门，是VC排队来看你。",
@@ -615,7 +625,7 @@
         "date": "2026-08-31T21:20:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "滴滴自动驾驶新一代车型开启载客测试服务",
@@ -625,7 +635,7 @@
         "date": "2026-08-31T15:53:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
@@ -635,7 +645,7 @@
         "date": "2026-08-31T15:34:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "「GPT-6」灰测demo刷屏！周四发布在即",
@@ -645,7 +655,7 @@
         "date": "2026-08-31T12:47:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
@@ -655,7 +665,7 @@
         "date": "2026-08-31T11:24:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
@@ -665,7 +675,7 @@
         "date": "2026-08-31T11:11:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
@@ -675,7 +685,7 @@
         "date": "2026-08-31T11:01:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
@@ -685,7 +695,7 @@
         "date": "2026-08-29T21:11:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "去年归国的徐梦迪，成了清华姚班班主任",
@@ -695,7 +705,7 @@
         "date": "2026-08-29T21:01:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
@@ -705,7 +715,7 @@
         "date": "2026-08-29T20:50:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
@@ -715,7 +725,7 @@
         "date": "2026-08-29T20:26:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
@@ -725,7 +735,7 @@
         "date": "2026-08-29T20:11:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "OpenClaw：红过，爱过，散了",
@@ -735,7 +745,7 @@
         "date": "2026-08-29T20:00:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
@@ -745,7 +755,7 @@
         "date": "2026-08-29T19:35:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
@@ -755,7 +765,7 @@
         "date": "2026-08-28T23:36:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
@@ -765,7 +775,7 @@
         "date": "2026-08-28T19:13:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
@@ -775,7 +785,7 @@
         "date": "2026-08-28T17:45:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
@@ -785,7 +795,7 @@
         "date": "2026-08-28T15:20:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "首款癌症疫苗，一针300万？？？",
@@ -795,7 +805,7 @@
         "date": "2026-08-28T14:22:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
@@ -805,7 +815,7 @@
         "date": "2026-08-28T14:22:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
@@ -815,7 +825,7 @@
         "date": "2026-08-28T14:13:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
@@ -825,7 +835,7 @@
         "date": "2026-08-28T13:49:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
@@ -835,7 +845,7 @@
         "date": "2026-08-28T12:09:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
@@ -845,7 +855,7 @@
         "date": "2026-08-28T12:06:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
@@ -855,7 +865,7 @@
         "date": "2026-08-28T11:45:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "34克、全天候AI，1996元起，雷鸟iO热卖加速智能眼镜全民普及",
@@ -865,7 +875,7 @@
         "date": "2026-08-28T11:03:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力",
@@ -875,7 +885,7 @@
         "date": "2026-08-28T10:48:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
@@ -885,7 +895,7 @@
         "date": "2026-08-28T09:40:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
@@ -895,36 +905,26 @@
         "date": "2026-08-27T20:16:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
-        "url": "https://www.qbitai.com/2026/08/480079.html",
-        "desc": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/图虫创意-2492231000593137705-2-e1787809358417.jpeg",
-        "date": "2026-08-27T13:43:00",
-        "platform": "qbitai",
-        "kind": "article",
         "rank": 30
       }
     ],
     "36kr": [
+      {
+        "title": "龙虾之父，困在了龙虾里",
+        "url": "https://m.36kr.com/p/3964312246228611",
+        "desc": "",
+        "cover": "https://img.36krcdn.com/hsossms/20260901/v2_7ad8138d28874321a634e17024db25bb@1743780481@ai_oswg972841oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1788236188621,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 1
+      },
       {
         "title": "错不在SHEIN｜深氪lite",
         "url": "https://m.36kr.com/p/3964275632790791",
         "desc": "",
         "cover": "https://img.36krcdn.com/hsossms/20260901/v2_42f251debdaf48bd90eac582b334abdc@5748245_oswg115217oswg1053oswg495_img_jpeg?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
         "date": 1788233628626,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 1
-      },
-      {
-        "title": "库克正式卸任苹果CEO，掌舵15年：始于重重质疑，终留功过一身",
-        "url": "https://m.36kr.com/p/3964091076009478",
-        "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20260901/v2_c7f0897e4ec848c09f9a9d3422333757@1200352198@ai_oswg772517oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1788227795356,
         "platform": "36kr",
         "kind": "article",
         "rank": 2
@@ -950,6 +950,36 @@
         "rank": 4
       },
       {
+        "title": "理想汽车2026年8月交付37,679辆",
+        "url": "https://m.36kr.com/newsflashes/3964340665343494",
+        "desc": "36氪获悉，2026年8月，理想汽车交付新车37,679辆。截至2026年8月31日，理想汽车历史累计交付量为1,801,834辆。",
+        "cover": "",
+        "date": 1788236151937,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "扩大儿童适宜药品种类，新版国家基本药物目录今起实施",
+        "url": "https://m.36kr.com/newsflashes/3964313938910468",
+        "desc": "国家基本药物目录是医疗机构药品配备使用的依据，为更好满足群众疾病防治基本用药需求，国家卫生健康委、国家中医药局、国家疾控局日前发布了《国家基本药物目录（2026版）》，今天起正式实施。新版目录共收录药品794种，其中，化学药品和生物制品476种，中成药318种。调整后，新版目录覆盖各疾病系统的临床主要病种，其中：化学药品和生物制品涵盖世界卫生组织发布的国际通行疾病分类1180个病种；中成药涵盖中成药临床应用指导原则63个功效分类。此次国家基本药物目录更新调整，新增化学药品和生物制品68种，聚焦了发病率较高的慢性病和常见病，扩大了覆盖病种范围。（央视新闻）",
+        "cover": "",
+        "date": 1788236064000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "腾讯混元宣布推出Hy4 preview轻量版",
+        "url": "https://m.36kr.com/newsflashes/3964337377877509",
+        "desc": "36氪获悉，腾讯混元宣布推出Hy4 preview轻量版，腾讯混元团队通过两项核心技术，把Hy4 preview的权重从接近1.5TB缩小到约214GB，降低运行模型硬件门槛。",
+        "cover": "",
+        "date": 1788235951286,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "恒指午间休盘跌1%，恒生科技指数跌0.76%",
         "url": "https://m.36kr.com/newsflashes/3964327952735489",
         "desc": "36氪获悉，恒指午间休盘跌1%，恒生科技指数跌0.76%；零售、软件服务、房地产板块跌幅居前，珞石机器人跌超14%，希音跌4%，阿里巴巴跌超3%；建材、汽车产业链、有色金属板块领涨，华新建材涨超10%，万国黄金集团涨超4%，比亚迪涨超2%。",
@@ -957,7 +987,7 @@
         "date": 1788235376021,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "市场监管总局发布65项国家计量技术规范",
@@ -967,7 +997,7 @@
         "date": 1788234661000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "2026年铁路暑运收官，累计发送旅客9.54亿人次",
@@ -977,7 +1007,7 @@
         "date": 1788234614776,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "半日主力资金加仓农林牧渔板块，抛售电子股",
@@ -987,7 +1017,7 @@
         "date": 1788234483360,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "极氪：8月交付新车36981辆，同比增长109.8%",
@@ -997,7 +1027,7 @@
         "date": 1788234398000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "中钢协：7月我国出口钢材1012.1万吨，环比下降1.9%",
@@ -1007,7 +1037,7 @@
         "date": 1788234108124,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "零跑汽车：8月全球交付量103129台，同比增长80.7%",
@@ -1017,7 +1047,7 @@
         "date": 1788233867000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "滴滴携手万豪旅享家推出联合会员",
@@ -1027,7 +1057,7 @@
         "date": 1788233863140,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "A股三大指数午间休盘涨跌不一，国芳集团涨停",
@@ -1037,7 +1067,7 @@
         "date": 1788233576615,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "韩国计划2027年发行至多222.8万亿韩元国债",
@@ -1047,7 +1077,7 @@
         "date": 1788233016000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "“VAST”完成B轮和B+轮融资",
@@ -1057,7 +1087,7 @@
         "date": 1788232591000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "华为小米荣耀回应手机涨价",
@@ -1067,7 +1097,7 @@
         "date": 1788231968225,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "高盛等机构预计韩元有进一步上涨空间，AI热潮将带来资金流入",
@@ -1077,7 +1107,7 @@
         "date": 1788231813000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "Stellantis集团新设公共政策与监管战略及国际贸易负责人，直接向CEO汇报",
@@ -1087,7 +1117,7 @@
         "date": 1788231519000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "圣贝拉：上半年实现营收6.11亿元，同比增长36.0%",
@@ -1097,7 +1127,7 @@
         "date": 1788231164805,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "浙江杭州：支持前沿赛道未盈利的科创企业用好科创板、创业板改革政策",
@@ -1107,7 +1137,7 @@
         "date": 1788230363936,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 23
       },
       {
         "title": "浙江杭州：争取金融行业人工智能应用试点城市，推动人工智能在金融领域产业应用",
@@ -1117,45 +1147,15 @@
         "date": 1788230262850,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "智神星一号遥一运载火箭发射成功",
-        "url": "https://m.36kr.com/newsflashes/3964226902711808",
-        "desc": "智神星一号遥一运载火箭在东风商业航天创新试验区发射升空。运载火箭全程飞行正常，达到试验目的，任务取得圆满成功。此次任务是智神星一号运载火箭的首次飞行。（央视新闻）",
-        "cover": "",
-        "date": 1788230015885,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "《深圳经济特区促进脑机接口产业创新发展若干规定》公开征求意见",
-        "url": "https://m.36kr.com/newsflashes/3964240012418567",
-        "desc": "36氪获悉，《深圳经济特区促进脑机接口产业创新发展若干规定（征求意见稿）》公开征求意见。其中提到，市人民政府应当将脑机接口产业发展纳入本市国民经济和社会发展规划和科技创新专项规划，建立健全促进脑机接口产业发展的议事协调机制，统筹协调脑机接口技术创新、产业发展、行业应用、安全治理等方面的重要事项。市人民政府应当保障脑机接口基础研究领域的持续投入，支持各类创新主体开展脑机接口前沿交叉基础研究。市科技创新部门应当聚焦脑机接口产业关键核心环节，以工业制造、医疗健康、生活消费等方面需求为导向，支持企业联合高等院校、科研机构、医疗机构等组建创新联合体，开展脑机接口核心技术攻关，加快脑机接口产品应用落地。",
-        "cover": "",
-        "date": 1788230008570,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "亮源新创开源通用导航大脑LightNav-0",
-        "url": "https://m.36kr.com/newsflashes/3964233938263558",
-        "desc": "36氪获悉，亮源新创（Light Origins）今日正式发布并开源通用导航大脑LightNav-0。据了解，依托Real2Sim2Real技术，团队基于2000+真实室内外场景，大规模化合成了4000+小时的后训练数据，实现跨本体、跨任务、跨场景的零样本真机泛化导航。",
-        "cover": "",
-        "date": 1788229991000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788235866849,
+    "thepaper": 1788236771413,
     "bilibili": 1788235117829,
-    "qbitai": 1788235898639,
-    "36kr": 1788235899059
+    "qbitai": 1788236804705,
+    "36kr": 1788236805122
   },
   "failures": {}
 }
