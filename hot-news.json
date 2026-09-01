@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T09:56:35Z",
+  "updatedAt": "2026-09-01T10:11:37Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,26 +126,42 @@
     ],
     "bilibili": [
       {
-        "title": "我们在日本皇宫寻找中国文物",
-        "url": "https://www.bilibili.com/video/BV1Wutu6KEny",
+        "title": "沙特2030愿景，现在怎么样了？",
+        "url": "https://www.bilibili.com/video/BV1HGta6aEf8",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
+        "description": "伊朗战乱已经好几个月了，边上一圈中东产油国可以说都受到了巨大的冲击。但这里面有一个国家最能扛，你知道是谁么? 就是 - 沙特。 我今天想从底层经济结构的角度，带大家来仔细看看，沙特这么庞大的一个经济体，到底准备怎么转身，怎么给整个国家\"去油\"？",
+        "content": "伊朗战乱已经好几个月了，边上一圈中东产油国可以说都受到了巨大的冲击。但这里面有一个国家最能扛，你知道是谁么? 就是 - 沙特。 我今天想从底层经济结构的角度，带大家来仔细看看，沙特这么庞大的一个经济体，到底准备怎么转身，怎么给整个国家\"去油\"？",
+        "bvid": "BV1HGta6aEf8",
+        "author": "小Lin说",
+        "duration": "11:7",
+        "cover": "//i2.hdslb.com/bfs/archive/68912c6c7b8fff18e6a98b643bb8298a2a29771f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HGta6aEf8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "沙特为何想从能源国家转型"
+      },
+      {
+        "title": "【何同学】库克时代",
+        "url": "https://www.bilibili.com/video/BV1G7tG6tEwL",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Wutu6KEny",
-        "author": "大漠叔叔",
-        "duration": "18:2",
-        "cover": "//i0.hdslb.com/bfs/archive/75361f39b280b2598134734df32e98e991a93617.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wutu6KEny&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大漠叔叔日本皇宫找中国文物"
+        "bvid": "BV1G7tG6tEwL",
+        "author": "老师好我叫何同学",
+        "duration": "43:35",
+        "cover": "//i0.hdslb.com/bfs/archive/e3416393aba9346f8524bd3e84c621ad5c8ca0e0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1G7tG6tEwL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "何同学眼中的库克时代"
       },
       {
         "title": "IG官宣王者荣耀分部成立，IG发布公告正式成立王者荣耀分部，并已顺利通过2027年K甲参赛资质评审，正式迈向K甲赛场！iG将和KGL甲级职业联赛开启新篇章！",
         "url": "https://www.bilibili.com/video/BV1iPtg6tE45",
         "desc": "",
-        "rank": 2,
+        "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -156,22 +172,6 @@
         "cover": "//i2.hdslb.com/bfs/archive/e2223473797e53d232611825166cb38793432ba1.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iPtg6tE45&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "IG王者荣耀分部成立"
-      },
-      {
-        "title": "勇哥竟然开餐饮店了！实测勇哥自营食堂，吃到力竭但不便宜…",
-        "url": "https://www.bilibili.com/video/BV1kj4D6mE7H",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1kj4D6mE7H",
-        "author": "罐头鉴定师",
-        "duration": "3:17",
-        "cover": "//i0.hdslb.com/bfs/archive/5addc5c8e704c83309d427a9c4c5a2fa34602936.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kj4D6mE7H&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "实测勇哥自营食堂"
       },
       {
         "title": "【铁豆钢蛋】你好 斌斌！",
@@ -190,42 +190,10 @@
         "hotTitle": "铁豆钢蛋终于见到胡彦斌了"
       },
       {
-        "title": "大 喻 治 水",
-        "url": "https://www.bilibili.com/video/BV1uqta6LEh9",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "OK了月底来不及了再整个小活XDM",
-        "content": "OK了月底来不及了再整个小活XDM",
-        "bvid": "BV1uqta6LEh9",
-        "author": "聒噪的山海君",
-        "duration": "1:22",
-        "cover": "//i1.hdslb.com/bfs/archive/c1720f4aede91d42dd9910e7859a0143ec683a12.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uqta6LEh9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "JackeyLove单曲大喻治水"
-      },
-      {
-        "title": "中期越无望，懂王越疯狂：伊朗和加拿大都没搞定的特朗普还能怎么赢？",
-        "url": "https://www.bilibili.com/video/BV1X2tb6rE3Z",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "特朗普必须证明自己没有做错。",
-        "content": "特朗普必须证明自己没有做错。",
-        "bvid": "BV1X2tb6rE3Z",
-        "author": "军武志",
-        "duration": "19:54",
-        "cover": "//i0.hdslb.com/bfs/archive/91537e4d8b00169e111ffd85401b61a7f261f149.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1X2tb6rE3Z&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "美国中期选举特朗普能赢吗"
-      },
-      {
         "title": "美网首轮出局！39岁德约科维奇泪洒赛场，他准备退役了？",
         "url": "https://www.bilibili.com/video/BV1iqtb6mE2R",
         "desc": "",
-        "rank": 7,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "美网首轮出局！39岁德约科维奇泪洒赛场，他准备退役了？",
@@ -238,58 +206,122 @@
         "hotTitle": "德约科维奇时隔11年重返中网"
       },
       {
-        "title": "法治在线 |“红灯停表”试点满月“骑手困局”破解几何？",
-        "url": "https://www.bilibili.com/video/BV183tb6iECL",
+        "title": "我们在日本皇宫寻找中国文物",
+        "url": "https://www.bilibili.com/video/BV1Wutu6KEny",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Wutu6KEny",
+        "author": "大漠叔叔",
+        "duration": "18:2",
+        "cover": "//i0.hdslb.com/bfs/archive/75361f39b280b2598134734df32e98e991a93617.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wutu6KEny&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大漠叔叔日本皇宫找中国文物"
+      },
+      {
+        "title": "勇哥竟然开餐饮店了！实测勇哥自营食堂，吃到力竭但不便宜…",
+        "url": "https://www.bilibili.com/video/BV1kj4D6mE7H",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1kj4D6mE7H",
+        "author": "罐头鉴定师",
+        "duration": "3:17",
+        "cover": "//i0.hdslb.com/bfs/archive/5addc5c8e704c83309d427a9c4c5a2fa34602936.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kj4D6mE7H&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "实测勇哥自营食堂"
+      },
+      {
+        "title": "大 喻 治 水",
+        "url": "https://www.bilibili.com/video/BV1uqta6LEh9",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "7月31日，苏州首批1100个路口上线外卖骑手“红灯停表”。17天后，无锡也上线了这项措施，并直接覆盖全市4253个信号灯路口。如今，试点已满一个月时间，依法等待不再由骑手独自承担时间成本。",
-        "content": "7月31日，苏州首批1100个路口上线外卖骑手“红灯停表”。17天后，无锡也上线了这项措施，并直接覆盖全市4253个信号灯路口。如今，试点已满一个月时间，依法等待不再由骑手独自承担时间成本。",
-        "bvid": "BV183tb6iECL",
-        "author": "央视网",
-        "duration": "18:2",
-        "cover": "//i1.hdslb.com/bfs/archive/f1903f15379b0fc7a4d728497776a94ace1a817e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV183tb6iECL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "骑手时间压力真的减轻了吗"
+        "description": "OK了月底来不及了再整个小活XDM",
+        "content": "OK了月底来不及了再整个小活XDM",
+        "bvid": "BV1uqta6LEh9",
+        "author": "聒噪的山海君",
+        "duration": "1:22",
+        "cover": "//i1.hdslb.com/bfs/archive/c1720f4aede91d42dd9910e7859a0143ec683a12.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uqta6LEh9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "JackeyLove单曲大喻治水"
       },
       {
-        "title": "吉隆“8·26”泥石流灾害哀悼活动在西藏吉隆举行",
-        "url": "https://www.bilibili.com/video/BV1ShtT6VE5F",
+        "title": "夜宿吉隆口岸，又一个不眠之夜",
+        "url": "https://www.bilibili.com/video/BV1rRt36GEGb",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "新华社西藏吉隆9月1日电 9月1日上午9时55分，西藏自治区在日喀则市公安局吉隆口岸分局举行遇难者哀悼活动，泥石流灾害救援现场、道路抢通现场等同步举行，多方人员、地方干部群众等参与哀悼活动。",
-        "content": "新华社西藏吉隆9月1日电 9月1日上午9时55分，西藏自治区在日喀则市公安局吉隆口岸分局举行遇难者哀悼活动，泥石流灾害救援现场、道路抢通现场等同步举行，多方人员、地方干部群众等参与哀悼活动。",
-        "bvid": "BV1ShtT6VE5F",
+        "description": "8月31日下午，新华社记者乘西藏自治区应急管理厅直升机，抵达西藏吉隆口岸核心受灾区，在现场开展救援工作报道。当晚，记者就地在口岸一线露营过夜。 记者：普布次仁、晋美多吉、索朗德吉、黄智琪、洛卓嘉措 新华社音视频部制作",
+        "content": "8月31日下午，新华社记者乘西藏自治区应急管理厅直升机，抵达西藏吉隆口岸核心受灾区，在现场开展救援工作报道。当晚，记者就地在口岸一线露营过夜。 记者：普布次仁、晋美多吉、索朗德吉、黄智琪、洛卓嘉措 新华社音视频部制作",
+        "bvid": "BV1rRt36GEGb",
         "author": "新华社",
-        "duration": "0:44",
-        "cover": "//i0.hdslb.com/bfs/archive/e4ee75f7d7618ab7e3c5ebbc9fd1ed5594ecdd3b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ShtT6VE5F&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "西藏吉隆举行泥石流灾害哀悼活动"
+        "duration": "3:1",
+        "cover": "//i0.hdslb.com/bfs/archive/8bcaae43ce4acb61f6f55225a8a4b3772246aad6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rRt36GEGb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "记者夜宿吉隆口岸直击救援"
       },
       {
-        "title": "华强买瓜，但郝哥能控制AI",
-        "url": "https://www.bilibili.com/video/BV1reth6tEFm",
+        "title": "中期越无望，懂王越疯狂：伊朗和加拿大都没搞定的特朗普还能怎么赢？",
+        "url": "https://www.bilibili.com/video/BV1X2tb6rE3Z",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "郝哥偶然间发现了AI世界的内幕，有了自由操控AI的能力，想必一定能逃离华强的魔爪。",
-        "content": "郝哥偶然间发现了AI世界的内幕，有了自由操控AI的能力，想必一定能逃离华强的魔爪。",
-        "bvid": "BV1reth6tEFm",
-        "author": "伊介书生",
-        "duration": "7:18",
-        "cover": "//i2.hdslb.com/bfs/archive/c6a46080031546e3dd9717e628293993d998279f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1reth6tEFm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "华强买瓜 但郝哥能控制AI"
+        "description": "特朗普必须证明自己没有做错。",
+        "content": "特朗普必须证明自己没有做错。",
+        "bvid": "BV1X2tb6rE3Z",
+        "author": "军武志",
+        "duration": "19:54",
+        "cover": "//i0.hdslb.com/bfs/archive/91537e4d8b00169e111ffd85401b61a7f261f149.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1X2tb6rE3Z&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "美国中期选举特朗普能赢吗"
+      },
+      {
+        "title": "【萌黄探秘】宇智波鼬[晓·朱]技能再探！和你交手的究竟是...?",
+        "url": "https://www.bilibili.com/video/BV1u6t36XE2a",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "前一秒还在交战，下一秒就变为乌鸦飞散而去......",
+        "content": "前一秒还在交战，下一秒就变为乌鸦飞散而去......",
+        "bvid": "BV1u6t36XE2a",
+        "author": "火影忍者手游情报君",
+        "duration": "0:48",
+        "cover": "//i2.hdslb.com/bfs/archive/6e0838aac8d72c26ecad4d117d438328cdc56b4d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1u6t36XE2a&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "火影手游晓朱鼬技能再爆料"
+      },
+      {
+        "title": "没坦克也没士兵，乌克兰这次阅兵有点不一样……",
+        "url": "https://www.bilibili.com/video/BV1kMt864EKB",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "8月24日，乌克兰独立35周年之际，一场不同寻常的阅兵式出现在乌克兰首都基辅。没有传统的坦克方阵，也没有整齐行进的士兵，只有涵盖陆海空多型无人装备。（兵器面面观）",
+        "content": "8月24日，乌克兰独立35周年之际，一场不同寻常的阅兵式出现在乌克兰首都基辅。没有传统的坦克方阵，也没有整齐行进的士兵，只有涵盖陆海空多型无人装备。（兵器面面观）",
+        "bvid": "BV1kMt864EKB",
+        "author": "央视军事",
+        "duration": "5:38",
+        "cover": "//i0.hdslb.com/bfs/archive/def064c0f455e8d16ffad831b7ba47e201ac723d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kMt864EKB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "乌克兰无人军火阅兵"
       },
       {
         "title": "赚欧元花欧元的话术骗局，一次讲透！",
         "url": "https://www.bilibili.com/video/BV1jkhK6oEmp",
         "desc": "",
-        "rank": 11,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -300,38 +332,6 @@
         "cover": "//i0.hdslb.com/bfs/archive/cb23615dbbac847312b1d8b0b91af1e0a140782b.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jkhK6oEmp&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "揭开赚欧元花欧元的骗局"
-      },
-      {
-        "title": "从零开始，黑龙江发现废弃石头屋改造寒冬避难所，首场暴风雪来之前要做好准备，提前存储物资",
-        "url": "https://www.bilibili.com/video/BV1BLt86QECJ",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这是一个全新的系列节目，因为大家很喜欢冬季视频，所以说这次从入冬囤资源开始拍摄，一直持续到寒冬零下40-50℃，可以比较全面的展示我们这里的冬季生活！也是我国北境的过冬实录，整个系列包括了房屋，履带车，石头庇护所，还有一个森林木屋，现在距离下雪已经进入了正式的倒计时。 虽然说看着还是绿，但是夜间的温度已经出现到将近零度 树叶泛黄到掉落只是几天的事情 大家如果喜欢的话可以多多三连点赞支持 观众老爷们的支持就是我的动力 干就完事了哈哈哈",
-        "content": "这是一个全新的系列节目，因为大家很喜欢冬季视频，所以说这次从入冬囤资源开始拍摄，一直持续到寒冬零下40-50℃，可以比较全面的展示我们这里的冬季生活！也是我国北境的过冬实录，整个系列包括了房屋，履带车，石头庇护所，还有一个森林木屋，现在距离下雪已经进入了正式的倒计时。 虽然说看着还是绿，但是夜间的温度已经出现到将近零度 树叶泛黄到掉落只是几天的事情 大家如果喜欢的话可以多多三连点赞支持 观众老爷们的支持就是我的动力 干就完事了哈哈哈",
-        "bvid": "BV1BLt86QECJ",
-        "author": "漠生铁铁",
-        "duration": "21:13",
-        "cover": "//i1.hdslb.com/bfs/archive/2ee43933b346b9e0074a6f9aca54874070bae72f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BLt86QECJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "用废弃石头屋改造避难所"
-      },
-      {
-        "title": "南方开学 vs 北方开学",
-        "url": "https://www.bilibili.com/video/BV1matt6AEqt",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "让我在评论区康康兄弟们都开学了吗？",
-        "content": "让我在评论区康康兄弟们都开学了吗？",
-        "bvid": "BV1matt6AEqt",
-        "author": "进击的金厂长",
-        "duration": "2:5",
-        "cover": "//i1.hdslb.com/bfs/archive/0f6b832860d1edd73dca306f175005ea953a82db.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1matt6AEqt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "南方开学vs北方开学"
       },
       {
         "title": "如果让专业厨师推荐私藏小店他们会怎么推荐？",
@@ -350,74 +350,10 @@
         "hotTitle": "一饭封神大厨私藏宝藏小店"
       },
       {
-        "title": "《釜山行》2.0？当丧尸学会进化，比人类还团结，我们还能有胜算吗？延尚昊导演科幻惊悚片《群体》",
-        "url": "https://www.bilibili.com/video/BV1wUt86FETK",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "2016年，延尚昊凭一部《釜山行》拿下8.6分，直接封神。 2026年，延尚昊拉上全智贤再放大招，希望能拍出一部超越《釜山行》的佳作。 这次丧尸全面升级，他们不但能共享大脑，相互传递信息，甚至还能做到群体共同升级。 话不多说，解说视频已备好，大家点击爽看！",
-        "content": "2016年，延尚昊凭一部《釜山行》拿下8.6分，直接封神。 2026年，延尚昊拉上全智贤再放大招，希望能拍出一部超越《釜山行》的佳作。 这次丧尸全面升级，他们不但能共享大脑，相互传递信息，甚至还能做到群体共同升级。 话不多说，解说视频已备好，大家点击爽看！",
-        "bvid": "BV1wUt86FETK",
-        "author": "小片片说大片",
-        "duration": "39:47",
-        "cover": "//i1.hdslb.com/bfs/archive/194ac2b09c384e090c5dfa3f5d5404bd40370777.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wUt86FETK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "小片片解说釜山行导演新作"
-      },
-      {
-        "title": "《开学自我介绍666》",
-        "url": "https://www.bilibili.com/video/BV1v5tN65Em4",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1v5tN65Em4",
-        "author": "韩比迪",
-        "duration": "1:10",
-        "cover": "//i0.hdslb.com/bfs/archive/414c532261f65865ad74c01ae9a703fe03799d17.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1v5tN65Em4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "开学自我介绍指南"
-      },
-      {
-        "title": "【拆解球星】地表最强175！巅峰进攻万人敌！以赛亚托马斯到底是造星还是真的强？",
-        "url": "https://www.bilibili.com/video/BV1tRtb6KEBc",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1tRtb6KEBc",
-        "author": "太吾车神",
-        "duration": "17:46",
-        "cover": "//i1.hdslb.com/bfs/archive/967ed27dbfbf6d024bbe7b7bdc499c0a020b464f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tRtb6KEBc&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "以赛亚托马斯巅峰有多强"
-      },
-      {
-        "title": "【KPL夏季赛二路解说合集】8月30日 广州TTG vs 北京JDG",
-        "url": "https://www.bilibili.com/video/BV114tH6GEzZ",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV114tH6GEzZ",
-        "author": "kpl二路",
-        "duration": "4594:22",
-        "cover": "//i2.hdslb.com/bfs/archive/a58641ff42075edc52583f349aa20de29027604e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV114tH6GEzZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "KPL系列团综回归"
-      },
-      {
         "title": "搜救不停，希望不灭！救援人员在口岸联检大楼附近开展地毯式搜救",
         "url": "https://www.bilibili.com/video/BV1g3th65EXN",
         "desc": "",
-        "rank": 19,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "（素材来源：中国移民管理）",
@@ -430,10 +366,58 @@
         "hotTitle": "救援人员在口岸联检大楼地毯式搜救"
       },
       {
+        "title": "《釜山行》2.0？当丧尸学会进化，比人类还团结，我们还能有胜算吗？延尚昊导演科幻惊悚片《群体》",
+        "url": "https://www.bilibili.com/video/BV1wUt86FETK",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "2016年，延尚昊凭一部《釜山行》拿下8.6分，直接封神。 2026年，延尚昊拉上全智贤再放大招，希望能拍出一部超越《釜山行》的佳作。 这次丧尸全面升级，他们不但能共享大脑，相互传递信息，甚至还能做到群体共同升级。 话不多说，解说视频已备好，大家点击爽看！",
+        "content": "2016年，延尚昊凭一部《釜山行》拿下8.6分，直接封神。 2026年，延尚昊拉上全智贤再放大招，希望能拍出一部超越《釜山行》的佳作。 这次丧尸全面升级，他们不但能共享大脑，相互传递信息，甚至还能做到群体共同升级。 话不多说，解说视频已备好，大家点击爽看！",
+        "bvid": "BV1wUt86FETK",
+        "author": "小片片说大片",
+        "duration": "39:47",
+        "cover": "//i1.hdslb.com/bfs/archive/194ac2b09c384e090c5dfa3f5d5404bd40370777.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wUt86FETK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "小片片解说釜山行导演新作"
+      },
+      {
+        "title": "从零开始，黑龙江发现废弃石头屋改造寒冬避难所，首场暴风雪来之前要做好准备，提前存储物资",
+        "url": "https://www.bilibili.com/video/BV1BLt86QECJ",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这是一个全新的系列节目，因为大家很喜欢冬季视频，所以说这次从入冬囤资源开始拍摄，一直持续到寒冬零下40-50℃，可以比较全面的展示我们这里的冬季生活！也是我国北境的过冬实录，整个系列包括了房屋，履带车，石头庇护所，还有一个森林木屋，现在距离下雪已经进入了正式的倒计时。 虽然说看着还是绿，但是夜间的温度已经出现到将近零度 树叶泛黄到掉落只是几天的事情 大家如果喜欢的话可以多多三连点赞支持 观众老爷们的支持就是我的动力 干就完事了哈哈哈",
+        "content": "这是一个全新的系列节目，因为大家很喜欢冬季视频，所以说这次从入冬囤资源开始拍摄，一直持续到寒冬零下40-50℃，可以比较全面的展示我们这里的冬季生活！也是我国北境的过冬实录，整个系列包括了房屋，履带车，石头庇护所，还有一个森林木屋，现在距离下雪已经进入了正式的倒计时。 虽然说看着还是绿，但是夜间的温度已经出现到将近零度 树叶泛黄到掉落只是几天的事情 大家如果喜欢的话可以多多三连点赞支持 观众老爷们的支持就是我的动力 干就完事了哈哈哈",
+        "bvid": "BV1BLt86QECJ",
+        "author": "漠生铁铁",
+        "duration": "21:13",
+        "cover": "//i1.hdslb.com/bfs/archive/2ee43933b346b9e0074a6f9aca54874070bae72f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BLt86QECJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "用废弃石头屋改造避难所"
+      },
+      {
+        "title": "《B 界 修 仙 传：长 篇 电 影》",
+        "url": "https://www.bilibili.com/video/BV1be426SEn7",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《B界修仙传》01-12电影合集来啦，助兄弟们爽看！！！投币催更后续精彩内容！！！！！！！！！",
+        "content": "《B界修仙传》01-12电影合集来啦，助兄弟们爽看！！！投币催更后续精彩内容！！！！！！！！！",
+        "bvid": "BV1be426SEn7",
+        "author": "进击的金厂长",
+        "duration": "99:14",
+        "cover": "//i1.hdslb.com/bfs/archive/2767fbeba412fdabfe9c84f6040b67417571a764.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1be426SEn7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "B界修仙传合集"
+      },
+      {
         "title": "一条视频看8月：债务和土地，中美旧账单到期，全世界开始找备选方案【地球村月刊】",
         "url": "https://www.bilibili.com/video/BV1AetW6LEZz",
         "desc": "",
-        "rank": 20,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "一键三连推荐给更多朋友！",
@@ -446,26 +430,26 @@
         "hotTitle": "8月全球时政财经热点回顾"
       },
       {
-        "title": "全程高能！队友接连失踪？活着并逃离这里！！！「逃离疯人院」",
-        "url": "https://www.bilibili.com/video/BV1CGtp66EEM",
+        "title": "南方开学 vs 北方开学",
+        "url": "https://www.bilibili.com/video/BV1matt6AEqt",
         "desc": "",
-        "rank": 21,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "三连总和过8w火速更新！！！！！ 夏天yB站交流群：291049296 原曲：Like A Star / Youngso Kim",
-        "content": "三连总和过8w火速更新！！！！！ 夏天yB站交流群：291049296 原曲：Like A Star / Youngso Kim",
-        "bvid": "BV1CGtp66EEM",
-        "author": "夏天y",
-        "duration": "21:37",
-        "cover": "//i1.hdslb.com/bfs/archive/a3663f39a80b3fcbe61c009a8e01b21a4d61f765.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CGtp66EEM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "在MC里玩逃离疯人院"
+        "description": "让我在评论区康康兄弟们都开学了吗？",
+        "content": "让我在评论区康康兄弟们都开学了吗？",
+        "bvid": "BV1matt6AEqt",
+        "author": "进击的金厂长",
+        "duration": "2:5",
+        "cover": "//i1.hdslb.com/bfs/archive/0f6b832860d1edd73dca306f175005ea953a82db.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1matt6AEqt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "南方开学vs北方开学"
       },
       {
         "title": "老叟戏顽童，但是军备竞赛",
         "url": "https://www.bilibili.com/video/BV1jDtx6GErd",
         "desc": "",
-        "rank": 22,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "视频灵感来源：@修2 喜欢的点个赞支持吧",
@@ -478,26 +462,74 @@
         "hotTitle": "老叟戏顽童但是军备竞赛"
       },
       {
-        "title": "漂亮的恶意01|误入充满恶意的顶级财阀校园，川渝转学生表示，她真的只想好好学习！",
-        "url": "https://www.bilibili.com/video/BV1Aj4D6UEHB",
+        "title": "法治在线 |“红灯停表”试点满月“骑手困局”破解几何？",
+        "url": "https://www.bilibili.com/video/BV183tb6iECL",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "7月31日，苏州首批1100个路口上线外卖骑手“红灯停表”。17天后，无锡也上线了这项措施，并直接覆盖全市4253个信号灯路口。如今，试点已满一个月时间，依法等待不再由骑手独自承担时间成本。",
+        "content": "7月31日，苏州首批1100个路口上线外卖骑手“红灯停表”。17天后，无锡也上线了这项措施，并直接覆盖全市4253个信号灯路口。如今，试点已满一个月时间，依法等待不再由骑手独自承担时间成本。",
+        "bvid": "BV183tb6iECL",
+        "author": "央视网",
+        "duration": "18:2",
+        "cover": "//i1.hdslb.com/bfs/archive/f1903f15379b0fc7a4d728497776a94ace1a817e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV183tb6iECL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "骑手时间压力真的减轻了吗"
+      },
+      {
+        "title": "华强买瓜，但郝哥能控制AI",
+        "url": "https://www.bilibili.com/video/BV1reth6tEFm",
         "desc": "",
         "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Aj4D6UEHB",
-        "author": "海底蟹黄堡007",
-        "duration": "6:36",
-        "cover": "//i0.hdslb.com/bfs/archive/d3b5a7cf7224e85f8af46308962f199d34cf599f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Aj4D6UEHB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主自制AI韩剧 漂亮的恶意"
+        "description": "郝哥偶然间发现了AI世界的内幕，有了自由操控AI的能力，想必一定能逃离华强的魔爪。",
+        "content": "郝哥偶然间发现了AI世界的内幕，有了自由操控AI的能力，想必一定能逃离华强的魔爪。",
+        "bvid": "BV1reth6tEFm",
+        "author": "伊介书生",
+        "duration": "7:18",
+        "cover": "//i2.hdslb.com/bfs/archive/c6a46080031546e3dd9717e628293993d998279f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1reth6tEFm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "华强买瓜 但郝哥能控制AI"
+      },
+      {
+        "title": "【拆解球星】地表最强175！巅峰进攻万人敌！以赛亚托马斯到底是造星还是真的强？",
+        "url": "https://www.bilibili.com/video/BV1tRtb6KEBc",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1tRtb6KEBc",
+        "author": "太吾车神",
+        "duration": "17:46",
+        "cover": "//i1.hdslb.com/bfs/archive/967ed27dbfbf6d024bbe7b7bdc499c0a020b464f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tRtb6KEBc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "以赛亚托马斯巅峰有多强"
+      },
+      {
+        "title": "《开学自我介绍666》",
+        "url": "https://www.bilibili.com/video/BV1v5tN65Em4",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1v5tN65Em4",
+        "author": "韩比迪",
+        "duration": "1:10",
+        "cover": "//i0.hdslb.com/bfs/archive/414c532261f65865ad74c01ae9a703fe03799d17.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1v5tN65Em4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "开学自我介绍指南"
       },
       {
         "title": "一口气看完《花少2》",
         "url": "https://www.bilibili.com/video/BV13oorByE7o",
         "desc": "",
-        "rank": 24,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -510,100 +542,68 @@
         "hotTitle": "花少2全网重新考古"
       },
       {
-        "title": "没坦克也没士兵，乌克兰这次阅兵有点不一样……",
-        "url": "https://www.bilibili.com/video/BV1kMt864EKB",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "8月24日，乌克兰独立35周年之际，一场不同寻常的阅兵式出现在乌克兰首都基辅。没有传统的坦克方阵，也没有整齐行进的士兵，只有涵盖陆海空多型无人装备。（兵器面面观）",
-        "content": "8月24日，乌克兰独立35周年之际，一场不同寻常的阅兵式出现在乌克兰首都基辅。没有传统的坦克方阵，也没有整齐行进的士兵，只有涵盖陆海空多型无人装备。（兵器面面观）",
-        "bvid": "BV1kMt864EKB",
-        "author": "央视军事",
-        "duration": "5:38",
-        "cover": "//i0.hdslb.com/bfs/archive/def064c0f455e8d16ffad831b7ba47e201ac723d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kMt864EKB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "乌克兰无人军火阅兵"
-      },
-      {
-        "title": "1.6万人同唱，龚琳娜现场全开麦！《剑网3》十七周年庆典全程回顾上线",
-        "url": "https://www.bilibili.com/video/BV1FXt864EDe",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《剑网3》十七周年庆典盛宴已圆满落幕！幸与诸君同行，万象新程，共赴此约！十七周年庆典回顾今日为君献上~",
-        "content": "《剑网3》十七周年庆典盛宴已圆满落幕！幸与诸君同行，万象新程，共赴此约！十七周年庆典回顾今日为君献上~",
-        "bvid": "BV1FXt864EDe",
-        "author": "剑网3",
-        "duration": "184:13",
-        "cover": "//i2.hdslb.com/bfs/archive/30b4e1dc4a01dee22aa0ef2cd2beab94a887ceb9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FXt864EDe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "剑网3十七周年演唱会全程回顾"
-      },
-      {
-        "title": "全世界都不同意开学",
-        "url": "https://www.bilibili.com/video/BV1YJtt63Eza",
+        "title": "漂亮的恶意01|误入充满恶意的顶级财阀校园，川渝转学生表示，她真的只想好好学习！",
+        "url": "https://www.bilibili.com/video/BV1Aj4D6UEHB",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1YJtt63Eza",
-        "author": "饼旭",
-        "duration": "1:1",
-        "cover": "//i1.hdslb.com/bfs/archive/0b0dbe29fc64d83d6d5e1ec9cd1e967f4ae01bff.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YJtt63Eza&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "全世界都不同意开学"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Aj4D6UEHB",
+        "author": "海底蟹黄堡007",
+        "duration": "6:36",
+        "cover": "//i0.hdslb.com/bfs/archive/d3b5a7cf7224e85f8af46308962f199d34cf599f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Aj4D6UEHB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主自制AI韩剧 漂亮的恶意"
       },
       {
-        "title": "S级越位划线？不，S形！他们怎么敢这么明目张胆！！#中超 #上海申花vs山东泰山 #买乌郎闪电进球 #咖啡醉足球 #越位划线",
-        "url": "https://www.bilibili.com/video/BV14nth6MExu",
+        "title": "【KPL夏季赛二路解说合集】8月30日 广州TTG vs 北京JDG",
+        "url": "https://www.bilibili.com/video/BV114tH6GEzZ",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "S级越位划线？不，S形！他们怎么敢这么明目张胆！！#中超 #上海申花vs山东泰山 #买乌郎闪电进球 #咖啡醉足球 #越位划线",
-        "content": "S级越位划线？不，S形！他们怎么敢这么明目张胆！！#中超 #上海申花vs山东泰山 #买乌郎闪电进球 #咖啡醉足球 #越位划线",
-        "bvid": "BV14nth6MExu",
-        "author": "咖啡醉足球",
-        "duration": "7:57",
-        "cover": "//i1.hdslb.com/bfs/archive/bafcf6c558560444e805769dd5455532ac4e9e86.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14nth6MExu&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "申花泰山S形越位线争议"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV114tH6GEzZ",
+        "author": "kpl二路",
+        "duration": "4594:22",
+        "cover": "//i2.hdslb.com/bfs/archive/a58641ff42075edc52583f349aa20de29027604e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV114tH6GEzZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "KPL系列团综回归"
       },
       {
-        "title": "2026全球总决赛LCP赛区三席名额确认",
-        "url": "https://www.bilibili.com/video/BV1ZctG6MEXT",
+        "title": "吉隆“8·26”泥石流灾害哀悼活动在西藏吉隆举行",
+        "url": "https://www.bilibili.com/video/BV1ShtT6VE5F",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ZctG6MEXT",
-        "author": "英雄联盟赛事",
-        "duration": "0:20",
-        "cover": "//i1.hdslb.com/bfs/archive/167c93543baa510cbc738cab28f77e9fe7472a05.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZctG6MEXT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "LCP赛区三席名额确认"
+        "description": "新华社西藏吉隆9月1日电 9月1日上午9时55分，西藏自治区在日喀则市公安局吉隆口岸分局举行遇难者哀悼活动，泥石流灾害救援现场、道路抢通现场等同步举行，多方人员、地方干部群众等参与哀悼活动。",
+        "content": "新华社西藏吉隆9月1日电 9月1日上午9时55分，西藏自治区在日喀则市公安局吉隆口岸分局举行遇难者哀悼活动，泥石流灾害救援现场、道路抢通现场等同步举行，多方人员、地方干部群众等参与哀悼活动。",
+        "bvid": "BV1ShtT6VE5F",
+        "author": "新华社",
+        "duration": "0:44",
+        "cover": "//i0.hdslb.com/bfs/archive/e4ee75f7d7618ab7e3c5ebbc9fd1ed5594ecdd3b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ShtT6VE5F&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "西藏吉隆举行泥石流灾害哀悼活动"
       },
       {
-        "title": "如何既社会，又保持自我！？",
-        "url": "https://www.bilibili.com/video/BV1tdtb6vEna",
+        "title": "【迪仔】半夜数螺丝的人，成了苹果新 CEO...",
+        "url": "https://www.bilibili.com/video/BV1CCtT6PEm2",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1tdtb6vEna",
-        "author": "与书籍度过漫长岁月",
-        "duration": "13:16",
-        "cover": "//i0.hdslb.com/bfs/archive/5d8dc37aa07ef60e4e751c800dcfdcc49778c27f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tdtb6vEna&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "高中生如何应对大学生活"
+        "description": "25年前，他只是一个半夜在车间“数螺丝的人”？ 特努斯到底做对了什么，让库克可以如此信任他？！他又会带苹果走向哪里...一口气看明白！👀",
+        "content": "25年前，他只是一个半夜在车间“数螺丝的人”？ 特努斯到底做对了什么，让库克可以如此信任他？！他又会带苹果走向哪里...一口气看明白！👀",
+        "bvid": "BV1CCtT6PEm2",
+        "author": "迪仔Dizzz",
+        "duration": "8:21",
+        "cover": "//i0.hdslb.com/bfs/archive/9a61b0409f08258e5feac7dcd0f3352847922d61.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CCtT6PEm2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "苹果新CEO凭啥是他"
       }
     ],
     "qbitai": [
@@ -950,6 +950,36 @@
         "rank": 4
       },
       {
+        "title": "赛力斯：8月新能源汽车销量24244辆",
+        "url": "https://m.36kr.com/newsflashes/3964689581366533",
+        "desc": "36氪获悉，赛力斯公告，2026年8月新能源汽车产量24742辆，同比下降42.55%；销量24244辆，同比下降43.96%；本年累计产量22.97万辆，累计同比下降13.22%；累计销量22.73万辆，累计同比下降12.58%。",
+        "cover": "",
+        "date": 1788257448081,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "从生成工具到专业创作伙伴，小云雀AI官宣品牌升级",
+        "url": "https://m.36kr.com/newsflashes/3964686162763272",
+        "desc": "8月31日，小云雀AI宣布品牌升级，围绕“一起创作好故事”这一全新定位，同步升级产品能力、创作者扶持政策和内容生态。升级后的小云雀基于剧本、角色、场景、调度和后期等环节搭建了更完整的AI创作工作流，从“快速生成一条内容”的工具，转变为能够支持完整故事创作的平台。未来3年，小云雀AI将投入一亿积分，依托创作者计划、剧本大赛等活动，支持更多创作者讲出好故事。",
+        "cover": "",
+        "date": 1788257239426,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "蔚来：二季度营收321.4亿元，同比增长69.1%",
+        "url": "https://m.36kr.com/newsflashes/3964681728400649",
+        "desc": "36氪获悉，蔚来发布2026年第二季度财报。财报显示，蔚来二季度实现营收321.4亿元，同比增长69.1%；其中车辆销量290.582亿元，同比增长80.1%。净亏损5.28亿元，上年同期净亏损49.948亿元；剔除基于股份的薪酬费用，第二季度调整后净利润（非GAAP）为2610万元。",
+        "cover": "",
+        "date": 1788256968774,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "胖东来1-8月销售额超195亿，同比增长26.98%",
         "url": "https://m.36kr.com/newsflashes/3964669173095944",
         "desc": "36氪获悉，胖东来创始人于东来在个人账号发布胖东来经营数据。数据显示，胖东来2026年前8个月销售额超过195亿，同比增长26.98%。",
@@ -957,7 +987,7 @@
         "date": 1788256202459,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "瑞斯康达：因违规披露重要信息罪，两董事被判处有期徒刑一年六个月并处罚金100万元",
@@ -967,7 +997,7 @@
         "date": 1788255670610,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "宇树回应超百元报销需王兴兴审批传闻",
@@ -977,7 +1007,7 @@
         "date": 1788255396430,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "杭萧钢构：签约11.28亿元海外项目合同",
@@ -987,7 +1017,7 @@
         "date": 1788255300000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "国投电力：吉能（舟山）燃气2号机组正式投产",
@@ -997,7 +1027,7 @@
         "date": 1788255072000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "上汽集团：8月整车销量35.7万辆，同比下降1.75%",
@@ -1007,7 +1037,7 @@
         "date": 1788254810164,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "立讯精密：已回购1766.54万股，使用资金总额10亿元",
@@ -1017,7 +1047,7 @@
         "date": 1788254656090,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "摩根士丹利对中际旭创H股的多头持仓比例降至6.55%",
@@ -1027,7 +1057,7 @@
         "date": 1788254495342,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "澜起科技：已累计回购91万股，支付金额约1.83亿元",
@@ -1037,7 +1067,7 @@
         "date": 1788254430060,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "宜家中国回应降价",
@@ -1047,7 +1077,7 @@
         "date": 1788254375000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "腾景科技：初步确定的询价转让价格为170元/股",
@@ -1057,7 +1087,7 @@
         "date": 1788254143000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "电子布指数下跌超3%，多家上市公司回应：下游需求旺盛， 仍以扩产为主",
@@ -1067,7 +1097,7 @@
         "date": 1788253752603,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "兆易创新：已累计回购166.23万股，耗资6.54亿元",
@@ -1077,7 +1107,7 @@
         "date": 1788253670742,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "比亚迪：8月乘用车销量43.3万辆",
@@ -1087,7 +1117,7 @@
         "date": 1788253497789,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "印度总理莫迪呼吁民众少买黄金，称自力更生有助应对外部冲击",
@@ -1097,7 +1127,7 @@
         "date": 1788253062677,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "金诚信：签署3亿元磷矿矿建工程合同",
@@ -1107,7 +1137,7 @@
         "date": 1788252838706,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 23
       },
       {
         "title": "CIDEX 2026数智强防创新发展论坛将于9月16日在京举办，聚焦数据与AI+国防",
@@ -1117,45 +1147,15 @@
         "date": 1788252541411,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "吉利汽车：8月销量270194辆，同比增长8%",
-        "url": "https://m.36kr.com/newsflashes/3964599907278344",
-        "desc": "36氪获悉，吉利汽车公告，8月销量270194辆，同比增长8%；8月纯电动汽车销量120590辆，同比增长29%；8月插电式混动汽车55287辆，同比增长2%。",
-        "cover": "",
-        "date": 1788252329000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "安琪酵母：拟投资9.7亿元实施酵母蛋白核心技术攻关工程项目",
-        "url": "https://m.36kr.com/newsflashes/3964593091468801",
-        "desc": "36氪获悉，安琪酵母公告，公司全资子公司宜昌公司拟实施酵母蛋白核心技术攻关工程项目，计划新建年产2万吨酵母蛋白及联产产品、4000吨复配生产线及配套环保等公用工程，项目总投资9.7亿元，建设期16个月，预计2027年4月开工。项目已获董事会审议通过，尚需提交股东会审议及有关部门批准。",
-        "cover": "",
-        "date": 1788252256961,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "市场监管总局公开征求《网络交易小程序平台合规指引（征求意见稿）》意见",
-        "url": "https://m.36kr.com/newsflashes/3964591568985347",
-        "desc": "36氪获悉，为贯彻落实党中央、国务院关于提升平台经济常态化监管水平的决策部署，市场监管总局研究起草了《网络交易小程序平台合规指引（征求意见稿）》，现向社会公开征求意见。《指引》共19条。第一条至第三条是对《指引》的总体说明，其中第一条是目的和依据，第二条是适用范围与基本概念，第三条是基本要求。第四条至第十六条是对网络交易小程序平台经营者的具体合规指导，其中第四条是资质信息审核责任，第五条是平台协议及交易规则，第六条是信息公示责任，第七条是信用建设，第八条是检查监控制度，第九条是处理措施，第十条是小程序退出，第十一条是合规管理，第十二条是消费者评价，第十三条是消费者投诉，第十四条是质量管理，第十五条是信息报送责任，第十六条是配合责任。第十七条、第十八条和第十九条是协同共治、指引的效力和解释。",
-        "cover": "",
-        "date": 1788251465880,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788256565165,
-    "bilibili": 1788255039365,
-    "qbitai": 1788256594678,
-    "36kr": 1788256595217
+    "thepaper": 1788257464443,
+    "bilibili": 1788256847055,
+    "qbitai": 1788257497068,
+    "36kr": 1788257497379
   },
   "failures": {}
 }
