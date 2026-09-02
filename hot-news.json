@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T08:41:28Z",
+  "updatedAt": "2026-09-02T08:56:28Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -142,36 +142,36 @@
         "hotTitle": "LPL常规赛最佳阵容公布"
       },
       {
-        "title": "平均年龄25岁，他们造了条“会飞的鱼”",
-        "url": "https://www.bilibili.com/video/BV1oYt76DE29",
+        "title": "DLSS 5 | 推出 3D 引导神经网络渲染",
+        "url": "https://www.bilibili.com/video/BV1o8tV6TEKo",
         "desc": "",
         "rank": 2,
         "kind": "video",
         "platform": "bilibili",
-        "description": "近日，外交部发言人林剑向世界推介中国“会飞的鱼”：SkyX仿生飞鱼。这个产品由湖南长沙一个平均年龄25岁的青年团队自主研发。 长沙夜鹰智能科技有限公司创始人瞿光檄自校园时期开启无人机创业，他跳出传统四旋翼方案，采用仿生固定翼构型研发水空跨介质飞行器。 团队先后获得导师启动资金、湖南省大学生创业投资基金支持，并联动国防科技大学开展技术攻关，完成五代样机迭代。依托湘江新区完善的创新创业生态，项目持续优化，推进多场景验证与产业化落地。 从一个好点子到一个新产品，少年的追梦之路还将越走越远，湖湘热土也将为更",
-        "content": "近日，外交部发言人林剑向世界推介中国“会飞的鱼”：SkyX仿生飞鱼。这个产品由湖南长沙一个平均年龄25岁的青年团队自主研发。 长沙夜鹰智能科技有限公司创始人瞿光檄自校园时期开启无人机创业，他跳出传统四旋翼方案，采用仿生固定翼构型研发水空跨介质飞行器。 团队先后获得导师启动资金、湖南省大学生创业投资基金支持，并联动国防科技大学开展技术攻关，完成五代样机迭代。依托湘江新区完善的创新创业生态，项目持续优化，推进多场景验证与产业化落地。 从一个好点子到一个新产品，少年的追梦之路还将越走越远，湖湘热土也将为更",
-        "bvid": "BV1oYt76DE29",
-        "author": "新华社",
-        "duration": "3:19",
-        "cover": "//i2.hdslb.com/bfs/archive/50e26cbd6dd0c77a74c7dce5c4b37dac56332533.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oYt76DE29&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "青年团队自主研发SkyX仿生飞鱼"
+        "description": "DLSS 5 推出了 3D 引导神经网络渲染技术，利用 AI 为游戏场景提供逼真的光照和材质效果。开发者可为每款游戏的最终输出效果进行调整，从而将他们的艺术构想变为现实。 一起来了解 DLSS 5 及开发者控制功能的工作原理。",
+        "content": "DLSS 5 推出了 3D 引导神经网络渲染技术，利用 AI 为游戏场景提供逼真的光照和材质效果。开发者可为每款游戏的最终输出效果进行调整，从而将他们的艺术构想变为现实。 一起来了解 DLSS 5 及开发者控制功能的工作原理。",
+        "bvid": "BV1o8tV6TEKo",
+        "author": "英伟达GeForce",
+        "duration": "11:1",
+        "cover": "//i2.hdslb.com/bfs/archive/eb3b91a53e780a30427f3ec1be4b6f985ea8d268.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1o8tV6TEKo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DLSS 5推出3D引导神经网络渲染"
       },
       {
-        "title": "海外RTX5090售价突破5000美元｜显卡日报9月2日",
-        "url": "https://www.bilibili.com/video/BV1MKtV69Ezm",
+        "title": "最强模型来了！Claude Fable 5.1 八项实测：成本砍半，能力更强",
+        "url": "https://www.bilibili.com/video/BV1entE6UEhy",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "日报有用记得三连哦，你的鼓励真的很重要～",
-        "content": "日报有用记得三连哦，你的鼓励真的很重要～",
-        "bvid": "BV1MKtV69Ezm",
-        "author": "芝士华莱士",
-        "duration": "2:1",
-        "cover": "//i2.hdslb.com/bfs/archive/157591f0bdad8fda3573b4cb15035b1f939c9380.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MKtV69Ezm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "5090海外售价突破5000美元"
+        "description": "欢迎关注我的知识星球：https://t.zsxq.com/FF0He 我会分享最新AI资讯、源代码、回答你的提问。 Claude Fable 5.1 到底有多强？这期视频实测它在编程、网页、3D 建模与创意写作中的真实表现。 测试包括：一次提示生成可浏览的《清明上河图》、验证 97 种 3D 魔尺造型、把宜家 PDF 做成动画安装网页，以及完成 Blender、Unity、OpenSCAD 和 JavaScript 项目。 整轮测试按 Cursor API 价格计算约花费 130 美元。它更强、更",
+        "content": "欢迎关注我的知识星球：https://t.zsxq.com/FF0He 我会分享最新AI资讯、源代码、回答你的提问。 Claude Fable 5.1 到底有多强？这期视频实测它在编程、网页、3D 建模与创意写作中的真实表现。 测试包括：一次提示生成可浏览的《清明上河图》、验证 97 种 3D 魔尺造型、把宜家 PDF 做成动画安装网页，以及完成 Blender、Unity、OpenSCAD 和 JavaScript 项目。 整轮测试按 Cursor API 价格计算约花费 130 美元。它更强、更",
+        "bvid": "BV1entE6UEhy",
+        "author": "kate人不错",
+        "duration": "14:45",
+        "cover": "//i0.hdslb.com/bfs/archive/6350e1793e6891414f52ef63745fe534305400d3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1entE6UEhy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主实测Fable5.1"
       },
       {
         "title": "【完整回放】常规赛第四周周决赛 | 2026烽火职业联赛夏季赛",
@@ -190,90 +190,26 @@
         "hotTitle": "烽火职业联赛夏季赛"
       },
       {
-        "title": "手搓！用20w颗拼豆做了20s动画",
-        "url": "https://www.bilibili.com/video/BV1Wwt86hE6p",
+        "title": "海外RTX5090售价突破5000美元｜显卡日报9月2日",
+        "url": "https://www.bilibili.com/video/BV1MKtV69Ezm",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "燃尽…没想到制作的过程漫长的像一场修行，硬着头皮做完，所幸效果还可以。一直想做千禧的主题，我把这个动画短片的时间定格在了2003年，qq秀刚刚流行，家里标配红色座机，我拥有了第一台cd机，最喜欢用它听爱在西元前…",
-        "content": "燃尽…没想到制作的过程漫长的像一场修行，硬着头皮做完，所幸效果还可以。一直想做千禧的主题，我把这个动画短片的时间定格在了2003年，qq秀刚刚流行，家里标配红色座机，我拥有了第一台cd机，最喜欢用它听爱在西元前…",
-        "bvid": "BV1Wwt86hE6p",
-        "author": "丘里丘气",
-        "duration": "5:27",
-        "cover": "//i1.hdslb.com/bfs/archive/f8f7c2fb76d8f34f8296f2a0dff7bf7cdb236098.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wwt86hE6p&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主用20w颗拼豆手搓20s动画"
-      },
-      {
-        "title": "把公司当成主题乐园",
-        "url": "https://www.bilibili.com/video/BV1n1tA67EsT",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1n1tA67EsT",
-        "author": "papi酱",
-        "duration": "3:3",
-        "cover": "//i2.hdslb.com/bfs/archive/a621db649f4c9e9f4c495416eb8ca9d57757813b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1n1tA67EsT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "把公司当成主题乐园"
-      },
-      {
-        "title": "恭喜Knight选手第5次获得常规赛MVP，并刷新了自己保持的LPL最高常规赛MVP次数纪录。",
-        "url": "https://www.bilibili.com/video/BV1QStJ6mEbT",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1QStJ6mEbT",
-        "author": "英雄联盟赛事",
-        "duration": "0:16",
-        "cover": "//i0.hdslb.com/bfs/archive/c5f9e57df267fe604e9b578e463dd0eb62a74765.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QStJ6mEbT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Knight获常规赛MVP"
-      },
-      {
-        "title": "中国校徽都是圆的？",
-        "url": "https://www.bilibili.com/video/BV1kTtE6tEKf",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1kTtE6tEKf",
-        "author": "吕宸joker",
-        "duration": "2:23",
-        "cover": "//i0.hdslb.com/bfs/archive/6d40fee4ac8b709212eb272530b5b36cd2156891.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kTtE6tEKf&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国校徽都是圆的吗"
-      },
-      {
-        "title": "最强模型来了！Claude Fable 5.1 八项实测：成本砍半，能力更强",
-        "url": "https://www.bilibili.com/video/BV1entE6UEhy",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "欢迎关注我的知识星球：https://t.zsxq.com/FF0He 我会分享最新AI资讯、源代码、回答你的提问。 Claude Fable 5.1 到底有多强？这期视频实测它在编程、网页、3D 建模与创意写作中的真实表现。 测试包括：一次提示生成可浏览的《清明上河图》、验证 97 种 3D 魔尺造型、把宜家 PDF 做成动画安装网页，以及完成 Blender、Unity、OpenSCAD 和 JavaScript 项目。 整轮测试按 Cursor API 价格计算约花费 130 美元。它更强、更",
-        "content": "欢迎关注我的知识星球：https://t.zsxq.com/FF0He 我会分享最新AI资讯、源代码、回答你的提问。 Claude Fable 5.1 到底有多强？这期视频实测它在编程、网页、3D 建模与创意写作中的真实表现。 测试包括：一次提示生成可浏览的《清明上河图》、验证 97 种 3D 魔尺造型、把宜家 PDF 做成动画安装网页，以及完成 Blender、Unity、OpenSCAD 和 JavaScript 项目。 整轮测试按 Cursor API 价格计算约花费 130 美元。它更强、更",
-        "bvid": "BV1entE6UEhy",
-        "author": "kate人不错",
-        "duration": "14:45",
-        "cover": "//i0.hdslb.com/bfs/archive/6350e1793e6891414f52ef63745fe534305400d3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1entE6UEhy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主实测Fable5.1"
+        "description": "日报有用记得三连哦，你的鼓励真的很重要～",
+        "content": "日报有用记得三连哦，你的鼓励真的很重要～",
+        "bvid": "BV1MKtV69Ezm",
+        "author": "芝士华莱士",
+        "duration": "2:1",
+        "cover": "//i2.hdslb.com/bfs/archive/157591f0bdad8fda3573b4cb15035b1f939c9380.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MKtV69Ezm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "5090海外售价突破5000美元"
       },
       {
         "title": "极限挑战——时光大桥",
         "url": "https://www.bilibili.com/video/BV1BjtE6HExq",
         "desc": "",
-        "rank": 10,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "重游时光大桥，又想起当年桥上的一幕幕场景。",
@@ -286,26 +222,10 @@
         "hotTitle": "王迅重游极限挑战的时光大桥"
       },
       {
-        "title": "【IGN】10分，《鬼武者 剑之道》评测：享受战斗",
-        "url": "https://www.bilibili.com/video/BV1yktE6eEnt",
-        "desc": "",
-        "rank": 11,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《鬼武者 剑之道》用扎实而富有挑战的战斗撑起了整场冒险。精准的招架与一闪让玩家在一次次失败中真正掌握战斗节奏，再加上出色的角色塑造与精彩的Boss战让这场迟来的回归依然足够惊艳。",
-        "content": "《鬼武者 剑之道》用扎实而富有挑战的战斗撑起了整场冒险。精准的招架与一闪让玩家在一次次失败中真正掌握战斗节奏，再加上出色的角色塑造与精彩的Boss战让这场迟来的回归依然足够惊艳。",
-        "bvid": "BV1yktE6eEnt",
-        "author": "IGN中国",
-        "duration": "11:52",
-        "cover": "//i2.hdslb.com/bfs/archive/688d4d132c30a22374ae2b883200691b6a4bfddb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yktE6eEnt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "鬼武者剑之道获IGN10分"
-      },
-      {
         "title": "“什么叫程心的威慑度是100%？”",
         "url": "https://www.bilibili.com/video/BV1p5t366EuM",
         "desc": "",
-        "rank": 12,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "最！程！幻！想！",
@@ -318,10 +238,58 @@
         "hotTitle": "面壁者程心"
       },
       {
+        "title": "把公司当成主题乐园",
+        "url": "https://www.bilibili.com/video/BV1n1tA67EsT",
+        "desc": "",
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1n1tA67EsT",
+        "author": "papi酱",
+        "duration": "3:3",
+        "cover": "//i2.hdslb.com/bfs/archive/a621db649f4c9e9f4c495416eb8ca9d57757813b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1n1tA67EsT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "把公司当成主题乐园"
+      },
+      {
+        "title": "手搓！用20w颗拼豆做了20s动画",
+        "url": "https://www.bilibili.com/video/BV1Wwt86hE6p",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "燃尽…没想到制作的过程漫长的像一场修行，硬着头皮做完，所幸效果还可以。一直想做千禧的主题，我把这个动画短片的时间定格在了2003年，qq秀刚刚流行，家里标配红色座机，我拥有了第一台cd机，最喜欢用它听爱在西元前…",
+        "content": "燃尽…没想到制作的过程漫长的像一场修行，硬着头皮做完，所幸效果还可以。一直想做千禧的主题，我把这个动画短片的时间定格在了2003年，qq秀刚刚流行，家里标配红色座机，我拥有了第一台cd机，最喜欢用它听爱在西元前…",
+        "bvid": "BV1Wwt86hE6p",
+        "author": "丘里丘气",
+        "duration": "5:27",
+        "cover": "//i1.hdslb.com/bfs/archive/f8f7c2fb76d8f34f8296f2a0dff7bf7cdb236098.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wwt86hE6p&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主用20w颗拼豆手搓20s动画"
+      },
+      {
+        "title": "中国校徽都是圆的？",
+        "url": "https://www.bilibili.com/video/BV1kTtE6tEKf",
+        "desc": "",
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1kTtE6tEKf",
+        "author": "吕宸joker",
+        "duration": "2:23",
+        "cover": "//i0.hdslb.com/bfs/archive/6d40fee4ac8b709212eb272530b5b36cd2156891.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kTtE6tEKf&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国校徽都是圆的吗"
+      },
+      {
         "title": "《明日方舟》干员「结城理」技能展示PV",
         "url": "https://www.bilibili.com/video/BV1RhtV6iEt3",
         "desc": "",
-        "rank": 13,
+        "rank": 11,
         "kind": "video",
         "platform": "bilibili",
         "description": "《明日方舟》干员「结城理」技能展示PV ———————————— 【明日方舟 × 女神异闻录３ Reload】SideStory「月行水上」限时活动即将开启 更多活动详情内容详见游戏内公告。",
@@ -334,90 +302,42 @@
         "hotTitle": "明日方舟结城理技能展示PV"
       },
       {
-        "title": "【终末地首日攻略#1】提弗洛斯攻略",
-        "url": "https://www.bilibili.com/video/BV1q5tE6XEoE",
+        "title": "16.18版本更新：剑圣高原血统加强！羊刀持续时间增加！泰坦巴德削弱！",
+        "url": "https://www.bilibili.com/video/BV1XStJ6mE5n",
         "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "文案：吃我无痕，小羊早睡不遭罪，景景勇敢一点，血狼破军 账号提供：橘橘猫 后期&美工：景景勇敢一点，吃我无痕 因水平与精力有限，视频难免有错漏，欢迎大家在评论区中指出 详细测评之后会更新",
-        "content": "文案：吃我无痕，小羊早睡不遭罪，景景勇敢一点，血狼破军 账号提供：橘橘猫 后期&美工：景景勇敢一点，吃我无痕 因水平与精力有限，视频难免有错漏，欢迎大家在评论区中指出 详细测评之后会更新",
-        "bvid": "BV1q5tE6XEoE",
-        "author": "血狼破军",
-        "duration": "7:16",
-        "cover": "//i1.hdslb.com/bfs/archive/c186c7351b27e1cf87ad91e7b2384def5632d3dc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1q5tE6XEoE&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "终末地提弗洛斯攻略"
-      },
-      {
-        "title": "Anthropic 发布 Claude Fable 5.1 ；OpenAI 宣布即将发布 Astra【AI 早报 2026-09-02】",
-        "url": "https://www.bilibili.com/video/BV1mDtL6hE4x",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "相关链接和文字版请看：https://mp.weixin.qq.com/s/nZwDfBUyh-c9kOvrMUEKvA",
-        "content": "相关链接和文字版请看：https://mp.weixin.qq.com/s/nZwDfBUyh-c9kOvrMUEKvA",
-        "bvid": "BV1mDtL6hE4x",
-        "author": "橘鸦Juya",
-        "duration": "4:33",
-        "cover": "//i1.hdslb.com/bfs/archive/b6a616bc2126f312870a3f5c59d5b6edfc830291.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mDtL6hE4x&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Anthropic发布新模型"
-      },
-      {
-        "title": "当我用大学生的方式，打开苹果发布会？",
-        "url": "https://www.bilibili.com/video/BV1w5t366Eru",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "Good morning，欢迎来到大学新学期发布会（抢先版）",
-        "content": "Good morning，欢迎来到大学新学期发布会（抢先版）",
-        "bvid": "BV1w5t366Eru",
-        "author": "麦橘TEL",
-        "duration": "7:24",
-        "cover": "//i2.hdslb.com/bfs/archive/edf3fab61c0044c0ab0f4bd037e292d232db8d8b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1w5t366Eru&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "用大学生的方式打开苹果发布会"
-      },
-      {
-        "title": "【终末地】1.5基建毕业蓝图攻略！ |魔法Zc目录",
-        "url": "https://www.bilibili.com/video/BV1Njt76YE9S",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本视频主要介绍新版本修改之处，新同学请配合1.4蓝图食用：BV1SHKH6FE6T 《明日方舟：终末地》蓝图 [1.5调整模块]分享码EF015i2O4O271uaIieIoe 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5应龙关1]分享码EF018OI3o3I2e12u6UI73 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5应龙关2]分享码EF010819a91uOi138E179 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5首墩灼铜]分享码EF016u01",
-        "content": "本视频主要介绍新版本修改之处，新同学请配合1.4蓝图食用：BV1SHKH6FE6T 《明日方舟：终末地》蓝图 [1.5调整模块]分享码EF015i2O4O271uaIieIoe 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5应龙关1]分享码EF018OI3o3I2e12u6UI73 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5应龙关2]分享码EF010819a91uOi138E179 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5首墩灼铜]分享码EF016u01",
-        "bvid": "BV1Njt76YE9S",
-        "author": "魔法Zc目录",
-        "duration": "4:53",
-        "cover": "//i2.hdslb.com/bfs/archive/5680c1f121921d1df0d9e549c000d9309b50f275.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Njt76YE9S&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "终末地1.5基建毕业蓝图攻略"
-      },
-      {
-        "title": "【补档】花少2解说第一期",
-        "url": "https://www.bilibili.com/video/BV1GKt76gEeE",
-        "desc": "",
-        "rank": 18,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1GKt76gEeE",
-        "author": "郭本尼",
-        "duration": "14:18",
-        "cover": "//i2.hdslb.com/bfs/archive/cf443438ab7f6496b8a8945cdd32b4da24677826.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GKt76gEeE&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "郭本尼深度解说花少2"
+        "bvid": "BV1XStJ6mE5n",
+        "author": "布锅锅",
+        "duration": "2:8",
+        "cover": "//i1.hdslb.com/bfs/archive/cb03e966eec87d2e90afadc385b0a66a7c4d8375.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XStJ6mE5n&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "英雄联盟16.18版本有何更新"
+      },
+      {
+        "title": "三角洲行动 新刀皮2折起！周年庆保底3900点卷！吴彦祖返厂！S11赛季季前赛爆料汇总！",
+        "url": "https://www.bilibili.com/video/BV1QZtG6FEw1",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "三角洲行动 新刀皮2折起！周年庆保底3900点卷！吴彦祖返厂！S11赛季季前赛爆料汇总！ MK4 新刀皮 新红皮 骇爪 牧羊人 赛季前瞻",
+        "content": "三角洲行动 新刀皮2折起！周年庆保底3900点卷！吴彦祖返厂！S11赛季季前赛爆料汇总！ MK4 新刀皮 新红皮 骇爪 牧羊人 赛季前瞻",
+        "bvid": "BV1QZtG6FEw1",
+        "author": "Always聪聪",
+        "duration": "5:21",
+        "cover": "//i1.hdslb.com/bfs/archive/639ca375692162b75e9b1a0ffd1b33c7121d5fba.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QZtG6FEw1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "三角洲S11季前赛爆料汇总"
       },
       {
         "title": "华强买瓜，但郝哥能控制AI",
         "url": "https://www.bilibili.com/video/BV1reth6tEFm",
         "desc": "",
-        "rank": 19,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "郝哥偶然间发现了AI世界的内幕，有了自由操控AI的能力，想必一定能逃离华强的魔爪。",
@@ -430,20 +350,100 @@
         "hotTitle": "华强买瓜 但郝哥能控制AI"
       },
       {
-        "title": "我们在日本皇宫寻找中国文物",
-        "url": "https://www.bilibili.com/video/BV1Wutu6KEny",
+        "title": "⚡买瓜史上第一混乱⚡",
+        "url": "https://www.bilibili.com/video/BV1w2t86hE5n",
         "desc": "",
-        "rank": 20,
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "有一个人前来买瓜......",
+        "content": "有一个人前来买瓜......",
+        "bvid": "BV1w2t86hE5n",
+        "author": "明灯-专注脑洞一百年",
+        "duration": "4:45",
+        "cover": "//i0.hdslb.com/bfs/archive/6f840404c95d26ee1afc59b6b3efdc38d9a451fa.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1w2t86hE5n&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "混乱版华强买瓜"
+      },
+      {
+        "title": "【补档】花少2解说第一期",
+        "url": "https://www.bilibili.com/video/BV1GKt76gEeE",
+        "desc": "",
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Wutu6KEny",
-        "author": "大漠叔叔",
-        "duration": "18:2",
-        "cover": "//i0.hdslb.com/bfs/archive/75361f39b280b2598134734df32e98e991a93617.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wutu6KEny&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大漠叔叔日本皇宫找中国文物"
+        "bvid": "BV1GKt76gEeE",
+        "author": "郭本尼",
+        "duration": "14:18",
+        "cover": "//i2.hdslb.com/bfs/archive/cf443438ab7f6496b8a8945cdd32b4da24677826.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GKt76gEeE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "郭本尼深度解说花少2"
+      },
+      {
+        "title": "【官宣】恩佐加盟曼城",
+        "url": "https://www.bilibili.com/video/BV1c1tj6REy1",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1c1tj6REy1",
+        "author": "曼城足球俱乐部",
+        "duration": "0:55",
+        "cover": "//i2.hdslb.com/bfs/archive/6092e567f1c03ef6b691d7e0a34653da3fe41416.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c1tj6REy1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "恩佐加盟曼城"
+      },
+      {
+        "title": "纯手搓的视频，初音会喜欢吗？【bilibilionly同人扶持计划】",
+        "url": "https://www.bilibili.com/video/BV1XPtM6SEHv",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "不知不觉已经6年了！@我bilibilionly投了",
+        "content": "不知不觉已经6年了！@我bilibilionly投了",
+        "bvid": "BV1XPtM6SEHv",
+        "author": "利利那TD25",
+        "duration": "1:36",
+        "cover": "//i1.hdslb.com/bfs/archive/5dcfff8a6f5afd6638ace8464870b754df688e2d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XPtM6SEHv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "纯手搓初音生贺定格动画"
+      },
+      {
+        "title": "从零开始，黑龙江发现废弃石头屋改造寒冬避难所，首场暴风雪来之前要做好准备，提前存储物资",
+        "url": "https://www.bilibili.com/video/BV1BLt86QECJ",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这是一个全新的系列节目，因为大家很喜欢冬季视频，所以说这次从入冬囤资源开始拍摄，一直持续到寒冬零下40-50℃，可以比较全面的展示我们这里的冬季生活！也是我国北境的过冬实录，整个系列包括了房屋，履带车，石头庇护所，还有一个森林木屋，现在距离下雪已经进入了正式的倒计时。 虽然说看着还是绿，但是夜间的温度已经出现到将近零度 树叶泛黄到掉落只是几天的事情 大家如果喜欢的话可以多多三连点赞支持 观众老爷们的支持就是我的动力 干就完事了哈哈哈",
+        "content": "这是一个全新的系列节目，因为大家很喜欢冬季视频，所以说这次从入冬囤资源开始拍摄，一直持续到寒冬零下40-50℃，可以比较全面的展示我们这里的冬季生活！也是我国北境的过冬实录，整个系列包括了房屋，履带车，石头庇护所，还有一个森林木屋，现在距离下雪已经进入了正式的倒计时。 虽然说看着还是绿，但是夜间的温度已经出现到将近零度 树叶泛黄到掉落只是几天的事情 大家如果喜欢的话可以多多三连点赞支持 观众老爷们的支持就是我的动力 干就完事了哈哈哈",
+        "bvid": "BV1BLt86QECJ",
+        "author": "漠生铁铁",
+        "duration": "21:13",
+        "cover": "//i1.hdslb.com/bfs/archive/2ee43933b346b9e0074a6f9aca54874070bae72f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BLt86QECJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "用废弃石头屋改造避难所"
+      },
+      {
+        "title": "Anthropic 发布 Claude Fable 5.1 ；OpenAI 宣布即将发布 Astra【AI 早报 2026-09-02】",
+        "url": "https://www.bilibili.com/video/BV1mDtL6hE4x",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "相关链接和文字版请看：https://mp.weixin.qq.com/s/nZwDfBUyh-c9kOvrMUEKvA",
+        "content": "相关链接和文字版请看：https://mp.weixin.qq.com/s/nZwDfBUyh-c9kOvrMUEKvA",
+        "bvid": "BV1mDtL6hE4x",
+        "author": "橘鸦Juya",
+        "duration": "4:33",
+        "cover": "//i1.hdslb.com/bfs/archive/b6a616bc2126f312870a3f5c59d5b6edfc830291.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mDtL6hE4x&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Anthropic发布新模型"
       },
       {
         "title": "俄罗斯继续升级对乌克兰物流后勤的战争",
@@ -462,10 +462,26 @@
         "hotTitle": "战争中的乌克兰真实现状如何"
       },
       {
+        "title": "我们在日本皇宫寻找中国文物",
+        "url": "https://www.bilibili.com/video/BV1Wutu6KEny",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Wutu6KEny",
+        "author": "大漠叔叔",
+        "duration": "18:2",
+        "cover": "//i0.hdslb.com/bfs/archive/75361f39b280b2598134734df32e98e991a93617.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wutu6KEny&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大漠叔叔日本皇宫找中国文物"
+      },
+      {
         "title": "《B 界 修 仙 传：长 篇 电 影》",
         "url": "https://www.bilibili.com/video/BV1be426SEn7",
         "desc": "",
-        "rank": 22,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "《B界修仙传》01-12电影合集来啦，助兄弟们爽看！！！投币催更后续精彩内容！！！！！！！！！",
@@ -478,58 +494,90 @@
         "hotTitle": "B界修仙传合集"
       },
       {
-        "title": "从零开始，黑龙江发现废弃石头屋改造寒冬避难所，首场暴风雪来之前要做好准备，提前存储物资",
-        "url": "https://www.bilibili.com/video/BV1BLt86QECJ",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这是一个全新的系列节目，因为大家很喜欢冬季视频，所以说这次从入冬囤资源开始拍摄，一直持续到寒冬零下40-50℃，可以比较全面的展示我们这里的冬季生活！也是我国北境的过冬实录，整个系列包括了房屋，履带车，石头庇护所，还有一个森林木屋，现在距离下雪已经进入了正式的倒计时。 虽然说看着还是绿，但是夜间的温度已经出现到将近零度 树叶泛黄到掉落只是几天的事情 大家如果喜欢的话可以多多三连点赞支持 观众老爷们的支持就是我的动力 干就完事了哈哈哈",
-        "content": "这是一个全新的系列节目，因为大家很喜欢冬季视频，所以说这次从入冬囤资源开始拍摄，一直持续到寒冬零下40-50℃，可以比较全面的展示我们这里的冬季生活！也是我国北境的过冬实录，整个系列包括了房屋，履带车，石头庇护所，还有一个森林木屋，现在距离下雪已经进入了正式的倒计时。 虽然说看着还是绿，但是夜间的温度已经出现到将近零度 树叶泛黄到掉落只是几天的事情 大家如果喜欢的话可以多多三连点赞支持 观众老爷们的支持就是我的动力 干就完事了哈哈哈",
-        "bvid": "BV1BLt86QECJ",
-        "author": "漠生铁铁",
-        "duration": "21:13",
-        "cover": "//i1.hdslb.com/bfs/archive/2ee43933b346b9e0074a6f9aca54874070bae72f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BLt86QECJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "用废弃石头屋改造避难所"
-      },
-      {
-        "title": "⚡买瓜史上第一混乱⚡",
-        "url": "https://www.bilibili.com/video/BV1w2t86hE5n",
+        "title": "【终末地首日攻略#1】提弗洛斯攻略",
+        "url": "https://www.bilibili.com/video/BV1q5tE6XEoE",
         "desc": "",
         "rank": 24,
         "kind": "video",
         "platform": "bilibili",
-        "description": "有一个人前来买瓜......",
-        "content": "有一个人前来买瓜......",
-        "bvid": "BV1w2t86hE5n",
-        "author": "明灯-专注脑洞一百年",
-        "duration": "4:45",
-        "cover": "//i0.hdslb.com/bfs/archive/6f840404c95d26ee1afc59b6b3efdc38d9a451fa.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1w2t86hE5n&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "混乱版华强买瓜"
+        "description": "文案：吃我无痕，小羊早睡不遭罪，景景勇敢一点，血狼破军 账号提供：橘橘猫 后期&美工：景景勇敢一点，吃我无痕 因水平与精力有限，视频难免有错漏，欢迎大家在评论区中指出 详细测评之后会更新",
+        "content": "文案：吃我无痕，小羊早睡不遭罪，景景勇敢一点，血狼破军 账号提供：橘橘猫 后期&美工：景景勇敢一点，吃我无痕 因水平与精力有限，视频难免有错漏，欢迎大家在评论区中指出 详细测评之后会更新",
+        "bvid": "BV1q5tE6XEoE",
+        "author": "血狼破军",
+        "duration": "7:16",
+        "cover": "//i1.hdslb.com/bfs/archive/c186c7351b27e1cf87ad91e7b2384def5632d3dc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1q5tE6XEoE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "终末地提弗洛斯攻略"
       },
       {
-        "title": "【官宣】恩佐加盟曼城",
-        "url": "https://www.bilibili.com/video/BV1c1tj6REy1",
+        "title": "《和平假面》MV",
+        "url": "https://www.bilibili.com/video/BV154tu69EDJ",
         "desc": "",
         "rank": 25,
         "kind": "video",
         "platform": "bilibili",
+        "description": "话不多说，请看本视频发布时间。（鸣谢：@即兴演奏家 ）",
+        "content": "话不多说，请看本视频发布时间。（鸣谢：@即兴演奏家 ）",
+        "bvid": "BV154tu69EDJ",
+        "author": "央视网",
+        "duration": "2:6",
+        "cover": "//i0.hdslb.com/bfs/archive/73a098d6c8688542d68d1ce63d7383dad45b11ed.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV154tu69EDJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "动画MV和平假面"
+      },
+      {
+        "title": "恭喜Knight选手第5次获得常规赛MVP，并刷新了自己保持的LPL最高常规赛MVP次数纪录。",
+        "url": "https://www.bilibili.com/video/BV1QStJ6mEbT",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1c1tj6REy1",
-        "author": "曼城足球俱乐部",
-        "duration": "0:55",
-        "cover": "//i2.hdslb.com/bfs/archive/6092e567f1c03ef6b691d7e0a34653da3fe41416.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c1tj6REy1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "恩佐加盟曼城"
+        "bvid": "BV1QStJ6mEbT",
+        "author": "英雄联盟赛事",
+        "duration": "0:16",
+        "cover": "//i0.hdslb.com/bfs/archive/c5f9e57df267fe604e9b578e463dd0eb62a74765.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QStJ6mEbT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Knight获常规赛MVP"
+      },
+      {
+        "title": "【终末地】1.5基建毕业蓝图攻略！ |魔法Zc目录",
+        "url": "https://www.bilibili.com/video/BV1Njt76YE9S",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本视频主要介绍新版本修改之处，新同学请配合1.4蓝图食用：BV1SHKH6FE6T 《明日方舟：终末地》蓝图 [1.5调整模块]分享码EF015i2O4O271uaIieIoe 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5应龙关1]分享码EF018OI3o3I2e12u6UI73 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5应龙关2]分享码EF010819a91uOi138E179 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5首墩灼铜]分享码EF016u01",
+        "content": "本视频主要介绍新版本修改之处，新同学请配合1.4蓝图食用：BV1SHKH6FE6T 《明日方舟：终末地》蓝图 [1.5调整模块]分享码EF015i2O4O271uaIieIoe 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5应龙关1]分享码EF018OI3o3I2e12u6UI73 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5应龙关2]分享码EF010819a91uOi138E179 请复制后前往游戏中使用。 《明日方舟：终末地》蓝图 [1.5首墩灼铜]分享码EF016u01",
+        "bvid": "BV1Njt76YE9S",
+        "author": "魔法Zc目录",
+        "duration": "4:53",
+        "cover": "//i2.hdslb.com/bfs/archive/5680c1f121921d1df0d9e549c000d9309b50f275.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Njt76YE9S&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "终末地1.5基建毕业蓝图攻略"
+      },
+      {
+        "title": "承认“串谋勾结外国或者境外势力危害国家安全”罪，黄之锋当庭认罪",
+        "url": "https://www.bilibili.com/video/BV1mRt76iEZ5",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1mRt76iEZ5",
+        "author": "环球网",
+        "duration": "0:9",
+        "cover": "//i2.hdslb.com/bfs/archive/44623fea7990e46a5169be648d83a8d04e21899b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mRt76iEZ5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "反中乱港分子黄之锋当庭认罪"
       },
       {
         "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
         "url": "https://www.bilibili.com/video/BV1a3th65EQb",
         "desc": "",
-        "rank": 26,
+        "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "这谁又能想得到呢？西西弗斯推的石头，居然是孙悟空……",
@@ -542,68 +590,20 @@
         "hotTitle": "当西西弗斯遇见孙悟空"
       },
       {
-        "title": "【铁豆钢蛋】你好 斌斌！",
-        "url": "https://www.bilibili.com/video/BV1KxtY6kEwY",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【铁豆钢蛋】就你叫胡彦斌啊",
-        "content": "【铁豆钢蛋】就你叫胡彦斌啊",
-        "bvid": "BV1KxtY6kEwY",
-        "author": "铁豆钢蛋",
-        "duration": "59:20",
-        "cover": "//i1.hdslb.com/bfs/archive/af05cefedbe384cc49a1f0432f04fd73bdb6066e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KxtY6kEwY&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "铁豆钢蛋终于见到胡彦斌了"
-      },
-      {
-        "title": "警惕外围债市收益率飙涨",
-        "url": "https://www.bilibili.com/video/BV1AKtE6FEjH",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "一键三连！",
-        "content": "一键三连！",
-        "bvid": "BV1AKtE6FEjH",
-        "author": "李大霄",
-        "duration": "3:36",
-        "cover": "//i0.hdslb.com/bfs/archive/faac41aae1159425f328720202bc84d7bb06eb55.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AKtE6FEjH&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "外围债市收益率为何飙涨"
-      },
-      {
-        "title": "纯手搓的视频，初音会喜欢吗？【bilibilionly同人扶持计划】",
-        "url": "https://www.bilibili.com/video/BV1XPtM6SEHv",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "不知不觉已经6年了！@我bilibilionly投了",
-        "content": "不知不觉已经6年了！@我bilibilionly投了",
-        "bvid": "BV1XPtM6SEHv",
-        "author": "利利那TD25",
-        "duration": "1:36",
-        "cover": "//i1.hdslb.com/bfs/archive/5dcfff8a6f5afd6638ace8464870b754df688e2d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XPtM6SEHv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "纯手搓初音生贺定格动画"
-      },
-      {
-        "title": "《和平假面》MV",
-        "url": "https://www.bilibili.com/video/BV154tu69EDJ",
+        "title": "特种兵，你的情书被华晨宇念出来了！",
+        "url": "https://www.bilibili.com/video/BV1pUtE68E7C",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "话不多说，请看本视频发布时间。（鸣谢：@即兴演奏家 ）",
-        "content": "话不多说，请看本视频发布时间。（鸣谢：@即兴演奏家 ）",
-        "bvid": "BV154tu69EDJ",
-        "author": "央视网",
-        "duration": "2:6",
-        "cover": "//i0.hdslb.com/bfs/archive/73a098d6c8688542d68d1ce63d7383dad45b11ed.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV154tu69EDJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "动画MV和平假面"
+        "description": "7733万票，龙狮城登顶《梦中情图回归计划》。每一票，都是一封写给龙狮城的情书。 9月2日「激战金秋」全新版本上线，「金秋龙狮城」主题海岛焕新登场！ 和平精英品牌代言人华晨宇念出特种兵写给这座城的心声—— “曾经有一把龙狮城19杀，她夸了我一整局。” “宿舍四人的固定节目，就是舞龙飞天。” “ump45响彻整个龙狮城，不敢钢枪的人也爱上了钢枪。” ...... 落地就刚，全图热闹。熟悉的一切都在，新的刺激已经开场！ 特种兵——全体起立！回龙狮城，吃鸡！",
+        "content": "7733万票，龙狮城登顶《梦中情图回归计划》。每一票，都是一封写给龙狮城的情书。 9月2日「激战金秋」全新版本上线，「金秋龙狮城」主题海岛焕新登场！ 和平精英品牌代言人华晨宇念出特种兵写给这座城的心声—— “曾经有一把龙狮城19杀，她夸了我一整局。” “宿舍四人的固定节目，就是舞龙飞天。” “ump45响彻整个龙狮城，不敢钢枪的人也爱上了钢枪。” ...... 落地就刚，全图热闹。熟悉的一切都在，新的刺激已经开场！ 特种兵——全体起立！回龙狮城，吃鸡！",
+        "bvid": "BV1pUtE68E7C",
+        "author": "和平精英",
+        "duration": "2:57",
+        "cover": "//i1.hdslb.com/bfs/archive/f53599253a70d8d70d14b25730182f7c54683f86.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pUtE68E7C&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "和平精英龙狮城返场"
       }
     ],
     "qbitai": [
@@ -950,6 +950,46 @@
         "rank": 4
       },
       {
+        "title": "小米大家电等产品将正式规模化进入欧洲",
+        "url": "https://m.36kr.com/newsflashes/3966023146970624",
+        "desc": "据小米集团消息，小米将于当地时间9月4日首次参展德国柏林国际电子消费品展览会（IFA 2026），其首款中折叠旗舰手机小米18 Fold也将一同发布，小米机器人CyberOne也将首次在海外展出。小米方面还透露，此次包括大家电等众多产品将正式规模化进入欧洲。（每经）",
+        "cover": "",
+        "date": 1788339252000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "恒生指数公司：希音将快速纳入恒生综合指数",
+        "url": "https://m.36kr.com/newsflashes/3966027377057031",
+        "desc": "36氪获悉，恒生指数公司公告，希音符合快速纳入规则要求，将于9月14日收市后被纳入恒生综合指数及其分类指数。",
+        "cover": "",
+        "date": 1788339100650,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "特朗普家族瞄准新风口：小唐纳德旗下风投成为Polymarket主要股东",
+        "url": "https://m.36kr.com/newsflashes/3966007876918787",
+        "desc": "美国总统特朗普之子小唐纳德·特朗普旗下风险投资公司1789 Capital正在领投预测市场Polymarket新一轮融资，预计投资约3亿美元，即将成为其最大投资方之一，该轮估值达210亿美元。（财联社）",
+        "cover": "",
+        "date": 1788338659000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "北大荒：副总经理黎东光被实施留置",
+        "url": "https://m.36kr.com/newsflashes/3966018599034113",
+        "desc": "36氪获悉，北大荒公告，公司于近日收到监察委员会关于副总经理黎东光的《立案通知书》和《留置通知书》。公司已对相关工作妥善安排，董事和其他高级管理人员均正常履职，生产经营正常有序，公告事项不会对公司生产经营管理产生重大影响。",
+        "cover": "",
+        "date": 1788338564882,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
         "title": "中国具身智能Tier 1产业联盟成立，以系统协同重塑产业协作新范式",
         "url": "https://m.36kr.com/newsflashes/3966011266211075",
         "desc": "36氪获悉，由星源智与灵心巧手共同发起，联合奥比中光、法奥机器人、福莱新材、禾赛科技、华威科、讯飞机器人超脑平台、览沃科技、灵猴机器人、珞石机器人、迈尔微视、钕娲创造、泉智博、森云智能、速腾聚创、他山、无问智科、鑫精诚、移远通信、知行具身，纵贯线20余家产业链企业组成的“中国具身智能Tier 1产业联盟”正式成立。成员完整覆盖具身大脑、灵巧手、语音交互、激光雷达、视觉感知、触觉感知、机械臂、底盘、无线通信、热管理等关键环节。",
@@ -957,7 +997,7 @@
         "date": 1788338157265,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "和元生物与仁远生物达成EPC细胞项目战略合作",
@@ -967,7 +1007,7 @@
         "date": 1788338056000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "三安光电：控股股东债权人林素真撤回对三安电子和三安集团的破产重整申请",
@@ -977,7 +1017,7 @@
         "date": 1788337738056,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "自动驾驶公司Zoox和Waymo在美国扩大业务范围",
@@ -987,7 +1027,7 @@
         "date": 1788337610000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "兴瑞科技：与臻驱科技签署战略合作框架协议",
@@ -997,7 +1037,7 @@
         "date": 1788337478550,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "恒指收跌0.07%，恒生科技指数跌0.74%",
@@ -1007,7 +1047,7 @@
         "date": 1788336755453,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "中信证券等入股长江存储旗下宏茂微电子",
@@ -1017,7 +1057,7 @@
         "date": 1788336224000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "豆包工作上新，支持多Agents并行与Mac操作电脑",
@@ -1027,7 +1067,7 @@
         "date": 1788335847796,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "猫途鹰集团前高管加入爱彼迎，出任首席业务官",
@@ -1037,7 +1077,7 @@
         "date": 1788335476505,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "中国航发召开民用燃机产业研讨会",
@@ -1047,7 +1087,7 @@
         "date": 1788335149722,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "中国移动通信集团宁夏公司增资至51.9亿，增幅约80%",
@@ -1057,7 +1097,7 @@
         "date": 1788335107000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "字节上调期权价格，涨幅约5%",
@@ -1067,7 +1107,7 @@
         "date": 1788334983517,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "中信证券：建议关注银行、公用事业、电信及物业管理等红利方向",
@@ -1077,7 +1117,7 @@
         "date": 1788333967000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "“鼎犀智创”完成数亿元Pre-A轮融资",
@@ -1087,7 +1127,7 @@
         "date": 1788333394497,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 22
       },
       {
         "title": "A股三大指数集体收跌，农业板块跌幅居前",
@@ -1097,7 +1137,7 @@
         "date": 1788332502701,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 23
       },
       {
         "title": "中国东航：预计客机机队规模年底将达841架",
@@ -1107,55 +1147,15 @@
         "date": 1788332020000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "天赐材料：电解液及六氟磷酸锂产能基本满产",
-        "url": "https://m.36kr.com/newsflashes/3965890763513091",
-        "desc": "36氪获悉，天赐材料在互动平台表示，从目前下游电芯厂的需求反馈看，目前，电解液产品订单需求饱满，公司电解液及六氟磷酸锂产能利用率已基本处于满产水平。",
-        "cover": "https://img.36krcdn.com/hsossms/20260902/v2_cad90940a40e4ca089188dbd15311cec@6433421_oswg11788oswg873oswg169_img_png",
-        "date": 1788331646000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "IMF总裁：全球经济前景仍面临高不确定性",
-        "url": "https://m.36kr.com/newsflashes/3965887428189700",
-        "desc": "国际货币基金组织（IMF）总裁格奥尔基耶娃9月1日在二十国集团财长和央行行长会议上致辞表示，今年全球经济3%的预期增速背后是增长的严重分化，增长前景依然面临高不确定性。发达经济体债券收益率走高推升全球利率水平，这令人担忧。（财联社）",
-        "cover": "",
-        "date": 1788331145000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "OPPO联合OpenKG推出首个端侧AI记忆评测基准MobileMem",
-        "url": "https://m.36kr.com/newsflashes/3965879432240386",
-        "desc": "36氪获悉，近日，OPPO联合中文开放知识图谱（OpenKG）社区，推出行业首个面向端侧AI记忆能力的评测基准MobileMem。同时携手浙江大学、同济大学、东南大学等高校专家团队共同建设。MobileMem可以累计历史上下文规模达百万词元的评测数据集，用于模拟真实用户长期使用过程，还能聚焦端侧AI的真实使用场景与长期个性化需求。",
-        "cover": "",
-        "date": 1788330711000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "中颖电子在珠海成立新公司，经营范围含集成电路设计等",
-        "url": "https://m.36kr.com/newsflashes/3965841536687365",
-        "desc": "36氪获悉，天眼查App显示，近日，珠海中颖电子有限公司，法定代表人为杨晓勇，注册资本2005万元，经营范围包括集成电路设计、集成电路芯片设计及服务、集成电路和芯片产品销售等，由中颖电子股份有限公司全资持股。官网信息显示，中颖电子股份有限公司成立于1994年7月，于2012年在深圳创业板上市，主营业务为自主品牌的芯片设计及销售，并提供相应的系统解决方案和售后的技术支持服务。",
-        "cover": "",
-        "date": 1788330192000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788338464124,
-    "bilibili": 1788337392134,
-    "qbitai": 1788338485955,
-    "36kr": 1788338488798
+    "thepaper": 1788339363990,
+    "bilibili": 1788339366177,
+    "qbitai": 1788339386148,
+    "36kr": 1788339388723
   },
   "failures": {}
 }
