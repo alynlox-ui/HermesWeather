@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-02T15:11:27Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-09-02T22:30:33Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -100,26 +100,26 @@
         "rank": 16
       },
       {
+        "title": "媒体：“梅姨”已被提起公诉",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33994925",
+        "desc": "",
+        "rank": 17
+      },
+      {
         "title": "法学精英、新手母亲，在时代广场遇刺的美国银行高管是谁？",
         "url": "https://www.thepaper.cn/newsDetail_forward_33992478",
         "desc": "",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "25元举报五百次、超千元让账号消失，媒体：明码标价的恶意举报必须管管了",
         "url": "https://www.thepaper.cn/newsDetail_forward_33989446",
         "desc": "",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "人工与智能客服协同新标准实施：不能让消费者反复复述问题",
         "url": "https://www.thepaper.cn/newsDetail_forward_33992669",
-        "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "美国五角大楼人事震荡！陆军陷入领导真空，美防长为何操弄大清洗？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_33992056",
         "desc": "",
         "rank": 20
       }
@@ -1152,10 +1152,11 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788361865427,
-    "bilibili": 1788360915553,
-    "qbitai": 1788361886523,
-    "36kr": 1788361887329
+    "thepaper": 1788363791074,
+    "qbitai": 1788388232768,
+    "36kr": 1788388233121
   },
-  "failures": {}
+  "failures": {
+    "bilibili": "RuntimeError('NewsNow JSON not found')"
+  }
 }
