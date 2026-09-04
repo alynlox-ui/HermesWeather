@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T05:56:37Z",
+  "updatedAt": "2026-09-04T06:11:42Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,26 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "特斯拉Cybercab正式上路了！没有方向盘刹车，这辆车你敢坐吗？",
-        "url": "https://www.bilibili.com/video/BV16ztv66E8C",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV16ztv66E8C",
-        "author": "极客小冷",
-        "duration": "3:47",
-        "cover": "//i1.hdslb.com/bfs/archive/85c58ba619bda1bdd6a191cc1f6b659e9f0b965f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16ztv66E8C&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "特斯拉Cybercab正式上路"
-      },
-      {
         "title": "WE遇到BLG为何被虐这么惨？代入WE视角才明白BLG进攻节奏的窒息感",
         "url": "https://www.bilibili.com/video/BV1iDtv6AEd1",
         "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -158,42 +142,26 @@
         "hotTitle": "BLG战胜WE战术复盘"
       },
       {
-        "title": "美股大涨原因 短期气氛有所改善",
-        "url": "https://www.bilibili.com/video/BV1gntv69EXx",
+        "title": "为什么俄罗斯没有民营航天?俄国航天创业的惨烈悲剧【奇葩航天11】",
+        "url": "https://www.bilibili.com/video/BV17etb6DErs",
         "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "一键三连！",
-        "content": "一键三连！",
-        "bvid": "BV1gntv69EXx",
-        "author": "李大霄",
-        "duration": "3:8",
-        "cover": "//i2.hdslb.com/bfs/archive/d66c5191750345059bf76ed33e151418d6a6604f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gntv69EXx&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "美股这波大涨能走多远"
-      },
-      {
-        "title": "【赛事周报】TES再战IG忍界大战2.0！从季后赛首轮以下克上，聊聊当前版本的版本风向以下克上，TES和JDG到底输在哪？",
-        "url": "https://www.bilibili.com/video/BV1Sotd6UEkS",
-        "desc": "",
-        "rank": 4,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Sotd6UEkS",
-        "author": "圆某人和四某人",
-        "duration": "26:40",
-        "cover": "//i2.hdslb.com/bfs/archive/10529743d7bbff51f0e474e09fb243cb62a9a95d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Sotd6UEkS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "TES和JDG到底输在哪"
+        "bvid": "BV17etb6DErs",
+        "author": "新世纪的旅行者",
+        "duration": "22:42",
+        "cover": "//i2.hdslb.com/bfs/archive/4dfb269ff1b43ad053ac0736ab21963c24a939dc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17etb6DErs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "俄罗斯航天创业的背后"
       },
       {
         "title": "GPT-6 Astra来了！3分钟看懂它有多离谱",
         "url": "https://www.bilibili.com/video/BV1Nbtv6EEBj",
         "desc": "",
-        "rank": 5,
+        "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -206,20 +174,52 @@
         "hotTitle": "GPT-6 Astra有哪些新功能"
       },
       {
-        "title": "苹果能做到“无折痕”吗？从专利前瞻 iPhone Ultra",
-        "url": "https://www.bilibili.com/video/BV1qNtd6sEai",
+        "title": "EDG新阵容!巴西哥.LEV!中国联赛赛段二各战队科普！CNL迎来大变！澳洲冠军Bapn加盟EDG？！",
+        "url": "https://www.bilibili.com/video/BV1wftm6jEEE",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1wftm6jEEE",
+        "author": "Yoming解说",
+        "duration": "4:3",
+        "cover": "//i2.hdslb.com/bfs/archive/f2abaf3ba7496e04cb8d0c622bcc1536c9be1f3f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wftm6jEEE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "彩虹六号CNL第二赛段开赛"
+      },
+      {
+        "title": "1300万人看过的卧底后续：我假扮猥琐男，挖出了一条更恐怖的黑产！",
+        "url": "https://www.bilibili.com/video/BV1pYtd6KE5Z",
+        "desc": "",
+        "rank": 5,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1pYtd6KE5Z",
+        "author": "王小七Fire",
+        "duration": "9:34",
+        "cover": "//i2.hdslb.com/bfs/archive/57c179b101e9d2cad9efe869d354696a8f196ac1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pYtd6KE5Z&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主卧底打粉黑色产业链"
+      },
+      {
+        "title": "特斯拉Cybercab正式上路了！没有方向盘刹车，这辆车你敢坐吗？",
+        "url": "https://www.bilibili.com/video/BV16ztv66E8C",
         "desc": "",
         "rank": 6,
         "kind": "video",
         "platform": "bilibili",
-        "description": "苹果能做到“无折痕”吗？这一期视频我们从专利分析一下 iPhone Ultra会怎么样！",
-        "content": "苹果能做到“无折痕”吗？这一期视频我们从专利分析一下 iPhone Ultra会怎么样！",
-        "bvid": "BV1qNtd6sEai",
-        "author": "虽然但是张黑黑",
-        "duration": "8:48",
-        "cover": "//i0.hdslb.com/bfs/archive/fe7f83137204db51aac9011f57fe035e79b87134.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qNtd6sEai&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "苹果折叠屏真能无折痕吗"
+        "description": "",
+        "content": "",
+        "bvid": "BV16ztv66E8C",
+        "author": "极客小冷",
+        "duration": "3:47",
+        "cover": "//i1.hdslb.com/bfs/archive/85c58ba619bda1bdd6a191cc1f6b659e9f0b965f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16ztv66E8C&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "特斯拉Cybercab正式上路"
       },
       {
         "title": "【郑钦文晋级美网第三轮】从奥运金牌到手肘手术，她正在从头再来",
@@ -238,52 +238,52 @@
         "hotTitle": "郑钦文还能回到世界顶尖水平吗"
       },
       {
-        "title": "三天800+毫米，福建暴雨真的很严重",
-        "url": "https://www.bilibili.com/video/BV1knbc6UEdZ",
+        "title": "美股大涨原因 短期气氛有所改善",
+        "url": "https://www.bilibili.com/video/BV1gntv69EXx",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "“沙德尔”登陆闽南，漳州局地24小时雨量突破550毫米。莆田三天之内迎来两场特大暴雨，最大雨量超过820毫米，木兰溪还发生破纪录洪水。为什么暴雨会没完没了？什么时候才会下完？",
-        "content": "“沙德尔”登陆闽南，漳州局地24小时雨量突破550毫米。莆田三天之内迎来两场特大暴雨，最大雨量超过820毫米，木兰溪还发生破纪录洪水。为什么暴雨会没完没了？什么时候才会下完？",
-        "bvid": "BV1knbc6UEdZ",
-        "author": "中气爱怎么说",
-        "duration": "2:0",
-        "cover": "//i2.hdslb.com/bfs/archive/7a0a4b4b0a5d2da069c717918513b1add135cc70.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1knbc6UEdZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "台风沙德尔给福建带来暴雨"
+        "description": "一键三连！",
+        "content": "一键三连！",
+        "bvid": "BV1gntv69EXx",
+        "author": "李大霄",
+        "duration": "3:8",
+        "cover": "//i2.hdslb.com/bfs/archive/d66c5191750345059bf76ed33e151418d6a6604f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gntv69EXx&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "美股这波大涨能走多远"
       },
       {
-        "title": "心机蜂vs腹黑龙【深度复盘】",
-        "url": "https://www.bilibili.com/video/BV1rXtX6REEU",
+        "title": "【暑期档癫剧大赏】：恭喜它们来到了最佳反胃期！",
+        "url": "https://www.bilibili.com/video/BV1bztR6GEG4",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "最有趣的就是这种充分交互的对决，本来想讲完这局结果两回合时长直逼30分钟遂作罢。 很多兄弟说是想看长视频分析，我怀疑其实就是晚上睡不着然后我的声音比较催眠。 感谢观看",
-        "content": "最有趣的就是这种充分交互的对决，本来想讲完这局结果两回合时长直逼30分钟遂作罢。 很多兄弟说是想看长视频分析，我怀疑其实就是晚上睡不着然后我的声音比较催眠。 感谢观看",
-        "bvid": "BV1rXtX6REEU",
-        "author": "小天FreeZing",
-        "duration": "26:33",
-        "cover": "//i2.hdslb.com/bfs/archive/1824a793bdb8d10e51e4eb69ab3dd42b58116cdd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rXtX6REEU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "深度复盘绿龙vs小蜜蜂"
+        "description": "这个暑期档你就看吧，一看一个不知声 《我们的少年时代2》豆瓣：暂无（百度百科说这剧是芒果的s级项目，我沉默了） 主演：张桂源/张函瑞/王橹杰/左奇函/陈奕恒/杨博文/陈思罕/陈浚铭 导演: 李南（代表作：《大宋少年志2》《七时吉祥》 《御赐小仵作2》还有电影《阳光姐妹淘》） 编剧: 荔山 《御廷谣》豆瓣：4.9 主演: 吴谨言 / 陈哲远 导演: 张雁杰（貌似这是他独自拍的第一部？） 编剧: 刘婷婷 / 菲比（这位有部还没播的短剧《乘风2025之三十而励》） / 王馨逸(代表作：《我的媳妇是女王》《漂亮",
+        "content": "这个暑期档你就看吧，一看一个不知声 《我们的少年时代2》豆瓣：暂无（百度百科说这剧是芒果的s级项目，我沉默了） 主演：张桂源/张函瑞/王橹杰/左奇函/陈奕恒/杨博文/陈思罕/陈浚铭 导演: 李南（代表作：《大宋少年志2》《七时吉祥》 《御赐小仵作2》还有电影《阳光姐妹淘》） 编剧: 荔山 《御廷谣》豆瓣：4.9 主演: 吴谨言 / 陈哲远 导演: 张雁杰（貌似这是他独自拍的第一部？） 编剧: 刘婷婷 / 菲比（这位有部还没播的短剧《乘风2025之三十而励》） / 王馨逸(代表作：《我的媳妇是女王》《漂亮",
+        "bvid": "BV1bztR6GEG4",
+        "author": "话很多的小姐姐们",
+        "duration": "16:8",
+        "cover": "//i0.hdslb.com/bfs/archive/f82d771c937f451421db022dbe0c71a00973415a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bztR6GEG4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "暑期档离谱校园剧大赏"
       },
       {
-        "title": "1300万人看过的卧底后续：我假扮猥琐男，挖出了一条更恐怖的黑产！",
-        "url": "https://www.bilibili.com/video/BV1pYtd6KE5Z",
+        "title": "吉隆灾害现场寻获警用背心 移民警察默默拭去淤泥 像再次拍了拍战友的肩",
+        "url": "https://www.bilibili.com/video/BV1ibtf6eE6R",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1pYtd6KE5Z",
-        "author": "王小七Fire",
-        "duration": "9:34",
-        "cover": "//i2.hdslb.com/bfs/archive/57c179b101e9d2cad9efe869d354696a8f196ac1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pYtd6KE5Z&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主卧底打粉黑色产业链"
+        "description": "“肯定是我们的” 泪目！吉隆灾害现场寻获警用背心 移民警察默默拭去淤泥 #移民警察仔细清洗战友背心",
+        "content": "“肯定是我们的” 泪目！吉隆灾害现场寻获警用背心 移民警察默默拭去淤泥 #移民警察仔细清洗战友背心",
+        "bvid": "BV1ibtf6eE6R",
+        "author": "中新视频",
+        "duration": "0:39",
+        "cover": "//i1.hdslb.com/bfs/archive/b17873c7015c93241d9feebae084b75cc1cd19f3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ibtf6eE6R&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "吉隆口岸淤泥里发现警服"
       },
       {
         "title": "《绝区零》克拉蕾角色展示 | 不想培训，但攻略已写好",
@@ -302,74 +302,42 @@
         "hotTitle": "绝区零克拉蕾角色展示"
       },
       {
-        "title": "吉隆灾害现场寻获警用背心 移民警察默默拭去淤泥 像再次拍了拍战友的肩",
-        "url": "https://www.bilibili.com/video/BV1ibtf6eE6R",
+        "title": "三天800+毫米，福建暴雨真的很严重",
+        "url": "https://www.bilibili.com/video/BV1knbc6UEdZ",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "“肯定是我们的” 泪目！吉隆灾害现场寻获警用背心 移民警察默默拭去淤泥 #移民警察仔细清洗战友背心",
-        "content": "“肯定是我们的” 泪目！吉隆灾害现场寻获警用背心 移民警察默默拭去淤泥 #移民警察仔细清洗战友背心",
-        "bvid": "BV1ibtf6eE6R",
-        "author": "中新视频",
-        "duration": "0:39",
-        "cover": "//i1.hdslb.com/bfs/archive/b17873c7015c93241d9feebae084b75cc1cd19f3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ibtf6eE6R&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "吉隆口岸淤泥里发现警服"
+        "description": "“沙德尔”登陆闽南，漳州局地24小时雨量突破550毫米。莆田三天之内迎来两场特大暴雨，最大雨量超过820毫米，木兰溪还发生破纪录洪水。为什么暴雨会没完没了？什么时候才会下完？",
+        "content": "“沙德尔”登陆闽南，漳州局地24小时雨量突破550毫米。莆田三天之内迎来两场特大暴雨，最大雨量超过820毫米，木兰溪还发生破纪录洪水。为什么暴雨会没完没了？什么时候才会下完？",
+        "bvid": "BV1knbc6UEdZ",
+        "author": "中气爱怎么说",
+        "duration": "2:0",
+        "cover": "//i2.hdslb.com/bfs/archive/7a0a4b4b0a5d2da069c717918513b1add135cc70.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1knbc6UEdZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "台风沙德尔给福建带来暴雨"
       },
       {
-        "title": "钓鱼流程攻略来啦！台钓、路亚怎么解锁？鱼线鱼饵是什么？手把手教你拿鱼竿教你怎么钓！",
-        "url": "https://www.bilibili.com/video/BV1RVtv6tEJv",
+        "title": "苹果能做到“无折痕”吗？从专利前瞻 iPhone Ultra",
+        "url": "https://www.bilibili.com/video/BV1qNtd6sEai",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "开始钓鱼！ 签约B站了！有KPI了！大家点点赞感谢",
-        "content": "开始钓鱼！ 签约B站了！有KPI了！大家点点赞感谢",
-        "bvid": "BV1RVtv6tEJv",
-        "author": "Key725",
-        "duration": "3:59",
-        "cover": "//i1.hdslb.com/bfs/archive/5bebd7176149f4e049c141e1f39f56ad7385e5b9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RVtv6tEJv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "三角洲S11钓鱼流程攻略"
-      },
-      {
-        "title": "【暑期档癫剧大赏】：恭喜它们来到了最佳反胃期！",
-        "url": "https://www.bilibili.com/video/BV1bztR6GEG4",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这个暑期档你就看吧，一看一个不知声 《我们的少年时代2》豆瓣：暂无（百度百科说这剧是芒果的s级项目，我沉默了） 主演：张桂源/张函瑞/王橹杰/左奇函/陈奕恒/杨博文/陈思罕/陈浚铭 导演: 李南（代表作：《大宋少年志2》《七时吉祥》 《御赐小仵作2》还有电影《阳光姐妹淘》） 编剧: 荔山 《御廷谣》豆瓣：4.9 主演: 吴谨言 / 陈哲远 导演: 张雁杰（貌似这是他独自拍的第一部？） 编剧: 刘婷婷 / 菲比（这位有部还没播的短剧《乘风2025之三十而励》） / 王馨逸(代表作：《我的媳妇是女王》《漂亮",
-        "content": "这个暑期档你就看吧，一看一个不知声 《我们的少年时代2》豆瓣：暂无（百度百科说这剧是芒果的s级项目，我沉默了） 主演：张桂源/张函瑞/王橹杰/左奇函/陈奕恒/杨博文/陈思罕/陈浚铭 导演: 李南（代表作：《大宋少年志2》《七时吉祥》 《御赐小仵作2》还有电影《阳光姐妹淘》） 编剧: 荔山 《御廷谣》豆瓣：4.9 主演: 吴谨言 / 陈哲远 导演: 张雁杰（貌似这是他独自拍的第一部？） 编剧: 刘婷婷 / 菲比（这位有部还没播的短剧《乘风2025之三十而励》） / 王馨逸(代表作：《我的媳妇是女王》《漂亮",
-        "bvid": "BV1bztR6GEG4",
-        "author": "话很多的小姐姐们",
-        "duration": "16:8",
-        "cover": "//i0.hdslb.com/bfs/archive/f82d771c937f451421db022dbe0c71a00973415a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bztR6GEG4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "暑期档离谱校园剧大赏"
-      },
-      {
-        "title": "《三角洲行动》全新【群星】赛季故事短片",
-        "url": "https://www.bilibili.com/video/BV15VtZ6oEk7",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "罗温与四叶在度假途中来到了阿萨拉边陲小镇，本以为只是一次普通的旅行，却不想四叶发现这片宁静之下，战争已在悄然蔓延……",
-        "content": "罗温与四叶在度假途中来到了阿萨拉边陲小镇，本以为只是一次普通的旅行，却不想四叶发现这片宁静之下，战争已在悄然蔓延……",
-        "bvid": "BV15VtZ6oEk7",
-        "author": "三角洲行动",
-        "duration": "10:55",
-        "cover": "//i0.hdslb.com/bfs/archive/1241d14f82468884f582057fe0377a2ad1494542.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15VtZ6oEk7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "三角洲新赛季故事短片"
+        "description": "苹果能做到“无折痕”吗？这一期视频我们从专利分析一下 iPhone Ultra会怎么样！",
+        "content": "苹果能做到“无折痕”吗？这一期视频我们从专利分析一下 iPhone Ultra会怎么样！",
+        "bvid": "BV1qNtd6sEai",
+        "author": "虽然但是张黑黑",
+        "duration": "8:48",
+        "cover": "//i0.hdslb.com/bfs/archive/fe7f83137204db51aac9011f57fe035e79b87134.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qNtd6sEai&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "苹果折叠屏真能无折痕吗"
       },
       {
         "title": "“Vein和夏斐小时候居然见过！以为是一见钟情结果是久别重逢吗…”【V斐｜时光代理人】",
         "url": "https://www.bilibili.com/video/BV16FtZ6iE6C",
         "desc": "",
-        "rank": 16,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "omg(─‿─)",
@@ -382,26 +350,10 @@
         "hotTitle": "时光代理人超能力来源揭秘"
       },
       {
-        "title": "快船被罚5首轮！伦纳德阴阳合同不受罚！为什么他可以安全脱身？他真的什么都不知道？",
-        "url": "https://www.bilibili.com/video/BV1BAtZ6eESE",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1BAtZ6eESE",
-        "author": "太吾车神",
-        "duration": "10:5",
-        "cover": "//i2.hdslb.com/bfs/archive/59e6536c91743bda7fb926294296d58038390077.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BAtZ6eESE&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "为何伦纳德阴阳合同可免罚"
-      },
-      {
         "title": "星际超级荒诞动画喜剧！《外星小偷里贝》第07话：吃苦星球【UP动画】",
         "url": "https://www.bilibili.com/video/BV11ytX6cE1t",
         "desc": "",
-        "rank": 18,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "两个生活在灰色漂流城“烂柯”的底层星际小偷，老油条西木，带着他的新人搭档——天赋极高却理想主义过头的小偷里贝，在一次次偷取离谱奇物的行动中，被卷入混乱、骗局与社会结构之中。他们身边聚集着前联盟捕手索拉、赏金猎人兄妹、杂货铺老板玛特、玩世不恭的富家女盗贼诺瓦、黑市怪人、等一群古怪搞笑的角色。在“烂柯”与其他人搞笑的日常故事中，他们不断撞上关于社会与人性的荒诞现实，也让这对搭档开始成长和思考...... 视频使用AI制作完成 制作平台：tapnow 制作团队：梦游牛油果工作室 特别鸣谢片尾曲来自好朋友的乐队",
@@ -414,122 +366,26 @@
         "hotTitle": "外星小偷 吃苦星球"
       },
       {
-        "title": "绝望！历史最大罚单！伦纳德让快船毁灭？",
-        "url": "https://www.bilibili.com/video/BV18rto6UEmB",
+        "title": "《三角洲行动》全新【群星】赛季故事短片",
+        "url": "https://www.bilibili.com/video/BV15VtZ6oEk7",
         "desc": "",
-        "rank": 19,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV18rto6UEmB",
-        "author": "业余球探刀先生",
-        "duration": "9:15",
-        "cover": "//i0.hdslb.com/bfs/archive/b18b835a5552d0d7e8b156644f0f7651f47c5e25.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18rto6UEmB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "伦纳德事件对快船有何影响"
-      },
-      {
-        "title": "都2026年了，为什么还有游戏锁60帧？为什么“解帧”也算开挂？【柴知道】",
-        "url": "https://www.bilibili.com/video/BV1Ewtd64Eak",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "游戏帧数越高，画面越流畅，打起来也就越爽。但有些游戏，不管你显卡多高端、屏幕多高刷，最高就只能跑60帧——因为帧率上限被厂商牢牢“锁”死了～厂商给游戏“锁帧”到底图什么？为什么玩家“解帧”会被当成开挂？把游戏帧率上限调高点，究竟有多难？这期我们会从游戏的帧数原理入手，找出到底是什么“锁”住了玩家的游戏体验？",
-        "content": "游戏帧数越高，画面越流畅，打起来也就越爽。但有些游戏，不管你显卡多高端、屏幕多高刷，最高就只能跑60帧——因为帧率上限被厂商牢牢“锁”死了～厂商给游戏“锁帧”到底图什么？为什么玩家“解帧”会被当成开挂？把游戏帧率上限调高点，究竟有多难？这期我们会从游戏的帧数原理入手，找出到底是什么“锁”住了玩家的游戏体验？",
-        "bvid": "BV1Ewtd64Eak",
-        "author": "柴知道",
-        "duration": "9:16",
-        "cover": "//i0.hdslb.com/bfs/archive/4854480c80d1b925dd5cc2a2122cf866b1ca01db.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ewtd64Eak&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "游戏锁帧到底图什么"
-      },
-      {
-        "title": "办公室没窗、走廊带坡？医院这些\"反人类设计\"背后的真相！",
-        "url": "https://www.bilibili.com/video/BV1Yyt76GEtW",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Yyt76GEtW",
-        "author": "大物是也",
-        "duration": "39:58",
-        "cover": "//i0.hdslb.com/bfs/archive/786a2062bd963d980265af2e7ab165ed4f560c00.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yyt76GEtW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "医院建设背后不为人知的真相"
-      },
-      {
-        "title": "《崩坏3》全新S级角色寻梦者「时序之律者」预告",
-        "url": "https://www.bilibili.com/video/BV1URtJ65EUi",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "“我曾与夜同色，我正伴人同行，我将为稚拙的未来，那被称为过去与现在的一切驻足，千千万万遍。” 全新S级角色寻梦者「时序之律者」即将于9.1版本与舰长相会，今天就请舰长跟随本视频，对这位新角色进行初步的探索吧！ ‌ 配音演员： 寻梦者——张若瑜",
-        "content": "“我曾与夜同色，我正伴人同行，我将为稚拙的未来，那被称为过去与现在的一切驻足，千千万万遍。” 全新S级角色寻梦者「时序之律者」即将于9.1版本与舰长相会，今天就请舰长跟随本视频，对这位新角色进行初步的探索吧！ ‌ 配音演员： 寻梦者——张若瑜",
-        "bvid": "BV1URtJ65EUi",
-        "author": "崩坏3第一偶像爱酱",
-        "duration": "5:50",
-        "cover": "//i1.hdslb.com/bfs/archive/9413e990c1e4ddf12f144afbae18d9c675971402.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1URtJ65EUi&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "崩坏3寻梦者角色预告"
-      },
-      {
-        "title": "2026像极了千禧年灾难前的1998！2027大崩盘真的要来了吗？能让你保命的一期！深度推演AI泡沫破裂时间线",
-        "url": "https://www.bilibili.com/video/BV12ftJ6rEkw",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本期视频我们来聊聊，AI是否存在泡沫，如今的AI泡沫与二十多年前的互联网泡沫有哪些雷同之处？",
-        "content": "本期视频我们来聊聊，AI是否存在泡沫，如今的AI泡沫与二十多年前的互联网泡沫有哪些雷同之处？",
-        "bvid": "BV12ftJ6rEkw",
-        "author": "脑洞乌托邦",
-        "duration": "37:2",
-        "cover": "//i2.hdslb.com/bfs/archive/8a1a40ba4400b4f0f8899426efa0d448a4253913.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12ftJ6rEkw&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "深度推演AI泡沫破裂时间线"
-      },
-      {
-        "title": "开会时为什么有一个人画风不一样",
-        "url": "https://www.bilibili.com/video/BV16dt36rEvT",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "视频来源：国网吉林电力",
-        "content": "视频来源：国网吉林电力",
-        "bvid": "BV16dt36rEvT",
-        "author": "国家电网",
-        "duration": "1:1",
-        "cover": "//i2.hdslb.com/bfs/archive/d1eeafe6d330b83c8b5f3dee8a41ed45e6edad80.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16dt36rEvT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "开会时为什么有人画风不一样"
-      },
-      {
-        "title": "部队炊事车来了！西藏吉隆口岸救援人员吃上了热乎饭",
-        "url": "https://www.bilibili.com/video/BV1G5td6EEos",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "9月3日，西藏日喀则市吉隆县泥石流灾害抢险救援持续进行。部队官兵们在距离吉隆口岸约2.5公里处，设置了热食保障点位，为救援人员提供热食保障。西藏军区保障部某旅刘岳：“救援人员执行一线救援任务，体力消耗很大，热食保障提供到一线，就是为了让他们吃上一口热乎饭。”（记者：钱江 杨赞祺 冷俊鹏 孙崇峰 韩瑞 王竞博 张峻豪 梁瑞聪）",
-        "content": "9月3日，西藏日喀则市吉隆县泥石流灾害抢险救援持续进行。部队官兵们在距离吉隆口岸约2.5公里处，设置了热食保障点位，为救援人员提供热食保障。西藏军区保障部某旅刘岳：“救援人员执行一线救援任务，体力消耗很大，热食保障提供到一线，就是为了让他们吃上一口热乎饭。”（记者：钱江 杨赞祺 冷俊鹏 孙崇峰 韩瑞 王竞博 张峻豪 梁瑞聪）",
-        "bvid": "BV1G5td6EEos",
-        "author": "央视军事",
-        "duration": "1:3",
-        "cover": "//i2.hdslb.com/bfs/archive/1884a48f97474788d82e8820a62531433f7f6309.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1G5td6EEos&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "西藏救援人员吃上了热乎饭"
+        "description": "罗温与四叶在度假途中来到了阿萨拉边陲小镇，本以为只是一次普通的旅行，却不想四叶发现这片宁静之下，战争已在悄然蔓延……",
+        "content": "罗温与四叶在度假途中来到了阿萨拉边陲小镇，本以为只是一次普通的旅行，却不想四叶发现这片宁静之下，战争已在悄然蔓延……",
+        "bvid": "BV15VtZ6oEk7",
+        "author": "三角洲行动",
+        "duration": "10:55",
+        "cover": "//i0.hdslb.com/bfs/archive/1241d14f82468884f582057fe0377a2ad1494542.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15VtZ6oEk7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "三角洲新赛季故事短片"
       },
       {
         "title": "明明睡了很久, 为什么每天还这么累｜如何提高精力？运动学博士的深度科普",
         "url": "https://www.bilibili.com/video/BV1Ygt96VEJg",
         "desc": "",
-        "rank": 26,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "低精力者的逆袭指南！",
@@ -542,10 +398,74 @@
         "hotTitle": "为什么睡了很久还是累"
       },
       {
+        "title": "办公室没窗、走廊带坡？医院这些\"反人类设计\"背后的真相！",
+        "url": "https://www.bilibili.com/video/BV1Yyt76GEtW",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Yyt76GEtW",
+        "author": "大物是也",
+        "duration": "39:58",
+        "cover": "//i0.hdslb.com/bfs/archive/786a2062bd963d980265af2e7ab165ed4f560c00.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yyt76GEtW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "医院建设背后不为人知的真相"
+      },
+      {
+        "title": "快船被罚5首轮！伦纳德阴阳合同不受罚！为什么他可以安全脱身？他真的什么都不知道？",
+        "url": "https://www.bilibili.com/video/BV1BAtZ6eESE",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1BAtZ6eESE",
+        "author": "太吾车神",
+        "duration": "10:5",
+        "cover": "//i2.hdslb.com/bfs/archive/59e6536c91743bda7fb926294296d58038390077.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BAtZ6eESE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "为何伦纳德阴阳合同可免罚"
+      },
+      {
+        "title": "绝望！历史最大罚单！伦纳德让快船毁灭？",
+        "url": "https://www.bilibili.com/video/BV18rto6UEmB",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV18rto6UEmB",
+        "author": "业余球探刀先生",
+        "duration": "9:15",
+        "cover": "//i0.hdslb.com/bfs/archive/b18b835a5552d0d7e8b156644f0f7651f47c5e25.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18rto6UEmB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "伦纳德事件对快船有何影响"
+      },
+      {
+        "title": "《崩坏3》全新S级角色寻梦者「时序之律者」预告",
+        "url": "https://www.bilibili.com/video/BV1URtJ65EUi",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "“我曾与夜同色，我正伴人同行，我将为稚拙的未来，那被称为过去与现在的一切驻足，千千万万遍。” 全新S级角色寻梦者「时序之律者」即将于9.1版本与舰长相会，今天就请舰长跟随本视频，对这位新角色进行初步的探索吧！ ‌ 配音演员： 寻梦者——张若瑜",
+        "content": "“我曾与夜同色，我正伴人同行，我将为稚拙的未来，那被称为过去与现在的一切驻足，千千万万遍。” 全新S级角色寻梦者「时序之律者」即将于9.1版本与舰长相会，今天就请舰长跟随本视频，对这位新角色进行初步的探索吧！ ‌ 配音演员： 寻梦者——张若瑜",
+        "bvid": "BV1URtJ65EUi",
+        "author": "崩坏3第一偶像爱酱",
+        "duration": "5:50",
+        "cover": "//i1.hdslb.com/bfs/archive/9413e990c1e4ddf12f144afbae18d9c675971402.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1URtJ65EUi&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "崩坏3寻梦者角色预告"
+      },
+      {
         "title": "极乐净土，但是黄色生物三巨头【AI全民制作人】",
         "url": "https://www.bilibili.com/video/BV1Hh4m6rEJR",
         "desc": "",
-        "rank": 27,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "懒得写了~",
@@ -558,10 +478,106 @@
         "hotTitle": "极乐净土但黄色三巨头"
       },
       {
+        "title": "中国第三条南北大动脉，直接打穿山河三省！【地球知识局】",
+        "url": "https://www.bilibili.com/video/BV1EwtZ6NErF",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "地球知识局——106 时间：2026年 地点：河北、山东、河南",
+        "content": "地球知识局——106 时间：2026年 地点：河北、山东、河南",
+        "bvid": "BV1EwtZ6NErF",
+        "author": "地球知识局",
+        "duration": "10:48",
+        "cover": "//i1.hdslb.com/bfs/archive/6dfa110ae9b4c13a28b291dedb3a19eb889db4f7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EwtZ6NErF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "回看京九铁路30周年历程"
+      },
+      {
+        "title": "心机蜂vs腹黑龙【深度复盘】",
+        "url": "https://www.bilibili.com/video/BV1rXtX6REEU",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "最有趣的就是这种充分交互的对决，本来想讲完这局结果两回合时长直逼30分钟遂作罢。 很多兄弟说是想看长视频分析，我怀疑其实就是晚上睡不着然后我的声音比较催眠。 感谢观看",
+        "content": "最有趣的就是这种充分交互的对决，本来想讲完这局结果两回合时长直逼30分钟遂作罢。 很多兄弟说是想看长视频分析，我怀疑其实就是晚上睡不着然后我的声音比较催眠。 感谢观看",
+        "bvid": "BV1rXtX6REEU",
+        "author": "小天FreeZing",
+        "duration": "26:33",
+        "cover": "//i2.hdslb.com/bfs/archive/1824a793bdb8d10e51e4eb69ab3dd42b58116cdd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rXtX6REEU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "深度复盘绿龙vs小蜜蜂"
+      },
+      {
+        "title": "特斯拉Cybercab上市，没有方向盘就要封神？深度解读无人出租行业现状",
+        "url": "https://www.bilibili.com/video/BV1D1tf69Esv",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1D1tf69Esv",
+        "author": "打喷嚏的聪明老师",
+        "duration": "18:32",
+        "cover": "//i0.hdslb.com/bfs/archive/2e61dc45150aee6a3f493657967ced0099d618fb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1D1tf69Esv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "深度解读特斯拉Cybercab上市"
+      },
+      {
+        "title": "开会时为什么有一个人画风不一样",
+        "url": "https://www.bilibili.com/video/BV16dt36rEvT",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "视频来源：国网吉林电力",
+        "content": "视频来源：国网吉林电力",
+        "bvid": "BV16dt36rEvT",
+        "author": "国家电网",
+        "duration": "1:1",
+        "cover": "//i2.hdslb.com/bfs/archive/d1eeafe6d330b83c8b5f3dee8a41ed45e6edad80.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16dt36rEvT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "开会时为什么有人画风不一样"
+      },
+      {
+        "title": "2026像极了千禧年灾难前的1998！2027大崩盘真的要来了吗？能让你保命的一期！深度推演AI泡沫破裂时间线",
+        "url": "https://www.bilibili.com/video/BV12ftJ6rEkw",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本期视频我们来聊聊，AI是否存在泡沫，如今的AI泡沫与二十多年前的互联网泡沫有哪些雷同之处？",
+        "content": "本期视频我们来聊聊，AI是否存在泡沫，如今的AI泡沫与二十多年前的互联网泡沫有哪些雷同之处？",
+        "bvid": "BV12ftJ6rEkw",
+        "author": "脑洞乌托邦",
+        "duration": "37:2",
+        "cover": "//i2.hdslb.com/bfs/archive/8a1a40ba4400b4f0f8899426efa0d448a4253913.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12ftJ6rEkw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "深度推演AI泡沫破裂时间线"
+      },
+      {
+        "title": "【赛事周报】TES再战IG忍界大战2.0！从季后赛首轮以下克上，聊聊当前版本的版本风向以下克上，TES和JDG到底输在哪？",
+        "url": "https://www.bilibili.com/video/BV1Sotd6UEkS",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Sotd6UEkS",
+        "author": "圆某人和四某人",
+        "duration": "26:40",
+        "cover": "//i2.hdslb.com/bfs/archive/10529743d7bbff51f0e474e09fb243cb62a9a95d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Sotd6UEkS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TES和JDG到底输在哪"
+      },
+      {
         "title": "欢迎来到霍格沃茨的新学年",
         "url": "https://www.bilibili.com/video/BV1kktD69EaX",
         "desc": "",
-        "rank": 28,
+        "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "HBO原创系列剧集《哈利·波特与魔法石》即将播出。",
@@ -574,36 +590,20 @@
         "hotTitle": "哈利波特剧版新预告"
       },
       {
-        "title": "长鑫全球DRAM市场份额已突破10%｜显卡日报9月4日",
-        "url": "https://www.bilibili.com/video/BV1y3to6uEee",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "日报有用记得三连哦，你的鼓励真的很重要～",
-        "content": "日报有用记得三连哦，你的鼓励真的很重要～",
-        "bvid": "BV1y3to6uEee",
-        "author": "芝士华莱士",
-        "duration": "2:1",
-        "cover": "//i2.hdslb.com/bfs/archive/d4260f15f633b02da058f1f208a329e42f2855e3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1y3to6uEee&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "长鑫DRAM营收份额升至10%"
-      },
-      {
-        "title": "【梗百科】松针大油边是啥梗？",
-        "url": "https://www.bilibili.com/video/BV1xWtJ6iEGs",
+        "title": "新植物：虚数炸弹【PVZ数学版】",
+        "url": "https://www.bilibili.com/video/BV1Qotd6UExD",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "捧场人机不过如此 CV：吱毛 文案：灵念卿 后期：璃玲 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
-        "content": "捧场人机不过如此 CV：吱毛 文案：灵念卿 后期：璃玲 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
-        "bvid": "BV1xWtJ6iEGs",
-        "author": "梗百科",
-        "duration": "2:8",
-        "cover": "//i0.hdslb.com/bfs/archive/729c2c50c54beabae4f7940d839f24e4a2a21c48.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xWtJ6iEGs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "松针大油边是什么梗"
+        "description": "反响太棒了！欢迎大家提出建议~",
+        "content": "反响太棒了！欢迎大家提出建议~",
+        "bvid": "BV1Qotd6UExD",
+        "author": "b站南瓜酱",
+        "duration": "1:57",
+        "cover": "//i2.hdslb.com/bfs/archive/ccd07a9c052bc0e282e604b6ddaf4d4b5e9f5c40.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qotd6UExD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "PVZ数学版新植物虚数炸弹"
       }
     ],
     "qbitai": [
@@ -960,6 +960,36 @@
         "rank": 5
       },
       {
+        "title": "黄酒企业集体涨停，企业回应：没收到和发现任何相关消息",
+        "url": "https://m.36kr.com/newsflashes/3968699652141569",
+        "desc": "9月4日早间，会稽山和古越龙山双双高开，开盘后很快封住了涨停。金枫酒业迅速跟涨，盘中也一度封住涨停，但随后开板。截至上午收盘，会稽山和古越龙山仍封死涨停板，金枫酒业涨幅约7%。相关黄酒企业回复，“截至目前，我们没收到和发现任何相关消息。公司目前一切运营正常。”上述三家企业，是A股市场为数不多从事黄酒业务的上市公司。上一次出现盘中集体涨停，需要追溯到去年的5月27日。（证券时报）",
+        "cover": "",
+        "date": 1788502203377,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "三大指数午后集体翻绿",
+        "url": "https://m.36kr.com/newsflashes/3968699025961478",
+        "desc": "36氪获悉，三大指数午后集体翻绿，半导体芯片、算力硬件、贵金属、消费电子等方向跌幅居前，沪深京三市下跌个股超2300只。",
+        "cover": "",
+        "date": 1788502165158,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "澳新银行上调布伦特原油预期至95美元/桶，缓冲空间不断收窄",
+        "url": "https://m.36kr.com/newsflashes/3968681842831621",
+        "desc": "研究报告显示，澳新银行上调短期布伦特原油价格预期至每桶95美元。包括丹尼尔・海因斯（Daniel Hynes ）与索尼库马里（Soni Kumari）在内的分析师写道：“要重建已经消耗殆尽的全球库存，需要进一步抑制需求，这意味着油价在可预见的未来将维持高位。”若中东冲突进一步升级，油价存在继续上行的空间。随着波斯湾地区供应逐步恢复，2027年油价将回落至每桶85‑90美元。澳新银行在8月31日的报告中，曾预测第三季度末油价为92美元/桶。（新浪财经）",
+        "cover": "",
+        "date": 1788501521000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
         "title": "海看股份：“海看鲸灵AI影视创作平台”已上线运行，AIGC业务在公司整体营收中占比较小",
         "url": "https://m.36kr.com/newsflashes/3968665390805504",
         "desc": "36氪获悉，海看股份在互动平台表示，公司自研的“海看鲸灵AI影视创作平台”聚焦漫剧、微短剧赛道，已实现从剧本生成、镜头拆解到成片剪辑的一站式自动化创作，具备向长剧、影视动画及全媒体内容生产拓展的基础能力；“海看鲸灵AI影视创作平台”已上线运行，并支持向短剧创作者、影视传媒企业、主流媒体、高校等多元主体开放技术服务。公司正强化微短剧板块与IPTV大屏业务的协同赋能，旨在通过持续丰富大屏内容矩阵，放大内容价值和品牌影响力。目前AIGC业务在公司整体营收中占比较小，预计不会对公司当期业绩产生较大影响。",
@@ -967,7 +997,7 @@
         "date": 1788500821000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "沪深京三市成交额超1.5万亿元，较上日此时放量1626亿元",
@@ -977,7 +1007,7 @@
         "date": 1788500685191,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "深成指、创业板指午后双双翻绿",
@@ -987,7 +1017,7 @@
         "date": 1788500310572,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "沙特人工智能企业Humain寻求设立25亿美元数据中心基金",
@@ -997,7 +1027,7 @@
         "date": 1788500161000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "Lee大中华区业务将换运营方",
@@ -1007,7 +1037,7 @@
         "date": 1788499918470,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "抖音生活服务：今年以来快餐小吃行业交易额同比增长114%",
@@ -1017,7 +1047,7 @@
         "date": 1788499574000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "推动具身智能产业高质量发展，长三角G60城市发布共建倡议",
@@ -1027,7 +1057,7 @@
         "date": 1788499486820,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "首都机场临空经济区“十五五”规划正式发布",
@@ -1037,7 +1067,7 @@
         "date": 1788498273000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "特斯拉：Cybercab无人驾驶网约车自美国中部时间周五下午5点起对公众开放试乘",
@@ -1047,7 +1077,7 @@
         "date": 1788497691397,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "动力电池回收利用产业标准体系建设指南有望今年发布",
@@ -1057,7 +1087,7 @@
         "date": 1788497383000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "Omdia：预计到2030年视频分析软件市场全球销售额将达17亿美元",
@@ -1067,7 +1097,7 @@
         "date": 1788496969000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "谷歌：自10月30日起更新YouTube流量的个性化广告政策",
@@ -1077,7 +1107,7 @@
         "date": 1788496454000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "全球首个原生智能体机器人“银河星仔”，上线24小时，全网预订超200台",
@@ -1087,7 +1117,7 @@
         "date": 1788495489753,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "个人养老金基金产品品类或再扩容",
@@ -1097,7 +1127,7 @@
         "date": 1788495274150,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "美光计划年内大幅扩产HBM，产能有望翻倍",
@@ -1107,7 +1137,7 @@
         "date": 1788495200000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 23
       },
       {
         "title": "恒指午间休盘涨2.08%，恒生科技指数涨2.51%",
@@ -1117,7 +1147,7 @@
         "date": 1788494525648,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 24
       },
       {
         "title": "海致AtlasGraphRAG同时登顶GraphRAG-Bench两大赛道",
@@ -1127,45 +1157,15 @@
         "date": 1788494023750,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "2026中国国际矿业大会将于9月10日开幕，新增矿业权交易板块",
-        "url": "https://m.36kr.com/newsflashes/3968554638668294",
-        "desc": "36氪获悉，据自然资源部消息，2026（第二十八届）中国国际矿业大会将于9月10日至12日在天津梅江会展中心举办。目前，大会各项筹备正在积极有序推进中。大会组委会主席、中国矿业联合会会长程利伟介绍，本届大会在往届论坛、展览两大板块基础上，新增矿业权交易板块。大会将设置矿业权转让大市场、专场推介、开放式推介、项目签约和商务洽谈等多项交易功能。其中，矿业权转让大市场将提供交易展示、信息发布、交易对接、流程咨询等服务。截至目前，大会已吸引全球25个国家的658家企业参展。",
-        "cover": "",
-        "date": 1788494003000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "半日主力资金加仓传媒板块，抛售电子、有色金属股",
-        "url": "https://m.36kr.com/newsflashes/3968557144322565",
-        "desc": "主力资金早间净流入传媒、计算机、农林牧渔等板块，净流出电子、有色金属、机械设备等板块。具体到个股来看，天娱数科、易点天下、四方精创获净流入20.15亿元、19.89亿元、17.69亿元。净流出方面，浪潮信息、紫光股份、中国巨石遭抛售19.52亿元、13.85亿元、11.09亿元。（第一财经）",
-        "cover": "",
-        "date": 1788493505390,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 24
-      },
-      {
-        "title": "野村证券称极端情况下，日本央行可能连续三次会议都加息",
-        "url": "https://m.36kr.com/newsflashes/3968550825652484",
-        "desc": "野村证券表示，在日元持续走弱的极端情况下，日本央行可能会在12月之前的三次会议上连续加息。野村日本外汇策略主管Yujiro Goto在接受采访时表示，本月加息25个基点“看起来合理”，且“如果日元的弱势继续向160靠拢，10月和12月可能连续加息”。 （新浪财经）",
-        "cover": "",
-        "date": 1788493472000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788501367084,
-    "bilibili": 1788499769722,
-    "qbitai": 1788501396948,
-    "36kr": 1788501397522
+    "thepaper": 1788502270256,
+    "bilibili": 1788501583845,
+    "qbitai": 1788502302061,
+    "36kr": 1788502302450
   },
   "failures": {}
 }
