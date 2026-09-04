@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-04T15:56:52Z",
-  "liveSourceCount": 2,
+  "updatedAt": "2026-09-04T16:11:44Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -930,16 +930,6 @@
         "rank": 2
       },
       {
-        "title": "🔥36氪官方股票舆情交流群开放加入，抢先掌握A股一手资讯！",
-        "url": "https://m.36kr.com/p/3863967437247751",
-        "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20260901/v2_cb5d01b48dbb4f69a9e46b80447ab399@5284654_oswg1330519oswg1440oswg600_img_png?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
-        "date": 1788519121312,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 3
-      },
-      {
         "title": "热门中概股美股盘前多数上涨，百度涨超2%",
         "url": "https://m.36kr.com/newsflashes/3969108120777225",
         "desc": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，百度、网易涨超2%，京东、拼多多涨超1%，理想汽车涨0.75%，哔哩哔哩、蔚来跌超3%，小鹏集团跌0.27%。",
@@ -947,7 +937,7 @@
         "date": 1788527134324,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "美股大型科技股盘前多数下跌，特斯拉跌超3%",
@@ -957,7 +947,7 @@
         "date": 1788526976508,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 4
       },
       {
         "title": "深交所：本周共对95起证券异常交易行为采取了自律监管措施",
@@ -967,7 +957,7 @@
         "date": 1788525861955,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "报告：去年全球亿万富翁总财富达到15.1万亿美元",
@@ -977,7 +967,7 @@
         "date": 1788525675000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "城堡投资据悉寻求收购美国页岩油生产资产",
@@ -987,7 +977,7 @@
         "date": 1788525392000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "美国8月非农就业增加16.2万人，失业率维持4.1%",
@@ -997,7 +987,7 @@
         "date": 1788525237147,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 8
       },
       {
         "title": "前8月港交所IPO集资额同比增逾1.5倍",
@@ -1007,7 +997,7 @@
         "date": 1788525171000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "国务院国资委：聚焦行业发展、市场需求、前沿技术强化应用基础研究攻关 加快技术迭代",
@@ -1017,7 +1007,7 @@
         "date": 1788524681831,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "沙特人工智能公司推出中企开发的阿拉伯语大模型",
@@ -1027,7 +1017,7 @@
         "date": 1788524496000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "哔哩哔哩：拟发售7亿美元于2031年到期的可换股优先票据",
@@ -1037,7 +1027,7 @@
         "date": 1788524214095,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "湖北能源：与恩施州政府签订80亿元清洁能源项目深化合作协议",
@@ -1047,7 +1037,7 @@
         "date": 1788524044000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 13
       },
       {
         "title": "兴业科技：收到中国证监会立案通知书",
@@ -1057,7 +1047,7 @@
         "date": 1788523842000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 14
       },
       {
         "title": "龙版传媒：AI视频业务对业绩无显著影响",
@@ -1067,7 +1057,7 @@
         "date": 1788523608000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 15
       },
       {
         "title": "沪港通下港股通标的名单发生调整，并自下一港股通交易日起生效",
@@ -1077,7 +1067,7 @@
         "date": 1788523226000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 16
       },
       {
         "title": "广电总局：对用户上传微短剧，平台凡播必审",
@@ -1087,7 +1077,7 @@
         "date": 1788523080715,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 17
       },
       {
         "title": "美格智能：拟认缴7000万元设立合资公司暨关联交易",
@@ -1097,7 +1087,7 @@
         "date": 1788522925000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 18
       },
       {
         "title": "天赐材料：香港联交所审议公司发行港股上市",
@@ -1107,7 +1097,7 @@
         "date": 1788522558000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 19
       },
       {
         "title": "月之暗面据悉计划今年在香港进行IPO",
@@ -1117,7 +1107,7 @@
         "date": 1788522220000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 20
       },
       {
         "title": "英飞特：控股股东及实控人拟减持不超2.98%股份",
@@ -1127,7 +1117,7 @@
         "date": 1788521915000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 21
       },
       {
         "title": "市场监管总局：上半年累计审结经营者集中案件298起",
@@ -1137,16 +1127,16 @@
         "date": 1788521913305,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
+        "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "qbitai": 1788537412334,
-    "36kr": 1788537412778
+    "thepaper": 1788538264162,
+    "qbitai": 1788538303846,
+    "36kr": 1788538304134
   },
   "failures": {
-    "thepaper": "RuntimeError('NewsNow JSON not found')",
     "bilibili": "RuntimeError('NewsNow JSON not found')"
   }
 }
