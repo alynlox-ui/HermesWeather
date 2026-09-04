@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T05:41:36Z",
+  "updatedAt": "2026-09-04T05:56:37Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,26 @@
     ],
     "qbitai": [
       {
+        "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+        "url": "https://www.qbitai.com/2026/09/484159.html",
+        "desc": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/8ac308b02759867da33d390317d0b2d4.jpeg",
+        "date": "2026-09-04T13:53:09",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+        "url": "https://www.qbitai.com/2026/09/484155.html",
+        "desc": "",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/0c7dbb15824dfe79a623eee9a6716d75.png",
+        "date": "2026-09-04T13:48:53",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
+      {
         "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
         "url": "https://www.qbitai.com/2026/09/483984.html",
         "desc": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
@@ -615,7 +635,7 @@
         "date": "2026-09-04T12:03:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 3
       },
       {
         "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
@@ -625,7 +645,7 @@
         "date": "2026-09-04T09:40:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 4
       },
       {
         "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
@@ -635,7 +655,7 @@
         "date": "2026-09-04T05:57:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
@@ -645,7 +665,7 @@
         "date": "2026-09-04T05:50:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "“没有Token的CS学生，应立即退学”",
@@ -655,7 +675,7 @@
         "date": "2026-09-03T19:32:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
@@ -665,7 +685,7 @@
         "date": "2026-09-03T19:25:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
@@ -675,7 +695,7 @@
         "date": "2026-09-03T18:18:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "陈大年复出，入局大模型",
@@ -685,7 +705,7 @@
         "date": "2026-09-03T18:13:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
@@ -695,7 +715,7 @@
         "date": "2026-09-03T11:16:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
@@ -705,7 +725,7 @@
         "date": "2026-09-03T09:31:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
@@ -715,7 +735,7 @@
         "date": "2026-09-03T09:27:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "今年最难的机器人Demo，“机器人含量”为0",
@@ -725,7 +745,7 @@
         "date": "2026-09-03T08:51:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "具身大脑进了真实世界，难题才刚刚开始",
@@ -735,7 +755,7 @@
         "date": "2026-09-02T18:10:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
@@ -745,7 +765,7 @@
         "date": "2026-09-02T17:22:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
@@ -755,7 +775,7 @@
         "date": "2026-09-02T14:20:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
@@ -765,7 +785,7 @@
         "date": "2026-09-02T14:10:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
@@ -775,7 +795,7 @@
         "date": "2026-09-02T14:06:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
@@ -785,7 +805,7 @@
         "date": "2026-09-02T10:48:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
@@ -795,7 +815,7 @@
         "date": "2026-09-02T10:18:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "香港首个真实开放场景服务机器人落地兰桂坊",
@@ -805,7 +825,7 @@
         "date": "2026-09-02T10:06:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
@@ -815,7 +835,7 @@
         "date": "2026-09-02T09:44:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "李飞飞发布：全球首个多模态世界模型",
@@ -825,7 +845,7 @@
         "date": "2026-09-02T09:07:13",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
@@ -835,7 +855,7 @@
         "date": "2026-09-01T20:02:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 25
       },
       {
         "title": "GitHub最热架构图Agent，开发者故事看哭了",
@@ -845,7 +865,7 @@
         "date": "2026-09-01T16:26:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 26
       },
       {
         "title": "急急急用电！马斯克开造燃气轮机叶片",
@@ -855,7 +875,7 @@
         "date": "2026-09-01T16:24:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 27
       },
       {
         "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
@@ -865,7 +885,7 @@
         "date": "2026-09-01T16:15:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 28
       },
       {
         "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
@@ -875,7 +895,7 @@
         "date": "2026-09-01T13:12:30",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 29
       },
       {
         "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
@@ -883,26 +903,6 @@
         "desc": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/生命-1.jpg",
         "date": "2026-09-01T12:12:49",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 28
-      },
-      {
-        "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-        "url": "https://www.qbitai.com/2026/08/481928.html",
-        "desc": "划重点：这次不是你挨家敲门，是VC排队来看你。",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/4d3ae33c3ecd2e4adebc1a395e9700b0.jpeg",
-        "date": "2026-08-31T21:20:29",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-        "url": "https://www.qbitai.com/2026/08/481923.html",
-        "desc": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/08/aa4db6de6291733fac2b511f6df6e496.jpeg",
-        "date": "2026-08-31T15:53:12",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -960,6 +960,26 @@
         "rank": 5
       },
       {
+        "title": "海看股份：“海看鲸灵AI影视创作平台”已上线运行，AIGC业务在公司整体营收中占比较小",
+        "url": "https://m.36kr.com/newsflashes/3968665390805504",
+        "desc": "36氪获悉，海看股份在互动平台表示，公司自研的“海看鲸灵AI影视创作平台”聚焦漫剧、微短剧赛道，已实现从剧本生成、镜头拆解到成片剪辑的一站式自动化创作，具备向长剧、影视动画及全媒体内容生产拓展的基础能力；“海看鲸灵AI影视创作平台”已上线运行，并支持向短剧创作者、影视传媒企业、主流媒体、高校等多元主体开放技术服务。公司正强化微短剧板块与IPTV大屏业务的协同赋能，旨在通过持续丰富大屏内容矩阵，放大内容价值和品牌影响力。目前AIGC业务在公司整体营收中占比较小，预计不会对公司当期业绩产生较大影响。",
+        "cover": "https://img.36krcdn.com/hsossms/20260904/v2_2f2fed0fc7e642cabb7dbe2388f36d1e@6433421_oswg27031oswg878oswg298_img_png",
+        "date": 1788500821000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "沪深京三市成交额超1.5万亿元，较上日此时放量1626亿元",
+        "url": "https://m.36kr.com/newsflashes/3968674778181896",
+        "desc": "36氪获悉，沪深京三市成交额超1.5万亿元，较上日此时放量1626亿元。",
+        "cover": "",
+        "date": 1788500685191,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "深成指、创业板指午后双双翻绿",
         "url": "https://m.36kr.com/newsflashes/3968668640424197",
         "desc": "36氪获悉，深成指、创业板指午后双双翻绿。",
@@ -967,7 +987,7 @@
         "date": 1788500310572,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "沙特人工智能企业Humain寻求设立25亿美元数据中心基金",
@@ -977,7 +997,7 @@
         "date": 1788500161000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "Lee大中华区业务将换运营方",
@@ -987,7 +1007,7 @@
         "date": 1788499918470,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "抖音生活服务：今年以来快餐小吃行业交易额同比增长114%",
@@ -997,7 +1017,7 @@
         "date": 1788499574000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "推动具身智能产业高质量发展，长三角G60城市发布共建倡议",
@@ -1007,7 +1027,7 @@
         "date": 1788499486820,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "首都机场临空经济区“十五五”规划正式发布",
@@ -1017,7 +1037,7 @@
         "date": 1788498273000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "特斯拉：Cybercab无人驾驶网约车自美国中部时间周五下午5点起对公众开放试乘",
@@ -1027,7 +1047,7 @@
         "date": 1788497691397,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "动力电池回收利用产业标准体系建设指南有望今年发布",
@@ -1037,7 +1057,7 @@
         "date": 1788497383000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "Omdia：预计到2030年视频分析软件市场全球销售额将达17亿美元",
@@ -1047,7 +1067,7 @@
         "date": 1788496969000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "谷歌：自10月30日起更新YouTube流量的个性化广告政策",
@@ -1057,7 +1077,7 @@
         "date": 1788496454000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "全球首个原生智能体机器人“银河星仔”，上线24小时，全网预订超200台",
@@ -1067,7 +1087,7 @@
         "date": 1788495489753,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "个人养老金基金产品品类或再扩容",
@@ -1077,17 +1097,17 @@
         "date": 1788495274150,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "美光计划年内大幅扩产HBM，产能有望翻倍",
         "url": "https://m.36kr.com/newsflashes/3968557645230596",
-        "desc": "美光计划在年底前进行大规模设备投资，以提升最新一代HBM——HBM4 12层产品的供应能力。此举旨在弥补其相较于三星电子和SK海力士在HBM产能方面的不足，从而提高市场份额。美光计划在今年年底前新增最多6万片/月的HBM产能（按晶圆计）。去年美光的HBM产量约为4万至5万片/月，以此计算，美光HBM产能将是去年的两倍有余。一位熟悉相关情况的业内人士表示：“美光正在进行大规模设备投资，以快速提升HBM4的生产能力。预计到今年年底，美光将拥有约10万片/月规模的HBM产能。” （财联社）",
+        "desc": "美光计划在年底前进行大规模设备投资，以提升最新一代HBM——HBM4 12层产品的供应能力。此举旨在弥补其相较于三星电子和SK海力士在HBM产能方面的不足，从而提高市场份额。美光计划在今年年底前新增最多6万片/月的HBM产能（按晶圆计）。去年美光的HBM产量约为4万至5万片/月，以此计算，美光HBM产能将是去年的两倍有余。一位熟悉相关情况的业内人士表示：“美光正在进行大规模设备投资，以快速提升HBM4的生产能力。预计到今年年底，美光将拥有约10万片/月规模的HBM产能。”（财联社）",
         "cover": "",
         "date": 1788495200000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "恒指午间休盘涨2.08%，恒生科技指数涨2.51%",
@@ -1097,17 +1117,17 @@
         "date": 1788494525648,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "海致AtlasGraphRAG同时登顶GraphRAG-Bench两大赛道",
         "url": "https://m.36kr.com/newsflashes/3968565637132544",
-        "desc": "9月3日，图检索增强生成（GraphRAG）评测基准GraphRAG-Bench最新排行榜显示，海致科技自主研发的 AtlasGraphRAG 在该基准的Novel（文学/小说）与Medical（医疗）两大评测赛道中，均斩获第一名，超越了微软MS-GraphRAG（local）、HippoRAG2等国际主流框架。据介绍，GraphRAG-Bench是学术界首个系统性验证图检索增强生成（GraphRAG）有效性的基准，基准涵盖事实检索、复杂推理、上下文摘要和创意生成四大任务类型。",
+        "desc": "9月3日，图检索增强生成（GraphRAG）评测基准GraphRAG-Bench最新排行榜显示，海致科技自主研发的AtlasGraphRAG在该基准的Novel（文学/小说）与Medical（医疗）两大评测赛道中，均斩获第一名，超越了微软MS-GraphRAG（local）、HippoRAG2等国际主流框架。据介绍，GraphRAG-Bench是学术界首个系统性验证图检索增强生成（GraphRAG）有效性的基准，基准涵盖事实检索、复杂推理、上下文摘要和创意生成四大任务类型。",
         "cover": "",
         "date": 1788494023750,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "2026中国国际矿业大会将于9月10日开幕，新增矿业权交易板块",
@@ -1117,7 +1137,7 @@
         "date": 1788494003000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "半日主力资金加仓传媒板块，抛售电子、有色金属股",
@@ -1127,7 +1147,7 @@
         "date": 1788493505390,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "野村证券称极端情况下，日本央行可能连续三次会议都加息",
@@ -1137,35 +1157,15 @@
         "date": 1788493472000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "A股三大指数午间休盘集体上涨，敦煌种业涨停",
-        "url": "https://m.36kr.com/newsflashes/3968544456175879",
-        "desc": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.35%，深成指涨0.27%，创业板涨0.43%；农业板块领涨，敦煌种业涨停，神农集团涨超8%；文化传媒板块走强，欢瑞世纪涨停，芒果超媒涨超7%；电脑硬件板块跌幅居前，浪潮信息跌超9%，协创数据跌超3%；半导体板块下挫，华虹宏力跌超6%，芯朋微跌超4%。",
-        "cover": "",
-        "date": 1788492730967,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 24
-      },
-      {
-        "title": "上半年支持城市更新减税降费及退税4870亿元",
-        "url": "https://m.36kr.com/newsflashes/3968532261073414",
-        "desc": "国家税务总局发布的最新税收数据显示，今年以来，税务部门落实落细各项支持城市更新的税费优惠政策，上半年累计减税降费及退税4870亿元。其中，分类看，上半年，对公共租赁住房免征增值税、契税；延续实施居民换购住房有关个人所得税优惠等支持满足群众刚性和改善性住房需求相关政策，减税降费及退税2098亿元。（央视新闻）",
-        "cover": "",
-        "date": 1788491986637,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788500466789,
+    "thepaper": 1788501367084,
     "bilibili": 1788499769722,
-    "qbitai": 1788500496403,
-    "36kr": 1788500496849
+    "qbitai": 1788501396948,
+    "36kr": 1788501397522
   },
   "failures": {}
 }
