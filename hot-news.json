@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-04T15:41:36Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-09-04T15:56:52Z",
+  "liveSourceCount": 2,
   "sources": {
     "thepaper": [
       {
@@ -1142,10 +1142,11 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788536464250,
-    "bilibili": 1788535512500,
-    "qbitai": 1788536495899,
-    "36kr": 1788536496194
+    "qbitai": 1788537412334,
+    "36kr": 1788537412778
   },
-  "failures": {}
+  "failures": {
+    "thepaper": "RuntimeError('NewsNow JSON not found')",
+    "bilibili": "RuntimeError('NewsNow JSON not found')"
+  }
 }
