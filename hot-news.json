@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T14:56:36Z",
+  "updatedAt": "2026-09-04T15:11:27Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "重庆狼队战胜北京JDG KPL"
       },
       {
-        "title": "这虾钳有力气！各主播看Niko包点一人成军锁头四杀！扭转乾坤的炮台；G2人打懵了！",
-        "url": "https://www.bilibili.com/video/BV15rt66yEwK",
+        "title": "猎鹰拿下第一局！BLAST波尔图公开赛淘汰赛Falcons1比0G2，虎扑评分",
+        "url": "https://www.bilibili.com/video/BV1Eet66JE1p",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV15rt66yEwK",
-        "author": "切斯特片片",
-        "duration": "6:41",
-        "cover": "//i1.hdslb.com/bfs/archive/93b5dd1c5fe7b047384e29a8a2aea45bd8f294f3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15rt66yEwK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1Eet66JE1p",
+        "author": "饿了裤子",
+        "duration": "1:22",
+        "cover": "//i2.hdslb.com/bfs/archive/49e688349c4e6b7c16d2149bcafa2f8277541ecd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Eet66JE1p&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Falcons vs G2 BLAST公开赛"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788533763648,
-    "bilibili": 1788533772598,
-    "qbitai": 1788533796562,
-    "36kr": 1788533796847
+    "thepaper": 1788534663782,
+    "bilibili": 1788533712079,
+    "qbitai": 1788534687586,
+    "36kr": 1788534687883
   },
   "failures": {}
 }
