@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T13:13:42Z",
+  "updatedAt": "2026-09-05T13:26:37Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -568,7 +568,7 @@
         "content": "-",
         "bvid": "BV1U4t26EEhC",
         "author": "kpl二路",
-        "duration": "2842:49",
+        "duration": "3578:20",
         "cover": "//i1.hdslb.com/bfs/archive/2c5b5046036e9d2423433becf617589dfa032f34.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1U4t26EEhC&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "长沙TES.A vs 广州TTG KPL"
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788613990853,
-    "bilibili": 1788613999687,
-    "qbitai": 1788614022266,
-    "36kr": 1788614022523
+    "thepaper": 1788614764024,
+    "bilibili": 1788613540848,
+    "qbitai": 1788614795692,
+    "36kr": 1788614797867
   },
   "failures": {}
 }
