@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T14:41:28Z",
-  "liveSourceCount": 3,
+  "updatedAt": "2026-09-05T14:56:35Z",
+  "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
@@ -126,26 +126,74 @@
     ],
     "bilibili": [
       {
-        "title": "【2026KPL夏季赛】9月5日 长沙TES.A VS 广州TTG",
-        "url": "https://www.bilibili.com/video/BV1DEt269Em2",
+        "title": "NIP 3-0 JDG 赛后数据雷达图+虎扑评分丨LPL第三赛段季后赛",
+        "url": "https://www.bilibili.com/video/BV1fEbL6jEjm",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026KPL夏季赛】9月5日 长沙TES.A VS 广州TTG",
-        "content": "【2026KPL夏季赛】9月5日 长沙TES.A VS 广州TTG",
-        "bvid": "BV1DEt269Em2",
-        "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "220:31",
-        "cover": "//i0.hdslb.com/bfs/archive/619dbb9a79e7eb55b608d1ae5b43b6f6460af785.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DEt269Em2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "广州TTG战胜长沙TES.A KPL"
+        "description": "",
+        "content": "",
+        "bvid": "BV1fEbL6jEjm",
+        "author": "苦练李香兰",
+        "duration": "3:35",
+        "cover": "//i2.hdslb.com/bfs/archive/fad530a2a4d194ebb50391d6b87b8e289162666b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fEbL6jEjm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "NIP战胜JDG赛后数据"
+      },
+      {
+        "title": "我已绝望！签下本西蒙斯！国王这队烂出宇宙？",
+        "url": "https://www.bilibili.com/video/BV19bbL6zEAN",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV19bbL6zEAN",
+        "author": "业余球探刀先生",
+        "duration": "10:41",
+        "cover": "//i0.hdslb.com/bfs/archive/e3487842194961aec6c99cbfdff0adee74c857dc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19bbL6zEAN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "本西蒙斯重返NBA"
+      },
+      {
+        "title": "一杯茶局,三方博弈！《凡人修仙传》190逐帧解析",
+        "url": "https://www.bilibili.com/video/BV1B1t26KEAJ",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1B1t26KEAJ",
+        "author": "利维坦mY",
+        "duration": "13:33",
+        "cover": "//i0.hdslb.com/bfs/archive/baea110585a73a3bc9f5f8bf54072818fcc38d74.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1B1t26KEAJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "解析凡人修仙传190集"
+      },
+      {
+        "title": "Falcons vs Spirit，当Spirit 1-0 Falcons，虎扑评分",
+        "url": "https://www.bilibili.com/video/BV1GabL6BEnT",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1GabL6BEnT",
+        "author": "吹乌云_",
+        "duration": "0:45",
+        "cover": "//i1.hdslb.com/bfs/archive/463b47c22b8c5381d8544bb9986273bf10b137c8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GabL6BEnT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Falcons vs Spirit BLAST公开赛"
       },
       {
         "title": "德比斯置之死地而后生！2026年WSBK法国站SSP组别正赛第一回合（张雪机车组）",
         "url": "https://www.bilibili.com/video/BV1rQbL69EcS",
         "desc": "",
-        "rank": 2,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -158,42 +206,10 @@
         "hotTitle": "张雪机车德比斯第一回合季军"
       },
       {
-        "title": "大学校徽应该怎么设计？【使徒子】",
-        "url": "https://www.bilibili.com/video/BV1ahtR6mEma",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "又到开学季，一枚小小的校徽会伴随大家整个大学时光。国内高校校徽看着大多长得雷同，满屏圆形徽章，其实每枚背后都有一段过往。鲁迅操刀的北大校徽、清华曾经的鹰形老校徽，还有被网友玩梗的浙大、同济校徽，甚至把恐龙印进校徽的高校。今天聊聊大学校徽设计里的历史与巧思。",
-        "content": "又到开学季，一枚小小的校徽会伴随大家整个大学时光。国内高校校徽看着大多长得雷同，满屏圆形徽章，其实每枚背后都有一段过往。鲁迅操刀的北大校徽、清华曾经的鹰形老校徽，还有被网友玩梗的浙大、同济校徽，甚至把恐龙印进校徽的高校。今天聊聊大学校徽设计里的历史与巧思。",
-        "bvid": "BV1ahtR6mEma",
-        "author": "使徒子",
-        "duration": "9:9",
-        "cover": "//i0.hdslb.com/bfs/archive/1cc1de3bb046a1f584002fe0af8125964d4310de.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ahtR6mEma&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大学校徽应该怎么设计"
-      },
-      {
-        "title": "【CSBOY弹幕录播】FURIA vs Aurora丨Spirit vs Falcons 2026年06月20日",
-        "url": "https://www.bilibili.com/video/BV1PvjH62E5b",
-        "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "CSBOY直播间：huya.com/123321",
-        "content": "CSBOY直播间：huya.com/123321",
-        "bvid": "BV1PvjH62E5b",
-        "author": "MTC君",
-        "duration": "496:47",
-        "cover": "//i1.hdslb.com/bfs/archive/53d124086c8cbd6985db5792cd7efafe1981e69a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PvjH62E5b&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Falcons vs Spirit BLAST公开赛"
-      },
-      {
         "title": "1岁裸体男童沙漠走失12小时后成功获救",
         "url": "https://www.bilibili.com/video/BV1L1ty6tE26",
         "desc": "",
-        "rank": 5,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "来源：一线",
@@ -206,36 +222,20 @@
         "hotTitle": "走失男童在沙漠被找到"
       },
       {
-        "title": "陶哲轩的长文&疑似被AI解决的千禧年七大难题",
-        "url": "https://www.bilibili.com/video/BV1R3t26bEW5",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1R3t26bEW5",
-        "author": "分析学爱好者",
-        "duration": "10:34",
-        "cover": "//i2.hdslb.com/bfs/archive/f343d3cfe49e7c3e73c777d3e7a3ec62075625ad.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1R3t26bEW5&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "怎么看AI或解决七大数学难题之一"
-      },
-      {
-        "title": "仙术杯#9 初赛day1",
-        "url": "https://www.bilibili.com/video/BV19htF6FE7n",
+        "title": "IG 3-2 TES 赛后数据雷达图+虎扑评分丨LPL季后赛",
+        "url": "https://www.bilibili.com/video/BV1dgt26FEf7",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "仙术杯#9 day1 @MR流星飞 破坏战术分队 | 圣聆初雪开局 | 混沌源阶理论+畸症 | 分数：3327 ﻿@天离beta 远程战术分队 | 维什戴尔开局 | 混沌源阶理论+畸症 | 分数：3541 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
-        "content": "仙术杯#9 day1 @MR流星飞 破坏战术分队 | 圣聆初雪开局 | 混沌源阶理论+畸症 | 分数：3327 ﻿@天离beta 远程战术分队 | 维什戴尔开局 | 混沌源阶理论+畸症 | 分数：3541 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
-        "bvid": "BV19htF6FE7n",
-        "author": "龙哥哥今天又鸽了",
-        "duration": "301:16",
-        "cover": "//i1.hdslb.com/bfs/archive/645e88a4bb794a26349757a0be86e3c6ece3c223.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19htF6FE7n&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "明日方舟仙术杯9决赛day1"
+        "description": "",
+        "content": "",
+        "bvid": "BV1dgt26FEf7",
+        "author": "苦练李香兰",
+        "duration": "5:25",
+        "cover": "//i0.hdslb.com/bfs/archive/39a1c6225dcf0e5aef6d1cbfa6519bfdf14f8dea.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dgt26FEf7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "IG战胜TES赛后数据"
       },
       {
         "title": "长得不好看也是一种失败，最焦虑的国家如何培养超级医美产业？",
@@ -254,68 +254,68 @@
         "hotTitle": "王骁拆解韩国医美产业"
       },
       {
-        "title": "十一年了！综艺界甄嬛传 花少二名场面完整复盘【第一期】",
-        "url": "https://www.bilibili.com/video/BV1YLt26dEVD",
+        "title": "吉隆口岸遭泥石流冲击当日，民警冒险航拍传回现场画面",
+        "url": "https://www.bilibili.com/video/BV1H7tm65Erk",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1YLt26dEVD",
-        "author": "神烦XP",
-        "duration": "20:52",
-        "cover": "//i0.hdslb.com/bfs/archive/957cc0241faadf67da3920ea43a600aca2dc31cc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YLt26dEVD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "完整复盘花少二名场面"
+        "description": "记者：周立民、周昱龙、丁增尼达",
+        "content": "记者：周立民、周昱龙、丁增尼达",
+        "bvid": "BV1H7tm65Erk",
+        "author": "新华社",
+        "duration": "3:2",
+        "cover": "//i0.hdslb.com/bfs/archive/0e0fb809964711f1b3a34beb15679278d5e40c67.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1H7tm65Erk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "民警冒险传回吉隆泥石流当日画面"
       },
       {
-        "title": "IG 3-2 TES 赛后数据雷达图+虎扑评分丨LPL季后赛",
-        "url": "https://www.bilibili.com/video/BV1dgt26FEf7",
+        "title": "仙术杯#9 初赛day1",
+        "url": "https://www.bilibili.com/video/BV19htF6FE7n",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1dgt26FEf7",
-        "author": "苦练李香兰",
-        "duration": "5:25",
-        "cover": "//i0.hdslb.com/bfs/archive/39a1c6225dcf0e5aef6d1cbfa6519bfdf14f8dea.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dgt26FEf7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "IG战胜TES赛后数据"
+        "description": "仙术杯#9 day1 @MR流星飞 破坏战术分队 | 圣聆初雪开局 | 混沌源阶理论+畸症 | 分数：3327 ﻿@天离beta 远程战术分队 | 维什戴尔开局 | 混沌源阶理论+畸症 | 分数：3541 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
+        "content": "仙术杯#9 day1 @MR流星飞 破坏战术分队 | 圣聆初雪开局 | 混沌源阶理论+畸症 | 分数：3327 ﻿@天离beta 远程战术分队 | 维什戴尔开局 | 混沌源阶理论+畸症 | 分数：3541 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
+        "bvid": "BV19htF6FE7n",
+        "author": "龙哥哥今天又鸽了",
+        "duration": "301:16",
+        "cover": "//i1.hdslb.com/bfs/archive/645e88a4bb794a26349757a0be86e3c6ece3c223.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19htF6FE7n&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "明日方舟仙术杯9决赛day1"
       },
       {
-        "title": "TES被iG淘汰赛后现状",
-        "url": "https://www.bilibili.com/video/BV1XTbj6CE2J",
+        "title": "【TES vs IG】季后赛 二路解说 2026LPL第3赛段",
+        "url": "https://www.bilibili.com/video/BV1Brty6cENf",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1XTbj6CE2J",
-        "author": "一只青娥",
-        "duration": "1:28",
-        "cover": "//i1.hdslb.com/bfs/archive/ddd218659ce216c9a8401421672f31ee8fe6a474.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XTbj6CE2J&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "TES vs IG",
+        "content": "TES vs IG",
+        "bvid": "BV1Brty6cENf",
+        "author": "电竞天幕guesser",
+        "duration": "3180:6",
+        "cover": "//i1.hdslb.com/bfs/archive/45659739c89948f22d35645cfa88812f5df9469b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Brty6cENf&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "IG战胜TES"
       },
       {
-        "title": "美国拉斯维加斯有点爽！",
-        "url": "https://www.bilibili.com/video/BV1jct96JE1n",
+        "title": "GEN 3-1 HLE 赛后数据雷达图+虎扑评分丨LCK季后赛",
+        "url": "https://www.bilibili.com/video/BV1stbj6FEZ2",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1jct96JE1n",
-        "author": "蓝战非OvO",
-        "duration": "24:5",
-        "cover": "//i1.hdslb.com/bfs/archive/5fbd63290774ed5647e9a428d6804313da4acfd4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jct96JE1n&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "蓝战非勇闯拉斯维加斯"
+        "bvid": "BV1stbj6FEZ2",
+        "author": "苦练李香兰",
+        "duration": "4:30",
+        "cover": "//i1.hdslb.com/bfs/archive/b43bd99289c1280e4e4e6327ffd219650a88a036.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1stbj6FEZ2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GEN战胜HLE数据雷达图"
       },
       {
         "title": "【萌黄一槽】幻术吗，什么时候？！宇智波鼬[晓·朱]全技能爆料！",
@@ -334,58 +334,74 @@
         "hotTitle": "火影手游晓朱鼬技能全爆料"
       },
       {
-        "title": "吉隆口岸遭泥石流冲击当日，民警冒险航拍传回现场画面",
-        "url": "https://www.bilibili.com/video/BV1H7tm65Erk",
+        "title": "陶哲轩的长文&疑似被AI解决的千禧年七大难题",
+        "url": "https://www.bilibili.com/video/BV1R3t26bEW5",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "记者：周立民、周昱龙、丁增尼达",
-        "content": "记者：周立民、周昱龙、丁增尼达",
-        "bvid": "BV1H7tm65Erk",
-        "author": "新华社",
-        "duration": "3:2",
-        "cover": "//i0.hdslb.com/bfs/archive/0e0fb809964711f1b3a34beb15679278d5e40c67.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1H7tm65Erk&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "民警冒险传回吉隆泥石流当日画面"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1R3t26bEW5",
+        "author": "分析学爱好者",
+        "duration": "10:34",
+        "cover": "//i2.hdslb.com/bfs/archive/f343d3cfe49e7c3e73c777d3e7a3ec62075625ad.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1R3t26bEW5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "怎么看AI或解决七大数学难题之一"
       },
       {
-        "title": "我发现了动画最离谱的BUG？",
-        "url": "https://www.bilibili.com/video/BV1oGtz6yEj2",
+        "title": "天崩开局，读博两年，我的论文中了顶会",
+        "url": "https://www.bilibili.com/video/BV1LZbF6vEVR",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "BGM： Got It (Pro Max)-YaKio/Wehti",
-        "content": "BGM： Got It (Pro Max)-YaKio/Wehti",
-        "bvid": "BV1oGtz6yEj2",
-        "author": "大福咕咕",
-        "duration": "7:5",
-        "cover": "//i2.hdslb.com/bfs/archive/01594c3c6f3bf016ae2c7cf62d01ba11e3052911.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oGtz6yEj2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "经典动画里的离谱BUG"
+        "description": "",
+        "content": "",
+        "bvid": "BV1LZbF6vEVR",
+        "author": "Zhan丨",
+        "duration": "6:2",
+        "cover": "//i0.hdslb.com/bfs/archive/691f4ce0e4fb79a6d67e64b61de00cf49fa8c7b4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LZbF6vEVR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "读博两年论文中了顶会"
       },
       {
-        "title": "【锐评IG战胜TES】姜爷关键局完成救赎！嘉琪终极踩头哥哥！罪安要累死了！",
-        "url": "https://www.bilibili.com/video/BV12Hbj6PERD",
+        "title": "大学校徽应该怎么设计？【使徒子】",
+        "url": "https://www.bilibili.com/video/BV1ahtR6mEma",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV12Hbj6PERD",
-        "author": "Super卧龙君",
-        "duration": "16:44",
-        "cover": "//i1.hdslb.com/bfs/archive/3169c1438c6171f31dfd34c386072d1ffcbc4517.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12Hbj6PERD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "锐评IG战胜TES"
+        "description": "又到开学季，一枚小小的校徽会伴随大家整个大学时光。国内高校校徽看着大多长得雷同，满屏圆形徽章，其实每枚背后都有一段过往。鲁迅操刀的北大校徽、清华曾经的鹰形老校徽，还有被网友玩梗的浙大、同济校徽，甚至把恐龙印进校徽的高校。今天聊聊大学校徽设计里的历史与巧思。",
+        "content": "又到开学季，一枚小小的校徽会伴随大家整个大学时光。国内高校校徽看着大多长得雷同，满屏圆形徽章，其实每枚背后都有一段过往。鲁迅操刀的北大校徽、清华曾经的鹰形老校徽，还有被网友玩梗的浙大、同济校徽，甚至把恐龙印进校徽的高校。今天聊聊大学校徽设计里的历史与巧思。",
+        "bvid": "BV1ahtR6mEma",
+        "author": "使徒子",
+        "duration": "9:9",
+        "cover": "//i0.hdslb.com/bfs/archive/1cc1de3bb046a1f584002fe0af8125964d4310de.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ahtR6mEma&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大学校徽应该怎么设计"
+      },
+      {
+        "title": "【2026KPL夏季赛】9月5日 长沙TES.A VS 广州TTG",
+        "url": "https://www.bilibili.com/video/BV1DEt269Em2",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【2026KPL夏季赛】9月5日 长沙TES.A VS 广州TTG",
+        "content": "【2026KPL夏季赛】9月5日 长沙TES.A VS 广州TTG",
+        "bvid": "BV1DEt269Em2",
+        "author": "哔哩哔哩王者荣耀赛事",
+        "duration": "220:31",
+        "cover": "//i0.hdslb.com/bfs/archive/619dbb9a79e7eb55b608d1ae5b43b6f6460af785.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DEt269Em2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "广州TTG战胜长沙TES.A KPL"
       },
       {
         "title": "凡人修仙传第190集",
         "url": "https://www.bilibili.com/video/BV1uT4C6rEao",
         "desc": "",
-        "rank": 17,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -398,10 +414,26 @@
         "hotTitle": "凡人慕兰奸细暴露"
       },
       {
+        "title": "万人追更的终南山怪虫，只有我们拍到了真相！",
+        "url": "https://www.bilibili.com/video/BV1yuto66E8J",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1yuto66E8J",
+        "author": "中国国家地理",
+        "duration": "13:55",
+        "cover": "//i0.hdslb.com/bfs/archive/1630841f6b3f1630e9c319e0e0f0747f09ad28b3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yuto66E8J&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "终南山怪虫到底是什么虫"
+      },
+      {
         "title": "全B站最垃圾的一期视频",
         "url": "https://www.bilibili.com/video/BV1sxtk6YEGp",
         "desc": "",
-        "rank": 18,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "*本视频是通过steam《破烂艺术家》基础改编成真人版。 希望观众朋友们可以喜欢这个系列！ （希望你们喜欢，记得一键三连！）",
@@ -414,42 +446,26 @@
         "hotTitle": "小潮院长用垃圾玩你画我猜"
       },
       {
-        "title": "把职场霸凌拍成干柴烈火！《早春晴朗》看得我鬼火直冒！",
-        "url": "https://www.bilibili.com/video/BV1d5tz6VERU",
+        "title": "一码归一码！车撞羊群赔钱≠羊归肇事方！【主播说三农】",
+        "url": "https://www.bilibili.com/video/BV1eet16RE7X",
         "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这剧看得我真是气不打一处来！！",
-        "content": "这剧看得我真是气不打一处来！！",
-        "bvid": "BV1d5tz6VERU",
-        "author": "开心嘴炮",
-        "duration": "14:33",
-        "cover": "//i2.hdslb.com/bfs/archive/d90acc70f2be8b623c96febd49a5981a89b14757.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d5tz6VERU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "起底早春晴朗里的职场PUA"
-      },
-      {
-        "title": "GEN 3-1 HLE 赛后数据雷达图+虎扑评分丨LCK季后赛",
-        "url": "https://www.bilibili.com/video/BV1stbj6FEZ2",
-        "desc": "",
-        "rank": 20,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1stbj6FEZ2",
-        "author": "苦练李香兰",
-        "duration": "4:30",
-        "cover": "//i1.hdslb.com/bfs/archive/b43bd99289c1280e4e4e6327ffd219650a88a036.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1stbj6FEZ2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GEN战胜HLE数据雷达图"
+        "bvid": "BV1eet16RE7X",
+        "author": "央视农业",
+        "duration": "3:33",
+        "cover": "//i1.hdslb.com/bfs/archive/874909b8078f7784f2d7effe7f093dbfb02630a1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eet16RE7X&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "撞羊群赔8万为何带不走羊"
       },
       {
         "title": "【花学12大历史事件逐帧解读】第一回：伦敦暖气致疯事件",
         "url": "https://www.bilibili.com/video/BV1nGtC6wE9y",
         "desc": "",
-        "rank": 21,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -465,7 +481,7 @@
         "title": "史上最烂DC电影！万字赤石《超女》！",
         "url": "https://www.bilibili.com/video/BV1mntg62Ed8",
         "desc": "",
-        "rank": 22,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -478,42 +494,42 @@
         "hotTitle": "万字拆解DC电影超级少女"
       },
       {
-        "title": "一码归一码！车撞羊群赔钱≠羊归肇事方！【主播说三农】",
-        "url": "https://www.bilibili.com/video/BV1eet16RE7X",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1eet16RE7X",
-        "author": "央视农业",
-        "duration": "3:33",
-        "cover": "//i1.hdslb.com/bfs/archive/874909b8078f7784f2d7effe7f093dbfb02630a1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eet16RE7X&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "撞羊群赔8万为何带不走羊"
-      },
-      {
-        "title": "万人追更的终南山怪虫，只有我们拍到了真相！",
-        "url": "https://www.bilibili.com/video/BV1yuto66E8J",
+        "title": "【锐评IG战胜TES】姜爷关键局完成救赎！嘉琪终极踩头哥哥！罪安要累死了！",
+        "url": "https://www.bilibili.com/video/BV12Hbj6PERD",
         "desc": "",
         "rank": 24,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1yuto66E8J",
-        "author": "中国国家地理",
-        "duration": "13:55",
-        "cover": "//i0.hdslb.com/bfs/archive/1630841f6b3f1630e9c319e0e0f0747f09ad28b3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yuto66E8J&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "终南山怪虫到底是什么虫"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV12Hbj6PERD",
+        "author": "Super卧龙君",
+        "duration": "16:44",
+        "cover": "//i1.hdslb.com/bfs/archive/3169c1438c6171f31dfd34c386072d1ffcbc4517.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12Hbj6PERD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "锐评IG战胜TES"
+      },
+      {
+        "title": "我发现了动画最离谱的BUG？",
+        "url": "https://www.bilibili.com/video/BV1oGtz6yEj2",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "BGM： Got It (Pro Max)-YaKio/Wehti",
+        "content": "BGM： Got It (Pro Max)-YaKio/Wehti",
+        "bvid": "BV1oGtz6yEj2",
+        "author": "大福咕咕",
+        "duration": "7:5",
+        "cover": "//i2.hdslb.com/bfs/archive/01594c3c6f3bf016ae2c7cf62d01ba11e3052911.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oGtz6yEj2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "经典动画里的离谱BUG"
       },
       {
         "title": "《马老师：这世上还是好人多呀》",
         "url": "https://www.bilibili.com/video/BV1gptZ6DExF",
         "desc": "",
-        "rank": 25,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -526,74 +542,26 @@
         "hotTitle": "00后老师当班主任belike"
       },
       {
-        "title": "谁敢跟我小团体互撕",
-        "url": "https://www.bilibili.com/video/BV1wQtC6vEKE",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1wQtC6vEKE",
-        "author": "喵曾祺_official",
-        "duration": "2:45",
-        "cover": "//i2.hdslb.com/bfs/archive/d7b4925b663f12b6cd5bdd6c4f377c7fe01c3b63.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wQtC6vEKE&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "假如花少团穿越到各个时代"
-      },
-      {
-        "title": "花少2最客观真相还原！重难点讲解！节目里被删掉被忽略掉的地方是什么…",
-        "url": "https://www.bilibili.com/video/BV1XatC67EmN",
+        "title": "把职场霸凌拍成干柴烈火！《早春晴朗》看得我鬼火直冒！",
+        "url": "https://www.bilibili.com/video/BV1d5tz6VERU",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "终于剪出来了…真的很用心去比对各种片段细节包括采访内容！请小伙伴们用真正的节目正片去比对！ 求个赞赞三连推荐！感谢！！！",
-        "content": "终于剪出来了…真的很用心去比对各种片段细节包括采访内容！请小伙伴们用真正的节目正片去比对！ 求个赞赞三连推荐！感谢！！！",
-        "bvid": "BV1XatC67EmN",
-        "author": "嗷呜一口狗",
-        "duration": "10:38",
-        "cover": "//i0.hdslb.com/bfs/archive/8d25b4100356489d3d05c74cb3984d28bfb86f8f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XatC67EmN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主梳理花少2事件始末"
-      },
-      {
-        "title": "天崩开局，读博两年，我的论文中了顶会",
-        "url": "https://www.bilibili.com/video/BV1LZbF6vEVR",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1LZbF6vEVR",
-        "author": "Zhan丨",
-        "duration": "6:2",
-        "cover": "//i0.hdslb.com/bfs/archive/691f4ce0e4fb79a6d67e64b61de00cf49fa8c7b4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LZbF6vEVR&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "读博两年论文中了顶会"
-      },
-      {
-        "title": "第五周竞猜！最新情况汇报！#三角洲烽火职业联赛夏季赛 #三角洲烽火职业联赛 #三角洲行动 #赛事行动",
-        "url": "https://www.bilibili.com/video/BV1epbL6kEk1",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1epbL6kEk1",
-        "author": "心动三角洲行动",
-        "duration": "0:56",
-        "cover": "//i2.hdslb.com/bfs/archive/c9ab1f704d278d3e550ef280a2a7eaaf4a9b4b79.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1epbL6kEk1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "烽火职业联赛夏季赛"
+        "description": "这剧看得我真是气不打一处来！！",
+        "content": "这剧看得我真是气不打一处来！！",
+        "bvid": "BV1d5tz6VERU",
+        "author": "开心嘴炮",
+        "duration": "14:33",
+        "cover": "//i2.hdslb.com/bfs/archive/d90acc70f2be8b623c96febd49a5981a89b14757.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d5tz6VERU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "起底早春晴朗里的职场PUA"
       },
       {
         "title": "在许晴面前，毛阿敏才是那个新兵蛋子",
         "url": "https://www.bilibili.com/video/BV1xRtf6mE4h",
         "desc": "",
-        "rank": 30,
+        "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "许晴才是真正的职场油子，毛阿敏给她当枪，当盾牌了",
@@ -604,9 +572,51 @@
         "cover": "//i1.hdslb.com/bfs/archive/ef9737fc02868813260e1c6b80cf6e7bc54c0a78.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xRtf6mE4h&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "如何评价许晴花少2表现"
+      },
+      {
+        "title": "援乌痛买印度虚空炮弹，爱沙尼亚防长连夜提桶跑路",
+        "url": "https://www.bilibili.com/video/BV1vMt26hE8q",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1vMt26hE8q",
+        "author": "波士顿圆脸",
+        "duration": "15:43",
+        "cover": "//i1.hdslb.com/bfs/archive/082c61b218f7b30bbc22a29b79791967d661a76d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vMt26hE8q&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "圆脸谈爱沙尼亚防长引咎辞职"
+      },
+      {
+        "title": "【洲赛集锦】属于我的这周我要全拿回来！",
+        "url": "https://www.bilibili.com/video/BV1NMt36yEsN",
+        "desc": "",
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1NMt36yEsN",
+        "author": "狼队Flying",
+        "duration": "0:50",
+        "cover": "//i1.hdslb.com/bfs/archive/8857d00d4a5c95e277aada9a86cd56fbb7a890c8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NMt36yEsN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "烽火职业联赛夏季赛"
       }
     ],
     "qbitai": [
+      {
+        "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "url": "https://www.qbitai.com/2026/09/484683.html",
+        "desc": "当AI开始“预演”一场暴雨",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/e85b573b3a25fcfc2e17ecfe8c706e3e.webp",
+        "date": "2026-09-05T22:46:15",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
       {
         "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
         "url": "https://www.qbitai.com/2026/09/484649.html",
@@ -615,7 +625,7 @@
         "date": "2026-09-05T12:24:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
@@ -625,7 +635,7 @@
         "date": "2026-09-05T12:18:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
@@ -635,7 +645,7 @@
         "date": "2026-09-05T09:17:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
@@ -645,7 +655,7 @@
         "date": "2026-09-04T17:23:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
@@ -655,7 +665,7 @@
         "date": "2026-09-04T17:19:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
@@ -665,7 +675,7 @@
         "date": "2026-09-04T16:57:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
@@ -675,7 +685,7 @@
         "date": "2026-09-04T15:09:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
@@ -685,7 +695,7 @@
         "date": "2026-09-04T14:54:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
@@ -695,7 +705,7 @@
         "date": "2026-09-04T13:53:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
@@ -705,7 +715,7 @@
         "date": "2026-09-04T13:48:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
@@ -715,7 +725,7 @@
         "date": "2026-09-04T12:03:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
@@ -725,7 +735,7 @@
         "date": "2026-09-04T09:40:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
@@ -735,7 +745,7 @@
         "date": "2026-09-04T05:57:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
@@ -745,7 +755,7 @@
         "date": "2026-09-04T05:50:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "“没有Token的CS学生，应立即退学”",
@@ -755,7 +765,7 @@
         "date": "2026-09-03T19:32:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
@@ -765,7 +775,7 @@
         "date": "2026-09-03T19:25:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
@@ -775,7 +785,7 @@
         "date": "2026-09-03T18:18:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "陈大年复出，入局大模型",
@@ -785,7 +795,7 @@
         "date": "2026-09-03T18:13:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
@@ -795,7 +805,7 @@
         "date": "2026-09-03T11:16:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
@@ -805,7 +815,7 @@
         "date": "2026-09-03T09:31:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
@@ -815,7 +825,7 @@
         "date": "2026-09-03T09:27:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "今年最难的机器人Demo，“机器人含量”为0",
@@ -825,7 +835,7 @@
         "date": "2026-09-03T08:51:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "具身大脑进了真实世界，难题才刚刚开始",
@@ -835,7 +845,7 @@
         "date": "2026-09-02T18:10:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
@@ -845,7 +855,7 @@
         "date": "2026-09-02T17:22:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
@@ -855,7 +865,7 @@
         "date": "2026-09-02T14:20:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
@@ -865,7 +875,7 @@
         "date": "2026-09-02T14:10:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
@@ -875,7 +885,7 @@
         "date": "2026-09-02T14:06:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
@@ -885,7 +895,7 @@
         "date": "2026-09-02T10:48:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
@@ -893,16 +903,6 @@
         "desc": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/f65b40da8b5119e26fce38b9ee6c1d84.webp",
         "date": "2026-09-02T10:18:12",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-        "url": "https://www.qbitai.com/2026/09/482855.html",
-        "desc": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/c7a30a400d85a764ff879b2a9790e865.png",
-        "date": "2026-09-02T10:06:08",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1132,11 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788619263453,
-    "qbitai": 1788619288075,
-    "36kr": 1788619288378
+    "thepaper": 1788620167820,
+    "bilibili": 1788619389556,
+    "qbitai": 1788620195633,
+    "36kr": 1788620195932
   },
-  "failures": {
-    "bilibili": "RuntimeError('NewsNow JSON not found')"
-  }
+  "failures": {}
 }
