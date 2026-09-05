@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T14:26:36Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-09-05T14:41:28Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -10,68 +10,68 @@
         "rank": 1
       },
       {
-        "title": "马上评｜从“婚外胚胎案”审视刑事司法对重婚罪的认定",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34010371",
-        "desc": "",
-        "rank": 2
-      },
-      {
         "title": "德比斯首夺杆位，“张雪机车”包揽法国站排位赛前两名",
         "url": "https://www.thepaper.cn/newsDetail_forward_34010899",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "上任不满一年，中建集团副总经理陈勇宣告被查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34013981",
         "desc": "",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "闫佩伦的正剧第一课：别越界，能开机就是幸运",
         "url": "https://www.thepaper.cn/newsDetail_forward_34008884",
         "desc": "",
-        "rank": 5
+        "rank": 4
       },
       {
         "title": "视频丨尼泊尔泥石流灾害中1名受困中国公民获救，身体状况稳定",
         "url": "https://www.thepaper.cn/newsDetail_forward_34015391",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "兰州榆中官方通报“莴笋收购环节染色”：立案查处6家企业",
         "url": "https://www.thepaper.cn/newsDetail_forward_34015418",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "破除病耻感和刻板印象，地方精神病院接连更名",
         "url": "https://www.thepaper.cn/newsDetail_forward_34014343",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "马上评｜给5岁小女孩标注“刁蛮”？患者人格不容贬损",
         "url": "https://www.thepaper.cn/newsDetail_forward_34014113",
         "desc": "",
-        "rank": 9
+        "rank": 8
       },
       {
         "title": "对话｜“林肯”号航母水兵父亲：儿子被以色列当枪，美国政客却在分赃",
         "url": "https://www.thepaper.cn/newsDetail_forward_34010366",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "安徽滁州回应天空巨响：初步判定为高空音爆",
         "url": "https://www.thepaper.cn/newsDetail_forward_34010956",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "粉丝涌入12345，一场焦点转移的资源战",
         "url": "https://www.thepaper.cn/newsDetail_forward_34011909",
+        "desc": "",
+        "rank": 11
+      },
+      {
+        "title": "马上评｜一次食品安全事故，坍塌的可能是一个地方的口碑",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34015694",
         "desc": "",
         "rank": 12
       },
@@ -1132,10 +1132,11 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788618363970,
-    "bilibili": 1788617588734,
-    "qbitai": 1788618396034,
-    "36kr": 1788618396392
+    "thepaper": 1788619263453,
+    "qbitai": 1788619288075,
+    "36kr": 1788619288378
   },
-  "failures": {}
+  "failures": {
+    "bilibili": "RuntimeError('NewsNow JSON not found')"
+  }
 }
