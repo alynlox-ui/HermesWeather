@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T04:02:42Z",
+  "updatedAt": "2026-09-05T04:11:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -302,19 +302,19 @@
         "hotTitle": "终南山怪虫到底是什么虫"
       },
       {
-        "title": "“今年一定要证明BLG在国际赛上的实力”《新刻度》 Knight&ON",
-        "url": "https://www.bilibili.com/video/BV1nstB6mEK8",
+        "title": "左手中文听力第二次模拟考!请完整复述主考官说的话!你能及格吗?",
+        "url": "https://www.bilibili.com/video/BV1d5411b7ki",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "欢迎来到《新刻度》，本期我们请到了BLG.Knight和BLG.ON，来聊聊他们今年开赛以来的心路历程。",
-        "content": "欢迎来到《新刻度》，本期我们请到了BLG.Knight和BLG.ON，来聊聊他们今年开赛以来的心路历程。",
-        "bvid": "BV1nstB6mEK8",
-        "author": "英雄联盟赛事",
-        "duration": "9:7",
-        "cover": "//i0.hdslb.com/bfs/archive/3dd8b6d9b61f69d00213511d6c1dc4db64522985.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nstB6mEK8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1d5411b7ki",
+        "author": "二路高能时刻",
+        "duration": "2:42",
+        "cover": "//i1.hdslb.com/bfs/archive/3cf0b41622e1f74d4377f970d63e08d910e692e6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d5411b7ki&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Knight说要在国际赛证明BLG"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788580921134,
+    "thepaper": 1788581463913,
     "bilibili": 1788580334370,
-    "qbitai": 1788580962185,
-    "36kr": 1788580962462
+    "qbitai": 1788581491891,
+    "36kr": 1788581492253
   },
   "failures": {}
 }
