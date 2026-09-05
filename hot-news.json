@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T02:26:53Z",
+  "updatedAt": "2026-09-05T02:41:53Z",
   "liveSourceCount": 3,
   "sources": {
     "thepaper": [
@@ -46,8 +46,8 @@
         "rank": 7
       },
       {
-        "title": "某男团开演唱会徐州12345被打爆，律师：不能把公共资源变成粉圈内斗的筹码",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34006243",
+        "title": "“梅姨”落网后第四版画像曝光，肤色、皱纹等与初代有明显差异",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34007876",
         "desc": "",
         "rank": 8
       },
@@ -58,68 +58,68 @@
         "rank": 9
       },
       {
-        "title": "“梅姨”落网后第四版画像曝光，肤色、皱纹等与初代有明显差异",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34007876",
-        "desc": "",
-        "rank": 10
-      },
-      {
         "title": "又一火车站变更为旅客乘降所：旅客出行直接上车购票",
         "url": "https://www.thepaper.cn/newsDetail_forward_34008099",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "以右翼部长抛出“7年清空”计划：让186万巴勒斯坦人“自愿移民”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34006519",
         "desc": "",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "用AI审核游戏：从“删词”到“读心”，谁来定义“毒性”？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34003038",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "全球升温或将突破1.5℃，气候治理需加速发力",
         "url": "https://www.thepaper.cn/newsDetail_forward_33999754",
         "desc": "",
-        "rank": 14
+        "rank": 13
       },
       {
         "title": "新闻蒸馏器｜适龄人口锐减，美国数百所大学免申请“直接录取”抢生源",
         "url": "https://www.thepaper.cn/newsDetail_forward_34007024",
         "desc": "",
-        "rank": 15
+        "rank": 14
       },
       {
         "title": "武大女教授被举报事件男方系安徽大学副校长，安徽大学回应",
         "url": "https://www.thepaper.cn/newsDetail_forward_34006979",
         "desc": "",
-        "rank": 16
+        "rank": 15
       },
       {
         "title": "多地推进整治婚介机构乱象，包括仅凭口头陈述建档、放任失信人员相亲等",
         "url": "https://www.thepaper.cn/newsDetail_forward_34009396",
         "desc": "",
-        "rank": 17
+        "rank": 16
       },
       {
         "title": "教育部回应“教师面对学生不敢管”：将规范涉师争议投诉处理程序",
         "url": "https://www.thepaper.cn/newsDetail_forward_34008434",
         "desc": "",
-        "rank": 18
+        "rank": 17
       },
       {
         "title": "武大女教授被举报，男方现任安大副校长，安大及安徽省教育厅回应正核查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34009823",
         "desc": "",
-        "rank": 19
+        "rank": 18
       },
       {
         "title": "再见“钟鼓楼”！“魔岩三杰”之一何勇离世，享年57岁",
         "url": "https://www.thepaper.cn/newsDetail_forward_34007295",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "安徽滁州回应天空巨响：初步判定为高空音爆",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34010956",
         "desc": "",
         "rank": 20
       }
@@ -1132,9 +1132,9 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788575163357,
-    "bilibili": 1788575172410,
-    "36kr": 1788575213675
+    "thepaper": 1788576063548,
+    "bilibili": 1788574929158,
+    "36kr": 1788576113649
   },
   "failures": {
     "qbitai": "RuntimeError('QbitAI JSON not found')"
