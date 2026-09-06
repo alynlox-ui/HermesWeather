@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T15:29:14Z",
+  "updatedAt": "2026-09-06T15:41:27Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -270,19 +270,19 @@
         "hotTitle": "美国的战火石油与选票"
       },
       {
-        "title": "【中字】donk：猎鹰图池很好猜，想要复仇MOUZ",
-        "url": "https://www.bilibili.com/video/BV1LUbE6WEbM",
+        "title": "【CSBOY纯净录播】Spirit-MOUZ BLAST波尔图公开赛决赛 2026年09月06日",
+        "url": "https://www.bilibili.com/video/BV1gTbW6oEMJ",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1LUbE6WEbM",
-        "author": "小培培亲",
-        "duration": "6:19",
-        "cover": "//i1.hdslb.com/bfs/archive/367e41d9a44a1d03dc617edc57957199a361d969.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LUbE6WEbM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "自动上传出问题目前是手工上传可能会延迟",
+        "content": "自动上传出问题目前是手工上传可能会延迟",
+        "bvid": "BV1gTbW6oEMJ",
+        "author": "MTC君",
+        "duration": "90:4",
+        "cover": "//i1.hdslb.com/bfs/archive/1b9180975278c12d132b99fef19c6abeb6365324.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gTbW6oEMJ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Spirit vs MOUZ BLAST公开赛"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788708522790,
-    "bilibili": 1788708532448,
-    "qbitai": 1788708554386,
-    "36kr": 1788708554689
+    "thepaper": 1788709263703,
+    "bilibili": 1788708387041,
+    "qbitai": 1788709287487,
+    "36kr": 1788709287795
   },
   "failures": {}
 }
