@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-06T14:41:35Z",
+  "updatedAt": "2026-09-06T14:56:29Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
-        "title": "市民建议优化环卫工人夏季工装做好防暑降温，绿化市容部门回应",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34016259",
-        "desc": "",
-        "rank": 1
-      },
-      {
         "title": "被困11天，中国一工人在尼泊尔获救：“看到灯光就使劲喊，一度以为没希望了”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34017169",
         "desc": "",
-        "rank": 2
+        "rank": 1
       },
       {
         "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34017446",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "“葫芦娃爷爷”摘了葫芦，绍兴文旅：把安宁与清净还给老人",
         "url": "https://www.thepaper.cn/newsDetail_forward_34018330",
+        "desc": "",
+        "rank": 3
+      },
+      {
+        "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34020192",
         "desc": "",
         "rank": 4
       },
@@ -40,62 +40,62 @@
         "rank": 6
       },
       {
-        "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34020192",
-        "desc": "",
-        "rank": 7
-      },
-      {
         "title": "毛泽东同志逝世50周年纪念日，纪念堂上下午均安排开放时段",
         "url": "https://www.thepaper.cn/newsDetail_forward_34019209",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "人民日报刊文：“逢陆必黑”早已沦为笑柄",
         "url": "https://www.thepaper.cn/newsDetail_forward_34018575",
         "desc": "",
-        "rank": 9
-      },
-      {
-        "title": "著名信息安全与密码学领域专家翟起滨逝世",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34018851",
-        "desc": "",
-        "rank": 10
-      },
-      {
-        "title": "“葫芦娃爷爷”剪除网红葫芦：失独老人与一场过载的热情",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34019074",
-        "desc": "",
-        "rank": 11
+        "rank": 8
       },
       {
         "title": "撞车事故中的人性光辉，照出CHINA GT巨大的安全漏洞",
         "url": "https://www.thepaper.cn/newsDetail_forward_34019373",
         "desc": "",
-        "rank": 12
+        "rank": 9
+      },
+      {
+        "title": "“葫芦娃爷爷”剪除网红葫芦：失独老人与一场过载的热情",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34019074",
+        "desc": "",
+        "rank": 10
+      },
+      {
+        "title": "著名信息安全与密码学领域专家翟起滨逝世",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34018851",
+        "desc": "",
+        "rank": 11
       },
       {
         "title": "众声｜剪下网红葫芦之后：被当作“风景”的生活首先是生活",
         "url": "https://www.thepaper.cn/newsDetail_forward_34019385",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "CHINA GT就碰撞起火事故致歉：将进一步复盘和调查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34019796",
         "desc": "",
-        "rank": 14
+        "rank": 13
       },
       {
         "title": "中国工商银行拟募资不超过1000亿元用于补充资本",
         "url": "https://www.thepaper.cn/newsDetail_forward_34019804",
         "desc": "",
-        "rank": 15
+        "rank": 14
       },
       {
         "title": "媒体：从“一房难求”到房间空置，年轻人不爱住民宿了吗？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34018580",
+        "desc": "",
+        "rank": 15
+      },
+      {
+        "title": "报火警传视频先看广告？媒体：弹窗广告岂能给公共安全添堵",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34020474",
         "desc": "",
         "rank": 16
       },
@@ -136,7 +136,7 @@
         "content": "-",
         "bvid": "BV1Dhbs6FEr9",
         "author": "kpl二路",
-        "duration": "5041:33",
+        "duration": "5373:5",
         "cover": "//i1.hdslb.com/bfs/archive/42d0541a6e867db837be5f05a13ae92a7c060041.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dhbs6FEr9&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "广州TTG战胜北京JDG"
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788705663531,
+    "thepaper": 1788706565778,
     "bilibili": 1788704783776,
-    "qbitai": 1788705695386,
-    "36kr": 1788705695690
+    "qbitai": 1788706589483,
+    "36kr": 1788706589853
   },
   "failures": {}
 }
