@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T13:12:26Z",
+  "updatedAt": "2026-09-06T13:26:29Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "张雪机车法国站第二回合季军"
       },
       {
-        "title": "IG成功创造历史晋级季后赛四强，由于IG三比一战胜WE，根据LPL季后赛规则，TES成功晋级冒泡赛胜者组，WE晋级冒泡赛败者组，IG只需要一个Bo5进入世界赛。",
-        "url": "https://www.bilibili.com/video/BV1oYbH6cEKi",
+        "title": "锐评IG战胜TES：IG世界赛更进一步！滔搏季后赛淘汰！",
+        "url": "https://www.bilibili.com/video/BV14pbj6YEo9",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1oYbH6cEKi",
-        "author": "北川电竞",
-        "duration": "1:20",
-        "cover": "//i2.hdslb.com/bfs/archive/a667f9abff6f70c07480101edb7c634f03c588f6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oYbH6cEKi&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "求求你给个3连吧",
+        "content": "求求你给个3连吧",
+        "bvid": "BV14pbj6YEo9",
+        "author": "喵仙人ovo",
+        "duration": "6:18",
+        "cover": "//i0.hdslb.com/bfs/archive/fbb28087af23fb24808849012c8f400165ca9d39.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14pbj6YEo9&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "IG距世界赛只差一个BO5"
       },
       {
@@ -296,7 +296,7 @@
         "content": "-",
         "bvid": "BV1Dhbs6FEr9",
         "author": "kpl二路",
-        "duration": "2566:13",
+        "duration": "3474:44",
         "cover": "//i2.hdslb.com/bfs/archive/72fe1bf9280c9cb39faef2d9458046450376470d.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dhbs6FEr9&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "北京JDG vs 广州TTG KPL夏季赛"
@@ -574,19 +574,19 @@
         "hotTitle": "锐评IG战胜WE"
       },
       {
-        "title": "小鼠背根神经节（DRG）取材分享",
-        "url": "https://www.bilibili.com/video/BV1KfXgBME7L",
+        "title": "simon指挥身份首次登场，拿下MVP AQ 2：0 DRG",
+        "url": "https://www.bilibili.com/video/BV1zbbW6kERk",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1KfXgBME7L",
-        "author": "科研小生CCC",
-        "duration": "2:36",
-        "cover": "//i0.hdslb.com/bfs/archive/e40992330fb41b4f6f940e868852c0b0aa7352f1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KfXgBME7L&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1zbbW6kERk",
+        "author": "无畏契约ddd",
+        "duration": "1:46",
+        "cover": "//i0.hdslb.com/bfs/archive/881222c59027e6daeabb9bcf4432b410dd7e5636.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zbbW6kERk&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "AQ战胜DRG 进化者杯"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788700312189,
+    "thepaper": 1788701163939,
     "bilibili": 1788699377241,
-    "qbitai": 1788700346336,
-    "36kr": 1788700346689
+    "qbitai": 1788701188393,
+    "36kr": 1788701189266
   },
   "failures": {}
 }
