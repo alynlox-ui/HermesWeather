@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:11:37Z",
+  "updatedAt": "2026-09-06T14:26:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -296,8 +296,8 @@
         "content": "-",
         "bvid": "BV1Dhbs6FEr9",
         "author": "kpl二路",
-        "duration": "4302:21",
-        "cover": "//i2.hdslb.com/bfs/archive/72fe1bf9280c9cb39faef2d9458046450376470d.jpg",
+        "duration": "5041:33",
+        "cover": "//i1.hdslb.com/bfs/archive/42d0541a6e867db837be5f05a13ae92a7c060041.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dhbs6FEr9&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "北京JDG vs 广州TTG KPL夏季赛"
       },
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788703864384,
+    "thepaper": 1788704763664,
     "bilibili": 1788702982992,
-    "qbitai": 1788703896779,
-    "36kr": 1788703897157
+    "qbitai": 1788704795652,
+    "36kr": 1788704796160
   },
   "failures": {}
 }
