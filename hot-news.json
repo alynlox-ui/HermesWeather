@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-06T17:11:34Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-09-06T17:26:53Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -70,38 +70,38 @@
         "rank": 11
       },
       {
+        "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34020894",
+        "desc": "",
+        "rank": 12
+      },
+      {
         "title": "中国工商银行拟募资不超过1000亿元用于补充资本",
         "url": "https://www.thepaper.cn/newsDetail_forward_34019804",
         "desc": "",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "媒体：从“一房难求”到房间空置，年轻人不爱住民宿了吗？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34018580",
         "desc": "",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "报火警传视频先看广告？媒体：弹窗广告岂能给公共安全添堵",
         "url": "https://www.thepaper.cn/newsDetail_forward_34020474",
         "desc": "",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "媒体：锦旗藏刀突破底线，暴力伤医是社会之痛",
         "url": "https://www.thepaper.cn/newsDetail_forward_34019670",
         "desc": "",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "当“八卦图”被洪水冲乱：莆田霞皋古村灾后自救实录",
         "url": "https://www.thepaper.cn/newsDetail_forward_34018684",
-        "desc": "",
-        "rank": 16
-      },
-      {
-        "title": "普京开始与美国总统特使会谈",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34018082",
         "desc": "",
         "rank": 17
       },
@@ -112,14 +112,14 @@
         "rank": 18
       },
       {
-        "title": "中国空军派军机参加第二届埃及航展",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34018941",
+        "title": "普京开始与美国总统特使会谈",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34018082",
         "desc": "",
         "rank": 19
       },
       {
-        "title": "广州中院通知申聪，可以向“梅姨”提出民事赔偿诉讼",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34019648",
+        "title": "中国空军派军机参加第二届埃及航展",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34018941",
         "desc": "",
         "rank": 20
       }
@@ -174,19 +174,19 @@
         "hotTitle": "张雪机车法国站第二回合季军"
       },
       {
-        "title": "“绿龙零封淘汰猎鹰！！！”",
-        "url": "https://www.bilibili.com/video/BV1qNbE6XEaU",
+        "title": "《客观预测：绿小龙惜败MOUZ，再次遗憾止步冠军！》",
+        "url": "https://www.bilibili.com/video/BV1YUbj61EH4",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1qNbE6XEaU",
-        "author": "蛋煲DK",
-        "duration": "4:27",
-        "cover": "//i2.hdslb.com/bfs/archive/b4f79f0828bc16efcb227cc40ba7ce249480e548.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qNbE6XEaU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1YUbj61EH4",
+        "author": "沉淀肖某人",
+        "duration": "5:11",
+        "cover": "//i0.hdslb.com/bfs/archive/a5ad3b20d84cf071f3bbcf914b9567961f2457a2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YUbj61EH4&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Spirit vs MOUZ BLAST公开赛"
       },
       {
@@ -1132,10 +1132,11 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788714664357,
+    "thepaper": 1788715563647,
     "bilibili": 1788713801920,
-    "qbitai": 1788714693759,
-    "36kr": 1788714694210
+    "36kr": 1788715613020
   },
-  "failures": {}
+  "failures": {
+    "qbitai": "RuntimeError('QbitAI JSON not found')"
+  }
 }
