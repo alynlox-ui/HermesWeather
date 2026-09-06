@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T04:26:41Z",
+  "updatedAt": "2026-09-06T04:41:38Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "牧神记 99 集：秦牧联手小毒王治双雄，药力毒性轮番暴走，帝师二人受尽折腾",
-        "url": "https://www.bilibili.com/video/BV1rDbL6xEt9",
+        "title": "牧神记第100集解析：秦牧手握整个天魔教，一刀碾压楼兰绝顶大巫牧神记99集",
+        "url": "https://www.bilibili.com/video/BV1jXbn6bErs",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "预告解析，希望大家喜欢。正片将于11点更新，链接已放评论区置顶！",
-        "content": "预告解析，希望大家喜欢。正片将于11点更新，链接已放评论区置顶！",
-        "bvid": "BV1rDbL6xEt9",
-        "author": "山河动漫社",
-        "duration": "21:20",
-        "cover": "//i0.hdslb.com/bfs/archive/b00514e38cf55b1001a4a49adb80957b296c6b15.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rDbL6xEt9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1jXbn6bErs",
+        "author": "甜甜电影",
+        "duration": "18:6",
+        "cover": "//i0.hdslb.com/bfs/archive/b84ba56cf867e2f165fd4b89e39e5fd1b7d0b66c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jXbn6bErs&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "秦牧小毒王医毒斗法"
       },
       {
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+        "url": "https://www.qbitai.com/2026/09/484890.html",
+        "desc": "",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/8bf6dd2d3d16e524ca125b39df21ab90.jpeg",
+        "date": "2026-09-06T12:40:15",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "GPT-6带火循环Transformer，阿里早已布局",
         "url": "https://www.qbitai.com/2026/09/484726.html",
         "desc": "手握两篇顶会论文",
@@ -615,7 +625,7 @@
         "date": "2026-09-05T23:07:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
@@ -625,7 +635,7 @@
         "date": "2026-09-05T22:46:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
@@ -635,7 +645,7 @@
         "date": "2026-09-05T12:24:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
@@ -645,7 +655,7 @@
         "date": "2026-09-05T12:18:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
@@ -655,7 +665,7 @@
         "date": "2026-09-05T09:17:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
@@ -665,7 +675,7 @@
         "date": "2026-09-04T17:23:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
@@ -675,7 +685,7 @@
         "date": "2026-09-04T17:19:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
@@ -685,7 +695,7 @@
         "date": "2026-09-04T16:57:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
@@ -695,7 +705,7 @@
         "date": "2026-09-04T15:09:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
@@ -705,7 +715,7 @@
         "date": "2026-09-04T14:54:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
@@ -715,7 +725,7 @@
         "date": "2026-09-04T13:53:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
@@ -725,7 +735,7 @@
         "date": "2026-09-04T13:48:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
@@ -735,7 +745,7 @@
         "date": "2026-09-04T12:03:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
@@ -745,7 +755,7 @@
         "date": "2026-09-04T09:40:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
@@ -755,7 +765,7 @@
         "date": "2026-09-04T05:57:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
@@ -765,7 +775,7 @@
         "date": "2026-09-04T05:50:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "“没有Token的CS学生，应立即退学”",
@@ -775,7 +785,7 @@
         "date": "2026-09-03T19:32:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
@@ -785,7 +795,7 @@
         "date": "2026-09-03T19:25:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
@@ -795,7 +805,7 @@
         "date": "2026-09-03T18:18:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "陈大年复出，入局大模型",
@@ -805,7 +815,7 @@
         "date": "2026-09-03T18:13:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
@@ -815,7 +825,7 @@
         "date": "2026-09-03T11:16:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
@@ -825,7 +835,7 @@
         "date": "2026-09-03T09:31:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
@@ -835,7 +845,7 @@
         "date": "2026-09-03T09:27:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "今年最难的机器人Demo，“机器人含量”为0",
@@ -845,7 +855,7 @@
         "date": "2026-09-03T08:51:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "具身大脑进了真实世界，难题才刚刚开始",
@@ -855,7 +865,7 @@
         "date": "2026-09-02T18:10:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
@@ -865,7 +875,7 @@
         "date": "2026-09-02T17:22:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
@@ -875,7 +885,7 @@
         "date": "2026-09-02T14:20:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
@@ -885,7 +895,7 @@
         "date": "2026-09-02T14:10:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
@@ -893,16 +903,6 @@
         "desc": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/bfa3ac1f7648c4717c55db4f6a9b36e0-e1788329180264.jpeg",
         "date": "2026-09-02T14:06:50",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-        "url": "https://www.qbitai.com/2026/09/482967.html",
-        "desc": "AI客服日扛1.5万通电话",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/e944e8441feff725850c6746baac0a50.png",
-        "date": "2026-09-02T10:48:06",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788668770327,
-    "bilibili": 1788668779417,
-    "qbitai": 1788668801161,
-    "36kr": 1788668801436
+    "thepaper": 1788669667011,
+    "bilibili": 1788668759533,
+    "qbitai": 1788669697950,
+    "36kr": 1788669698227
   },
   "failures": {}
 }
