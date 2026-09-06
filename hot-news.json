@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T10:26:37Z",
+  "updatedAt": "2026-09-06T10:41:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -430,19 +430,19 @@
         "hotTitle": "鸣潮景燃战斗演示"
       },
       {
-        "title": "牧神记第100集，小毒王刺杀毒晕七公主！班公措透露转世身份战秦牧",
-        "url": "https://www.bilibili.com/video/BV1oXbn6bExR",
+        "title": "牧神记第100集解析：秦牧手握整个天魔教，一刀碾压楼兰绝顶大巫牧神记99集",
+        "url": "https://www.bilibili.com/video/BV1jXbn6bErs",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1oXbn6bExR",
-        "author": "专注解说",
-        "duration": "18:19",
-        "cover": "//i1.hdslb.com/bfs/archive/c68525f094b2152602e59eabb2953ec3be340365.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oXbn6bExR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1jXbn6bErs",
+        "author": "甜甜电影",
+        "duration": "18:6",
+        "cover": "//i0.hdslb.com/bfs/archive/b84ba56cf867e2f165fd4b89e39e5fd1b7d0b66c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jXbn6bErs&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "秦牧小毒王医毒斗法"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788690363725,
-    "bilibili": 1788690372711,
-    "qbitai": 1788690396707,
-    "36kr": 1788690397112
+    "thepaper": 1788691263790,
+    "bilibili": 1788690364252,
+    "qbitai": 1788691295565,
+    "36kr": 1788691295923
   },
   "failures": {}
 }
