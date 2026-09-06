@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T18:11:35Z",
+  "updatedAt": "2026-09-06T18:26:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -40,8 +40,8 @@
         "rank": 6
       },
       {
-        "title": "人民日报刊文：“逢陆必黑”早已沦为笑柄",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34018575",
+        "title": "众声｜剪下网红葫芦之后：被当作“风景”的生活首先是生活",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34019385",
         "desc": "",
         "rank": 7
       },
@@ -52,8 +52,8 @@
         "rank": 8
       },
       {
-        "title": "众声｜剪下网红葫芦之后：被当作“风景”的生活首先是生活",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34019385",
+        "title": "人民日报刊文：“逢陆必黑”早已沦为笑柄",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34018575",
         "desc": "",
         "rank": 9
       },
@@ -64,14 +64,14 @@
         "rank": 10
       },
       {
-        "title": "CHINA GT就碰撞起火事故致歉：将进一步复盘和调查",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34019796",
+        "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34020894",
         "desc": "",
         "rank": 11
       },
       {
-        "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34020894",
+        "title": "CHINA GT就碰撞起火事故致歉：将进一步复盘和调查",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34019796",
         "desc": "",
         "rank": 12
       },
@@ -106,20 +106,20 @@
         "rank": 17
       },
       {
-        "title": "尼军卫生总局局长透露被困11天中国公民获救原因",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34018653",
+        "title": "西藏日喀则：将深入研究口岸功能恢复等事宜",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34020471",
         "desc": "",
         "rank": 18
       },
       {
-        "title": "普京开始与美国总统特使会谈",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34018082",
+        "title": "尼军卫生总局局长透露被困11天中国公民获救原因",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34018653",
         "desc": "",
         "rank": 19
       },
       {
-        "title": "中国空军派军机参加第二届埃及航展",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34018941",
+        "title": "普京开始与美国总统特使会谈",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34018082",
         "desc": "",
         "rank": 20
       }
@@ -142,19 +142,19 @@
         "hotTitle": "BY2来下一个是谁当裁判了"
       },
       {
-        "title": "【B站&抖音二路解说KPL合集】9月6日 北京JDG vs 广州TTG",
-        "url": "https://www.bilibili.com/video/BV1Dhbs6FEr9",
+        "title": "【KPL夏季赛二路解说合集】9月6日 北京JDG vs 广州TTG",
+        "url": "https://www.bilibili.com/video/BV1bvbs64EnQ",
         "desc": "",
         "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1Dhbs6FEr9",
+        "bvid": "BV1bvbs64EnQ",
         "author": "kpl二路",
-        "duration": "6163:12",
-        "cover": "//i1.hdslb.com/bfs/archive/42d0541a6e867db837be5f05a13ae92a7c060041.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dhbs6FEr9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "4256:34",
+        "cover": "//i2.hdslb.com/bfs/archive/27eb649a1707bf87bc4231e71001a7be9a418d96.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bvbs64EnQ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "广州TTG战胜北京JDG"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788718263223,
+    "thepaper": 1788719163852,
     "bilibili": 1788717408291,
-    "qbitai": 1788718294877,
-    "36kr": 1788718295266
+    "qbitai": 1788719194885,
+    "36kr": 1788719195249
   },
   "failures": {}
 }
