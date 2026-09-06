@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:41:30Z",
+  "updatedAt": "2026-09-06T22:56:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -286,19 +286,19 @@
         "hotTitle": "如何评价IG的BP策略"
       },
       {
-        "title": "【IG vs WE】德云色解说：还要蠕动！（2026第三赛段）",
-        "url": "https://www.bilibili.com/video/BV1Z8bH6AEa9",
+        "title": "IG 3-1 WE 赛后数据雷达图+虎扑评分丨LPL季后赛",
+        "url": "https://www.bilibili.com/video/BV1gybH69EXW",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 @小孩kiddddd @dys渔不沮 @dys融融子 @释梦398 @DYS-嚣张花卷 @德云色黑莓 @看不见的Dv彡 @Muchyoung1 @二柱子il 百度贴吧：德云色",
-        "content": "德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 @小孩kiddddd @dys渔不沮 @dys融融子 @释梦398 @DYS-嚣张花卷 @德云色黑莓 @看不见的Dv彡 @Muchyoung1 @二柱子il 百度贴吧：德云色",
-        "bvid": "BV1Z8bH6AEa9",
-        "author": "老实憨厚的笑笑",
-        "duration": "445:43",
-        "cover": "//i1.hdslb.com/bfs/archive/09cd099067a0aa29ac2c38c8e25c7b141626bf43.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z8bH6AEa9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1gybH69EXW",
+        "author": "苦练李香兰",
+        "duration": "4:28",
+        "cover": "//i0.hdslb.com/bfs/archive/fcb93be204536b3ba72076169d3c4137651a46d8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gybH69EXW&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "IG战胜WE"
       },
       {
@@ -543,18 +543,18 @@
       },
       {
         "title": "凡人修仙传 第190集",
-        "url": "https://www.bilibili.com/video/BV1vFt66kEgo",
+        "url": "https://www.bilibili.com/video/BV1YFt66kER9",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1vFt66kEgo",
-        "author": "埋头苦干3",
+        "bvid": "BV1YFt66kER9",
+        "author": "4K无需多言",
         "duration": "23:21",
-        "cover": "//i1.hdslb.com/bfs/archive/82279852c71dee3d1fc739b3f7769f051eba7e51.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vFt66kEgo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "cover": "//i0.hdslb.com/bfs/archive/4f3ac600a58a56b205b71b614f8d52d061bf3144.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YFt66kER9&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "凡人慕兰奸细暴露"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788734462140,
+    "thepaper": 1788735362169,
     "bilibili": 1788733631465,
-    "qbitai": 1788734490197,
-    "36kr": 1788734490683
+    "qbitai": 1788735391806,
+    "36kr": 1788735392182
   },
   "failures": {}
 }
