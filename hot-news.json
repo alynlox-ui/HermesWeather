@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:11:39Z",
+  "updatedAt": "2026-09-06T22:26:37Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -10,26 +10,26 @@
         "rank": 1
       },
       {
+        "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34020894",
+        "desc": "",
+        "rank": 2
+      },
+      {
         "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
         "url": "https://www.thepaper.cn/newsDetail_forward_34020192",
         "desc": "",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "体坛联播｜郑钦文惊天逆转晋级美网16强，国米力克那不勒斯",
         "url": "https://www.thepaper.cn/newsDetail_forward_34018602",
         "desc": "",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "山东临清一大桥步道桥板脱落致行人坠亡，13年前被评为省文保单位却年久失修",
         "url": "https://www.thepaper.cn/newsDetail_forward_34016288",
-        "desc": "",
-        "rank": 4
-      },
-      {
-        "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34020894",
         "desc": "",
         "rank": 5
       },
@@ -94,14 +94,14 @@
         "rank": 15
       },
       {
-        "title": "媒体：锦旗藏刀突破底线，暴力伤医是社会之痛",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34019670",
+        "title": "上海书评周刊",
+        "url": "https://www.thepaper.cn/newsDetail_forward_2006977",
         "desc": "",
         "rank": 16
       },
       {
-        "title": "当“八卦图”被洪水冲乱：莆田霞皋古村灾后自救实录",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34018684",
+        "title": "媒体：锦旗藏刀突破底线，暴力伤医是社会之痛",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34019670",
         "desc": "",
         "rank": 17
       },
@@ -190,20 +190,10 @@
         "hotTitle": "大范围降温要来了"
       },
       {
-        "title": "华强买瓜，但死神来了",
-        "url": "https://www.bilibili.com/video/BV1UBbL6YEtN",
+        "title": "华强买瓜但死神来了",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C%E4%BD%86%E6%AD%BB%E7%A5%9E%E6%9D%A5%E4%BA%86",
         "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "一切不合理现象解释权归死神所有。",
-        "content": "一切不合理现象解释权归死神所有。",
-        "bvid": "BV1UBbL6YEtN",
-        "author": "伊介书生",
-        "duration": "7:16",
-        "cover": "//i0.hdslb.com/bfs/archive/fc35aeafe11b4178e47b5275844d8c363e0ec60b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UBbL6YEtN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "华强买瓜但死神来了"
+        "rank": 5
       },
       {
         "title": "IG 3-1 WE 赛后数据雷达图+虎扑评分丨LPL季后赛",
@@ -1132,10 +1122,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788732663115,
+    "thepaper": 1788733563158,
     "bilibili": 1788731828084,
-    "qbitai": 1788732698780,
-    "36kr": 1788732699301
+    "qbitai": 1788733597328,
+    "36kr": 1788733597645
   },
   "failures": {}
 }
