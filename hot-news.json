@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T16:11:32Z",
+  "updatedAt": "2026-09-06T16:26:28Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -232,7 +232,7 @@
         "content": "自动上传出问题目前是手工上传可能会延迟",
         "bvid": "BV1gTbW6oEMJ",
         "author": "MTC君",
-        "duration": "90:4",
+        "duration": "120:8",
         "cover": "//i1.hdslb.com/bfs/archive/1b9180975278c12d132b99fef19c6abeb6365324.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gTbW6oEMJ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Spirit vs MOUZ BLAST公开赛"
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788711063913,
+    "thepaper": 1788711963279,
     "bilibili": 1788710190896,
-    "qbitai": 1788711092483,
-    "36kr": 1788711092805
+    "qbitai": 1788711987898,
+    "36kr": 1788711988275
   },
   "failures": {}
 }
