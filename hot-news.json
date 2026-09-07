@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T16:11:35Z",
+  "updatedAt": "2026-09-07T16:26:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -64,81 +64,81 @@
         "rank": 10
       },
       {
-        "title": "法学何为｜吕忠梅：为了一部法典",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34006439",
+        "title": "上海蔬菜集团：已全面暂停兰州榆中产地莴笋的进场销售",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34023759",
         "desc": "",
         "rank": 11
       },
       {
-        "title": "上海蔬菜集团：已全面暂停兰州榆中产地莴笋的进场销售",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34023759",
+        "title": "法学何为｜吕忠梅：为了一部法典",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34006439",
         "desc": "",
         "rank": 12
-      },
-      {
-        "title": "马上评｜200万元“泡水茶”被销毁，为何网友点赞？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34021240",
-        "desc": "",
-        "rank": 13
       },
       {
         "title": "星宇事件后培训HR“如何依法合规体面优化”，律所合伙人自称：没有对错，只是探讨",
         "url": "https://www.thepaper.cn/newsDetail_forward_34024835",
         "desc": "",
-        "rank": 14
+        "rank": 13
       },
       {
         "title": "城市文明时评｜整治出租车“甩客”，守护城市窗口文明",
         "url": "https://www.thepaper.cn/newsDetail_forward_34024066",
         "desc": "",
-        "rank": 15
+        "rank": 14
       },
       {
         "title": "女生赴港看演唱会全家低保被取消？当地民政局工作人员：正核查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34022300",
         "desc": "",
-        "rank": 16
-      },
-      {
-        "title": "刘雨昕聊影视主题曲创作：不设限风格，还打开了古风音乐大门",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34021368",
-        "desc": "",
-        "rank": 17
+        "rank": 15
       },
       {
         "title": "苏州成立专项调查组提级调查非法码头",
         "url": "https://www.thepaper.cn/newsDetail_forward_34023630",
         "desc": "",
-        "rank": 18
+        "rank": 16
       },
       {
         "title": "中青报刊文谈大学家长群现象：当代年轻人“社会性断乳”的延迟",
         "url": "https://www.thepaper.cn/newsDetail_forward_34022198",
         "desc": "",
-        "rank": 19
+        "rank": 17
       },
       {
         "title": "尼泊尔64岁老人被埋11天奇迹获救，家人搜寻无果曾为其举办葬礼",
         "url": "https://www.thepaper.cn/newsDetail_forward_34021350",
+        "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "曲靖一中学指定家长购298元专用耳机引质疑，教体局：可自行采购",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34007531",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "重庆一女子与店员产生纠纷后阻碍民警执行职务，被行政拘留",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34025348",
         "desc": "",
         "rank": 20
       }
     ],
     "bilibili": [
       {
-        "title": "大型纪录片《卧底代孕机构最大地下手术室》",
-        "url": "https://www.bilibili.com/video/BV1a9bT6nEDS",
+        "title": "上官正义发布视频，卧底华中地区代孕机构最大地下手术室 历时一年卧底代孕机构内部",
+        "url": "https://www.bilibili.com/video/BV1CebT6PEH9",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1a9bT6nEDS",
-        "author": "时速观察",
-        "duration": "1:25",
-        "cover": "//i2.hdslb.com/bfs/archive/b539fceb1d81d3867051e0e820aecaa6c728168a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1a9bT6nEDS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1CebT6PEH9",
+        "author": "端木宇赐",
+        "duration": "0:50",
+        "cover": "//i2.hdslb.com/bfs/archive/4e6322b7cc75d57848c94569c7ba0981d742938f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CebT6PEH9&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "卧底代孕机构最大地下手术室"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788797463087,
+    "thepaper": 1788798363837,
     "bilibili": 1788796588176,
-    "qbitai": 1788797494761,
-    "36kr": 1788797495268
+    "qbitai": 1788798394646,
+    "36kr": 1788798395088
   },
   "failures": {}
 }
