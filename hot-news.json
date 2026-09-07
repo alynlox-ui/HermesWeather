@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T03:11:32Z",
+  "updatedAt": "2026-09-07T03:26:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -64,32 +64,32 @@
         "rank": 10
       },
       {
-        "title": "著名信息安全与密码学领域专家翟起滨逝世",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34018851",
+        "title": "中国工商银行拟募资不超过1000亿元用于补充资本",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34019804",
         "desc": "",
         "rank": 11
       },
       {
-        "title": "中国工商银行拟募资不超过1000亿元用于补充资本",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34019804",
+        "title": "星宇股份：总经理周晓萍扣薪12个月，人力资源总监免职",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34022563",
         "desc": "",
         "rank": 12
+      },
+      {
+        "title": "讲武谈兵｜军用人形机器人走向战场，“终结者”来临？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34019553",
+        "desc": "",
+        "rank": 13
       },
       {
         "title": "单项冠军县，何以扛打｜酒瓶瓶盖谁家强，山东郓城挑大梁",
         "url": "https://www.thepaper.cn/newsDetail_forward_33769363",
         "desc": "",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "央媒调查一企业私设码头：多头监管4年关不掉，现场执法被暴力阻挠",
         "url": "https://www.thepaper.cn/newsDetail_forward_34022195",
-        "desc": "",
-        "rank": 14
-      },
-      {
-        "title": "讲武谈兵｜军用人形机器人走向战场，“终结者”来临？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34019553",
         "desc": "",
         "rank": 15
       },
@@ -112,14 +112,14 @@
         "rank": 18
       },
       {
-        "title": "媒体：锦旗藏刀突破底线，暴力伤医是社会之痛",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34019670",
+        "title": "驳船往长江倾倒黑色固体“十秒清空一艘船”？武汉市生态环境局：已赴现场调查",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34022495",
         "desc": "",
         "rank": 19
       },
       {
-        "title": "8家中央金融企业迎来增资，有何考量",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34020893",
+        "title": "河南一自行车赛50多人被带错路，官方致歉：退还受影响选手报名费",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34022254",
         "desc": "",
         "rank": 20
       }
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "中国服务型机器人亮相2026柏林国际消费电子展",
+        "url": "https://m.36kr.com/newsflashes/3972757429121287",
+        "desc": "在2026年柏林国际消费电子展上，中国企业带来的服务型机器人受到关注。人工智能与多种技术的结合，让机器人进一步融入人类生活和更多应用场景。展会现场，中国企业带来的轮式服务机器人可以对衣物进行识别、分类、洗涤和收纳。另一款爬楼清洁机器人则通过仿生履带、3D感知等技术，尝试解决机器在不同楼层之间的移动问题。在庭院场景中，割草机器人不但能割草，装上机械臂后还可以完成清障、采摘、浇水等任务。（央视新闻）",
+        "cover": "",
+        "date": 1788751474000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "机构：预估台积电第三季单季3纳米产值首度超过4000亿新台币",
+        "url": "https://m.36kr.com/newsflashes/3972754207600899",
+        "desc": "台积电应广大的客户群要求，3纳米以下先进制程加开更多产能。 机构看好，台积电下半年3纳米贡献可望首度超越5纳米，估计第三季单季产值首度超过4000亿新台币，创新高，占营收比重逾三成。（财联社）",
+        "cover": "",
+        "date": 1788751098000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "芯片需求拉动韩国对印度出口增幅超30%",
         "url": "https://m.36kr.com/newsflashes/3972751948001540",
         "desc": "韩国官方机构周一表示，受半导体旺盛需求带动，今年1‑8月韩国对印度出口额较2025年同期大涨超30%。韩国贸易投资振兴公社（KOTRA）数据显示，1‑8月韩国对印度出口同比增长30.8%，达到168亿美元，去年同期为128.4亿美元。在印度工业化推进背景下，韩国半导体企业以及材料、零部件、设备厂商不断扩大在印度市场布局。（新浪财经）",
@@ -937,7 +957,7 @@
         "date": 1788750595000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "沃尔德：公司已与多家PCB厂商持续开展产品优化与验证工作",
@@ -947,7 +967,7 @@
         "date": 1788750221000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "中国信通院启动“方升”智能体基准测试任务征集工作",
@@ -957,7 +977,7 @@
         "date": 1788749853000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "“阿法龙”近日完成超亿元人民币B轮融资",
@@ -967,7 +987,7 @@
         "date": 1788749536000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "报告：中国智能眼镜7月线上销量同比下降15.3%",
@@ -977,7 +997,7 @@
         "date": 1788749008000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "沪深两市成交额突破1万亿",
@@ -987,7 +1007,7 @@
         "date": 1788748870935,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "捷豹路虎中国回应全球裁员传闻",
@@ -997,7 +1017,7 @@
         "date": 1788748573000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "千问宣布接入十余家金融类智能体，覆盖理财、保险、期货等领域",
@@ -1007,7 +1027,7 @@
         "date": 1788748238000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "星宇股份：总经理周晓萍扣薪12个月，人力资源总监免职",
@@ -1017,7 +1037,7 @@
         "date": 1788747766240,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "韩元升至两年高点，外资已连日流入韩国股市",
@@ -1027,7 +1047,7 @@
         "date": 1788747637000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "摩尔线程回应20cm跌停：2500万股解禁，请理性看待",
@@ -1037,7 +1057,7 @@
         "date": 1788747501522,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "光洋股份：公司对PCB业务板块未来盈利能力持肯定态度",
@@ -1047,7 +1067,7 @@
         "date": 1788747363000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "六部门：积极支持符合条件的涉农企业上市融资",
@@ -1057,7 +1077,7 @@
         "date": 1788746860209,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "成都：到2028年国家和省级专精特新企业数量大幅提升",
@@ -1067,7 +1087,7 @@
         "date": 1788746591144,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "腾达科技：对全部产品进行价格下调",
@@ -1077,7 +1097,7 @@
         "date": 1788746229000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "创业板指涨超2%",
@@ -1087,7 +1107,7 @@
         "date": 1788746174104,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "斯迪克：公司OCA光学胶、AR减反膜产品已实现对国内部分折叠屏终端机型的供货",
@@ -1097,7 +1117,7 @@
         "date": 1788745898000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "“六张网”建设密集推进，下半年实物工作量集中释放",
@@ -1107,35 +1127,15 @@
         "date": 1788745563000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "摩尔线程早盘触及20cm跌停，创上市以来新低",
-        "url": "https://m.36kr.com/newsflashes/3972679594717442",
-        "desc": "36氪获悉，早盘算力芯片股摩尔线程触及20cm跌停，创上市以来新低，总市值跌破2000亿元。",
-        "cover": "",
-        "date": 1788745119794,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "央行今日开展5亿元7天期逆回购操作",
-        "url": "https://m.36kr.com/newsflashes/3972674507698689",
-        "desc": "36氪获悉，央行公告，2026年9月7日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。操作利率1.40%。",
-        "cover": "",
-        "date": 1788744809307,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788750661859,
+    "thepaper": 1788751561801,
     "bilibili": 1788749976502,
-    "qbitai": 1788750692570,
-    "36kr": 1788750692916
+    "qbitai": 1788751593953,
+    "36kr": 1788751594277
   },
   "failures": {}
 }
