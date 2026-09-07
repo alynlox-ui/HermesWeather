@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T03:26:34Z",
+  "updatedAt": "2026-09-07T03:41:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,74 @@
     ],
     "bilibili": [
       {
+        "title": "高歌猛进！费尔明1射2传 亚马尔双响 巴萨5比0瓦伦西亚",
+        "url": "https://www.bilibili.com/video/BV1NWbx69EPG",
+        "desc": "",
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1NWbx69EPG",
+        "author": "吉罗很快乐",
+        "duration": "17:36",
+        "cover": "//i1.hdslb.com/bfs/archive/18ac5e41c5abb49d6c9c6037435fa9e8521a89e0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NWbx69EPG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "瓦伦西亚0-5巴萨"
+      },
+      {
+        "title": "2026 上海全球冠军赛赛制介绍 // 无畏契约",
+        "url": "https://www.bilibili.com/video/BV1kTbs61Esv",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "以下是无畏契约史上最大电竞赛事：上海全球冠军赛期间的具体流程与安排。 哪支队伍将在生死无暇间，于无畏契约历史中铸就传奇？9 月 24 日到 10 月 18 日，让我们拭目以待。",
+        "content": "以下是无畏契约史上最大电竞赛事：上海全球冠军赛期间的具体流程与安排。 哪支队伍将在生死无暇间，于无畏契约历史中铸就传奇？9 月 24 日到 10 月 18 日，让我们拭目以待。",
+        "bvid": "BV1kTbs61Esv",
+        "author": "无畏契约电竞",
+        "duration": "1:11",
+        "cover": "//i2.hdslb.com/bfs/archive/1155c6ffc1b6fc5cbb493ea4b533f12f4c552ce2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kTbs61Esv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "无畏契约上海全球冠军赛赛制"
+      },
+      {
+        "title": "绿龙捧起BLAST波尔图冠军 决赛3-1强势复仇老鼠",
+        "url": "https://www.bilibili.com/video/BV1NWbx69EqX",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1NWbx69EqX",
+        "author": "CSGO赛事Jun",
+        "duration": "4:4",
+        "cover": "//i2.hdslb.com/bfs/archive/2de52908cdd7e307b02ce15548bf95fec48b2dd5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NWbx69EqX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Spirit获BLAST波尔图冠军"
+      },
+      {
+        "title": "上海冠军赛谁是好签？CN四支队伍出线分析！【奶爸侃瓦396】",
+        "url": "https://www.bilibili.com/video/BV1q5bw6kELB",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1q5bw6kELB",
+        "author": "解说奶爸",
+        "duration": "7:45",
+        "cover": "//i1.hdslb.com/bfs/archive/d5949a79d0a6a7c86abe940c54540b6ddc72e292.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1q5bw6kELB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "上海冠军赛CN队伍出线分析"
+      },
+      {
         "title": "IG疯了！要去世界赛！涅槃登峰大变天！TES终于转不动了！【1酱赛评LPL季后赛篇】",
         "url": "https://www.bilibili.com/video/BV12nbx6dE1N",
         "desc": "",
-        "rank": 1,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "视频制作剪辑@闻人常安AreS",
@@ -140,70 +204,6 @@
         "cover": "//i0.hdslb.com/bfs/archive/eaaeb962e302f142eaf04efdce86ff9e7af14db2.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12nbx6dE1N&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "复盘IG战胜WE"
-      },
-      {
-        "title": "48小时连续体验：这次，GPT6翻了吗？",
-        "url": "https://www.bilibili.com/video/BV1srbs6pEL7",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "GPT6 除了费钱，一个重要的信号就是，原来没学过，现在你又不用学了，甚至因为之前的旧模型不够聪明，你就会给很多限制、大量的说明包括 Prompt，但 GPT6 一出来，这些东西反而大大限制了它的发挥，减少限制、给足空间，它反而能做得更好。",
-        "content": "GPT6 除了费钱，一个重要的信号就是，原来没学过，现在你又不用学了，甚至因为之前的旧模型不够聪明，你就会给很多限制、大量的说明包括 Prompt，但 GPT6 一出来，这些东西反而大大限制了它的发挥，减少限制、给足空间，它反而能做得更好。",
-        "bvid": "BV1srbs6pEL7",
-        "author": "Topbook",
-        "duration": "6:49",
-        "cover": "//i0.hdslb.com/bfs/archive/1159922c4bde53a32156b1736b7afb29f525e7ac.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1srbs6pEL7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GPT-6深度体验测评"
-      },
-      {
-        "title": "OpenAI 回应 “wiki 事件”：将公布 misalignment 披露框架【AI 早报 2026-09-06】",
-        "url": "https://www.bilibili.com/video/BV1mpbE63EYK",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "相关链接和文字版请看：https://mp.weixin.qq.com/s/5E13AuXQhpJIxCboYdn74g",
-        "content": "相关链接和文字版请看：https://mp.weixin.qq.com/s/5E13AuXQhpJIxCboYdn74g",
-        "bvid": "BV1mpbE63EYK",
-        "author": "橘鸦Juya",
-        "duration": "2:10",
-        "cover": "//i1.hdslb.com/bfs/archive/a6311b0f6aedfbe9a4adf93d7959ec864357d9c0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mpbE63EYK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "OpenAI回应wiki事件"
-      },
-      {
-        "title": "Donk荣获第十三枚MVP奖章 在步枪手行列中正式超越老尼成为第一",
-        "url": "https://www.bilibili.com/video/BV1jFbx6gE9B",
-        "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1jFbx6gE9B",
-        "author": "CSGO赛事Jun",
-        "duration": "3:50",
-        "cover": "//i2.hdslb.com/bfs/archive/8d03af22adf43c445b9662244a16ab427b05a8cb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jFbx6gE9B&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "donk荣获第13枚MVP奖牌"
-      },
-      {
-        "title": "安东内利绝地反击夺冠！【2026 F1意大利大奖赛正赛集锦】",
-        "url": "https://www.bilibili.com/video/BV1Rybx6uEDK",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "2026 F1意大利大奖赛正赛集锦",
-        "content": "2026 F1意大利大奖赛正赛集锦",
-        "bvid": "BV1Rybx6uEDK",
-        "author": "F1世界锦标赛",
-        "duration": "8:13",
-        "cover": "//i0.hdslb.com/bfs/archive/fef0889a8fadd2af48ee43f9c73d868fc3399097.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Rybx6uEDK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "安东内利上演P19夺冠神迹"
       },
       {
         "title": "月捐数年“无人问” 停捐一月遭“催捐”？四川单亲妈妈自曝“寒心”经历 多名网友评论区晒同款经历",
@@ -222,10 +222,42 @@
         "hotTitle": "单亲妈妈回应停捐后遭催捐"
       },
       {
+        "title": "披荆斩棘！琼斯10-6战胜塞尔比夺得2026英国公开赛冠军",
+        "url": "https://www.bilibili.com/video/BV1CSb46REFV",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "恭喜杰克·琼斯10-6战胜马克·塞尔比夺得2026斯诺克英国公开赛冠军！继7月在BetVictor冠军联赛拿下生涯首冠后，琼斯再度斩获排名赛冠军，成为斯诺克史上第46位手握多座排名赛冠军的球员！ 杰克·琼斯当前世界排名第31位，凭借本次夺冠，他的排名将攀升至第22位。",
+        "content": "恭喜杰克·琼斯10-6战胜马克·塞尔比夺得2026斯诺克英国公开赛冠军！继7月在BetVictor冠军联赛拿下生涯首冠后，琼斯再度斩获排名赛冠军，成为斯诺克史上第46位手握多座排名赛冠军的球员！ 杰克·琼斯当前世界排名第31位，凭借本次夺冠，他的排名将攀升至第22位。",
+        "bvid": "BV1CSb46REFV",
+        "author": "世界斯诺克巡回赛",
+        "duration": "6:6",
+        "cover": "//i1.hdslb.com/bfs/archive/443cf1677c088ac7667d47b2b603c88872b2c0e8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CSb46REFV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "琼斯获斯诺克英国公开赛冠军"
+      },
+      {
+        "title": "安东内利绝地反击夺冠！【2026 F1意大利大奖赛正赛集锦】",
+        "url": "https://www.bilibili.com/video/BV1Rybx6uEDK",
+        "desc": "",
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "2026 F1意大利大奖赛正赛集锦",
+        "content": "2026 F1意大利大奖赛正赛集锦",
+        "bvid": "BV1Rybx6uEDK",
+        "author": "F1世界锦标赛",
+        "duration": "8:13",
+        "cover": "//i0.hdslb.com/bfs/archive/fef0889a8fadd2af48ee43f9c73d868fc3399097.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Rybx6uEDK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "安东内利上演P19夺冠神迹"
+      },
+      {
         "title": "RTX5090价格暴涨：四万元起步｜显卡日报9月7日",
         "url": "https://www.bilibili.com/video/BV12wb46oEM5",
         "desc": "",
-        "rank": 7,
+        "rank": 9,
         "kind": "video",
         "platform": "bilibili",
         "description": "日报有用记得三连哦，你的鼓励真的很重要～",
@@ -238,74 +270,10 @@
         "hotTitle": "5090显卡价格暴涨"
       },
       {
-        "title": "高歌猛进！费尔明1射2传 亚马尔双响 巴萨5比0瓦伦西亚",
-        "url": "https://www.bilibili.com/video/BV1NWbx69EPG",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1NWbx69EPG",
-        "author": "吉罗很快乐",
-        "duration": "17:36",
-        "cover": "//i1.hdslb.com/bfs/archive/18ac5e41c5abb49d6c9c6037435fa9e8521a89e0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NWbx69EPG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "瓦伦西亚0-5巴萨"
-      },
-      {
-        "title": "绿龙捧起BLAST波尔图冠军 决赛3-1强势复仇老鼠",
-        "url": "https://www.bilibili.com/video/BV1NWbx69EqX",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1NWbx69EqX",
-        "author": "CSGO赛事Jun",
-        "duration": "4:4",
-        "cover": "//i2.hdslb.com/bfs/archive/2de52908cdd7e307b02ce15548bf95fec48b2dd5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NWbx69EqX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Spirit获BLAST波尔图冠军"
-      },
-      {
-        "title": "2026 上海全球冠军赛赛制介绍 // 无畏契约",
-        "url": "https://www.bilibili.com/video/BV1kTbs61Esv",
-        "desc": "",
-        "rank": 10,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "以下是无畏契约史上最大电竞赛事：上海全球冠军赛期间的具体流程与安排。 哪支队伍将在生死无暇间，于无畏契约历史中铸就传奇？9 月 24 日到 10 月 18 日，让我们拭目以待。",
-        "content": "以下是无畏契约史上最大电竞赛事：上海全球冠军赛期间的具体流程与安排。 哪支队伍将在生死无暇间，于无畏契约历史中铸就传奇？9 月 24 日到 10 月 18 日，让我们拭目以待。",
-        "bvid": "BV1kTbs61Esv",
-        "author": "无畏契约电竞",
-        "duration": "1:11",
-        "cover": "//i2.hdslb.com/bfs/archive/1155c6ffc1b6fc5cbb493ea4b533f12f4c552ce2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kTbs61Esv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "无畏契约上海全球冠军赛赛制"
-      },
-      {
-        "title": "IG 3-1 WE 赛后数据雷达图+虎扑评分丨LPL季后赛",
-        "url": "https://www.bilibili.com/video/BV1gybH69EXW",
-        "desc": "",
-        "rank": 11,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1gybH69EXW",
-        "author": "苦练李香兰",
-        "duration": "4:28",
-        "cover": "//i0.hdslb.com/bfs/archive/fcb93be204536b3ba72076169d3c4137651a46d8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gybH69EXW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "IG战胜WE"
-      },
-      {
         "title": "大学校徽应该怎么设计？【使徒子】",
         "url": "https://www.bilibili.com/video/BV1ahtR6mEma",
         "desc": "",
-        "rank": 12,
+        "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "又到开学季，一枚小小的校徽会伴随大家整个大学时光。国内高校校徽看着大多长得雷同，满屏圆形徽章，其实每枚背后都有一段过往。鲁迅操刀的北大校徽、清华曾经的鹰形老校徽，还有被网友玩梗的浙大、同济校徽，甚至把恐龙印进校徽的高校。今天聊聊大学校徽设计里的历史与巧思。",
@@ -318,74 +286,58 @@
         "hotTitle": "大学校徽应该怎么设计"
       },
       {
-        "title": "《下一个是谁》第七季（4）",
-        "url": "https://www.bilibili.com/video/BV1HBbE6cEc5",
+        "title": "Donk荣获第十三枚MVP奖章 在步枪手行列中正式超越老尼成为第一",
+        "url": "https://www.bilibili.com/video/BV1jFbx6gE9B",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1jFbx6gE9B",
+        "author": "CSGO赛事Jun",
+        "duration": "3:50",
+        "cover": "//i2.hdslb.com/bfs/archive/8d03af22adf43c445b9662244a16ab427b05a8cb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jFbx6gE9B&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "donk荣获第13枚MVP奖牌"
+      },
+      {
+        "title": "明日方舟你联动给我联好了呀！！！【明日方舟联动P3R体验报告】",
+        "url": "https://www.bilibili.com/video/BV1gKbW6tEvN",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1gKbW6tEvN",
+        "author": "住B站的王王",
+        "duration": "6:23",
+        "cover": "//i0.hdslb.com/bfs/archive/b0b89e5e5eaba954a22622d7adf1084baa603c97.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gKbW6tEvN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "明日方舟联动P3R体验报告"
+      },
+      {
+        "title": "IG 3-1 WE 赛后数据雷达图+虎扑评分丨LPL季后赛",
+        "url": "https://www.bilibili.com/video/BV1gybH69EXW",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "《下一个是谁》第七季来啦！！ 每期都会抽一台iPhone17 Pro！每期抽奖去主投up主（@力元君 ）的主页抽！ 抽奖资金由本期最后一名倒霉蛋出！所以不涉及剧透！",
-        "content": "《下一个是谁》第七季来啦！！ 每期都会抽一台iPhone17 Pro！每期抽奖去主投up主（@力元君 ）的主页抽！ 抽奖资金由本期最后一名倒霉蛋出！所以不涉及剧透！",
-        "bvid": "BV1HBbE6cEc5",
-        "author": "力元君",
-        "duration": "73:48",
-        "cover": "//i0.hdslb.com/bfs/archive/7c84047cc908074ec674663a2872f60ec78b04a2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HBbE6cEc5&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BY2来下一个是谁当裁判了"
-      },
-      {
-        "title": "今天China GT大事故的车内视角，非常惨烈，非常不希望发生，希望车手们早点康复，早日回归赛道[拥抱]",
-        "url": "https://www.bilibili.com/video/BV11pbj6YEaj",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "今天China GT大事故的车内视角，非常惨烈，非常不希望发生，希望车手们早点康复，早日回归赛道[拥抱]",
-        "content": "今天China GT大事故的车内视角，非常惨烈，非常不希望发生，希望车手们早点康复，早日回归赛道[拥抱]",
-        "bvid": "BV11pbj6YEaj",
-        "author": "赛车手谢欣哲",
-        "duration": "1:49",
-        "cover": "//i1.hdslb.com/bfs/archive/e00c4d72631a91da843c93965c5c23aef8cb895a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11pbj6YEaj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "China GT赛场事故车内视角"
-      },
-      {
-        "title": "暴 雨 告 发",
-        "url": "https://www.bilibili.com/video/BV1Sptv6HEVY",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Sptv6HEVY",
-        "author": "忆雨潇湘_",
-        "duration": "3:26",
-        "cover": "//i1.hdslb.com/bfs/archive/2bb3d4745446002dc19248c0c594c3990ff97d30.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Sptv6HEVY&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "臣妾在暴雨中告发熹贵妃"
-      },
-      {
-        "title": "一码归一码！车撞羊群赔钱≠羊归肇事方！【主播说三农】",
-        "url": "https://www.bilibili.com/video/BV1eet16RE7X",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1eet16RE7X",
-        "author": "央视农业",
-        "duration": "3:33",
-        "cover": "//i1.hdslb.com/bfs/archive/874909b8078f7784f2d7effe7f093dbfb02630a1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eet16RE7X&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "撞羊群赔8万为何带不走羊"
+        "bvid": "BV1gybH69EXW",
+        "author": "苦练李香兰",
+        "duration": "4:28",
+        "cover": "//i0.hdslb.com/bfs/archive/fcb93be204536b3ba72076169d3c4137651a46d8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gybH69EXW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "IG战胜WE"
       },
       {
         "title": "德比斯荡气回肠斩获领奖台！2026年WSBK法国站SSP组正赛第二回合（张雪机车组）",
         "url": "https://www.bilibili.com/video/BV12RbW69ESt",
         "desc": "",
-        "rank": 17,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "德比斯荡气回肠斩获领奖台！2026年WSBK法国站SSP组正赛第二回合（张雪机车组）",
@@ -396,6 +348,54 @@
         "cover": "//i2.hdslb.com/bfs/archive/fa1ec894e551eb7d9491a1c336ac46535ae6fc0f.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12RbW69ESt&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "张雪机车法国站第二回合季军"
+      },
+      {
+        "title": "[牧神记加急充电专场]路人reaction|残老村九老皆是传奇，逆天凡体秦牧|诸神压迫、人族反抗，牧神记的世界观越看越上头",
+        "url": "https://www.bilibili.com/video/BV1RebH68Emy",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1RebH68Emy",
+        "author": "奇思妙想但懒羊羊",
+        "duration": "213:5",
+        "cover": "//i1.hdslb.com/bfs/archive/bb8519e3a4e3f933a27519d4b47516694387d8d8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RebH68Emy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "秦牧小毒王医毒斗法"
+      },
+      {
+        "title": "我把汉堡搬到了星星上",
+        "url": "https://www.bilibili.com/video/BV1Xdt26bECx",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Xdt26bECx",
+        "author": "李炮炮儿",
+        "duration": "4:10",
+        "cover": "//i0.hdslb.com/bfs/archive/00acb9ebe0ce9f07650b66bfdded1d7bfe0ae979.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xdt26bECx&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主挑战搬空汉堡王"
+      },
+      {
+        "title": "48小时连续体验：这次，GPT6翻了吗？",
+        "url": "https://www.bilibili.com/video/BV1srbs6pEL7",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "GPT6 除了费钱，一个重要的信号就是，原来没学过，现在你又不用学了，甚至因为之前的旧模型不够聪明，你就会给很多限制、大量的说明包括 Prompt，但 GPT6 一出来，这些东西反而大大限制了它的发挥，减少限制、给足空间，它反而能做得更好。",
+        "content": "GPT6 除了费钱，一个重要的信号就是，原来没学过，现在你又不用学了，甚至因为之前的旧模型不够聪明，你就会给很多限制、大量的说明包括 Prompt，但 GPT6 一出来，这些东西反而大大限制了它的发挥，减少限制、给足空间，它反而能做得更好。",
+        "bvid": "BV1srbs6pEL7",
+        "author": "Topbook",
+        "duration": "6:49",
+        "cover": "//i0.hdslb.com/bfs/archive/1159922c4bde53a32156b1736b7afb29f525e7ac.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1srbs6pEL7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GPT-6深度体验测评"
       },
       {
         "title": "“葫芦娃爷爷”把7个葫芦剪了： 游客量陡增，奶奶头晕病发 高峰期每几分钟就要到阳台和大家见面 摘完后爷爷唱了首歌 与大家挥手再见",
@@ -414,90 +414,106 @@
         "hotTitle": "葫芦娃爷爷把葫芦剪了"
       },
       {
-        "title": "狙击曼联！奈尔斯世界波读秒绝平 姆伯莫破门 埃弗顿2比2曼联",
-        "url": "https://www.bilibili.com/video/BV1BJb46LE2J",
+        "title": "《下一个是谁》第七季（4）",
+        "url": "https://www.bilibili.com/video/BV1HBbE6cEc5",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1BJb46LE2J",
-        "author": "吉罗很快乐",
-        "duration": "14:3",
-        "cover": "//i1.hdslb.com/bfs/archive/979fccd8580c7fa053f848c0ed3c83344af97fec.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BJb46LE2J&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "埃弗顿2-2曼联"
+        "description": "《下一个是谁》第七季来啦！！ 每期都会抽一台iPhone17 Pro！每期抽奖去主投up主（@力元君 ）的主页抽！ 抽奖资金由本期最后一名倒霉蛋出！所以不涉及剧透！",
+        "content": "《下一个是谁》第七季来啦！！ 每期都会抽一台iPhone17 Pro！每期抽奖去主投up主（@力元君 ）的主页抽！ 抽奖资金由本期最后一名倒霉蛋出！所以不涉及剧透！",
+        "bvid": "BV1HBbE6cEc5",
+        "author": "力元君",
+        "duration": "73:48",
+        "cover": "//i0.hdslb.com/bfs/archive/7c84047cc908074ec674663a2872f60ec78b04a2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HBbE6cEc5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BY2来下一个是谁当裁判了"
       },
       {
-        "title": "[牧神记加急充电专场]路人reaction|残老村九老皆是传奇，逆天凡体秦牧|诸神压迫、人族反抗，牧神记的世界观越看越上头",
-        "url": "https://www.bilibili.com/video/BV1RebH68Emy",
+        "title": "7个村庄采水点，一滴真实水样也没采！央视曝光水质检测企业造假",
+        "url": "https://www.bilibili.com/video/BV1RrbW6YE1N",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1RebH68Emy",
-        "author": "奇思妙想但懒羊羊",
-        "duration": "213:5",
-        "cover": "//i1.hdslb.com/bfs/archive/bb8519e3a4e3f933a27519d4b47516694387d8d8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RebH68Emy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "秦牧小毒王医毒斗法"
+        "description": "",
+        "content": "",
+        "bvid": "BV1RrbW6YE1N",
+        "author": "央视新闻",
+        "duration": "1:51",
+        "cover": "//i1.hdslb.com/bfs/archive/8ec8937c1fb9df0a31bf189c602fafb51e204c89.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RrbW6YE1N&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "央视曝光水质检测企业造假"
       },
       {
-        "title": "我把汉堡搬到了星星上",
-        "url": "https://www.bilibili.com/video/BV1Xdt26bECx",
+        "title": "暴 雨 告 发",
+        "url": "https://www.bilibili.com/video/BV1Sptv6HEVY",
         "desc": "",
         "rank": 21,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Xdt26bECx",
-        "author": "李炮炮儿",
-        "duration": "4:10",
-        "cover": "//i0.hdslb.com/bfs/archive/00acb9ebe0ce9f07650b66bfdded1d7bfe0ae979.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xdt26bECx&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主挑战搬空汉堡王"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Sptv6HEVY",
+        "author": "忆雨潇湘_",
+        "duration": "3:26",
+        "cover": "//i1.hdslb.com/bfs/archive/2bb3d4745446002dc19248c0c594c3990ff97d30.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Sptv6HEVY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "臣妾在暴雨中告发熹贵妃"
       },
       {
-        "title": "【babyblue】上海冠军赛抽签出炉！JDG有的打，EDG打loud宿命之战！D组有点死亡，XLG危险了！",
-        "url": "https://www.bilibili.com/video/BV1JZb46JE5M",
+        "title": "今天China GT大事故的车内视角，非常惨烈，非常不希望发生，希望车手们早点康复，早日回归赛道[拥抱]",
+        "url": "https://www.bilibili.com/video/BV11pbj6YEaj",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
-        "description": "如果你觉得切片不赖的话不妨点个关注吧，5FW切片持续更新中！",
-        "content": "如果你觉得切片不赖的话不妨点个关注吧，5FW切片持续更新中！",
-        "bvid": "BV1JZb46JE5M",
-        "author": "不会枪的lansir",
-        "duration": "6:27",
-        "cover": "//i2.hdslb.com/bfs/archive/6e96f4f90da16319275aa8e998c5d4434850fa42.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JZb46JE5M&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "上海冠军赛抽签出炉"
+        "description": "今天China GT大事故的车内视角，非常惨烈，非常不希望发生，希望车手们早点康复，早日回归赛道[拥抱]",
+        "content": "今天China GT大事故的车内视角，非常惨烈，非常不希望发生，希望车手们早点康复，早日回归赛道[拥抱]",
+        "bvid": "BV11pbj6YEaj",
+        "author": "赛车手谢欣哲",
+        "duration": "1:49",
+        "cover": "//i1.hdslb.com/bfs/archive/e00c4d72631a91da843c93965c5c23aef8cb895a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11pbj6YEaj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "China GT赛场事故车内视角"
       },
       {
-        "title": "【真实锐评】IG战胜WE theshy练英雄速度天赋最高！IG给我冲刺决赛！",
-        "url": "https://www.bilibili.com/video/BV1AAbs6JE1b",
+        "title": "一码归一码！车撞羊群赔钱≠羊归肇事方！【主播说三农】",
+        "url": "https://www.bilibili.com/video/BV1eet16RE7X",
         "desc": "",
         "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1AAbs6JE1b",
-        "author": "真实电竞",
-        "duration": "6:12",
-        "cover": "//i1.hdslb.com/bfs/archive/d71952bc5556a39dd9adf5c7496216e856fe7350.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AAbs6JE1b&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如何评价IG的BP策略"
+        "bvid": "BV1eet16RE7X",
+        "author": "央视农业",
+        "duration": "3:33",
+        "cover": "//i1.hdslb.com/bfs/archive/874909b8078f7784f2d7effe7f093dbfb02630a1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eet16RE7X&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "撞羊群赔8万为何带不走羊"
+      },
+      {
+        "title": "《绝区零》克拉蕾EP | Link Up 血火相连",
+        "url": "https://www.bilibili.com/video/BV1C9b76cEks",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "我听见你的脉搏， 在我血液中起落。 制作人：余宗儒 编曲：余宗儒 作词：Steph 作曲：余宗儒/Oliver S./April Mac 主唱：Ironmouse/monii 混音：余宗儒 母带：余宗儒 —— 欢迎来到罗斯凯利法！—— ▼《绝区零》3.2版本「她与她的隐秘往事」将于9月9日上线！ 版本期间，参与活动可免费领取妄想天使全新时装！ bilibili安卓端下载地址：https://www.biligame.com/detail/?id=108434 bilibiliPC端下载地址：http",
+        "content": "我听见你的脉搏， 在我血液中起落。 制作人：余宗儒 编曲：余宗儒 作词：Steph 作曲：余宗儒/Oliver S./April Mac 主唱：Ironmouse/monii 混音：余宗儒 母带：余宗儒 —— 欢迎来到罗斯凯利法！—— ▼《绝区零》3.2版本「她与她的隐秘往事」将于9月9日上线！ 版本期间，参与活动可免费领取妄想天使全新时装！ bilibili安卓端下载地址：https://www.biligame.com/detail/?id=108434 bilibiliPC端下载地址：http",
+        "bvid": "BV1C9b76cEks",
+        "author": "绝区零",
+        "duration": "3:19",
+        "cover": "//i2.hdslb.com/bfs/archive/9f1e6f585a6d7d1546090b4bc03d4b9cf21292db.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1C9b76cEks&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "绝区零克拉蕾EP"
       },
       {
         "title": "华强买瓜，但死神来了",
         "url": "https://www.bilibili.com/video/BV1UBbL6YEtN",
         "desc": "",
-        "rank": 24,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "一切不合理现象解释权归死神所有。",
@@ -510,58 +526,10 @@
         "hotTitle": "华强买瓜但死神来了"
       },
       {
-        "title": "史上最烂DC电影！万字赤石《超女》！",
-        "url": "https://www.bilibili.com/video/BV1mntg62Ed8",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1mntg62Ed8",
-        "author": "BuriedAlien",
-        "duration": "35:8",
-        "cover": "//i0.hdslb.com/bfs/archive/1cfa976ef5908d4fd5f4dd68a2aa405e362a44d4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mntg62Ed8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "万字拆解DC电影超级少女"
-      },
-      {
-        "title": "LGD 3-2 NIP 赛后数据雷达图+虎扑评分丨LPL季后赛",
-        "url": "https://www.bilibili.com/video/BV1PHbW67EHY",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1PHbW67EHY",
-        "author": "苦练李香兰",
-        "duration": "5:24",
-        "cover": "//i1.hdslb.com/bfs/archive/cd075954ca1fce956d9b5aacee13fc7ab22e3cda.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PHbW67EHY&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "LGD战胜NIP"
-      },
-      {
-        "title": "全网首通逐星者行动",
-        "url": "https://www.bilibili.com/video/BV1uobj6gE6M",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1uobj6gE6M",
-        "author": "157幺伍丌",
-        "duration": "2:12",
-        "cover": "//i1.hdslb.com/bfs/archive/d9f599ebbe138455c8ee33064db6a4ee00c7fb09.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uobj6gE6M&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "全网首通逐星者行动"
-      },
-      {
         "title": "歌剧老师锐评《披荆斩棘的哥哥2026》二公（上）",
         "url": "https://www.bilibili.com/video/BV1zCbn6vEiR",
         "desc": "",
-        "rank": 28,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "歌剧老师锐评《披荆斩棘的哥哥2026》二公（上）",
@@ -574,36 +542,68 @@
         "hotTitle": "歌剧老师锐评披哥二公"
       },
       {
-        "title": "长得不好看也是一种失败，最焦虑的国家如何培养超级医美产业？",
-        "url": "https://www.bilibili.com/video/BV1tMtm6nEzo",
+        "title": "怎么有网友让我走到西藏啊…",
+        "url": "https://www.bilibili.com/video/BV1eBbH6ZEL9",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1eBbH6ZEL9",
+        "author": "拉宏桑",
+        "duration": "13:21",
+        "cover": "//i0.hdslb.com/bfs/archive/e1b13433d1454cb312a78f84173e329fbb8a2c9a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eBbH6ZEL9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "拉宏桑挑战从深圳坐公交到西藏"
+      },
+      {
+        "title": "【真实锐评】IG战胜WE theshy练英雄速度天赋最高！IG给我冲刺决赛！",
+        "url": "https://www.bilibili.com/video/BV1AAbs6JE1b",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1AAbs6JE1b",
+        "author": "真实电竞",
+        "duration": "6:12",
+        "cover": "//i1.hdslb.com/bfs/archive/d71952bc5556a39dd9adf5c7496216e856fe7350.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AAbs6JE1b&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何评价IG的BP策略"
+      },
+      {
+        "title": "IG 3-1 WE 赛后数据雷达图+虎扑评分丨LPL季后赛",
+        "url": "https://www.bilibili.com/video/BV1gybH69EXW",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "一键三连推荐给更多朋友！",
-        "content": "一键三连推荐给更多朋友！",
-        "bvid": "BV1tMtm6nEzo",
-        "author": "小王Albert",
-        "duration": "26:59",
-        "cover": "//i0.hdslb.com/bfs/archive/aaafa0c1633980b136d91b9846d9265835db4afb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tMtm6nEzo&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "王骁拆解韩国医美产业"
+        "description": "",
+        "content": "",
+        "bvid": "BV1gybH69EXW",
+        "author": "苦练李香兰",
+        "duration": "4:28",
+        "cover": "//i0.hdslb.com/bfs/archive/fcb93be204536b3ba72076169d3c4137651a46d8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gybH69EXW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "IG战胜WE赛后数据"
       },
       {
-        "title": "《绝区零》克拉蕾EP | Link Up 血火相连",
-        "url": "https://www.bilibili.com/video/BV1C9b76cEks",
+        "title": "全网首发！爆肝3天！S11新NPC佐拉、唐吉任务线全流程攻略！完成后送口琴和火箭！可演奏可互动可入局！单人几乎无法完成！",
+        "url": "https://www.bilibili.com/video/BV1X5bE62EbZ",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "我听见你的脉搏， 在我血液中起落。 制作人：余宗儒 编曲：余宗儒 作词：Steph 作曲：余宗儒/Oliver S./April Mac 主唱：Ironmouse/monii 混音：余宗儒 母带：余宗儒 —— 欢迎来到罗斯凯利法！—— ▼《绝区零》3.2版本「她与她的隐秘往事」将于9月9日上线！ 版本期间，参与活动可免费领取妄想天使全新时装！ bilibili安卓端下载地址：https://www.biligame.com/detail/?id=108434 bilibiliPC端下载地址：http",
-        "content": "我听见你的脉搏， 在我血液中起落。 制作人：余宗儒 编曲：余宗儒 作词：Steph 作曲：余宗儒/Oliver S./April Mac 主唱：Ironmouse/monii 混音：余宗儒 母带：余宗儒 —— 欢迎来到罗斯凯利法！—— ▼《绝区零》3.2版本「她与她的隐秘往事」将于9月9日上线！ 版本期间，参与活动可免费领取妄想天使全新时装！ bilibili安卓端下载地址：https://www.biligame.com/detail/?id=108434 bilibiliPC端下载地址：http",
-        "bvid": "BV1C9b76cEks",
-        "author": "绝区零",
-        "duration": "3:19",
-        "cover": "//i2.hdslb.com/bfs/archive/9f1e6f585a6d7d1546090b4bc03d4b9cf21292db.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1C9b76cEks&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "绝区零克拉蕾EP"
+        "description": "生日爆肝有没有懂得！ 签约B站了！有KPI了！大家点点赞感谢",
+        "content": "生日爆肝有没有懂得！ 签约B站了！有KPI了！大家点点赞感谢",
+        "bvid": "BV1X5bE62EbZ",
+        "author": "Key725",
+        "duration": "15:36",
+        "cover": "//i1.hdslb.com/bfs/archive/ef53ad5ef1a78d2cc12830c8de8b578132584d83.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1X5bE62EbZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S11佐拉唐吉任务线全流程攻略"
       }
     ],
     "qbitai": [
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "智象发布具身世界模型HiDream-O1-Embodied",
+        "url": "https://m.36kr.com/newsflashes/3972772905480713",
+        "desc": "36氪获悉，智象未来（HiDream.ai）正式发布具身世界模型HiDream-O1-Embodied。模型强化机器人物理感知与动态预判能力，助力具身智能实现更高阶的物理交互。",
+        "cover": "",
+        "date": 1788752360000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "A股三大指数午间休盘涨跌不一，剑桥科技涨停",
+        "url": "https://m.36kr.com/newsflashes/3972792132268288",
+        "desc": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指跌0.24%，深成指涨1.38%，创业板指涨2.63%；通信设备、电子元器件、半导体板块领涨，剑桥科技、华兴源创涨停，德福科技涨超15%，源杰科技涨超10%；能源、大金融板块跌幅居前，中煤能源跌超5%，中国平安跌超3%，青岛银行、中国海油跌超2%，。",
+        "cover": "",
+        "date": 1788751988541,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "中国服务型机器人亮相2026柏林国际消费电子展",
         "url": "https://m.36kr.com/newsflashes/3972757429121287",
         "desc": "在2026年柏林国际消费电子展上，中国企业带来的服务型机器人受到关注。人工智能与多种技术的结合，让机器人进一步融入人类生活和更多应用场景。展会现场，中国企业带来的轮式服务机器人可以对衣物进行识别、分类、洗涤和收纳。另一款爬楼清洁机器人则通过仿生履带、3D感知等技术，尝试解决机器在不同楼层之间的移动问题。在庭院场景中，割草机器人不但能割草，装上机械臂后还可以完成清障、采摘、浇水等任务。（央视新闻）",
@@ -937,7 +957,7 @@
         "date": 1788751474000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "机构：预估台积电第三季单季3纳米产值首度超过4000亿新台币",
@@ -947,7 +967,7 @@
         "date": 1788751098000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "芯片需求拉动韩国对印度出口增幅超30%",
@@ -957,7 +977,7 @@
         "date": 1788750595000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "沃尔德：公司已与多家PCB厂商持续开展产品优化与验证工作",
@@ -967,7 +987,7 @@
         "date": 1788750221000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "中国信通院启动“方升”智能体基准测试任务征集工作",
@@ -977,7 +997,7 @@
         "date": 1788749853000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "“阿法龙”近日完成超亿元人民币B轮融资",
@@ -987,7 +1007,7 @@
         "date": 1788749536000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "报告：中国智能眼镜7月线上销量同比下降15.3%",
@@ -997,7 +1017,7 @@
         "date": 1788749008000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "沪深两市成交额突破1万亿",
@@ -1007,7 +1027,7 @@
         "date": 1788748870935,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "捷豹路虎中国回应全球裁员传闻",
@@ -1017,7 +1037,7 @@
         "date": 1788748573000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "千问宣布接入十余家金融类智能体，覆盖理财、保险、期货等领域",
@@ -1027,7 +1047,7 @@
         "date": 1788748238000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "星宇股份：总经理周晓萍扣薪12个月，人力资源总监免职",
@@ -1037,7 +1057,7 @@
         "date": 1788747766240,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "韩元升至两年高点，外资已连日流入韩国股市",
@@ -1047,7 +1067,7 @@
         "date": 1788747637000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "摩尔线程回应20cm跌停：2500万股解禁，请理性看待",
@@ -1057,7 +1077,7 @@
         "date": 1788747501522,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "光洋股份：公司对PCB业务板块未来盈利能力持肯定态度",
@@ -1067,7 +1087,7 @@
         "date": 1788747363000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "六部门：积极支持符合条件的涉农企业上市融资",
@@ -1077,7 +1097,7 @@
         "date": 1788746860209,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "成都：到2028年国家和省级专精特新企业数量大幅提升",
@@ -1087,7 +1107,7 @@
         "date": 1788746591144,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "腾达科技：对全部产品进行价格下调",
@@ -1097,7 +1117,7 @@
         "date": 1788746229000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "创业板指涨超2%",
@@ -1107,35 +1127,15 @@
         "date": 1788746174104,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "斯迪克：公司OCA光学胶、AR减反膜产品已实现对国内部分折叠屏终端机型的供货",
-        "url": "https://m.36kr.com/newsflashes/3972686580855303",
-        "desc": "36氪获悉，斯迪克在互动平台表示，折叠屏及多折形态终端受到行业较高关注。公司OCA光学胶、AR减反膜产品已实现对国内部分折叠屏终端机型的供货。随着下游终端产品不断迭代，公司积极把握市场机会，持续深化与国内头部终端客户的业务合作，供货情况随客户项目进度动态调整，具体供货规模及市场份额属于商业机密，公司不便对外披露。在显示材料赛道，公司将继续围绕国产替代方向加大研发投入，紧跟终端形态演进趋势，持续优化现有材料性能，积极拓展优质客户资源。",
-        "cover": "https://img.36krcdn.com/hsossms/20260907/v2_dde16c7daee54f8ab0e1c027c19c96a7@6433421_oswg17838oswg859oswg236_img_png",
-        "date": 1788745898000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "“六张网”建设密集推进，下半年实物工作量集中释放",
-        "url": "https://m.36kr.com/newsflashes/3972681078665729",
-        "desc": "近期，“六张网”建设迎来政策密集落地信号。国家发展改革委国家信息中心经济预测部政策仿真实验室主任、研究员肖宏伟表示，从落地节奏看，今年三季度与四季度将呈现差异化安排。三季度是施工黄金期，地方层面将加快在建项目进度、推动拟建项目尽早落地；四季度则将迎来重大项目集中开工的高峰期，对总需求的带动作用更加明显。随着资金拨付逐步到位、前期储备项目成熟度提升，更多实物工作量将在下半年集中释放。全年超7万亿元级的投资盘子里，超六成工作量有望集中在下半年兑现。（证券时报）",
-        "cover": "",
-        "date": 1788745563000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788751561801,
-    "bilibili": 1788749976502,
-    "qbitai": 1788751593953,
-    "36kr": 1788751594277
+    "thepaper": 1788752462741,
+    "bilibili": 1788751783061,
+    "qbitai": 1788752491994,
+    "36kr": 1788752492334
   },
   "failures": {}
 }
