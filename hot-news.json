@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T08:26:33Z",
+  "updatedAt": "2026-09-07T08:41:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "url": "https://www.qbitai.com/2026/09/485108.html",
+        "desc": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/99c2e12c6e564213957fdf48221ca583.webp",
+        "date": "2026-09-07T16:36:30",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
         "url": "https://www.qbitai.com/2026/09/485064.html",
         "desc": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
@@ -615,7 +625,7 @@
         "date": "2026-09-07T14:53:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
@@ -625,7 +635,7 @@
         "date": "2026-09-07T14:03:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "业内首个！“千问办公”推出“多人工作台”",
@@ -635,7 +645,7 @@
         "date": "2026-09-07T13:04:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
@@ -645,7 +655,7 @@
         "date": "2026-09-07T12:01:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
@@ -655,7 +665,7 @@
         "date": "2026-09-06T19:44:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
@@ -665,7 +675,7 @@
         "date": "2026-09-06T12:40:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "GPT-6带火循环Transformer，阿里早已布局",
@@ -675,7 +685,7 @@
         "date": "2026-09-05T23:07:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
@@ -685,7 +695,7 @@
         "date": "2026-09-05T22:46:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
@@ -695,7 +705,7 @@
         "date": "2026-09-05T12:24:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
@@ -705,7 +715,7 @@
         "date": "2026-09-05T12:18:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
@@ -715,7 +725,7 @@
         "date": "2026-09-05T09:17:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
@@ -725,7 +735,7 @@
         "date": "2026-09-04T17:23:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
@@ -735,7 +745,7 @@
         "date": "2026-09-04T17:19:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
@@ -745,7 +755,7 @@
         "date": "2026-09-04T16:57:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
@@ -755,7 +765,7 @@
         "date": "2026-09-04T15:09:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
@@ -765,7 +775,7 @@
         "date": "2026-09-04T14:54:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
@@ -775,7 +785,7 @@
         "date": "2026-09-04T13:53:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
@@ -785,7 +795,7 @@
         "date": "2026-09-04T13:48:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
@@ -795,7 +805,7 @@
         "date": "2026-09-04T12:03:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
@@ -805,7 +815,7 @@
         "date": "2026-09-04T09:40:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
@@ -815,7 +825,7 @@
         "date": "2026-09-04T05:57:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
@@ -825,7 +835,7 @@
         "date": "2026-09-04T05:50:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "“没有Token的CS学生，应立即退学”",
@@ -835,7 +845,7 @@
         "date": "2026-09-03T19:32:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
@@ -845,7 +855,7 @@
         "date": "2026-09-03T19:25:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
@@ -855,7 +865,7 @@
         "date": "2026-09-03T18:18:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "陈大年复出，入局大模型",
@@ -865,7 +875,7 @@
         "date": "2026-09-03T18:13:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
@@ -875,7 +885,7 @@
         "date": "2026-09-03T11:16:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
@@ -885,7 +895,7 @@
         "date": "2026-09-03T09:31:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
@@ -893,16 +903,6 @@
         "desc": "4激光雷达+双M100上车",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/da383f41f8be9c2962ae3e9b1eee20eb.png",
         "date": "2026-09-03T09:27:05",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "今年最难的机器人Demo，“机器人含量”为0",
-        "url": "https://www.qbitai.com/2026/09/483351.html",
-        "desc": "遥操，可能真的危险了",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/WX20260902-184212@2x.png",
-        "date": "2026-09-03T08:51:16",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "欧佩克+七国将10月产量配额维持在9月水平",
+        "url": "https://m.36kr.com/newsflashes/3973086015205638",
+        "desc": "欧佩克及其盟友中的七个核心产油国周日（9月6日）召开视频会议，决定将2026年10月原油产量目标维持在9月水平，不再继续上调配额。这是该核心产油国集团自今年4月以来连续数月提高产量目标后，首次选择暂停进一步增产，显示在此前逐步回吐一部分自愿减产后，欧佩克+开始重新评估全球原油供需和价格环境。（新浪财经）",
+        "cover": "",
+        "date": 1788770280000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "Uber据悉聘请银行安排首次发行欧元债券",
+        "url": "https://m.36kr.com/newsflashes/3973088587067911",
+        "desc": "据报道，Uber已委托多家银行安排其首次多期限欧元债券发行。据悉，高盛、法国巴黎银行、美银证券、德意志银行和摩根士丹利将于今日和9月8日安排一系列固定收益投资者电话会议。知情人士称，在市场条件允许的情况下，Uber预计将发行以欧元计价、在美国证券交易委员会注册的高级无担保基准债券，期限包括3年、6年、8年、12年和20年，均为固定利率债券。（界面）",
+        "cover": "",
+        "date": 1788770082706,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "港交所：8月底证券市场市价总值为47.2万亿港元，同比上升1%",
         "url": "https://m.36kr.com/newsflashes/3973079737627136",
         "desc": "36氪获悉，9月7日，香港交易所数据显示，证券市场市价总值于2026年8月底为47.2万亿港元，较上月底的46.8万亿港元上升1%，并较去年同期的46.6万亿港元上升1%。2026年8月的平均每日成交金额为2534亿港元。2026年首八个月的平均每日成交金额为2825亿港元，较去年同期的2483亿港元上升14%。2026年首八个月有106家新上市公司，较去年同期的59家上升80%。2026年首八个月的首次公开招股集资金额为3424亿港元，较去年同期1351亿港元上升153%。2026年首八个月的总集资金额为6513亿港元，较去年同期的3711亿港元上升76%。",
@@ -937,7 +957,7 @@
         "date": 1788769542579,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "国家发展改革委运行局组织安排提高疆煤外运规模",
@@ -947,7 +967,7 @@
         "date": 1788769244758,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "国家外汇局：截至8月末我国外汇储备规模为34383亿美元，升幅0.57%",
@@ -957,7 +977,7 @@
         "date": 1788769151328,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "余承东：Mate XT 2三折叠手机售价19999元起",
@@ -967,7 +987,7 @@
         "date": 1788769082997,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "香山股份：筹划购买资产事项，2026年9月7日股票继续停牌",
@@ -977,7 +997,7 @@
         "date": 1788768995000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "美元兑日元日内跌超1%下破155关口",
@@ -987,7 +1007,7 @@
         "date": 1788768804537,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "恒指收跌0.93%，恒生科技指数跌0.92%",
@@ -997,7 +1017,7 @@
         "date": 1788768645248,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "中国央行连续第22个月增持黄金",
@@ -1007,7 +1027,7 @@
         "date": 1788768406281,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "“氦星光联”完成超5亿元A2轮融资",
@@ -1017,7 +1037,7 @@
         "date": 1788768196000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "东风汽车旗下神龙汽车公司增资至88.18亿，增幅约26%",
@@ -1027,7 +1047,7 @@
         "date": 1788767951000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "长鑫科技：上半年合同负债规模下降系二季度订单集中交付并结转收入所致",
@@ -1037,7 +1057,7 @@
         "date": 1788767878115,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "驭势科技正式纳入港股通",
@@ -1047,7 +1067,7 @@
         "date": 1788767578962,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "工信部：到2030年信息基础设施累计投资3.8万亿元，智能算力规模达9800EFLOPS",
@@ -1057,7 +1077,7 @@
         "date": 1788767405221,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "海通发展增资至13.76亿，增幅约50%",
@@ -1067,7 +1087,7 @@
         "date": 1788766969717,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "长鑫科技：将适时启动分红方案论证",
@@ -1077,7 +1097,7 @@
         "date": 1788766875402,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "工信部：加强超高速大容量光传输、光接入、海缆光通信技术研发，加快空芯光纤等新型光纤技术研发及应用",
@@ -1087,7 +1107,7 @@
         "date": 1788766543225,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "工信部：适时启动6G商用，积极开展万兆光网试点建设",
@@ -1097,7 +1117,7 @@
         "date": 1788766508211,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "工信部：加强算力关键共性技术研发与应用，探索太空算力技术前瞻研究及生态培育",
@@ -1107,35 +1127,15 @@
         "date": 1788766454605,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "工信部：到2030年，全面建成覆盖完善、性能领先的新一代通信网",
-        "url": "https://m.36kr.com/newsflashes/3973028355961352",
-        "desc": "36氪获悉，工业和信息化部印发《信息通信行业发展“十五五”规划》。其中提到，到2030年，全面建成覆盖完善、性能领先的新一代通信网，加快形成技术先进、安全可控的信息通信产业体系，有效构建技管结合、敏捷高效的信息通信行业治理体系，打造全域联动、实战实用的网络和数据安全保障能力，行业赋能水平与全球化发展水平进一步提升，信息通信行业现代化迈出坚实步伐，为到2035年基本实现信息通信行业现代化奠定坚实基础。",
-        "cover": "",
-        "date": 1788766406491,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "商务部：调查机关初步认定原产于日本的进口二氯二氢硅存在倾销",
-        "url": "https://m.36kr.com/newsflashes/3973019085107717",
-        "desc": "36氪获悉，商务部公告，调查机关初步认定，原产于日本的进口被调查产品存在倾销，国内二氯二氢硅产业受到实质损害，而且倾销与实质损害之间存在因果关系。根据《反倾销条例》第二十八条和第二十九条的规定，调查机关决定采用保证金形式实施临时反倾销措施。自2026年9月8日起，进口经营者在进口被调查产品时，应依据本初裁决定所确定的各公司的保证金比率向中华人民共和国海关提供相应的保证金。",
-        "cover": "",
-        "date": 1788765840643,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788769563496,
-    "bilibili": 1788769572387,
-    "qbitai": 1788769593249,
-    "36kr": 1788769593679
+    "thepaper": 1788770463598,
+    "bilibili": 1788769028224,
+    "qbitai": 1788770494982,
+    "36kr": 1788770495406
   },
   "failures": {}
 }
