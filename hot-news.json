@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T12:26:35Z",
+  "updatedAt": "2026-09-07T12:41:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -158,19 +158,19 @@
         "hotTitle": "BLG战胜AL LPL季后赛"
       },
       {
-        "title": "仙术杯#9 决赛day2",
-        "url": "https://www.bilibili.com/video/BV1jobs6GEE3",
+        "title": "仙术杯#9 决赛day1",
+        "url": "https://www.bilibili.com/video/BV1qrbj6nEKs",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "仙术杯#9 决赛day2 @秉性h 远程战术分队 | 空弦开局 | 混沌源阶理论+畸症 | 分数：4211 @MR流星飞 破坏战术分队 | 圣聆初雪开局 | 混沌源阶理论+畸症 | 分数：3135 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
-        "content": "仙术杯#9 决赛day2 @秉性h 远程战术分队 | 空弦开局 | 混沌源阶理论+畸症 | 分数：4211 @MR流星飞 破坏战术分队 | 圣聆初雪开局 | 混沌源阶理论+畸症 | 分数：3135 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
-        "bvid": "BV1jobs6GEE3",
+        "description": "仙术杯#9 决赛day1 @有毒的粽子 破坏战术分队 | 予愿安洁莉娜开局 | 痛苦将息+畸症 | 分数：3796 @天离beta 远程战术分队 | 维什戴尔开局 | 混沌源阶理论+畸症 | 分数：2951 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
+        "content": "仙术杯#9 决赛day1 @有毒的粽子 破坏战术分队 | 予愿安洁莉娜开局 | 痛苦将息+畸症 | 分数：3796 @天离beta 远程战术分队 | 维什戴尔开局 | 混沌源阶理论+畸症 | 分数：2951 专题页链接：https://live.bilibili.com/blackboard/era/5sWSFsRb4xZZ2hHC.html",
+        "bvid": "BV1qrbj6nEKs",
         "author": "龙哥哥今天又鸽了",
-        "duration": "351:53",
+        "duration": "307:15",
         "cover": "//i1.hdslb.com/bfs/archive/645e88a4bb794a26349757a0be86e3c6ece3c223.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jobs6GEE3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qrbj6nEKs&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "明日方舟仙术杯9决赛day3"
       },
       {
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "小米澎程N70Pro发布，售价20.99万",
+        "url": "https://m.36kr.com/newsflashes/3973327826907393",
+        "desc": "36氪获悉，在小米秋季发布会上，小米澎程N70pro正式发布，售价20.99万元起。",
+        "cover": "",
+        "date": 1788784684747,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "SpaceX竞争对手完成历史性首飞，称行业正 “迫切渴求” 更多火箭运力",
+        "url": "https://m.36kr.com/newsflashes/3973322087952649",
+        "desc": "德国火箭企业Isar Aerospace上周末首次成功实现入轨，为欧洲商业航天行业树立一座里程碑。该公司计划增加发射频次，以此满足其口中蓬勃增长的市场需求。公司首席商务官斯特拉・吉伦周一接受采访时表示，企业当前重心是扩大生产规模；航天行业正“迫切渴求”更多发射运力，伊萨尔航空航天手握超100亿欧元（折合116亿美元）的项目储备订单。（新浪财经）",
+        "cover": "",
+        "date": 1788784334469,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "长源东谷：拟发行股份收购康豪机电100%股权，作价50.1亿元",
         "url": "https://m.36kr.com/newsflashes/3973315688050945",
         "desc": "36氪获悉，长源东谷公告，公司拟通过发行股份方式向湖北芯源动力科技集团有限公司购买襄阳康豪机电工程有限公司100%股权，交易作价50.1亿元，并向不超过35名特定投资者发行股份募集配套资金，金额不超过20亿元。本次交易构成关联交易和重大资产重组，不构成重组上市；发行价格为29.75元/股，拟发行1.68亿股，占发行后总股本34.19%。交易尚需股东会批准、上交所审核通过及中国证监会注册同意等。",
@@ -937,7 +957,7 @@
         "date": 1788783943850,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "三星电子或明年1月首秀自研人形机器人",
@@ -947,7 +967,7 @@
         "date": 1788783451322,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "中金公司：吸收合并东兴证券和信达证券已获证监会批复同意，9月15日起停牌",
@@ -957,7 +977,7 @@
         "date": 1788783213910,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "江波龙：子公司参投合伙企业认缴规模扩至10.57亿元",
@@ -967,7 +987,7 @@
         "date": 1788783006000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "龙版传媒：公司AI视频业务6月产生营收约80元，7月产生营收约7.5万元，占经审计2025年公司营业收入比例不足0.01%",
@@ -977,7 +997,7 @@
         "date": 1788782730000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "华天酒店：不存在筹划资产收购或重组等重大事项",
@@ -987,7 +1007,7 @@
         "date": 1788782328000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "深圳具身智能企业璇玑动力首次亮相IFA，重载四足机器人获创新奖",
@@ -997,7 +1017,7 @@
         "date": 1788781977000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "蓝晓科技：与青海恒信融签订盐湖提锂5972.56万元合同",
@@ -1007,7 +1027,7 @@
         "date": 1788781595000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "小米18 Fold售价公布，10999元起售",
@@ -1017,7 +1037,7 @@
         "date": 1788781423238,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "福莱新材：实际控制人及一致行动人拟转让5.00%股份",
@@ -1027,7 +1047,7 @@
         "date": 1788781374000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "韩国在消费复苏滞后的情况下押注人工智能热潮",
@@ -1037,7 +1057,7 @@
         "date": 1788781050000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "机构今日买入景旺电子等27股，卖出摩尔线程14.62亿元",
@@ -1047,7 +1067,7 @@
         "date": 1788780710000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "小米发布首款“中折叠”手机小米18 Fold",
@@ -1057,7 +1077,7 @@
         "date": 1788780249129,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "神剑股份：因涉嫌内幕交易，副总经理吴德清被证监会立案",
@@ -1067,7 +1087,7 @@
         "date": 1788780019000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "宇树科技：首次实现人形机器人全自主搏击",
@@ -1077,7 +1097,7 @@
         "date": 1788779718641,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "燧原科技：科创板IPO发行结果公布，网上弃购16874股由主承销商包销",
@@ -1087,7 +1107,7 @@
         "date": 1788779476949,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "日本或抛售美债，为创纪录日元干预行动提供资金",
@@ -1097,7 +1117,7 @@
         "date": 1788779412000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "上周无新增IPO受理企业",
@@ -1107,35 +1127,15 @@
         "date": 1788779068000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "高争民爆：控股股东变更为地矿集团",
-        "url": "https://m.36kr.com/newsflashes/3973213725192713",
-        "desc": "36氪获悉，高争民爆公告，公司控股股东国有股权无偿划转完成过户登记，控股股东由藏建集团变更为地矿集团，实际控制人仍为西藏自治区国资委。本次划转涉及股份9419.56万股，占总股本的34%。",
-        "cover": "",
-        "date": 1788778675000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "诺瓦星云：子公司拟不超6.5亿元投建未来显示湾区科技园项目",
-        "url": "https://m.36kr.com/newsflashes/3973203926692096",
-        "desc": "36氪获悉，诺瓦星云公告，公司全资子公司诺瓦数字技术拟投资建设未来显示湾区科技园项目，项目投资总额不超过6.5亿元（含土地竞买款），项目资金来源为公司或诺瓦数字技术自有资金、自筹资金。",
-        "cover": "",
-        "date": 1788778379000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1788783963323,
-    "bilibili": 1788783972222,
-    "qbitai": 1788783994734,
-    "36kr": 1788783995136
+    "thepaper": 1788784863171,
+    "bilibili": 1788783966141,
+    "qbitai": 1788784894897,
+    "36kr": 1788784895307
   },
   "failures": {}
 }
