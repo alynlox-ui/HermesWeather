@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T21:41:34Z",
+  "updatedAt": "2026-09-19T21:56:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,26 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "中国代表团首金！中国队获得现代五项女子团体金牌",
-        "url": "https://www.bilibili.com/video/BV1Fvei6REb1",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Fvei6REb1",
-        "author": "环球网",
-        "duration": "0:10",
-        "cover": "//i0.hdslb.com/bfs/archive/7c7bfb337149c9396c694638c00edafa78de0159.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Fvei6REb1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国代表团亚运首金"
-      },
-      {
         "title": "无人扶我青云志，我自踏雪至山巅，世界赛我们来了！",
         "url": "https://www.bilibili.com/video/BV1J1eh6kEkm",
         "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -158,26 +142,58 @@
         "hotTitle": "回顾IG从涅槃到进世界赛之路"
       },
       {
-        "title": "首金来了！义勇军进行曲响彻名古屋亚运会颁奖现场",
-        "url": "https://www.bilibili.com/video/BV1K6ev6aECo",
+        "title": "IG.Theshy专访：希望给大家留下好印象，想成为第一个名人堂上单",
+        "url": "https://www.bilibili.com/video/BV11Hei6YEd4",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "恭喜IG一路过关斩将拿下世界赛名额！ 世界赛加油！",
+        "content": "恭喜IG一路过关斩将拿下世界赛名额！ 世界赛加油！",
+        "bvid": "BV11Hei6YEd4",
+        "author": "心语悦无言",
+        "duration": "6:0",
+        "cover": "//i1.hdslb.com/bfs/archive/bab1cc5ad8c498cecb0817324db45d53c6d9dd96.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11Hei6YEd4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TheShy想成为第一个名人堂上单"
+      },
+      {
+        "title": "挑战把暑期档电影做成游戏！（点击即玩）",
+        "url": "https://www.bilibili.com/video/BV19R8i6KEaP",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1K6ev6aECo",
-        "author": "央视新闻",
-        "duration": "0:52",
-        "cover": "//i0.hdslb.com/bfs/archive/72a41a902c9ae4119bb40d5298803a58af702c09.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1K6ev6aECo&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国队亚运首金颁奖现场"
+        "description": "恐龙生存，点击即玩！https://www.bilibili.com/toy/JueMingJie/index.html 进入游戏前的短暂黑屏是在加载，稍等一会儿应该就能进去，有bug可以反馈在评论区哦，后续会看情况更新一版，下期牛来见！",
+        "content": "恐龙生存，点击即玩！https://www.bilibili.com/toy/JueMingJie/index.html 进入游戏前的短暂黑屏是在加载，稍等一会儿应该就能进去，有bug可以反馈在评论区哦，后续会看情况更新一版，下期牛来见！",
+        "bvid": "BV19R8i6KEaP",
+        "author": "火山哥哥",
+        "duration": "3:15",
+        "cover": "//i0.hdslb.com/bfs/archive/4b2cdaf02c305377401a69343ca0c5b0dbf9bd72.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19R8i6KEaP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主挑战10分钟做6道菜"
+      },
+      {
+        "title": "祝贺！我国又双叒成功发射一箭五星 >>",
+        "url": "https://www.bilibili.com/video/BV1q5411y7FQ",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "1月23日12时03分，力箭一号遥三商业运载火箭在我国酒泉卫星发射中心发射升空，将搭载的泰景一号03星、泰景二号02星/04 星、泰景三号02星、泰景四号03星等5颗卫星顺利送入预定轨道，飞行试验任务获得圆满成功。",
+        "content": "1月23日12时03分，力箭一号遥三商业运载火箭在我国酒泉卫星发射中心发射升空，将搭载的泰景一号03星、泰景二号02星/04 星、泰景三号02星、泰景四号03星等5颗卫星顺利送入预定轨道，飞行试验任务获得圆满成功。",
+        "bvid": "BV1q5411y7FQ",
+        "author": "共青团中央",
+        "duration": "1:2",
+        "cover": "//i0.hdslb.com/bfs/archive/5c62fc5060500e4a677f861b7868d4b1e0ffa55d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1q5411y7FQ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "我国成功发射一箭四星"
       },
       {
         "title": "牧神记第102集，秦牧玉香楼暴打转世班公措！酒毒巫王随太子离京赈灾！",
         "url": "https://www.bilibili.com/video/BV1RAei61ESQ",
         "desc": "",
-        "rank": 4,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -190,90 +206,42 @@
         "hotTitle": "秦牧连斩遣康使"
       },
       {
-        "title": "最美中国红！中国代表团亮相亚运会开幕式！",
-        "url": "https://www.bilibili.com/video/BV1Peeb6GEzS",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Peeb6GEzS",
-        "author": "央视新闻",
-        "duration": "1:44",
-        "cover": "//i0.hdslb.com/bfs/archive/51caa23df96672f24780be16e58e91bfeac0fb22.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Peeb6GEzS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国代表团亚运会第二金"
-      },
-      {
-        "title": "名古屋亚运会铁人三项男子个人赛，中国队选手张玺瑞夺得银牌，另一位中国选手范俊杰获得第五名",
-        "url": "https://www.bilibili.com/video/BV1caei6oEGn",
+        "title": "中国男篮vs日本 进球全记录&聊聊这场球 亚运会半决赛！",
+        "url": "https://www.bilibili.com/video/BV1J6eb6MENQ",
         "desc": "",
         "rank": 6,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1caei6oEGn",
-        "author": "大象新闻",
-        "duration": "0:33",
-        "cover": "//i0.hdslb.com/bfs/archive/14f1f0771a0b7f3ac51f00014d57cbf19653eee2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1caei6oEGn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "都努力了 输了 没事 都努力了 感谢关注！",
+        "content": "都努力了 输了 没事 都努力了 感谢关注！",
+        "bvid": "BV1J6eb6MENQ",
+        "author": "阿前ReStep",
+        "duration": "20:36",
+        "cover": "//i1.hdslb.com/bfs/archive/91cd7577019f38c519c0041d7b12ec761ff427ad.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1J6eb6MENQ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "中国队亚运会连夺三金"
       },
       {
-        "title": "！？一箭45星？！",
-        "url": "https://www.bilibili.com/video/BV1MJgG65Eqf",
+        "title": "首金来了！义勇军进行曲响彻名古屋亚运会颁奖现场",
+        "url": "https://www.bilibili.com/video/BV1K6ev6aECo",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1MJgG65Eqf",
-        "author": "Sunlight_Max",
-        "duration": "2:33",
-        "cover": "//i2.hdslb.com/bfs/archive/fd4f15bf6ae3ca095de2f6250fffed8b62057a38.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MJgG65Eqf&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "我国成功发射一箭四星"
-      },
-      {
-        "title": "创造奇迹！IG晋级世界赛把多少人看懵了？从涅槃三连跳杀进S赛，四号种子拿得真不容易",
-        "url": "https://www.bilibili.com/video/BV1P6eY69EnF",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "相关游戏：英雄联盟 简介补充：恭喜IG3:1战胜JDG拿下四号种子晋级世界赛，今年和去年不同，今年LPL和LCK的四号种子都不需要打入围赛，所以IG将直接进入世界赛瑞士轮，这个赛季IG真的太传奇了，跌入涅槃之后，一穿四获得了冒泡赛名额，然后又在冒泡赛杀进世界赛，上一个完成这种三连跳进世界赛的战队，还要追溯到10年前的IM战队，如今IG时隔十年再度打出三连跳，真的太让人佩服了！",
-        "content": "相关游戏：英雄联盟 简介补充：恭喜IG3:1战胜JDG拿下四号种子晋级世界赛，今年和去年不同，今年LPL和LCK的四号种子都不需要打入围赛，所以IG将直接进入世界赛瑞士轮，这个赛季IG真的太传奇了，跌入涅槃之后，一穿四获得了冒泡赛名额，然后又在冒泡赛杀进世界赛，上一个完成这种三连跳进世界赛的战队，还要追溯到10年前的IM战队，如今IG时隔十年再度打出三连跳，真的太让人佩服了！",
-        "bvid": "BV1P6eY69EnF",
-        "author": "呆梦demo",
-        "duration": "8:50",
-        "cover": "//i1.hdslb.com/bfs/archive/a4aa879e54d3fed2ffd20f51a15575f660b8ea63.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1P6eY69EnF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "IG拿下四号种子有多不易"
-      },
-      {
-        "title": "“杰”克逊 世界巡演",
-        "url": "https://www.bilibili.com/video/BV1yuet6zENm",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1yuet6zENm",
-        "author": "快乐阿依",
-        "duration": "1:14",
-        "cover": "//i0.hdslb.com/bfs/archive/c56757f17deda8c5aba45229d569ecdf3c3e4487.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yuet6zENm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "杰哥世界巡演"
+        "bvid": "BV1K6ev6aECo",
+        "author": "央视新闻",
+        "duration": "0:52",
+        "cover": "//i0.hdslb.com/bfs/archive/72a41a902c9ae4119bb40d5298803a58af702c09.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1K6ev6aECo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国队亚运首金颁奖现场"
       },
       {
         "title": "【真实解说】神锋降临！巴萨3比1逆转塞维利亚！拉菲尼亚4射3中，上演帽子戏法！队友集体玩飞机，亚马尔两送助攻！",
         "url": "https://www.bilibili.com/video/BV1CWee6WEyw",
         "desc": "",
-        "rank": 10,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -286,52 +254,84 @@
         "hotTitle": "巴萨3-1逆转塞维利亚"
       },
       {
-        "title": "【萌黄一槽】大蛇丸[传说中的三忍]全技能爆料！随“形”应变？！",
-        "url": "https://www.bilibili.com/video/BV19Mei6GEPZ",
+        "title": "赛车不仅仅是竞速，更是创意的展现！",
+        "url": "https://www.bilibili.com/video/BV1SQrrYyESg",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1SQrrYyESg",
+        "author": "游戏大魔王QAQ",
+        "duration": "1:2",
+        "cover": "//i0.hdslb.com/bfs/archive/90a731eeece0b8fd88d64e5f12abefab8b1b55e1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SQrrYyESg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主学赛车从出洋相到逆袭第一"
+      },
+      {
+        "title": "重温1990年北京亚运会亚运村的美食",
+        "url": "https://www.bilibili.com/video/BV1tseb6EErF",
+        "desc": "",
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "包含100种北京风味小吃，七天不重样！",
+        "content": "包含100种北京风味小吃，七天不重样！",
+        "bvid": "BV1tseb6EErF",
+        "author": "央视网快看",
+        "duration": "1:43",
+        "cover": "//i2.hdslb.com/bfs/archive/6c199f9d8a75d550450f054202cdbd0fc9e8135d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tseb6EErF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "重温1990年北京亚运村美食"
+      },
+      {
+        "title": "最投入！传说大蛇丸人蛇切换确认！技能爆料来袭！",
+        "url": "https://www.bilibili.com/video/BV1x6ec6eEba",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "据说被大蛇丸盯上的人都无法摆脱缠绕，快随萌黄一同探查他的实力！",
-        "content": "据说被大蛇丸盯上的人都无法摆脱缠绕，快随萌黄一同探查他的实力！",
-        "bvid": "BV19Mei6GEPZ",
-        "author": "火影忍者手游情报君",
-        "duration": "5:27",
-        "cover": "//i2.hdslb.com/bfs/archive/8351781ae6079eaadb7df5eb8b0f6f820faa4b05.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19Mei6GEPZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "最投入！传说大蛇丸人蛇切换确认！技能爆料来袭！",
+        "content": "最投入！传说大蛇丸人蛇切换确认！技能爆料来袭！",
+        "bvid": "BV1x6ec6eEba",
+        "author": "逆反日",
+        "duration": "1:15",
+        "cover": "//i0.hdslb.com/bfs/archive/c874a7e03f317b3c939a2cc22123f4fcc939fe87.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1x6ec6eEba&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "火影传说三忍大蛇丸全爆料"
       },
       {
-        "title": "GLM 5.3-FlashX发布，ZCode被曝后台上传用户数据 | 9月18日AI日报第522期",
-        "url": "https://www.bilibili.com/video/BV1AueU6cESy",
+        "title": "【水晶哥解说】IG3：1JDG精华剪辑！恭喜IG成功进入世界赛！作为四号种子出征！",
+        "url": "https://www.bilibili.com/video/BV1fmeh6gEDb",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "今日内容： 1·智谱发布GLM 5.3 Flash X模型[00:03] 2·阿里推出 Qwen3.8 Omni Flash[00:59] 3·华为正式发布昇腾960超节点[01:31] 4·Win版ChatGPT推出Appshots功能[01:57] 5·Anthropic公布AI自我改进成果[02:13] 6·Kimi Code桌面端正式发布[02:56]",
-        "content": "今日内容： 1·智谱发布GLM 5.3 Flash X模型[00:03] 2·阿里推出 Qwen3.8 Omni Flash[00:59] 3·华为正式发布昇腾960超节点[01:31] 4·Win版ChatGPT推出Appshots功能[01:57] 5·Anthropic公布AI自我改进成果[02:13] 6·Kimi Code桌面端正式发布[02:56]",
-        "bvid": "BV1AueU6cESy",
-        "author": "infinite灵感港",
-        "duration": "3:18",
-        "cover": "//i2.hdslb.com/bfs/archive/84dec602828c67c43e96781e1dceb3ed36096648.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AueU6cESy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "智谱发布GLM 5.3 FlashX"
+        "description": "",
+        "content": "",
+        "bvid": "BV1fmeh6gEDb",
+        "author": "小鱼鱼鱼鱼z",
+        "duration": "34:30",
+        "cover": "//i1.hdslb.com/bfs/archive/f9c04fc2018e2264fddd59f0feacb80adb710c54.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fmeh6gEDb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "IG拿下四号种子有多不易"
       },
       {
-        "title": "自我意淫、登味溢出，包贝尔拍给自己的情书！",
-        "url": "https://www.bilibili.com/video/BV1JseC6yE1V",
+        "title": "最美中国红！中国代表团亮相亚运会开幕式！",
+        "url": "https://www.bilibili.com/video/BV1Peeb6GEzS",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "包贝尔你到底是喜欢当导演还是习惯性恶心观众！ 如果你也喜欢本期视频，就请给我们个一键三连吧！ 微博关注@话很多的小姐姐们，来和我们吹夸夸鸭~",
-        "content": "包贝尔你到底是喜欢当导演还是习惯性恶心观众！ 如果你也喜欢本期视频，就请给我们个一键三连吧！ 微博关注@话很多的小姐姐们，来和我们吹夸夸鸭~",
-        "bvid": "BV1JseC6yE1V",
-        "author": "话很多的小姐姐们",
-        "duration": "8:9",
-        "cover": "//i2.hdslb.com/bfs/archive/f9d30c2e5416656979708a1336cdd89916a54494.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JseC6yE1V&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "包贝尔导演的电影值得看吗"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Peeb6GEzS",
+        "author": "央视新闻",
+        "duration": "1:44",
+        "cover": "//i0.hdslb.com/bfs/archive/51caa23df96672f24780be16e58e91bfeac0fb22.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Peeb6GEzS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国代表团亚运会第二金"
       },
       {
         "title": "沙特首都利雅得遭空袭，上空传来导弹拦截的声音（编辑：赵一）",
@@ -350,26 +350,10 @@
         "hotTitle": "沙特首都遭空袭"
       },
       {
-        "title": "中秋国庆是一家",
-        "url": "https://www.bilibili.com/video/BV1SJe66nEZ7",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1SJe66nEZ7",
-        "author": "李大夯-",
-        "duration": "1:0",
-        "cover": "//i2.hdslb.com/bfs/archive/9acf0fcc431119ba36f089ef9d45c14b9d2870e5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SJe66nEZ7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中秋和国庆的请假难度belike"
-      },
-      {
         "title": "张，睿不可当。 和 艾，热情似火。《齐天》率先出战。",
         "url": "https://www.bilibili.com/video/BV1BKeh6uEZs",
         "desc": "",
-        "rank": 16,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -385,7 +369,7 @@
         "title": "【4K杜比视界】大型认亲现场!韩立是李缨宁师伯！（凡人修仙传192话名场面）",
         "url": "https://www.bilibili.com/video/BV1cLet6iEZm",
         "desc": "",
-        "rank": 17,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -398,58 +382,26 @@
         "hotTitle": "韩立李缨宁相认"
       },
       {
-        "title": "舍友把宿舍改造成飞机",
-        "url": "https://www.bilibili.com/video/BV1L1eS6sEqC",
+        "title": "中秋国庆是一家",
+        "url": "https://www.bilibili.com/video/BV1SJe66nEZ7",
         "desc": "",
-        "rank": 18,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
-        "description": "不是国庆机票买不起，而是宿舍航班更有性价比！",
-        "content": "不是国庆机票买不起，而是宿舍航班更有性价比！",
-        "bvid": "BV1L1eS6sEqC",
-        "author": "小叮当的伙伴们",
-        "duration": "4:9",
-        "cover": "//i0.hdslb.com/bfs/archive/e0b2662d6029bbaa1e830ef0252c270e15108622.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1L1eS6sEqC&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "把宿舍改造成飞机舱"
-      },
-      {
-        "title": "【琵琶曲】门捷列夫vs牛顿，你更喜欢哪一科目呢？",
-        "url": "https://www.bilibili.com/video/BV1WbeS6KE7s",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "感谢@浪浪山小蛋仔 @吮指原味鲫 视频灵感来源YT @Kotte Animation 素材B站发布 BV1qHf9YeEWY",
-        "content": "感谢@浪浪山小蛋仔 @吮指原味鲫 视频灵感来源YT @Kotte Animation 素材B站发布 BV1qHf9YeEWY",
-        "bvid": "BV1WbeS6KE7s",
-        "author": "绿化锂",
-        "duration": "1:1",
-        "cover": "//i0.hdslb.com/bfs/archive/37bb3b5bcccc0e0aacba95bda2c29cc5864e92f8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WbeS6KE7s&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "琵琶曲 门捷列夫vs牛顿"
-      },
-      {
-        "title": "《花骨朵》亚细亚旷世奇才/洛天依",
-        "url": "https://www.bilibili.com/video/BV16veP6eEeC",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "我想要，死在春天里，红花作衣绿地作席，野蛮生长 在春泥，养万物生我饲衣鱼 歌名：《花骨朵》 作词：亚细亚旷世奇才 作曲：亚细亚旷世奇才 演唱：洛天依 混音：歪歪Mixing 母带：谢天驰 A&R:百万/说唱刷怪笼 调校：@Creuzer 动画：@脂山 @大史仔仔 特别感谢：@AA呈",
-        "content": "我想要，死在春天里，红花作衣绿地作席，野蛮生长 在春泥，养万物生我饲衣鱼 歌名：《花骨朵》 作词：亚细亚旷世奇才 作曲：亚细亚旷世奇才 演唱：洛天依 混音：歪歪Mixing 母带：谢天驰 A&R:百万/说唱刷怪笼 调校：@Creuzer 动画：@脂山 @大史仔仔 特别感谢：@AA呈",
-        "bvid": "BV16veP6eEeC",
-        "author": "亚细亚旷世奇才",
-        "duration": "2:51",
-        "cover": "//i0.hdslb.com/bfs/archive/d47d936f14f9fd33f70926014771ae60f75970f1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16veP6eEeC&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "亚细亚洛天依中式梦核"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1SJe66nEZ7",
+        "author": "李大夯-",
+        "duration": "1:0",
+        "cover": "//i2.hdslb.com/bfs/archive/9acf0fcc431119ba36f089ef9d45c14b9d2870e5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SJe66nEZ7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中秋和国庆的请假难度belike"
       },
       {
         "title": "变 形 强 强 【B站笑点大赛】",
         "url": "https://www.bilibili.com/video/BV1jaer6wEWm",
         "desc": "",
-        "rank": 21,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -462,122 +414,26 @@
         "hotTitle": "变形金刚版华强买瓜"
       },
       {
-        "title": "年薪2000万总裁爱上二本实习生？大后果比大结果先来！《早春晴朗》吐槽",
-        "url": "https://www.bilibili.com/video/BV1BNeQ68EGJ",
+        "title": "早餐必备茶叶蛋，还不会做的赶快学起来吧~",
+        "url": "https://www.bilibili.com/video/BV1h2421F74u",
         "desc": "",
-        "rank": 22,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "第一要务是出来找个班上 如果观众UU们有笑一下的话，可以给小坨一个一键三连嘛~谢谢观众UU们~记得开心哦~",
-        "content": "第一要务是出来找个班上 如果观众UU们有笑一下的话，可以给小坨一个一键三连嘛~谢谢观众UU们~记得开心哦~",
-        "bvid": "BV1BNeQ68EGJ",
-        "author": "蜡笔小坨恰恰恰",
-        "duration": "38:39",
-        "cover": "//i2.hdslb.com/bfs/archive/8055e68b0eec502999d420bf14c1dc8352d27e55.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BNeQ68EGJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "锐评早春晴朗人物设定"
-      },
-      {
-        "title": "终于有科学家研究茶叶蛋咋煮好吃了！【主播说三农】",
-        "url": "https://www.bilibili.com/video/BV1RSe46pE8T",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1RSe46pE8T",
-        "author": "央视农业",
-        "duration": "4:28",
-        "cover": "//i0.hdslb.com/bfs/archive/1145027a86b44a94b9d4c230584ccfacd1e612ad.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RSe46pE8T&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "简单几步，营养又好吃的早餐快准备起来吧",
+        "content": "简单几步，营养又好吃的早餐快准备起来吧",
+        "bvid": "BV1h2421F74u",
+        "author": "范大厨来了",
+        "duration": "2:35",
+        "cover": "//i2.hdslb.com/bfs/archive/084531f47a17b2a130ac3abe42099b51a1a96c40.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1h2421F74u&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "中国科研团队钻研茶叶蛋做法"
-      },
-      {
-        "title": "嘴馋，是身体缺营养的特殊信号？【鉴定家庭群热门视频】",
-        "url": "https://www.bilibili.com/video/BV1uue16aEZ1",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "如果某一天突然想吃面包，这是想吃面包的特殊信号。 如果某一天突然想吃蛋糕，这是想吃蛋糕的特殊信号。 如果某一天突然想吃炸鸡，这是大脑提醒你想吃炸鸡。 如果某一天突然想吃薯片，这是想吃薯片的一些表现。 如果某一天你突然想吃肉，这是身体告诉你它想吃肉。 如果某天突然想吃巧克力，这是身体在说它馋巧克力。",
-        "content": "如果某一天突然想吃面包，这是想吃面包的特殊信号。 如果某一天突然想吃蛋糕，这是想吃蛋糕的特殊信号。 如果某一天突然想吃炸鸡，这是大脑提醒你想吃炸鸡。 如果某一天突然想吃薯片，这是想吃薯片的一些表现。 如果某一天你突然想吃肉，这是身体告诉你它想吃肉。 如果某天突然想吃巧克力，这是身体在说它馋巧克力。",
-        "bvid": "BV1uue16aEZ1",
-        "author": "中国食品报融媒体",
-        "duration": "9:34",
-        "cover": "//i2.hdslb.com/bfs/archive/18fc823749120363eb6201aa49451214e27643df.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uue16aEZ1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "鉴定家庭群热门视频"
-      },
-      {
-        "title": "我造了一栋可以移动的房子…",
-        "url": "https://www.bilibili.com/video/BV1ydeX65Edn",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "在2026年，我拥有了一个没有地址的家。",
-        "content": "在2026年，我拥有了一个没有地址的家。",
-        "bvid": "BV1ydeX65Edn",
-        "author": "神奇阿宇Ayu",
-        "duration": "12:13",
-        "cover": "//i1.hdslb.com/bfs/archive/69dc44d116242ea12790fb30ecde6a658041e373.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ydeX65Edn&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主自制移动城堡"
-      },
-      {
-        "title": "【阿云嘎x张彬彬】披荆斩棘三公《天后》",
-        "url": "https://www.bilibili.com/video/BV1nFeh6VELz",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1nFeh6VELz",
-        "author": "阿云嘎",
-        "duration": "5:1",
-        "cover": "//i1.hdslb.com/bfs/archive/bcc8070f564c28a8083d8661663fc8869b06fa43.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nFeh6VELz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "阿云嘎张彬彬天后故事感满满"
-      },
-      {
-        "title": "开 学 各 地 刻 板 印 象",
-        "url": "https://www.bilibili.com/video/BV1gVem6zEuh",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "内容仅供娱乐，灵感来源@霸王龙 球球大家点个三连吧 球球大家点个三连吧 球球大家点个三连吧",
-        "content": "内容仅供娱乐，灵感来源@霸王龙 球球大家点个三连吧 球球大家点个三连吧 球球大家点个三连吧",
-        "bvid": "BV1gVem6zEuh",
-        "author": "路路迷路路",
-        "duration": "0:29",
-        "cover": "//i0.hdslb.com/bfs/archive/aee56bee1f3128f7e27cb2df249651df606002f2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gVem6zEuh&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "开学各地刻板印象"
-      },
-      {
-        "title": "【我在现代当幽差】EP03 因果 【UP动画】【HiShorts!XupdreamAl短片大赛-剧情单元】",
-        "url": "https://www.bilibili.com/video/BV1wue26pE7Y",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "又又又又又久等了~~~~ 本视频由updream制作，本期又是破纪录了，成本达到了3.38w = = 朋友多多点赞投币吧，非常感谢。 另外本期可能跟前两集的风格略有出入，因为要讲述秦九的身世，希望你们也会喜欢= = 下一集又会回归日常的。 BGM：葛东琪 - 囍 裁缝铺 - 驾鹤西去",
-        "content": "又又又又又久等了~~~~ 本视频由updream制作，本期又是破纪录了，成本达到了3.38w = = 朋友多多点赞投币吧，非常感谢。 另外本期可能跟前两集的风格略有出入，因为要讲述秦九的身世，希望你们也会喜欢= = 下一集又会回归日常的。 BGM：葛东琪 - 囍 裁缝铺 - 驾鹤西去",
-        "bvid": "BV1wue26pE7Y",
-        "author": "红豆稀饭中",
-        "duration": "14:35",
-        "cover": "//i1.hdslb.com/bfs/archive/646a761cbd7afd45bdd0fb624ba04a55e2181369.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wue26pE7Y&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP动画幽差 秦九身世公开"
       },
       {
         "title": "一遭花少苦累毒，戏中人胜读十年书",
         "url": "https://www.bilibili.com/video/BV1zfet6KEZv",
         "desc": "",
-        "rank": 29,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "在花少2里崩溃忍耐，在其他地方重获新生",
@@ -590,10 +446,106 @@
         "hotTitle": "花少2如何影响嘉宾"
       },
       {
+        "title": "耻辱狂输20分！中国篮球到底有多弱？日本为什么能全面碾压？",
+        "url": "https://www.bilibili.com/video/BV1S6et6EEPR",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1S6et6EEPR",
+        "author": "太吾车神",
+        "duration": "9:12",
+        "cover": "//i2.hdslb.com/bfs/archive/af6a8311565b67ff66adf911c1a037923a51432b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1S6et6EEPR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国男篮为何会大比分溃败"
+      },
+      {
+        "title": "【琵琶曲】门捷列夫vs牛顿，你更喜欢哪一科目呢？",
+        "url": "https://www.bilibili.com/video/BV1WbeS6KE7s",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "感谢@浪浪山小蛋仔 @吮指原味鲫 视频灵感来源YT @Kotte Animation 素材B站发布 BV1qHf9YeEWY",
+        "content": "感谢@浪浪山小蛋仔 @吮指原味鲫 视频灵感来源YT @Kotte Animation 素材B站发布 BV1qHf9YeEWY",
+        "bvid": "BV1WbeS6KE7s",
+        "author": "绿化锂",
+        "duration": "1:1",
+        "cover": "//i0.hdslb.com/bfs/archive/37bb3b5bcccc0e0aacba95bda2c29cc5864e92f8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WbeS6KE7s&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "琵琶曲 门捷列夫vs牛顿"
+      },
+      {
+        "title": "外网2000万粉丝博主玩《千禧梦》，被中式文化震惊",
+        "url": "https://www.bilibili.com/video/BV15BwezGEwY",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "游戏名：千禧梦 youtube：Windah Basudara 每期视频的制作都不容易，喜欢的话不妨关注点赞转发支持一下QAQ",
+        "content": "游戏名：千禧梦 youtube：Windah Basudara 每期视频的制作都不容易，喜欢的话不妨关注点赞转发支持一下QAQ",
+        "bvid": "BV15BwezGEwY",
+        "author": "吓兔糖Here",
+        "duration": "123:50",
+        "cover": "//i0.hdslb.com/bfs/archive/37501416ab497d4b2485d3bec23f32fe3fba2963.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15BwezGEwY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "亚细亚洛天依中式梦核"
+      },
+      {
+        "title": "棋逢对手",
+        "url": "https://www.bilibili.com/video/BV1Z3eg65EkS",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "改编自原著第六回，以全新的视觉效果来演绎两人的经典大战，视觉上加入了黑猴的感觉 声明：游戏内90%配乐来自黑神话悟空，结尾配乐来自鞠婧祎壁上观",
+        "content": "改编自原著第六回，以全新的视觉效果来演绎两人的经典大战，视觉上加入了黑猴的感觉 声明：游戏内90%配乐来自黑神话悟空，结尾配乐来自鞠婧祎壁上观",
+        "bvid": "BV1Z3eg65EkS",
+        "author": "风墟AIGC",
+        "duration": "14:32",
+        "cover": "//i1.hdslb.com/bfs/archive/7646cdbcbb8b9412b8626d3444a53d60c6bb41e0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z3eg65EkS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AI重做黑神话经典大战"
+      },
+      {
+        "title": "开 学 各 地 刻 板 印 象",
+        "url": "https://www.bilibili.com/video/BV1gVem6zEuh",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "内容仅供娱乐，灵感来源@霸王龙 球球大家点个三连吧 球球大家点个三连吧 球球大家点个三连吧",
+        "content": "内容仅供娱乐，灵感来源@霸王龙 球球大家点个三连吧 球球大家点个三连吧 球球大家点个三连吧",
+        "bvid": "BV1gVem6zEuh",
+        "author": "路路迷路路",
+        "duration": "0:29",
+        "cover": "//i0.hdslb.com/bfs/archive/aee56bee1f3128f7e27cb2df249651df606002f2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gVem6zEuh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "开学各地刻板印象"
+      },
+      {
+        "title": "宿舍自制密室逃脱8《宿海诡航》",
+        "url": "https://www.bilibili.com/video/BV1E4M568EEJ",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "大型体感声光电｜《宿海诡航》 12.4分钟 2人可开 最多4人 有停单车位 遗忘之海同款世界观，公测已上线，每周免费捞人，首月免费领100抽（是抽卡，不是抽人）快来出海！！",
+        "content": "大型体感声光电｜《宿海诡航》 12.4分钟 2人可开 最多4人 有停单车位 遗忘之海同款世界观，公测已上线，每周免费捞人，首月免费领100抽（是抽卡，不是抽人）快来出海！！",
+        "bvid": "BV1E4M568EEJ",
+        "author": "小叮当的伙伴们",
+        "duration": "12:46",
+        "cover": "//i0.hdslb.com/bfs/archive/1925e9d4a4312c08afe0267f07dbff1f6ef8257e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1E4M568EEJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "把宿舍改造成飞机舱"
+      },
+      {
         "title": "【真实锐评】IG战胜JDG晋级S赛！黑子失望了人类阵容失败了 你是什么人类？",
         "url": "https://www.bilibili.com/video/BV1QBe86tEHM",
         "desc": "",
-        "rank": 30,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -604,6 +556,54 @@
         "cover": "//i0.hdslb.com/bfs/archive/f82b7fcd945bd46806d3958824b6941334a612d5.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QBe86tEHM&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "锐评IG战胜JDG晋级S赛"
+      },
+      {
+        "title": "【锐评IG战胜JDG】舒服流最终一战，嘎盘双雄！别人不敢说的，我来说！",
+        "url": "https://www.bilibili.com/video/BV1yVe86yET5",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1yVe86yET5",
+        "author": "ICE-舒服流电竞",
+        "duration": "16:18",
+        "cover": "//i0.hdslb.com/bfs/archive/43960c645b3125c714add49776f3fa8b0f0fbed4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yVe86yET5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "IG战胜JDG晋级世界赛"
+      },
+      {
+        "title": "DeepSeek 公布最新 API 峰谷计费规则；Step 5 Preview 现身知名评测网站与官方订阅【AI 早报 2026-09-20】",
+        "url": "https://www.bilibili.com/video/BV1NqeY6dEPP",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "相关链接和文字版请看：https://mp.weixin.qq.com/s/wjmt_nPWwlE65C4nPh1noA",
+        "content": "相关链接和文字版请看：https://mp.weixin.qq.com/s/wjmt_nPWwlE65C4nPh1noA",
+        "bvid": "BV1NqeY6dEPP",
+        "author": "橘鸦Juya",
+        "duration": "4:11",
+        "cover": "//i1.hdslb.com/bfs/archive/3727a10fecc4ce5a2304a0fa67ce30fb87a1ecf5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NqeY6dEPP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DeepSeek明确节假日计费规则"
+      },
+      {
+        "title": "真是绕了好大一圈啊，世界赛我来了！",
+        "url": "https://www.bilibili.com/video/BV1n1eh6kEKH",
+        "desc": "",
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1n1eh6kEKH",
+        "author": "Zhuo王旭卓",
+        "duration": "0:33",
+        "cover": "//i0.hdslb.com/bfs/archive/b0eed5e2d6a3f2b4f91ae3d1a7dd20c21afc0132.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1n1eh6kEKH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Zhuo 世界赛我来了"
       }
     ],
     "qbitai": [
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "诺和诺德股东称公司需通过收购拓展业务",
+        "url": "https://m.36kr.com/newsflashes/3991320978455300",
+        "desc": "据报道，诺和诺德股东敦促该集团通过收购扩大产品组合，以降低利润对糖尿病治疗药物Ozempic的依赖。公司股东Flossbach的分析师Eugen Uretzki表示，诺和诺德资产的开发潜力“仍有待证明”。诺和诺德投资者Baillie Gifford投资经理Julia Angeles表示，这家制药公司需要说明如何实现摆脱对Ozempic依赖的转型；可能的选择包括寻求合作伙伴关系，以探索更多试验性疗法。Angeles表示，投资者需要看到公司在交易方面的计划。（界面）",
+        "cover": "",
+        "date": 1789883640000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "中微半导在湖南成立科技公司，含AI及集成电路芯片等业务",
+        "url": "https://m.36kr.com/newsflashes/3991327828868105",
+        "desc": "36氪获悉，天眼查App显示，近日，中微长芯（湖南）科技有限公司成立，法定代表人为龙卫，注册资本1000万元，注册地址位于湖南省长沙市岳麓区，经营范围包括集成电路设计、软件开发、电子产品销售、集成电路芯片及产品销售、集成电路芯片设计及服务、人工智能基础软件开发、人工智能应用软件开发、智能控制系统集成等。股东信息显示，该公司由中微半导体（深圳）股份有限公司全资持股。",
+        "cover": "",
+        "date": 1789883317679,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "到2030年我国农作物耕种收综合机械化率将超80%",
+        "url": "https://m.36kr.com/newsflashes/3991296741112832",
+        "desc": "近日，农业农村部、工业和信息化部联合印发《全国农业机械化发展“十五五”规划》（以下简称《规划》），明确了“十五五”时期农业机械化高质量发展的总体要求、具体目标和重点任务举措。《规划》提出，到2030年，农业机械化高质量发展取得显著成效，农作物耕种收综合机械化率超过80%，丘陵山区农作物耕种收综合机械化率力争提高到75%以上，畜牧水产养殖、农产品初加工机械化加快发展；人工智能、新能源等新技术新装备在农业机械化领域广泛应用；农机作业社会化服务能力大幅提高，农机防灾减灾救灾能力显著增强。（央视新闻）",
+        "cover": "",
+        "date": 1789883296000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "“Moonback”完成数千万元首轮融资",
         "url": "https://m.36kr.com/newsflashes/3991288582699780",
         "desc": "36氪获悉，宠物智能科技品牌“Moonback”近日完成数千万元首轮融资，投资机构为AI上市公司。本轮融资将主要用于AI算法、研发和市场团队建设。",
@@ -937,7 +967,7 @@
         "date": 1789882263000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "富乐德：向TEC生产厂商供应DPC产品，间接配套光模块厂商",
@@ -947,7 +977,7 @@
         "date": 1789881502942,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "德意志银行新聘两位亚太区股票业务高管 分，别来自中金与华泰",
@@ -957,7 +987,7 @@
         "date": 1789880702798,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "蚂蚁集团入股天机智能",
@@ -967,7 +997,7 @@
         "date": 1789880029000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "启元机器人接入WorkBuddy",
@@ -977,7 +1007,7 @@
         "date": 1789879765393,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "特斯拉得州机器人工厂主结构接近完工，稳步推进2027年量产计划",
@@ -987,7 +1017,7 @@
         "date": 1789879408106,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "报道：联想寻求出售卢森堡国际银行90%股权，估值或达25亿欧元",
@@ -997,7 +1027,7 @@
         "date": 1789879161853,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "宁德时代枧下窝锂矿采矿项目重启环评审批程序",
@@ -1007,7 +1037,7 @@
         "date": 1789878613937,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "前8个月税务部门征收税收收入同比增长5.9%",
@@ -1017,7 +1047,7 @@
         "date": 1789877860153,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "“硅基流动”完成B+轮二期和C轮融资",
@@ -1027,7 +1057,7 @@
         "date": 1789877791625,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "城建发展在北京成立置业公司，注册资本20亿元",
@@ -1037,7 +1067,7 @@
         "date": 1789877491000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "长鑫科技宣布第五代技术平台正式量产",
@@ -1047,7 +1077,7 @@
         "date": 1789876843071,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "鹿明机器人剧场《机器人和TA的朋友们》全球首演，探索“机器人+演艺”新场景",
@@ -1057,7 +1087,7 @@
         "date": 1789876452468,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "中汽协：1-8月销量排名前十SUV生产企业共销售721.8万辆",
@@ -1067,7 +1097,7 @@
         "date": 1789876301601,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "中汽协：1-8月销量排名前十轿车生产企业共销售401.4万辆",
@@ -1077,7 +1107,7 @@
         "date": 1789875979028,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "北京“十五五”优化营商环境规划发布，围绕六大环境提出29方面举措",
@@ -1087,7 +1117,7 @@
         "date": 1789875628828,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "快递“反内卷”引发新一轮涨价，多家公司今起安徽区域单票最低上调0.15元",
@@ -1097,45 +1127,15 @@
         "date": 1789875076603,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "国家药监局：支持仿制药提质升级，推动仿制药向高附加值、高技术含量转型",
-        "url": "https://m.36kr.com/newsflashes/3991178205952773",
-        "desc": "9月20日，国家药监局副局长杨胜在国新办发布会上表示，支持仿制药提质升级，鼓励采取国际先进技术工艺，推动仿制药向高附加值、高技术含量转型，提升整体药品供给质量，让老百姓用上更多的好药，放心药。（证券时报）",
-        "cover": "",
-        "date": 1789874866000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "国家药监局：鼓励外资将原研药品和高端医疗装备引进境内生产",
-        "url": "https://m.36kr.com/newsflashes/3991188527545344",
-        "desc": "9月20日，国家药监局副局长杨胜在国新办发布会上表示，将支持医药产业规模化、集约化、高端化发展。鼓励医药企业建设智能工厂、绿色工厂，将继续支持京津冀、长三角、粤港澳大湾区、成渝双城经济圈等区域医药产业发展，着力培养3—5个具有国际竞争力的生物医药产业创新聚集地。将支持医药领域扩大对外开放合作，鼓励外资将原研药品和高端医疗装备引进境内生产，也鼓励中国企业走出去发展，让中国的药品器械造福全世界。（证券时报）",
-        "cover": "",
-        "date": 1789874815401,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "国家能源局：8月份全社会用电量再破万亿，负荷创历史新高",
-        "url": "https://m.36kr.com/newsflashes/3991177717087235",
-        "desc": "36氪获悉，据国家能源局消息，2026年8月，全社会用电量用电量再破万亿，达到10332亿千瓦时，同比增长1.7%；用电负荷创历史新高达到15.6亿千瓦，较上年最大负荷高4969万千瓦，共有7天超过上年最大负荷。",
-        "cover": "",
-        "date": 1789874155583,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1789882865126,
-    "bilibili": 1789881136864,
-    "qbitai": 1789854094209,
-    "36kr": 1789854094539
+    "thepaper": 1789883765524,
+    "bilibili": 1789882938721,
+    "qbitai": 1789854993564,
+    "36kr": 1789854993931
   },
   "failures": {}
 }
