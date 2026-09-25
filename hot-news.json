@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T10:26:32Z",
+  "updatedAt": "2026-09-25T10:41:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -88,38 +88,38 @@
         "rank": 14
       },
       {
-        "title": "国乒男团不敌东道主日本队，无缘亚运乒乓首金",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34140481",
-        "desc": "",
-        "rank": 15
-      },
-      {
-        "title": "上海迪士尼致歉，明确使用盲杖入园无须报备",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34142415",
-        "desc": "",
-        "rank": 16
-      },
-      {
         "title": "评论｜国乒需要一个“松岛辉空”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34143778",
         "desc": "",
-        "rank": 17
+        "rank": 15
       },
       {
         "title": "张本智和：松岛辉空逼着我前进",
         "url": "https://www.thepaper.cn/newsDetail_forward_34143252",
         "desc": "",
-        "rank": 18
+        "rank": 16
       },
       {
         "title": "白宫欢迎国宴，哪些企业家坐主桌？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34148989",
         "desc": "",
-        "rank": 19
+        "rank": 17
       },
       {
         "title": "小浪花逛世赛丨学技能有未来，这场大赛释放的信号或许藏着未来行业的方向",
         "url": "https://www.thepaper.cn/newsDetail_forward_34142209",
+        "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "一文读懂｜北京出台商品住房销售制度改革细则，将带来哪些新变化？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34143901",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "大熊猫“平平”“福双”将会落户美国亚特兰大动物园",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34144384",
         "desc": "",
         "rank": 20
       }
@@ -158,35 +158,35 @@
         "hotTitle": "中美两国利益深度交融"
       },
       {
-        "title": "粉丝开箱系列第五期～谢谢大家！！同时今天是中秋节，记得吃月饼哦",
-        "url": "https://www.bilibili.com/video/BV1E1hy6uEpp",
+        "title": "祝大家中秋快乐呀！",
+        "url": "https://www.bilibili.com/video/BV1wGaP6YEY5",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1E1hy6uEpp",
-        "author": "表哥表弟的日常生活",
-        "duration": "10:58",
-        "cover": "//i1.hdslb.com/bfs/archive/b646f0971dd051468ea417ad1f95d073c768b7d5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1E1hy6uEpp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1wGaP6YEY5",
+        "author": "爱笑的嘿嘿嘿_",
+        "duration": "3:39",
+        "cover": "//i2.hdslb.com/bfs/archive/a3bbcb4726266b0bbc5a72fe70a564f7a9ff9caa.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wGaP6YEY5&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "今天是中秋节"
       },
       {
-        "title": "神枪看NRG 2:0战胜NS，mada赛后采访用中文喊马大nb！！！",
-        "url": "https://www.bilibili.com/video/BV11Bh26QEJK",
+        "title": "NRG 1辑-7辑 MV全集",
+        "url": "https://www.bilibili.com/video/BV1fW411c7ZH",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV11Bh26QEJK",
-        "author": "摸鱼小火龙",
-        "duration": "0:44",
-        "cover": "//i2.hdslb.com/bfs/archive/5b203b9d66b7a0a3728e45267b5284549840d9b1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11Bh26QEJK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "NRG 1辑 [New Radiancy Group] 我可以 MV",
+        "content": "NRG 1辑 [New Radiancy Group] 我可以 MV",
+        "bvid": "BV1fW411c7ZH",
+        "author": "NRG千载一遇",
+        "duration": "66:51",
+        "cover": "//i0.hdslb.com/bfs/archive/04b1bfed7e08971007a14a9b11e430b91f57c7c8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fW411c7ZH&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "NRG战胜NS VCT冠军赛"
       },
       {
@@ -478,19 +478,19 @@
         "hotTitle": "UP主复刻成龙历险记中的生肖符咒"
       },
       {
-        "title": "【外网节奏】中国幼儿园生活受到老外一致好评，每一代人都有自己的意林，不过这个意林有点真实啊",
-        "url": "https://www.bilibili.com/video/BV1NPV3z4EXE",
+        "title": "为什么日本女生疯狂迷恋中国麻辣烫？【食录】",
+        "url": "https://www.bilibili.com/video/BV1GdaA6LEJP",
         "desc": "",
         "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1NPV3z4EXE",
-        "author": "小果蝇-弧光猎人",
-        "duration": "3:31",
-        "cover": "//i0.hdslb.com/bfs/archive/689adeeb95e6e774292514bfb174e0f44e64c114.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NPV3z4EXE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "在日本，麻辣烫店90%的顾客都是女生？",
+        "content": "在日本，麻辣烫店90%的顾客都是女生？",
+        "bvid": "BV1GdaA6LEJP",
+        "author": "赛博食录",
+        "duration": "10:26",
+        "cover": "//i1.hdslb.com/bfs/archive/6ba5ac16e8ae1fa593db1d2eb0195b90fd759954.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GdaA6LEJP&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "中国麻辣烫凭什么火到国外"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790335580494,
+    "thepaper": 1790336480522,
     "bilibili": 1790334749449,
-    "qbitai": 1790331992466,
-    "36kr": 1790331992744
+    "qbitai": 1790332891991,
+    "36kr": 1790332892263
   },
   "failures": {}
 }
