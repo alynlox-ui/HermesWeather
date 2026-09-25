@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T12:11:33Z",
+  "updatedAt": "2026-09-25T12:26:30Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,20 @@
     ],
     "bilibili": [
       {
-        "title": "习近平彭丽媛出席白宫欢迎宴会",
-        "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BD%AD%E4%B8%BD%E5%AA%9B%E5%87%BA%E5%B8%AD%E7%99%BD%E5%AE%AB%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A",
+        "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+        "url": "https://www.bilibili.com/video/BV1JSau6kEof",
         "desc": "",
-        "rank": 1
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1JSau6kEof",
+        "author": "央视新闻",
+        "duration": "4:40",
+        "cover": "//i1.hdslb.com/bfs/archive/8d2036e14104f9a5c1a62fa8321ba344eb244e82.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JSau6kEof&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "习近平彭丽媛出席白宫欢迎宴会"
       },
       {
         "title": "现场视频！习近平：中美两国利益深度交融，合作空间十分广阔。",
@@ -148,74 +158,42 @@
         "hotTitle": "中美两国利益深度交融"
       },
       {
-        "title": "【孙楠&谭维维】央视中秋晚会《咏仲秋》",
-        "url": "https://www.bilibili.com/video/BV1Wdh16nEo3",
+        "title": "萧敬腾《笑纳》2026央视中秋晚会",
+        "url": "https://www.bilibili.com/video/BV1Wfh16EEfN",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1Wdh16nEo3",
-        "author": "江上酒-楠哥亲签版",
-        "duration": "2:59",
-        "cover": "//i0.hdslb.com/bfs/archive/7b69a53916055c6faee3b81de70fb16051c163ab.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wdh16nEo3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1Wfh16EEfN",
+        "author": "BYE贰丁目",
+        "duration": "2:1",
+        "cover": "//i0.hdslb.com/bfs/archive/4f88cc722fd4f98e66a251a9918b69363cc8dbfe.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wfh16EEfN&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "2026央视中秋晚会"
       },
       {
-        "title": "【VCT贴吧热议】糕僧预测XLG vs KC",
-        "url": "https://www.bilibili.com/video/BV147ag6WEjm",
+        "title": "众主播看XLG被KC零封！又是9-26！东彦：两个字！纯菜！XLG vs KC",
+        "url": "https://www.bilibili.com/video/BV1Yih16PEdj",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV147ag6WEjm",
-        "author": "VCT-TCV",
-        "duration": "0:21",
-        "cover": "//i1.hdslb.com/bfs/archive/a95ebf6bb19f68805c8a78f45188bbe8954e972f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV147ag6WEjm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "KC vs XLG VCT冠军赛"
-      },
-      {
-        "title": "祝大家中秋节快乐",
-        "url": "https://www.bilibili.com/video/BV16Nh265Evv",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "月渐满，事如愿。今夕月圆，余生平安～",
-        "content": "月渐满，事如愿。今夕月圆，余生平安～",
-        "bvid": "BV16Nh265Evv",
-        "author": "默默子rikiyo",
-        "duration": "0:30",
-        "cover": "//i1.hdslb.com/bfs/archive/137db32555a22e57945602b25d0c183a81199e2e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16Nh265Evv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "鸣潮中秋慢谈节目直播中"
-      },
-      {
-        "title": "琵琶曲｜但是纯手绘亿帧版",
-        "url": "https://www.bilibili.com/video/BV1BwaA6nE7r",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "由于蹦蹦白天上班 只能夜里赶稿，常常熬夜到五六点～ 所以经常梦到什么画什么 常有人问画这些有什么意义 坚持做完一件事还能被您看见就是意义！ 如果蹦蹦的付出值得您的三连 万分感激！ 视频/创意来源：YouTube @Kotte Animation",
-        "content": "由于蹦蹦白天上班 只能夜里赶稿，常常熬夜到五六点～ 所以经常梦到什么画什么 常有人问画这些有什么意义 坚持做完一件事还能被您看见就是意义！ 如果蹦蹦的付出值得您的三连 万分感激！ 视频/创意来源：YouTube @Kotte Animation",
-        "bvid": "BV1BwaA6nE7r",
-        "author": "蹦蹦是天才呐",
-        "duration": "1:1",
-        "cover": "//i0.hdslb.com/bfs/archive/76b87be1a29774ffb71681ddc56c3e9f88f39da3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BwaA6nE7r&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "琵琶曲但是纯手绘"
+        "description": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
+        "content": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
+        "bvid": "BV1Yih16PEdj",
+        "author": "anno大笨蛋",
+        "duration": "3:5",
+        "cover": "//i2.hdslb.com/bfs/archive/f111f335bfe2abbc7943a6dd31f2918844b14774.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yih16PEdj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "KC战胜XLG VCT冠军赛"
       },
       {
         "title": "9月19日夏季赛季后赛晋级赛DAY5赛事回放 | 2026烽火职业联赛夏季赛",
         "url": "https://www.bilibili.com/video/BV187e46LEBR",
         "desc": "",
-        "rank": 7,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "夏季赛季后赛晋级赛第五场参赛队伍：SYG、杭州LGD、广州狼队、JXG、Q9、Shark",
@@ -228,42 +206,10 @@
         "hotTitle": "三角洲烽火夏季赛总决赛"
       },
       {
-        "title": "“数值怪”+“机制怪”=“初代大魔王”！与冠军邓亚萍畅聊乒乓【视频博客 | 元来如此EP.06】",
-        "url": "https://www.bilibili.com/video/BV15Cac6yEKW",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本期视频咱们请到乒乓女皇@邓亚萍 ，和她聊聊从小练球打球的那些事儿，再来直击亚运会为中国队加油！",
-        "content": "本期视频咱们请到乒乓女皇@邓亚萍 ，和她聊聊从小练球打球的那些事儿，再来直击亚运会为中国队加油！",
-        "bvid": "BV15Cac6yEKW",
-        "author": "管泽元",
-        "duration": "66:43",
-        "cover": "//i0.hdslb.com/bfs/archive/4616a57a9d476305b41f694a5bf3afa889aad8cd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Cac6yEKW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "管泽元邓亚萍聊亚运"
-      },
-      {
-        "title": "《复联4》重映四大新彩蛋联动《复联5》！洛基早以知道结局？！",
-        "url": "https://www.bilibili.com/video/BV1fPaN6oEKU",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《复联4》重映四大新彩蛋解析！洛基早以知道结局？！",
-        "content": "《复联4》重映四大新彩蛋解析！洛基早以知道结局？！",
-        "bvid": "BV1fPaN6oEKU",
-        "author": "大聪看电影",
-        "duration": "13:28",
-        "cover": "//i2.hdslb.com/bfs/archive/d388b5c7ea5b43fa9a16776957cc057a088d91b0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fPaN6oEKU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "复联4重映有哪些新内容"
-      },
-      {
         "title": "【大东彦】暴了！看NRG教练暴力发言：NS这些人都是彩笔！他们是真正的彩笔！NRG vs NS",
         "url": "https://www.bilibili.com/video/BV1oDh26kEDN",
         "desc": "",
-        "rank": 10,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！ 大东彦： https://space.bilibili.com/179877838 https://live.bilibili.com/5236391",
@@ -276,10 +222,90 @@
         "hotTitle": "NRG战胜NS VCT冠军赛"
       },
       {
+        "title": "“数值怪”+“机制怪”=“初代大魔王”！与冠军邓亚萍畅聊乒乓【视频博客 | 元来如此EP.06】",
+        "url": "https://www.bilibili.com/video/BV15Cac6yEKW",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本期视频咱们请到乒乓女皇@邓亚萍 ，和她聊聊从小练球打球的那些事儿，再来直击亚运会为中国队加油！",
+        "content": "本期视频咱们请到乒乓女皇@邓亚萍 ，和她聊聊从小练球打球的那些事儿，再来直击亚运会为中国队加油！",
+        "bvid": "BV15Cac6yEKW",
+        "author": "管泽元",
+        "duration": "66:43",
+        "cover": "//i0.hdslb.com/bfs/archive/4616a57a9d476305b41f694a5bf3afa889aad8cd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Cac6yEKW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "管泽元邓亚萍聊亚运"
+      },
+      {
+        "title": "琵琶曲｜但是纯手绘亿帧版",
+        "url": "https://www.bilibili.com/video/BV1BwaA6nE7r",
+        "desc": "",
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "由于蹦蹦白天上班 只能夜里赶稿，常常熬夜到五六点～ 所以经常梦到什么画什么 常有人问画这些有什么意义 坚持做完一件事还能被您看见就是意义！ 如果蹦蹦的付出值得您的三连 万分感激！ 视频/创意来源：YouTube @Kotte Animation",
+        "content": "由于蹦蹦白天上班 只能夜里赶稿，常常熬夜到五六点～ 所以经常梦到什么画什么 常有人问画这些有什么意义 坚持做完一件事还能被您看见就是意义！ 如果蹦蹦的付出值得您的三连 万分感激！ 视频/创意来源：YouTube @Kotte Animation",
+        "bvid": "BV1BwaA6nE7r",
+        "author": "蹦蹦是天才呐",
+        "duration": "1:1",
+        "cover": "//i0.hdslb.com/bfs/archive/76b87be1a29774ffb71681ddc56c3e9f88f39da3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BwaA6nE7r&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "琵琶曲但是纯手绘"
+      },
+      {
+        "title": "《复联4》重映!有新内容!有不一样的感想...",
+        "url": "https://www.bilibili.com/video/BV1QYaw6gE2Y",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1QYaw6gE2Y",
+        "author": "BuriedAlien",
+        "duration": "10:44",
+        "cover": "//i1.hdslb.com/bfs/archive/9c83c0f420e017a788036cba42001b53a76e0ffa.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QYaw6gE2Y&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "复联4重映有哪些新内容"
+      },
+      {
+        "title": "记者揭秘｜白宫欢迎国宴采用了哪些中国元素？",
+        "url": "https://www.bilibili.com/video/BV1yRhC6VEok",
+        "desc": "",
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "当地时间9月24日晚，美国总统特朗普和夫人梅拉尼娅为中国国家主席习近平和夫人彭丽媛在白宫举行欢迎国宴。根据白宫“第一夫人”办公室公布的信息，梅拉尼娅主导了此次晚宴的整体筹备。东方卫视驻美记者李源清观察到在当天的国宴中，无论是菜式，还是大厅装饰都透露出不少的中国元素。",
+        "content": "当地时间9月24日晚，美国总统特朗普和夫人梅拉尼娅为中国国家主席习近平和夫人彭丽媛在白宫举行欢迎国宴。根据白宫“第一夫人”办公室公布的信息，梅拉尼娅主导了此次晚宴的整体筹备。东方卫视驻美记者李源清观察到在当天的国宴中，无论是菜式，还是大厅装饰都透露出不少的中国元素。",
+        "bvid": "BV1yRhC6VEok",
+        "author": "看看新闻Knews",
+        "duration": "3:19",
+        "cover": "//i1.hdslb.com/bfs/archive/7b4a360a3226fbfe94ece884dede20b89291504a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yRhC6VEok&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "揭秘白宫欢迎国宴的中国元素"
+      },
+      {
+        "title": "【学前篇发布日期】罗小黑战记学前篇发布时间可选择的范围已经很小了。",
+        "url": "https://www.bilibili.com/video/BV17iac6JEsD",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "今天我们来分析罗小黑战记的播出时间吧！有理有据哦！",
+        "content": "今天我们来分析罗小黑战记的播出时间吧！有理有据哦！",
+        "bvid": "BV17iac6JEsD",
+        "author": "秋野浚良",
+        "duration": "2:38",
+        "cover": "//i0.hdslb.com/bfs/archive/4d877486596a34b1875f919a0f2834ea41357618.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17iac6JEsD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "罗小黑战记学前篇定档"
+      },
+      {
         "title": "神二十三乘组从“天宫”发来中秋祝福",
         "url": "https://www.bilibili.com/video/BV17Qau63EzS",
         "desc": "",
-        "rank": 11,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "https://www.yspapp.cn/6lHH（央视频号：新闻来了）",
@@ -295,7 +321,7 @@
         "title": "《小杨有约30#》：杨迪",
         "url": "https://www.bilibili.com/video/BV1JFaN6hEL9",
         "desc": "",
-        "rank": 12,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "小杨有约第三十期！ 视频内容纯属娱乐，不要当真～ 你希望在节目里看到谁呢？ 欢迎关注！一键三连也拜托了！！",
@@ -306,22 +332,6 @@
         "cover": "//i0.hdslb.com/bfs/archive/dde639d8ad90db845348ea55396e69293c7b603a.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JFaN6hEL9&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "UP主小杨专访杨迪"
-      },
-      {
-        "title": "【学前篇发布日期】罗小黑战记学前篇发布时间可选择的范围已经很小了。",
-        "url": "https://www.bilibili.com/video/BV17iac6JEsD",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "今天我们来分析罗小黑战记的播出时间吧！有理有据哦！",
-        "content": "今天我们来分析罗小黑战记的播出时间吧！有理有据哦！",
-        "bvid": "BV17iac6JEsD",
-        "author": "秋野浚良",
-        "duration": "2:38",
-        "cover": "//i0.hdslb.com/bfs/archive/4d877486596a34b1875f919a0f2834ea41357618.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17iac6JEsD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "罗小黑战记学前篇定档"
       },
       {
         "title": "伏笔回收！陆光也来自英都？Vein是个狠人！【时光代理人第三季】08集逐帧解析",
@@ -340,58 +350,10 @@
         "hotTitle": "时光代理人唐人街案件揭秘"
       },
       {
-        "title": "你怎么舍得让我的泪流向海",
-        "url": "https://www.bilibili.com/video/BV14KaK6LE8w",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV14KaK6LE8w",
-        "author": "段俊piano",
-        "duration": "0:38",
-        "cover": "//i0.hdslb.com/bfs/archive/fc4eb603382860ff777b3773d3747b0e2d4e50fd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14KaK6LE8w&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "你怎么舍得让我的泪流向海"
-      },
-      {
-        "title": "为什么日本女生疯狂迷恋中国麻辣烫？【食录】",
-        "url": "https://www.bilibili.com/video/BV1GdaA6LEJP",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "在日本，麻辣烫店90%的顾客都是女生？",
-        "content": "在日本，麻辣烫店90%的顾客都是女生？",
-        "bvid": "BV1GdaA6LEJP",
-        "author": "赛博食录",
-        "duration": "10:26",
-        "cover": "//i1.hdslb.com/bfs/archive/6ba5ac16e8ae1fa593db1d2eb0195b90fd759954.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GdaA6LEJP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国麻辣烫凭什么火到国外"
-      },
-      {
-        "title": "徐静雨1v5杀疯了！葡萄牙16强翻车，是c罗问题还是球队问题？",
-        "url": "https://www.bilibili.com/video/BV1SoN36hEGa",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1SoN36hEGa",
-        "author": "斯蒂芬幼鲸",
-        "duration": "9:10",
-        "cover": "//i0.hdslb.com/bfs/archive/aa011cfc3c4d3f753e4629384c11600c5a1b671f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SoN36hEGa&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "葡萄牙1-0威尔士"
-      },
-      {
         "title": "回村找带我上山的狗！我在中国最奇妙也最伤心的故事...",
         "url": "https://www.bilibili.com/video/BV1hcaK6UExz",
         "desc": "",
-        "rank": 18,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "你有没有试过回到一个地方，想重温一段完美的经历，却发现一切都回不去了？ 去年，我在广西旅行时，偶遇了一只本地村狗。她一路带着我爬上山顶，看了一场日出。那段经历像做梦一样，所以六个月后，我带着相机再次回来，想重新找到她，也想沿着当时的山路和她再走一遍。 可这一次，天气变了，眼前的风景不一样了，而她，也早已有了自己的生活。 其实，我执着于复刻那个清晨，还有一个更私人的原因。为什么我会对这只狗、对这个地方如此难以割舍？我追寻的，早已不只是一片漂亮的风景，或下一张照片。 和我一起重返那座山，也一起看看，为什么有些",
@@ -404,106 +366,26 @@
         "hotTitle": "外国UP主在中国的人狗友谊"
       },
       {
-        "title": "热烈欢迎易立竞！看看高智感的易老师在工作中和工作外的好东西！（期待我的笔上易老师的节目🙏",
-        "url": "https://www.bilibili.com/video/BV1qdhx6UESM",
+        "title": "你怎么舍得让我的泪流向海",
+        "url": "https://www.bilibili.com/video/BV14KaK6LE8w",
         "desc": "",
-        "rank": 19,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "加更在@papi热烈欢迎",
-        "content": "加更在@papi热烈欢迎",
-        "bvid": "BV1qdhx6UESM",
-        "author": "papi酱",
-        "duration": "38:25",
-        "cover": "//i0.hdslb.com/bfs/archive/d06a5f1591dc253cf61345860bf8a1c1a1fc8dbf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qdhx6UESM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "papi酱热烈欢迎易立竞"
-      },
-      {
-        "title": "陆瑾杀死李慕玄，曲彤险些被杀，周圣带走阮丰【一人分析】",
-        "url": "https://www.bilibili.com/video/BV1EZUdYHEju",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "陆瑾杀死李慕玄，曲彤险些被杀，周圣带走阮丰【一人分析】",
-        "content": "陆瑾杀死李慕玄，曲彤险些被杀，周圣带走阮丰【一人分析】",
-        "bvid": "BV1EZUdYHEju",
-        "author": "宝岚玉小分队",
-        "duration": "4:3",
-        "cover": "//i2.hdslb.com/bfs/archive/9d665ebdd95d9b04fc3bf560db21e4ad7d161d18.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EZUdYHEju&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "琵琶VS曲"
-      },
-      {
-        "title": "『飙马野郎 JOJO的奇妙冒险』 OP Kroi 「SPIN」",
-        "url": "https://www.bilibili.com/video/BV1e6h46UEfG",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "♦OP动画制作：神风动画 ♦OP主题曲：Kroi《SPIN》 作词：内田怜央 作曲・编曲：Kroi Kroi are 主唱／吉他／打击乐：Leo Uchida 吉他：Yuki Hasebe 贝斯：Masanori Seki 键盘：Daiki Chiba 鼓：Hidetomo Masuda 更多详情，敬请关注官网咨询： ⇒https://jojo-portal-anime.com/sbr/ #jojo_anime# #SBR新OP动画解禁# ©LUCKY LAND COMMUNICATIONS/",
-        "content": "♦OP动画制作：神风动画 ♦OP主题曲：Kroi《SPIN》 作词：内田怜央 作曲・编曲：Kroi Kroi are 主唱／吉他／打击乐：Leo Uchida 吉他：Yuki Hasebe 贝斯：Masanori Seki 键盘：Daiki Chiba 鼓：Hidetomo Masuda 更多详情，敬请关注官网咨询： ⇒https://jojo-portal-anime.com/sbr/ #jojo_anime# #SBR新OP动画解禁# ©LUCKY LAND COMMUNICATIONS/",
-        "bvid": "BV1e6h46UEfG",
-        "author": "WBJ_Anime",
-        "duration": "1:31",
-        "cover": "//i1.hdslb.com/bfs/archive/3b49aa06630a79d9ab887709ff8126a591a26859.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1e6h46UEfG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "飙马野郎op动画解禁"
-      },
-      {
-        "title": "给韩国放朝鲜国歌，让运动员住集装箱……日本亚运会闹出一吨笑话！",
-        "url": "https://www.bilibili.com/video/BV1KLag6REFa",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1KLag6REFa",
-        "author": "一只吐槽圆",
-        "duration": "8:2",
-        "cover": "//i1.hdslb.com/bfs/archive/ddf92c61101eafa188803f86d02e6dc2741b1f1d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KLag6REFa&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "日本亚运会因何被吐槽"
-      },
-      {
-        "title": "《未眠野》18分钟实机演示",
-        "url": "https://www.bilibili.com/video/BV1Mohb61Em9",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "💿预约游戏>>https://www.biligame.com/detail/?id=120518 感谢各位溯行者的关注和期待！我们为大家带来了18分钟实机演示，请和我们一起度过在浮昼群岛游玩的一天吧~ 万物都在回应，世界没有答案 欢迎各位溯行者的到来",
-        "content": "💿预约游戏>>https://www.biligame.com/detail/?id=120518 感谢各位溯行者的关注和期待！我们为大家带来了18分钟实机演示，请和我们一起度过在浮昼群岛游玩的一天吧~ 万物都在回应，世界没有答案 欢迎各位溯行者的到来",
-        "bvid": "BV1Mohb61Em9",
-        "author": "未眠野",
-        "duration": "18:39",
-        "cover": "//i0.hdslb.com/bfs/archive/aa2fe5ee11edcc04e0fd22c81679c68acb746e39.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Mohb61Em9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "未眠野实机演示"
-      },
-      {
-        "title": "大理寺一行人即将到访庄园，展开全新的探案篇章！",
-        "url": "https://www.bilibili.com/video/BV1q1aN6fEvL",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "大理寺一行人即将到访庄园，展开全新的探案篇章！ 当迷雾与线索交织，且看少卿如何拨开迷雾！ 9月30日，让我们共同探寻真相～",
-        "content": "大理寺一行人即将到访庄园，展开全新的探案篇章！ 当迷雾与线索交织，且看少卿如何拨开迷雾！ 9月30日，让我们共同探寻真相～",
-        "bvid": "BV1q1aN6fEvL",
-        "author": "网易第五人格手游",
-        "duration": "1:10",
-        "cover": "//i2.hdslb.com/bfs/archive/835853f111eac2cb2f0937767148ca2a8ed9b60d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1q1aN6fEvL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "第五人格大理寺日志联动PV"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV14KaK6LE8w",
+        "author": "段俊piano",
+        "duration": "0:38",
+        "cover": "//i0.hdslb.com/bfs/archive/fc4eb603382860ff777b3773d3747b0e2d4e50fd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14KaK6LE8w&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "你怎么舍得让我的泪流向海"
       },
       {
         "title": "『飙马野郎 JOJO的奇妙冒险』 ED 千叶雄喜 「非死即生(死ぬか生きるか)」",
         "url": "https://www.bilibili.com/video/BV1fChy6zEW9",
         "desc": "",
-        "rank": 25,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "♦片尾主题曲 千叶雄喜 「非死即生(死ぬか生きるか)」 作词：千叶雄喜 作曲：Lukasz Gottwald 制作：Dr. Luke 弦乐编曲：MIO.O 混音：Serban Ghenea （Warner Music Japan / 300 Entertainment Japan） 更多详情，敬请关注官网咨询： ⇒https://jojo-portal-anime.com/sbr/ #jojo_anime# #SBR新赛程全球热播中# ©LUCKY LAND COMMUNICATIONS/SHUEIS",
@@ -516,10 +398,106 @@
         "hotTitle": "飙马野郎片尾曲动画上线"
       },
       {
+        "title": "给韩国放朝鲜国歌，让运动员住集装箱……日本亚运会闹出一吨笑话！",
+        "url": "https://www.bilibili.com/video/BV1KLag6REFa",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1KLag6REFa",
+        "author": "一只吐槽圆",
+        "duration": "8:2",
+        "cover": "//i1.hdslb.com/bfs/archive/ddf92c61101eafa188803f86d02e6dc2741b1f1d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KLag6REFa&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "日本亚运会因何被吐槽"
+      },
+      {
+        "title": "为什么日本女生疯狂迷恋中国麻辣烫？【食录】",
+        "url": "https://www.bilibili.com/video/BV1GdaA6LEJP",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "在日本，麻辣烫店90%的顾客都是女生？",
+        "content": "在日本，麻辣烫店90%的顾客都是女生？",
+        "bvid": "BV1GdaA6LEJP",
+        "author": "赛博食录",
+        "duration": "10:26",
+        "cover": "//i1.hdslb.com/bfs/archive/6ba5ac16e8ae1fa593db1d2eb0195b90fd759954.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GdaA6LEJP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国麻辣烫凭什么火到国外"
+      },
+      {
+        "title": "到4600米黄河源保护冰川，与转山者一起走近神山",
+        "url": "https://www.bilibili.com/video/BV1wTht6cErB",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "BGM列表： Tim Halperin - Wildflowers Emma艾玛-鸿古尔 Nicolas Godin - Love Humans (From \"Fire of Love\"_ Score) Ennio Morricone - The Ecstasy of Gold (From \"The Good, the Bad and the Ugly\") 申雪倩- 沉溺在这一刻 Songs of Water - Strangely Beautiful Balthazar - Bunker すもち - W",
+        "content": "BGM列表： Tim Halperin - Wildflowers Emma艾玛-鸿古尔 Nicolas Godin - Love Humans (From \"Fire of Love\"_ Score) Ennio Morricone - The Ecstasy of Gold (From \"The Good, the Bad and the Ugly\") 申雪倩- 沉溺在这一刻 Songs of Water - Strangely Beautiful Balthazar - Bunker すもち - W",
+        "bvid": "BV1wTht6cErB",
+        "author": "超Carry的柴西",
+        "duration": "31:33",
+        "cover": "//i2.hdslb.com/bfs/archive/0cdd9872e4d1185bce453c576c65c264c9ac9fa0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wTht6cErB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "和苏翊鸣在4600米高原徒步"
+      },
+      {
+        "title": "热烈欢迎易立竞！看看高智感的易老师在工作中和工作外的好东西！（期待我的笔上易老师的节目🙏",
+        "url": "https://www.bilibili.com/video/BV1qdhx6UESM",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "加更在@papi热烈欢迎",
+        "content": "加更在@papi热烈欢迎",
+        "bvid": "BV1qdhx6UESM",
+        "author": "papi酱",
+        "duration": "38:25",
+        "cover": "//i0.hdslb.com/bfs/archive/d06a5f1591dc253cf61345860bf8a1c1a1fc8dbf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qdhx6UESM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "papi酱热烈欢迎易立竞"
+      },
+      {
+        "title": "一口气看完复联4新增内容！毁灭博士现身！如何预告复联5剧情？重映多出来的4分钟！",
+        "url": "https://www.bilibili.com/video/BV1c4ag67E57",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "复联4重映新增的4分钟讲了什么？一口气看完！ 毁灭博士现身！如何预告复仇者联盟5剧情？ 如果大家觉得本期视频还不错的话，欢迎【长按点赞按钮】一键三连收藏本期节目！ 历期原创漫威视频—— av50140829《20分钟看完漫威所有电影！复联4观影前必看！》 BV1eh3h6kEdq《蜘蛛侠4如何为复联5埋下伏笔？崭新之日彩蛋全解析！》 av51844100 《复联4最详细解析！暗藏8个重要伏笔！》 BV1puge6hE9Y《10分钟看完6部荷兰弟版蜘蛛侠电影！0基础看崭新之日！》 av572",
+        "content": "复联4重映新增的4分钟讲了什么？一口气看完！ 毁灭博士现身！如何预告复仇者联盟5剧情？ 如果大家觉得本期视频还不错的话，欢迎【长按点赞按钮】一键三连收藏本期节目！ 历期原创漫威视频—— av50140829《20分钟看完漫威所有电影！复联4观影前必看！》 BV1eh3h6kEdq《蜘蛛侠4如何为复联5埋下伏笔？崭新之日彩蛋全解析！》 av51844100 《复联4最详细解析！暗藏8个重要伏笔！》 BV1puge6hE9Y《10分钟看完6部荷兰弟版蜘蛛侠电影！0基础看崭新之日！》 av572",
+        "bvid": "BV1c4ag67E57",
+        "author": "黝黑蜗壳天眼老师",
+        "duration": "3:13",
+        "cover": "//i0.hdslb.com/bfs/archive/5239fbcfd6cabb15269b2b5198c9c1cbebaef264.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c4ag67E57&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "复联4如何预告复联5剧情"
+      },
+      {
+        "title": "『飙马野郎 JOJO的奇妙冒险』 OP Kroi 「SPIN」",
+        "url": "https://www.bilibili.com/video/BV1e6h46UEfG",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "♦OP动画制作：神风动画 ♦OP主题曲：Kroi《SPIN》 作词：内田怜央 作曲・编曲：Kroi Kroi are 主唱／吉他／打击乐：Leo Uchida 吉他：Yuki Hasebe 贝斯：Masanori Seki 键盘：Daiki Chiba 鼓：Hidetomo Masuda 更多详情，敬请关注官网咨询： ⇒https://jojo-portal-anime.com/sbr/ #jojo_anime# #SBR新OP动画解禁# ©LUCKY LAND COMMUNICATIONS/",
+        "content": "♦OP动画制作：神风动画 ♦OP主题曲：Kroi《SPIN》 作词：内田怜央 作曲・编曲：Kroi Kroi are 主唱／吉他／打击乐：Leo Uchida 吉他：Yuki Hasebe 贝斯：Masanori Seki 键盘：Daiki Chiba 鼓：Hidetomo Masuda 更多详情，敬请关注官网咨询： ⇒https://jojo-portal-anime.com/sbr/ #jojo_anime# #SBR新OP动画解禁# ©LUCKY LAND COMMUNICATIONS/",
+        "bvid": "BV1e6h46UEfG",
+        "author": "WBJ_Anime",
+        "duration": "1:31",
+        "cover": "//i1.hdslb.com/bfs/archive/3b49aa06630a79d9ab887709ff8126a591a26859.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1e6h46UEfG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "飙马野郎op动画解禁"
+      },
+      {
         "title": "为了钓冰川变异蓝鳟，我在北极被800只苍蝇追了两天",
         "url": "https://www.bilibili.com/video/BV1FbaM6MEFE",
         "desc": "",
-        "rank": 26,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "这次我将乘船前往挪威最北部的一座海上仙山。 用2天时间独自穿越世界上苍蝇最多的地方， 攀登滑坡频发的乱石山，并到达雪山之下露营。 调查冰川湖泊中是否真的存在变异的蓝色鳟鱼。",
@@ -532,42 +510,42 @@
         "hotTitle": "UP主在北极冰川湖钓蓝鳟"
       },
       {
-        "title": "【世界周侃】AI演化出了自己的“方言”，且人类看不懂？",
-        "url": "https://www.bilibili.com/video/BV1vEh26vE7n",
+        "title": "《未眠野》18分钟实机演示",
+        "url": "https://www.bilibili.com/video/BV1Mohb61Em9",
         "desc": "",
-        "rank": 27,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1vEh26vE7n",
-        "author": "央视新闻",
-        "duration": "2:59",
-        "cover": "//i1.hdslb.com/bfs/archive/e99c1d323af05b26a458b72146d312fc70e699bf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vEh26vE7n&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI演化出了自己的方言"
+        "description": "💿预约游戏>>https://www.biligame.com/detail/?id=120518 感谢各位溯行者的关注和期待！我们为大家带来了18分钟实机演示，请和我们一起度过在浮昼群岛游玩的一天吧~ 万物都在回应，世界没有答案 欢迎各位溯行者的到来",
+        "content": "💿预约游戏>>https://www.biligame.com/detail/?id=120518 感谢各位溯行者的关注和期待！我们为大家带来了18分钟实机演示，请和我们一起度过在浮昼群岛游玩的一天吧~ 万物都在回应，世界没有答案 欢迎各位溯行者的到来",
+        "bvid": "BV1Mohb61Em9",
+        "author": "未眠野",
+        "duration": "18:39",
+        "cover": "//i0.hdslb.com/bfs/archive/aa2fe5ee11edcc04e0fd22c81679c68acb746e39.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Mohb61Em9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "未眠野实机演示"
       },
       {
-        "title": "中秋坐在一起聊聊英皇歌手的幕后故事【霍汶希Manifest】先导｜B站音乐独家视频播客",
-        "url": "https://www.bilibili.com/video/BV1LtaP6pEu7",
+        "title": "AI剧集《出马仙镇东北》上集【AI全民制作人】",
+        "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
         "desc": "",
-        "rank": 28,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "本来只是想把大家约出来吃顿饭，结果人是凑齐了，问题也一个没少😂 第一张全家福也正式上 “老友墙” 啦！希望这面墙可以一直满下去，满到最后真的贴不下。",
-        "content": "本来只是想把大家约出来吃顿饭，结果人是凑齐了，问题也一个没少😂 第一张全家福也正式上 “老友墙” 啦！希望这面墙可以一直满下去，满到最后真的贴不下。",
-        "bvid": "BV1LtaP6pEu7",
-        "author": "霍汶希-Manifest",
-        "duration": "38:58",
-        "cover": "//i1.hdslb.com/bfs/archive/b84bd80dfb4f46e68378a934d393e0c88ea34a4a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LtaP6pEu7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "容祖儿说谢霆锋是霍汶希的克星"
+        "description": "东北出马仙赵红霞，一个不修边幅、守着老规矩的草根弟马。日子过得糙，可当脚盆鸡阴阳师卷土重来，要断东北龙脉、窃华夏国运，这个五大三粗的女人燃起五路仙家香火，立下死规矩——东北的地界，不收外来的魂！黑土地上的信仰不是迷信，是老辈人扛过闯关东的念想。红霞与仙家并肩，长白山巅决战安倍，真龙认主一剑，劈出五方五帝护国大阵的第一块拼图！ 其中用到的神调原唱灰宝宝，婆婆丁-灿哥（原唱张新华）。",
+        "content": "东北出马仙赵红霞，一个不修边幅、守着老规矩的草根弟马。日子过得糙，可当脚盆鸡阴阳师卷土重来，要断东北龙脉、窃华夏国运，这个五大三粗的女人燃起五路仙家香火，立下死规矩——东北的地界，不收外来的魂！黑土地上的信仰不是迷信，是老辈人扛过闯关东的念想。红霞与仙家并肩，长白山巅决战安倍，真龙认主一剑，劈出五方五帝护国大阵的第一块拼图！ 其中用到的神调原唱灰宝宝，婆婆丁-灿哥（原唱张新华）。",
+        "bvid": "BV1gMgM6KEUM",
+        "author": "咩咩是个迷",
+        "duration": "97:37",
+        "cover": "//i2.hdslb.com/bfs/archive/06bc5d8c63a9cdc49b34a04f0180fadb17575465.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gMgM6KEUM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主AI自制封神2"
       },
       {
         "title": "死之诅咒全是圈套？丑角海洛塔帝真相！若娜瓦结局究竟是什么？原神7.1主线剧情完整解析 死之诅咒 女皇棋局 若娜瓦 莱茵多特",
         "url": "https://www.bilibili.com/video/BV18AaK67EoM",
         "desc": "",
-        "rank": 29,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "感谢旅行者关注！欢迎加入原神剧情交流群：962970132 节目参与制作：@杰瑞佩佩",
@@ -580,23 +558,75 @@
         "hotTitle": "原神7.1主线剧情解析"
       },
       {
-        "title": "为什么西天取经不走直线？走直线be like:",
-        "url": "https://www.bilibili.com/video/BV1MZh46TEpZ",
+        "title": "琵琶曲 | 琵琶 VS 曲",
+        "url": "https://www.bilibili.com/video/BV1kqaN6NEh3",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "原版油管老师@KotteAnimation 素材使用@翰墨有道",
+        "content": "原版油管老师@KotteAnimation 素材使用@翰墨有道",
+        "bvid": "BV1kqaN6NEh3",
+        "author": "LuminaSymph",
+        "duration": "3:30",
+        "cover": "//i0.hdslb.com/bfs/archive/322de8fcbee99bae340dc0ad4ee0c874701223d4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kqaN6NEh3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "琵琶VS曲"
+      },
+      {
+        "title": "中秋坐在一起聊聊英皇歌手的幕后故事【霍汶希Manifest】先导｜B站音乐独家视频播客",
+        "url": "https://www.bilibili.com/video/BV1LtaP6pEu7",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本来只是想把大家约出来吃顿饭，结果人是凑齐了，问题也一个没少😂 第一张全家福也正式上 “老友墙” 啦！希望这面墙可以一直满下去，满到最后真的贴不下。",
+        "content": "本来只是想把大家约出来吃顿饭，结果人是凑齐了，问题也一个没少😂 第一张全家福也正式上 “老友墙” 啦！希望这面墙可以一直满下去，满到最后真的贴不下。",
+        "bvid": "BV1LtaP6pEu7",
+        "author": "霍汶希-Manifest",
+        "duration": "38:58",
+        "cover": "//i1.hdslb.com/bfs/archive/b84bd80dfb4f46e68378a934d393e0c88ea34a4a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LtaP6pEu7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "容祖儿说谢霆锋是霍汶希的克星"
+      },
+      {
+        "title": "篮球佐助技能初爆料！杨瀚森携佐助球风来袭",
+        "url": "https://www.bilibili.com/video/BV1ame16qE9Z",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1MZh46TEpZ",
-        "author": "热爱干饭饭",
-        "duration": "3:14",
-        "cover": "//i1.hdslb.com/bfs/archive/ccf92f08304f8b96290669c77ce108405b76fa88.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MZh46TEpZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "假如西天取经走直线"
+        "description": "特别感谢@杨瀚森 在今年夏天的训练间隙，参与火影忍者手游拍摄。希望这条视频也能够激发所有学员对篮球的热爱，梦想着踏上球场，打出名堂！ 同时本视频基于火影手游拍摄素材进行二次创作与剪辑，感谢学员漂泊小南的盾构、阿杰、桃子酱、格露、小行星-对视频的精心打磨制作，以及各位“篮球佐助”们的出演！！ 9月29日 全新原创A忍宇智波佐助[篮球之星]免费领活动开启！佐助，该上场了！",
+        "content": "特别感谢@杨瀚森 在今年夏天的训练间隙，参与火影忍者手游拍摄。希望这条视频也能够激发所有学员对篮球的热爱，梦想着踏上球场，打出名堂！ 同时本视频基于火影手游拍摄素材进行二次创作与剪辑，感谢学员漂泊小南的盾构、阿杰、桃子酱、格露、小行星-对视频的精心打磨制作，以及各位“篮球佐助”们的出演！！ 9月29日 全新原创A忍宇智波佐助[篮球之星]免费领活动开启！佐助，该上场了！",
+        "bvid": "BV1ame16qE9Z",
+        "author": "火影忍者手游情报君",
+        "duration": "2:34",
+        "cover": "//i1.hdslb.com/bfs/archive/5d365d672ffb1c20c67f155b3a3b87319c6a7ae5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ame16qE9Z&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "杨瀚森爆料火影篮球佐助技能"
       }
     ],
     "qbitai": [
+      {
+        "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+        "url": "https://www.qbitai.com/2026/09/497278.html",
+        "desc": "",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/ScreenShot_2026-09-25_212119_965-1.png",
+        "date": "2026-09-25T21:24:20",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+        "url": "https://www.qbitai.com/2026/09/497177.html",
+        "desc": "",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/封面3-1.png",
+        "date": "2026-09-25T21:15:45",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
       {
         "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
         "url": "https://www.qbitai.com/2026/09/497108.html",
@@ -605,7 +635,7 @@
         "date": "2026-09-25T18:00:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 3
       },
       {
         "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
@@ -615,7 +645,7 @@
         "date": "2026-09-25T14:20:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 4
       },
       {
         "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
@@ -625,7 +655,7 @@
         "date": "2026-09-25T14:14:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
@@ -635,7 +665,7 @@
         "date": "2026-09-25T14:11:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
@@ -645,7 +675,7 @@
         "date": "2026-09-25T13:52:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
@@ -655,7 +685,7 @@
         "date": "2026-09-24T22:20:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
@@ -665,7 +695,7 @@
         "date": "2026-09-24T22:17:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "时隔十年，AI大牛署名新论文",
@@ -675,7 +705,7 @@
         "date": "2026-09-24T20:58:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
@@ -685,7 +715,7 @@
         "date": "2026-09-24T16:20:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
@@ -695,7 +725,7 @@
         "date": "2026-09-24T13:46:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
@@ -705,7 +735,7 @@
         "date": "2026-09-24T13:45:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
@@ -715,7 +745,7 @@
         "date": "2026-09-24T13:19:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
@@ -725,7 +755,7 @@
         "date": "2026-09-24T10:51:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
@@ -735,7 +765,7 @@
         "date": "2026-09-24T10:23:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "成立九年，中科类脑把积累装进Token工厂",
@@ -745,7 +775,7 @@
         "date": "2026-09-24T08:48:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
@@ -755,7 +785,7 @@
         "date": "2026-09-23T18:35:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
@@ -765,7 +795,7 @@
         "date": "2026-09-23T17:56:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
@@ -775,7 +805,7 @@
         "date": "2026-09-23T17:50:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
@@ -785,7 +815,7 @@
         "date": "2026-09-23T17:46:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
@@ -795,7 +825,7 @@
         "date": "2026-09-23T16:54:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
@@ -805,7 +835,7 @@
         "date": "2026-09-23T16:45:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
@@ -815,7 +845,7 @@
         "date": "2026-09-23T15:29:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "Qwen一号位定了！刘大一恒接棒",
@@ -825,7 +855,7 @@
         "date": "2026-09-23T15:27:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 25
       },
       {
         "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
@@ -835,7 +865,7 @@
         "date": "2026-09-23T14:38:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 26
       },
       {
         "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
@@ -845,7 +875,7 @@
         "date": "2026-09-23T14:08:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 27
       },
       {
         "title": "稚晖君把机器人卖到2万元一台，可人可狗可开发！",
@@ -855,7 +885,7 @@
         "date": "2026-09-23T13:16:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 28
       },
       {
         "title": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
@@ -865,7 +895,7 @@
         "date": "2026-09-23T13:13:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 29
       },
       {
         "title": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
@@ -873,26 +903,6 @@
         "desc": "下半场开始了",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/hyper3d_no_text-scaled.jpg",
         "date": "2026-09-23T13:01:24",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 28
-      },
-      {
-        "title": "Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折",
-        "url": "https://www.qbitai.com/2026/09/496221.html",
-        "desc": "缓存读取价砍了60%",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/93e144ff3b8ebe6aecc5ea19017cb2a1.webp",
-        "date": "2026-09-23T12:59:29",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "刷视频也能教会机器人干活！1200亿tokens人类动作预训练，误差按幂律下降",
-        "url": "https://www.qbitai.com/2026/09/496129.html",
-        "desc": "押注互联网里的人类经验",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/daf310be8097bd9066693b2947eb984d.webp",
-        "date": "2026-09-23T12:25:12",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1122,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790341880524,
-    "bilibili": 1790340188515,
-    "qbitai": 1790338293679,
-    "36kr": 1790338293982
+    "thepaper": 1790342780293,
+    "bilibili": 1790341989388,
+    "qbitai": 1790339190253,
+    "36kr": 1790339190536
   },
   "failures": {}
 }
