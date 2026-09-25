@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T09:56:35Z",
+  "updatedAt": "2026-09-25T10:11:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -158,19 +158,19 @@
         "hotTitle": "中美两国利益深度交融"
       },
       {
-        "title": "今天是中秋节，咱不吃苦，咱回家！",
-        "url": "https://www.bilibili.com/video/BV1s6au6UEPA",
+        "title": "祝大家中秋快乐呀！",
+        "url": "https://www.bilibili.com/video/BV1wGaP6YEY5",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1s6au6UEPA",
-        "author": "瓯江之王",
-        "duration": "3:17",
-        "cover": "//i2.hdslb.com/bfs/archive/e1bfb6f7da3db2ae8f4378cb4f4cec0ff5bb3ecc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1s6au6UEPA&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1wGaP6YEY5",
+        "author": "爱笑的嘿嘿嘿_",
+        "duration": "3:39",
+        "cover": "//i2.hdslb.com/bfs/archive/a3bbcb4726266b0bbc5a72fe70a564f7a9ff9caa.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wGaP6YEY5&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "今天是中秋节"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790333782021,
+    "thepaper": 1790334682752,
     "bilibili": 1790332948340,
-    "qbitai": 1790330195496,
-    "36kr": 1790330195796
+    "qbitai": 1790331096121,
+    "36kr": 1790331096374
   },
   "failures": {}
 }
