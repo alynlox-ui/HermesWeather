@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T09:26:45Z",
+  "updatedAt": "2026-09-26T09:41:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -28,98 +28,98 @@
         "rank": 4
       },
       {
-        "title": "菲方在中方节日期间采取挑衅行径并煽宣炒作，中国海警局回应",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34149665",
-        "desc": "",
-        "rank": 5
-      },
-      {
-        "title": "言短意长｜招聘信息禁用“高薪”“面议”：少点模糊，多些真诚",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34149617",
-        "desc": "",
-        "rank": 6
-      },
-      {
         "title": "县级医院招博士研究生是不是浪费？浙江永嘉回应：有现实必要性",
         "url": "https://www.thepaper.cn/newsDetail_forward_34149922",
         "desc": "",
-        "rank": 7
+        "rank": 5
       },
       {
         "title": "广东明确：电动自行车违规停放充电起火，可能被拘留",
         "url": "https://www.thepaper.cn/newsDetail_forward_34149093",
         "desc": "",
-        "rank": 8
+        "rank": 6
       },
       {
         "title": "言短意长｜被网暴的符文迪、韩雅平，把“恶意”甩在了身后",
         "url": "https://www.thepaper.cn/newsDetail_forward_34150971",
         "desc": "",
-        "rank": 9
+        "rank": 7
       },
       {
         "title": "纪念｜刘欢走了，“我和你”都会记得",
         "url": "https://www.thepaper.cn/newsDetail_forward_34154729",
         "desc": "",
-        "rank": 10
+        "rank": 8
       },
       {
         "title": "球迷“输球思振东”，媒体：不能用“年轻”二字把所有问题轻轻带过",
         "url": "https://www.thepaper.cn/newsDetail_forward_34149789",
         "desc": "",
-        "rank": 11
-      },
-      {
-        "title": "中国女篮半决赛不敌韩国，本届亚运会中国篮球各项均无缘决赛",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34149676",
-        "desc": "",
-        "rank": 12
+        "rank": 9
       },
       {
         "title": "以色列要做什么？内塔尼亚胡演讲多国代表离席，以色列专人巡视记录",
         "url": "https://www.thepaper.cn/newsDetail_forward_34150400",
         "desc": "",
-        "rank": 13
+        "rank": 10
       },
       {
         "title": "直播丨刘欢63岁人生谢幕：大河向东流，歌魂永不朽",
         "url": "https://www.thepaper.cn/newsDetail_forward_34154261",
         "desc": "",
-        "rank": 14
+        "rank": 11
+      },
+      {
+        "title": "本世纪首次打进四强！中国U23男足战胜泰国队，晋级半决赛",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34155396",
+        "desc": "",
+        "rank": 12
       },
       {
         "title": "以色列在联大拿出星链挑衅，遭伊朗代表团人员无视",
         "url": "https://www.thepaper.cn/newsDetail_forward_34149928",
         "desc": "",
-        "rank": 15
+        "rank": 13
       },
       {
         "title": "七嘴八舌｜文化出海需要更多“周深式开口”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34116351",
         "desc": "",
-        "rank": 16
+        "rank": 14
       },
       {
         "title": "宫鲁鸣回应三分球颗粒无收：时间长了什么情况都可能遇到",
         "url": "https://www.thepaper.cn/newsDetail_forward_34149921",
         "desc": "",
-        "rank": 17
+        "rank": 15
       },
       {
         "title": "一张赛车票，打开不一样的上海中秋假期",
         "url": "https://www.thepaper.cn/newsDetail_forward_34150652",
         "desc": "",
-        "rank": 18
+        "rank": 16
       },
       {
         "title": "观察｜以战略稳定应对外部不确定性，中美关系“重中之重”的背后",
         "url": "https://www.thepaper.cn/newsDetail_forward_34143275",
         "desc": "",
-        "rank": 19
+        "rank": 17
       },
       {
         "title": "详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙",
         "url": "https://www.thepaper.cn/newsDetail_forward_34151574",
+        "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "特朗普：这次访问富有成效",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34151570",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "习近平圆满结束对美国的国事访问",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34151580",
         "desc": "",
         "rank": 20
       }
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790414764196,
-    "bilibili": 1790414777515,
-    "qbitai": 1790414805401,
-    "36kr": 1790414805667
+    "thepaper": 1790415664221,
+    "bilibili": 1790414248106,
+    "qbitai": 1790415695978,
+    "36kr": 1790415696295
   },
   "failures": {}
 }
