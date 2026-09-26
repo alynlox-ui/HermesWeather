@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T06:56:50Z",
+  "updatedAt": "2026-09-26T07:11:50Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -510,19 +510,19 @@
         "hotTitle": "琵琶曲但是纯手绘"
       },
       {
-        "title": "年度离谱救护名场面！医生：我真是拴Q了！",
-        "url": "https://www.bilibili.com/video/BV1hBet6SE5f",
+        "title": "【中国救护2】第2集预告：货车遭遇严重车祸，司机被卡驾驶室",
+        "url": "https://www.bilibili.com/video/BV1SieU6rEYe",
         "desc": "",
         "rank": 25,
         "kind": "video",
         "platform": "bilibili",
-        "description": "年度离谱救护名场面！医生：我真是拴Q了！",
-        "content": "年度离谱救护名场面！医生：我真是拴Q了！",
-        "bvid": "BV1hBet6SE5f",
-        "author": "小爱追热剧",
-        "duration": "1:7",
-        "cover": "//i2.hdslb.com/bfs/archive/6b08f5cd3fee6e2c5a85c08fb1646544d4963691.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hBet6SE5f&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1SieU6rEYe",
+        "author": "哔哩哔哩纪录片",
+        "duration": "0:27",
+        "cover": "//i0.hdslb.com/bfs/archive/086515a5a4db6480ddd27a03223a4ed3c53744d8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SieU6rEYe&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "中国救护2 医生与死神抢命"
       },
       {
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+        "url": "https://www.qbitai.com/2026/09/497382.html",
+        "desc": "还把「密钥」叫战利品",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/e7fbed7962058f8a5a2e26b2e04f8719.webp",
+        "date": "2026-09-26T15:04:15",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
         "url": "https://www.qbitai.com/2026/09/497278.html",
         "desc": "",
@@ -615,7 +625,7 @@
         "date": "2026-09-25T21:24:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
@@ -625,7 +635,7 @@
         "date": "2026-09-25T21:15:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
@@ -635,7 +645,7 @@
         "date": "2026-09-25T18:00:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
@@ -645,7 +655,7 @@
         "date": "2026-09-25T14:20:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
@@ -655,7 +665,7 @@
         "date": "2026-09-25T14:14:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
@@ -665,7 +675,7 @@
         "date": "2026-09-25T14:11:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
@@ -675,7 +685,7 @@
         "date": "2026-09-25T13:52:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
@@ -685,7 +695,7 @@
         "date": "2026-09-24T22:20:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
@@ -695,7 +705,7 @@
         "date": "2026-09-24T22:17:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "时隔十年，AI大牛署名新论文",
@@ -705,7 +715,7 @@
         "date": "2026-09-24T20:58:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
@@ -715,7 +725,7 @@
         "date": "2026-09-24T16:20:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
@@ -725,7 +735,7 @@
         "date": "2026-09-24T13:46:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
@@ -735,7 +745,7 @@
         "date": "2026-09-24T13:45:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
@@ -745,7 +755,7 @@
         "date": "2026-09-24T13:19:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
@@ -755,7 +765,7 @@
         "date": "2026-09-24T10:51:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
@@ -765,7 +775,7 @@
         "date": "2026-09-24T10:23:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "成立九年，中科类脑把积累装进Token工厂",
@@ -775,7 +785,7 @@
         "date": "2026-09-24T08:48:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
@@ -785,7 +795,7 @@
         "date": "2026-09-23T18:35:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
@@ -795,7 +805,7 @@
         "date": "2026-09-23T17:56:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
@@ -805,7 +815,7 @@
         "date": "2026-09-23T17:50:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
@@ -815,7 +825,7 @@
         "date": "2026-09-23T17:46:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
@@ -825,7 +835,7 @@
         "date": "2026-09-23T16:54:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
@@ -835,7 +845,7 @@
         "date": "2026-09-23T16:45:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
@@ -845,7 +855,7 @@
         "date": "2026-09-23T15:29:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "Qwen一号位定了！刘大一恒接棒",
@@ -855,7 +865,7 @@
         "date": "2026-09-23T15:27:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
@@ -865,7 +875,7 @@
         "date": "2026-09-23T14:38:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
@@ -875,7 +885,7 @@
         "date": "2026-09-23T14:08:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "稚晖君把机器人卖到2万元一台，可人可狗可开发！",
@@ -885,7 +895,7 @@
         "date": "2026-09-23T13:16:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
@@ -895,36 +905,26 @@
         "date": "2026-09-23T13:13:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
-        "url": "https://www.qbitai.com/2026/09/496170.html",
-        "desc": "下半场开始了",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/hyper3d_no_text-scaled.jpg",
-        "date": "2026-09-23T13:01:24",
-        "platform": "qbitai",
-        "kind": "article",
         "rank": 30
       }
     ],
     "36kr": [
       {
-        "title": "张小龙开始用小微替掉元宝了",
-        "url": "https://m.36kr.com/p/3999593193361545",
+        "title": "天降我在天地间，总有故事后人听｜告别刘欢",
+        "url": "https://m.36kr.com/p/3999874252787847",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20260926/v2_2eea70bcbfaa4cb297207bc16bcbbbef@000000@ai_oswg974938oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1790405804930,
+        "cover": "https://img.36krcdn.com/hsossms/20260926/v2_069f66d0c5e94e0eb8dfc8fad4391f56@000000@ai_oswg674586oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1790405822878,
         "platform": "36kr",
         "kind": "article",
         "rank": 1
       },
       {
-        "title": "著名音乐家刘欢去世：从教32年、捐赠2000万、资助新生代唱作人",
-        "url": "https://m.36kr.com/p/3999695107461251",
+        "title": "阿里的蒸汽机时代",
+        "url": "https://m.36kr.com/p/3999648218289801",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20260926/v2_10a53233dbf2446db1952e2232ec6032@000000@ai_oswg938154oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1790396247328,
+        "cover": "https://img.36krcdn.com/hsossms/20260926/v2_225a741a783b49ff80821797d43b123d@000000_oswg105697oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
+        "date": 1790405815034,
         "platform": "36kr",
         "kind": "article",
         "rank": 2
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790405763933,
+    "thepaper": 1790406670562,
     "bilibili": 1790405169584,
-    "qbitai": 1790405810092,
-    "36kr": 1790405810660
+    "qbitai": 1790406710174,
+    "36kr": 1790406710978
   },
   "failures": {}
 }
