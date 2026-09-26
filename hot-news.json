@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:56:29Z",
+  "updatedAt": "2026-09-26T09:11:37Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,26 @@
     ],
     "qbitai": [
       {
+        "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+        "url": "https://www.qbitai.com/2026/09/498271.html",
+        "desc": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/d62e6940ece9f7d4aa6b4ff6306cfc27.jpeg",
+        "date": "2026-09-26T17:07:41",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+        "url": "https://www.qbitai.com/2026/09/497624.html",
+        "desc": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/feb20a0a3ae0290b4bccda23e2e16585.jpeg",
+        "date": "2026-09-26T17:01:00",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
+      {
         "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
         "url": "https://www.qbitai.com/2026/09/497613.html",
         "desc": "大伟哥：如果做不到，一年两年之后过来打我脸",
@@ -615,7 +635,7 @@
         "date": "2026-09-26T15:18:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 3
       },
       {
         "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
@@ -625,7 +645,7 @@
         "date": "2026-09-26T15:12:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 4
       },
       {
         "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
@@ -635,7 +655,7 @@
         "date": "2026-09-26T15:04:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
@@ -645,7 +665,7 @@
         "date": "2026-09-25T21:24:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
@@ -655,7 +675,7 @@
         "date": "2026-09-25T21:15:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
@@ -665,7 +685,7 @@
         "date": "2026-09-25T18:00:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
@@ -675,7 +695,7 @@
         "date": "2026-09-25T14:20:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
@@ -685,7 +705,7 @@
         "date": "2026-09-25T14:14:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
@@ -695,7 +715,7 @@
         "date": "2026-09-25T14:11:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
@@ -705,7 +725,7 @@
         "date": "2026-09-25T13:52:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
@@ -715,7 +735,7 @@
         "date": "2026-09-24T22:20:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
@@ -725,7 +745,7 @@
         "date": "2026-09-24T22:17:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "时隔十年，AI大牛署名新论文",
@@ -735,7 +755,7 @@
         "date": "2026-09-24T20:58:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
@@ -745,7 +765,7 @@
         "date": "2026-09-24T16:20:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
@@ -755,7 +775,7 @@
         "date": "2026-09-24T13:46:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
@@ -765,7 +785,7 @@
         "date": "2026-09-24T13:45:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
@@ -775,7 +795,7 @@
         "date": "2026-09-24T13:19:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
@@ -785,7 +805,7 @@
         "date": "2026-09-24T10:51:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
@@ -795,7 +815,7 @@
         "date": "2026-09-24T10:23:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "成立九年，中科类脑把积累装进Token工厂",
@@ -805,7 +825,7 @@
         "date": "2026-09-24T08:48:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
@@ -815,7 +835,7 @@
         "date": "2026-09-23T18:35:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
@@ -825,7 +845,7 @@
         "date": "2026-09-23T17:56:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
@@ -835,7 +855,7 @@
         "date": "2026-09-23T17:50:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 25
       },
       {
         "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
@@ -845,7 +865,7 @@
         "date": "2026-09-23T17:46:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 26
       },
       {
         "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
@@ -855,7 +875,7 @@
         "date": "2026-09-23T16:54:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 27
       },
       {
         "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
@@ -865,7 +885,7 @@
         "date": "2026-09-23T16:45:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 28
       },
       {
         "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
@@ -875,7 +895,7 @@
         "date": "2026-09-23T15:29:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 29
       },
       {
         "title": "Qwen一号位定了！刘大一恒接棒",
@@ -883,26 +903,6 @@
         "desc": "与稚晖君同届天才少年",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/HSviy__bYAAeMT2-e1790148444354.jpeg",
         "date": "2026-09-23T15:27:49",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 28
-      },
-      {
-        "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
-        "url": "https://www.qbitai.com/2026/09/496352.html",
-        "desc": "对复杂现实进行推演与决策",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/64e9b65af1ce71435c2fa91abf98bfb2.webp",
-        "date": "2026-09-23T14:38:07",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
-        "url": "https://www.qbitai.com/2026/09/496329.html",
-        "desc": "实时性和通用能力，世界模型可以全都要",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/6d27f98b26111d06b1ede25c12cef8ba.webp",
-        "date": "2026-09-23T14:08:50",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790412968823,
-    "bilibili": 1790412973289,
-    "qbitai": 1790412988978,
-    "36kr": 1790412989302
+    "thepaper": 1790413864320,
+    "bilibili": 1790412440927,
+    "qbitai": 1790413897558,
+    "36kr": 1790413897982
   },
   "failures": {}
 }
