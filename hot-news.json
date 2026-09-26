@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T06:26:38Z",
+  "updatedAt": "2026-09-26T06:42:10Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -76,50 +76,50 @@
         "rank": 12
       },
       {
+        "title": "直播丨刘欢63岁人生谢幕：大河向东流，歌魂永不朽",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34154261",
+        "desc": "",
+        "rank": 13
+      },
+      {
+        "title": "纪念｜刘欢走了，“我和你”都会记得",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34154729",
+        "desc": "",
+        "rank": 14
+      },
+      {
         "title": "以色列在联大拿出星链挑衅，遭伊朗代表团人员无视",
         "url": "https://www.thepaper.cn/newsDetail_forward_34149928",
         "desc": "",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "七嘴八舌｜文化出海需要更多“周深式开口”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34116351",
         "desc": "",
-        "rank": 14
-      },
-      {
-        "title": "白宫欢迎国宴，哪些企业家坐主桌？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34148989",
-        "desc": "",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "宫鲁鸣回应三分球颗粒无收：时间长了什么情况都可能遇到",
         "url": "https://www.thepaper.cn/newsDetail_forward_34149921",
         "desc": "",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "一张赛车票，打开不一样的上海中秋假期",
         "url": "https://www.thepaper.cn/newsDetail_forward_34150652",
         "desc": "",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "观察｜以战略稳定应对外部不确定性，中美关系“重中之重”的背后",
         "url": "https://www.thepaper.cn/newsDetail_forward_34143275",
         "desc": "",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙",
         "url": "https://www.thepaper.cn/newsDetail_forward_34151574",
-        "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "习近平圆满结束对美国的国事访问",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34151580",
         "desc": "",
         "rank": 20
       }
@@ -286,19 +286,19 @@
         "hotTitle": "黄龄中秋浴室热歌串烧"
       },
       {
-        "title": "噩耗传来！音乐家刘欢9月25日于上海病逝享年63岁，遵照遗愿不办追悼会冲上热搜",
-        "url": "https://www.bilibili.com/video/BV1VghQ6jEEz",
+        "title": "刘欢老师因病去世了，享年63岁",
+        "url": "https://www.bilibili.com/video/BV1gahD6GEkn",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1VghQ6jEEz",
-        "author": "吐槽怪味豆",
-        "duration": "1:46",
-        "cover": "//i1.hdslb.com/bfs/archive/693afce2aa01913f1fd40c3390ac48f12ea80134.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VghQ6jEEz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1gahD6GEkn",
+        "author": "叽里瓜哒",
+        "duration": "9:54",
+        "cover": "//i1.hdslb.com/bfs/archive/cdd3b7f0d35675a4d97e430a713cf61c4ffdd279.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gahD6GEkn&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "刘欢去世"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790403963931,
+    "thepaper": 1790404864818,
     "bilibili": 1790403367101,
-    "qbitai": 1790403997770,
-    "36kr": 1790403998190
+    "qbitai": 1790404928112,
+    "36kr": 1790404930008
   },
   "failures": {}
 }
