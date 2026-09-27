@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T10:41:36Z",
+  "updatedAt": "2026-09-27T10:56:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -334,19 +334,19 @@
         "hotTitle": "第五人格x韦唯为亚运助威"
       },
       {
-        "title": "叶北跨界奇遇71",
-        "url": "https://www.bilibili.com/video/BV1Adab6gEXB",
+        "title": "第13集",
+        "url": "https://www.bilibili.com/video/BV1pnab6PELA",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Adab6gEXB",
-        "author": "奇遇小北",
-        "duration": "3:6",
-        "cover": "//i0.hdslb.com/bfs/archive/45148b294eb3ab8e01be0e0668b3b139b31e0a55.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Adab6gEXB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1pnab6PELA",
+        "author": "漫十一漫十一",
+        "duration": "3:13",
+        "cover": "//i2.hdslb.com/bfs/archive/d3c9254cacb7c60bc459fc1743ab20ff140948f8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pnab6PELA&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "国产动画秋季导视上线"
       },
       {
@@ -590,19 +590,19 @@
         "hotTitle": "有Wei契约"
       },
       {
-        "title": "《凡人修仙传：年番》最新黄龙山决战PV预告：韩立迎慕兰圣女，脱身仲神师，破阵后名声响彻天南！慕兰之战战况僵持，天南疆域部分沦陷！边界大战即将开启",
-        "url": "https://www.bilibili.com/video/BV1tGah67Eyw",
+        "title": "圣女单刷黄龙山【一命通关教程】",
+        "url": "https://www.bilibili.com/video/BV1fSa86AEyw",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1tGah67Eyw",
-        "author": "国漫超前预告",
-        "duration": "5:1",
-        "cover": "//i1.hdslb.com/bfs/archive/1b04043eec863b99ae0935516763b16aa39da0a0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tGah67Eyw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1fSa86AEyw",
+        "author": "西庚",
+        "duration": "2:6",
+        "cover": "//i1.hdslb.com/bfs/archive/343f82a8275075dc8f284da797d4e1670ba84f32.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fSa86AEyw&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "慕兰大军进攻黄龙山"
       }
     ],
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790505663596,
-    "bilibili": 1790505672265,
-    "qbitai": 1790505696375,
-    "36kr": 1790505696861
+    "thepaper": 1790506563936,
+    "bilibili": 1790505078270,
+    "qbitai": 1790506596462,
+    "36kr": 1790506596914
   },
   "failures": {}
 }
