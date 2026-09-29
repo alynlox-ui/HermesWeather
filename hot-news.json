@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-29T11:56:42Z",
-  "liveSourceCount": 3,
+  "updatedAt": "2026-09-29T12:11:32Z",
+  "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
@@ -174,19 +174,19 @@
         "hotTitle": "购房贴息最高规模100万"
       },
       {
-        "title": "台媒:中美G2体制形成，日本夜不能寐。",
-        "url": "https://www.bilibili.com/video/BV188a36PEzw",
+        "title": "【BLG nephh】上海冠军赛PRX vs G2 解说阿芙",
+        "url": "https://www.bilibili.com/video/BV1YCaH6NEtG",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV188a36PEzw",
-        "author": "中天全球",
-        "duration": "5:16",
-        "cover": "//i0.hdslb.com/bfs/archive/d2f991576894b3202e9f006257423133f36df3e2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV188a36PEzw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "@BLG_nephh 关注nephh喵",
+        "content": "@BLG_nephh 关注nephh喵",
+        "bvid": "BV1YCaH6NEtG",
+        "author": "chaiki77",
+        "duration": "256:50",
+        "cover": "//i0.hdslb.com/bfs/archive/f687b03bbd79cfd21803db16e50bbb71d75b80ac.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YCaH6NEtG&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "PRX战胜G2 VCT冠军赛"
       },
       {
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "热门中概股美股盘前普跌，蔚来跌超3%",
+        "url": "https://m.36kr.com/newsflashes/4004494453575561",
+        "desc": "36氪获悉，热门中概股美股盘前普跌，截至发稿，蔚来跌超3%，小鹏集团、理想汽车跌超2%，贝壳跌超1%，京东跌0.71%，哔哩哔哩跌0.33%，阿里巴巴跌0.25%，拼多多跌0.11%，百度跌0.1%。",
+        "cover": "",
+        "date": 1790686944676,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "全球主动管理ETF资产规模、年净流入额，双双创新高",
         "url": "https://m.36kr.com/newsflashes/4004491507978117",
         "desc": "近日，ETF独立研究与咨询公司ETFGI发布的报告显示，截至2026年8月底，全球主动管理ETF资产规模达2.72万亿美元，且资金净流入额达6636亿美元，双双创历史新高。增速方面，全球主动管理ETF的资产规模年初至今增长了42.6%，凸显了投资者对该类产品持续的需求。ETFGI指出，大量流入可归因于净新增资产排名前20的ETF/ETP产品，它们在8月合计流入253.9亿美元。该榜单前三位分别是：Avantis美国大盘价值ETF，单月净流入34.1亿美元；银华日利ETF，单月净流入26.6亿美元；ProShares GENIUS货币市场ETF，单月净流入21.45亿美元。（中国基金报）",
@@ -947,7 +957,7 @@
         "date": 1790686764891,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "美股大型科技股盘前涨跌不一，Meta涨超1%",
@@ -957,7 +967,7 @@
         "date": 1790686706956,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "韩国计划到2030年将可再生能源装机容量扩大至100吉瓦以上",
@@ -967,7 +977,7 @@
         "date": 1790685967000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "欧盟乐观地认为美国不会禁止柴油出口，称已向美能源部长发出明确信号",
@@ -977,7 +987,7 @@
         "date": 1790685645000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "埃斯顿：拟推299万股限制性股票激励计划",
@@ -987,7 +997,7 @@
         "date": 1790685309000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "步长制药：全资子公司签订940万元安宫牛黄丸技术转让合同",
@@ -997,7 +1007,7 @@
         "date": 1790684841000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "DeepSeek Harness v0.2预览版正式发布",
@@ -1007,7 +1017,7 @@
         "date": 1790684800057,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "国务院国资委： “十五五”时期将继续做好新央企组建和战略性重组",
@@ -1017,7 +1027,7 @@
         "date": 1790684751119,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "国务院国资委：进一步发力人工智能、新材料等重点领域，超前培育量子科技等前沿赛道",
@@ -1027,7 +1037,7 @@
         "date": 1790684691408,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "中基协：8月ABS新增备案规模逾1300亿元",
@@ -1037,7 +1047,7 @@
         "date": 1790684417000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "中科环保：拟投资不超过7亿元参与浙能锦江私有化",
@@ -1047,7 +1057,7 @@
         "date": 1790684032000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "华联控股：阿里扎罗锂盐湖项目收到FIRES通知",
@@ -1057,7 +1067,7 @@
         "date": 1790683893134,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "增值税新政实施一年累计办理留抵退税2818亿元",
@@ -1067,7 +1077,7 @@
         "date": 1790683266114,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "壳牌计划将加拿大液化天然气项目产能翻倍",
@@ -1077,7 +1087,7 @@
         "date": 1790683000449,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "联泰环保：拟向晢杰企业管理有限公司现金出售两家公司100%股权，作价16.11亿元",
@@ -1087,7 +1097,7 @@
         "date": 1790682224249,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "华之杰：购买资产及配套募资方案获董事会审议，2026年9月30日复牌",
@@ -1097,7 +1107,7 @@
         "date": 1790681646000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "三友联众：拟募资不超6.6亿元，用于光伏、储能及算力领域继电器扩产建设项目等",
@@ -1107,7 +1117,7 @@
         "date": 1790681434000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "比亚迪：选举王传福为第九届董事会董事长",
@@ -1117,7 +1127,7 @@
         "date": 1790681232719,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "建研院：筹划重大事项，股票停牌",
@@ -1127,26 +1137,15 @@
         "date": 1790681056162,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "机构今日买入鸿富诚等18股，卖出电科思仪9718万元",
-        "url": "https://m.36kr.com/newsflashes/4004380100219010",
-        "desc": "盘后数据显示，9月29日龙虎榜中，共36只个股出现了机构的身影，有18只股票呈现机构净买入，18只股票呈现机构净卖出。当天机构净买入前三的股票分别是鸿富诚、奥佳华、托伦斯，净买入金额分别是2.34亿元、7054万元、5078万元。当天机构净卖出前三的股票分别是电科思仪、我爱我家、崇达技术，净卖出金额分别是9718万元、7546万元、7332万元。（第一财经）",
-        "cover": "",
-        "date": 1790680859000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "bilibili": 1790686834424,
-    "qbitai": 1790682995127,
-    "36kr": 1790683002914
+    "thepaper": 1790687725400,
+    "bilibili": 1790686825037,
+    "qbitai": 1790683892461,
+    "36kr": 1790683892849
   },
-  "failures": {
-    "thepaper": "RuntimeError('empty list')"
-  }
+  "failures": {}
 }
