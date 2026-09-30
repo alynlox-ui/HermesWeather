@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T07:11:34Z",
+  "updatedAt": "2026-09-30T07:26:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -302,19 +302,19 @@
         "hotTitle": "给阿嬷的情书B站上线"
       },
       {
-        "title": "众主播看Jamppi火男三分球直接烫死奶妈拉起的人！这也在你的计算之内吗！浩东：库里半场绝杀雷霆！VIT vs LOUD！",
-        "url": "https://www.bilibili.com/video/BV1uBao6xE7u",
+        "title": "VIT.Jamppi：我猜对面贤者没看到火，直接把黑梦复活了 | VIT 2:0 LOUD 2026 上海冠军赛 赛后采访",
+        "url": "https://www.bilibili.com/video/BV1iWaf6CEpV",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "如果你觉得切片不赖的话不妨点个关注吧，VCT切片持续更新中！",
-        "content": "如果你觉得切片不赖的话不妨点个关注吧，VCT切片持续更新中！",
-        "bvid": "BV1uBao6xE7u",
-        "author": "不会枪的lansir",
-        "duration": "2:3",
-        "cover": "//i2.hdslb.com/bfs/archive/32b00b97390881269810aba64dfeb579e240dae8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uBao6xE7u&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "无畏契约BWIKI 2026无畏契约 上海冠军赛 相关条目：https://wiki.biligame.com/valorant/VCT/Champions/2026 选手问题征集：https://b23.tv/EkBzPsc 采访：@OTSEndPoem",
+        "content": "无畏契约BWIKI 2026无畏契约 上海冠军赛 相关条目：https://wiki.biligame.com/valorant/VCT/Champions/2026 选手问题征集：https://b23.tv/EkBzPsc 采访：@OTSEndPoem",
+        "bvid": "BV1iWaf6CEpV",
+        "author": "BWIKI无畏源能编辑组",
+        "duration": "1:7",
+        "cover": "//i1.hdslb.com/bfs/archive/b952cfc83bc4e39e2fc9f7eb7dce0d428ded46c9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iWaf6CEpV&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "VIT战胜LOUD VCT冠军赛"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790781063396,
-    "bilibili": 1790781071868,
-    "qbitai": 1790752293842,
-    "36kr": 1790752294263
+    "thepaper": 1790781964258,
+    "bilibili": 1790781000375,
+    "qbitai": 1790753194662,
+    "36kr": 1790753195004
   },
   "failures": {}
 }
