@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:56:36Z",
+  "updatedAt": "2026-09-30T05:11:56Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -286,19 +286,19 @@
         "hotTitle": "今天是烈士纪念日"
       },
       {
-        "title": "CCTV-1周末一起看电影《给阿嬷的情书》",
-        "url": "https://www.bilibili.com/video/BV1RREF6gEwq",
+        "title": "【给阿嬤的情书】粤语版",
+        "url": "https://www.bilibili.com/video/BV1Ytao6AExG",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "《给阿嬷的情书》背后的故事",
-        "content": "《给阿嬷的情书》背后的故事",
-        "bvid": "BV1RREF6gEwq",
-        "author": "江城秋雨",
-        "duration": "60:21",
-        "cover": "//i0.hdslb.com/bfs/archive/15bf16f7b3d27fd8e06367ae64598e0eb18f6d7a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RREF6gEwq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Ytao6AExG",
+        "author": "芮安山和",
+        "duration": "43:27",
+        "cover": "//i0.hdslb.com/bfs/archive/9d9ec54a8b3d6f3ac96b0aaa760b2313da2faeee.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ytao6AExG&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "给阿嬷的情书B站上线"
       },
       {
@@ -910,24 +910,34 @@
     ],
     "36kr": [
       {
-        "title": "Muse爆火，大厂急了",
-        "url": "https://m.36kr.com/p/4005523574034305",
+        "title": "刚刚，十个Claude 5.5攻克百年物理猜想",
+        "url": "https://m.36kr.com/p/4005646894157699",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20260930/v2_db0164595b1d4923a3f03361fa7b88f4@5888275@ai_oswg834907oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1790756005488,
+        "cover": "https://img.36krcdn.com/hsossms/20260930/v2_cfb0fe5ecf6442a09d146f398b4fc91f@5888275@ai_oswg800074oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1790773741926,
         "platform": "36kr",
         "kind": "article",
         "rank": 1
       },
       {
-        "title": "OpenAI踩下刹车的70天",
-        "url": "https://m.36kr.com/p/4005266596714370",
+        "title": "硅谷藏了多少隐形债务？",
+        "url": "https://m.36kr.com/p/4005820797325442",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20260930/v2_88edda46fb494a9fad43650d5e4030df@1743780481@ai_oswg1012080oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1790741782817,
+        "cover": "https://img.36krcdn.com/hsossms/20260930/v2_c80913c0376c407da55cdddb1f77fba9@5888275@ai_oswg762782oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1790773259076,
         "platform": "36kr",
         "kind": "article",
         "rank": 2
+      },
+      {
+        "title": "热门中概股美股盘前普涨，贝壳涨超2%",
+        "url": "https://m.36kr.com/newsflashes/4005904931934082",
+        "desc": "36氪获悉，热门中概股美股盘前普涨，截至发稿，贝壳涨超2%，阿里巴巴、京东、百度、哔哩哔哩、小鹏集团、理想汽车涨超1%，拼多多涨0.41%，蔚来跌0.26%。",
+        "cover": "",
+        "date": 1790773033443,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
       },
       {
         "title": "美股大型科技股盘前多数上涨，谷歌涨超1%",
@@ -937,7 +947,7 @@
         "date": 1790772707460,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "美国8月先期商品贸易逆差1326亿美元，高于预期",
@@ -947,7 +957,7 @@
         "date": 1790771948797,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "美国8月核心PCE环比增长0.2%，低于市场预期",
@@ -957,7 +967,7 @@
         "date": 1790771553254,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "美国9月ADP就业人数增加9万人，高于市场预期",
@@ -967,7 +977,7 @@
         "date": 1790771369533,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "宁德时代：拟推2026年第二期员工持股计划",
@@ -977,7 +987,7 @@
         "date": 1790771060724,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "Meta推出AI旅行代理Muse，Truist警告OTA面临更大分流风险",
@@ -987,7 +997,7 @@
         "date": 1790770441000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "长城证券：股东深圳新江南拟减持不超1.5%股份",
@@ -997,7 +1007,7 @@
         "date": 1790770126000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "峰岹科技：拟收购荷兰半导体传感器企业Sciosense，交易总对价1.18亿美元",
@@ -1007,7 +1017,7 @@
         "date": 1790769831000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "东方证券：发行股份及支付现金购资产申请获证监会受理",
@@ -1017,7 +1027,7 @@
         "date": 1790769548000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "纳睿雷达：拟1.62亿元收购芯泰通信51%股权",
@@ -1027,7 +1037,7 @@
         "date": 1790769315000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "GPU云服务商GMI获英伟达等投资方6.68亿美元融资",
@@ -1037,7 +1047,7 @@
         "date": 1790769016000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "半导体需求点燃行情，异丙醇两个多月涨逾四成",
@@ -1047,7 +1057,7 @@
         "date": 1790768624000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "中指研究院：前9月百家房企销售总额22597.2亿元",
@@ -1057,7 +1067,7 @@
         "date": 1790768410146,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "美国抵押贷款利率连续六周攀升，重创再融资与购房需求",
@@ -1067,7 +1077,7 @@
         "date": 1790768110000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "恒大物业：潜在卖方与潜在买方已同意就潜在交易进行排他性谈判",
@@ -1077,7 +1087,7 @@
         "date": 1790767985826,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "58家IPO今日更新审核状态为“中止”，主要为财报更新导致",
@@ -1087,7 +1097,7 @@
         "date": 1790767513000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "美国基金在瑞士提交诉状，指控贸易商Radiant World存在欺诈行为",
@@ -1097,7 +1107,7 @@
         "date": 1790767099000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "同大股份：控股股东、第一大股东解除股份转让协议",
@@ -1107,7 +1117,7 @@
         "date": 1790766746000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "康希诺：正在进行mRNA预防用疫苗及治疗性生物制品的开发，以及相关递送系统的开发",
@@ -1117,25 +1127,15 @@
         "date": 1790766594163,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "快手高管调整：程一笑兼任社科线负责人 于越转任可灵CEO",
-        "url": "https://m.36kr.com/newsflashes/4005793167576963",
-        "desc": "快手发布内部公告，宣布高管分工调整：快手创始人兼首席执行官程一笑将兼任社区科学线负责人；原社区科学线负责人于越转任可灵AI公司董事兼首席执行官，未来将专注于可灵AI的经营管理。（新浪科技）",
-        "cover": "",
-        "date": 1790766211888,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790772963628,
-    "bilibili": 1790772972116,
-    "qbitai": 1790744195818,
-    "36kr": 1790744196243
+    "thepaper": 1790773863683,
+    "bilibili": 1790772917622,
+    "qbitai": 1790745095332,
+    "36kr": 1790745116050
   },
   "failures": {}
 }
