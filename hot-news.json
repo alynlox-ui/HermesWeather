@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T05:26:35Z",
+  "updatedAt": "2026-09-30T05:41:29Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -136,7 +136,7 @@
         "content": "【无畏契约上海全球冠军赛】9月30日 100T vs FUT",
         "bvid": "BV1ebao6aEFy",
         "author": "无畏契约赛事",
-        "duration": "11:46",
+        "duration": "101:52",
         "cover": "//i0.hdslb.com/bfs/archive/a123608e3e628ea2a750a5f39246219280e8b0f4.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ebao6aEFy&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "100T vs FUT VCT冠军赛"
@@ -286,19 +286,19 @@
         "hotTitle": "最强厄尔尼诺会带来什么影响"
       },
       {
-        "title": "【给阿嬤的情书】粤语版",
-        "url": "https://www.bilibili.com/video/BV1Ytao6AExG",
+        "title": "【给阿嬤的情书】普通话版",
+        "url": "https://www.bilibili.com/video/BV13jYF6MEAi",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Ytao6AExG",
-        "author": "芮安山和",
-        "duration": "43:27",
-        "cover": "//i0.hdslb.com/bfs/archive/9d9ec54a8b3d6f3ac96b0aaa760b2313da2faeee.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ytao6AExG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV13jYF6MEAi",
+        "author": "涵涵不吃菜a",
+        "duration": "147:22",
+        "cover": "//i0.hdslb.com/bfs/archive/e5cabc0f736f8cc26dce8dbf437495834abfa2ba.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13jYF6MEAi&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "给阿嬷的情书B站上线"
       },
       {
@@ -455,7 +455,7 @@
         "description": "",
         "content": "",
         "bvid": "BV1iEa36rEV7",
-        "author": "",
+        "author": "堵钱眼的申公豹",
         "duration": "2:43",
         "cover": "//i1.hdslb.com/bfs/archive/2be0779276b93d109f770860da2d91eb599b56a7.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iEa36rEV7&p=1&high_quality=1&danmaku=0&autoplay=0",
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790774763245,
-    "bilibili": 1790774772079,
-    "qbitai": 1790745994733,
-    "36kr": 1790745995169
+    "thepaper": 1790775663207,
+    "bilibili": 1790774719165,
+    "qbitai": 1790746889540,
+    "36kr": 1790746889919
   },
   "failures": {}
 }
