@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T03:56:34Z",
+  "updatedAt": "2026-09-30T04:11:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "直播回顾：工业AI的下一个机会在哪？",
+        "url": "https://www.qbitai.com/2026/09/499605.html",
+        "desc": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/61c07b8326015402a296da1d587e1d87.jpeg",
+        "date": "2026-09-30T20:11:24",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "Anthropic，你是来给智谱打广告的吧！",
         "url": "https://www.qbitai.com/2026/09/499597.html",
         "desc": "实测说GLM-5.3很强",
@@ -615,7 +625,7 @@
         "date": "2026-09-30T18:04:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
@@ -625,7 +635,7 @@
         "date": "2026-09-30T15:58:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
@@ -635,7 +645,7 @@
         "date": "2026-09-30T15:54:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
@@ -645,7 +655,7 @@
         "date": "2026-09-30T13:18:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
@@ -655,7 +665,7 @@
         "date": "2026-09-30T12:42:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
@@ -665,7 +675,7 @@
         "date": "2026-09-30T10:53:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
@@ -675,7 +685,7 @@
         "date": "2026-09-30T07:01:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
@@ -685,7 +695,7 @@
         "date": "2026-09-29T18:56:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
@@ -695,7 +705,7 @@
         "date": "2026-09-29T15:59:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "OpenAI因新模型太强叫停发布",
@@ -705,7 +715,7 @@
         "date": "2026-09-29T15:49:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
@@ -715,7 +725,7 @@
         "date": "2026-09-29T15:10:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
@@ -725,7 +735,7 @@
         "date": "2026-09-29T08:49:30",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
@@ -735,7 +745,7 @@
         "date": "2026-09-28T20:43:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "HC归来，华为正重新定义AIDC基础设施",
@@ -745,7 +755,7 @@
         "date": "2026-09-28T19:18:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
@@ -755,7 +765,7 @@
         "date": "2026-09-27T22:20:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
@@ -765,7 +775,7 @@
         "date": "2026-09-27T21:57:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
@@ -775,7 +785,7 @@
         "date": "2026-09-27T21:40:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "啥题啊能干崩OpenAI最强模型训练…",
@@ -785,7 +795,7 @@
         "date": "2026-09-27T17:44:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
@@ -795,7 +805,7 @@
         "date": "2026-09-26T19:49:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
@@ -805,7 +815,7 @@
         "date": "2026-09-26T17:07:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
@@ -815,7 +825,7 @@
         "date": "2026-09-26T17:01:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
@@ -825,7 +835,7 @@
         "date": "2026-09-26T15:18:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
@@ -835,7 +845,7 @@
         "date": "2026-09-26T15:12:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
@@ -845,7 +855,7 @@
         "date": "2026-09-26T15:04:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "AI用了一堆、钱没赚到？阿里瓴羊放话：AI员工得直接扛KPI",
@@ -855,7 +865,7 @@
         "date": "2026-09-26T11:44:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
@@ -865,7 +875,7 @@
         "date": "2026-09-25T21:24:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
@@ -875,7 +885,7 @@
         "date": "2026-09-25T21:15:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
@@ -885,7 +895,7 @@
         "date": "2026-09-25T18:00:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
@@ -893,16 +903,6 @@
         "desc": "Agent的手越伸越长",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/ec70ba413b87d756ddffb67a5f303163.jpeg",
         "date": "2026-09-25T14:20:56",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "高通All in 智能体！CEO安蒙：我们已处在智能体时代的开端",
-        "url": "https://www.qbitai.com/2026/09/497044.html",
-        "desc": "智能体时代已至",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/0519c58f505241d05886077afb99c96c.png",
-        "date": "2026-09-25T14:20:29",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "长城证券：股东深圳新江南拟减持不超1.5%股份",
+        "url": "https://m.36kr.com/newsflashes/4005844579012480",
+        "desc": "36氪获悉，长城证券公告，公司股东深圳新江南投资有限公司持有公司股份4.49亿股，占总股本11.12%，计划在公告披露之日起15个交易日后的3个月内，通过集中竞价或大宗交易方式减持不超过6051.64万股，占总股本不超过1.5%。减持原因为业务发展需求及资金需求，股份来源为首次公开发行前股份及非公开发行股份。本次减持不会导致公司控制权变更。",
+        "cover": "",
+        "date": 1790770126000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "峰岹科技：拟收购荷兰半导体传感器企业Sciosense，交易总对价1.18亿美元",
+        "url": "https://m.36kr.com/newsflashes/4005843688411269",
+        "desc": "36氪获悉，峰岹科技公告，公司拟通过全资子公司峰岹微电子以现金方式向Sciosense Holding B.V.购买其持有的Sciosense 100%股份，交易总对价为1.18亿美元（约人民币8.04亿元），其中股份对价为9578.33万美元（约人民币6.52亿元），债权对价为2221.68万美元（约人民币1.51亿元），资金来源为自有资金，并由峰岹科技向峰岹微电子增资以实施。交易完成后，Sciosense及其下属企业将成为公司间接全资子公司并纳入公司合并报表范围。",
+        "cover": "",
+        "date": 1790769831000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "东方证券：发行股份及支付现金购资产申请获证监会受理",
+        "url": "https://m.36kr.com/newsflashes/4005834101510279",
+        "desc": "36氪获悉，东方证券公告，公司拟通过发行A股股份及支付现金的方式购买上海证券有限责任公司100%股权，本次交易涉及的公司变更主要股东、上海证券等多家子公司变更实际控制人等相关行政许可申请已获中国证监会受理。本次交易尚需上海证券交易所审核通过，并经中国证监会及其他有关主管部门批准、核准、注册后方可正式实施，能否取得相关批准及最终取得时间均存在不确定性。",
+        "cover": "",
+        "date": 1790769548000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "纳睿雷达：拟1.62亿元收购芯泰通信51%股权",
         "url": "https://m.36kr.com/newsflashes/4005830299504774",
         "desc": "36氪获悉，纳睿雷达公告，公司拟以自有资金人民币1.62亿元购买杨超见、陈泰保、姚秋芳、许珍、黎云峰、朱梅芳持有的广州芯泰通信技术有限公司51%的股权，并在受让股权后承担该标的股权中尚未实缴出资的缴纳义务。本次交易完成后，公司将持有芯泰通信51%股权，芯泰通信将成为公司控股子公司，纳入公司合并报表范围内。",
@@ -937,7 +967,7 @@
         "date": 1790769315000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "GPU云服务商GMI获英伟达等投资方6.68亿美元融资",
@@ -947,7 +977,7 @@
         "date": 1790769016000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "半导体需求点燃行情，异丙醇两个多月涨逾四成",
@@ -957,7 +987,7 @@
         "date": 1790768624000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "中指研究院：前9月百家房企销售总额22597.2亿元",
@@ -967,7 +997,7 @@
         "date": 1790768410146,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "美国抵押贷款利率连续六周攀升，重创再融资与购房需求",
@@ -977,7 +1007,7 @@
         "date": 1790768110000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "恒大物业：潜在卖方与潜在买方已同意就潜在交易进行排他性谈判",
@@ -987,7 +1017,7 @@
         "date": 1790767985826,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "58家IPO今日更新审核状态为“中止”，主要为财报更新导致",
@@ -997,7 +1027,7 @@
         "date": 1790767513000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "美国基金在瑞士提交诉状，指控贸易商Radiant World存在欺诈行为",
@@ -1007,7 +1037,7 @@
         "date": 1790767099000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "同大股份：控股股东、第一大股东解除股份转让协议",
@@ -1017,7 +1047,7 @@
         "date": 1790766746000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "康希诺：正在进行mRNA预防用疫苗及治疗性生物制品的开发，以及相关递送系统的开发",
@@ -1027,7 +1057,7 @@
         "date": 1790766594163,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "快手高管调整：程一笑兼任社科线负责人 于越转任可灵CEO",
@@ -1037,7 +1067,7 @@
         "date": 1790766211888,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "拉卡拉：拟购买广州市高富信息科技有限公司控股权 股票10月8日起停牌",
@@ -1047,7 +1077,7 @@
         "date": 1790765743403,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "东阳光：控股股东及一致行动人拟增持6亿至12亿元股份",
@@ -1057,7 +1087,7 @@
         "date": 1790765576000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "2连板上海洗霸：固态电池相关业务暂未形成长期稳定的规模化收入",
@@ -1067,7 +1097,7 @@
         "date": 1790765339000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "蓝思科技：实际控制人增持计划实施完毕，增持310.55万股占0.06%",
@@ -1077,7 +1107,7 @@
         "date": 1790765045000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "特锐德：获中国证监会备案拟发行不超1.35亿股H股",
@@ -1087,7 +1117,7 @@
         "date": 1790764802000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "上交所：对全球芯片LOF等溢价较高的基金进行重点监控",
@@ -1097,45 +1127,15 @@
         "date": 1790764565000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "消息称苹果计划10月13日大力进军智能家居市场",
-        "url": "https://m.36kr.com/newsflashes/4005763927117705",
-        "desc": "据报道，苹果计划10月13日大力进军智能家居市场，将首发家庭中枢（Home Hub）以及更新版的 Apple TV 和 HomePod mini。（财联社）",
-        "cover": "",
-        "date": 1790764427192,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "ST豆神：全资孙公司签署《云计算服务协议》 合同总金额约1.19亿美元",
-        "url": "https://m.36kr.com/newsflashes/4005744911388548",
-        "desc": "36氪获悉，ST豆神公告，全资孙公司豆神香港有限公司与VB客户签署《云计算服务协议》，向客户方提供GPU算力资源租赁、部署、运维，以云服务方式交付，服务期自资源上线并通过服务就绪测试之日起60个月，合同总金额1.19亿美元（不含适用税费），折合人民币约8.01亿元。",
-        "cover": "",
-        "date": 1790764222000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "海尔智家：已累计回购金额达22.9亿元",
-        "url": "https://m.36kr.com/newsflashes/4005740626153349",
-        "desc": "36氪获悉，海尔智家公告，2026年9月以集中竞价方式回购A股1509.77万股，占总股本0.162%，价格19.86元/股至21.84元/股，支付3.14亿元；本次回购实施起始日（2026年3月27日）至2026年9月30日，公司已累计回购1.1亿股，占总股本1.177%，价格19.60元/股至22.40元/股，累计支付22.9亿元。",
-        "cover": "",
-        "date": 1790763900000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790769363921,
-    "bilibili": 1790769372613,
-    "qbitai": 1790740594489,
-    "36kr": 1790740594908
+    "thepaper": 1790770263640,
+    "bilibili": 1790769315024,
+    "qbitai": 1790741493954,
+    "36kr": 1790741494406
   },
   "failures": {}
 }
