@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T06:11:33Z",
+  "updatedAt": "2026-09-30T06:26:29Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "瓶子君看100T对战FUT图一：速通太快甚至不如暂停时间长！sopp霓虹6-14还沉浸在吃国补时自己无所不能的幻觉中",
-        "url": "https://www.bilibili.com/video/BV1DnYF6eETN",
+        "title": "【大东彦】看cryo疯狂抖鼠标申请现场观众援助笑嘻了！但无人在意！没有人哦！FUT vs 100T",
+        "url": "https://www.bilibili.com/video/BV1dMYF6CETR",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1DnYF6eETN",
-        "author": "流光游戏",
-        "duration": "17:10",
-        "cover": "//i2.hdslb.com/bfs/archive/5f5ee58c415109a8d1db41762a5724eadb2cba88.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DnYF6eETN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！ 大东彦： https://space.bilibili.com/179877838 https://live.bilibili.com/5236391",
+        "content": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！ 大东彦： https://space.bilibili.com/179877838 https://live.bilibili.com/5236391",
+        "bvid": "BV1dMYF6CETR",
+        "author": "anno大笨蛋",
+        "duration": "1:6",
+        "cover": "//i0.hdslb.com/bfs/archive/c14365abea245822a1ab579902d70e03a132f7b3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dMYF6CETR&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "100T vs FUT VCT冠军赛"
       },
       {
@@ -174,19 +174,19 @@
         "hotTitle": "英国为何又考虑加入欧盟了"
       },
       {
-        "title": "众主播看Jamppi火男三分球直接烫死奶妈拉起的人！这也在你的计算之内吗！浩东：库里半场绝杀雷霆！VIT vs LOUD！",
-        "url": "https://www.bilibili.com/video/BV1uBao6xE7u",
+        "title": "冠军赛根本就不存在这样的比赛！吃了国补的队伍全部晕碳！LOUD、G2、KC、FUT...tkzin，lukxo燃尽难取胜！小蜜蜂挺进淘汰赛！VIT2：0LOUD",
+        "url": "https://www.bilibili.com/video/BV1Tkaf6hEsC",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "如果你觉得切片不赖的话不妨点个关注吧，VCT切片持续更新中！",
-        "content": "如果你觉得切片不赖的话不妨点个关注吧，VCT切片持续更新中！",
-        "bvid": "BV1uBao6xE7u",
-        "author": "不会枪的lansir",
-        "duration": "2:3",
-        "cover": "//i2.hdslb.com/bfs/archive/32b00b97390881269810aba64dfeb579e240dae8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uBao6xE7u&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Tkaf6hEsC",
+        "author": "蓝无畏契约赛事",
+        "duration": "1:14",
+        "cover": "//i0.hdslb.com/bfs/archive/9af753c7a8b56d611ba6bab6106f4a17a582feb1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Tkaf6hEsC&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "VIT战胜LOUD VCT冠军赛"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790777462976,
-    "bilibili": 1790777471545,
-    "qbitai": 1790748693424,
-    "36kr": 1790748693800
+    "thepaper": 1790778364345,
+    "bilibili": 1790777358602,
+    "qbitai": 1790749588924,
+    "36kr": 1790749589327
   },
   "failures": {}
 }
