@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T05:56:37Z",
+  "updatedAt": "2026-09-30T06:11:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,42 +126,58 @@
     ],
     "bilibili": [
       {
-        "title": "【大东彦】看cryo疯狂抖鼠标申请现场观众援助笑嘻了！但无人在意！没有人哦！FUT vs 100T",
-        "url": "https://www.bilibili.com/video/BV1dMYF6CETR",
+        "title": "瓶子君看100T对战FUT图一：速通太快甚至不如暂停时间长！sopp霓虹6-14还沉浸在吃国补时自己无所不能的幻觉中",
+        "url": "https://www.bilibili.com/video/BV1DnYF6eETN",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！ 大东彦： https://space.bilibili.com/179877838 https://live.bilibili.com/5236391",
-        "content": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！ 大东彦： https://space.bilibili.com/179877838 https://live.bilibili.com/5236391",
-        "bvid": "BV1dMYF6CETR",
-        "author": "anno大笨蛋",
-        "duration": "1:6",
-        "cover": "//i0.hdslb.com/bfs/archive/c14365abea245822a1ab579902d70e03a132f7b3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dMYF6CETR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1DnYF6eETN",
+        "author": "流光游戏",
+        "duration": "17:10",
+        "cover": "//i2.hdslb.com/bfs/archive/5f5ee58c415109a8d1db41762a5724eadb2cba88.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DnYF6eETN&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "100T vs FUT VCT冠军赛"
       },
       {
-        "title": "凯恩一脚踢飞金球？亚马尔金球赔率逆转凯恩，金球奖的评选应该遵循什么标准？",
-        "url": "https://www.bilibili.com/video/BV1JLap6VEKg",
+        "title": "为什么我国将烈士纪念日定在国庆的前一天？",
+        "url": "https://www.bilibili.com/video/BV1N6aR6jENp",
         "desc": "",
         "rank": 2,
         "kind": "video",
         "platform": "bilibili",
+        "description": "视频来源：央视网",
+        "content": "视频来源：央视网",
+        "bvid": "BV1N6aR6jENp",
+        "author": "新华社",
+        "duration": "1:20",
+        "cover": "//i2.hdslb.com/bfs/archive/2064dc1b7fd9e9887f4713a356e7a371a0f24ee7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1N6aR6jENp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "烈士纪念日为何定在国庆前一天"
+      },
+      {
+        "title": "大英花了十年脱欧，现在准备加回去",
+        "url": "https://www.bilibili.com/video/BV1N1af6bERj",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1JLap6VEKg",
-        "author": "司马尘",
-        "duration": "5:40",
-        "cover": "//i0.hdslb.com/bfs/archive/82e041b6e5f61089b0e1eba908307141277fca88.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JLap6VEKg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主预测金球奖得主"
+        "bvid": "BV1N1af6bERj",
+        "author": "波士顿圆脸",
+        "duration": "14:59",
+        "cover": "//i2.hdslb.com/bfs/archive/2e2b20c5e9415691e1011f8dba83ec6c428e7731.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1N1af6bERj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "英国为何又考虑加入欧盟了"
       },
       {
         "title": "众主播看Jamppi火男三分球直接烫死奶妈拉起的人！这也在你的计算之内吗！浩东：库里半场绝杀雷霆！VIT vs LOUD！",
         "url": "https://www.bilibili.com/video/BV1uBao6xE7u",
         "desc": "",
-        "rank": 3,
+        "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "如果你觉得切片不赖的话不妨点个关注吧，VCT切片持续更新中！",
@@ -174,36 +190,20 @@
         "hotTitle": "VIT战胜LOUD VCT冠军赛"
       },
       {
-        "title": "VIT.Derke独家专访：我喜欢德克士虾仁饭这个说法，但另一个版本我不喜欢【2026全球冠军赛】",
-        "url": "https://www.bilibili.com/video/BV1SnYF6eEiB",
-        "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1SnYF6eEiB",
-        "author": "无畏契约赛事",
-        "duration": "4:9",
-        "cover": "//i0.hdslb.com/bfs/archive/be4f1fdf725b0e413abbd65b7434b8eeda729af7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SnYF6eEiB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "VIT Derke冠军赛专访"
-      },
-      {
-        "title": "为什么我国将烈士纪念日定在国庆的前一天？",
-        "url": "https://www.bilibili.com/video/BV1N6aR6jENp",
+        "title": "【黑鸦】AI圈大地震！MiniMax 上新 M Plan 订阅，字节“小豆”深夜引爆硅谷，独立App空降突袭！",
+        "url": "https://www.bilibili.com/video/BV1gaao68EYP",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "视频来源：央视网",
-        "content": "视频来源：央视网",
-        "bvid": "BV1N6aR6jENp",
-        "author": "新华社",
-        "duration": "1:20",
-        "cover": "//i2.hdslb.com/bfs/archive/2064dc1b7fd9e9887f4713a356e7a371a0f24ee7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1N6aR6jENp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "烈士纪念日为何定在国庆前一天"
+        "description": "",
+        "content": "",
+        "bvid": "BV1gaao68EYP",
+        "author": "黑鸦Heya",
+        "duration": "2:22",
+        "cover": "//i0.hdslb.com/bfs/archive/1e0b35939cc13db898cbbc0cec41fc13223a1677.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gaao68EYP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DeepSeek开源昇腾适配组件"
       },
       {
         "title": "加盟CBA！丹吉洛拉塞尔为什么被NBA淘汰了？他到底被谁废了？",
@@ -222,10 +222,26 @@
         "hotTitle": "NBA球星拉塞尔加盟CBA"
       },
       {
+        "title": "VIT.Derke独家专访：我喜欢德克士虾仁饭这个说法，但另一个版本我不喜欢【2026全球冠军赛】",
+        "url": "https://www.bilibili.com/video/BV1SnYF6eEiB",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1SnYF6eEiB",
+        "author": "无畏契约赛事",
+        "duration": "4:9",
+        "cover": "//i0.hdslb.com/bfs/archive/be4f1fdf725b0e413abbd65b7434b8eeda729af7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SnYF6eEiB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "VIT Derke冠军赛专访"
+      },
+      {
         "title": "国足遗憾！王钰栋单刀破门+马竞战舞，李英俊头球破门，裴俊浩进球，U23国足1比2韩国！",
         "url": "https://www.bilibili.com/video/BV16YaZ6mEff",
         "desc": "",
-        "rank": 7,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "国足遗憾！王钰栋单刀破门+马竞战舞，李英俊头球破门，裴俊浩进球，U23国足1比2韩国！",
@@ -238,52 +254,36 @@
         "hotTitle": "亚运国足1-2韩国"
       },
       {
-        "title": "耗时一周，我做了一个可以吃的国庆大花篮！！",
-        "url": "https://www.bilibili.com/video/BV1Miao6oELT",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "耗时一周，我用非遗花馍馍复刻了一个可以吃的国庆花篮！祝福祖国永远繁荣昌盛，花开锦绣，祝看到视频的宝贝们国庆快乐，万事胜意❤",
-        "content": "耗时一周，我用非遗花馍馍复刻了一个可以吃的国庆花篮！祝福祖国永远繁荣昌盛，花开锦绣，祝看到视频的宝贝们国庆快乐，万事胜意❤",
-        "bvid": "BV1Miao6oELT",
-        "author": "上班族的便当",
-        "duration": "7:6",
-        "cover": "//i1.hdslb.com/bfs/archive/7d0bfb1c787ebc2d0b9bb8561fc1774807713587.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Miao6oELT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主做出能吃的国庆大花篮"
-      },
-      {
-        "title": "今天，向为国牺牲的先烈们致敬！",
-        "url": "https://www.bilibili.com/video/BV1ZqaH6uE4X",
+        "title": "购房贴息来了，为何是贴息而不是降息？为何只贴新增不贴存量？【清华大学李稻葵】",
+        "url": "https://www.bilibili.com/video/BV1C8aZ6SE7J",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1ZqaH6uE4X",
-        "author": "央视新闻",
-        "duration": "1:7",
-        "cover": "//i2.hdslb.com/bfs/archive/35e1e5f9a520bd133cab6431172a867df555771b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZqaH6uE4X&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "今天是烈士纪念日"
+        "bvid": "BV1C8aZ6SE7J",
+        "author": "李稻葵",
+        "duration": "4:39",
+        "cover": "//i1.hdslb.com/bfs/archive/2109d552cb6b4196bae0d4fa16ded5a2b8fea77d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1C8aZ6SE7J&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "房贷为何是贴息而不是降息"
       },
       {
-        "title": "我们，向前！",
-        "url": "https://www.bilibili.com/video/BV1BTaE6AEVL",
+        "title": "引发迪拜飞以色列航班劫机乌龙的7500代码，有多罕见？",
+        "url": "https://www.bilibili.com/video/BV1Siao6oE2p",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "“向前，向前，向前”，走过前人没有走过的险路，只为后来人不再历经他们这般的苦难。",
-        "content": "“向前，向前，向前”，走过前人没有走过的险路，只为后来人不再历经他们这般的苦难。",
-        "bvid": "BV1BTaE6AEVL",
-        "author": "新华社",
-        "duration": "2:56",
-        "cover": "//i0.hdslb.com/bfs/archive/f26f6435428c07333b920a7cf1a47932a45cb89d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BTaE6AEVL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "山河永念英魂不朽"
+        "description": "9月30日，一架计划前往以色列的商业飞机，以异常改道的方式突然飞往沙特阿拉伯并发出劫机代码7500，最终被证明是虚惊一场。7500是什么？为何引发多方紧张？",
+        "content": "9月30日，一架计划前往以色列的商业飞机，以异常改道的方式突然飞往沙特阿拉伯并发出劫机代码7500，最终被证明是虚惊一场。7500是什么？为何引发多方紧张？",
+        "bvid": "BV1Siao6oE2p",
+        "author": "澎湃美数课",
+        "duration": "1:14",
+        "cover": "//i1.hdslb.com/bfs/archive/47a992ac366f4f7ceef3fea567be237e3b63814e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Siao6oE2p&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "迪拜飞以色列航班劫机乌龙"
       },
       {
         "title": "2026.09.30|X-H小豪直播回放【弹幕版】-小豪：高分擂台赛！",
@@ -318,36 +318,36 @@
         "hotTitle": "给阿嬷的情书B站上线"
       },
       {
-        "title": "转世轮回VS永生不死！三人修罗场太好嗑！好疯癫好上头的国产剧《长生契》",
-        "url": "https://www.bilibili.com/video/BV1B9a36mEpP",
+        "title": "今天，向为国牺牲的先烈们致敬！",
+        "url": "https://www.bilibili.com/video/BV1ZqaH6uE4X",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "封建南秦，他们是冷宫公主和痴情侍卫，为了自由跳进深渊； 民国乱世，他们是驻军司令和爱国画家，为救亡图存四处奔走； 他们相守三千年，为何突然决裂？ 为了永不相见，甚至甘愿放弃永生？ 本期视频带大家看一看最新奇幻剧《长生契》。",
-        "content": "封建南秦，他们是冷宫公主和痴情侍卫，为了自由跳进深渊； 民国乱世，他们是驻军司令和爱国画家，为救亡图存四处奔走； 他们相守三千年，为何突然决裂？ 为了永不相见，甚至甘愿放弃永生？ 本期视频带大家看一看最新奇幻剧《长生契》。",
-        "bvid": "BV1B9a36mEpP",
-        "author": "小片片说大片",
-        "duration": "15:1",
-        "cover": "//i0.hdslb.com/bfs/archive/95407cc0060a69a8de8afe62d4ffa3a955d80427.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1B9a36mEpP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "国产剧长生契有多上头"
+        "description": "",
+        "content": "",
+        "bvid": "BV1ZqaH6uE4X",
+        "author": "央视新闻",
+        "duration": "1:7",
+        "cover": "//i2.hdslb.com/bfs/archive/35e1e5f9a520bd133cab6431172a867df555771b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZqaH6uE4X&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "今天是烈士纪念日"
       },
       {
-        "title": "手绘465张！One Last Kiss【EVA30周年回忆重逢计划】",
-        "url": "https://www.bilibili.com/video/BV1i4aL6QEYX",
+        "title": "我们，向前！",
+        "url": "https://www.bilibili.com/video/BV1BTaE6AEVL",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "感谢观看(๑°3°๑) 耗时23天 手绘465张 Bgm One Last Kiss (动画电影《新世纪福音战士新剧场版：终》主题曲)宇多田ヒカル",
-        "content": "感谢观看(๑°3°๑) 耗时23天 手绘465张 Bgm One Last Kiss (动画电影《新世纪福音战士新剧场版：终》主题曲)宇多田ヒカル",
-        "bvid": "BV1i4aL6QEYX",
-        "author": "棕与灰9",
-        "duration": "1:50",
-        "cover": "//i0.hdslb.com/bfs/archive/d174a334a827a8a74fb716d0c2c70a47233510c8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1i4aL6QEYX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "爆肝465张手绘自制EVA定格动画"
+        "description": "“向前，向前，向前”，走过前人没有走过的险路，只为后来人不再历经他们这般的苦难。",
+        "content": "“向前，向前，向前”，走过前人没有走过的险路，只为后来人不再历经他们这般的苦难。",
+        "bvid": "BV1BTaE6AEVL",
+        "author": "新华社",
+        "duration": "2:56",
+        "cover": "//i0.hdslb.com/bfs/archive/f26f6435428c07333b920a7cf1a47932a45cb89d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BTaE6AEVL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "山河永念英魂不朽"
       },
       {
         "title": "又假又装气炸全网！张家齐妈妈为什么有毒？",
@@ -366,36 +366,36 @@
         "hotTitle": "张家齐妈妈综艺表现为何惹众怒"
       },
       {
-        "title": "比桌子还大的饼？猜猜多少钱",
-        "url": "https://www.bilibili.com/video/BV1Mhan6sErs",
+        "title": "震撼首发！！花少2最新科研已诞生（by馄饨超人",
+        "url": "https://www.bilibili.com/video/BV1hDaH68Ey7",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "国庆假期还没想好去哪玩的朋友，我建议你去一次义乌，不办签证不买机票，走在街上以为出了国。",
-        "content": "国庆假期还没想好去哪玩的朋友，我建议你去一次义乌，不办签证不买机票，走在街上以为出了国。",
-        "bvid": "BV1Mhan6sErs",
-        "author": "日食记",
-        "duration": "10:7",
-        "cover": "//i0.hdslb.com/bfs/archive/58e9f27b4bd4ea055820e622b2b2d19428e0e6de.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Mhan6sErs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "国庆跟UP主去义乌吃环球美食"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1hDaH68Ey7",
+        "author": "九月小歪_馄饨超人版",
+        "duration": "8:7",
+        "cover": "//i0.hdslb.com/bfs/archive/bf5083514c758dc1f461312e0a282e8eab71eed9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hDaH68Ey7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "花少2最新科研"
       },
       {
-        "title": "【申公豹】景区到底该给谁看？给游客，还是给验收的人？",
-        "url": "https://www.bilibili.com/video/BV1iEa36rEV7",
+        "title": "【徐静雨】欢迎杜兰特入驻b站！敢不敢跟你头号粉丝见上一面？",
+        "url": "https://www.bilibili.com/video/BV1ooaR6eEWU",
         "desc": "",
         "rank": 17,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1iEa36rEV7",
-        "author": "堵钱眼的申公豹",
-        "duration": "2:43",
-        "cover": "//i1.hdslb.com/bfs/archive/2be0779276b93d109f770860da2d91eb599b56a7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iEa36rEV7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "国内景区审美为何总被诟病"
+        "description": "【徐静雨】欢迎杜兰特入驻b站！可否跟你头号粉丝见上一面？",
+        "content": "【徐静雨】欢迎杜兰特入驻b站！可否跟你头号粉丝见上一面？",
+        "bvid": "BV1ooaR6eEWU",
+        "author": "雨说体育徐静雨",
+        "duration": "1:27",
+        "cover": "//i2.hdslb.com/bfs/archive/6eeccb5b97334ac5d34e8cf3f0752163aafa764e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ooaR6eEWU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "徐静雨自封杜兰特头号粉丝"
       },
       {
         "title": "六耳单曲《金钵之下》：真假皆由方寸起，阴阳只在一念间",
@@ -414,74 +414,10 @@
         "hotTitle": "六耳单曲金钵之下"
       },
       {
-        "title": "【徐静雨】欢迎杜兰特入驻b站！敢不敢跟你头号粉丝见上一面？",
-        "url": "https://www.bilibili.com/video/BV1ooaR6eEWU",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【徐静雨】欢迎杜兰特入驻b站！可否跟你头号粉丝见上一面？",
-        "content": "【徐静雨】欢迎杜兰特入驻b站！可否跟你头号粉丝见上一面？",
-        "bvid": "BV1ooaR6eEWU",
-        "author": "雨说体育徐静雨",
-        "duration": "1:27",
-        "cover": "//i2.hdslb.com/bfs/archive/6eeccb5b97334ac5d34e8cf3f0752163aafa764e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ooaR6eEWU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "徐静雨自封杜兰特头号粉丝"
-      },
-      {
-        "title": "震撼首发！！花少2最新科研已诞生（by馄饨超人",
-        "url": "https://www.bilibili.com/video/BV1hDaH68Ey7",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1hDaH68Ey7",
-        "author": "九月小歪_馄饨超人版",
-        "duration": "8:7",
-        "cover": "//i0.hdslb.com/bfs/archive/bf5083514c758dc1f461312e0a282e8eab71eed9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hDaH68Ey7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "花少2最新科研"
-      },
-      {
-        "title": "子怡一枪打破亚洲记录亚运会标枪夺冠！",
-        "url": "https://www.bilibili.com/video/BV1cRaV6dEoM",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1cRaV6dEoM",
-        "author": "白话频道",
-        "duration": "4:15",
-        "cover": "//i0.hdslb.com/bfs/archive/1b52022b3a24e6998a69947ab9484983841c8d71.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cRaV6dEoM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "一投夺冠的严子怡是如何练成的"
-      },
-      {
-        "title": "历史首次！全国性房贷贴息，中央财政出手了，什么信号？",
-        "url": "https://www.bilibili.com/video/BV1qvad6BE9D",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "828之后，地产又出大招，929全国首套商贷贴息政策落地，加更一期跟大家聊聊。",
-        "content": "828之后，地产又出大招，929全国首套商贷贴息政策落地，加更一期跟大家聊聊。",
-        "bvid": "BV1qvad6BE9D",
-        "author": "蓝白argentina",
-        "duration": "7:15",
-        "cover": "//i0.hdslb.com/bfs/archive/7f793bf58080ff561de38595397b95f19f156c29.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qvad6BE9D&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "房贷贴息释放什么信号"
-      },
-      {
         "title": "《无敌超人》当你拥有无限增强的超能力，会做什么？【Hishorts! × updream AI短片大赛+剧情单元】",
         "url": "https://www.bilibili.com/video/BV1aJa869EaJ",
         "desc": "",
-        "rank": 23,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "希望我们的人生可以少一些功利，多一些激情、兴奋和浪漫。",
@@ -494,42 +430,90 @@
         "hotTitle": "AI短片无敌超人"
       },
       {
-        "title": "东南亚魔法大战？泰柬边境“咒术回战”是咋回事？",
-        "url": "https://www.bilibili.com/video/BV1ifaR6PE41",
+        "title": "手绘465张！One Last Kiss【EVA30周年回忆重逢计划】",
+        "url": "https://www.bilibili.com/video/BV1i4aL6QEYX",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "感谢观看(๑°3°๑) 耗时23天 手绘465张 Bgm One Last Kiss (动画电影《新世纪福音战士新剧场版：终》主题曲)宇多田ヒカル",
+        "content": "感谢观看(๑°3°๑) 耗时23天 手绘465张 Bgm One Last Kiss (动画电影《新世纪福音战士新剧场版：终》主题曲)宇多田ヒカル",
+        "bvid": "BV1i4aL6QEYX",
+        "author": "棕与灰9",
+        "duration": "1:50",
+        "cover": "//i0.hdslb.com/bfs/archive/d174a334a827a8a74fb716d0c2c70a47233510c8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1i4aL6QEYX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "爆肝465张手绘自制EVA定格动画"
+      },
+      {
+        "title": "比桌子还大的饼？猜猜多少钱",
+        "url": "https://www.bilibili.com/video/BV1Mhan6sErs",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "国庆假期还没想好去哪玩的朋友，我建议你去一次义乌，不办签证不买机票，走在街上以为出了国。",
+        "content": "国庆假期还没想好去哪玩的朋友，我建议你去一次义乌，不办签证不买机票，走在街上以为出了国。",
+        "bvid": "BV1Mhan6sErs",
+        "author": "日食记",
+        "duration": "10:7",
+        "cover": "//i0.hdslb.com/bfs/archive/58e9f27b4bd4ea055820e622b2b2d19428e0e6de.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Mhan6sErs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "国庆跟UP主去义乌吃环球美食"
+      },
+      {
+        "title": "子怡一枪打破亚洲记录亚运会标枪夺冠！",
+        "url": "https://www.bilibili.com/video/BV1cRaV6dEoM",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1cRaV6dEoM",
+        "author": "白话频道",
+        "duration": "4:15",
+        "cover": "//i0.hdslb.com/bfs/archive/1b52022b3a24e6998a69947ab9484983841c8d71.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cRaV6dEoM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "一投夺冠的严子怡是如何练成的"
+      },
+      {
+        "title": "Tabe缺席JDG德玛西亚杯国际邀请赛！克里斯曝Tabe聊天记录，Tabe在长春休假，德杯将由小白教练带队出征，曝Tabe要降薪！LPL转会期最新消息！",
+        "url": "https://www.bilibili.com/video/BV15xao6eEUE",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV15xao6eEUE",
+        "author": "北川电竞",
+        "duration": "1:12",
+        "cover": "//i2.hdslb.com/bfs/archive/ad62a7b37a903d19c672db29cc2312134c50f7d1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15xao6eEUE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "曝Tabe缺席JDG德杯"
+      },
+      {
+        "title": "历史首次！全国性房贷贴息，中央财政出手了，什么信号？",
+        "url": "https://www.bilibili.com/video/BV1qvad6BE9D",
         "desc": "",
         "rank": 24,
         "kind": "video",
         "platform": "bilibili",
-        "description": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：一折 编辑：饼干 参考资料： 网易号 《泰柬冲突，越来越魔幻，高僧、法师齐上阵》 搜狐网 《泰柬互开魔法攻击：泰国高僧给武器开光，柬埔寨降头师忙下咒》 环球网 《互相指责！泰军指认柬方率先开火，柬埔寨谴责：泰方在毫无挑衅情况下蓄意发动攻击》 环球网 《柬泰边境再燃战火，冲突背后的根源是什么？》 澎湃新闻 《神圣的边界：柏威夏寺在泰柬冲突",
-        "content": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：一折 编辑：饼干 参考资料： 网易号 《泰柬冲突，越来越魔幻，高僧、法师齐上阵》 搜狐网 《泰柬互开魔法攻击：泰国高僧给武器开光，柬埔寨降头师忙下咒》 环球网 《互相指责！泰军指认柬方率先开火，柬埔寨谴责：泰方在毫无挑衅情况下蓄意发动攻击》 环球网 《柬泰边境再燃战火，冲突背后的根源是什么？》 澎湃新闻 《神圣的边界：柏威夏寺在泰柬冲突",
-        "bvid": "BV1ifaR6PE41",
-        "author": "世界见闻录",
-        "duration": "15:55",
-        "cover": "//i2.hdslb.com/bfs/archive/882ecc9f53bff79224d5d08d83ff2bfe23ee113d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ifaR6PE41&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "泰柬边境冲突有多荒诞"
-      },
-      {
-        "title": "层层反转，全员变态！不看到最后猜不出真相，民国版绝命毒师家族有多疯？万字细嗦《我不是大师》第三局 包含；剧情、细节、历史科普、骗术拆解等",
-        "url": "https://www.bilibili.com/video/BV1C7aJ65EJP",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "层层反转，全员变态！不看到最后猜不出真相，民国版绝命毒师家族有多疯？万字细嗦《我不是大师》第三局 包含；剧情、细节、历史科普、骗术拆解等",
-        "content": "层层反转，全员变态！不看到最后猜不出真相，民国版绝命毒师家族有多疯？万字细嗦《我不是大师》第三局 包含；剧情、细节、历史科普、骗术拆解等",
-        "bvid": "BV1C7aJ65EJP",
-        "author": "不善言辞的秃秃",
-        "duration": "57:22",
-        "cover": "//i0.hdslb.com/bfs/archive/339be2cee7c4e33991150a5672b31666e24a0892.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1C7aJ65EJP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "新剧我不是大师骗术拆解"
+        "description": "828之后，地产又出大招，929全国首套商贷贴息政策落地，加更一期跟大家聊聊。",
+        "content": "828之后，地产又出大招，929全国首套商贷贴息政策落地，加更一期跟大家聊聊。",
+        "bvid": "BV1qvad6BE9D",
+        "author": "蓝白argentina",
+        "duration": "7:15",
+        "cover": "//i0.hdslb.com/bfs/archive/7f793bf58080ff561de38595397b95f19f156c29.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qvad6BE9D&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "房贷贴息释放什么信号"
       },
       {
         "title": "B站的朋友们大家好，我是杜兰特",
         "url": "https://www.bilibili.com/video/BV14cao6DEuM",
         "desc": "",
-        "rank": 26,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "Ni Hao Bilibili, this is KD",
@@ -542,26 +526,58 @@
         "hotTitle": "杜兰特来B站了"
       },
       {
-        "title": "自学动画 爆肝俩月 自创一集《猫和老鼠》【手搓动画大赛】",
-        "url": "https://www.bilibili.com/video/BV1E6aq6pEKR",
+        "title": "LOL16.20[世界赛版本]改动介绍:铁男QR加强!火龙QER加强!火箭腰带调整!",
+        "url": "https://www.bilibili.com/video/BV1oyaZ6gESD",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "LOL16.20[世界赛版本]改动介绍:铁男QR加强!火龙QER加强!火箭腰带调整! LOLS16全球总决赛主题曲【KNOWMYNAME以我之名】将于10月9号发布",
+        "content": "LOL16.20[世界赛版本]改动介绍:铁男QR加强!火龙QER加强!火箭腰带调整! LOLS16全球总决赛主题曲【KNOWMYNAME以我之名】将于10月9号发布",
+        "bvid": "BV1oyaZ6gESD",
+        "author": "LOL小绿毛资讯",
+        "duration": "2:48",
+        "cover": "//i1.hdslb.com/bfs/archive/2d7e7dd680bc63106b9757d49d5207d1252ebf9f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oyaZ6gESD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S16世界赛版本改动介绍"
+      },
+      {
+        "title": "【申公豹】景区到底该给谁看？给游客，还是给验收的人？",
+        "url": "https://www.bilibili.com/video/BV1iEa36rEV7",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "老艺人手搓不易，每一个背景图，每一帧都是手绘，祝各位为了梦想 继续坚持，继续发光发亮吧！",
-        "content": "老艺人手搓不易，每一个背景图，每一帧都是手绘，祝各位为了梦想 继续坚持，继续发光发亮吧！",
-        "bvid": "BV1E6aq6pEKR",
-        "author": "小蒙古包卓拉",
-        "duration": "4:44",
-        "cover": "//i1.hdslb.com/bfs/archive/898e85b47826711b059bb112df176eff5f916886.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1E6aq6pEKR&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主手搓动画猫和老鼠"
+        "description": "",
+        "content": "",
+        "bvid": "BV1iEa36rEV7",
+        "author": "堵钱眼的申公豹",
+        "duration": "2:43",
+        "cover": "//i1.hdslb.com/bfs/archive/2be0779276b93d109f770860da2d91eb599b56a7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iEa36rEV7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "国内景区审美为何总被诟病"
+      },
+      {
+        "title": "东南亚魔法大战？泰柬边境“咒术回战”是咋回事？",
+        "url": "https://www.bilibili.com/video/BV1ifaR6PE41",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：一折 编辑：饼干 参考资料： 网易号 《泰柬冲突，越来越魔幻，高僧、法师齐上阵》 搜狐网 《泰柬互开魔法攻击：泰国高僧给武器开光，柬埔寨降头师忙下咒》 环球网 《互相指责！泰军指认柬方率先开火，柬埔寨谴责：泰方在毫无挑衅情况下蓄意发动攻击》 环球网 《柬泰边境再燃战火，冲突背后的根源是什么？》 澎湃新闻 《神圣的边界：柏威夏寺在泰柬冲突",
+        "content": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：一折 编辑：饼干 参考资料： 网易号 《泰柬冲突，越来越魔幻，高僧、法师齐上阵》 搜狐网 《泰柬互开魔法攻击：泰国高僧给武器开光，柬埔寨降头师忙下咒》 环球网 《互相指责！泰军指认柬方率先开火，柬埔寨谴责：泰方在毫无挑衅情况下蓄意发动攻击》 环球网 《柬泰边境再燃战火，冲突背后的根源是什么？》 澎湃新闻 《神圣的边界：柏威夏寺在泰柬冲突",
+        "bvid": "BV1ifaR6PE41",
+        "author": "世界见闻录",
+        "duration": "15:55",
+        "cover": "//i2.hdslb.com/bfs/archive/882ecc9f53bff79224d5d08d83ff2bfe23ee113d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ifaR6PE41&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "泰柬边境冲突有多荒诞"
       },
       {
         "title": "第一视角带你沉浸式体验修家电师傅的一天",
         "url": "https://www.bilibili.com/video/BV18ChR6nE8h",
         "desc": "",
-        "rank": 28,
+        "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -574,39 +590,33 @@
         "hotTitle": "沉浸式体验修家电师傅的一天"
       },
       {
-        "title": "绝密重庆之旅！！居然当街挑战折耳根咖啡！？",
-        "url": "https://www.bilibili.com/video/BV1chaH65E8K",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "一座重庆城，很多好心人！！ 当我给@腥味猫罐 和@Yui柯基大聪明 端上折耳根咖啡，她们能否挑战成功？",
-        "content": "一座重庆城，很多好心人！！ 当我给@腥味猫罐 和@Yui柯基大聪明 端上折耳根咖啡，她们能否挑战成功？",
-        "bvid": "BV1chaH65E8K",
-        "author": "六二二同学w",
-        "duration": "4:15",
-        "cover": "//i2.hdslb.com/bfs/archive/6209b5428588ba8732134f9d8524beb7c5b3b3d3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1chaH65E8K&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "三角洲绝密重庆街头挑战"
-      },
-      {
-        "title": "【琵琶曲】手搓动画的硬核才是王道",
-        "url": "https://www.bilibili.com/video/BV1JWab6wET3",
+        "title": "《鸣潮》3.7版本开场动画 | 梦枢心相由心生",
+        "url": "https://www.bilibili.com/video/BV18Rad6dE7y",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "动画原作者 @Kotte Animation 看得出来后面的动画软弱无力，应该是k没劲了，景深都忘加了。。。 考虑到mc皮肤可替换，如果这视频看的人多了我会找个方法把这个blender工程打包上传，可以自行替换皮肤或者修改二次修改创作渲染因为这后半段有很多是可以修改的什么还可以使用哎呀反正都行，忘加逗号了看着累不 最后这个动画真的k得很痛苦，每天对着古振兴屁股一顿搓（）如果可以的话还是希望能三连支持一下，十分甚至百分感谢",
-        "content": "动画原作者 @Kotte Animation 看得出来后面的动画软弱无力，应该是k没劲了，景深都忘加了。。。 考虑到mc皮肤可替换，如果这视频看的人多了我会找个方法把这个blender工程打包上传，可以自行替换皮肤或者修改二次修改创作渲染因为这后半段有很多是可以修改的什么还可以使用哎呀反正都行，忘加逗号了看着累不 最后这个动画真的k得很痛苦，每天对着古振兴屁股一顿搓（）如果可以的话还是希望能三连支持一下，十分甚至百分感谢",
-        "bvid": "BV1JWab6wET3",
-        "author": "kldsu",
-        "duration": "1:6",
-        "cover": "//i2.hdslb.com/bfs/archive/5a38121333a9f963e9fbc4ab679e5917bffa00df.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JWab6wET3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "手搓琵琶曲MC动画版"
+        "description": "玄方终章来临，《鸣潮》3.7版本「镜锁妄世，心照红尘」已开启！",
+        "content": "玄方终章来临，《鸣潮》3.7版本「镜锁妄世，心照红尘」已开启！",
+        "bvid": "BV18Rad6dE7y",
+        "author": "鸣潮",
+        "duration": "2:51",
+        "cover": "//i2.hdslb.com/bfs/archive/f1740e30ebbfbf868d3853fe2946f2717472d456.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18Rad6dE7y&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "鸣潮3.7开场动画"
       }
     ],
     "qbitai": [
+      {
+        "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "url": "https://www.qbitai.com/2026/09/499654.html",
+        "desc": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/2376063844e4f0a9de5acd3ff1c110bf.png",
+        "date": "2026-09-30T22:03:43",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
       {
         "title": "直播回顾：工业AI的下一个机会在哪？",
         "url": "https://www.qbitai.com/2026/09/499605.html",
@@ -615,7 +625,7 @@
         "date": "2026-09-30T20:11:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "Anthropic，你是来给智谱打广告的吧！",
@@ -625,7 +635,7 @@
         "date": "2026-09-30T18:04:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
@@ -635,7 +645,7 @@
         "date": "2026-09-30T15:58:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
@@ -645,7 +655,7 @@
         "date": "2026-09-30T15:54:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
@@ -655,7 +665,7 @@
         "date": "2026-09-30T13:18:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
@@ -665,7 +675,7 @@
         "date": "2026-09-30T12:42:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
@@ -675,7 +685,7 @@
         "date": "2026-09-30T10:53:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
@@ -685,7 +695,7 @@
         "date": "2026-09-30T07:01:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
@@ -695,7 +705,7 @@
         "date": "2026-09-29T18:56:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
@@ -705,7 +715,7 @@
         "date": "2026-09-29T15:59:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "OpenAI因新模型太强叫停发布",
@@ -715,7 +725,7 @@
         "date": "2026-09-29T15:49:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
@@ -725,7 +735,7 @@
         "date": "2026-09-29T15:10:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
@@ -735,7 +745,7 @@
         "date": "2026-09-29T08:49:30",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
@@ -745,7 +755,7 @@
         "date": "2026-09-28T20:43:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "HC归来，华为正重新定义AIDC基础设施",
@@ -755,7 +765,7 @@
         "date": "2026-09-28T19:18:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
@@ -765,7 +775,7 @@
         "date": "2026-09-27T22:20:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
@@ -775,7 +785,7 @@
         "date": "2026-09-27T21:57:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
@@ -785,7 +795,7 @@
         "date": "2026-09-27T21:40:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "啥题啊能干崩OpenAI最强模型训练…",
@@ -795,7 +805,7 @@
         "date": "2026-09-27T17:44:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
@@ -805,7 +815,7 @@
         "date": "2026-09-26T19:49:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
@@ -815,7 +825,7 @@
         "date": "2026-09-26T17:07:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
@@ -825,7 +835,7 @@
         "date": "2026-09-26T17:01:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
@@ -835,7 +845,7 @@
         "date": "2026-09-26T15:18:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
@@ -845,7 +855,7 @@
         "date": "2026-09-26T15:12:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
@@ -855,7 +865,7 @@
         "date": "2026-09-26T15:04:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "AI用了一堆、钱没赚到？阿里瓴羊放话：AI员工得直接扛KPI",
@@ -865,7 +875,7 @@
         "date": "2026-09-26T11:44:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
@@ -875,7 +885,7 @@
         "date": "2026-09-25T21:24:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
@@ -885,7 +895,7 @@
         "date": "2026-09-25T21:15:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
@@ -893,16 +903,6 @@
         "desc": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/c39a29eeab5e59a8d95c3b4acfbd85af.jpeg",
         "date": "2026-09-25T18:00:14",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
-        "url": "https://www.qbitai.com/2026/09/497075.html",
-        "desc": "Agent的手越伸越长",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/09/ec70ba413b87d756ddffb67a5f303163.jpeg",
-        "date": "2026-09-25T14:20:56",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1790776564201,
-    "bilibili": 1790776572964,
-    "qbitai": 1790747796643,
-    "36kr": 1790747797056
+    "thepaper": 1790777462976,
+    "bilibili": 1790777471545,
+    "qbitai": 1790748693424,
+    "36kr": 1790748693800
   },
   "failures": {}
 }
