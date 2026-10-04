@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T14:41:35Z",
+  "updatedAt": "2026-10-04T14:56:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -254,19 +254,19 @@
         "hotTitle": "琵琶曲世界巡演"
       },
       {
-        "title": "算吗",
-        "url": "https://www.bilibili.com/video/BV1j1Hz6hEKj",
+        "title": "物理学家预测诺奖！2026诺贝尔物理学奖：叶军有戏吗？从原子钟聊到量子信息",
+        "url": "https://www.bilibili.com/video/BV12mHB6gEw6",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1j1Hz6hEKj",
-        "author": "弱小就原罪",
-        "duration": "0:23",
-        "cover": "//i1.hdslb.com/bfs/archive/428256e3dc8d6810b6ec1b1f92a41bfa5e2977fc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j1Hz6hEKj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "个人观点，给大家带来一些新的认识！欢迎讨论！",
+        "content": "个人观点，给大家带来一些新的认识！欢迎讨论！",
+        "bvid": "BV12mHB6gEw6",
+        "author": "潘义明-物理学家Yiming",
+        "duration": "8:54",
+        "cover": "//i2.hdslb.com/bfs/archive/3c827907aa9711d8ee3aed301daa84606762df46.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12mHB6gEw6&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "诺贝尔奖5日起陆续揭晓"
       },
       {
@@ -590,19 +590,19 @@
         "hotTitle": "当村里的老人学会闪身步"
       },
       {
-        "title": "元婴终极之战！藏了多少细节？《凡人修仙传》194逐帧解析",
-        "url": "https://www.bilibili.com/video/BV1t5Hv6KENo",
+        "title": "韩立元婴之后的第一场硬仗！李缨宁驾舟是否合理？韩立与乐上师的闪电战又有哪些细节？《凡人修仙传》194集逐帧解析",
+        "url": "https://www.bilibili.com/video/BV1SjHq6kEY6",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1t5Hv6KENo",
-        "author": "利维坦mY",
-        "duration": "12:56",
-        "cover": "//i0.hdslb.com/bfs/archive/dac9c4f3148db6a12601d73fc2a33e71e462df1e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1t5Hv6KENo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "感谢本期视频的配音小哥@鲜氣菌",
+        "content": "感谢本期视频的配音小哥@鲜氣菌",
+        "bvid": "BV1SjHq6kEY6",
+        "author": "白马侯子",
+        "duration": "14:12",
+        "cover": "//i1.hdslb.com/bfs/archive/497146b3ec3a93c58d45a4603c627fa24b94f5be.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SjHq6kEY6&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "韩立对战乐上师"
       }
     ],
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791124864093,
+    "thepaper": 1791125768237,
     "bilibili": 1791124007905,
-    "qbitai": 1791124894797,
-    "36kr": 1791124895194
+    "qbitai": 1791125792999,
+    "36kr": 1791125793321
   },
   "failures": {}
 }
