@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T12:41:33Z",
+  "updatedAt": "2026-10-04T12:56:31Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -184,7 +184,7 @@
         "content": "【2026德玛西亚杯】10月4日 WE vs BRO",
         "bvid": "BV15uHE6vEda",
         "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "51:10",
+        "duration": "91:15",
         "cover": "//i0.hdslb.com/bfs/archive/13bda37255ade2d92b3fec27c92609092a06af0c.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15uHE6vEda&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "WE vs BRO 德玛西亚杯"
@@ -542,19 +542,19 @@
         "hotTitle": "鸣潮朝月会特别演出"
       },
       {
-        "title": "众主播看LOUD和GE打出血性！暴力互鞭！Erde刚鞭完立马就被8K鞭回去！",
-        "url": "https://www.bilibili.com/video/BV1iHHL6fEMc",
+        "title": "[上海全球冠军赛]【LOUD vs GE】图一速看丨2026无畏契约上海全球冠军赛小组赛丨20261004",
+        "url": "https://www.bilibili.com/video/BV1gpHE6dEPV",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
-        "content": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
-        "bvid": "BV1iHHL6fEMc",
-        "author": "anno大笨蛋",
-        "duration": "2:42",
-        "cover": "//i1.hdslb.com/bfs/archive/6839e3449682648e33c0aa5dd141bacefa171973.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iHHL6fEMc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1gpHE6dEPV",
+        "author": "大木GameDay",
+        "duration": "25:4",
+        "cover": "//i0.hdslb.com/bfs/archive/d2c5866a75e5cc2319a6f0ef028fd3c5218e9408.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gpHE6dEPV&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "LOUD战胜GE VCT冠军赛"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791117663134,
+    "thepaper": 1791118566026,
     "bilibili": 1791116790412,
-    "qbitai": 1791117693166,
-    "36kr": 1791117693543
+    "qbitai": 1791118590871,
+    "36kr": 1791118591201
   },
   "failures": {}
 }
