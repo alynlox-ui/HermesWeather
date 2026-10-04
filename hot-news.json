@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T10:26:24Z",
+  "updatedAt": "2026-10-04T10:41:52Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "世界巡演是什么梗"
       },
       {
-        "title": "【R.E.D 团拍4K】20261003紫琅荔枝音乐节【直拍星计划】",
-        "url": "https://www.bilibili.com/video/BV1HxHv6ZEbG",
+        "title": "KT vs RED 美如画！KT完美Combo击飞四人瞬间团灭！RED落后20000经济惨遭KT暴虐！Game 1 | 2026德玛西亚杯",
+        "url": "https://www.bilibili.com/video/BV1HRHL6TE7a",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1HxHv6ZEbG",
-        "author": "红豆冰-M0822",
-        "duration": "20:24",
-        "cover": "//i0.hdslb.com/bfs/archive/23d4c3f9a521e0f7e11cdf75fa73bda30f6dc3d3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HxHv6ZEbG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "相关游戏：英雄联盟",
+        "content": "相关游戏：英雄联盟",
+        "bvid": "BV1HRHL6TE7a",
+        "author": "呆梦demo",
+        "duration": "8:39",
+        "cover": "//i0.hdslb.com/bfs/archive/d9baec9f1a70181c1b32130ecc6f818bc5dc3459.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HRHL6TE7a&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "RED vs KT 德玛西亚杯"
       },
       {
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "机构调研：磷酸铁锂景气度延续到2027年",
+        "url": "https://m.36kr.com/newsflashes/4011307663102080",
+        "desc": "9月以来，锂电产业链上市公司密集召开业绩说明会、接待机构调研。万润新能表示，称三季度保持满产，预计行业高景气将延续至四季度和明年。湖南裕能表示下半年主要产品特别是高端产品供不应求，2027年行业需求预计将保持较快增速。（上证报）",
+        "cover": "",
+        "date": 1791110280000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市",
         "url": "https://m.36kr.com/newsflashes/4011304470384513",
         "desc": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市，以资助其美国市场扩张和收购计划。该公司首席执行官Iana Dimitrova表示，OpenPayd目标是在2027年4月前在美国推出服务，并正在考虑通过收购获取牌照和技术。OpenPayd正就与Titan Acquisition Corp．的拟议合并接受美国证券交易委员会审查，目前处于最后阶段。Dimitrova表示，除非出现重大外部干扰，预计交易将于今年完成。该交易尚需注册声明生效和Titan股东批准等条件。上市后，OpenPayd将在纳斯达克交易，股票代码为OP。（新浪财经）",
@@ -947,7 +957,7 @@
         "date": 1791109119000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "英国研究推进阿尔茨海默病基因疗法开发",
@@ -957,7 +967,7 @@
         "date": 1791107530000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "液冷巨头并购，释放新信号",
@@ -967,7 +977,7 @@
         "date": 1791106227000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "Truist比较Meta Muse与OpenAI Dots：Meta先赢在分发，OpenAI更偏企业和复杂任务",
@@ -977,7 +987,7 @@
         "date": 1791105019000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "国庆假期前三日，港珠澳大桥出入境客流超31万人次",
@@ -987,7 +997,7 @@
         "date": 1791103772000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "交通运输部：10月3日全社会跨区域人员流动量30356.8万人次",
@@ -997,7 +1007,7 @@
         "date": 1791102640000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "美国国家情报总监出任白宫AI事务主管",
@@ -1007,7 +1017,7 @@
         "date": 1791101776000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "10月4日全国铁路预计发送旅客2035万人次",
@@ -1017,7 +1027,7 @@
         "date": 1791100678000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "杭甬高速复线三期建设全力冲刺",
@@ -1027,7 +1037,7 @@
         "date": 1791099325000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "苹果宣布iPhone18ProMax故障免费换新，只针对AT&T网络版本",
@@ -1037,7 +1047,7 @@
         "date": 1791098092000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
@@ -1047,7 +1057,7 @@
         "date": 1791096561000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "国庆前三天珠海各口岸查验客流超224万人次，同比增长约5%",
@@ -1057,7 +1067,7 @@
         "date": 1791095552000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "10月A股解禁规模超3100亿元，5股解禁比例超70%",
@@ -1067,7 +1077,7 @@
         "date": 1791093600000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "中国银行成功协助韩国产业银行发行30亿元点心债",
@@ -1077,7 +1087,7 @@
         "date": 1791093146000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "前9月广州海关监管广州国际港中欧班列进出口货物2.73万标箱",
@@ -1087,7 +1097,7 @@
         "date": 1791092206000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "2026国庆档总票房破6亿",
@@ -1097,7 +1107,7 @@
         "date": 1791090892000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "国庆假期前3天高速公路新能源汽车充电近300万次、充电量超0.71亿千瓦时",
@@ -1107,7 +1117,7 @@
         "date": 1791088991329,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "商务部新闻发言人就二十国集团贸易部长会议及相关情况答记者问",
@@ -1117,7 +1127,7 @@
         "date": 1791086928493,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "国庆假期前三天，海南离岛免税购物金额超3.5亿元",
@@ -1127,25 +1137,15 @@
         "date": 1791086494000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "OpenAI安全部门员工辞职",
-        "url": "https://m.36kr.com/newsflashes/4010972834598793",
-        "desc": "OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做得还不够。此前负责OpenAI安全团队透明度工作的David Robinson在为《大西洋月刊》撰写的一篇文章中称，这家ChatGPT开发商“一直通过反复试错发展壮大”。Robinson在文章中写道：“我以前的同事都很聪明、工作努力，也努力做出正确的选择。但随着公司从一个产品发布冲向下一个产品发布，它并没有达到我认为所需要的谨慎程度。”他补充称，真正需要的是“第一次就做到更接近完美”。（新浪财经）",
-        "cover": "",
-        "date": 1791085458000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791109563065,
-    "bilibili": 1791109566941,
-    "qbitai": 1791109584322,
-    "36kr": 1791109584754
+    "thepaper": 1791110463196,
+    "bilibili": 1791109567660,
+    "qbitai": 1791110511864,
+    "36kr": 1791110512183
   },
   "failures": {}
 }
