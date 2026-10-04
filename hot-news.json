@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T13:41:37Z",
+  "updatedAt": "2026-10-04T13:56:46Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -232,7 +232,7 @@
         "content": "【无畏契约上海全球冠军赛】10月4日 FUT vs T1",
         "bvid": "BV1r5HL6eEW4",
         "author": "无畏契约赛事",
-        "duration": "140:29",
+        "duration": "158:10",
         "cover": "//i0.hdslb.com/bfs/archive/63f7f90b1a7f3e0b1cd37a5f13a7e0b08777c92d.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1r5HL6eEW4&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "FUT vs T1 VCT冠军赛"
@@ -286,19 +286,19 @@
         "hotTitle": "Donk单图狂轰31杀"
       },
       {
-        "title": "【高下立判】LOUD 2-0 GE 太平洋一号也干了！一号种子仅100t晋级淘汰赛",
-        "url": "https://www.bilibili.com/video/BV1vtHL6REPi",
+        "title": "【2026 无畏契约上海全球冠军赛】10月4日 LOUD vs GE //夜莲&babyblue解说",
+        "url": "https://www.bilibili.com/video/BV1ENHE6uETC",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1vtHL6REPi",
-        "author": "小徐还在绕",
-        "duration": "2:15",
-        "cover": "//i2.hdslb.com/bfs/archive/3e2d1bea2d8b612ec6ca35d9286aaba4fe772523.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vtHL6REPi&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "https://live.bilibili.com/24160384 麻烦大伙多点点赞点点关注点点转发！希望大家有时间的尽量多看直播感谢 ！ 解说：@夜莲Annbbers @JDG_Babyblue 切片：@夜莲的工作人格",
+        "content": "https://live.bilibili.com/24160384 麻烦大伙多点点赞点点关注点点转发！希望大家有时间的尽量多看直播感谢 ！ 解说：@夜莲Annbbers @JDG_Babyblue 切片：@夜莲的工作人格",
+        "bvid": "BV1ENHE6uETC",
+        "author": "夜莲的生活人格",
+        "duration": "385:41",
+        "cover": "//i2.hdslb.com/bfs/archive/6d2db9cc2fdf9b60eb1dd5cb576d40f05378452d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ENHE6uETC&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "LOUD战胜GE VCT冠军赛"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791121268179,
+    "thepaper": 1791122164063,
     "bilibili": 1791120397240,
-    "qbitai": 1791121296712,
-    "36kr": 1791121297026
+    "qbitai": 1791122206024,
+    "36kr": 1791122206471
   },
   "failures": {}
 }
