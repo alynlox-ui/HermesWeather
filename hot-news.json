@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T07:56:26Z",
+  "updatedAt": "2026-10-04T08:11:29Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -168,7 +168,7 @@
         "content": "【2026KPL年度总决赛】10月4日 KSG VS 深圳DYG",
         "bvid": "BV1bCH66QE3Q",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "129:34",
+        "duration": "139:59",
         "cover": "//i0.hdslb.com/bfs/archive/c85486834d958306e213d17d5badbd1242e9c199.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bCH66QE3Q&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "KSG战胜深圳DYG KPL"
@@ -215,7 +215,7 @@
         "description": "个人观点，给大家带来一些新的认识！欢迎讨论！",
         "content": "个人观点，给大家带来一些新的认识！欢迎讨论！",
         "bvid": "BV12mHB6gEw6",
-        "author": "",
+        "author": "潘义明-物理学家Yiming",
         "duration": "8:54",
         "cover": "//i2.hdslb.com/bfs/archive/3c827907aa9711d8ee3aed301daa84606762df46.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12mHB6gEw6&p=1&high_quality=1&danmaku=0&autoplay=0",
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "10月4日全国铁路预计发送旅客2035万人次",
+        "url": "https://m.36kr.com/newsflashes/4011203419131779",
+        "desc": "36氪获悉，据中国铁路消息，10月3日，全国铁路发送旅客1927.3万人次，运输安全平稳有序。10月4日，铁路客流保持高位运行，全国铁路预计发送旅客2035万人次，计划加开旅客列车935列。",
+        "cover": "",
+        "date": 1791100678000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "杭甬高速复线三期建设全力冲刺",
         "url": "https://m.36kr.com/newsflashes/4011201999589508",
         "desc": "杭甬高速复线宁波三期项目是国家高速公路杭甬高速复线的重要组成部分，也是世界第一大港——宁波舟山港的重要疏港公路，项目主线预计将于今年年底贯通。这个国庆假期，全线2700余名建设者坚守岗位，扎实推进各项关键节点施工，全力冲刺2027年年底建成目标。（央视新闻）",
@@ -947,7 +957,7 @@
         "date": 1791099325000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "苹果宣布iPhone18ProMax故障免费换新，只针对AT&T网络版本",
@@ -957,7 +967,7 @@
         "date": 1791098092000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
@@ -967,7 +977,7 @@
         "date": 1791096561000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "国庆前三天珠海各口岸查验客流超224万人次，同比增长约5%",
@@ -977,7 +987,7 @@
         "date": 1791095552000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "10月A股解禁规模超3100亿元，5股解禁比例超70%",
@@ -987,7 +997,7 @@
         "date": 1791093600000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "中国银行成功协助韩国产业银行发行30亿元点心债",
@@ -997,7 +1007,7 @@
         "date": 1791093146000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "前9月广州海关监管广州国际港中欧班列进出口货物2.73万标箱",
@@ -1007,7 +1017,7 @@
         "date": 1791092206000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "2026国庆档总票房破6亿",
@@ -1017,7 +1027,7 @@
         "date": 1791090892000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "国庆假期前3天高速公路新能源汽车充电近300万次、充电量超0.71亿千瓦时",
@@ -1027,7 +1037,7 @@
         "date": 1791088991329,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "商务部新闻发言人就二十国集团贸易部长会议及相关情况答记者问",
@@ -1037,7 +1047,7 @@
         "date": 1791086928493,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "国庆假期前三天，海南离岛免税购物金额超3.5亿元",
@@ -1047,7 +1057,7 @@
         "date": 1791086494000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "OpenAI安全部门员工辞职",
@@ -1057,7 +1067,7 @@
         "date": 1791085458000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "港交所行政总裁：港交所要推出人民币计价黄金期货",
@@ -1067,7 +1077,7 @@
         "date": 1791084371000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "中信建投：AIDD企业总体处于早期阶段，行业有望进入加速成长期",
@@ -1077,7 +1087,7 @@
         "date": 1791083839000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "我国首个海上注碳增气平台主体建造完工",
@@ -1087,7 +1097,7 @@
         "date": 1791082349000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "中信证券：建议投资者积极迎接房地产的新周期，看好开发类公司和龙头经纪企业",
@@ -1097,7 +1107,7 @@
         "date": 1791081330000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "马斯克回应台积电或参与Terafab项目",
@@ -1107,7 +1117,7 @@
         "date": 1791080212000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "美国据悉将向维斯特拉公司提供42亿美元贷款，以提升核电产能",
@@ -1117,7 +1127,7 @@
         "date": 1791077970000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "长三角铁路今日预计发送旅客384万人次，增开列车104列",
@@ -1127,25 +1137,15 @@
         "date": 1791076716680,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "超3亿消费券、2万场活动，“补贴+贴息”激发假日消费活力",
-        "url": "https://m.36kr.com/newsflashes/4010865555410821",
-        "desc": "国庆假期，国家消费品以旧换新政策叠加地方配套补贴，国补和地补协同发力，有效激活节日市场消费活力。今年第四批625亿元超长期特别国债支持消费品以旧换新资金赶在国庆假期前落地，点燃“十一”长假消费热情。今年国庆假期，依托1000亿元财政金融协同促内需专项资金，个人消费贷款贴息政策正加速落地，政策红利充分释放，节日市场消费活力持续迸发。据了解，在国庆文化和旅游消费月期间，各地将举办超2万场次文旅活动，发放超3.1亿元消费券等消费补贴，为居民游客假期出游提供更丰富的选择、更舒心的体验。（央视新闻）",
-        "cover": "",
-        "date": 1791075805872,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791100563151,
-    "bilibili": 1791100571586,
-    "qbitai": 1791100585952,
-    "36kr": 1791100586378
+    "thepaper": 1791101467744,
+    "bilibili": 1791100556809,
+    "qbitai": 1791101488800,
+    "36kr": 1791101489169
   },
   "failures": {}
 }
