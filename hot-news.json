@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T11:41:27Z",
+  "updatedAt": "2026-10-04T11:56:29Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -136,7 +136,7 @@
         "content": "【2026KPL年度总决赛】10月4日 广州TTG VS 南通Hero久竞",
         "bvid": "BV13GHj6REpE",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "161:23",
+        "duration": "172:54",
         "cover": "//i0.hdslb.com/bfs/archive/af4299d87ea03906b4735ce245b9856ecb57fa78.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13GHj6REpE&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "广州TTG vs 南通Hero久竞 KPL"
@@ -174,19 +174,19 @@
         "hotTitle": "安东尼奥说自己是最幸福的教练"
       },
       {
-        "title": "【无畏契约上海全球冠军赛】10月4日 LOUD vs GE",
-        "url": "https://www.bilibili.com/video/BV1jNHj68EKf",
+        "title": "【弹幕】[雪乃荔荔枝-直播回放] 2026-10-04 18时 LOUD_GE~FUT_T1",
+        "url": "https://www.bilibili.com/video/BV1z5HL6eEzJ",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【无畏契约上海全球冠军赛】10月4日 LOUD vs GE",
-        "content": "【无畏契约上海全球冠军赛】10月4日 LOUD vs GE",
-        "bvid": "BV1jNHj68EKf",
-        "author": "无畏契约赛事",
-        "duration": "140:5",
-        "cover": "//i0.hdslb.com/bfs/archive/ea7ce949a35970fb65a50258540f3282057cf330.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jNHj68EKf&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "直播回放 主播：雪乃荔荔枝 时间：2026年10月04日 标题：LOUD_GE~FUT_T1",
+        "content": "直播回放 主播：雪乃荔荔枝 时间：2026年10月04日 标题：LOUD_GE~FUT_T1",
+        "bvid": "BV1z5HL6eEzJ",
+        "author": "摆烂录播站",
+        "duration": "59:56",
+        "cover": "//i0.hdslb.com/bfs/archive/1cdff6cfe618517cf966b70cf86f8e8db4120fbe.png",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z5HL6eEzJ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "LOUD战胜GE VCT冠军赛"
       },
       {
@@ -222,19 +222,19 @@
         "hotTitle": "王迅闪现成都世界线漫展"
       },
       {
-        "title": "RED vs KT KT大比分29:3爽吃巴西补贴！BDD恐怖辛德拉13-0见人就秒！ Game 2 丨 2026 德玛西亚杯 瑞士轮",
-        "url": "https://www.bilibili.com/video/BV1A3HL6qEpn",
+        "title": "【2026德玛西亚杯】10月4日 RED vs KT",
+        "url": "https://www.bilibili.com/video/BV1zZHL6NEwW",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1A3HL6qEpn",
-        "author": "最新联盟",
-        "duration": "9:40",
-        "cover": "//i0.hdslb.com/bfs/archive/82d27b8f7f1a59150fa8c7a3c56069993c66947b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1A3HL6qEpn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026德玛西亚杯】10月4日 RED vs KT",
+        "content": "【2026德玛西亚杯】10月4日 RED vs KT",
+        "bvid": "BV1zZHL6NEwW",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "86:22",
+        "cover": "//i0.hdslb.com/bfs/archive/c4c554bc443aa0e64370defbdfd1c5275b71d384.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zZHL6NEwW&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "KT战胜RED 德玛西亚杯"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791114063244,
+    "thepaper": 1791114964093,
     "bilibili": 1791113172867,
-    "qbitai": 1791114086878,
-    "36kr": 1791114087357
+    "qbitai": 1791114989368,
+    "36kr": 1791114989769
   },
   "failures": {}
 }
