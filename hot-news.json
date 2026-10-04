@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T09:56:49Z",
+  "updatedAt": "2026-10-04T10:11:19Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -136,7 +136,7 @@
         "content": "【2026KPL年度总决赛】10月4日 广州TTG VS 南通Hero久竞",
         "bvid": "BV13GHj6REpE",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "43:32",
+        "duration": "76:59",
         "cover": "//i0.hdslb.com/bfs/archive/af4299d87ea03906b4735ce245b9856ecb57fa78.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13GHj6REpE&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "广州TTG vs 南通Hero久竞 KPL"
@@ -184,7 +184,7 @@
         "content": "【无畏契约上海全球冠军赛】10月4日 LOUD vs GE",
         "bvid": "BV1jNHj68EKf",
         "author": "无畏契约赛事",
-        "duration": "18:21",
+        "duration": "69:43",
         "cover": "//i0.hdslb.com/bfs/archive/ea7ce949a35970fb65a50258540f3282057cf330.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jNHj68EKf&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "LOUD vs GE VCT冠军赛"
@@ -334,19 +334,19 @@
         "hotTitle": "24位博主为粉丝争夺30w"
       },
       {
-        "title": "LGD vs BFX 秀麻了！BFX全员展示操作虐泉LGD！VicLa超猛蛇女玩虐汤圆阿卡丽！ Game 1 丨 2026 德玛西亚杯 瑞士轮",
-        "url": "https://www.bilibili.com/video/BV1peHj66ENA",
+        "title": "【2026德玛西亚杯】10月4日 LGD vs BFX",
+        "url": "https://www.bilibili.com/video/BV1KsHj62EW3",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1peHj66ENA",
-        "author": "最新联盟",
-        "duration": "9:51",
-        "cover": "//i2.hdslb.com/bfs/archive/6c937cc82b18b9bfdcb7cfe0cb8775fb9defd050.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1peHj66ENA&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026德玛西亚杯】10月4日 LGD vs BFX",
+        "content": "【2026德玛西亚杯】10月4日 LGD vs BFX",
+        "bvid": "BV1KsHj62EW3",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "140:12",
+        "cover": "//i2.hdslb.com/bfs/archive/1dc596c1dde25607f096a97b02fd3de485f56f82.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KsHj62EW3&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BFX战胜LGD 德玛西亚杯"
       },
       {
@@ -552,7 +552,7 @@
         "content": "前几次没有把来源标注完整，实在不应该。既然认识到错误，就应当道歉并改正，所以这次把来源标注完整。大肥鱼形象来源：@这个刀子真甜 老师，@ZipZipPipe 老师，@上善无形 老师。",
         "bvid": "BV1iiHY6VEmX",
         "author": "中国能源报",
-        "duration": "1:30",
+        "duration": "1:29",
         "cover": "//i1.hdslb.com/bfs/archive/5c4fdaae9dd5ef937b60d7d449bd95c44641531e.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iiHY6VEmX&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "大肥鱼大战波刚"
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791107762971,
-    "bilibili": 1791107776111,
-    "qbitai": 1791107809391,
-    "36kr": 1791107809764
+    "thepaper": 1791108662927,
+    "bilibili": 1791107765866,
+    "qbitai": 1791108679558,
+    "36kr": 1791108679860
   },
   "failures": {}
 }
