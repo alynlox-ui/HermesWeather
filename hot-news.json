@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T20:26:19Z",
+  "updatedAt": "2026-10-04T20:41:18Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "毕焜亚运会闭幕式旗手"
       },
       {
-        "title": "这是AG？成都AG超玩会 3-0 济南RW侠 赛后数据雷达图丨2026KPL年度总决赛",
-        "url": "https://www.bilibili.com/video/BV1FEH766Ev2",
+        "title": "大型纪录片《成都AG3:0强势零封济南RW侠！》拿到年总开门红！",
+        "url": "https://www.bilibili.com/video/BV11KH76mE4g",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1FEH766Ev2",
-        "author": "捕快云缨",
-        "duration": "3:15",
-        "cover": "//i0.hdslb.com/bfs/archive/5d5cb1cb8bebe68bfaf4efb308a324f8426073f6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FEH766Ev2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV11KH76mE4g",
+        "author": "不爱吃饭的可可",
+        "duration": "5:1",
+        "cover": "//i0.hdslb.com/bfs/archive/0bebc16dcd3429f099df72653eccc8c61e6afb89.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11KH76mE4g&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "成都AG超玩会战胜济南RW侠"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791145562805,
+    "thepaper": 1791146462599,
     "bilibili": 1791144951337,
-    "qbitai": 1791145578876,
-    "36kr": 1791145579262
+    "qbitai": 1791146478064,
+    "36kr": 1791146478420
   },
   "failures": {}
 }
