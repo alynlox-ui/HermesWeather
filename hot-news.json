@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T10:56:35Z",
+  "updatedAt": "2026-10-04T11:11:59Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -136,7 +136,7 @@
         "content": "【2026KPL年度总决赛】10月4日 广州TTG VS 南通Hero久竞",
         "bvid": "BV13GHj6REpE",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "108:41",
+        "duration": "135:33",
         "cover": "//i0.hdslb.com/bfs/archive/af4299d87ea03906b4735ce245b9856ecb57fa78.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13GHj6REpE&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "广州TTG vs 南通Hero久竞 KPL"
@@ -184,7 +184,7 @@
         "content": "【无畏契约上海全球冠军赛】10月4日 LOUD vs GE",
         "bvid": "BV1jNHj68EKf",
         "author": "无畏契约赛事",
-        "duration": "69:43",
+        "duration": "131:59",
         "cover": "//i0.hdslb.com/bfs/archive/ea7ce949a35970fb65a50258540f3282057cf330.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jNHj68EKf&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "LOUD vs GE VCT冠军赛"
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791111363156,
-    "bilibili": 1791111379645,
-    "qbitai": 1791111395170,
-    "36kr": 1791111395546
+    "thepaper": 1791112263012,
+    "bilibili": 1791111369596,
+    "qbitai": 1791112318960,
+    "36kr": 1791112319315
   },
   "failures": {}
 }
