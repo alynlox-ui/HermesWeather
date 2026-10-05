@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T01:11:21Z",
+  "updatedAt": "2026-10-05T01:26:18Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -58,78 +58,126 @@
         "rank": 9
       },
       {
-        "title": "“i到恰好处”，恰是宁波",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34164702",
-        "desc": "",
-        "rank": 10
-      },
-      {
-        "title": "上海书评周刊",
-        "url": "https://www.thepaper.cn/newsDetail_forward_2006977",
-        "desc": "",
-        "rank": 11
-      },
-      {
         "title": "轰6K飞行员讲述应对外机抵近跟监：在沿海上空我就是界碑",
         "url": "https://www.thepaper.cn/newsDetail_forward_34199140",
         "desc": "",
-        "rank": 12
-      },
-      {
-        "title": "连续4天单日破亿！2026国庆档电影票房已超7亿",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34199238",
-        "desc": "",
-        "rank": 13
+        "rank": 10
       },
       {
         "title": "9月香港一手住宅成交达三个月高位：新盘开盘即售罄，有人️连买4套",
         "url": "https://www.thepaper.cn/newsDetail_forward_34199049",
         "desc": "",
-        "rank": 14
+        "rank": 11
+      },
+      {
+        "title": "连续4天单日破亿！2026国庆档电影票房已超7亿",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34199238",
+        "desc": "",
+        "rank": 12
       },
       {
         "title": "特朗普宣布成立“超级智能特别工作组”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34199525",
         "desc": "",
-        "rank": 15
+        "rank": 13
       },
       {
         "title": "商务部就二十国集团贸易部长会议及相关情况答记者问",
         "url": "https://www.thepaper.cn/newsDetail_forward_34198011",
         "desc": "",
-        "rank": 16
+        "rank": 14
       },
       {
         "title": "年龄身高限制未落实？襄阳奇趣童年乐园限5岁以上项目，多名低龄幼儿乘车游玩",
         "url": "https://www.thepaper.cn/newsDetail_forward_34196487",
         "desc": "",
-        "rank": 17
+        "rank": 15
       },
       {
         "title": "直播丨实测襄阳华侨城奇趣童年亲子乐园：不少项目另收费，安全标准执行随意",
         "url": "https://www.thepaper.cn/newsDetail_forward_34187545",
         "desc": "",
-        "rank": 18
+        "rank": 16
       },
       {
         "title": "奔赴“县”场｜山西安泽：县域发展不在高楼，变化藏于山乡日常",
         "url": "https://www.thepaper.cn/newsDetail_forward_34194118",
         "desc": "",
-        "rank": 19
+        "rank": 17
       },
       {
         "title": "中国团队拿下最佳故事奖，从阿斯塔纳这个电影节看AI的惊艳与短板",
         "url": "https://www.thepaper.cn/newsDetail_forward_34198273",
+        "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "观察｜亚运会这场“中考”，中国代表团考出惊喜，也考出忧虑",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34197195",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "经纬度：青年发展型城市建设，何以成为城市发展新战略",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34196391",
         "desc": "",
         "rank": 20
       }
     ],
     "bilibili": [
       {
+        "title": "【F1巴林战报】正赛，雨战！维斯塔潘第72胜拿下，时隔9年的雪邦连胜！",
+        "url": "https://www.bilibili.com/video/BV167H76gEJ3",
+        "desc": "",
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【F1巴林战报】正赛，雨战！维斯塔潘第72胜拿下，时隔9年的雪邦连胜！",
+        "content": "【F1巴林战报】正赛，雨战！维斯塔潘第72胜拿下，时隔9年的雪邦连胜！",
+        "bvid": "BV167H76gEJ3",
+        "author": "F1赛事资讯",
+        "duration": "17:46",
+        "cover": "//i2.hdslb.com/bfs/archive/eac3e6ce0be1a7655693e7c5dac3847b5deb98d7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV167H76gEJ3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "F1巴林站战报"
+      },
+      {
+        "title": "一口气总结！新赛季nba争冠分档！谁是最强队？",
+        "url": "https://www.bilibili.com/video/BV1RSHj6bEvW",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1RSHj6bEvW",
+        "author": "业余球探刀先生",
+        "duration": "22:10",
+        "cover": "//i2.hdslb.com/bfs/archive/726b6fa0a77d770ddabfa0becb6c754fe3d840a6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RSHj6bEvW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "NBA新赛季夺冠战力排行榜"
+      },
+      {
+        "title": "当 代 假 期 现 状",
+        "url": "https://www.bilibili.com/video/BV18Dad6tESF",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "让我在评论区康康兄弟们还有几天假期？？？",
+        "content": "让我在评论区康康兄弟们还有几天假期？？？",
+        "bvid": "BV18Dad6tESF",
+        "author": "进击的金厂长",
+        "duration": "2:47",
+        "cover": "//i1.hdslb.com/bfs/archive/a8713cebbe11ede1e5750ff144f32a78a5bd2740.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18Dad6tESF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "当代假期现状"
+      },
+      {
         "title": "广州街唱《万疆》唱到一半，李玉刚本人来了？！",
         "url": "https://www.bilibili.com/video/BV1TWHj67ESg",
         "desc": "",
-        "rank": 1,
+        "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "谁能想到，李玉刚老师有一天会出现在自己的街唱现场 从第一次听李玉刚老师唱歌，种下了那颗国风的种子，到今天在自己的街唱现场和老师一起合唱 有些喜欢，最开始只是喜欢，后来却慢慢变成了自己的方向 国风、戏腔，也从那个时候开始，一点点成为了我音乐里很重要的一部分。 谢谢李玉刚老师@李玉刚 ，祝演唱会顺利！！！",
@@ -142,42 +190,26 @@
         "hotTitle": "UP主广州街唱偶遇李玉刚"
       },
       {
-        "title": "【2026KPL年度总决赛】10月4日 成都AG超玩会 VS 济南RW侠",
-        "url": "https://www.bilibili.com/video/BV1tyH76XEgz",
+        "title": "老奴... BFX 2-1 LGD 赛后数据雷达图丨2026德玛西亚杯",
+        "url": "https://www.bilibili.com/video/BV1b6HL62EJi",
         "desc": "",
-        "rank": 2,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026KPL年度总决赛】10月4日 成都AG超玩会 VS 济南RW侠",
-        "content": "【2026KPL年度总决赛】10月4日 成都AG超玩会 VS 济南RW侠",
-        "bvid": "BV1tyH76XEgz",
-        "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "169:21",
-        "cover": "//i0.hdslb.com/bfs/archive/dc3935ab57e5894b643a137d6cc4eb9a160fed7f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tyH76XEgz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "成都AG超玩会战胜济南RW侠"
-      },
-      {
-        "title": "我军反无人机进化到这种程度了？！激光、微波同步开机……",
-        "url": "https://www.bilibili.com/video/BV1gEHj6DETJ",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "在我军新域新质装备中，激光武器、弹炮结合武器、高功率微波武器被称为反无人机装备的“铁三角”。近日，陆军第75集团军某旅千里机动至大漠戈壁，开展多课目、跨昼夜实弹战术演练，全方位磨砺部队快速反应、火力打击、连续作战能力，夯实防空御敌的实战根基。（新闻直播间）",
-        "content": "在我军新域新质装备中，激光武器、弹炮结合武器、高功率微波武器被称为反无人机装备的“铁三角”。近日，陆军第75集团军某旅千里机动至大漠戈壁，开展多课目、跨昼夜实弹战术演练，全方位磨砺部队快速反应、火力打击、连续作战能力，夯实防空御敌的实战根基。（新闻直播间）",
-        "bvid": "BV1gEHj6DETJ",
-        "author": "央视军事",
-        "duration": "4:31",
-        "cover": "//i2.hdslb.com/bfs/archive/c2983d4b9a09e09dc1ec55ce3de74116e324c34c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gEHj6DETJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "我军反无人机铁三角戈壁实弹演练"
+        "description": "",
+        "content": "",
+        "bvid": "BV1b6HL62EJi",
+        "author": "苦练李香兰",
+        "duration": "3:34",
+        "cover": "//i0.hdslb.com/bfs/archive/071c10154697f054be730422f869402a3ce8f162.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1b6HL62EJi&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BFX战胜LGD 德玛西亚杯"
       },
       {
         "title": "拍个照还闪身？我做了个抽象国庆景区！【Bilibili Toy】",
         "url": "https://www.bilibili.com/video/BV1P8Hj6VE9b",
         "desc": "",
-        "rank": 4,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "快来欢庆国庆吧！ toy链接：https://www.bilibili.com/toy/HolidayKing/index.html",
@@ -193,7 +225,7 @@
         "title": "毕焜执旗 中国体育代表团亮相名古屋亚运会闭幕式",
         "url": "https://www.bilibili.com/video/BV1B7HL6aEJ2",
         "desc": "",
-        "rank": 5,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "https://w.yangshipin.cn/video?type=0&vid=x000089hqan（央视频号：5@体坛）",
@@ -206,26 +238,26 @@
         "hotTitle": "毕焜亚运会闭幕式旗手"
       },
       {
-        "title": "Donk31-6的炸鱼数据 绿龙复仇PV距离淘汰赛仅一步之遥",
-        "url": "https://www.bilibili.com/video/BV18pHE6dEJK",
+        "title": "入秋体验卡，10月中旬华南又要热回去",
+        "url": "https://www.bilibili.com/video/BV1mxHE69Eti",
         "desc": "",
-        "rank": 6,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV18pHE6dEJK",
-        "author": "CSGO赛事Jun",
-        "duration": "3:8",
-        "cover": "//i1.hdslb.com/bfs/archive/dbb61bb3ceffdaeda59dddec3d2818bf5034e46d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18pHE6dEJK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Donk单图狂轰31杀"
+        "description": "福建琼东西的朋友还相信会降温吗？下半年以来最优质的冷空气要来了，6号7号早晨广州最低降到18度，南宁福州19度，深圳20度，厦门21度，连海南都能降到二十二三度。关键是散装雷雨将会全部撤场，天气变得凉爽干燥，体感非常接近入秋了！那这样的天气会持续多久，还会热回去吗？",
+        "content": "福建琼东西的朋友还相信会降温吗？下半年以来最优质的冷空气要来了，6号7号早晨广州最低降到18度，南宁福州19度，深圳20度，厦门21度，连海南都能降到二十二三度。关键是散装雷雨将会全部撤场，天气变得凉爽干燥，体感非常接近入秋了！那这样的天气会持续多久，还会热回去吗？",
+        "bvid": "BV1mxHE69Eti",
+        "author": "中气爱怎么说",
+        "duration": "2:9",
+        "cover": "//i1.hdslb.com/bfs/archive/45b3951eb24cc565c03d4ece51d0eabed221b5a7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mxHE69Eti&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "华南终于凉快了"
       },
       {
         "title": "韩国要求乌克兰道歉，因乌克兰违反保密协议，还煽风点火，拱火东北亚局势",
         "url": "https://www.bilibili.com/video/BV1hEHr6oEku",
         "desc": "",
-        "rank": 7,
+        "rank": 9,
         "kind": "video",
         "platform": "bilibili",
         "description": "最近，韩国和乌克兰之间，爆发了外交冲突。 10月2日，韩国总统李在明称若乌克兰拒不道歉，将采取进一步措施。 具体本视频会来详细分析这件事情，感谢赞赏支持。",
@@ -238,52 +270,20 @@
         "hotTitle": "李在明要求乌克兰道歉"
       },
       {
-        "title": "【世界周刊】中美AI “拐点”？",
-        "url": "https://www.bilibili.com/video/BV1pdH765EXN",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1pdH765EXN",
-        "author": "央视新闻",
-        "duration": "18:37",
-        "cover": "//i0.hdslb.com/bfs/archive/4e99356c3f4031715d3f3fbf9eec0db98eb21608.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pdH765EXN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中美AI治理是否迎来拐点"
-      },
-      {
-        "title": "今天带小沈阳自律！",
-        "url": "https://www.bilibili.com/video/BV1HoaS6FEvZ",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1HoaS6FEvZ",
-        "author": "花小龙oy",
-        "duration": "2:32",
-        "cover": "//i2.hdslb.com/bfs/archive/f6cb2ef1509559a2f64c2c6444eb678452b22a94.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HoaS6FEvZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "花小龙带小沈阳自律"
-      },
-      {
-        "title": "比《2001太空漫游》更加深邃？逐帧解析史上最诗意科幻片《索拉里斯》",
-        "url": "https://www.bilibili.com/video/BV1TWHj67EaH",
+        "title": "【2026KPL年度总决赛】10月4日 成都AG超玩会 VS 济南RW侠",
+        "url": "https://www.bilibili.com/video/BV1tyH76XEgz",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "他一生拍了7部半电影，名留影史 他是现代艺术电影「圣三位一体」之一 被称为长镜头之神 他拍过与库布里克《2001太空漫游》齐名的科幻片 他的著作被称为「电影圣经」 他就是前苏联电影大师——安德烈·塔可夫斯基 那部科幻片则是《索拉里斯》（又名《飞向太空》） 评论家们称它为「史上最诗意的科幻片」 今天这期「25格」，我们就来解读这部伟大的作品",
-        "content": "他一生拍了7部半电影，名留影史 他是现代艺术电影「圣三位一体」之一 被称为长镜头之神 他拍过与库布里克《2001太空漫游》齐名的科幻片 他的著作被称为「电影圣经」 他就是前苏联电影大师——安德烈·塔可夫斯基 那部科幻片则是《索拉里斯》（又名《飞向太空》） 评论家们称它为「史上最诗意的科幻片」 今天这期「25格」，我们就来解读这部伟大的作品",
-        "bvid": "BV1TWHj67EaH",
-        "author": "木鱼水心",
-        "duration": "115:59",
-        "cover": "//i1.hdslb.com/bfs/archive/3b1d7dc4c44899824f18ad39db6762bfab7c4579.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TWHj67EaH&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "木鱼水心解析最诗意科幻片"
+        "description": "【2026KPL年度总决赛】10月4日 成都AG超玩会 VS 济南RW侠",
+        "content": "【2026KPL年度总决赛】10月4日 成都AG超玩会 VS 济南RW侠",
+        "bvid": "BV1tyH76XEgz",
+        "author": "哔哩哔哩王者荣耀赛事",
+        "duration": "169:21",
+        "cover": "//i0.hdslb.com/bfs/archive/dc3935ab57e5894b643a137d6cc4eb9a160fed7f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tyH76XEgz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "成都AG超玩会战胜济南RW侠"
       },
       {
         "title": "中国同桌会飞（同桌请假就这么耍起",
@@ -302,74 +302,10 @@
         "hotTitle": "同桌请假就这么耍起"
       },
       {
-        "title": "你管这叫留守老人？",
-        "url": "https://www.bilibili.com/video/BV1MSHY6eEq9",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "喜欢视频请给咪克菌一键三连加关注吧！今后会有更多的脑洞！ 求三连~求三连~求三连",
-        "content": "喜欢视频请给咪克菌一键三连加关注吧！今后会有更多的脑洞！ 求三连~求三连~求三连",
-        "bvid": "BV1MSHY6eEq9",
-        "author": "咪克菌",
-        "duration": "1:35",
-        "cover": "//i1.hdslb.com/bfs/archive/49f32d6e1667d9fd604666db302a6e1a66d97f76.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MSHY6eEq9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "当村里的老人学会闪身步"
-      },
-      {
-        "title": "从今往后，我只吃小孩菜",
-        "url": "https://www.bilibili.com/video/BV1Rna36gEj9",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "美食区一鸽！前来觐见！ 感谢关注！ 记得一键三连哦！！！",
-        "content": "美食区一鸽！前来觐见！ 感谢关注！ 记得一键三连哦！！！",
-        "bvid": "BV1Rna36gEj9",
-        "author": "小傲想睡觉",
-        "duration": "11:6",
-        "cover": "//i0.hdslb.com/bfs/archive/9c27de48f75e5f00596e04df2ef313436b4aae31.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Rna36gEj9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "假期必备无敌小孩菜"
-      },
-      {
-        "title": "⚡️ 琵琶曲，但是极乐净土 ⚡️【bilibili次元干杯】",
-        "url": "https://www.bilibili.com/video/BV1suam6sEtq",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "好曲不挑舞，但好舞也不挑曲！ 【点赞过5w，加更舞蹈视频！】",
-        "content": "好曲不挑舞，但好舞也不挑曲！ 【点赞过5w，加更舞蹈视频！】",
-        "bvid": "BV1suam6sEtq",
-        "author": "伢伢gagako",
-        "duration": "1:2",
-        "cover": "//i0.hdslb.com/bfs/archive/6504527f5e280c5e1985f77901e62fdf3ed5e023.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1suam6sEtq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "琵琶曲但极乐净土"
-      },
-      {
-        "title": "制裁越来越多，为什么战争没有变少？丨中国坐标",
-        "url": "https://www.bilibili.com/video/BV1VEYw6yEN1",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "从1950年到2025年，各国实施了1794次制裁，平均半个月就一个新的制裁。什么是制裁？制裁有合法和非法之分吗？",
-        "content": "从1950年到2025年，各国实施了1794次制裁，平均半个月就一个新的制裁。什么是制裁？制裁有合法和非法之分吗？",
-        "bvid": "BV1VEYw6yEN1",
-        "author": "小Q不是导盲犬",
-        "duration": "5:37",
-        "cover": "//i2.hdslb.com/bfs/archive/339039ce5a798dfb900d8abcd0f5df659116efbb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VEYw6yEN1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "经济制裁能够制止战争吗"
-      },
-      {
         "title": "《舌尖上的国庆高速堵车》",
         "url": "https://www.bilibili.com/video/BV1Nkao6XEjd",
         "desc": "",
-        "rank": 16,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "关注UP主，观看更多沙雕脑洞纪录片！ 吴彦祖，刘亦菲，你们怎么都来点赞了呀~",
@@ -385,7 +321,7 @@
         "title": "《下一个是谁》第七季（5）",
         "url": "https://www.bilibili.com/video/BV1cAYP6YEvj",
         "desc": "",
-        "rank": 17,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "《下一个是谁》第七季来啦！！ 每期都会抽一台iPhone18 Pro！每期抽奖去主投up主（@在下哲别 ）的主页抽！ 抽奖资金由本期最后一名倒霉蛋出！所以不涉及剧透！",
@@ -398,58 +334,10 @@
         "hotTitle": "下一个是谁第七季"
       },
       {
-        "title": "不 气 盛 还 叫 年 轻 人 么 ？",
-        "url": "https://www.bilibili.com/video/BV1tyH76QE9S",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1tyH76QE9S",
-        "author": "央视新闻",
-        "duration": "2:9",
-        "cover": "//i2.hdslb.com/bfs/archive/f685d474b46a1d83f7951d3a5c1e44c8e6cdbbc2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tyH76QE9S&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国队亚运高光混剪"
-      },
-      {
-        "title": "全球排名第二高铁！经济座 VS 商务座！什么体验？高铁餐吃什么？",
-        "url": "https://www.bilibili.com/video/BV1Mtaz6gES7",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "小测今天带大家探秘，全球排名第二高铁！拥有仅次于中国，全世界第二大高铁网络！高铁餐由著名米其林厨师制作！号称全世界最好吃的高铁餐！经济座 VS 商务座！什么体验？高铁餐吃什么？和我们中国高铁什么区别？今天跟小测一起！前往欧洲！一探究竟！",
-        "content": "小测今天带大家探秘，全球排名第二高铁！拥有仅次于中国，全世界第二大高铁网络！高铁餐由著名米其林厨师制作！号称全世界最好吃的高铁餐！经济座 VS 商务座！什么体验？高铁餐吃什么？和我们中国高铁什么区别？今天跟小测一起！前往欧洲！一探究竟！",
-        "bvid": "BV1Mtaz6gES7",
-        "author": "HOLA小测佬",
-        "duration": "11:11",
-        "cover": "//i1.hdslb.com/bfs/archive/ccc3be078f771a5157cf48631e1639982d567c45.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Mtaz6gES7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "全球排名第二高铁吃什么"
-      },
-      {
-        "title": "咱们真能振兴这里吗？",
-        "url": "https://www.bilibili.com/video/BV1UsYw6zEaB",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "BGM：酸菜牛肉面（伴奏） - 鼠尾草,DANNY K,EINK 我印象中的他，是夏天能光着膀子满街跑，是冬天人均一件黑棉袄；是以前楼下小区旁一年四季都不断人的烧烤，是现在濒临荒废只能跳广场舞的老学校。有火炕，有麻将，有毛嗑花生砂糖橘，有成箱的杏仁露和酥糖。有人笑，有人吵，有人抽烟，有人谈心，那是让我最安稳的白噪音。 我爱他的人文、他的美食、爱我和他的记忆。但我恨他腐败的…不良风气，我想躲却躲不掉。 我不知道他能否好起来。 但我相信，我们这代人能够用知识、双手和信仰，让他不再荒凉，让根深蒂固的烂根无处躲藏",
-        "content": "BGM：酸菜牛肉面（伴奏） - 鼠尾草,DANNY K,EINK 我印象中的他，是夏天能光着膀子满街跑，是冬天人均一件黑棉袄；是以前楼下小区旁一年四季都不断人的烧烤，是现在濒临荒废只能跳广场舞的老学校。有火炕，有麻将，有毛嗑花生砂糖橘，有成箱的杏仁露和酥糖。有人笑，有人吵，有人抽烟，有人谈心，那是让我最安稳的白噪音。 我爱他的人文、他的美食、爱我和他的记忆。但我恨他腐败的…不良风气，我想躲却躲不掉。 我不知道他能否好起来。 但我相信，我们这代人能够用知识、双手和信仰，让他不再荒凉，让根深蒂固的烂根无处躲藏",
-        "bvid": "BV1UsYw6zEaB",
-        "author": "若翰_",
-        "duration": "3:43",
-        "cover": "//i1.hdslb.com/bfs/archive/a36a81858ad18aba82622bad04a92a6f98034376.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UsYw6zEaB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "咱们真能振兴这里吗"
-      },
-      {
         "title": "琵琶曲，但是用订书钉演奏",
         "url": "https://www.bilibili.com/video/BV18wYc6iEhY",
         "desc": "",
-        "rank": 21,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -462,74 +350,58 @@
         "hotTitle": "用订书钉演奏琵琶曲"
       },
       {
-        "title": "再登领奖台！《亚运之约》专访中国男足队员吴曦、李昊及主教练安东尼奥",
-        "url": "https://www.bilibili.com/video/BV1P8Hj6VEPV",
+        "title": "你管这叫留守老人？",
+        "url": "https://www.bilibili.com/video/BV1MSHY6eEq9",
         "desc": "",
-        "rank": 22,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "https://www.yspapp.cn/6pfP（央视频号：体坛零距离）",
-        "content": "https://www.yspapp.cn/6pfP（央视频号：体坛零距离）",
-        "bvid": "BV1P8Hj6VEPV",
-        "author": "央视频",
-        "duration": "17:3",
-        "cover": "//i0.hdslb.com/bfs/archive/9e3ca4de37058a91c9775cc04bc18bf5db6a4274.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1P8Hj6VEPV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "安东尼奥说自己是最幸福的教练"
+        "description": "喜欢视频请给咪克菌一键三连加关注吧！今后会有更多的脑洞！ 求三连~求三连~求三连",
+        "content": "喜欢视频请给咪克菌一键三连加关注吧！今后会有更多的脑洞！ 求三连~求三连~求三连",
+        "bvid": "BV1MSHY6eEq9",
+        "author": "咪克菌",
+        "duration": "1:35",
+        "cover": "//i1.hdslb.com/bfs/archive/49f32d6e1667d9fd604666db302a6e1a66d97f76.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MSHY6eEq9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "当村里的老人学会闪身步"
       },
       {
-        "title": "24位博主为粉丝争夺30万元！",
-        "url": "https://www.bilibili.com/video/BV15far6dEjT",
+        "title": "琵琶曲，但世界巡演",
+        "url": "https://www.bilibili.com/video/BV14MHh69ECU",
         "desc": "",
-        "rank": 23,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "这次我们邀请了24位百万粉博主参与一场挑战赛，五大关卡不断淘汰，最终获胜者将为自己的粉丝赢得30万元奖金，谁能获得胜利？和我们一起揭晓答案吧！如果喜欢本期节目，记得多多点赞支持我们！",
-        "content": "这次我们邀请了24位百万粉博主参与一场挑战赛，五大关卡不断淘汰，最终获胜者将为自己的粉丝赢得30万元奖金，谁能获得胜利？和我们一起揭晓答案吧！如果喜欢本期节目，记得多多点赞支持我们！",
-        "bvid": "BV15far6dEjT",
-        "author": "飓多多StormCrew",
-        "duration": "29:52",
-        "cover": "//i2.hdslb.com/bfs/archive/4ad6f00ab0304645d1713c08f37e4c2699aed99f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15far6dEjT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "24位博主为粉丝争夺30w"
+        "description": "出处油管@KotteAnimation",
+        "content": "出处油管@KotteAnimation",
+        "bvid": "BV14MHh69ECU",
+        "author": "快乐阿依",
+        "duration": "1:9",
+        "cover": "//i1.hdslb.com/bfs/archive/c954316197f08762785da54a88e936a14fdac51a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14MHh69ECU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "琵琶曲世界巡演"
       },
       {
-        "title": "【邪恶冥刻】假如我开局有一张九头蛇",
-        "url": "https://www.bilibili.com/video/BV1ZSHa6yELs",
+        "title": "【世界周刊】中美AI “拐点”？",
+        "url": "https://www.bilibili.com/video/BV1pdH765EXN",
         "desc": "",
-        "rank": 24,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1ZSHa6yELs",
-        "author": "最大之1",
-        "duration": "25:55",
-        "cover": "//i1.hdslb.com/bfs/archive/49dfb26ec68d6f5c5909d1b70452daafb93c2e04.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZSHa6yELs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "邪恶冥刻作者入驻B站"
-      },
-      {
-        "title": "服务员华强",
-        "url": "https://www.bilibili.com/video/BV1oya266EAg",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "服务强",
-        "content": "服务强",
-        "bvid": "BV1oya266EAg",
-        "author": "神威-狗剩",
-        "duration": "3:49",
-        "cover": "//i1.hdslb.com/bfs/archive/1f0a7ea8442e1ba9dba12fd0cd2e6447ae2ba4be.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oya266EAg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "服务员华强"
+        "description": "",
+        "content": "",
+        "bvid": "BV1pdH765EXN",
+        "author": "央视新闻",
+        "duration": "18:37",
+        "cover": "//i0.hdslb.com/bfs/archive/4e99356c3f4031715d3f3fbf9eec0db98eb21608.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pdH765EXN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中美AI治理是否迎来拐点"
       },
       {
         "title": "凌玲：不气盛叫年轻人吗！",
         "url": "https://www.bilibili.com/video/BV1gkHh6hEhb",
         "desc": "",
-        "rank": 26,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -542,10 +414,106 @@
         "hotTitle": "凌玲 不气盛叫年轻人吗"
       },
       {
+        "title": "⚡️ 琵琶曲，但是极乐净土 ⚡️【bilibili次元干杯】",
+        "url": "https://www.bilibili.com/video/BV1suam6sEtq",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "好曲不挑舞，但好舞也不挑曲！ 【点赞过5w，加更舞蹈视频！】",
+        "content": "好曲不挑舞，但好舞也不挑曲！ 【点赞过5w，加更舞蹈视频！】",
+        "bvid": "BV1suam6sEtq",
+        "author": "伢伢gagako",
+        "duration": "1:2",
+        "cover": "//i0.hdslb.com/bfs/archive/6504527f5e280c5e1985f77901e62fdf3ed5e023.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1suam6sEtq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "琵琶曲但极乐净土"
+      },
+      {
+        "title": "再登领奖台！《亚运之约》专访中国男足队员吴曦、李昊及主教练安东尼奥",
+        "url": "https://www.bilibili.com/video/BV1P8Hj6VEPV",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "https://www.yspapp.cn/6pfP（央视频号：体坛零距离）",
+        "content": "https://www.yspapp.cn/6pfP（央视频号：体坛零距离）",
+        "bvid": "BV1P8Hj6VEPV",
+        "author": "央视频",
+        "duration": "17:3",
+        "cover": "//i0.hdslb.com/bfs/archive/9e3ca4de37058a91c9775cc04bc18bf5db6a4274.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1P8Hj6VEPV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "安东尼奥说自己是最幸福的教练"
+      },
+      {
+        "title": "比《2001太空漫游》更加深邃？逐帧解析史上最诗意科幻片《索拉里斯》",
+        "url": "https://www.bilibili.com/video/BV1TWHj67EaH",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "他一生拍了7部半电影，名留影史 他是现代艺术电影「圣三位一体」之一 被称为长镜头之神 他拍过与库布里克《2001太空漫游》齐名的科幻片 他的著作被称为「电影圣经」 他就是前苏联电影大师——安德烈·塔可夫斯基 那部科幻片则是《索拉里斯》（又名《飞向太空》） 评论家们称它为「史上最诗意的科幻片」 今天这期「25格」，我们就来解读这部伟大的作品",
+        "content": "他一生拍了7部半电影，名留影史 他是现代艺术电影「圣三位一体」之一 被称为长镜头之神 他拍过与库布里克《2001太空漫游》齐名的科幻片 他的著作被称为「电影圣经」 他就是前苏联电影大师——安德烈·塔可夫斯基 那部科幻片则是《索拉里斯》（又名《飞向太空》） 评论家们称它为「史上最诗意的科幻片」 今天这期「25格」，我们就来解读这部伟大的作品",
+        "bvid": "BV1TWHj67EaH",
+        "author": "木鱼水心",
+        "duration": "115:59",
+        "cover": "//i1.hdslb.com/bfs/archive/3b1d7dc4c44899824f18ad39db6762bfab7c4579.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TWHj67EaH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "木鱼水心解析最诗意科幻片"
+      },
+      {
+        "title": "24位博主为粉丝争夺30万元！",
+        "url": "https://www.bilibili.com/video/BV15far6dEjT",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这次我们邀请了24位百万粉博主参与一场挑战赛，五大关卡不断淘汰，最终获胜者将为自己的粉丝赢得30万元奖金，谁能获得胜利？和我们一起揭晓答案吧！如果喜欢本期节目，记得多多点赞支持我们！",
+        "content": "这次我们邀请了24位百万粉博主参与一场挑战赛，五大关卡不断淘汰，最终获胜者将为自己的粉丝赢得30万元奖金，谁能获得胜利？和我们一起揭晓答案吧！如果喜欢本期节目，记得多多点赞支持我们！",
+        "bvid": "BV15far6dEjT",
+        "author": "飓多多StormCrew",
+        "duration": "29:52",
+        "cover": "//i2.hdslb.com/bfs/archive/4ad6f00ab0304645d1713c08f37e4c2699aed99f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15far6dEjT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "24位博主为粉丝争夺30w"
+      },
+      {
+        "title": "今天带小沈阳自律！",
+        "url": "https://www.bilibili.com/video/BV1HoaS6FEvZ",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1HoaS6FEvZ",
+        "author": "花小龙oy",
+        "duration": "2:32",
+        "cover": "//i2.hdslb.com/bfs/archive/f6cb2ef1509559a2f64c2c6444eb678452b22a94.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HoaS6FEvZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "花小龙带小沈阳自律"
+      },
+      {
+        "title": "从今往后，我只吃小孩菜",
+        "url": "https://www.bilibili.com/video/BV1Rna36gEj9",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "美食区一鸽！前来觐见！ 感谢关注！ 记得一键三连哦！！！",
+        "content": "美食区一鸽！前来觐见！ 感谢关注！ 记得一键三连哦！！！",
+        "bvid": "BV1Rna36gEj9",
+        "author": "小傲想睡觉",
+        "duration": "11:6",
+        "cover": "//i0.hdslb.com/bfs/archive/9c27de48f75e5f00596e04df2ef313436b4aae31.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Rna36gEj9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "假期必备无敌小孩菜"
+      },
+      {
         "title": "大肥鱼大战波刚",
         "url": "https://www.bilibili.com/video/BV1iiHY6VEmX",
         "desc": "",
-        "rank": 27,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "前几次没有把来源标注完整，实在不应该。既然认识到错误，就应当道歉并改正，所以这次把来源标注完整。大肥鱼形象来源：@这个刀子真甜 老师，@ZipZipPipe 老师，@上善无形 老师。",
@@ -558,42 +526,10 @@
         "hotTitle": "大肥鱼大战波刚"
       },
       {
-        "title": "2026-10-04 T1大战FUT",
-        "url": "https://www.bilibili.com/video/BV18qH764ER5",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV18qH764ER5",
-        "author": "神枪小宝宝",
-        "duration": "157:9",
-        "cover": "//i0.hdslb.com/bfs/archive/d288e96b5be738ae0f253dd7415694a19a7c3915.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18qH764ER5&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "T1战胜FUT VCT冠军赛"
-      },
-      {
-        "title": "EDG.ZmjjKK独家专访：我是想当箭头的那个人，所以我只做那个唯一【2026全球冠军赛】",
-        "url": "https://www.bilibili.com/video/BV118Hj6VEKM",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "采访拍摄时间：10月2日比赛后",
-        "content": "采访拍摄时间：10月2日比赛后",
-        "bvid": "BV118Hj6VEKM",
-        "author": "无畏契约赛事",
-        "duration": "3:3",
-        "cover": "//i1.hdslb.com/bfs/archive/f9d97f9312013b781cdb8dd89e691f45a10e97c8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV118Hj6VEKM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "ZmjjKK冠军赛专访"
-      },
-      {
         "title": "歌剧老师锐评2026大湾区（窦靖童、单依纯、欧阳娜娜、陈楚生、刘惜君、齐豫、齐秦、王力宏live现场）上",
         "url": "https://www.bilibili.com/video/BV1vgaD6nEki",
         "desc": "",
-        "rank": 30,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "歌剧老师锐评2026大湾区（上）",
@@ -604,6 +540,70 @@
         "cover": "//i2.hdslb.com/bfs/archive/591712662ab54e205108b05df1c24982c5c445d2.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vgaD6nEki&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "歌剧老师锐评2026大湾区"
+      },
+      {
+        "title": "hanser「花生与葱花」全程录像",
+        "url": "https://www.bilibili.com/video/BV1r4a96KEfn",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "感谢所有人和我一起给了hanser圆满的一生～她无憾嘞",
+        "content": "感谢所有人和我一起给了hanser圆满的一生～她无憾嘞",
+        "bvid": "BV1r4a96KEfn",
+        "author": "hanser",
+        "duration": "147:14",
+        "cover": "//i0.hdslb.com/bfs/archive/04828b524b2dd652518b6cbc83988fb086bf042c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1r4a96KEfn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "hanser演唱会全程录像"
+      },
+      {
+        "title": "全球排名第二高铁！经济座 VS 商务座！什么体验？高铁餐吃什么？",
+        "url": "https://www.bilibili.com/video/BV1Mtaz6gES7",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "小测今天带大家探秘，全球排名第二高铁！拥有仅次于中国，全世界第二大高铁网络！高铁餐由著名米其林厨师制作！号称全世界最好吃的高铁餐！经济座 VS 商务座！什么体验？高铁餐吃什么？和我们中国高铁什么区别？今天跟小测一起！前往欧洲！一探究竟！",
+        "content": "小测今天带大家探秘，全球排名第二高铁！拥有仅次于中国，全世界第二大高铁网络！高铁餐由著名米其林厨师制作！号称全世界最好吃的高铁餐！经济座 VS 商务座！什么体验？高铁餐吃什么？和我们中国高铁什么区别？今天跟小测一起！前往欧洲！一探究竟！",
+        "bvid": "BV1Mtaz6gES7",
+        "author": "HOLA小测佬",
+        "duration": "11:11",
+        "cover": "//i1.hdslb.com/bfs/archive/ccc3be078f771a5157cf48631e1639982d567c45.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Mtaz6gES7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "全球排名第二高铁吃什么"
+      },
+      {
+        "title": "牧神记 104 集：东海赴约！龙娇男掳走秦牧至玉龙门，老道主当面谈判，海底神殿奇遇开启",
+        "url": "https://www.bilibili.com/video/BV166Hr6kEYv",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "预告解析，希望大家喜欢",
+        "content": "预告解析，希望大家喜欢",
+        "bvid": "BV166Hr6kEYv",
+        "author": "山河动漫社",
+        "duration": "18:21",
+        "cover": "//i0.hdslb.com/bfs/archive/b00514e38cf55b1001a4a49adb80957b296c6b15.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV166Hr6kEYv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "秦牧温酒反杀大巫"
+      },
+      {
+        "title": "Donk31-6的炸鱼数据 绿龙复仇PV距离淘汰赛仅一步之遥",
+        "url": "https://www.bilibili.com/video/BV18pHE6dEJK",
+        "desc": "",
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV18pHE6dEJK",
+        "author": "CSGO赛事Jun",
+        "duration": "3:8",
+        "cover": "//i1.hdslb.com/bfs/archive/dbb61bb3ceffdaeda59dddec3d2818bf5034e46d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18pHE6dEJK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Donk单图狂轰31杀"
       }
     ],
     "qbitai": [
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "恒指开盘跌0.04%，恒生科技指数跌0.47%",
+        "url": "https://m.36kr.com/newsflashes/4012301870141315",
+        "desc": "36氪获悉，恒指开盘跌0.04%，恒生科技指数跌0.47%；家电、软件服务板块跌幅居前，美的、网易跌超1%；煤炭、传媒板块领涨，深演智能涨超5%，中煤能源涨超3%。",
+        "cover": "",
+        "date": 1791163471566,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "商务部：国庆假期前四天全国消费市场平稳有序",
         "url": "https://m.36kr.com/newsflashes/4012258696859778",
         "desc": "从商务部了解到，国庆假期过半，全国消费市场平稳有序，生活必需品货足价稳。商务部商务大数据显示，国庆假期前三天，商务部重点监测的78个步行街（商圈）客流量、营业额同比分别增长3.4%、5.3%。消费品以旧换新带动销售额196.3亿元，惠及348.3万人次。其中，汽车以旧换新4.6万辆，带动新车销售额74.5亿元；家电以旧换新151.1万台，带动销售额65亿元；数码和智能产品购新170.9万件，带动销售额49亿元。（央视新闻）",
@@ -947,7 +957,7 @@
         "date": 1791162000000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "马斯克称“SpaceXAI”将更名为“SpaceXSI”",
@@ -957,7 +967,7 @@
         "date": 1791111230260,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "机构调研：磷酸铁锂景气度延续到2027年",
@@ -967,7 +977,7 @@
         "date": 1791110280000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市",
@@ -977,7 +987,7 @@
         "date": 1791109119000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "英国研究推进阿尔茨海默病基因疗法开发",
@@ -987,7 +997,7 @@
         "date": 1791107530000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "液冷巨头并购，释放新信号",
@@ -997,7 +1007,7 @@
         "date": 1791106227000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "Truist比较Meta Muse与OpenAI Dots：Meta先赢在分发，OpenAI更偏企业和复杂任务",
@@ -1007,7 +1017,7 @@
         "date": 1791105019000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "国庆假期前三日，港珠澳大桥出入境客流超31万人次",
@@ -1017,7 +1027,7 @@
         "date": 1791103772000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "交通运输部：10月3日全社会跨区域人员流动量30356.8万人次",
@@ -1027,7 +1037,7 @@
         "date": 1791102640000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "美国国家情报总监出任白宫AI事务主管",
@@ -1037,7 +1047,7 @@
         "date": 1791101776000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "10月4日全国铁路预计发送旅客2035万人次",
@@ -1047,7 +1057,7 @@
         "date": 1791100678000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "杭甬高速复线三期建设全力冲刺",
@@ -1057,7 +1067,7 @@
         "date": 1791099325000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "苹果宣布iPhone18ProMax故障免费换新，只针对AT&T网络版本",
@@ -1067,7 +1077,7 @@
         "date": 1791098092000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
@@ -1077,7 +1087,7 @@
         "date": 1791096561000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "国庆前三天珠海各口岸查验客流超224万人次，同比增长约5%",
@@ -1087,7 +1097,7 @@
         "date": 1791095552000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "10月A股解禁规模超3100亿元，5股解禁比例超70%",
@@ -1097,7 +1107,7 @@
         "date": 1791093600000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "中国银行成功协助韩国产业银行发行30亿元点心债",
@@ -1107,7 +1117,7 @@
         "date": 1791093146000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "前9月广州海关监管广州国际港中欧班列进出口货物2.73万标箱",
@@ -1117,7 +1127,7 @@
         "date": 1791092206000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "2026国庆档总票房破6亿",
@@ -1127,25 +1137,15 @@
         "date": 1791090892000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "国庆假期前3天高速公路新能源汽车充电近300万次、充电量超0.71亿千瓦时",
-        "url": "https://m.36kr.com/newsflashes/4011081585938312",
-        "desc": "36氪获悉，国庆假期前3天新能源汽车充电需求旺盛，高速公路充电基础设施运行平稳。10月1日0时至10月3日24时，通过对纳入国家充电设施监测服务平台的6.27万个高速公路充电设施（枪）进行统计分析，今年国庆假期前三天全国高速公路新能源汽车充电次数共计296.86万次，日均98.95万次，较去年国庆假期同期增长48.41%；充电量达到7161.93万千瓦时，日均2387.31万千瓦时，较去年国庆假期同期增长49.39%，节假日绿色出行渗透率持续提升，人民群众使用新能源汽车长途旅行趋势愈发明显。",
-        "cover": "",
-        "date": 1791088991329,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791162662779,
-    "bilibili": 1791161175748,
-    "qbitai": 1791162680748,
-    "36kr": 1791162681115
+    "thepaper": 1791163561764,
+    "bilibili": 1791163564123,
+    "qbitai": 1791163578189,
+    "36kr": 1791163578541
   },
   "failures": {}
 }
