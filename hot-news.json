@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T10:26:48Z",
-  "liveSourceCount": 3,
+  "updatedAt": "2026-10-10T10:41:47Z",
+  "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
@@ -46,8 +46,8 @@
         "rank": 7
       },
       {
-        "title": "湖南永州市商务局局长被举报婚内出轨多人，官方：成立联合调查组",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34219428",
+        "title": "专访世界粮食计划署司长：厄尔尼诺叠加战争影响，一场“慢燃式”粮食危机正在形成",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34050241",
         "desc": "",
         "rank": 8
       },
@@ -82,26 +82,26 @@
         "rank": 13
       },
       {
-        "title": "马上评丨夫妻一方出轨，向过错方要钱算敲诈勒索吗",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34219701",
+        "title": "马上评｜食用银鳕鱼致汞中毒，“儿童装”为何没能更安全",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34224646",
         "desc": "",
         "rank": 14
       },
       {
-        "title": "马上评｜食用银鳕鱼致汞中毒，“儿童装”为何没能更安全",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34224646",
+        "title": "马上评丨夫妻一方出轨，向过错方要钱算敲诈勒索吗",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34219701",
         "desc": "",
         "rank": 15
       },
       {
-        "title": "视频专访｜叶童：保持热忱，做自己喜欢的事，生活就会活色生香",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34215034",
+        "title": "新闻蒸馏器｜万斯说不会看，议员称令人作呕，美国直播枪决计划争议何在？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34223558",
         "desc": "",
         "rank": 16
       },
       {
-        "title": "新闻蒸馏器｜万斯说不会看，议员称令人作呕，美国直播枪决计划争议何在？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34223558",
+        "title": "视频专访｜叶童：保持热忱，做自己喜欢的事，生活就会活色生香",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34215034",
         "desc": "",
         "rank": 17
       },
@@ -1132,11 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "bilibili": 1791631836804,
-    "qbitai": 1791628007577,
-    "36kr": 1791628008000
+    "thepaper": 1791632728116,
+    "bilibili": 1791631327546,
+    "qbitai": 1791628906750,
+    "36kr": 1791628907226
   },
-  "failures": {
-    "thepaper": "RuntimeError('empty list')"
-  }
+  "failures": {}
 }
