@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T11:11:50Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-10-10T11:26:33Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -1132,10 +1132,11 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791634528572,
-    "bilibili": 1791633135431,
-    "qbitai": 1791630709640,
-    "36kr": 1791630710072
+    "thepaper": 1791635428574,
+    "qbitai": 1791631593148,
+    "36kr": 1791631593627
   },
-  "failures": {}
+  "failures": {
+    "bilibili": "RuntimeError('empty list')"
+  }
 }
