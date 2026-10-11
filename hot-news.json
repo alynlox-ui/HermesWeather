@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T13:56:43Z",
+  "updatedAt": "2026-10-11T14:11:41Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -190,19 +190,19 @@
         "hotTitle": "G2 vs T1 上海冠军赛"
       },
       {
-        "title": "郑钦文中网夺冠！创造历史，首位中国选手！郑钦文强势归来！",
-        "url": "https://www.bilibili.com/video/BV1KEpn6cEZp",
+        "title": "翻开中网新篇章！郑钦文直落两盘安德列娃，首夺中网女单冠军创造新纪录",
+        "url": "https://www.bilibili.com/video/BV1tEpn6cEdx",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1KEpn6cEZp",
-        "author": "隔壁红魔",
-        "duration": "1:36",
-        "cover": "//i0.hdslb.com/bfs/archive/0e7e377937f22ef027bd7d1d9b201643d5361ea1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KEpn6cEZp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "9月28日-10月11日，咪咕视频全程独家直播中网，精彩“网”事等你解锁。",
+        "content": "9月28日-10月11日，咪咕视频全程独家直播中网，精彩“网”事等你解锁。",
+        "bvid": "BV1tEpn6cEdx",
+        "author": "咪咕体育",
+        "duration": "1:17",
+        "cover": "//i1.hdslb.com/bfs/archive/9b96beaeb3d55b5497fb0f4f02d5fecaf5d18123.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tEpn6cEdx&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "郑钦文中网夺冠"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791726964577,
-    "bilibili": 1791726974132,
-    "qbitai": 1791727002736,
-    "36kr": 1791727003189
+    "thepaper": 1791727866046,
+    "bilibili": 1791726905373,
+    "qbitai": 1791727900639,
+    "36kr": 1791727901100
   },
   "failures": {}
 }
