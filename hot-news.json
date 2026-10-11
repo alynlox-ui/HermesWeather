@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-10-11T13:11:36Z",
+  "updatedAt": "2026-10-11T13:26:41Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
-        "title": "创历史！郑钦文成为打进中网女单决赛首位中国球员",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34226698",
-        "desc": "",
-        "rank": 1
-      },
-      {
-        "title": "马上评丨正视“次抛衣”的环保代价",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34225748",
-        "desc": "",
-        "rank": 2
-      },
-      {
         "title": "市咨会召开在即，上海为何邀外企高管登上这座内陆岛",
         "url": "https://www.thepaper.cn/newsDetail_forward_34227204",
         "desc": "",
-        "rank": 3
+        "rank": 1
       },
       {
         "title": "专家：赖清德“双十”讲话暴露其“台独”分裂本质不变、毒性不减",
         "url": "https://www.thepaper.cn/newsDetail_forward_34231024",
         "desc": "",
-        "rank": 4
+        "rank": 2
       },
       {
         "title": "马上评｜畸形饭圈是怎么操纵低龄粉丝以身试法的？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34227784",
         "desc": "",
-        "rank": 5
+        "rank": 3
       },
       {
         "title": "食品安全法大幅修订回应哪些关切？专家解读",
         "url": "https://www.thepaper.cn/newsDetail_forward_34229428",
         "desc": "",
-        "rank": 6
+        "rank": 4
       },
       {
         "title": "人物｜白宫新任发言人：曾在中国生活三年，上周还不在候选名单上",
         "url": "https://www.thepaper.cn/newsDetail_forward_34227551",
         "desc": "",
-        "rank": 7
+        "rank": 5
       },
       {
         "title": "卧龙大熊猫苑发布关于不文明行为情况的通报：多人终身禁入",
         "url": "https://www.thepaper.cn/newsDetail_forward_34228341",
+        "desc": "",
+        "rank": 6
+      },
+      {
+        "title": "英国一男子闯入动物园虎区，近距离手指老虎后被咬身亡",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34229838",
+        "desc": "",
+        "rank": 7
+      },
+      {
+        "title": "决赛击败佐藤瞳，王曼昱连续第二年夺得中国大满贯女单冠军",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34231779",
         "desc": "",
         "rank": 8
       },
@@ -64,26 +64,26 @@
         "rank": 10
       },
       {
-        "title": "剑指跟风推新品、测试验证不充分！四部门围绕汽车创新产品征求意见，严禁全隐藏门把手、折叠屏幕",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34226949",
+        "title": "电动车长假出行补能痛点仍待解，换电模式“压力测试”表现如何？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34231614",
         "desc": "",
         "rank": 11
       },
       {
-        "title": "英国一男子闯入动物园虎区，近距离手指老虎后被咬身亡",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34229838",
+        "title": "言短意长｜又看午休又看晚自习，“家长教师化”并非好事",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34232271",
         "desc": "",
         "rank": 12
       },
       {
-        "title": "决赛击败佐藤瞳，王曼昱连续第二年夺得中国大满贯女单冠军",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34231779",
+        "title": "美乌吵起来了！泽连斯基怒斥“软弱”，特朗普称乌克兰该换总统",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34229698",
         "desc": "",
         "rank": 13
       },
       {
-        "title": "美乌吵起来了！泽连斯基怒斥“软弱”，特朗普称乌克兰该换总统",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34229698",
+        "title": "马上评｜堵住“仅退款”规则漏洞，别让维权变套利",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34230027",
         "desc": "",
         "rank": 14
       },
@@ -106,14 +106,14 @@
         "rank": 17
       },
       {
-        "title": "冰岩崩灾害后：冰川科普不能只讲“冰川在退”，还要直面“冰川会崩”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34211529",
+        "title": "暴雨夜里的废矿盗采者",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34223864",
         "desc": "",
         "rank": 18
       },
       {
-        "title": "暴雨夜里的废矿盗采者",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34223864",
+        "title": "冰岩崩灾害后：冰川科普不能只讲“冰川在退”，还要直面“冰川会崩”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34211529",
         "desc": "",
         "rank": 19
       },
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791724263851,
+    "thepaper": 1791725163425,
     "bilibili": 1791723396364,
-    "qbitai": 1791724296399,
-    "36kr": 1791724296879
+    "qbitai": 1791725201209,
+    "36kr": 1791725201600
   },
   "failures": {}
 }
