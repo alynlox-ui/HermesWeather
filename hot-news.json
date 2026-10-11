@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T02:26:48Z",
+  "updatedAt": "2026-10-11T10:41:51Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -190,20 +190,10 @@
         "hotTitle": "NRG vs 100T 上海冠军赛"
       },
       {
-        "title": "《Uptown Funk》世界赛前Jackeylove和LPL巨星激情演唱",
-        "url": "https://www.bilibili.com/video/BV198pY63E4z",
+        "title": "Jackeylove世界赛单曲",
+        "url": "https://search.bilibili.com/all?keyword=Jackeylove%E4%B8%96%E7%95%8C%E8%B5%9B%E5%8D%95%E6%9B%B2",
         "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "原曲：Bruno mars 《Uptown Funk》 改编：词元菌",
-        "content": "原曲：Bruno mars 《Uptown Funk》 改编：词元菌",
-        "bvid": "BV198pY63E4z",
-        "author": "词元菌",
-        "duration": "2:26",
-        "cover": "//i1.hdslb.com/bfs/archive/270de23e3e02b086870f21227c3373fcd0d55ffe.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV198pY63E4z&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Jackeylove世界赛单曲"
+        "rank": 5
       },
       {
         "title": "来到中国最辣的城市！1天吃12家，我彻底服了！！",
@@ -280,7 +270,7 @@
         "content": "",
         "bvid": "BV12FpJ6WEuc",
         "author": "火兰朋克",
-        "duration": "14:3",
+        "duration": "11:20",
         "cover": "//i2.hdslb.com/bfs/archive/cb75b2868e35407737b3c55ddda8c4a2b5bee916.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12FpJ6WEuc&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Niko喊话V社"
@@ -1142,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791714365287,
-    "bilibili": 1791714375066,
-    "qbitai": 1791685607743,
-    "36kr": 1791685608337
+    "thepaper": 1791715264814,
+    "bilibili": 1791714362708,
+    "qbitai": 1791715311237,
+    "36kr": 1791715311648
   },
   "failures": {}
 }
