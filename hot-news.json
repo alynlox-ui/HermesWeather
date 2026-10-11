@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T11:26:39Z",
+  "updatedAt": "2026-10-11T11:42:01Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -136,7 +136,7 @@
         "content": "【2026KPL年度总决赛】10月11日 广州TTG VS 上海EDG.M",
         "bvid": "BV1UQpE6fE1J",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "162:29",
+        "duration": "189:51",
         "cover": "//i2.hdslb.com/bfs/archive/337e2d82785e08aae757ad6ab0b670d2005319eb.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UQpE6fE1J&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "广州TTG vs 上海EDG.M KPL"
@@ -254,20 +254,10 @@
         "hotTitle": "胡塞武装为啥能硬刚沙特联军"
       },
       {
-        "title": "我们来到了地中海，重走《奥德赛》十年回家路！",
-        "url": "https://www.bilibili.com/video/BV1mopE6xEqv",
+        "title": "欣小萌王骁重走奥德赛回家路",
+        "url": "https://search.bilibili.com/all?keyword=%E6%AC%A3%E5%B0%8F%E8%90%8C%E7%8E%8B%E9%AA%81%E9%87%8D%E8%B5%B0%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%9B%9E%E5%AE%B6%E8%B7%AF",
         "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1mopE6xEqv",
-        "author": "-欣小萌-",
-        "duration": "21:25",
-        "cover": "//i0.hdslb.com/bfs/archive/c6ad825319b3d14824912e79fc1c4da08a033b66.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mopE6xEqv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "欣小萌王骁重走奥德赛回家路"
+        "rank": 9
       },
       {
         "title": "绝境求生！韩立最爽的一集！《凡人修仙传》195逐帧解析",
@@ -302,19 +292,19 @@
         "hotTitle": "中国辣都江西萍乡有多辣"
       },
       {
-        "title": "【T1】G2我们来打一架吧",
-        "url": "https://www.bilibili.com/video/BV1NTpG6iEtp",
+        "title": "【HangHang】NRGvs100T.G2vsT1.BO3-2026.10.10",
+        "url": "https://www.bilibili.com/video/BV1i1p36DEy5",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "翻译若有误请指出",
-        "content": "翻译若有误请指出",
-        "bvid": "BV1NTpG6iEtp",
-        "author": "该放弃的你",
-        "duration": "0:45",
-        "cover": "//i2.hdslb.com/bfs/archive/6f45da6c89091098fbb3c2c672d418ed055a130b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NTpG6iEtp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1i1p36DEy5",
+        "author": "小叽播",
+        "duration": "147:54",
+        "cover": "//i2.hdslb.com/bfs/archive/17dfb84684d818f0c1031a6e6f81360e9b1619b1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1i1p36DEy5&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "G2 vs T1 上海冠军赛"
       },
       {
@@ -1142,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791717963667,
-    "bilibili": 1791717973350,
-    "qbitai": 1791717998891,
-    "36kr": 1791717999666
+    "thepaper": 1791718864459,
+    "bilibili": 1791717965456,
+    "qbitai": 1791718919930,
+    "36kr": 1791718921611
   },
   "failures": {}
 }
