@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T00:56:51Z",
+  "updatedAt": "2026-10-11T09:11:49Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,26 @@
     ],
     "qbitai": [
       {
+        "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+        "url": "https://www.qbitai.com/2026/10/502644.html",
+        "desc": "一套生成论文初稿的多智能体工作流",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/ce60551e13fc33ff92e9bb6576c26cdf.webp",
+        "date": "2026-10-11T17:04:31",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "何恺明团队发布多模态Harness框架",
+        "url": "https://www.qbitai.com/2026/10/502628.html",
+        "desc": "多模态模型的视觉原生Harness，来了！",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/c01e202eb78183d11de6ff72b0177f1a.webp",
+        "date": "2026-10-11T16:59:06",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
+      {
         "title": "陶哲轩：数学2.0时代已至！",
         "url": "https://www.qbitai.com/2026/10/502594.html",
         "desc": "",
@@ -615,7 +635,7 @@
         "date": "2026-10-11T15:52:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 3
       },
       {
         "title": "王的猜想，刚刚扩展到四维",
@@ -625,7 +645,7 @@
         "date": "2026-10-11T13:23:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 4
       },
       {
         "title": "硅谷AI现状：谁有算力谁是爹",
@@ -635,7 +655,7 @@
         "date": "2026-10-11T13:22:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
@@ -645,7 +665,7 @@
         "date": "2026-10-11T13:18:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
@@ -655,7 +675,7 @@
         "date": "2026-10-11T11:27:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
@@ -665,7 +685,7 @@
         "date": "2026-10-10T18:30:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
@@ -675,7 +695,7 @@
         "date": "2026-10-10T17:07:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
@@ -685,7 +705,7 @@
         "date": "2026-10-10T16:54:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
@@ -695,7 +715,7 @@
         "date": "2026-10-10T16:52:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "特斯拉FSD，在欧洲被打回原形",
@@ -705,7 +725,7 @@
         "date": "2026-10-10T14:59:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "TRAE终于把Code和Work合并了",
@@ -715,7 +735,7 @@
         "date": "2026-10-09T17:19:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
@@ -725,7 +745,7 @@
         "date": "2026-10-09T16:53:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
@@ -735,7 +755,7 @@
         "date": "2026-10-09T16:47:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "字节找到了DeepSeek时强时弱的原因",
@@ -745,7 +765,7 @@
         "date": "2026-10-09T15:11:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
@@ -755,7 +775,7 @@
         "date": "2026-10-09T14:28:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
@@ -765,7 +785,7 @@
         "date": "2026-10-09T12:15:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
@@ -775,7 +795,7 @@
         "date": "2026-10-09T11:52:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
@@ -785,7 +805,7 @@
         "date": "2026-10-09T10:51:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
@@ -795,7 +815,7 @@
         "date": "2026-10-09T10:37:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
@@ -805,7 +825,7 @@
         "date": "2026-10-09T10:03:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
@@ -815,7 +835,7 @@
         "date": "2026-10-09T08:35:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
@@ -825,7 +845,7 @@
         "date": "2026-10-09T08:16:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
@@ -835,7 +855,7 @@
         "date": "2026-10-08T21:28:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 25
       },
       {
         "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
@@ -845,7 +865,7 @@
         "date": "2026-10-08T20:43:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 26
       },
       {
         "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
@@ -855,7 +875,7 @@
         "date": "2026-10-08T18:23:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 27
       },
       {
         "title": "浪子回头！Manus重启北京办公室大举招聘",
@@ -865,7 +885,7 @@
         "date": "2026-10-08T17:30:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 28
       },
       {
         "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
@@ -875,7 +895,7 @@
         "date": "2026-10-08T17:28:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 29
       },
       {
         "title": "吉利智充技术正式发布，重塑全球补能新标杆",
@@ -883,26 +903,6 @@
         "desc": "2027年底实现“县县通”",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/586d2edf5cd37f6ecd98def87f2081e5.png",
         "date": "2026-10-08T17:10:55",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 28
-      },
-      {
-        "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
-        "url": "https://www.qbitai.com/2026/10/501930.html",
-        "desc": "管理岗砍掉四成，顶级车型涨价20%卖",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/车标.jpeg",
-        "date": "2026-10-08T15:10:24",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-        "url": "https://www.qbitai.com/2026/10/501915.html",
-        "desc": "",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/31104a6a722277d8dc4e40198fde423e.jpeg",
-        "date": "2026-10-08T10:15:37",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "机票价格明显回落、住宿折扣加大，节后错峰出游持续升温",
+        "url": "https://m.36kr.com/newsflashes/4021114940739457",
+        "desc": "金秋十月，旅游市场打出“高性价比”组合拳。在线旅游平台数据显示，截至目前，热门城市机票平均支付价格较国庆假期降低超三成。从北京、上海、广州等主要客源地出发，不少假期热门方向的机票已降至两三百元区间。10月中下旬至11月的机票预订量随之明显增长。（央视新闻）",
+        "cover": "",
+        "date": 1791709200000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "蚂蚁“灵光”开启小范围内测，新版对标“Meta Muse”",
         "url": "https://m.36kr.com/newsflashes/4021098794291072",
         "desc": "据悉，蚂蚁集团旗下AI产品“灵光”已于近日开启新版本的小范围内测，新版对标“Meta Muse”。 公开信息显示，今年9月，Meta推出个人智能体Muse。该智能体可介入用户日常生活，并持续跟进用户交待的事宜。 接近项目人士透露，灵光相关方向约半年前已开始筹备，期间迭代多个版本，计划本月全面开放。 该人士还透露，此次升级的核心，是灵光从能聊天、能生成应用的AI助手，转向拥有长期记忆、可主动推进任务的AI原生个人智能体。灵光新版本还能通过调用Skill和MCP，实现钉钉发信息、调用智能家居设备等功能。 据悉，灵光2.0的内测用例集中在长程、变量多、普通人难盯住的场景，例如帮上班族跟踪市场异动、帮家长管理钉钉打卡、旅行中遇航班延误或景区限流重排路线等。（新浪科技）",
@@ -947,7 +957,7 @@
         "date": 1791708307000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "2026广交会设计创新奖公布，张雪机车获至尊金奖",
@@ -957,7 +967,7 @@
         "date": 1791707432000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "哈药股份：公司董事兼总裁被立案、实施留置",
@@ -967,7 +977,7 @@
         "date": 1791706834000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "利太智药完成近5000万元种子轮融资",
@@ -977,7 +987,7 @@
         "date": 1791706504000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "工业富联：美国国际贸易委员会对公司及控股子公司启动337调查，涉及一项“垂直供电系统”专利权",
@@ -987,7 +997,7 @@
         "date": 1791706330605,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "英伟达据悉正就收购Reflection AI或增加投资进行磋商",
@@ -997,7 +1007,7 @@
         "date": 1791705561000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "SpaceXAI官方账号更名",
@@ -1007,7 +1017,7 @@
         "date": 1791705255223,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "厦门轨道集团100亿元小公募债申报获上交所受理",
@@ -1017,7 +1027,7 @@
         "date": 1791704813000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "苹果通过反向人才收购拿下Huxe",
@@ -1027,7 +1037,7 @@
         "date": 1791703979000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "今年8月全国企业信用水平稳步回升",
@@ -1037,7 +1047,7 @@
         "date": 1791703721000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "睿质科技完成首轮数千万元融资",
@@ -1047,7 +1057,7 @@
         "date": 1791702925000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "近八成权益类保险资管产品第三季度负收益",
@@ -1057,7 +1067,7 @@
         "date": 1791702075000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "摩根大通计划未来五年欧洲管理资产规模翻倍至2万亿美元",
@@ -1067,7 +1077,7 @@
         "date": 1791701000000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "广东省省长孟凡利会见美国苹果公司蒂姆·库克一行",
@@ -1077,7 +1087,7 @@
         "date": 1791700254000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "中央汇金“打假”：公司不开展代客投资理财活动",
@@ -1087,7 +1097,7 @@
         "date": 1791699283000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "马斯克：Terrafab工厂将重塑芯片制造",
@@ -1097,7 +1107,7 @@
         "date": 1791698355000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "浙江印发市场监管领域经营主体信用评价实施办法",
@@ -1107,7 +1117,7 @@
         "date": 1791697555000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "苹果正研发不“录像”的摄像头",
@@ -1117,7 +1127,7 @@
         "date": 1791696546000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "鹿明机器人与面壁智能达成战略合作",
@@ -1127,25 +1137,15 @@
         "date": 1791695698000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "经销商联谊会“批量”解散？茅台方面回应",
-        "url": "https://m.36kr.com/newsflashes/4020901726392454",
-        "desc": "近日，酒圈盛传各地茅台经销商联谊会“批量”解散的传闻，经过一段时间的发酵后，相关方终于对外进行了回应。多家媒体10月10日报道称，从贵州茅台酒销售公司市场工作人员获悉，按照社会组织规范化建设、运行相关要求，目前各省区经销商联谊会、传承人工作部已停止日常工作。但相关人士表示，上述机构停止日常运营，不会影响区域市场业务。各省区茅台酒销售、品牌落地等常规市场工作依旧正常有序推进。此次调整，是茅台响应国家关于社会组织规范管理的相关要求，对相关配套运营机制作出的一次系统性梳理与优化。此外，针对市场流传“茅台停止经销商品鉴会经费支持”的说法，贵州茅台酒销售公司相关人士表示，茅台并未停止对渠道市场活动的支持。但需要提醒的是，截至记者发稿时，贵州茅台官方平台尚未正式对外发表相关情况说明。 (证券时报)",
-        "cover": "",
-        "date": 1791694719000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791708963845,
-    "bilibili": 1791708973844,
-    "qbitai": 1791680210283,
-    "36kr": 1791680211581
+    "thepaper": 1791709864544,
+    "bilibili": 1791708939763,
+    "qbitai": 1791709908841,
+    "36kr": 1791709909209
   },
   "failures": {}
 }
