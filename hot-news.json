@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T14:56:33Z",
+  "updatedAt": "2026-10-11T15:11:50Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -190,19 +190,19 @@
         "hotTitle": "郑钦文中网夺冠"
       },
       {
-        "title": "中国摩托之光！张雪机车德比斯锁定年度亚军！德比斯直线生吃雅马哈！一穿二冲到领奖台提前锁定了年度亚军！",
-        "url": "https://www.bilibili.com/video/BV1p8pn6XEVy",
+        "title": "德比斯锁定年度亚军！2026年WSBK葡萄牙埃斯托里尔站SSP组正赛第二回合（张雪机车组）",
+        "url": "https://www.bilibili.com/video/BV1c8pn6XEe7",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1p8pn6XEVy",
-        "author": "默兔haha",
-        "duration": "5:41",
-        "cover": "//i1.hdslb.com/bfs/archive/f48d8758d3c6d32c385fdf426e07f1a0d470f3bf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1p8pn6XEVy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1c8pn6XEe7",
+        "author": "悲怆先知",
+        "duration": "72:47",
+        "cover": "//i1.hdslb.com/bfs/archive/a31534697cf5ac918ac927426abf69bc0c5bf0d4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c8pn6XEe7&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "德比斯提前夺得年度亚军"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791730570126,
+    "thepaper": 1791731465329,
     "bilibili": 1791729805904,
-    "qbitai": 1791730592923,
-    "36kr": 1791730593316
+    "qbitai": 1791731509957,
+    "36kr": 1791731510310
   },
   "failures": {}
 }
