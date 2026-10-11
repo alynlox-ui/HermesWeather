@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T10:56:48Z",
+  "updatedAt": "2026-10-11T11:11:45Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "杭州商K大面积关停的背后"
       },
       {
-        "title": "【无畏契约上海全球冠军赛】10月10日 NRG vs LOUD",
-        "url": "https://www.bilibili.com/video/BV1r9pg6xE6w",
+        "title": "【高下立判】NRG 0-2 100t卫冕失败！玩奥丁的砍下最高爆头率，队友还有人样吗？马大研发A15到底牛比在哪？上海冠军赛数据雷达图",
+        "url": "https://www.bilibili.com/video/BV1PHpE6nEfz",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【无畏契约上海全球冠军赛】10月10日 NRG vs LOUD",
-        "content": "【无畏契约上海全球冠军赛】10月10日 NRG vs LOUD",
-        "bvid": "BV1r9pg6xE6w",
-        "author": "无畏契约赛事",
-        "duration": "177:16",
-        "cover": "//i0.hdslb.com/bfs/archive/5b02a5f656d0e18f6a7084acbf7a2a8c0b46d2ff.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1r9pg6xE6w&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1PHpE6nEfz",
+        "author": "小徐还在绕",
+        "duration": "2:15",
+        "cover": "//i1.hdslb.com/bfs/archive/96be078f2dd506557c477cfd4f6aee64297522b1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PHpE6nEfz&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "NRG vs 100T 上海冠军赛"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791716164836,
-    "bilibili": 1791716179344,
-    "qbitai": 1791716207769,
-    "36kr": 1791716208496
+    "thepaper": 1791717066072,
+    "bilibili": 1791716164396,
+    "qbitai": 1791717104448,
+    "36kr": 1791717105201
   },
   "failures": {}
 }
