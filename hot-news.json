@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T02:26:33Z",
+  "updatedAt": "2026-10-12T02:41:28Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -398,19 +398,19 @@
         "hotTitle": "韩立被仲神师追杀四天四夜"
       },
       {
-        "title": "秦牧的画道已经出神入化了",
-        "url": "https://www.bilibili.com/video/BV1gkp56nE1d",
+        "title": "牧神记 104 集：书画成神！秦牧化墨为浪凝墨为雷，一举击毁龙娇男航船，趁乱脱身登荒岛",
+        "url": "https://www.bilibili.com/video/BV1Lyp36HEkT",
         "desc": "",
         "rank": 18,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1gkp56nE1d",
-        "author": "瑞瑞爱看漫",
-        "duration": "3:20",
-        "cover": "//i0.hdslb.com/bfs/archive/6f4a94ed46be930afc761d8a56ffab691dcc2a0e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gkp56nE1d&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "预告解析，希望大家喜欢。正片将于11点更新，链接已放评论区置顶！",
+        "content": "预告解析，希望大家喜欢。正片将于11点更新，链接已放评论区置顶！",
+        "bvid": "BV1Lyp36HEkT",
+        "author": "山河动漫社",
+        "duration": "20:26",
+        "cover": "//i0.hdslb.com/bfs/archive/b00514e38cf55b1001a4a49adb80957b296c6b15.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Lyp36HEkT&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "秦牧作画海上脱身"
       },
       {
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "智谱新模型，490 tokens/s！",
+        "url": "https://www.qbitai.com/2026/10/502649.html",
+        "desc": "GLM「速度仙人」来了？",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/99c4c1ed1bb174f7adcd83f5d3cc58c3.webp",
+        "date": "2026-10-12T10:37:04",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
         "url": "https://www.qbitai.com/2026/10/502644.html",
         "desc": "一套生成论文初稿的多智能体工作流",
@@ -615,7 +625,7 @@
         "date": "2026-10-11T17:04:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "何恺明团队发布多模态Harness框架",
@@ -625,7 +635,7 @@
         "date": "2026-10-11T16:59:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "陶哲轩：数学2.0时代已至！",
@@ -635,7 +645,7 @@
         "date": "2026-10-11T15:52:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "王的猜想，刚刚扩展到四维",
@@ -645,7 +655,7 @@
         "date": "2026-10-11T13:23:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "硅谷AI现状：谁有算力谁是爹",
@@ -655,7 +665,7 @@
         "date": "2026-10-11T13:22:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
@@ -665,7 +675,7 @@
         "date": "2026-10-11T13:18:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
@@ -675,7 +685,7 @@
         "date": "2026-10-11T11:27:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
@@ -685,7 +695,7 @@
         "date": "2026-10-10T18:30:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
@@ -695,7 +705,7 @@
         "date": "2026-10-10T17:07:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
@@ -705,7 +715,7 @@
         "date": "2026-10-10T16:54:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
@@ -715,7 +725,7 @@
         "date": "2026-10-10T16:52:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "特斯拉FSD，在欧洲被打回原形",
@@ -725,7 +735,7 @@
         "date": "2026-10-10T14:59:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "TRAE终于把Code和Work合并了",
@@ -735,7 +745,7 @@
         "date": "2026-10-09T17:19:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
@@ -745,7 +755,7 @@
         "date": "2026-10-09T16:53:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
@@ -755,7 +765,7 @@
         "date": "2026-10-09T16:47:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "字节找到了DeepSeek时强时弱的原因",
@@ -765,7 +775,7 @@
         "date": "2026-10-09T15:11:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
@@ -775,7 +785,7 @@
         "date": "2026-10-09T14:28:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
@@ -785,7 +795,7 @@
         "date": "2026-10-09T12:15:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
@@ -795,7 +805,7 @@
         "date": "2026-10-09T11:52:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
@@ -805,7 +815,7 @@
         "date": "2026-10-09T10:51:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
@@ -815,7 +825,7 @@
         "date": "2026-10-09T10:37:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
@@ -825,7 +835,7 @@
         "date": "2026-10-09T10:03:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
@@ -835,7 +845,7 @@
         "date": "2026-10-09T08:35:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
@@ -845,7 +855,7 @@
         "date": "2026-10-09T08:16:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
@@ -855,7 +865,7 @@
         "date": "2026-10-08T21:28:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
@@ -865,7 +875,7 @@
         "date": "2026-10-08T20:43:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
@@ -875,7 +885,7 @@
         "date": "2026-10-08T18:23:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "浪子回头！Manus重启北京办公室大举招聘",
@@ -885,7 +895,7 @@
         "date": "2026-10-08T17:30:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
@@ -893,16 +903,6 @@
         "desc": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/c9e415dc2d193dd733d93d3ff000029b.webp",
         "date": "2026-10-08T17:28:44",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "吉利智充技术正式发布，重塑全球补能新标杆",
-        "url": "https://www.qbitai.com/2026/10/501956.html",
-        "desc": "2027年底实现“县县通”",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/586d2edf5cd37f6ecd98def87f2081e5.png",
-        "date": "2026-10-08T17:10:55",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -940,6 +940,26 @@
         "rank": 3
       },
       {
+        "title": "星展集团CEO：市场正在重新评估人工智能建设相关投资的风险",
+        "url": "https://m.36kr.com/newsflashes/4022273682493320",
+        "desc": "星展集团行政总裁陈淑珊表示，市场正在重新评估人工智能（AI）建设相关投资的风险，这可能促使AI领域的融资更加审慎。“市场已经给出了答案，”陈淑珊周一表示。“这并不是坏事，因为现在投资者会要求更高的回报，也会更仔细审视融资结构。他们希望确保目前大量涌入整个AI资本支出生态系统的资金，最终能够产生某种长期投资回报，足以为债权人、债券持有人或股东带来回报。”陈淑珊表示，实力较弱的企业可能面临信用评级下调。不过，她认为这种风险重新定价是“健康的”，因为市场希望确保大规模资金投入具有可持续性。她表示，星展今年已经促成约250亿新元（200亿美元）的AI相关交易，通常担任银团贷款的牵头行，自身仅保留其中一小部分风险敞口。这些融资大多投向硬件领域，包括半导体、存储芯片和数据中心。（财联社）",
+        "cover": "",
+        "date": 1791772774000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "多项民调显示美国民众对能源价格担忧加剧",
+        "url": "https://m.36kr.com/newsflashes/4022272847794048",
+        "desc": "随着美国中期选举临近，近期公布的多项民调显示，美国民众对能源价格的担忧进一步加剧。美国皮尤研究中心8日发布的民调显示，74%的美国成年人对能源价格“非常担忧”，较今年7月上升14个百分点。84%的受访登记选民认为经济问题是影响其中期选举选择的重要因素。路透社与益普索集团9日公布的民调显示，美国民众普遍关注生活成本问题。民主党和共和党受访者均将生活成本列为重要关切。调查还显示，78%的受访者认为，特朗普政府的政策是物价涨幅超过收入增长的原因之一。（新浪财经）",
+        "cover": "",
+        "date": 1791772427793,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "润和软件在武汉成立机器人业务子公司",
         "url": "https://m.36kr.com/newsflashes/4022271259709321",
         "desc": "36氪获悉，天眼查App显示，近日，武汉润和汇智信息技术有限公司成立，法定代表人为余兴，注册资本500万元。该公司经营范围包括工业机器人制造、安装及维修，智能机器人研发、工业互联网数据服务及人工智能硬件销售等。股东信息显示，其由江苏润和软件股份有限公司全资持股。",
@@ -947,7 +967,7 @@
         "date": 1791771954816,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "多部门联合发布金融消费者、投资者合法权益保护典型案例",
@@ -957,7 +977,7 @@
         "date": 1791771370121,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "创业板指跌1.5%，跌至3000点下方",
@@ -967,7 +987,7 @@
         "date": 1791771138523,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "创业板指跌超1%",
@@ -977,7 +997,7 @@
         "date": 1791770722585,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "李强将出席第140届广交会开幕式及相关活动",
@@ -987,7 +1007,7 @@
         "date": 1791770639683,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "银行板块再度走强，中国银行、中信银行涨超2%续创历史新高",
@@ -997,7 +1017,7 @@
         "date": 1791770180238,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "美国法官暂时叫停由纳税人资助的挺特朗普电视广告",
@@ -1007,7 +1027,7 @@
         "date": 1791769990150,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "高盛将12月布伦特原油价格预测上调至每桶90美元",
@@ -1017,7 +1037,7 @@
         "date": 1791769694077,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "“深创超导”完成数千万天使轮融资",
@@ -1027,7 +1047,7 @@
         "date": 1791769492329,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "A股三大指数悉数翻红",
@@ -1037,7 +1057,7 @@
         "date": 1791769382807,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "“模思智能”完成超10亿元Pre-A轮融资",
@@ -1047,7 +1067,7 @@
         "date": 1791768687790,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "A股三大指数集体低开，AI应用概念领涨",
@@ -1057,7 +1077,7 @@
         "date": 1791768419309,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "央行逆回购操作当日实现净回笼2500亿元",
@@ -1067,7 +1087,7 @@
         "date": 1791768240486,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "恒指开盘涨0.92%，恒生科技指数涨1.03%",
@@ -1077,7 +1097,7 @@
         "date": 1791768193036,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "人民币兑美元中间价报6.7313，上调17点",
@@ -1087,7 +1107,7 @@
         "date": 1791767903911,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "中信证券：2026年第四季度油轮龙头估值和利润有望创历史新高",
@@ -1097,7 +1117,7 @@
         "date": 1791767842161,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "韩国央行行长：芯片强劲需求支撑经济增长超出预期",
@@ -1107,7 +1127,7 @@
         "date": 1791767677752,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "银河证券：整体煤炭供需偏紧，煤价中枢抬升",
@@ -1117,35 +1137,15 @@
         "date": 1791767330123,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "天数智芯推出业界最高密度单机柜超节点，单柜集成144颗GPU",
-        "url": "https://m.36kr.com/newsflashes/4022192785232004",
-        "desc": "在2026工博会上，天数智芯正式推出业界最高密度单机柜超节点方案——天垓300 IXL144，单机柜集成144颗GPU与18颗CPU。IXL144兼容CUDA等AI生态，支持客户复用已有模型与框架，大幅降低迁移上线成本；通过整柜高带宽互联构建统一内存语义算力域，有效提升大模型训练与推理协同效率。据测算，每百万有效Token的成本较国际主流方案可降低40%。",
-        "cover": "",
-        "date": 1791767165114,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "WTI原油期货向下跌破90美元/桶",
-        "url": "https://m.36kr.com/newsflashes/4022191610728329",
-        "desc": "36氪获悉，WTI原油期货向下跌破90美元/桶，最新报89.976美元/桶，日内下跌2.04%。",
-        "cover": "",
-        "date": 1791767093428,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791771966368,
-    "bilibili": 1791771970483,
-    "qbitai": 1791771992962,
-    "36kr": 1791771993469
+    "thepaper": 1791772865853,
+    "bilibili": 1791771729122,
+    "qbitai": 1791772887918,
+    "36kr": 1791772888435
   },
   "failures": {}
 }
