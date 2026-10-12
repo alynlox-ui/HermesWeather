@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T06:56:29Z",
+  "updatedAt": "2026-10-12T07:11:29Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "VIT战队副教练Arvindir从前方寄来一条短讯～原来Arvinder也是60E",
-        "url": "https://www.bilibili.com/video/BV1mepQ6nE4v",
+        "title": "【2026德玛西亚杯】10月12日 KT vs VIT",
+        "url": "https://www.bilibili.com/video/BV1t7pR6fEum",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1mepQ6nE4v",
-        "author": "TeamWE俱乐部",
-        "duration": "0:35",
-        "cover": "//i2.hdslb.com/bfs/archive/180771d516a3ed78cf2bddf0ca364ef6744af076.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mepQ6nE4v&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026德玛西亚杯】10月12日 KT vs VIT",
+        "content": "【2026德玛西亚杯】10月12日 KT vs VIT",
+        "bvid": "BV1t7pR6fEum",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "64:51",
+        "cover": "//i0.hdslb.com/bfs/archive/d08d2a4de756be29fec6aa20ecd9262951a024e8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1t7pR6fEum&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "KT vs VIT 德玛西亚杯"
       },
       {
@@ -302,19 +302,19 @@
         "hotTitle": "美国中期选举究竟有多重要"
       },
       {
-        "title": "秦牧这左拥右抱、享齐人之福的快乐，真是羡慕死我了",
-        "url": "https://www.bilibili.com/video/BV1asp76bEBf",
+        "title": "秦牧的画道已经出神入化了",
+        "url": "https://www.bilibili.com/video/BV1gkp56nE1d",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1asp76bEBf",
-        "author": "白弘故",
-        "duration": "2:36",
-        "cover": "//i1.hdslb.com/bfs/archive/b69c1d23293d765f9bcdbcef1dab964073a084f8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1asp76bEBf&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1gkp56nE1d",
+        "author": "瑞瑞爱看漫",
+        "duration": "3:20",
+        "cover": "//i0.hdslb.com/bfs/archive/6f4a94ed46be930afc761d8a56ffab691dcc2a0e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gkp56nE1d&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "秦牧作画海上脱身"
       },
       {
@@ -940,6 +940,46 @@
         "rank": 3
       },
       {
+        "title": "台达电9月销售额同比增长14.6％",
+        "url": "https://m.36kr.com/newsflashes/4022549531791235",
+        "desc": "台达电9月销售额654.0亿元台币，同比增长14.6％。（财联社）",
+        "cover": "",
+        "date": 1791788939196,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "大众汽车集团前三季度全球交付601万辆，同比下降9%",
+        "url": "https://m.36kr.com/newsflashes/4022548685230217",
+        "desc": "大众汽车集团公布，2026年前三季度全球交付汽车601.1万辆，同比下降9%。欧洲和南美市场分别增长1.7%和4.3%，但中国市场交付量下降30.2%至137.9万辆，北美市场下降4%，拖累集团整体表现。第三季度，集团全球交付量同比下降14.3%至188.5万辆。（界面）",
+        "cover": "",
+        "date": 1791788887526,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "A股三大指数集体收跌，全市场超4300只个股下跌",
+        "url": "https://m.36kr.com/newsflashes/4022542084427906",
+        "desc": "36氪获悉，A股三大指数集体收跌，沪指跌0.43%，深成指跌2.03%，创业板指跌2.61%；通信设备板块；领跌，剑桥科技跌超8%，长飞光纤、中际旭创跌超6%；石油化工板块跌幅居前，桐昆股份跌超8%，卫星化学跌超4%，昊华科技跌超3%；银行、工程机械涨幅居前，招商银行、三一重工涨超3%；沪深两市成交额1.54万亿，较上一个交易日缩量3627亿，全市场超4300只个股下跌。",
+        "cover": "",
+        "date": 1791788484645,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "道达尔能源与KKR扩大美国合资业务，新增700兆瓦可再生能源资产",
+        "url": "https://m.36kr.com/newsflashes/4022531552202880",
+        "desc": "法国能源企业道达尔能源宣布，与全球投资公司KKR签署协议，向双方于2025年在美国成立的50:50合资企业新增700兆瓦可再生能源资产。该合资企业现持有1.4吉瓦资产，此次交易涉及位于得克萨斯州和俄亥俄州的三个大型太阳能项目组合，资产企业价值为12亿美元。（界面）",
+        "cover": "",
+        "date": 1791788195000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "京东健康在北京丽泽成立综合门诊部公司，注册资本500万",
         "url": "https://m.36kr.com/newsflashes/4022516197986432",
         "desc": "36氪获悉，天眼查App显示，近日，北京丽泽京东健康综合门诊部有限公司成立，法定代表人为吴大领，注册资本500万人民币，经营范围含诊所服务、健康咨询服务、会议及展览服务、广告发布等。股东信息显示，该公司由宿迁京东天宁健康科技有限公司全资持股。",
@@ -947,7 +987,7 @@
         "date": 1791787552000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 8
       },
       {
         "title": "贵州茅台重回“股王”宝座",
@@ -957,7 +997,7 @@
         "date": 1791787400103,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "韩国半导体展14日启幕 HBM、物理AI芯片成核心看点",
@@ -967,7 +1007,7 @@
         "date": 1791787151000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "聚焦前沿发展与创新应用，首届亚太地球科学与遥感大会召开",
@@ -977,7 +1017,7 @@
         "date": 1791786861000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "港交所行政总裁：正积极研究延长衍生产品的夜市交易时间",
@@ -987,7 +1027,7 @@
         "date": 1791786446399,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "三星电子正在研发三种类型的 z-NAND闪存",
@@ -997,7 +1037,7 @@
         "date": 1791786381000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "深成指跌超2%",
@@ -1007,7 +1047,7 @@
         "date": 1791785863697,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "南兴股份：智算相关业务尚处于起步阶段",
@@ -1017,7 +1057,7 @@
         "date": 1791785704400,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "机构：台积电三季度净利润预计同比大增65%，连续六个季度创历史新高",
@@ -1027,7 +1067,7 @@
         "date": 1791785319675,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "前三季度新能源汽车产销量实现两位数增长，海外市场表现亮眼",
@@ -1037,7 +1077,7 @@
         "date": 1791784908124,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "机构：台积电三季度净利润预计同比大增65%，连续六个季度创历史新高",
@@ -1047,7 +1087,7 @@
         "date": 1791784857309,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "中矿资源：公司的矿产资源主要分布在津巴布韦、加拿大、赞比亚、纳米比亚等国家",
@@ -1057,7 +1097,7 @@
         "date": 1791784826638,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "阶跃Step 5 Preview接入腾讯WorkBuddy",
@@ -1067,7 +1107,7 @@
         "date": 1791784050617,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "创业板指跌超2%",
@@ -1077,7 +1117,7 @@
         "date": 1791783937404,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "佛山照明：公司不生产具身智能相关产品，亦未与机器人厂商开展样品测试或定点合作",
@@ -1087,7 +1127,7 @@
         "date": 1791783909244,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 22
       },
       {
         "title": "iPhone Duo预售前夕，苹果COO到访富士康并回应产能情况：正扩大生产规模",
@@ -1097,55 +1137,15 @@
         "date": 1791783470513,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "微软用阿里Qwen打造决策模型，或将推广至所有领域",
-        "url": "https://m.36kr.com/newsflashes/4022459116736393",
-        "desc": "36氪获悉，10月12日，微软基于阿里Qwen，推出全新决策模型Microsoft-Decision-1。微软官方透露称，该模型基于Qwen3.5-9B后训练而成，在结构化决策任务中，该模型在时延和准确性等方面均超过了LLM及Jev 1.13.0等热门决策模型。",
-        "cover": "",
-        "date": 1791783420699,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "乘联分会：9月成为本轮车市零售降幅异常突出的月份，多重因素叠加所致",
-        "url": "https://m.36kr.com/newsflashes/4022454201028481",
-        "desc": "36氪获悉，乘联分会发文称，9月车市最突出的特征是“旺季不旺”，传统“金九”成色严重不足。往年“金九”是大盘普涨、首购换购一起释放，今年则是存量博弈下的此消彼长，燃油车需求持续剧烈萎缩。9月成为本轮车市零售降幅异常突出的月份，多重因素叠加所致：一是中秋假期提前到9月下旬，中秋当周销量明显走弱；二是去年9月部分省份补贴退出，催生集中抢补贴行情，形成较高对比基数；三是高油价持续抑制燃油车消费：9月末以来年内汽油累计上调2,375元/吨，燃油车消费意愿持续走低，而新能源零售渗透率已攀升至67%的高位，“油电替代”加速推进；四是受AI驱动的内存与芯片价格暴涨及供给紧张等因素导致近期新能源新品增量偏慢等，这是多重因素共同影响的的结果。",
-        "cover": "",
-        "date": 1791783120668,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "Omdia：预测到2031年AI功能将在网络应用支出中占比12%",
-        "url": "https://m.36kr.com/newsflashes/4022433571836033",
-        "desc": "36氪获悉，Omdia发文称，领先的一级网络运营商正基于其现有的云原生基础，向人工智能（AI）原生网络迈进。这一转型远不止是一次架构升级，更标志着网络运营、管理和变现方式的根本性转变。Omdia预测，到2031年，AI功能将在网络应用支出中占比12%，并将带动全球通信运营商在云与AI基础设施上的投资达到229亿美元。",
-        "cover": "",
-        "date": 1791782594000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "华为已注册多枚华为星芒商标",
-        "url": "https://m.36kr.com/newsflashes/4022424535322756",
-        "desc": "36氪获悉，据媒体报道，近日，华为被曝将推子品牌星芒，针对该传闻，华为相关人士回应称，请以官方信息为准。天眼查知识产权信息显示，华为技术有限公司已申请注册多枚“星芒”“华为星芒”商标，国际分类涉及广告销售、珠宝钟表、网站服务等，其中部分商标已成功注册。",
-        "cover": "",
-        "date": 1791782395000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791788165996,
-    "bilibili": 1791788169876,
-    "qbitai": 1791788189185,
-    "36kr": 1791788189721
+    "thepaper": 1791789066168,
+    "bilibili": 1791788129792,
+    "qbitai": 1791789088637,
+    "36kr": 1791789089202
   },
   "failures": {}
 }
