@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T01:11:39Z",
+  "updatedAt": "2026-10-12T01:26:38Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -70,66 +70,82 @@
         "rank": 11
       },
       {
-        "title": "美乌吵起来了！泽连斯基怒斥“软弱”，特朗普称乌克兰该换总统",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34229698",
+        "title": "人民日报聚焦中网首位本土女单冠军郑钦文：最好的自己就在当下和未来",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34233923",
         "desc": "",
         "rank": 12
-      },
-      {
-        "title": "吃“儿童装”银鳕鱼检出汞中毒，这锅谁来背？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34229664",
-        "desc": "",
-        "rank": 13
       },
       {
         "title": "马斯克：复杂的机器人演示几乎都是预先编排好的，那不是真正的AI",
         "url": "https://www.thepaper.cn/newsDetail_forward_34232624",
         "desc": "",
-        "rank": 14
+        "rank": 13
       },
       {
-        "title": "上海书评周刊",
-        "url": "https://www.thepaper.cn/newsDetail_forward_2006977",
+        "title": "西安通报“一烧烤店厨师在锅边漱口吐水”：情况属实，停业整改",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34232054",
         "desc": "",
-        "rank": 15
+        "rank": 14
       },
       {
         "title": "日月谭天丨为何说在当前国际局势下，赖清德的“台独”呓语更显可笑？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34232608",
         "desc": "",
-        "rank": 16
+        "rank": 15
       },
       {
         "title": "新华社：三大因素令沙特面临也门战事升级危机",
         "url": "https://www.thepaper.cn/newsDetail_forward_34233288",
         "desc": "",
-        "rank": 17
+        "rank": 16
       },
       {
         "title": "决赛前紧张到呕吐，郑钦文：最后那口气我顶住了",
         "url": "https://www.thepaper.cn/newsDetail_forward_34233016",
         "desc": "",
-        "rank": 18
+        "rank": 17
       },
       {
         "title": "“张雪机车”德比斯：锁定年度车手亚军意义非凡",
         "url": "https://www.thepaper.cn/newsDetail_forward_34233308",
         "desc": "",
-        "rank": 19
+        "rank": 18
       },
       {
         "title": "暴雨夜里的废矿盗采者",
         "url": "https://www.thepaper.cn/newsDetail_forward_34223864",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "冰岩崩灾害后：冰川科普不能只讲“冰川在退”，还要直面“冰川会崩”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34211529",
         "desc": "",
         "rank": 20
       }
     ],
     "bilibili": [
       {
+        "title": "RTX 5080 24GB或在明年第一季度发布｜显卡日报10月12日",
+        "url": "https://www.bilibili.com/video/BV1fopJ6LEWB",
+        "desc": "",
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "日报有用记得三连哦，你的鼓励真的很重要～",
+        "content": "日报有用记得三连哦，你的鼓励真的很重要～",
+        "bvid": "BV1fopJ6LEWB",
+        "author": "芝士华莱士",
+        "duration": "2:0",
+        "cover": "//i1.hdslb.com/bfs/archive/3d9b0bcac74a5424d0f3d5857f867740e4a46ceb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fopJ6LEWB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "5080显卡24GB或在明年发布"
+      },
+      {
         "title": "Ropz成为史无前例的EPL六冠王 大黄蜂决赛横扫老鼠捧起今年第七座冠军",
         "url": "https://www.bilibili.com/video/BV1pXpH6dEAz",
         "desc": "",
-        "rank": 1,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -142,10 +158,26 @@
         "hotTitle": "Vitality3-0横扫MOUZ夺冠"
       },
       {
+        "title": "我居然严重低估了OpenAI那722篇数学论文的分量",
+        "url": "https://www.bilibili.com/video/BV1PWpn6oEmK",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1PWpn6oEmK",
+        "author": "分析学爱好者",
+        "duration": "6:27",
+        "cover": "//i0.hdslb.com/bfs/archive/dce85bc232c76373b84df5be9291e5e56d31cc72.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PWpn6oEmK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "数学家怎么看OpenAI的722篇论文"
+      },
+      {
         "title": "改写战局！多库替补造2球+造红牌 哈兰德破门 十人利物浦0比3曼城",
         "url": "https://www.bilibili.com/video/BV17wpp6SEe9",
         "desc": "",
-        "rank": 2,
+        "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -156,38 +188,6 @@
         "cover": "//i0.hdslb.com/bfs/archive/ffa9ed9f8c597068a2a85a296c3809792c2f081c.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17wpp6SEe9&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "利物浦0-3曼城"
-      },
-      {
-        "title": "【F1新加坡战报】正赛 | 维斯塔潘夺冠大圆满，下一场：我感觉会变成机械战警 | 汉密尔顿错失领奖台，赛后身体不适",
-        "url": "https://www.bilibili.com/video/BV1vNpp6mETs",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【F1新加坡战报】正赛 | 维斯塔潘夺冠大圆满，下一场：我感觉会变成机械战警 | 汉密尔顿错失领奖台，赛后身体不适",
-        "content": "【F1新加坡战报】正赛 | 维斯塔潘夺冠大圆满，下一场：我感觉会变成机械战警 | 汉密尔顿错失领奖台，赛后身体不适",
-        "bvid": "BV1vNpp6mETs",
-        "author": "F1赛事资讯",
-        "duration": "19:2",
-        "cover": "//i1.hdslb.com/bfs/archive/5c5017531ab6195f191dfc11c7bb57253d69e046.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vNpp6mETs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "F1新加坡正赛战报"
-      },
-      {
-        "title": "RTX 5080 24GB或在明年第一季度发布｜显卡日报10月12日",
-        "url": "https://www.bilibili.com/video/BV1fopJ6LEWB",
-        "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "日报有用记得三连哦，你的鼓励真的很重要～",
-        "content": "日报有用记得三连哦，你的鼓励真的很重要～",
-        "bvid": "BV1fopJ6LEWB",
-        "author": "芝士华莱士",
-        "duration": "2:0",
-        "cover": "//i1.hdslb.com/bfs/archive/3d9b0bcac74a5424d0f3d5857f867740e4a46ceb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fopJ6LEWB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "5080显卡24GB或在明年发布"
       },
       {
         "title": "倒查三年流水，顶级商K集体关门！商K经济终于崩盘了？",
@@ -206,10 +206,26 @@
         "hotTitle": "杭州商K大面积关停的背后"
       },
       {
+        "title": "郑钦文夺冠后，现场感谢粉丝并唱起了最爱的歌",
+        "url": "https://www.bilibili.com/video/BV1w4pn6REqn",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1w4pn6REqn",
+        "author": "央视频",
+        "duration": "2:53",
+        "cover": "//i1.hdslb.com/bfs/archive/4ed0fa5115e71ee06872ca7553a7af21deb70a62.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1w4pn6REqn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "郑钦文夺冠现场唱梦的光点"
+      },
+      {
         "title": "德比斯锁定年度亚军！2026年WSBK葡萄牙埃斯托里尔站SSP组正赛第二回合（张雪机车组）",
         "url": "https://www.bilibili.com/video/BV1c8pn6XEe7",
         "desc": "",
-        "rank": 6,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -220,22 +236,6 @@
         "cover": "//i1.hdslb.com/bfs/archive/a31534697cf5ac918ac927426abf69bc0c5bf0d4.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c8pn6XEe7&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "德比斯提前夺得年度亚军"
-      },
-      {
-        "title": "【EPL S24 数据雷达图】连续夺冠的小蜜蜂是想再次王朝吗？ZywOo真的无懈可击了",
-        "url": "https://www.bilibili.com/video/BV1CTpH64E8r",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【EPL S24 数据雷达图】连续夺冠的小蜜蜂是想再次王朝吗？ZywOo真的无懈可击了 本来是打算好好睡一觉上午再做的 中途醒来看到比赛快结束了还是决定起来做完了 自从当上 up 后才发现自己对于做视频的激情这么高 能一路走来全是因为粉丝们对我一路的支持才让我拥有如此美好的时光与不断的进步提升 爱你们 BGM:Habits Time",
-        "content": "【EPL S24 数据雷达图】连续夺冠的小蜜蜂是想再次王朝吗？ZywOo真的无懈可击了 本来是打算好好睡一觉上午再做的 中途醒来看到比赛快结束了还是决定起来做完了 自从当上 up 后才发现自己对于做视频的激情这么高 能一路走来全是因为粉丝们对我一路的支持才让我拥有如此美好的时光与不断的进步提升 爱你们 BGM:Habits Time",
-        "bvid": "BV1CTpH64E8r",
-        "author": "hd_乄",
-        "duration": "5:54",
-        "cover": "//i1.hdslb.com/bfs/archive/2e282e3d53f0542ff8690a43343e8282aed84069.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CTpH64E8r&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "EPL S24数据雷达图"
       },
       {
         "title": "【中网特别策划】梦的光点！回顾郑钦文中网夺冠之路，神兵小将变成中网女王，郑钦文你太棒了",
@@ -270,170 +270,10 @@
         "hotTitle": "郑钦文中网夺冠"
       },
       {
-        "title": "时隔四个月重返VRS世界第一，EPL S24冠军对Vitality有着太多意义。",
-        "url": "https://www.bilibili.com/video/BV1DmpD6QERu",
-        "desc": "",
-        "rank": 10,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1DmpD6QERu",
-        "author": "每日CS2",
-        "duration": "1:22",
-        "cover": "//i0.hdslb.com/bfs/archive/c82b53f02c30bcdc8023ffedb633b81b565a9812.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DmpD6QERu&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Vitality重返VRS世界第一"
-      },
-      {
-        "title": "华南炎热重启，这次要热特别久",
-        "url": "https://www.bilibili.com/video/BV12opE6xEKS",
-        "desc": "",
-        "rank": 11,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "你有没有发现，最近又热起来了。有很多朋友特别是南方的朋友来问科普航，现在不应该降温吗，怎么反而更热了？要热到什么时候？今年冬天会一直热下去吗？ 首先要告诉大家，你们的感觉没有错。10月上旬末下旬初，暖空气已经夺回天气主导权，南方大部和华北平原都热起来了。尤其是南方，已经大范围超过30度，广东广西更是达到33-34度，逼近35度高温线。 而接下来，南方这轮大范围炎热还将继续发展。一方面，炎热要加强，特别是广东、广西，有可能出现35度以上高温天气。另一方面，这轮炎热会特别持久，要维持10天甚至10天以上，整个",
-        "content": "你有没有发现，最近又热起来了。有很多朋友特别是南方的朋友来问科普航，现在不应该降温吗，怎么反而更热了？要热到什么时候？今年冬天会一直热下去吗？ 首先要告诉大家，你们的感觉没有错。10月上旬末下旬初，暖空气已经夺回天气主导权，南方大部和华北平原都热起来了。尤其是南方，已经大范围超过30度，广东广西更是达到33-34度，逼近35度高温线。 而接下来，南方这轮大范围炎热还将继续发展。一方面，炎热要加强，特别是广东、广西，有可能出现35度以上高温天气。另一方面，这轮炎热会特别持久，要维持10天甚至10天以上，整个",
-        "bvid": "BV12opE6xEKS",
-        "author": "中气爱科普航",
-        "duration": "1:43",
-        "cover": "//i2.hdslb.com/bfs/archive/93af658a7243a90833b01ab2354b4760252753e2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12opE6xEKS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "南方炎热天气还将继续多久"
-      },
-      {
-        "title": "我们来到了地中海，重走《奥德赛》十年回家路！",
-        "url": "https://www.bilibili.com/video/BV1mopE6xEqv",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1mopE6xEqv",
-        "author": "-欣小萌-",
-        "duration": "21:25",
-        "cover": "//i0.hdslb.com/bfs/archive/c6ad825319b3d14824912e79fc1c4da08a033b66.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mopE6xEqv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "欣小萌王骁重走奥德赛回家路"
-      },
-      {
-        "title": "无法阻挡的GOAT！ZywOo荣膺EPL S24赛事MVP！玩机器：等生涯结束前拿40/50个MVP，后面的人怎么追？",
-        "url": "https://www.bilibili.com/video/BV17cpp6nE3b",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "无法阻挡的GOAT！ZywOo荣膺EPL S24赛事MVP！玩机器：等生涯结束前拿40/50个MVP，后面的人怎么追？",
-        "content": "无法阻挡的GOAT！ZywOo荣膺EPL S24赛事MVP！玩机器：等生涯结束前拿40/50个MVP，后面的人怎么追？",
-        "bvid": "BV17cpp6nE3b",
-        "author": "CS2主播赛事名场面",
-        "duration": "4:47",
-        "cover": "//i1.hdslb.com/bfs/archive/0c6d684221faf279df94954d10a0207444f0b9a8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17cpp6nE3b&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "ZywOo斩获第34枚MVP"
-      },
-      {
-        "title": "牧神记 104 集：书画成神！秦牧化墨为浪凝墨为雷，一举击毁龙娇男航船，趁乱脱身登荒岛",
-        "url": "https://www.bilibili.com/video/BV1Lyp36HEkT",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "预告解析，希望大家喜欢。正片将于11点更新，链接已放评论区置顶！",
-        "content": "预告解析，希望大家喜欢。正片将于11点更新，链接已放评论区置顶！",
-        "bvid": "BV1Lyp36HEkT",
-        "author": "山河动漫社",
-        "duration": "20:26",
-        "cover": "//i0.hdslb.com/bfs/archive/b00514e38cf55b1001a4a49adb80957b296c6b15.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Lyp36HEkT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "秦牧作画海上脱身"
-      },
-      {
-        "title": "银月高光剧情 韩立高慌剧情！燃烧精血也要活下来！《凡人修仙传》195集逐帧解析",
-        "url": "https://www.bilibili.com/video/BV1qxpG6WEBt",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "感谢本期视频的配音小哥@鲜氣菌",
-        "content": "感谢本期视频的配音小哥@鲜氣菌",
-        "bvid": "BV1qxpG6WEBt",
-        "author": "白马侯子",
-        "duration": "14:34",
-        "cover": "//i0.hdslb.com/bfs/archive/de22ced783c65d97cd0e8256d580344a3bed8421.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qxpG6WEBt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "韩立被仲神师追杀四天四夜"
-      },
-      {
-        "title": "【年度总决赛二路解说合集】10月11日 成都AG超玩会 vs 长沙TES.A",
-        "url": "https://www.bilibili.com/video/BV1QQpn6qEi3",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1QQpn6qEi3",
-        "author": "kpl二路",
-        "duration": "2032:10",
-        "cover": "//i1.hdslb.com/bfs/archive/0c6b28a2be94a4878041d1bd15bd20df96c23527.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QQpn6qEi3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "成都AG超玩会战胜长沙TES.A KPL"
-      },
-      {
-        "title": "中国乒协：因身体状况，取消林诗栋2026亚锦赛男子单打、混合双打（与蒯曼配对）的参赛报名，取消梁靖崑男子单打、男子团体的参赛报名。",
-        "url": "https://www.bilibili.com/video/BV1PDpv6vEiV",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1PDpv6vEiV",
-        "author": "川观新闻",
-        "duration": "0:16",
-        "cover": "//i0.hdslb.com/bfs/archive/d95d618b761b94cfa8222581a70e5fafea3dcafc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PDpv6vEiV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "林诗栋退出亚锦赛男单混双"
-      },
-      {
-        "title": "《沪 人 修 仙 传》",
-        "url": "https://www.bilibili.com/video/BV1cBpi6YE8L",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1cBpi6YE8L",
-        "author": "册那队长",
-        "duration": "1:38",
-        "cover": "//i0.hdslb.com/bfs/archive/1e3a54c63386d1dc8a7f99efb980775435c49d29.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cBpi6YE8L&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "沪 人 修 仙 传"
-      },
-      {
-        "title": "怎么回事？dudududu一直响啊！【2026 F1新加坡大奖赛正赛集锦】",
-        "url": "https://www.bilibili.com/video/BV1EopJ6LE2D",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "2026 F1新加坡大奖赛正赛集锦",
-        "content": "2026 F1新加坡大奖赛正赛集锦",
-        "bvid": "BV1EopJ6LE2D",
-        "author": "F1世界锦标赛",
-        "duration": "7:53",
-        "cover": "//i2.hdslb.com/bfs/archive/541b8ac580fce86bcef52a6e87d619cec82477cd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EopJ6LE2D&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "F1新加坡站正赛集锦"
-      },
-      {
         "title": "【世界周刊】迪拜航空“惊魂时刻”",
         "url": "https://www.bilibili.com/video/BV1AmpJ6pEkC",
         "desc": "",
-        "rank": 20,
+        "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -449,7 +289,7 @@
         "title": "国内喜欢把户外围成景区，背后可不止美丑这么简单｜中国旅游景区模式分析",
         "url": "https://www.bilibili.com/video/BV1w9pg64Ege",
         "desc": "",
-        "rank": 21,
+        "rank": 11,
         "kind": "video",
         "platform": "bilibili",
         "description": "国庆假期你们在国内还是国外旅行呢？ 大家有没有思考过为什么在中国，想去山里走走，常常得先买一张景区门票？ 从门票、摆渡车、索道和统一游线，到景区背后的土地权属、资源管理与打包经营；从中国的大众旅游、假期制度和户外产业，到阿尔卑斯山屋、美国国家公园的户外发展史——这期视频想聊聊：中国的山，为什么总要先变成景区？ 我们并不缺山，也不缺亲近自然的热情。但当自然空间被划定、规划、开发，再交由公司运营时，游客买到的究竟是什么？一张门票、一次旅游体验，还是进入自然的权利？ 这不是简单吐槽景区收费，也不是把国外户外浪漫",
@@ -462,42 +302,186 @@
         "hotTitle": "中外景区模式有哪些文化差异"
       },
       {
-        "title": "【STN选题会】我们度过了一个最红的国庆",
-        "url": "https://www.bilibili.com/video/BV1BDp76rEpT",
+        "title": "看演唱会送好莱坞？华晨宇火星演唱会2.0全揭秘！",
+        "url": "https://www.bilibili.com/video/BV1RKp367EuB",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "砸下天价！在两块地一座山头搭建数月，拥有全场域体验、双生歌单以及颠覆性的舞美的华晨宇演唱会 2.0 全揭秘，来了！本期视频，我们将携带火星官方指定演唱会神器——vivo X500 Pro Max ，带领大家深度体验火星演唱会 2.0，到底有多夯！",
+        "content": "砸下天价！在两块地一座山头搭建数月，拥有全场域体验、双生歌单以及颠覆性的舞美的华晨宇演唱会 2.0 全揭秘，来了！本期视频，我们将携带火星官方指定演唱会神器——vivo X500 Pro Max ，带领大家深度体验火星演唱会 2.0，到底有多夯！",
+        "bvid": "BV1RKp367EuB",
+        "author": "LIKEMUSIC",
+        "duration": "16:17",
+        "cover": "//i0.hdslb.com/bfs/archive/33f84c7012cb95abd9e4c2bcd541b278b924f534.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RKp367EuB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "华晨宇火星演唱会2.0有多夯"
+      },
+      {
+        "title": "牧神记 104 集：书画成神！秦牧化墨为浪凝墨为雷，一举击毁龙娇男航船，趁乱脱身登荒岛",
+        "url": "https://www.bilibili.com/video/BV1Lyp36HEkT",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "预告解析，希望大家喜欢。正片将于11点更新，链接已放评论区置顶！",
+        "content": "预告解析，希望大家喜欢。正片将于11点更新，链接已放评论区置顶！",
+        "bvid": "BV1Lyp36HEkT",
+        "author": "山河动漫社",
+        "duration": "20:26",
+        "cover": "//i0.hdslb.com/bfs/archive/b00514e38cf55b1001a4a49adb80957b296c6b15.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Lyp36HEkT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "秦牧作画海上脱身"
+      },
+      {
+        "title": "来到中国最辣的城市！1天吃12家，我彻底服了！！",
+        "url": "https://www.bilibili.com/video/BV1oEpJ63Eoj",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "八眉巡回演吃会 - 挑战中国辣都！江西萍乡",
+        "content": "八眉巡回演吃会 - 挑战中国辣都！江西萍乡",
+        "bvid": "BV1oEpJ63Eoj",
+        "author": "元气八眉菌",
+        "duration": "16:50",
+        "cover": "//i1.hdslb.com/bfs/archive/b48ceb715338d4f0429b4c98042ff4bf8d92023b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oEpJ63Eoj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国辣都江西萍乡有多辣"
+      },
+      {
+        "title": "【新宿决战】皮特VS鸡哥",
+        "url": "https://www.bilibili.com/video/BV1CLHQ6zEHC",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "原版:NinjaristicNinja 疑似第六次人鸡大战流出",
+        "content": "原版:NinjaristicNinja 疑似第六次人鸡大战流出",
+        "bvid": "BV1CLHQ6zEHC",
+        "author": "浅澄月",
+        "duration": "1:38",
+        "cover": "//i0.hdslb.com/bfs/archive/6432b0a3f629008bde4192e2945f2b2629437b4a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CLHQ6zEHC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "皮特VS鸡哥"
+      },
+      {
+        "title": "《沪 人 修 仙 传》",
+        "url": "https://www.bilibili.com/video/BV1cBpi6YE8L",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1cBpi6YE8L",
+        "author": "册那队长",
+        "duration": "1:38",
+        "cover": "//i0.hdslb.com/bfs/archive/1e3a54c63386d1dc8a7f99efb980775435c49d29.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cBpi6YE8L&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "沪 人 修 仙 传"
+      },
+      {
+        "title": "【F1新加坡战报】正赛 | 维斯塔潘夺冠大圆满，下一场：我感觉会变成机械战警 | 汉密尔顿错失领奖台，赛后身体不适",
+        "url": "https://www.bilibili.com/video/BV1vNpp6mETs",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【F1新加坡战报】正赛 | 维斯塔潘夺冠大圆满，下一场：我感觉会变成机械战警 | 汉密尔顿错失领奖台，赛后身体不适",
+        "content": "【F1新加坡战报】正赛 | 维斯塔潘夺冠大圆满，下一场：我感觉会变成机械战警 | 汉密尔顿错失领奖台，赛后身体不适",
+        "bvid": "BV1vNpp6mETs",
+        "author": "F1赛事资讯",
+        "duration": "19:2",
+        "cover": "//i1.hdslb.com/bfs/archive/5c5017531ab6195f191dfc11c7bb57253d69e046.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vNpp6mETs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "F1新加坡正赛战报"
+      },
+      {
+        "title": "我们来到了地中海，重走《奥德赛》十年回家路！",
+        "url": "https://www.bilibili.com/video/BV1mopE6xEqv",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1mopE6xEqv",
+        "author": "-欣小萌-",
+        "duration": "21:25",
+        "cover": "//i0.hdslb.com/bfs/archive/c6ad825319b3d14824912e79fc1c4da08a033b66.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mopE6xEqv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "欣小萌王骁重走奥德赛回家路"
+      },
+      {
+        "title": "【年度总决赛二路解说合集】10月11日 成都AG超玩会 vs 长沙TES.A",
+        "url": "https://www.bilibili.com/video/BV1QQpn6qEi3",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1QQpn6qEi3",
+        "author": "kpl二路",
+        "duration": "2032:10",
+        "cover": "//i1.hdslb.com/bfs/archive/0c6b28a2be94a4878041d1bd15bd20df96c23527.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QQpn6qEi3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "成都AG超玩会战胜长沙TES.A KPL"
+      },
+      {
+        "title": "丘成桐谈OpenAI公开722篇数学手稿：“是学者最兴奋的时代，也是最危险的时代”",
+        "url": "https://www.bilibili.com/video/BV1qjpJ6kEWU",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "10月11日，在清华大学举办的丘成桐数学与人工智能实验室联盟成立仪式上，清华大学讲席教授、求真书院院长、丘成桐数学与人工智能实验室联盟主席丘成桐提到OpenAI此前一次性公开722篇由内部AI模型生成的数学手稿一事，他说：“这是一个学者们最兴奋的时代，也是最危险的时代。”",
+        "content": "10月11日，在清华大学举办的丘成桐数学与人工智能实验室联盟成立仪式上，清华大学讲席教授、求真书院院长、丘成桐数学与人工智能实验室联盟主席丘成桐提到OpenAI此前一次性公开722篇由内部AI模型生成的数学手稿一事，他说：“这是一个学者们最兴奋的时代，也是最危险的时代。”",
+        "bvid": "BV1qjpJ6kEWU",
+        "author": "青蜂侠-Bee",
+        "duration": "1:2",
+        "cover": "//i1.hdslb.com/bfs/archive/72bd618bf556b4649c4ef2680f7139f3276c6e85.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qjpJ6kEWU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "丘成桐谈OpenAI公开722篇数学手稿"
+      },
+      {
+        "title": "S16前瞻：GEN、TES最后一战？IG弥补去年遗憾，T1这次是真菜还是又在装？",
+        "url": "https://www.bilibili.com/video/BV1d8p56tEuV",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "S16前瞻~",
+        "content": "S16前瞻~",
+        "bvid": "BV1d8p56tEuV",
+        "author": "LOL丶诺诺",
+        "duration": "38:31",
+        "cover": "//i1.hdslb.com/bfs/archive/8ff25cf7febf5b2d42919e3ccee015e308ac5456.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d8p56tEuV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S16有哪些看点值得期待"
+      },
+      {
+        "title": "无法阻挡的GOAT！ZywOo荣膺EPL S24赛事MVP！玩机器：等生涯结束前拿40/50个MVP，后面的人怎么追？",
+        "url": "https://www.bilibili.com/video/BV17cpp6nE3b",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
-        "description": "在寂静岭里上班是一种什么体验",
-        "content": "在寂静岭里上班是一种什么体验",
-        "bvid": "BV1BDp76rEpT",
-        "author": "STN工作室",
-        "duration": "50:47",
-        "cover": "//i0.hdslb.com/bfs/archive/84db3acdb53ddb3c5dab2d6fc5bd907a1fbd250c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BDp76rEpT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "STN锐评国庆玩过的游戏"
-      },
-      {
-        "title": "大水理论是什么梗【梗指南】",
-        "url": "https://www.bilibili.com/video/BV1a9p36LEKD",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "大水理论是什么梗 *本视频仅作为了解该梗的辅助，不能仅靠该视频作为对该梗的全面了解，真正深入了解可以观看原出处以及更多方面~",
-        "content": "大水理论是什么梗 *本视频仅作为了解该梗的辅助，不能仅靠该视频作为对该梗的全面了解，真正深入了解可以观看原出处以及更多方面~",
-        "bvid": "BV1a9p36LEKD",
-        "author": "梗指南",
-        "duration": "2:6",
-        "cover": "//i0.hdslb.com/bfs/archive/843cf4a0fb4210ede6aca39ed50f614fc7e88b29.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1a9p36LEKD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大水理论是什么梗"
+        "description": "无法阻挡的GOAT！ZywOo荣膺EPL S24赛事MVP！玩机器：等生涯结束前拿40/50个MVP，后面的人怎么追？",
+        "content": "无法阻挡的GOAT！ZywOo荣膺EPL S24赛事MVP！玩机器：等生涯结束前拿40/50个MVP，后面的人怎么追？",
+        "bvid": "BV17cpp6nE3b",
+        "author": "CS2主播赛事名场面",
+        "duration": "4:47",
+        "cover": "//i1.hdslb.com/bfs/archive/0c6d684221faf279df94954d10a0207444f0b9a8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17cpp6nE3b&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "ZywOo斩获第34枚MVP"
       },
       {
         "title": "夏天回马枪：广东广西等多地将重回高温，小熊成超强台风新台风酝酿",
         "url": "https://www.bilibili.com/video/BV13Gpn6NEeC",
         "desc": "",
-        "rank": 24,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "这几天我国大部阳光灿烂，气温节节升高，不仅再度有了温暖过头的感觉，从数据上说也从偏冷转为偏暖。10月11日下午，东北平原大部超过20度，刚刚下过第一场雪的黑龙江鹤岗，都升到了16度以上。京津冀大部、辽宁西部以及山东、河南普遍升到25度以上。除江浙沪、安徽等外，南方几乎所有省级行政区的最高气温都升到了30度以上，广东广西最高已经达到33-34度，距离高温线已经非常近了。这至少说明两个情况：第一目前冷空气非常弱，南下能力不足；第二副热带高压非常强且非常稳定，长期控制南方。 而接下来10天内，这两个情况都不会变",
@@ -508,6 +492,22 @@
         "cover": "//i1.hdslb.com/bfs/archive/9840521b0574ff6e238943b649ba98b4f3d428e1.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13Gpn6NEeC&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "多地将重回高温"
+      },
+      {
+        "title": "华南炎热重启，这次要热特别久",
+        "url": "https://www.bilibili.com/video/BV12opE6xEKS",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "你有没有发现，最近又热起来了。有很多朋友特别是南方的朋友来问科普航，现在不应该降温吗，怎么反而更热了？要热到什么时候？今年冬天会一直热下去吗？ 首先要告诉大家，你们的感觉没有错。10月上旬末下旬初，暖空气已经夺回天气主导权，南方大部和华北平原都热起来了。尤其是南方，已经大范围超过30度，广东广西更是达到33-34度，逼近35度高温线。 而接下来，南方这轮大范围炎热还将继续发展。一方面，炎热要加强，特别是广东、广西，有可能出现35度以上高温天气。另一方面，这轮炎热会特别持久，要维持10天甚至10天以上，整个",
+        "content": "你有没有发现，最近又热起来了。有很多朋友特别是南方的朋友来问科普航，现在不应该降温吗，怎么反而更热了？要热到什么时候？今年冬天会一直热下去吗？ 首先要告诉大家，你们的感觉没有错。10月上旬末下旬初，暖空气已经夺回天气主导权，南方大部和华北平原都热起来了。尤其是南方，已经大范围超过30度，广东广西更是达到33-34度，逼近35度高温线。 而接下来，南方这轮大范围炎热还将继续发展。一方面，炎热要加强，特别是广东、广西，有可能出现35度以上高温天气。另一方面，这轮炎热会特别持久，要维持10天甚至10天以上，整个",
+        "bvid": "BV12opE6xEKS",
+        "author": "中气爱科普航",
+        "duration": "1:43",
+        "cover": "//i2.hdslb.com/bfs/archive/93af658a7243a90833b01ab2354b4760252753e2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12opE6xEKS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "南方炎热天气还将继续多久"
       },
       {
         "title": "《明日方舟》× 国家图书馆「恒远津梁」合作宣传PV",
@@ -526,84 +526,84 @@
         "hotTitle": "明日方舟联动国家图书馆宣传PV"
       },
       {
-        "title": "【新宿决战】皮特VS鸡哥",
-        "url": "https://www.bilibili.com/video/BV1CLHQ6zEHC",
+        "title": "银月高光剧情 韩立高慌剧情！燃烧精血也要活下来！《凡人修仙传》195集逐帧解析",
+        "url": "https://www.bilibili.com/video/BV1qxpG6WEBt",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "原版:NinjaristicNinja 疑似第六次人鸡大战流出",
-        "content": "原版:NinjaristicNinja 疑似第六次人鸡大战流出",
-        "bvid": "BV1CLHQ6zEHC",
-        "author": "浅澄月",
-        "duration": "1:38",
-        "cover": "//i0.hdslb.com/bfs/archive/6432b0a3f629008bde4192e2945f2b2629437b4a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CLHQ6zEHC&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "皮特VS鸡哥"
+        "description": "感谢本期视频的配音小哥@鲜氣菌",
+        "content": "感谢本期视频的配音小哥@鲜氣菌",
+        "bvid": "BV1qxpG6WEBt",
+        "author": "白马侯子",
+        "duration": "14:34",
+        "cover": "//i0.hdslb.com/bfs/archive/de22ced783c65d97cd0e8256d580344a3bed8421.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qxpG6WEBt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "韩立被仲神师追杀四天四夜"
       },
       {
-        "title": "S16前瞻：GEN、TES最后一战？IG弥补去年遗憾，T1这次是真菜还是又在装？",
-        "url": "https://www.bilibili.com/video/BV1d8p56tEuV",
+        "title": "【STN选题会】我们度过了一个最红的国庆",
+        "url": "https://www.bilibili.com/video/BV1BDp76rEpT",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "S16前瞻~",
-        "content": "S16前瞻~",
-        "bvid": "BV1d8p56tEuV",
-        "author": "LOL丶诺诺",
-        "duration": "38:31",
-        "cover": "//i1.hdslb.com/bfs/archive/8ff25cf7febf5b2d42919e3ccee015e308ac5456.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d8p56tEuV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S16有哪些看点值得期待"
+        "description": "在寂静岭里上班是一种什么体验",
+        "content": "在寂静岭里上班是一种什么体验",
+        "bvid": "BV1BDp76rEpT",
+        "author": "STN工作室",
+        "duration": "50:47",
+        "cover": "//i0.hdslb.com/bfs/archive/84db3acdb53ddb3c5dab2d6fc5bd907a1fbd250c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BDp76rEpT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "STN锐评国庆玩过的游戏"
       },
       {
-        "title": "看演唱会送好莱坞？华晨宇火星演唱会2.0全揭秘！",
-        "url": "https://www.bilibili.com/video/BV1RKp367EuB",
+        "title": "《影之刃零》最新19分钟实机演示",
+        "url": "https://www.bilibili.com/video/BV1jtpv6HEAP",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "砸下天价！在两块地一座山头搭建数月，拥有全场域体验、双生歌单以及颠覆性的舞美的华晨宇演唱会 2.0 全揭秘，来了！本期视频，我们将携带火星官方指定演唱会神器——vivo X500 Pro Max ，带领大家深度体验火星演唱会 2.0，到底有多夯！",
-        "content": "砸下天价！在两块地一座山头搭建数月，拥有全场域体验、双生歌单以及颠覆性的舞美的华晨宇演唱会 2.0 全揭秘，来了！本期视频，我们将携带火星官方指定演唱会神器——vivo X500 Pro Max ，带领大家深度体验火星演唱会 2.0，到底有多夯！",
-        "bvid": "BV1RKp367EuB",
-        "author": "LIKEMUSIC",
-        "duration": "16:17",
-        "cover": "//i0.hdslb.com/bfs/archive/33f84c7012cb95abd9e4c2bcd541b278b924f534.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RKp367EuB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "华晨宇火星演唱会2.0有多夯"
+        "description": "本次演示包含了《影之刃零》前期地图的关卡探索和数场BOSS战，欢迎大家观看。 演示视频由灵游坊提供。 合作联络：稀饭@UCG稀饭 /白鲸@散步的白鲸 /山茶@山茶氖氖 /六段音速",
+        "content": "本次演示包含了《影之刃零》前期地图的关卡探索和数场BOSS战，欢迎大家观看。 演示视频由灵游坊提供。 合作联络：稀饭@UCG稀饭 /白鲸@散步的白鲸 /山茶@山茶氖氖 /六段音速",
+        "bvid": "BV1jtpv6HEAP",
+        "author": "UCG_Official",
+        "duration": "19:11",
+        "cover": "//i1.hdslb.com/bfs/archive/76d13cd684c2ebc5b408eecdb9ba7b1b3308e2d4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jtpv6HEAP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "影之刃零19分钟新实机"
       },
       {
-        "title": "一口气6小时看完民国江湖骗局《我不是大师》八场骗局每一分钟都在反转，爆肝十五天狂写十万字！最值得你收藏的版本！",
-        "url": "https://www.bilibili.com/video/BV1Cmpg68E4K",
+        "title": "怎么回事？dudududu一直响啊！【2026 F1新加坡大奖赛正赛集锦】",
+        "url": "https://www.bilibili.com/video/BV1EopJ6LE2D",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "一口气6小时看完民国江湖骗局《我不是大师》八场骗局每一分钟都在反转，爆肝十五天狂写十万字！最值得你收藏的版本！",
-        "content": "一口气6小时看完民国江湖骗局《我不是大师》八场骗局每一分钟都在反转，爆肝十五天狂写十万字！最值得你收藏的版本！",
-        "bvid": "BV1Cmpg68E4K",
-        "author": "不善言辞的秃秃",
-        "duration": "391:7",
-        "cover": "//i2.hdslb.com/bfs/archive/9f1be2e7f60f17a40d5a6f55fc8efb9cacaaad01.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Cmpg68E4K&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "6小时看完民国悬疑新剧"
+        "description": "2026 F1新加坡大奖赛正赛集锦",
+        "content": "2026 F1新加坡大奖赛正赛集锦",
+        "bvid": "BV1EopJ6LE2D",
+        "author": "F1世界锦标赛",
+        "duration": "7:53",
+        "cover": "//i2.hdslb.com/bfs/archive/541b8ac580fce86bcef52a6e87d619cec82477cd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EopJ6LE2D&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "F1新加坡站正赛集锦"
       },
       {
-        "title": "危急时刻！神秘大哥出手，A股狂V！",
-        "url": "https://www.bilibili.com/video/BV1Vcp86eEiM",
+        "title": "【世界周刊】命案撕开的“账单”",
+        "url": "https://www.bilibili.com/video/BV1nQpJ6UEDP",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Vcp86eEiM",
-        "author": "淘沙博士",
-        "duration": "4:0",
-        "cover": "//i0.hdslb.com/bfs/archive/bdfcc44de1ee5de0de226545f884038ef0cf9e96.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vcp86eEiM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "A股为何上演V形反转走势"
+        "description": "",
+        "content": "",
+        "bvid": "BV1nQpJ6UEDP",
+        "author": "央视新闻",
+        "duration": "22:54",
+        "cover": "//i0.hdslb.com/bfs/archive/d4dfb4f4d901f2f916127fb5eca20310d377a58f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nQpJ6UEDP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "命案撕开的账单"
       }
     ],
     "qbitai": [
@@ -950,6 +950,56 @@
         "rank": 4
       },
       {
+        "title": "央行逆回购操作当日实现净回笼2500亿元",
+        "url": "https://m.36kr.com/newsflashes/4022210404126856",
+        "desc": "36氪获悉，央行今日开展500亿元7天期逆回购操作，因今日有3000亿元14天期逆回购到期，当日实现净回笼2500亿元。",
+        "cover": "",
+        "date": 1791768240486,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "恒指开盘涨0.92%，恒生科技指数涨1.03%",
+        "url": "https://m.36kr.com/newsflashes/4022209626706056",
+        "desc": "36氪获悉，恒指开盘涨0.92%，恒生科技指数涨1.03%；消费、汽车、科技板块领涨，名创优品涨超5%，阿里巴巴涨超3%，蔚来涨超2%；半导体、硬件设备板块跌幅居前，立讯精密跌超3%，澜起科技、兆易创新跌超1%。",
+        "cover": "",
+        "date": 1791768193036,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "人民币兑美元中间价报6.7313，上调17点",
+        "url": "https://m.36kr.com/newsflashes/4022204889682052",
+        "desc": "36氪获悉，人民币兑美元中间价报6.7313，上调17点；上一交易日中间价6.7330，上一交易日官方收盘价6.6921，上日夜盘报收6.6929。",
+        "cover": "",
+        "date": 1791767903911,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "中信证券：2026年第四季度油轮龙头估值和利润有望创历史新高",
+        "url": "https://m.36kr.com/newsflashes/4022203877969792",
+        "desc": "36氪获悉，中信证券研报称，霍尔木兹海峡石油出口恢复至战前水平，货盘的大量增长和有限的可用船舶清单推动VLCC运价持续上行，并开始外溢至Suezmax。沙特扩大贴水持续刺激货盘，STS转运为当下主要的交货方式，非传统装卸作业叠加穿梭油轮运力限制持续损耗VLCC有效运力，无法与增长的货盘匹配，随着近期船舶袭击频率提升，受损船只维修困难，VLCC有效运力进一步受损，VLCC运价或进一步上行。裂解价差有望维持高位，炼厂采购意愿仍然充足，能源供应逐步转向稳定优先，季节性的刚性需求叠加贸易流向转变带来的航距增长，成品油运输有望迎来拐点。2026年第四季度油轮龙头估值和利润有望创历史新高。",
+        "cover": "",
+        "date": 1791767842161,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
+        "title": "韩国央行行长：芯片强劲需求支撑经济增长超出预期",
+        "url": "https://m.36kr.com/newsflashes/4022201184292745",
+        "desc": "韩国央行行长表示，芯片强劲需求支撑经济增长超出预期，预计通胀率将在一段时间内维持在目标水平以上，进一步加息的时机和步伐将取决于数据，将权衡通胀、增长和金融稳定等因素。并表示，金融稳定风险仍需关注。（财联社）",
+        "cover": "",
+        "date": 1791767677752,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 9
+      },
+      {
         "title": "银河证券：整体煤炭供需偏紧，煤价中枢抬升",
         "url": "https://m.36kr.com/newsflashes/4022195488739463",
         "desc": "36氪获悉，银河证券研报指出，2026年中国整体煤炭供需偏紧，煤价中枢抬升。国内市场方面，经过2025年下半年“反内卷”超产核查、2026年上半年印尼限制出口、美伊冲突推高国际能源价格、山西煤炭事故后安监趋严以及后续复产持续不及预期的影响，过去一年煤价中枢逐步抬升。研报认为供给约束依然存在，而电煤、化工煤等需求较去年有望提升，煤价有望继续抬升。在2026年中期策略报告中，预计2026年全年秦皇岛5500大卡动力煤市场价中枢在800—900元/吨，高于2025年年均价（690元/吨），迎峰度冬期间有望进一步冲高。",
@@ -957,7 +1007,7 @@
         "date": 1791767330123,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 10
       },
       {
         "title": "天数智芯推出业界最高密度单机柜超节点，单柜集成144颗GPU",
@@ -967,7 +1017,7 @@
         "date": 1791767165114,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 11
       },
       {
         "title": "WTI原油期货向下跌破90美元/桶",
@@ -977,7 +1027,7 @@
         "date": 1791767093428,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 12
       },
       {
         "title": "“线易微电子”完成A轮融资，筑牢高压电力电子安全屏障",
@@ -987,7 +1037,7 @@
         "date": 1791766800306,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 13
       },
       {
         "title": "中信建投：星网完成首次跨极区在轨通信试验，卫星互联网商业化加速落地",
@@ -997,7 +1047,7 @@
         "date": 1791766620000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 14
       },
       {
         "title": "电信运营商开启系统性瘦身",
@@ -1007,7 +1057,7 @@
         "date": 1791766413000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 15
       },
       {
         "title": "上市公司密集布局一级市场 逾260家公司出资超150亿元",
@@ -1017,7 +1067,7 @@
         "date": 1791766294000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 16
       },
       {
         "title": "两市融资余额减少145.81亿元",
@@ -1027,7 +1077,7 @@
         "date": 1791766097138,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 17
       },
       {
         "title": "中金：“科技+红利”的哑铃型配置结构重视程度有望提升",
@@ -1037,7 +1087,7 @@
         "date": 1791766079000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 18
       },
       {
         "title": "全球最大的黄金ETF SPDR Gold Trust持仓较前日减少2.28吨",
@@ -1047,7 +1097,7 @@
         "date": 1791765857000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 19
       },
       {
         "title": "中信证券：Scale-up光进铜退成为大势所趋，NPO/CPO驱动无源器件价值重估",
@@ -1057,7 +1107,7 @@
         "date": 1791765571000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 20
       },
       {
         "title": "“十五五”时期国家水网建设投资需求将突破6万亿元",
@@ -1067,7 +1117,7 @@
         "date": 1791765520190,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 21
       },
       {
         "title": "两大矿端龙头宣布提价，这13股业绩暴增但股价“砸深坑”",
@@ -1077,7 +1127,7 @@
         "date": 1791765369000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 22
       },
       {
         "title": "全球芯片股反弹之际，韩国存储双雄跑输美光科技",
@@ -1087,7 +1137,7 @@
         "date": 1791765206000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 23
       },
       {
         "title": "华泰证券A股策略：继续沿盈利与景气寻找性价比方向",
@@ -1097,65 +1147,15 @@
         "date": 1791765019000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "7月以来均衡基金超八成下跌，首尾业绩相差近54个百分点",
-        "url": "https://m.36kr.com/newsflashes/4022137673305989",
-        "desc": "近期，伴随市场波动加剧，主动权益基金新发产品中，均衡类产品成为公募布局的重要方向。比如，平安均衡精选、中欧均衡增长等产品均定于10月开启认购。数据显示，截至2026年10月9日，年内成立的均衡主动权益基金（以名称中带“均衡”的基金为统计口径）数量达14只，年度成立数量创2022年以来新高。均衡类产品的设计初衷，是依靠更广域的选股布局，通过多行业分散配置来平滑组合波动，减少单一板块剧烈波动给净值带来的冲击，尽可能改善持有人的持有体验。不过，从已成立的均衡基金来看，7月以来业绩表现分化明显，首尾业绩相差近54个百分点。（证券时报）",
-        "cover": "",
-        "date": 1791764832000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "国际货币基金组织和世界银行集团年会在曼谷开幕",
-        "url": "https://m.36kr.com/newsflashes/4022139818053764",
-        "desc": "当地时间12日，国际货币基金组织和世界银行集团2026年年会在曼谷开幕。年会定于10月12日至18日举行，国际货币基金组织和世界银行集团的代表将围绕全球经济政策协调与国际发展合作等问题展开交流，还将发布《世界经济展望报告》《全球金融稳定报告》等，预计将有来自191个国家和地区的1.5万余名代表参会。本次年会将通过全体会议、部长级会议、专题研讨和新闻发布会等形式，就全球经济与金融市场、发展融资以及新兴技术带来的机遇与挑战等问题交换意见。人工智能与就业、动员私人资本促进投资和发展等也将成为本次年会的重要议题。相关讨论旨在探索如何进一步释放投资潜力、推动基础设施建设，为经济增长和就业创造新的动力。（央视新闻）",
-        "cover": "",
-        "date": 1791764724000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "英国财政研究所：希利需筹措350亿英镑，才能落实英国支出计划",
-        "url": "https://m.36kr.com/newsflashes/4022124223385730",
-        "desc": "英国财政研究所（IFS）在本月晚些时候预算案公布前发出警告：英国财政大臣约翰・希利必须筹措350亿英镑（合460亿美元）资金，才能兑现工党政府的支出愿景。这家备受关注的智库表示，尽管希利在财政规则方面的可操作空间或将高于预期，但政府支出计划的可信度仍悬而未决。（新浪财经）",
-        "cover": "",
-        "date": 1791764549000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "亚马逊据悉正洽谈收购人工智能初创公司Decart",
-        "url": "https://m.36kr.com/newsflashes/4022123482157190",
-        "desc": "10月12日消息，据报道，亚马逊公司正在洽谈收购人工智能初创公司Decart AI，交易价值可能大约70亿美元。今年9月份，Anthropic决定不收购Decart AI。这家Claude聊天机器人开发商此前曾洽谈以约60亿美元收购Decart，并已对收购目标进行了尽职调查。Decart成立于2023年，由三名以色列工程师创办，分别是Dean Leitersdorf和Orian Leitersdorf兄弟，以及Moshe Shalev。（界面）",
-        "cover": "",
-        "date": 1791764325000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "中信建投：TLVR芯片电感单位价值量提升，行业空间极速扩容",
-        "url": "https://m.36kr.com/newsflashes/4022122699509635",
-        "desc": "36氪获悉，中信建投证券研报称，多相TLVR电感是大势所趋。AI芯片电感未来三大产业趋势：1.单相电感走向多相电感，密度提升；2.水平供电转向VPD垂直供电，供电效率提升；3.NON-TTLVR转向TLVR电感，价值量提升。多相TLVR电感将成为必须。AI芯片电感从2025年到2028年市场规模扩容10倍以上。未来芯片电感面临多重驱动，随着AI芯片出货增加、芯片功率上升、电感性能升级，AI芯片电感市场规模将快速扩容，规模增速=芯片出货倍数×功率提升倍数×单颗价值提升倍数。",
-        "cover": "",
-        "date": 1791764158000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791767470508,
-    "bilibili": 1791765912301,
-    "qbitai": 1791767499355,
-    "36kr": 1791767499968
+    "thepaper": 1791768366112,
+    "bilibili": 1791767713075,
+    "qbitai": 1791768398438,
+    "36kr": 1791768398928
   },
   "failures": {}
 }
