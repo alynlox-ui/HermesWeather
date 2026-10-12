@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T14:41:46Z",
+  "updatedAt": "2026-10-12T14:56:39Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -136,7 +136,7 @@
         "content": "【2026KPL年度总决赛】10月12日 北京WB VS 深圳DYG",
         "bvid": "BV14kpd6hEir",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "153:35",
+        "duration": "174:41",
         "cover": "//i0.hdslb.com/bfs/archive/ce342707f1d491eedf3b4be05bd8db7a8451834a.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14kpd6hEir&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "深圳DYG战胜北京WB KPL"
@@ -184,7 +184,7 @@
         "content": "【2026德玛西亚杯】10月12日 BFX vs JDG",
         "bvid": "BV1LNpo61EYp",
         "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "198:40",
+        "duration": "245:52",
         "cover": "//i1.hdslb.com/bfs/archive/53a3d4e4446f0ee2efaab434f5bed65171f6cdb2.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LNpo61EYp&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BFX vs JDG 德玛西亚杯"
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791816069254,
-    "bilibili": 1791816074103,
-    "qbitai": 1791816106501,
-    "36kr": 1791816106991
+    "thepaper": 1791816965594,
+    "bilibili": 1791815518505,
+    "qbitai": 1791816998583,
+    "36kr": 1791816999103
   },
   "failures": {}
 }
