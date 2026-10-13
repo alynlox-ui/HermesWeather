@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:56:30Z",
+  "updatedAt": "2026-10-13T15:13:00Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -296,7 +296,7 @@
         "content": "感谢支持",
         "bvid": "BV1MDpq6VEwh",
         "author": "看海实况",
-        "duration": "180:6",
+        "duration": "240:9",
         "cover": "//i0.hdslb.com/bfs/archive/82ad6d5705055b632b4f87cdf5cb09f743c3cda8.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MDpq6VEwh&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "小豪 火影高分擂台赛"
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791903365633,
-    "bilibili": 1791903370224,
-    "qbitai": 1791903389743,
-    "36kr": 1791903390286
+    "thepaper": 1791904275477,
+    "bilibili": 1791903365794,
+    "qbitai": 1791904379950,
+    "36kr": 1791904380388
   },
   "failures": {}
 }
