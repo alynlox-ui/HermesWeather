@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:26:43Z",
+  "updatedAt": "2026-10-13T14:41:40Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "烂完了！米勒看LGD3-15被BRO狂虐淘汰止步八强破防:啊四强又是三个LCK",
-        "url": "https://www.bilibili.com/video/BV1eRpi6DErR",
+        "title": "BRO 3-1 LGD 赛后数据雷达图丨2026德玛西亚杯",
+        "url": "https://www.bilibili.com/video/BV19kpz64EYW",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "网络 LGD被BRO淘汰",
-        "content": "网络 LGD被BRO淘汰",
-        "bvid": "BV1eRpi6DErR",
-        "author": "无畏镜中人",
-        "duration": "2:26",
-        "cover": "//i0.hdslb.com/bfs/archive/7cc137ab07697f3354dfb88e0bb9b21fc178315c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eRpi6DErR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV19kpz64EYW",
+        "author": "苦练李香兰",
+        "duration": "4:30",
+        "cover": "//i2.hdslb.com/bfs/archive/5e53b82922e58c4aef3217dff065fbe8f21da1d3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19kpz64EYW&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BRO战胜LGD 德玛西亚杯"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791901575348,
-    "bilibili": 1791901579719,
-    "qbitai": 1791901602889,
-    "36kr": 1791901603631
+    "thepaper": 1791902465571,
+    "bilibili": 1791901562711,
+    "qbitai": 1791902499758,
+    "36kr": 1791902500229
   },
   "failures": {}
 }
