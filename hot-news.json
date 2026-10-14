@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T11:26:38Z",
+  "updatedAt": "2026-10-14T11:41:49Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "Karsa终于跟RNG老队友重逢"
       },
       {
-        "title": "KT对阵BFX第一局集锦",
-        "url": "https://www.bilibili.com/video/BV1ucp26BEzZ",
+        "title": "【BFX vs KT】德云色解说：待更新（2026德玛西亚）",
+        "url": "https://www.bilibili.com/video/BV1Gop163EnZ",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ucp26BEzZ",
-        "author": "囧王者",
-        "duration": "1:25",
-        "cover": "//i2.hdslb.com/bfs/archive/d643731e199b128e4c2cd7440f815af6c7344e25.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ucp26BEzZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 @小孩kiddddd @dys渔不沮 @释梦398 @DYS-嚣张花卷 @看不见的Dv彡 @二柱子il @喵喵喵喵喵喵人a @赛寒Serein 百度贴吧：德云色",
+        "content": "德云色直播间：https://live.bilibili.com/7777 微博：@笑笑_孙亚龙 @西卡_李浩宇 @小孩kiddddd @dys渔不沮 @释梦398 @DYS-嚣张花卷 @看不见的Dv彡 @二柱子il @喵喵喵喵喵喵人a @赛寒Serein 百度贴吧：德云色",
+        "bvid": "BV1Gop163EnZ",
+        "author": "老实憨厚的笑笑",
+        "duration": "112:20",
+        "cover": "//i1.hdslb.com/bfs/archive/7ac1551b01a60abf1dd99abe1143056ab4454538.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Gop163EnZ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "KT vs BFX 德玛西亚杯"
       },
       {
@@ -940,6 +940,36 @@
         "rank": 3
       },
       {
+        "title": "欧普康视：控股子公司旗下星程眼科拟1.2亿元受让恒熠医疗100%股权",
+        "url": "https://m.36kr.com/newsflashes/4025636267085961",
+        "desc": "36氪获悉，欧普康视发布公告，控股子公司宿迁市尚悦启程医院管理有限公司的全资子公司昆明星程眼科医院有限责任公司与宫经兰、蒋心景、刘录、杨立翠在安徽省合肥市签订了《昆明星程眼科医院有限责任公司与宫经兰、蒋心景、刘录、杨立翠关于宿迁恒熠医疗服务有限公司之投资合作协议》，星程眼科以自有资金1.2亿元，通过受让股权的方式投资于宿迁恒熠医疗服务有限公司。本次投资完成后，星程眼科将持有恒熠医疗100%的股权。",
+        "cover": "",
+        "date": 1791977993000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "2025年欧盟生产的汽车中近四成为电动及混合动力车型",
+        "url": "https://m.36kr.com/newsflashes/4025626873171841",
+        "desc": "欧盟统计局最新数据显示，2025年欧盟共生产约1260万辆乘用车，其中电动及混合动力汽车约480万辆，占总产量近四成，较上年增加约90万辆。数据显示，2025年纯电动汽车占欧盟汽车总产量的17%，插电式混合动力汽车占7%，非插电式混合动力汽车占14%。（新华财经）",
+        "cover": "",
+        "date": 1791977729000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "国庆假期后股基ETF净流入超570亿元",
+        "url": "https://m.36kr.com/newsflashes/4025629675851907",
+        "desc": "资金持续借道股票型ETF入市。自国庆假期后首个交易日（10月8日）以来，股票型ETF净流入超570亿元，宽基ETF成为“吸金”主力。据Choice测算，10月13日，股票型ETF净流入126.81亿元。具体来看，创业板ETF易方达净流入21.54亿元，沪深300ETF华泰柏瑞、科创50ETF华夏净流入均超10亿元。（上证报）",
+        "cover": "",
+        "date": 1791977349000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "2026年10月全国总票房破15亿",
         "url": "https://m.36kr.com/newsflashes/4025632974246016",
         "desc": "36氪获悉，据猫眼专业版数据，2026年10月总票房破15亿元，《神探之痕迹》《什么意思夫妇》《生化危机：爆发夜》分列10月票房榜前三位。",
@@ -947,7 +977,7 @@
         "date": 1791977137588,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "美国银行三季度营收300亿美元，同比增长3%",
@@ -957,7 +987,7 @@
         "date": 1791976832058,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "泛大西洋投资集团计划2027年初IPO，估值最高达100亿美元",
@@ -967,7 +997,7 @@
         "date": 1791976533000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "贝莱德三季度资金净流入超2000亿美元，管理资产规模创纪录",
@@ -977,7 +1007,7 @@
         "date": 1791976284785,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "恒指公司：因茶百道受监管机构调查而停牌，恒生指数系列成份股将变动",
@@ -987,7 +1017,7 @@
         "date": 1791975829020,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "机构今日买入电科思仪等15股，卖出中材科技2.44亿元",
@@ -997,7 +1027,7 @@
         "date": 1791975650000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "深圳华强：预计2026年前三季度净利润同比增长60%-90%",
@@ -1007,7 +1037,7 @@
         "date": 1791975592155,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "欧盟接受赛诺菲整改承诺，结束疫苗营销反垄断调查",
@@ -1017,7 +1047,7 @@
         "date": 1791974918918,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "深圳华强：预计2026年前三季度净利润同比增长60%-90%",
@@ -1027,7 +1057,7 @@
         "date": 1791974398000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "英诺激光：持股5%以上股东减持后持股比例降至15%",
@@ -1037,7 +1067,7 @@
         "date": 1791974128000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "武商集团：第一大股东及一致行动人持股比例增至28.24%",
@@ -1047,7 +1077,7 @@
         "date": 1791973871000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "阳光乳业：股票交易异常波动，无应披露未披露重大事项",
@@ -1057,7 +1087,7 @@
         "date": 1791973657000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "远大控股：预计2026年前三季度净利润同比增长890%–1018%",
@@ -1067,7 +1097,7 @@
         "date": 1791973427979,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "期货市场交投活跃，1—9月累计成交额738.54万亿元",
@@ -1077,7 +1107,7 @@
         "date": 1791973246391,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "小马智行布局英国“双城”，第七代Robotaxi驶入曼彻斯特",
@@ -1087,7 +1117,7 @@
         "date": 1791972941000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "中国中冶：2026年1-9月新签合同额5191.7亿元",
@@ -1097,7 +1127,7 @@
         "date": 1791972668000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "石大胜华：预计2026年前三季度净利润5.4亿元到5.8亿元，同比扭亏为盈",
@@ -1107,45 +1137,15 @@
         "date": 1791972476000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "蚂蚁灵波与隆盛唯睿等多家企业达成深度合作，具身机器人加速落地工业物流",
-        "url": "https://m.36kr.com/newsflashes/4025547059171465",
-        "desc": "36氪获悉，近日，蚂蚁灵波接连与隆盛科技控股子公司隆盛唯睿、物流装备与解决方案提供商德马科技、德尔股份旗下机器人公司德迩象网等多家智能制造及现代物流企业达成深度战略合作。基于自研的具身原生模型及云端工具链，蚂蚁灵波将携手生态伙伴，共同攻关具身机器人在严苛工业与物流环境下的全新解决方案。",
-        "cover": "",
-        "date": 1791972436774,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "阿里巴巴-W逆势获南向资金净买入11.90亿港元",
-        "url": "https://m.36kr.com/newsflashes/4025541211901825",
-        "desc": "南向资金净卖出1.35亿港元，中芯国际、长飞光纤光缆、小米集团-W分别遭净卖出7.85亿港元、4.93亿港元、4.87亿港元。净买入方面，阿里巴巴-W、康方生物、美团-W净买入额位列前三，分别获净买入11.90亿港元、7.72亿港元、2.78亿港元。（第一财经）",
-        "cover": "",
-        "date": 1791972033708,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "摩根大通禁止外部智能AI代理访问客户账户",
-        "url": "https://m.36kr.com/newsflashes/4025537782009991",
-        "desc": "摩根大通表示，将禁止 Meta 旗下 Muse、Instinct 等外部AI智能代理访问客户账户。该行首席执行官杰米・戴蒙在周二的第三季度财报电话会上表示：“我们不会放任任何外部代理程序进入银行系统，这对客户以及摩根大通自身而言风险过高。”（新浪财经）",
-        "cover": "",
-        "date": 1791971917729,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1791977167089,
+    "thepaper": 1791978064835,
     "bilibili": 1791976323651,
-    "qbitai": 1791977197925,
-    "36kr": 1791977198362
+    "qbitai": 1791978109392,
+    "36kr": 1791978109910
   },
   "failures": {}
 }
