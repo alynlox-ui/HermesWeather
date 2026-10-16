@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T07:41:46Z",
+  "updatedAt": "2026-10-16T07:56:38Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,26 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "【无畏契约上海全球冠军赛】9月30日 VIT vs LOUD",
-        "url": "https://www.bilibili.com/video/BV1GGaZ6AE9r",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【无畏契约上海全球冠军赛】9月30日 VIT vs LOUD",
-        "content": "【无畏契约上海全球冠军赛】9月30日 VIT vs LOUD",
-        "bvid": "BV1GGaZ6AE9r",
-        "author": "无畏契约赛事",
-        "duration": "168:8",
-        "cover": "//i2.hdslb.com/bfs/archive/84ad170f13c5ee3e4af43c2d80c140652470e47a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GGaZ6AE9r&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "VIT vs LOUD 上海冠军赛"
-      },
-      {
         "title": "超级巨大失误！日本气象厅将千岛群岛6.9级地震误报为9.9级，新闻媒体紧急取消警报",
         "url": "https://www.bilibili.com/video/BV1cwJQ6aEsS",
         "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "日本气象厅发布紧急地震警报称，中午12点36分左右，千岛群岛发生地震，北海道、东北、关东甲信越、北陆、东海、伊豆诸岛预计有强烈震动，但随后于中午12点48分宣布取消警报。 俄罗斯千岛群岛发生6.9级地震，气象厅误报为9.9级，稍早紧急地震速报取消",
@@ -156,6 +140,22 @@
         "cover": "//i2.hdslb.com/bfs/archive/f4b39f1a236da96799d270279528a4aae543eff2.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cwJQ6aEsS&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "日本误报9.9级地震"
+      },
+      {
+        "title": "【无畏契约上海全球冠军赛】9月30日 VIT vs LOUD",
+        "url": "https://www.bilibili.com/video/BV1GGaZ6AE9r",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【无畏契约上海全球冠军赛】9月30日 VIT vs LOUD",
+        "content": "【无畏契约上海全球冠军赛】9月30日 VIT vs LOUD",
+        "bvid": "BV1GGaZ6AE9r",
+        "author": "无畏契约赛事",
+        "duration": "168:8",
+        "cover": "//i2.hdslb.com/bfs/archive/84ad170f13c5ee3e4af43c2d80c140652470e47a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GGaZ6AE9r&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "VIT vs LOUD 上海冠军赛"
       },
       {
         "title": "中国豆浆在非洲小学火了？！#世界粮食日#【主播说三农】",
@@ -174,10 +174,26 @@
         "hotTitle": "中国豆浆在非洲小学火了"
       },
       {
+        "title": "大家好！我是HAHA河东勋，我来B站啦！",
+        "url": "https://www.bilibili.com/video/BV1x6Jy6pE7p",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "各位中国的粉丝朋友们大家好，我是HAHA。时隔许久再次和大家打招呼啦。Ya Man。 好的，接下来我会在这里通过各式各样的内容和大家见面。我打算和朋友们在轻松的氛围里创作多样的内容，也计划和大家分享我和家人共度欢乐时光的日常点滴。希望我的视频能为大家传递满满的正能量。 对了，另外如果有希望HAHA来做的内容，或是有其他想看的朋友，也请在评论区留言告诉我。 还请大家多多关注，我们很快再会！再见。 希望能有机会早日在中国与各位相见，到时候见啦，Ya Man Boom。",
+        "content": "各位中国的粉丝朋友们大家好，我是HAHA。时隔许久再次和大家打招呼啦。Ya Man。 好的，接下来我会在这里通过各式各样的内容和大家见面。我打算和朋友们在轻松的氛围里创作多样的内容，也计划和大家分享我和家人共度欢乐时光的日常点滴。希望我的视频能为大家传递满满的正能量。 对了，另外如果有希望HAHA来做的内容，或是有其他想看的朋友，也请在评论区留言告诉我。 还请大家多多关注，我们很快再会！再见。 希望能有机会早日在中国与各位相见，到时候见啦，Ya Man Boom。",
+        "bvid": "BV1x6Jy6pE7p",
+        "author": "HAHA河东勋",
+        "duration": "1:32",
+        "cover": "//i1.hdslb.com/bfs/archive/b9de3902e80adcfdf3c0e6ad459db8d77e01c005.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1x6Jy6pE7p&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "HAHA河东勋入驻B站"
+      },
+      {
         "title": "【2026IVL秋季赛】Opening Tease《巅峰常青》",
         "url": "https://www.bilibili.com/video/BV11YJQ6gEqh",
         "desc": "",
-        "rank": 4,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "【2026IVL秋季赛】Opening Tease《巅峰常青》 #2026IVL秋季赛##2026IVL# 岁月不言，巅峰常青。 风霜掠过，荣光续接。 今日14:00请各位访客锁定第五人格赛事各大平台直播间，关注2026IVL秋季赛的精彩对决！",
@@ -187,13 +203,13 @@
         "duration": "2:32",
         "cover": "//i1.hdslb.com/bfs/archive/51e5750a4d96446ac84276f3d65ae8f643e1ccd8.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11YJQ6gEqh&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GR vs DOU5 IVL秋季赛"
+        "hotTitle": "TE vs GG IVL秋季赛"
       },
       {
         "title": "对话《征服》导演高群书：拍犯罪是为了减少犯罪【主创有话说EP20|视频播客】",
         "url": "https://www.bilibili.com/video/BV1KMpU6rEoX",
         "desc": "",
-        "rank": 5,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -204,22 +220,6 @@
         "cover": "//i1.hdslb.com/bfs/archive/720b0819f30505e4be57de36e15bed5a3e2d0fd2.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KMpU6rEoX&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "高群书回应华强买瓜二创宇宙"
-      },
-      {
-        "title": "震惊瘫坐！特斯拉，你来真的啊？",
-        "url": "https://www.bilibili.com/video/BV13tJy6hEaS",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "特斯拉的未来，到底发展到哪一步了？ 这次，作为首批受邀的中国 UP 主之一，走进了特斯拉德州超级工厂。 没有方向盘的汽车、忙碌的机器人，以及依然在工厂里工作的人，让我看到了一个更具体、也更真实的未来。",
-        "content": "特斯拉的未来，到底发展到哪一步了？ 这次，作为首批受邀的中国 UP 主之一，走进了特斯拉德州超级工厂。 没有方向盘的汽车、忙碌的机器人，以及依然在工厂里工作的人，让我看到了一个更具体、也更真实的未来。",
-        "bvid": "BV13tJy6hEaS",
-        "author": "所长Wy",
-        "duration": "8:59",
-        "cover": "//i1.hdslb.com/bfs/archive/4384ed6f3d9f3b74da9deabd71d6a1776bced358.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13tJy6hEaS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主探访特斯拉德州超级工厂"
       },
       {
         "title": "AL最发愁的居然是不会吵架？拷打Tarzan&Shanks的职业秘辛【视频播客 | 元来如此EP.08】",
@@ -238,20 +238,20 @@
         "hotTitle": "管泽元拷问AL中野秘辛"
       },
       {
-        "title": "我造了一块会飞的滑板...",
-        "url": "https://www.bilibili.com/video/BV1KiJk67EQ9",
+        "title": "震惊瘫坐！特斯拉，你来真的啊？",
+        "url": "https://www.bilibili.com/video/BV13tJy6hEaS",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "这次手搓的是一个操控难度有点高，但是超级灵活的个人飞行器—载人飞行滑板！ 掌握之后真的有种御剑飞行的感觉，超级自由。 感谢STEPX对本期视频的赞助支持，StepX Neo真的是一台让人很惊艳的Ai智能体手机。 同时也非常感谢我的家乡 — 湖北巴东县委宣传部以及各相关部门领导对这次拍摄的大力支持。 很高兴能够用自己的方式让大家看到我的家乡！",
-        "content": "这次手搓的是一个操控难度有点高，但是超级灵活的个人飞行器—载人飞行滑板！ 掌握之后真的有种御剑飞行的感觉，超级自由。 感谢STEPX对本期视频的赞助支持，StepX Neo真的是一台让人很惊艳的Ai智能体手机。 同时也非常感谢我的家乡 — 湖北巴东县委宣传部以及各相关部门领导对这次拍摄的大力支持。 很高兴能够用自己的方式让大家看到我的家乡！",
-        "bvid": "BV1KiJk67EQ9",
-        "author": "神奇阿宇Ayu",
-        "duration": "9:58",
-        "cover": "//i0.hdslb.com/bfs/archive/72619f16a4b0703a5aa22c1c0bbcc5b9735f9799.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KiJk67EQ9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主手搓飞行滑板"
+        "description": "特斯拉的未来，到底发展到哪一步了？ 这次，作为首批受邀的中国 UP 主之一，走进了特斯拉德州超级工厂。 没有方向盘的汽车、忙碌的机器人，以及依然在工厂里工作的人，让我看到了一个更具体、也更真实的未来。",
+        "content": "特斯拉的未来，到底发展到哪一步了？ 这次，作为首批受邀的中国 UP 主之一，走进了特斯拉德州超级工厂。 没有方向盘的汽车、忙碌的机器人，以及依然在工厂里工作的人，让我看到了一个更具体、也更真实的未来。",
+        "bvid": "BV13tJy6hEaS",
+        "author": "所长Wy",
+        "duration": "8:59",
+        "cover": "//i1.hdslb.com/bfs/archive/4384ed6f3d9f3b74da9deabd71d6a1776bced358.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13tJy6hEaS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主探访特斯拉德州超级工厂"
       },
       {
         "title": "操 控 买 瓜 2.0",
@@ -270,20 +270,20 @@
         "hotTitle": "操控买瓜2.0"
       },
       {
-        "title": "WE对阵BRO第四局集锦",
-        "url": "https://www.bilibili.com/video/BV1fFJm6jEhU",
+        "title": "美洲赛区强在哪里？",
+        "url": "https://www.bilibili.com/video/BV1M1JD6VED2",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1fFJm6jEhU",
-        "author": "囧王者",
-        "duration": "1:47",
-        "cover": "//i2.hdslb.com/bfs/archive/f7be3fba227140aded8041cf81693999633efa6a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fFJm6jEhU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "WE战胜BRO 德玛西亚杯"
+        "description": "本人浅薄的理解给大家讲讲美洲赛区为何成绩稳定，如有雷同纯属巧合，如有不同意见，当我没说。",
+        "content": "本人浅薄的理解给大家讲讲美洲赛区为何成绩稳定，如有雷同纯属巧合，如有不同意见，当我没说。",
+        "bvid": "BV1M1JD6VED2",
+        "author": "sword9",
+        "duration": "4:37",
+        "cover": "//i0.hdslb.com/bfs/archive/c95abb133eb5531f65978d88f44b6c2c80056299.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1M1JD6VED2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "无畏契约美洲赛区强在哪"
       },
       {
         "title": "《绝区零》菲欧妮角色展示 | 不要死挑战",
@@ -302,26 +302,10 @@
         "hotTitle": "绝区零菲欧妮角色展示"
       },
       {
-        "title": "【梗百科】玉芬啊玉芬！宿命对视是啥梗？",
-        "url": "https://www.bilibili.com/video/BV1djJ96fEVF",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "ai模板已经成为一种常态了，下一个会是什么呢？ CV：伊闪闪 文案：灵念卿 后期：璃玲 & Matsukei 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
-        "content": "ai模板已经成为一种常态了，下一个会是什么呢？ CV：伊闪闪 文案：灵念卿 后期：璃玲 & Matsukei 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
-        "bvid": "BV1djJ96fEVF",
-        "author": "梗百科",
-        "duration": "4:3",
-        "cover": "//i2.hdslb.com/bfs/archive/e60570da2c24daeefecf1e60b9d385684ccaf62c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1djJ96fEVF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "玉芬啊玉芬什么梗"
-      },
-      {
         "title": "【绝区零】菲欧妮综合测评：异常队暴击大C！武器对比+技能解读+驱动盘选择+影画提升！",
         "url": "https://www.bilibili.com/video/BV1PRJD6TEiB",
         "desc": "",
-        "rank": 13,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -334,26 +318,26 @@
         "hotTitle": "绝区零菲欧妮综合测评"
       },
       {
-        "title": "最强修仙宇宙！炼丹、御剑、渡劫、炉鼎，这些修仙设定到底从哪来的？",
-        "url": "https://www.bilibili.com/video/BV1zXJy65Exf",
+        "title": "我造了一块会飞的滑板...",
+        "url": "https://www.bilibili.com/video/BV1KiJk67EQ9",
         "desc": "",
-        "rank": 14,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1zXJy65Exf",
-        "author": "文化遗产搬运委员会",
-        "duration": "28:8",
-        "cover": "//i2.hdslb.com/bfs/archive/0fcfb91a9d695e4dfd3256ffa3dabedc1da1b2b7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zXJy65Exf&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国修仙宇宙设定从何而来"
+        "description": "这次手搓的是一个操控难度有点高，但是超级灵活的个人飞行器—载人飞行滑板！ 掌握之后真的有种御剑飞行的感觉，超级自由。 感谢STEPX对本期视频的赞助支持，StepX Neo真的是一台让人很惊艳的Ai智能体手机。 同时也非常感谢我的家乡 — 湖北巴东县委宣传部以及各相关部门领导对这次拍摄的大力支持。 很高兴能够用自己的方式让大家看到我的家乡！",
+        "content": "这次手搓的是一个操控难度有点高，但是超级灵活的个人飞行器—载人飞行滑板！ 掌握之后真的有种御剑飞行的感觉，超级自由。 感谢STEPX对本期视频的赞助支持，StepX Neo真的是一台让人很惊艳的Ai智能体手机。 同时也非常感谢我的家乡 — 湖北巴东县委宣传部以及各相关部门领导对这次拍摄的大力支持。 很高兴能够用自己的方式让大家看到我的家乡！",
+        "bvid": "BV1KiJk67EQ9",
+        "author": "神奇阿宇Ayu",
+        "duration": "9:58",
+        "cover": "//i0.hdslb.com/bfs/archive/72619f16a4b0703a5aa22c1c0bbcc5b9735f9799.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KiJk67EQ9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主手搓飞行滑板"
       },
       {
         "title": "中朝新鸭绿江大桥，正式开通！",
         "url": "https://www.bilibili.com/video/BV17DJ66FEWD",
         "desc": "",
-        "rank": 15,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "（记者：杨青、刘斌）",
@@ -369,7 +353,7 @@
         "title": "【Team Spirit】关于近期问题的郑重致歉",
         "url": "https://www.bilibili.com/video/BV1byJU6KEGL",
         "desc": "",
-        "rank": 16,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -382,10 +366,42 @@
         "hotTitle": "Spirit就错放地图一事致歉"
       },
       {
+        "title": "⚡️鬼畜者联盟，集合！【宗主豪华版】⚡️",
+        "url": "https://www.bilibili.com/video/BV1ctJC6kEGb",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本来想用配音版的，听了几次还是原版更有感觉",
+        "content": "本来想用配音版的，听了几次还是原版更有感觉",
+        "bvid": "BV1ctJC6kEGb",
+        "author": "Crazy-face",
+        "duration": "3:25",
+        "cover": "//i0.hdslb.com/bfs/archive/5bcbce3f15afb01d6d034d3259c35628ec82a64b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ctJC6kEGb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "鬼畜者联盟豪华版"
+      },
+      {
+        "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+        "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "原创：@张卡斯 ，直达：BV1Bfjq6LEDi 动画：@蒙德砍壬 直达：BV1drpn65ErX 音色参考：ssr大肥鱼音色 ：BV1PPYM6EEUR 模型来源：@ZipZipPipe",
+        "content": "原创：@张卡斯 ，直达：BV1Bfjq6LEDi 动画：@蒙德砍壬 直达：BV1drpn65ErX 音色参考：ssr大肥鱼音色 ：BV1PPYM6EEUR 模型来源：@ZipZipPipe",
+        "bvid": "BV1fYpn6SEk9",
+        "author": "星落落_oi",
+        "duration": "2:15",
+        "cover": "//i2.hdslb.com/bfs/archive/8a8e42303b758c249d6369da3e73ce9eab9d94a7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fYpn6SEk9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "用DeepSeek翻唱人是猫"
+      },
+      {
         "title": "AI消失前的最后一天……",
         "url": "https://www.bilibili.com/video/BV1AyJy6SESw",
         "desc": "",
-        "rank": 17,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "做了十万年……这一天还是到来了…… 求关注求三连QWQ",
@@ -398,36 +414,20 @@
         "hotTitle": "AI消失前的最后一天"
       },
       {
-        "title": "那些没能上高中的“初中校霸”现在怎么样了？【农村青年录】",
-        "url": "https://www.bilibili.com/video/BV1j7Jy6MEfu",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "志涛的父母年岁渐大，又无其他谋生本领。养的羊、种的果树需要人照看，志涛扛起这样的担子当然责无旁贷。于是，他在初中甚至更早，就要去学着放羊，去砍树叶，去砍烟茬根等，去成为家里的一个小壮劳力。一个人可以拥有很多种身份:孩子、学生、青年、公民、打工者等等，但对需要靠体力来维生的山区农村家庭来说，“劳动力”这个身份是要覆盖其他方面的。在经济学的语境里，“劳动力”是一个可计量的生产要素。但在这里，在山区的农村里，劳动力就是家庭、就是生活的全部了。 到这里，我们可以看出来农村青年的又一个共性，即是过早承担家庭的责任",
-        "content": "志涛的父母年岁渐大，又无其他谋生本领。养的羊、种的果树需要人照看，志涛扛起这样的担子当然责无旁贷。于是，他在初中甚至更早，就要去学着放羊，去砍树叶，去砍烟茬根等，去成为家里的一个小壮劳力。一个人可以拥有很多种身份:孩子、学生、青年、公民、打工者等等，但对需要靠体力来维生的山区农村家庭来说，“劳动力”这个身份是要覆盖其他方面的。在经济学的语境里，“劳动力”是一个可计量的生产要素。但在这里，在山区的农村里，劳动力就是家庭、就是生活的全部了。 到这里，我们可以看出来农村青年的又一个共性，即是过早承担家庭的责任",
-        "bvid": "BV1j7Jy6MEfu",
-        "author": "这是个令人疑惑的星球",
-        "duration": "18:17",
-        "cover": "//i0.hdslb.com/bfs/archive/a951a42831806c4ce19f81c6caad5c20f8f4c253.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j7Jy6MEfu&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "那些离校的农村青年现状如何"
-      },
-      {
-        "title": "⚡️鬼畜者联盟，集合！【宗主豪华版】⚡️",
-        "url": "https://www.bilibili.com/video/BV1ctJC6kEGb",
+        "title": "WE对阵BRO第四局集锦",
+        "url": "https://www.bilibili.com/video/BV1fFJm6jEhU",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "本来想用配音版的，听了几次还是原版更有感觉",
-        "content": "本来想用配音版的，听了几次还是原版更有感觉",
-        "bvid": "BV1ctJC6kEGb",
-        "author": "Crazy-face",
-        "duration": "3:25",
-        "cover": "//i0.hdslb.com/bfs/archive/5bcbce3f15afb01d6d034d3259c35628ec82a64b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ctJC6kEGb&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "鬼畜者联盟豪华版"
+        "description": "",
+        "content": "",
+        "bvid": "BV1fFJm6jEhU",
+        "author": "囧王者",
+        "duration": "1:47",
+        "cover": "//i2.hdslb.com/bfs/archive/f7be3fba227140aded8041cf81693999633efa6a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fFJm6jEhU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "WE战胜BRO 德玛西亚杯"
       },
       {
         "title": "大和民族“从来都是吃草的”然而洋大人笑翻了",
@@ -462,10 +462,26 @@
         "hotTitle": "特斯拉Roadster是怎么飞起来的"
       },
       {
+        "title": "最强修仙宇宙！炼丹、御剑、渡劫、炉鼎，这些修仙设定到底从哪来的？",
+        "url": "https://www.bilibili.com/video/BV1zXJy65Exf",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1zXJy65Exf",
+        "author": "文化遗产搬运委员会",
+        "duration": "28:8",
+        "cover": "//i2.hdslb.com/bfs/archive/0fcfb91a9d695e4dfd3256ffa3dabedc1da1b2b7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zXJy65Exf&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国修仙宇宙设定从何而来"
+      },
+      {
         "title": "AI为何开始欺骗人类｜OpenAI智能体失控事件",
         "url": "https://www.bilibili.com/video/BV1WqpS66E7w",
         "desc": "",
-        "rank": 22,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "700个AI智能体秘密结盟，刚联手攻击了人类系统：Hugging Face（抱抱脸）。AI为何开始欺骗人类？",
@@ -478,52 +494,36 @@
         "hotTitle": "AI为何会欺骗人类"
       },
       {
-        "title": "【无限王者团】新歌PV《昼夜狂想》",
-        "url": "https://www.bilibili.com/video/BV1BUJQ6FEeZ",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这是一场关于危险引力的狂想。 白昼的温柔翻转为暗夜的狂热，五种截然不同的心绪，也在光影交错间显露出同一份爱意的另一面—— 守护誓约的人，正与黑夜交换最危险的契约； 遵循理性的人，在断弦的一刻迎来全盘失算； 坚定守护的人，在影子落下的瞬间流露脆弱； 向往自由的人，也许伸出双手甘愿被束缚； 热忱燃烧的人，为了真心燃烧得愈发剧烈。 当爱意越过界限，当渴望灼烧理智，从云端坠落变成一种主动的选择—— 这次他们将用尽全力飞奔向你，绝不抗拒。 @无限王者团Official 新歌《Devilish》现已上线，",
-        "content": "这是一场关于危险引力的狂想。 白昼的温柔翻转为暗夜的狂热，五种截然不同的心绪，也在光影交错间显露出同一份爱意的另一面—— 守护誓约的人，正与黑夜交换最危险的契约； 遵循理性的人，在断弦的一刻迎来全盘失算； 坚定守护的人，在影子落下的瞬间流露脆弱； 向往自由的人，也许伸出双手甘愿被束缚； 热忱燃烧的人，为了真心燃烧得愈发剧烈。 当爱意越过界限，当渴望灼烧理智，从云端坠落变成一种主动的选择—— 这次他们将用尽全力飞奔向你，绝不抗拒。 @无限王者团Official 新歌《Devilish》现已上线，",
-        "bvid": "BV1BUJQ6FEeZ",
-        "author": "王者荣耀",
-        "duration": "2:23",
-        "cover": "//i2.hdslb.com/bfs/archive/0a8c0c88292ee19c07577a45877c2bf3e8af3606.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BUJQ6FEeZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "无限王者团新歌PV昼夜狂想"
-      },
-      {
-        "title": "今日信息汇总，KRL爆料m0NESY续约薪资，Spirit就俱乐部频道视频内容严重错误发布道歉视频。",
-        "url": "https://www.bilibili.com/video/BV1ZuJQ6dEtD",
+        "title": "特斯拉Roadster会飞！发布会超全总结来了！",
+        "url": "https://www.bilibili.com/video/BV1j9JQ6oEeE",
         "desc": "",
         "rank": 24,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ZuJQ6dEtD",
-        "author": "每日CS2",
-        "duration": "1:37",
-        "cover": "//i1.hdslb.com/bfs/archive/d67a76bd5431db954803016e925a894baba6b5b5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZuJQ6dEtD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "KRL爆料m0NESY续约薪资"
+        "description": "特斯拉Roadster会飞！发布会超全总结来了！",
+        "content": "特斯拉Roadster会飞！发布会超全总结来了！",
+        "bvid": "BV1j9JQ6oEeE",
+        "author": "天上一颗大星星",
+        "duration": "1:52",
+        "cover": "//i0.hdslb.com/bfs/archive/63a193737979d3e8e0b42f516cc4c031d8066c26.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j9JQ6oEeE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "特斯拉Roadster发布会总结"
       },
       {
-        "title": "案件还原，转发提醒！让爸妈远离“扫码免费领”的信息陷阱！",
-        "url": "https://www.bilibili.com/video/BV19JJ96oEFW",
+        "title": "【梗百科】玉芬啊玉芬！宿命对视是啥梗？",
+        "url": "https://www.bilibili.com/video/BV1djJ96fEVF",
         "desc": "",
         "rank": 25,
         "kind": "video",
         "platform": "bilibili",
-        "description": "转发家族群，让爸妈远离“扫码免费领”的信息陷阱！免费的东西最贵！你扫码领的“福利”，可能正在卖掉你的信息。 记者：黄伟 视频来源：重庆市委网信办",
-        "content": "转发家族群，让爸妈远离“扫码免费领”的信息陷阱！免费的东西最贵！你扫码领的“福利”，可能正在卖掉你的信息。 记者：黄伟 视频来源：重庆市委网信办",
-        "bvid": "BV19JJ96oEFW",
-        "author": "新华社",
-        "duration": "3:38",
-        "cover": "//i0.hdslb.com/bfs/archive/9170bddfc67214de1e699c829bb4529d60dfbe69.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19JJ96oEFW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "真人演绎扫码免费领陷阱"
+        "description": "ai模板已经成为一种常态了，下一个会是什么呢？ CV：伊闪闪 文案：灵念卿 后期：璃玲 & Matsukei 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
+        "content": "ai模板已经成为一种常态了，下一个会是什么呢？ CV：伊闪闪 文案：灵念卿 后期：璃玲 & Matsukei 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
+        "bvid": "BV1djJ96fEVF",
+        "author": "梗百科",
+        "duration": "4:3",
+        "cover": "//i2.hdslb.com/bfs/archive/e60570da2c24daeefecf1e60b9d385684ccaf62c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1djJ96fEVF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "玉芬啊玉芬什么梗"
       },
       {
         "title": "拳打KTV，脚踢足疗店，网吧为啥复兴了？【阿Test正经比比】",
@@ -542,58 +542,42 @@
         "hotTitle": "网吧又迎来复兴了吗"
       },
       {
-        "title": "特斯拉Roadster会飞！发布会超全总结来了！",
-        "url": "https://www.bilibili.com/video/BV1j9JQ6oEeE",
+        "title": "今日信息汇总，KRL爆料m0NESY续约薪资，Spirit就俱乐部频道视频内容严重错误发布道歉视频。",
+        "url": "https://www.bilibili.com/video/BV1ZuJQ6dEtD",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "特斯拉Roadster会飞！发布会超全总结来了！",
-        "content": "特斯拉Roadster会飞！发布会超全总结来了！",
-        "bvid": "BV1j9JQ6oEeE",
-        "author": "天上一颗大星星",
-        "duration": "1:52",
-        "cover": "//i0.hdslb.com/bfs/archive/63a193737979d3e8e0b42f516cc4c031d8066c26.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j9JQ6oEeE&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "特斯拉Roadster发布会总结"
+        "description": "",
+        "content": "",
+        "bvid": "BV1ZuJQ6dEtD",
+        "author": "每日CS2",
+        "duration": "1:37",
+        "cover": "//i1.hdslb.com/bfs/archive/d67a76bd5431db954803016e925a894baba6b5b5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZuJQ6dEtD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "KRL爆料m0NESY续约薪资"
       },
       {
-        "title": "两分钟发布会 特斯拉飞行汽车发布！马斯克能飞 28年量产 Tesla Roadster",
-        "url": "https://www.bilibili.com/video/BV1S4JQ65Exj",
+        "title": "【RAY评】锐评近期各大热门二游歌曲！",
+        "url": "https://www.bilibili.com/video/BV1fdJy63Eaf",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "两分钟发布会 特斯拉飞行汽车发布！马斯克能飞 28年量产 Tesla Roadster",
-        "content": "两分钟发布会 特斯拉飞行汽车发布！马斯克能飞 28年量产 Tesla Roadster",
-        "bvid": "BV1S4JQ65Exj",
-        "author": "科技美学",
-        "duration": "4:11",
-        "cover": "//i0.hdslb.com/bfs/archive/4e03735a3d81b3e0fe642a98b7bca764b889d667.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1S4JQ65Exj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "特斯拉Roadster量产时间"
-      },
-      {
-        "title": "本质5:0！LCK上单短板！深度解析WE战胜BRO挺进德杯决赛！",
-        "url": "https://www.bilibili.com/video/BV1BUJQ6FEVB",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1BUJQ6FEVB",
-        "author": "分析师蓝宝石",
-        "duration": "14:56",
-        "cover": "//i0.hdslb.com/bfs/archive/922347eab116b2ba44039d2545f5fc84d83f27ce.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BUJQ6FEVB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "深度解析WE战胜BRO"
+        "bvid": "BV1fdJy63Eaf",
+        "author": "阿张RayZhang",
+        "duration": "26:29",
+        "cover": "//i2.hdslb.com/bfs/archive/5596bc0e4a6d5ffd8c095b1d0224af5d5f3af829.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fdJy63Eaf&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "RAY评热门二游歌曲"
       },
       {
         "title": "热烈欢迎袁咏仪！超级爱买的靓靓姐最近又乱买了什么呢？（恭喜靓靓终于演上警察了👏",
         "url": "https://www.bilibili.com/video/BV1Mopr6REu3",
         "desc": "",
-        "rank": 30,
+        "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "加更在@papi热烈欢迎",
@@ -604,6 +588,22 @@
         "cover": "//i2.hdslb.com/bfs/archive/6fa9f96ccc6c74a1ab186c4cfacbaf679aee1935.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Mopr6REu3&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "papi酱热烈欢迎袁咏仪"
+      },
+      {
+        "title": "那些没能上高中的“初中校霸”现在怎么样了？【农村青年录】",
+        "url": "https://www.bilibili.com/video/BV1j7Jy6MEfu",
+        "desc": "",
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "志涛的父母年岁渐大，又无其他谋生本领。养的羊、种的果树需要人照看，志涛扛起这样的担子当然责无旁贷。于是，他在初中甚至更早，就要去学着放羊，去砍树叶，去砍烟茬根等，去成为家里的一个小壮劳力。一个人可以拥有很多种身份:孩子、学生、青年、公民、打工者等等，但对需要靠体力来维生的山区农村家庭来说，“劳动力”这个身份是要覆盖其他方面的。在经济学的语境里，“劳动力”是一个可计量的生产要素。但在这里，在山区的农村里，劳动力就是家庭、就是生活的全部了。 到这里，我们可以看出来农村青年的又一个共性，即是过早承担家庭的责任",
+        "content": "志涛的父母年岁渐大，又无其他谋生本领。养的羊、种的果树需要人照看，志涛扛起这样的担子当然责无旁贷。于是，他在初中甚至更早，就要去学着放羊，去砍树叶，去砍烟茬根等，去成为家里的一个小壮劳力。一个人可以拥有很多种身份:孩子、学生、青年、公民、打工者等等，但对需要靠体力来维生的山区农村家庭来说，“劳动力”这个身份是要覆盖其他方面的。在经济学的语境里，“劳动力”是一个可计量的生产要素。但在这里，在山区的农村里，劳动力就是家庭、就是生活的全部了。 到这里，我们可以看出来农村青年的又一个共性，即是过早承担家庭的责任",
+        "bvid": "BV1j7Jy6MEfu",
+        "author": "这是个令人疑惑的星球",
+        "duration": "18:17",
+        "cover": "//i0.hdslb.com/bfs/archive/a951a42831806c4ce19f81c6caad5c20f8f4c253.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j7Jy6MEfu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "那些离校的农村青年现状如何"
       }
     ],
     "qbitai": [
@@ -950,6 +950,46 @@
         "rank": 4
       },
       {
+        "title": "晶科能源：前三季度预亏29.76亿元—35.76亿元",
+        "url": "https://m.36kr.com/newsflashes/4028317928837763",
+        "desc": "36氪获悉，晶科能源公告，预计2026年前三季度实现归属于母公司所有者的净利润为亏损29.76亿元至35.76亿元，公司上年同期净亏损39.2亿元。",
+        "cover": "",
+        "date": 1792141014211,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "昆仑万维创始人周亚辉署名Matrix-Game 4.0技术报告",
+        "url": "https://m.36kr.com/newsflashes/4028315966526080",
+        "desc": "10月16日消息，昆仑万维昨日正式发布视频生成游戏模型Matrix-Game 4.0，并同步开源项目代码模型权重，今日发布技术报告。昆仑万维创始人周亚辉亲自参与了Matrix Game4.0 游戏大模型的研发。据介绍，Matrix-Game 4.0采用游戏引擎与视频生成模型协同运行的技术架构，在单张NVIDIA RTX 5090消费级显卡上，即可实现480p分辨率、60 FPS的实时游戏体验，玩家操作至画面响应的端到端延迟低于150毫秒。目前，Matrix-Game 4.0已在GitHub、Hugging Face等平台开放相关资源。",
+        "cover": "",
+        "date": 1792140894441,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "私募管理人今年以来平均收益率超6%，六成以上实现正收益",
+        "url": "https://m.36kr.com/newsflashes/4028315013452166",
+        "desc": "当前行情下，私募管理人今年以来整体依然表现出色。私募排排网数据显示，截至2026年9月30日，有业绩展示的1924家私募管理人，今年以来平均收益率为6.06%，其中1216家管理人实现正收益，占比为63.2%。（证券时报）",
+        "cover": "",
+        "date": 1792140836270,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "理想汽车芯片子公司完成首轮16.25亿元融资协议，最大投后估值171亿元",
+        "url": "https://m.36kr.com/newsflashes/4028311795520134",
+        "desc": "36氪获悉，理想汽车宣布，旗下芯片子公司上海马赫心科技有限公司签署首轮股权融资协议，融资金额为16.25亿元人民币。本轮融资由杭州经韬、蓝驰创投及华业天成领投，奇绩创坛参与投资。同时，杭州经韬及其关联基金获授最高5亿元人民币的追加认购权，若该认购权悉数行使，投后估值达171亿元。",
+        "cover": "",
+        "date": 1792140639863,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
         "title": "常山药业：依诺肝素钠注射液获得蒙古国药品注册证书",
         "url": "https://m.36kr.com/newsflashes/4028298286994054",
         "desc": "36氪获悉，常山药业公告，公司药品依诺肝素钠注射液获得蒙古国药品监督管理部门签发的药品注册证书。",
@@ -957,7 +997,7 @@
         "date": 1792139815368,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "百亿私募扩容至159家",
@@ -967,7 +1007,7 @@
         "date": 1792139631062,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "起售价近90万人民币，极氪9X法国首批200台被抢订",
@@ -977,7 +1017,7 @@
         "date": 1792139461078,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "贝达药业：BPI-572270胶囊药品联用临床试验申请获得受理",
@@ -987,7 +1027,7 @@
         "date": 1792139383610,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "卓胜微：董事长提议5000万元—1亿元回购公司股份",
@@ -997,7 +1037,7 @@
         "date": 1792139198873,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "泰恩康：收到聚多卡醇注射液药品注册证书",
@@ -1007,7 +1047,7 @@
         "date": 1792139078972,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "亚马逊限制Grok机器人下单，马斯克：或创办购物平台",
@@ -1017,7 +1057,7 @@
         "date": 1792138892740,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "海康威视：前三季度净利润129.11亿元，同比增长38.55%",
@@ -1027,7 +1067,7 @@
         "date": 1792138591038,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "商务部：有关措施正式实施后，绝大部分人工智能技术仍可以自由出口",
@@ -1037,7 +1077,7 @@
         "date": 1792138442511,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "恒指收涨0.52%，恒生科技指数涨1.16%",
@@ -1047,7 +1087,7 @@
         "date": 1792138306459,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "英伟达与梅赛德斯-奔驰扩大合作，共推下一代自动驾驶系统",
@@ -1057,7 +1097,7 @@
         "date": 1792138006116,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "商务部、科技部拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术。",
@@ -1067,7 +1107,7 @@
         "date": 1792137888954,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "中国稀土：前三季度净利润同比预增88.96%-140.99%",
@@ -1077,7 +1117,7 @@
         "date": 1792137157963,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "上交所副总经理苑多然：新兴产业和未来产业占科创板近一年IPO新增申报企业近9成",
@@ -1087,7 +1127,7 @@
         "date": 1792137059489,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 22
       },
       {
         "title": "中控技术接入千问办公",
@@ -1097,7 +1137,7 @@
         "date": 1792137002817,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 23
       },
       {
         "title": "上交所副总经理苑多然：上交所基金今年前9个月成交额65.4万亿元",
@@ -1107,55 +1147,15 @@
         "date": 1792136732660,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "上交所副总经理苑多然：各类境外投资者持有A股流通市值超4万亿元",
-        "url": "https://m.36kr.com/newsflashes/4028246785560960",
-        "desc": "10月16日，上交所副总经理苑多然在全球财富管理论坛·2026上海苏河湾大会上表示，目前，各类境外投资者持有A股流通市值超4万亿元，成为资本市场的重要参与者。（证券时报）",
-        "cover": "",
-        "date": 1792136671970,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "中证协拟搭建专业智库，加大绿色金融ESG管理、跨境服务研发投入",
-        "url": "https://m.36kr.com/newsflashes/4028245714440584",
-        "desc": "中证协已起草形成《关于进一步深化证券行业文化建设工作的意见》，正向券商征意中。新规拟要求搭建专业智库与前瞻性研究成果转化机制，设立专项研究课题，加大绿色金融、ESG管理、跨境综合服务等前沿领域研发投入，促进研究成果高效赋能业务与产品创新；并建立专业能力分层培育体系，围绕投行定价、深度研究、资产配置等核心能力，构建适配新形势新监管要求的精准培训体系，形成与时俱进的专业人才培养与能力评价标准，推动专业文化理念在行业层面沉淀为可复用的能力资产。（财联社）",
-        "cover": "",
-        "date": 1792136606594,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "中证协拟健全不实信息快速澄清机制",
-        "url": "https://m.36kr.com/newsflashes/4028244885082500",
-        "desc": "中证协已起草形成《关于进一步深化证券行业文化建设工作的意见》，正向券商征意中。新规拟提出常态化推进行业舆情正面宣传引导，系统讲好资本市场高质量发展故事。文件提出构建分众化、全媒体传播矩阵，面向不同受众推送差异化内容，宏观与微观叙事相结合，广泛传播行业及公司价值理念；完善预期引导与舆情管理机制，建立首席经济学家等智库常态化发声渠道，在重大政策出台、市场波动加大、热点事件发酵时，及时准确解读政策、回应市场关切；提出策划推出兼具思想性与传播力的文化精品，生动传递专业价值，稳步提升行业社会美誉度与公众认可度。（财联社）",
-        "cover": "",
-        "date": 1792136555974,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "IMF预计日本央行将再加息一次，后续路径需保持灵活",
-        "url": "https://m.36kr.com/newsflashes/4028240327611009",
-        "desc": "国际货币基金组织（IMF）预计日本央行将再加息一次，使政策利率向中性利率靠拢，同时强调，面对全球不确定性升高，后续行动需要保持灵活。IMF驻日本代表团团长Rahul Anand周五接受采访时表示：“按照我们的基准情景，预计日本央行还将加息一次，使政策利率达到中性水平。”（财联社）",
-        "cover": "",
-        "date": 1792136277808,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792140094958,
-    "bilibili": 1792139038134,
-    "qbitai": 1792136506166,
-    "36kr": 1792136506901
+    "thepaper": 1792140990027,
+    "bilibili": 1792140119209,
+    "qbitai": 1792137397489,
+    "36kr": 1792137398270
   },
   "failures": {}
 }
