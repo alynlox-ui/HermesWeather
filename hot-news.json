@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T05:56:30Z",
+  "updatedAt": "2026-10-16T06:11:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+        "url": "https://www.qbitai.com/2026/10/503815.html",
+        "desc": "经验没有压缩算法",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/9378f026bf039e090739307899213dc5.webp",
+        "date": "2026-10-16T15:01:31",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
         "url": "https://www.qbitai.com/2026/10/503782.html",
         "desc": "9.8万元起售，冲刺万台量产",
@@ -615,7 +625,7 @@
         "date": "2026-10-16T14:17:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
@@ -625,7 +635,7 @@
         "date": "2026-10-16T14:07:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
@@ -635,7 +645,7 @@
         "date": "2026-10-16T13:47:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
@@ -645,7 +655,7 @@
         "date": "2026-10-16T13:04:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "GPT证千禧年难题成果大反转！OpenAI自己没看懂就发…",
@@ -655,7 +665,7 @@
         "date": "2026-10-16T13:00:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "AI进入企业的最后一公里，怎么这么难啊啊啊！",
@@ -665,7 +675,7 @@
         "date": "2026-10-16T11:33:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
@@ -675,7 +685,7 @@
         "date": "2026-10-15T18:07:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
@@ -685,7 +695,7 @@
         "date": "2026-10-15T17:43:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
@@ -695,7 +705,7 @@
         "date": "2026-10-15T16:48:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
@@ -705,7 +715,7 @@
         "date": "2026-10-15T16:16:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "这个双十一，百灵新模型干起活来不烧心",
@@ -715,7 +725,7 @@
         "date": "2026-10-15T15:35:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "AI时代，商学院这样培养未来商业领袖",
@@ -725,7 +735,7 @@
         "date": "2026-10-15T15:22:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
@@ -735,7 +745,7 @@
         "date": "2026-10-15T14:59:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "苹果AI国内上线，阿里百度浮出水面",
@@ -745,7 +755,7 @@
         "date": "2026-10-15T14:52:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
@@ -755,7 +765,7 @@
         "date": "2026-10-15T14:35:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "刚刚，苹果正式迈入5万亿美元时代",
@@ -765,7 +775,7 @@
         "date": "2026-10-15T13:36:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "全球首款 ！中国团队把游戏世界模型塞进一张5090，还开源了",
@@ -775,7 +785,7 @@
         "date": "2026-10-15T11:50:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？",
@@ -785,7 +795,7 @@
         "date": "2026-10-15T11:01:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "有预言家！A社研究蓝图曝光，Claude Code来自5年前",
@@ -795,7 +805,7 @@
         "date": "2026-10-15T10:13:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "DeepSeek服务器全球宕机！神秘Harness账号同时现身",
@@ -805,7 +815,7 @@
         "date": "2026-10-15T10:04:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
@@ -815,7 +825,7 @@
         "date": "2026-10-15T09:56:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
@@ -825,7 +835,7 @@
         "date": "2026-10-14T18:41:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
@@ -835,7 +845,7 @@
         "date": "2026-10-14T16:01:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
@@ -845,7 +855,7 @@
         "date": "2026-10-14T15:12:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
@@ -855,7 +865,7 @@
         "date": "2026-10-14T15:03:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
@@ -865,7 +875,7 @@
         "date": "2026-10-14T14:45:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
@@ -875,7 +885,7 @@
         "date": "2026-10-14T14:24:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
@@ -885,7 +895,7 @@
         "date": "2026-10-14T12:51:32",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
@@ -893,16 +903,6 @@
         "desc": "从“懂空间”到“能干活”",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/e689bd709beef0200832c8633dbca3be.jpeg",
         "date": "2026-10-14T12:09:29",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-        "url": "https://www.qbitai.com/2026/10/503165.html",
-        "desc": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/d1a31ac10b6da805f34d746e2d4d7d8f.png",
-        "date": "2026-10-14T11:32:48",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -950,6 +950,26 @@
         "rank": 4
       },
       {
+        "title": "A股三大指数收盘涨跌不一，航天军工板块走强",
+        "url": "https://m.36kr.com/newsflashes/4028204762255748",
+        "desc": "36氪获悉，A股三大指数收盘涨跌不一，沪指涨0.24%，深成指跌0.12%，创业板指跌0.39%；化纤、航天军工、汽车零部件板块领涨，吉林化纤、司南导航、均胜电子涨停，广联航空涨超13%；生物科技、文化传媒、海运板块下挫，百花医药、欢瑞世纪跌超8%，药明康德跌超6%，招商轮船跌超5%。",
+        "cover": "",
+        "date": 1792134107071,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "文化和旅游部发布“人工智能+文化和旅游”应用试点立项名单",
+        "url": "https://m.36kr.com/newsflashes/4028200849887622",
+        "desc": "为加快推进人工智能技术在文化和旅游领域深化应用，文化和旅游部办公厅于2026年10月16日发布通知，正式公布“人工智能+文化和旅游”应用试点立项名单，最终确定14个应用试点项目。（央视新闻）",
+        "cover": "",
+        "date": 1792133868279,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "宁德时代等入股伏曦量子科技公司",
         "url": "https://m.36kr.com/newsflashes/4028185557225857",
         "desc": "36氪获悉，天眼查App显示，近日，上海伏曦量子科技有限公司发生工商变更，该公司新增宁德时代旗下宁波梅山保税港区问鼎投资有限公司、共青城慕华启智创业投资合伙企业（有限合伙）等为股东，同时，注册资本由100万人民币增至约125.4万人民币。该公司成立于2026年4月，法定代表人为赵琦，经营范围包括量子计算技术服务、软件开发、人工智能应用软件开发、网络与信息安全软件开发、信息系统集成服务、数据处理服务等，现由赵琦、上海楔石启明企业管理合伙企业（有限合伙）及上述新增股东等共同持股。",
@@ -957,7 +977,7 @@
         "date": 1792132934889,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "日本央行行长：将继续根据经济和物价情况加息",
@@ -967,7 +987,7 @@
         "date": 1792132900849,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "创业板指尾盘跌超1%",
@@ -977,7 +997,7 @@
         "date": 1792132813579,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "三部门：完全市场型养老机构收费实行市场调节价",
@@ -987,7 +1007,7 @@
         "date": 1792132740282,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "万华化学在菏泽成立新能源材料公司，注册资本4.8亿元",
@@ -997,7 +1017,7 @@
         "date": 1792132568000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "三部门：区分养老机构类型和服务类型，分别实行不同的收费管理方式",
@@ -1007,7 +1027,7 @@
         "date": 1792132551617,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "科创板ETF持续扩容，总规模达3516亿元",
@@ -1017,7 +1037,7 @@
         "date": 1792132359300,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "阿里云：因产品策略调整，虚拟数字人启动退市",
@@ -1027,7 +1047,7 @@
         "date": 1792131862539,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "深圳：加大对现房销售项目和安全、舒适、绿色、智慧“好房子”项目的开发贷款支持力度",
@@ -1037,7 +1057,7 @@
         "date": 1792131675304,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "蚂蚁旗下上海灵波科技公司增资至2亿，增幅约67%",
@@ -1047,7 +1067,7 @@
         "date": 1792131439061,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "今年1月至9月我国发布国家标准外文版620项",
@@ -1057,7 +1077,7 @@
         "date": 1792131167444,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "飞猪：双11开售4小时，超200个商家成交额翻倍",
@@ -1067,7 +1087,7 @@
         "date": 1792130975299,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "A股三大指数集体翻绿",
@@ -1077,7 +1097,7 @@
         "date": 1792130842396,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "创业板指午后再度翻绿",
@@ -1087,7 +1107,7 @@
         "date": 1792130438093,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "上海：支持国际数据中心建设，支撑算力服务产业及相关跨境数字服务",
@@ -1097,7 +1117,7 @@
         "date": 1792130302923,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "上海：指导企业通过备案流程使用负面清单开展数据出境活动",
@@ -1107,7 +1127,7 @@
         "date": 1792130280028,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "优必选在绍兴成立新科技公司，注册资本5000万",
@@ -1117,7 +1137,7 @@
         "date": 1792130077800,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "京东采销：今年大促京东将打通全品类，推出“多买多返”等让利活动",
@@ -1127,35 +1147,15 @@
         "date": 1792129213382,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "长江通信：低轨卫星通信是公司重点开拓的新行业之一",
-        "url": "https://m.36kr.com/newsflashes/4028104483984002",
-        "desc": "长江通信在2026年半年度业绩说明会上表示，低轨卫星通信是公司重点开拓的新行业之一。未来，公司将持续关注市场动态和行业发展趋势，基于现有通信与指挥核心技术，继续围绕低轨卫星市场需求加大产品研发力度，不断丰富产品序列、提升服务能力，提高公司的核心竞争力。（证券时报）",
-        "cover": "",
-        "date": 1792127986571,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "沪深两市成交额突破1万亿元",
-        "url": "https://m.36kr.com/newsflashes/4028096057971334",
-        "desc": "36氪获悉，沪深两市成交额突破1万亿元。",
-        "cover": "",
-        "date": 1792127472288,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792133794061,
-    "bilibili": 1792133798870,
-    "qbitai": 1792130189631,
-    "36kr": 1792130190145
+    "thepaper": 1792134690321,
+    "bilibili": 1792133736228,
+    "qbitai": 1792131094323,
+    "36kr": 1792131094723
   },
   "failures": {}
 }
