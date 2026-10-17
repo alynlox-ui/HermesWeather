@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:41:27Z",
+  "updatedAt": "2026-10-17T13:56:26Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "【年度总决赛二路解说合集】10月17日 北京WB vs 济南RW侠",
-        "url": "https://www.bilibili.com/video/BV1mHJi6YEfv",
+        "title": "【2026KPL年度总决赛】10月17日 北京WB VS 济南RW侠",
+        "url": "https://www.bilibili.com/video/BV1b7Ji6KEhA",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1mHJi6YEfv",
-        "author": "kpl二路",
-        "duration": "1153:43",
-        "cover": "//i1.hdslb.com/bfs/archive/35770a82e19dc33d6472bc83ed208e9872e93198.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mHJi6YEfv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026KPL年度总决赛】10月17日 北京WB VS 济南RW侠",
+        "content": "【2026KPL年度总决赛】10月17日 北京WB VS 济南RW侠",
+        "bvid": "BV1b7Ji6KEhA",
+        "author": "哔哩哔哩王者荣耀赛事",
+        "duration": "125:27",
+        "cover": "//i2.hdslb.com/bfs/archive/e17fbabc14b07ae6a8f1f35343983cc33c19b7d9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1b7Ji6KEhA&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "北京WB战胜济南RW侠 KPL"
       },
       {
@@ -1162,10 +1162,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792248066137,
-    "bilibili": 1792248072110,
-    "qbitai": 1792219286510,
-    "36kr": 1792219287015
+    "thepaper": 1792249070568,
+    "bilibili": 1792247581558,
+    "qbitai": 1792245386023,
+    "36kr": 1792245386431
   },
   "failures": {}
 }
