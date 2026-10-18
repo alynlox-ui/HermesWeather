@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T14:56:26Z",
+  "updatedAt": "2026-10-18T15:11:26Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -136,7 +136,7 @@
         "content": "-",
         "bvid": "BV1HAn56FEz5",
         "author": "kpl二路",
-        "duration": "696:27",
+        "duration": "1480:17",
         "cover": "//i0.hdslb.com/bfs/archive/ffc793473cb8ce9191cb36da536669c4898b51c8.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HAn56FEz5&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "北京JDG战胜长沙TES.A KPL"
@@ -1162,10 +1162,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792335367497,
-    "bilibili": 1792335371853,
-    "qbitai": 1792335386135,
-    "36kr": 1792335386666
+    "thepaper": 1792336266398,
+    "bilibili": 1792335318254,
+    "qbitai": 1792336285680,
+    "36kr": 1792336286160
   },
   "failures": {}
 }
