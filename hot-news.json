@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T12:56:57Z",
+  "updatedAt": "2026-10-18T13:11:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "10月17日德比斯总积分排名第二，制造商张雪机车排名第三",
-        "url": "https://www.bilibili.com/video/BV1W2Jv64EyN",
+        "title": "10月18号德比斯年度亚军，总积分第二，制造商张雪机车年度季军",
+        "url": "https://www.bilibili.com/video/BV16An56FEQm",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1W2Jv64EyN",
+        "bvid": "BV16An56FEQm",
         "author": "张雪机车极致热爱",
-        "duration": "1:54",
-        "cover": "//i2.hdslb.com/bfs/archive/24402b16606d04ab690b05adf0e8ae6d74096fc5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1W2Jv64EyN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "1:25",
+        "cover": "//i2.hdslb.com/bfs/archive/d798263bba1647de45b1a0276f914e7f92d55965.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16An56FEQm&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "张雪机车获制造商年度第三"
       },
       {
@@ -1162,10 +1162,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792328194420,
-    "bilibili": 1792328202319,
-    "qbitai": 1792328216674,
-    "36kr": 1792328217148
+    "thepaper": 1792329066043,
+    "bilibili": 1792328107971,
+    "qbitai": 1792329091581,
+    "36kr": 1792329092039
   },
   "failures": {}
 }
