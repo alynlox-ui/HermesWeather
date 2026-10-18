@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-10-18T10:26:30Z",
+  "updatedAt": "2026-10-18T10:41:37Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
-        "title": "观察丨“战犯神社”的“和平包装”骗不了世界",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34271196",
-        "desc": "",
-        "rank": 1
-      },
-      {
         "title": "安徽灵璧县滨河大桥更名虞美人桥6年后桥身标识仍未换，县城管局回应",
         "url": "https://www.thepaper.cn/newsDetail_forward_34271301",
         "desc": "",
-        "rank": 2
+        "rank": 1
       },
       {
         "title": "我驻日使馆：中方强烈谴责日方涉靖国神社消极动向",
         "url": "https://www.thepaper.cn/newsDetail_forward_34271937",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "涉嫌严重职务违法，广西壮族自治区政协原副主席黄日波被查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34273711",
         "desc": "",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "扇开第一声，是上海的声音",
         "url": "https://www.thepaper.cn/newsDetail_forward_34272559",
         "desc": "",
-        "rank": 5
+        "rank": 4
       },
       {
         "title": "经济高压下的韩国择偶新图景：韩日情侣渐多、海力士马甲成相亲“战袍”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34269747",
+        "desc": "",
+        "rank": 5
+      },
+      {
+        "title": "演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34274620",
         "desc": "",
         "rank": 6
       },
@@ -46,20 +46,20 @@
         "rank": 7
       },
       {
-        "title": "贵州兴义一辆轿车掉入沟中，救援队吊车作业时车辆掉落致轿车司机身亡",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34273258",
+        "title": "“林诗栋妈妈的餐馆被拿排骨数量审判”上热搜，林诗栋舅舅：餐馆从未卖过排骨面",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34274809",
         "desc": "",
         "rank": 8
       },
       {
-        "title": "《早春晴朗》三周稳居Netflix榜二，天通苑合租屋的故事为什么被海外接受和喜爱？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34271921",
+        "title": "贵州兴义一辆轿车掉入沟中，救援队吊车作业时车辆掉落致轿车司机身亡",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34273258",
         "desc": "",
         "rank": 9
       },
       {
-        "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34271084",
+        "title": "《早春晴朗》三周稳居Netflix榜二，天通苑合租屋的故事为什么被海外接受和喜爱？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34271921",
         "desc": "",
         "rank": 10
       },
@@ -70,75 +70,75 @@
         "rank": 11
       },
       {
-        "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34268856",
-        "desc": "",
-        "rank": 12
-      },
-      {
         "title": "中外名家大师点亮开幕之夜，“中国扇”在黄浦江边开扇",
         "url": "https://www.thepaper.cn/newsDetail_forward_34271646",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "观察｜人工智能时代，如何合力应对反恐新挑战？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34268546",
         "desc": "",
-        "rank": 14
-      },
-      {
-        "title": "全球歌剧院掌门人汇聚申城，为上海大歌剧院开幕“高峰对话”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34270804",
-        "desc": "",
-        "rank": 15
+        "rank": 13
       },
       {
         "title": "大麦网：王某某编造“25万出肖战第一排”谣言，职能部门正处理",
         "url": "https://www.thepaper.cn/newsDetail_forward_34273574",
         "desc": "",
-        "rank": 16
-      },
-      {
-        "title": "青海：打击非法穿越三江源国家公园行为",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34272071",
-        "desc": "",
-        "rank": 17
+        "rank": 14
       },
       {
         "title": "一路丰碑｜皎平渡口夜，见证依靠人民力量",
         "url": "https://www.thepaper.cn/newsDetail_forward_34224669",
         "desc": "",
-        "rank": 18
+        "rank": 15
+      },
+      {
+        "title": "青海：打击非法穿越三江源国家公园行为",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34272071",
+        "desc": "",
+        "rank": 16
       },
       {
         "title": "生态环境部发布10月下半月全国空气质量预报会商结果：以优良为主",
         "url": "https://www.thepaper.cn/newsDetail_forward_34273369",
         "desc": "",
-        "rank": 19
+        "rank": 17
       },
       {
         "title": "穿越时空看长征·多维视野｜吴海勇：二万五千里长征促成毛泽东持久战思想的跃进",
         "url": "https://www.thepaper.cn/newsDetail_forward_34204676",
+        "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "Swisse斯维诗抗糖丸被检出铅超标，官方客服：相关批次未进入中国销售",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34274427",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "央媒：风险动荡加剧、经济承压前行，全球面临新的“增长之问”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34272798",
         "desc": "",
         "rank": 20
       }
     ],
     "bilibili": [
       {
-        "title": "玄edgm和ksg",
-        "url": "https://www.bilibili.com/video/BV12Wng6FEzU",
+        "title": "【2026KPL年度总决赛】10月18日 KSG VS 上海EDG.M",
+        "url": "https://www.bilibili.com/video/BV1FFnG6sEbF",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV12Wng6FEzU",
-        "author": "咸蛋黄gulu",
-        "duration": "2:34",
-        "cover": "//i1.hdslb.com/bfs/archive/49d7c8e827abc55f11627d695e704824965da73e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12Wng6FEzU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026KPL年度总决赛】10月18日 KSG VS 上海EDG.M",
+        "content": "【2026KPL年度总决赛】10月18日 KSG VS 上海EDG.M",
+        "bvid": "BV1FFnG6sEbF",
+        "author": "哔哩哔哩王者荣耀赛事",
+        "duration": "100:38",
+        "cover": "//i1.hdslb.com/bfs/archive/d856c985a2bd5215b071068737946a0a36a25272.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FFnG6sEbF&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "KSG vs 上海EDG.M KPL"
       },
       {
@@ -152,7 +152,7 @@
         "content": "",
         "bvid": "BV1Y8nu6KENd",
         "author": "解说米勒",
-        "duration": "40:47",
+        "duration": "40:49",
         "cover": "//i1.hdslb.com/bfs/archive/9fada165da37c1a9bf582fe7e34ffe9e7cfd7d65.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Y8nu6KENd&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "米勒管泽元评S赛Top20"
@@ -1162,10 +1162,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792319163795,
-    "bilibili": 1792319167842,
-    "qbitai": 1792319189666,
-    "36kr": 1792319190113
+    "thepaper": 1792320065300,
+    "bilibili": 1792319067337,
+    "qbitai": 1792320096295,
+    "36kr": 1792320097000
   },
   "failures": {}
 }
