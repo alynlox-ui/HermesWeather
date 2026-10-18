@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T01:26:30Z",
+  "updatedAt": "2026-10-18T01:41:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -52,20 +52,20 @@
         "rank": 8
       },
       {
-        "title": "古树被警方扣押又遭转赠：时任林业局长被处理，赔偿申请已受理",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34271160",
+        "title": "扇开第一声，是上海的声音",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34272559",
         "desc": "",
         "rank": 9
       },
       {
-        "title": "媒体评女篮热身赛爆发群殴：赛后炫耀打人更值得反思",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34270637",
+        "title": "古树被警方扣押又遭转赠：时任林业局长被处理，赔偿申请已受理",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34271160",
         "desc": "",
         "rank": 10
       },
       {
-        "title": "姚飞履新中国驻基里巴斯大使，曾被誉为“跑得最快的副市长”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34270784",
+        "title": "媒体评女篮热身赛爆发群殴：赛后炫耀打人更值得反思",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34270637",
         "desc": "",
         "rank": 11
       },
@@ -76,50 +76,50 @@
         "rank": 12
       },
       {
+        "title": "姚飞履新中国驻基里巴斯大使，曾被誉为“跑得最快的副市长”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34270784",
+        "desc": "",
+        "rank": 13
+      },
+      {
         "title": "中央气象台最新预报：12省份迎大到暴雨，北方多地气温创新低",
         "url": "https://www.thepaper.cn/newsDetail_forward_34271529",
         "desc": "",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
         "url": "https://www.thepaper.cn/newsDetail_forward_34268856",
         "desc": "",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "中外名家大师点亮开幕之夜，“中国扇”在黄浦江边开扇",
         "url": "https://www.thepaper.cn/newsDetail_forward_34271646",
         "desc": "",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "观察｜人工智能时代，如何合力应对反恐新挑战？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34268546",
         "desc": "",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "重阳节银发族开启错峰游：“县城康养”搜索热度同比增长203%",
         "url": "https://www.thepaper.cn/newsDetail_forward_34269748",
         "desc": "",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "闫盼盼、李羽洁担任第五届亚残运会开幕式中国体育代表团旗手",
         "url": "https://www.thepaper.cn/newsDetail_forward_34270443",
         "desc": "",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "特朗普签署行政令豁免对俄多项制裁",
         "url": "https://www.thepaper.cn/newsDetail_forward_34269052",
-        "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "上海国际艺术节每日一聊｜上海大歌剧院开幕演出的亮点来了",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34263273",
         "desc": "",
         "rank": 20
       }
@@ -158,10 +158,26 @@
         "hotTitle": "猎鹰爆冷无缘决赛"
       },
       {
+        "title": "DeepSeek新模型能和GPT-6 Astra 对比实测！以小博大，效果如何？",
+        "url": "https://www.bilibili.com/video/BV14nnM6WErB",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV14nnM6WErB",
+        "author": "神烦老狗",
+        "duration": "21:9",
+        "cover": "//i1.hdslb.com/bfs/archive/1a18ee8c1cf861cc4e6ea1cdcfc59b9e71ceb9b7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14nnM6WErB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DeepSeek新模型对比Astra"
+      },
+      {
         "title": "【EVA-明日香】耗时一年，自制CG动画",
         "url": "https://www.bilibili.com/video/BV1ZKJb68EjZ",
         "desc": "",
-        "rank": 3,
+        "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "哈喽大家好久不见，这是由我个人耗时一年制作的CG动画 模型制作 / 动画制作 / 灯光设计 / 渲染 / 合成 ，均由我个人完成，谢谢大家喜欢",
@@ -177,7 +193,7 @@
         "title": "早安，今天也要元气满满哦！MVK 3-1 FUR 赛后数据雷达图丨2026全球总决赛",
         "url": "https://www.bilibili.com/video/BV12wnu6sE2Y",
         "desc": "",
-        "rank": 4,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -190,68 +206,52 @@
         "hotTitle": "MVK战胜FUR S16"
       },
       {
-        "title": "DeepSeek V4.1 Flash 1017 实测：前后端都猛了！私有评测分数接近 Claude Opus 4.8",
-        "url": "https://www.bilibili.com/video/BV15uJi6rEwf",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本以为这次主要升级前端，跑完发现后端也变强了。 这期把之前测过的 3D 风机巡检系统、沉浸式耳机官网重新跑了一遍，看看 DeepSeek V4.1 Flash 1017 的页面效果和实际交互到底进步了多少。 再加上魔方还原测试，以及我们自己的 ModelDial 私有数据集 Benchmark，一起看看它能做到哪一步。 我的体感是：前端提升非常明显，后端也有进步。在我们的私有评测榜单上，分数已经接近 Claude Opus 4.8。不过复杂魔方任务仍然能看出它和 GPT 6.1 SOL 的差距，具体",
-        "content": "本以为这次主要升级前端，跑完发现后端也变强了。 这期把之前测过的 3D 风机巡检系统、沉浸式耳机官网重新跑了一遍，看看 DeepSeek V4.1 Flash 1017 的页面效果和实际交互到底进步了多少。 再加上魔方还原测试，以及我们自己的 ModelDial 私有数据集 Benchmark，一起看看它能做到哪一步。 我的体感是：前端提升非常明显，后端也有进步。在我们的私有评测榜单上，分数已经接近 Claude Opus 4.8。不过复杂魔方任务仍然能看出它和 GPT 6.1 SOL 的差距，具体",
-        "bvid": "BV15uJi6rEwf",
-        "author": "程序员阿江-Relakkes",
-        "duration": "7:7",
-        "cover": "//i0.hdslb.com/bfs/archive/3ceb9fcf4a95718a809422ecc229940db7a02575.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15uJi6rEwf&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "DeepSeek新模型实测"
-      },
-      {
-        "title": "灭霸：打响指我也认",
-        "url": "https://www.bilibili.com/video/BV1mtJQ6CEz8",
+        "title": "胡塞武装为何猛攻沙特？【波士顿圆脸xAJ小外x杨升Alex】",
+        "url": "https://www.bilibili.com/video/BV1UonM6ZEe9",
         "desc": "",
         "rank": 6,
         "kind": "video",
         "platform": "bilibili",
-        "description": "灭霸这下可...",
-        "content": "灭霸这下可...",
-        "bvid": "BV1mtJQ6CEz8",
-        "author": "快乐阿依",
-        "duration": "1:21",
-        "cover": "//i1.hdslb.com/bfs/archive/8fd817a34c153d4cd38bd87cbc4d133579f9cd06.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mtJQ6CEz8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "灭霸 打响指我也认"
+        "description": "10月16日晚和两位老朋友@波士顿圆脸 还有@AJ小外 一起跟大家聊聊近期的中东热点，胡塞怎么就开始痛打沙特了？到底是谁先动的手？接下来的局势会如何发展？欢迎收看！",
+        "content": "10月16日晚和两位老朋友@波士顿圆脸 还有@AJ小外 一起跟大家聊聊近期的中东热点，胡塞怎么就开始痛打沙特了？到底是谁先动的手？接下来的局势会如何发展？欢迎收看！",
+        "bvid": "BV1UonM6ZEe9",
+        "author": "杨升Alex",
+        "duration": "113:58",
+        "cover": "//i1.hdslb.com/bfs/archive/9391e53c9da45412b9aae8ada156083c8752297a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UonM6ZEe9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "胡塞武装为何猛攻沙特"
       },
       {
-        "title": "【巫师】机器人产业，真的只配叫玩具厂吗？",
-        "url": "https://www.bilibili.com/video/BV1FtJ86NENC",
+        "title": "#探如皋 九九共重阳 江海同安康 | 2026年全国“我们节日·重阳”主题文化示范活动！ #寻皋记 #重阳节",
+        "url": "https://www.bilibili.com/video/BV1qdJY6kExd",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1FtJ86NENC",
-        "author": "巫师财经",
-        "duration": "15:56",
-        "cover": "//i2.hdslb.com/bfs/archive/e17772aca41af4c2faca82085a136829a072a03e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FtJ86NENC&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "人形机器人产业前景究竟如何"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1qdJY6kExd",
+        "author": "探如皋",
+        "duration": "1:6",
+        "cover": "//i0.hdslb.com/bfs/archive/3597bd1f03b727f906e261e0bcc515a52d49dac8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qdJY6kExd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "文化中国行九九重阳节"
       },
       {
-        "title": "垃圾国漫 财神窦占龙",
-        "url": "https://www.bilibili.com/video/BV1irbN6DEKJ",
+        "title": "【中立】锐评BFX战胜WE选手发挥 恭喜BFX卫冕冠军",
+        "url": "https://www.bilibili.com/video/BV1m6Jv6hES8",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1irbN6DEKJ",
-        "author": "爱国的黑奴",
-        "duration": "2:20",
-        "cover": "//i1.hdslb.com/bfs/archive/49e61763d7964567cf77c68ad5c7dc2f8d79c2de.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1irbN6DEKJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "窦占龙水下见江神"
+        "description": "没见过虐的这么狠的 跟早期LPL打LCK一样 一点破绽都没有 打着打着一波崩完",
+        "content": "没见过虐的这么狠的 跟早期LPL打LCK一样 一点破绽都没有 打着打着一波崩完",
+        "bvid": "BV1m6Jv6hES8",
+        "author": "最中立的电竞",
+        "duration": "6:45",
+        "cover": "//i1.hdslb.com/bfs/archive/abb76140d7c76c4308990f69172076b894f8ae4a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1m6Jv6hES8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "锐评BFX战胜WE选手表现"
       },
       {
         "title": "持续领跑！哈兰德双响 福登破进球荒 曼城3比2伊普斯维奇",
@@ -270,42 +270,26 @@
         "hotTitle": "曼城3-2伊普斯维奇"
       },
       {
-        "title": "凡人文戏藏了多少细节？《凡人修仙传动画》196逐帧解析",
-        "url": "https://www.bilibili.com/video/BV1mFJq6iEUX",
+        "title": "DeepSeek V4.1 Flash 1017 实测：前后端都猛了！私有评测分数接近 Claude Opus 4.8",
+        "url": "https://www.bilibili.com/video/BV15uJi6rEwf",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "感谢海信电视对本期视频的大力支持~",
-        "content": "感谢海信电视对本期视频的大力支持~",
-        "bvid": "BV1mFJq6iEUX",
-        "author": "利维坦mY",
-        "duration": "14:48",
-        "cover": "//i1.hdslb.com/bfs/archive/9bbb2c7ce4fd6cd6edccbdb64e2e10cb50216349.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mFJq6iEUX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "凡人魏无涯和仲神师对战细节"
-      },
-      {
-        "title": "【GTWC】正赛战报，维斯塔潘逆袭，P24→P9！车流中一超三！",
-        "url": "https://www.bilibili.com/video/BV1q4Jz6dEM6",
-        "desc": "",
-        "rank": 11,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【GTWC】正赛战报，维斯塔潘逆袭，P24→P9！车流中一超三！",
-        "content": "【GTWC】正赛战报，维斯塔潘逆袭，P24→P9！车流中一超三！",
-        "bvid": "BV1q4Jz6dEM6",
-        "author": "F1赛事资讯",
-        "duration": "6:50",
-        "cover": "//i2.hdslb.com/bfs/archive/74c5a3c19c2120075de09ecfc0e2bb7748c1ce75.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1q4Jz6dEM6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "维斯塔潘从P24超到P9"
+        "description": "本以为这次主要升级前端，跑完发现后端也变强了。 这期把之前测过的 3D 风机巡检系统、沉浸式耳机官网重新跑了一遍，看看 DeepSeek V4.1 Flash 1017 的页面效果和实际交互到底进步了多少。 再加上魔方还原测试，以及我们自己的 ModelDial 私有数据集 Benchmark，一起看看它能做到哪一步。 我的体感是：前端提升非常明显，后端也有进步。在我们的私有评测榜单上，分数已经接近 Claude Opus 4.8。不过复杂魔方任务仍然能看出它和 GPT 6.1 SOL 的差距，具体",
+        "content": "本以为这次主要升级前端，跑完发现后端也变强了。 这期把之前测过的 3D 风机巡检系统、沉浸式耳机官网重新跑了一遍，看看 DeepSeek V4.1 Flash 1017 的页面效果和实际交互到底进步了多少。 再加上魔方还原测试，以及我们自己的 ModelDial 私有数据集 Benchmark，一起看看它能做到哪一步。 我的体感是：前端提升非常明显，后端也有进步。在我们的私有评测榜单上，分数已经接近 Claude Opus 4.8。不过复杂魔方任务仍然能看出它和 GPT 6.1 SOL 的差距，具体",
+        "bvid": "BV15uJi6rEwf",
+        "author": "程序员阿江-Relakkes",
+        "duration": "7:7",
+        "cover": "//i0.hdslb.com/bfs/archive/3ceb9fcf4a95718a809422ecc229940db7a02575.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15uJi6rEwf&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DeepSeek新模型实测"
       },
       {
         "title": "长 征 路 上 看 三 色 班 玛",
         "url": "https://www.bilibili.com/video/BV1vsJv6rEXH",
         "desc": "",
-        "rank": 12,
+        "rank": 11,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -318,26 +302,74 @@
         "hotTitle": "央视记者再走长征路"
       },
       {
-        "title": "10月份显卡价格继续暴涨｜显卡日报10月18日",
-        "url": "https://www.bilibili.com/video/BV1VVJB62E8W",
+        "title": "吃美了玩美了🪷和中国朋友倍儿美的京味儿体验｜休宁凯北京游学记#2｜B站海外音乐人中国行系列",
+        "url": "https://www.bilibili.com/video/BV12YJQ6gEDt",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "TOMORROW X TOGETHER新专辑《PERFECT STORM》11月16日正式上线, 预约正式开启 https://tomorrowxtogether.lnk.to/PERFECTSTORM",
+        "content": "TOMORROW X TOGETHER新专辑《PERFECT STORM》11月16日正式上线, 预约正式开启 https://tomorrowxtogether.lnk.to/PERFECTSTORM",
+        "bvid": "BV12YJQ6gEDt",
+        "author": "TXT_OFFICIAL",
+        "duration": "22:43",
+        "cover": "//i2.hdslb.com/bfs/archive/70a9ffadab30555410445206e24c4cf0f896c5e0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12YJQ6gEDt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "休宁凯和羊PD喝豆汁"
+      },
+      {
+        "title": "20年后，我们终于见面了｜王老大去哪了？",
+        "url": "https://www.bilibili.com/video/BV1oGJ96aEkX",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "日报有用记得三连哦，你的鼓励真的很重要～",
-        "content": "日报有用记得三连哦，你的鼓励真的很重要～",
-        "bvid": "BV1VVJB62E8W",
-        "author": "芝士华莱士",
-        "duration": "2:6",
-        "cover": "//i2.hdslb.com/bfs/archive/3e71bd184ffe0b4940983746dcd90311b1312509.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VVJB62E8W&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "英伟达称RTX5090没有停产"
+        "description": "大家好，我是王巍。 做动画二十多年，大部分时间都躲在故事和角色后面。今天，终于被他们找出来了。 如果你也认识这些角色中的一两个，那我们大概已经认识很多年了。 二十年后，终于可以面对面了。 以后聊聊以前，也聊聊现在。 你最早是从哪个角色、哪部作品认识我的？",
+        "content": "大家好，我是王巍。 做动画二十多年，大部分时间都躲在故事和角色后面。今天，终于被他们找出来了。 如果你也认识这些角色中的一两个，那我们大概已经认识很多年了。 二十年后，终于可以面对面了。 以后聊聊以前，也聊聊现在。 你最早是从哪个角色、哪部作品认识我的？",
+        "bvid": "BV1oGJ96aEkX",
+        "author": "王巍导演",
+        "duration": "2:42",
+        "cover": "//i1.hdslb.com/bfs/archive/6caca4839ef594fdd20015c4632409b074c5e4d1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oGJ96aEkX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "带给我们童年回忆的王老大去哪了"
+      },
+      {
+        "title": "3天2晚深入斐济赶海，只为挑战米级大马鲛，途中竟意外闯入金枪鱼大规模觅食！",
+        "url": "https://www.bilibili.com/video/BV1ZEJv61EXZ",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1ZEJv61EXZ",
+        "author": "OK哥环球探海记",
+        "duration": "32:8",
+        "cover": "//i2.hdslb.com/bfs/archive/320baa7f8a55b5d648c716c78f152a8fffed9a6b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZEJv61EXZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "OK哥斐济赶海硬刚米级大马鲛"
+      },
+      {
+        "title": "【小沈阳&颜安&唐九洲】披荆斩棘五公《在梅边》",
+        "url": "https://www.bilibili.com/video/BV1HDJv69EKw",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1HDJv69EKw",
+        "author": "唐九洲jojo",
+        "duration": "5:23",
+        "cover": "//i1.hdslb.com/bfs/archive/4e7eff58f8f7b8ccf95d07b213118d324d8d0bcc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HDJv69EKw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "小沈阳唐九洲颜安在梅边好惊艳"
       },
       {
         "title": "不怕打脸！强势预测东部常规赛排名！各队的问题是什么？",
         "url": "https://www.bilibili.com/video/BV1dDJB6nEho",
         "desc": "",
-        "rank": 14,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -353,7 +385,7 @@
         "title": "毕神师竟然调戏慕兰圣女？天恨老怪为何而来？散修联盟有出路了！《凡人修仙传》196集逐帧解析",
         "url": "https://www.bilibili.com/video/BV11yJv6ZEzF",
         "desc": "",
-        "rank": 15,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "感谢本期视频的配音小哥@鲜氣菌",
@@ -366,74 +398,26 @@
         "hotTitle": "凡人天恨老怪为何而来"
       },
       {
-        "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
-        "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "原创：@张卡斯 ，直达：BV1Bfjq6LEDi（非ai） 动画：@蒙德砍壬 直达：BV1drpn65ErX 音色参考：ssr大肥鱼音色 ：BV1PPYM6EEUR 大肥形象模型来源：@ZipZipPipe",
-        "content": "原创：@张卡斯 ，直达：BV1Bfjq6LEDi（非ai） 动画：@蒙德砍壬 直达：BV1drpn65ErX 音色参考：ssr大肥鱼音色 ：BV1PPYM6EEUR 大肥形象模型来源：@ZipZipPipe",
-        "bvid": "BV1fYpn6SEk9",
-        "author": "星落落_oi",
-        "duration": "2:15",
-        "cover": "//i2.hdslb.com/bfs/archive/8a8e42303b758c249d6369da3e73ce9eab9d94a7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fYpn6SEk9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "用DeepSeek翻唱人是猫"
-      },
-      {
-        "title": "挑战全程扛共享单车登顶峨眉山金顶",
-        "url": "https://www.bilibili.com/video/BV1KoJX6CEGT",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1KoJX6CEGT",
-        "author": "爱健身小庞",
-        "duration": "10:13",
-        "cover": "//i2.hdslb.com/bfs/archive/12088dc84acd53ab49c86aee7e9522c5807e86d5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KoJX6CEGT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "挑战全程扛共享单车登顶峨眉山"
-      },
-      {
-        "title": "20年后，我们终于见面了｜王老大去哪了？",
-        "url": "https://www.bilibili.com/video/BV1oGJ96aEkX",
+        "title": "10月份显卡价格继续暴涨｜显卡日报10月18日",
+        "url": "https://www.bilibili.com/video/BV1VVJB62E8W",
         "desc": "",
         "rank": 18,
         "kind": "video",
         "platform": "bilibili",
-        "description": "大家好，我是王巍。 做动画二十多年，大部分时间都躲在故事和角色后面。今天，终于被他们找出来了。 如果你也认识这些角色中的一两个，那我们大概已经认识很多年了。 二十年后，终于可以面对面了。 以后聊聊以前，也聊聊现在。 你最早是从哪个角色、哪部作品认识我的？",
-        "content": "大家好，我是王巍。 做动画二十多年，大部分时间都躲在故事和角色后面。今天，终于被他们找出来了。 如果你也认识这些角色中的一两个，那我们大概已经认识很多年了。 二十年后，终于可以面对面了。 以后聊聊以前，也聊聊现在。 你最早是从哪个角色、哪部作品认识我的？",
-        "bvid": "BV1oGJ96aEkX",
-        "author": "王巍导演",
-        "duration": "2:42",
-        "cover": "//i1.hdslb.com/bfs/archive/6caca4839ef594fdd20015c4632409b074c5e4d1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oGJ96aEkX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "带给我们童年回忆的王老大去哪了"
-      },
-      {
-        "title": "【毕导】不做诺奖科普的第一年，科普博主我还会做多久？",
-        "url": "https://www.bilibili.com/video/BV1cpJ86BEys",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "科普博主会被AI取代吗？也许会吧。 但我感觉，暂时还有一件人类比AI更强的事情。 ———————————————————————————— 你还可以看看: 这个X你肯定见过，但它其实根本不存在 BV1VVhk6pEiR 这是什么妖术？酒在坛子里是绿色，舀出来瞬间变红！ BV1JiVb6EEi7 我预言了一个物理规律，历时100天我证明了它 BV1wPoVB7Egv 这 个现象你肯定见过，但初中教材上的解释几乎都是错的 BV18yXbB8EJw 这条线看得清摸得着，但你永远测不出它的长度",
-        "content": "科普博主会被AI取代吗？也许会吧。 但我感觉，暂时还有一件人类比AI更强的事情。 ———————————————————————————— 你还可以看看: 这个X你肯定见过，但它其实根本不存在 BV1VVhk6pEiR 这是什么妖术？酒在坛子里是绿色，舀出来瞬间变红！ BV1JiVb6EEi7 我预言了一个物理规律，历时100天我证明了它 BV1wPoVB7Egv 这 个现象你肯定见过，但初中教材上的解释几乎都是错的 BV18yXbB8EJw 这条线看得清摸得着，但你永远测不出它的长度",
-        "bvid": "BV1cpJ86BEys",
-        "author": "毕导",
-        "duration": "5:3",
-        "cover": "//i2.hdslb.com/bfs/archive/4679b0ef7acb4ef14a81b7f58dea77f973991280.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cpJ86BEys&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "毕导 科普UP主会被AI取代吗"
+        "description": "日报有用记得三连哦，你的鼓励真的很重要～",
+        "content": "日报有用记得三连哦，你的鼓励真的很重要～",
+        "bvid": "BV1VVJB62E8W",
+        "author": "芝士华莱士",
+        "duration": "2:6",
+        "cover": "//i2.hdslb.com/bfs/archive/3e71bd184ffe0b4940983746dcd90311b1312509.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VVJB62E8W&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "英伟达称RTX5090没有停产"
       },
       {
         "title": "某些大学老师水课的belike",
         "url": "https://www.bilibili.com/video/BV1csJC6yERd",
         "desc": "",
-        "rank": 20,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "求三连",
@@ -446,26 +430,26 @@
         "hotTitle": "某些大学老师水课belike"
       },
       {
-        "title": "营销噱头还是黑科技?Roadster 2造车门槛是什么？专利、商业解读",
-        "url": "https://www.bilibili.com/video/BV15BJX6dEoR",
+        "title": "【毕导】不做诺奖科普的第一年，科普博主我还会做多久？",
+        "url": "https://www.bilibili.com/video/BV1cpJ86BEys",
         "desc": "",
-        "rank": 21,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "爆肝更新 求三连～",
-        "content": "爆肝更新 求三连～",
-        "bvid": "BV15BJX6dEoR",
-        "author": "三驱兄弟",
-        "duration": "12:24",
-        "cover": "//i1.hdslb.com/bfs/archive/a910c77b2af29244524a75ac21ce4a05aa6ea086.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15BJX6dEoR&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "特斯拉Roadster造车门槛有多高"
+        "description": "科普博主会被AI取代吗？也许会吧。 但我感觉，暂时还有一件人类比AI更强的事情。 ———————————————————————————— 你还可以看看: 这个X你肯定见过，但它其实根本不存在 BV1VVhk6pEiR 这是什么妖术？酒在坛子里是绿色，舀出来瞬间变红！ BV1JiVb6EEi7 我预言了一个物理规律，历时100天我证明了它 BV1wPoVB7Egv 这 个现象你肯定见过，但初中教材上的解释几乎都是错的 BV18yXbB8EJw 这条线看得清摸得着，但你永远测不出它的长度",
+        "content": "科普博主会被AI取代吗？也许会吧。 但我感觉，暂时还有一件人类比AI更强的事情。 ———————————————————————————— 你还可以看看: 这个X你肯定见过，但它其实根本不存在 BV1VVhk6pEiR 这是什么妖术？酒在坛子里是绿色，舀出来瞬间变红！ BV1JiVb6EEi7 我预言了一个物理规律，历时100天我证明了它 BV1wPoVB7Egv 这 个现象你肯定见过，但初中教材上的解释几乎都是错的 BV18yXbB8EJw 这条线看得清摸得着，但你永远测不出它的长度",
+        "bvid": "BV1cpJ86BEys",
+        "author": "毕导",
+        "duration": "5:3",
+        "cover": "//i2.hdslb.com/bfs/archive/4679b0ef7acb4ef14a81b7f58dea77f973991280.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cpJ86BEys&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "毕导 科普UP主会被AI取代吗"
       },
       {
         "title": "【基德】特斯拉喷气跑车的秘密",
         "url": "https://www.bilibili.com/video/BV1ovJa6TEF2",
         "desc": "",
-        "rank": 22,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "一辆装了超大吸尘器和冷气推进器的电车，应该卖多少钱……",
@@ -478,74 +462,106 @@
         "hotTitle": "特斯拉Roadster为何能飞"
       },
       {
-        "title": "欠钱不还却有钱出道？是谁又在给老赖之女洗白？深扒李秀满新女团成员盛艾敬！",
-        "url": "https://www.bilibili.com/video/BV1s7JX6gELt",
+        "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+        "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "原创：@张卡斯 ，直达：BV1Bfjq6LEDi（非ai） 动画：@蒙德砍壬 直达：BV1drpn65ErX 音色参考：ssr大肥鱼音色 ：BV1PPYM6EEUR 大肥形象模型来源：@ZipZipPipe",
+        "content": "原创：@张卡斯 ，直达：BV1Bfjq6LEDi（非ai） 动画：@蒙德砍壬 直达：BV1drpn65ErX 音色参考：ssr大肥鱼音色 ：BV1PPYM6EEUR 大肥形象模型来源：@ZipZipPipe",
+        "bvid": "BV1fYpn6SEk9",
+        "author": "星落落_oi",
+        "duration": "2:15",
+        "cover": "//i2.hdslb.com/bfs/archive/8a8e42303b758c249d6369da3e73ce9eab9d94a7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fYpn6SEk9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "用DeepSeek翻唱人是猫"
+      },
+      {
+        "title": "【巫师】机器人产业，真的只配叫玩具厂吗？",
+        "url": "https://www.bilibili.com/video/BV1FtJ86NENC",
         "desc": "",
         "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "我真是没招了。",
-        "content": "我真是没招了。",
-        "bvid": "BV1s7JX6gELt",
-        "author": "三代鹿人",
-        "duration": "10:2",
-        "cover": "//i1.hdslb.com/bfs/archive/6dc8efeb4baa9bdadd88e22d7d83a26d21768627.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1s7JX6gELt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "李秀满新女团成员盛艾敬争议"
+        "description": "",
+        "content": "",
+        "bvid": "BV1FtJ86NENC",
+        "author": "巫师财经",
+        "duration": "15:56",
+        "cover": "//i2.hdslb.com/bfs/archive/e17772aca41af4c2faca82085a136829a072a03e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FtJ86NENC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "人形机器人产业前景究竟如何"
       },
       {
-        "title": "我造了一块会飞的滑板...",
-        "url": "https://www.bilibili.com/video/BV1KiJk67EQ9",
+        "title": "【GTWC】正赛战报，维斯塔潘逆袭，P24→P9！车流中一超三！",
+        "url": "https://www.bilibili.com/video/BV1q4Jz6dEM6",
         "desc": "",
         "rank": 24,
         "kind": "video",
         "platform": "bilibili",
-        "description": "这次手搓的是一个操控难度有点高，但是超级灵活的个人飞行器—载人飞行滑板！ 掌握之后真的有种御剑飞行的感觉，超级自由。 感谢STEPX对本期视频的赞助支持，StepX Neo真的是一台让人很惊艳的Ai智能体手机。 同时也非常感谢我的家乡 — 湖北巴东县委宣传部以及各相关部门领导对这次拍摄的大力支持。 很高兴能够用自己的方式让大家看到我的家乡！",
-        "content": "这次手搓的是一个操控难度有点高，但是超级灵活的个人飞行器—载人飞行滑板！ 掌握之后真的有种御剑飞行的感觉，超级自由。 感谢STEPX对本期视频的赞助支持，StepX Neo真的是一台让人很惊艳的Ai智能体手机。 同时也非常感谢我的家乡 — 湖北巴东县委宣传部以及各相关部门领导对这次拍摄的大力支持。 很高兴能够用自己的方式让大家看到我的家乡！",
-        "bvid": "BV1KiJk67EQ9",
-        "author": "神奇阿宇Ayu",
-        "duration": "9:58",
-        "cover": "//i0.hdslb.com/bfs/archive/72619f16a4b0703a5aa22c1c0bbcc5b9735f9799.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KiJk67EQ9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主手搓飞行滑板"
+        "description": "【GTWC】正赛战报，维斯塔潘逆袭，P24→P9！车流中一超三！",
+        "content": "【GTWC】正赛战报，维斯塔潘逆袭，P24→P9！车流中一超三！",
+        "bvid": "BV1q4Jz6dEM6",
+        "author": "F1赛事资讯",
+        "duration": "6:50",
+        "cover": "//i2.hdslb.com/bfs/archive/74c5a3c19c2120075de09ecfc0e2bb7748c1ce75.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1q4Jz6dEM6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "维斯塔潘从P24超到P9"
       },
       {
-        "title": "TES上单签证再次被拒，三角洲玩家夺冠Cs赛事，瑞士轮经典菜鸡互啄【火兰短报第三季13】",
-        "url": "https://www.bilibili.com/video/BV14kJv6FE6f",
+        "title": "挑战全程扛共享单车登顶峨眉山金顶",
+        "url": "https://www.bilibili.com/video/BV1KoJX6CEGT",
         "desc": "",
         "rank": 25,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV14kJv6FE6f",
-        "author": "火兰朋克",
-        "duration": "10:25",
-        "cover": "//i0.hdslb.com/bfs/archive/2ebb99e1f9c74f1fd346dad6bb046d1d4a825997.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14kJv6FE6f&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "近期电竞赛事热门事件盘点"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1KoJX6CEGT",
+        "author": "爱健身小庞",
+        "duration": "10:13",
+        "cover": "//i2.hdslb.com/bfs/archive/12088dc84acd53ab49c86aee7e9522c5807e86d5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KoJX6CEGT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "挑战全程扛共享单车登顶峨眉山"
       },
       {
-        "title": "【小沈阳&颜安&唐九洲】披荆斩棘五公《在梅边》",
-        "url": "https://www.bilibili.com/video/BV1HDJv69EKw",
+        "title": "《绝区零》菲欧妮角色展示 | 不要死挑战",
+        "url": "https://www.bilibili.com/video/BV1d5JQ6pEFS",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1HDJv69EKw",
-        "author": "唐九洲jojo",
-        "duration": "5:23",
-        "cover": "//i1.hdslb.com/bfs/archive/4e7eff58f8f7b8ccf95d07b213118d324d8d0bcc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HDJv69EKw&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "小沈阳唐九洲颜安在梅边好惊艳"
+        "description": "「那么，第5782次《不要死挑战》就到这里结束啦！」 「接下来，就是第5783次…」 「好像…也已经结束了呢…」 菲欧妮CV 中：宋媛媛 日：藤田茜 琉音CV 中：蔡书瑾 日：竹达彩奈 照CV 中：诺亚 日：大空直美 —— 欢迎来到罗斯凯利法！—— ▼《绝区零》3.3版本「重返天空的旅程」将于10月21日上线！ 版本期间，参与活动可免费领取妄想天使时装！ bilibili安卓端下载地址：https://www.biligame.com/detail/?id=108434 bilibiliPC端下载",
+        "content": "「那么，第5782次《不要死挑战》就到这里结束啦！」 「接下来，就是第5783次…」 「好像…也已经结束了呢…」 菲欧妮CV 中：宋媛媛 日：藤田茜 琉音CV 中：蔡书瑾 日：竹达彩奈 照CV 中：诺亚 日：大空直美 —— 欢迎来到罗斯凯利法！—— ▼《绝区零》3.3版本「重返天空的旅程」将于10月21日上线！ 版本期间，参与活动可免费领取妄想天使时装！ bilibili安卓端下载地址：https://www.biligame.com/detail/?id=108434 bilibiliPC端下载",
+        "bvid": "BV1d5JQ6pEFS",
+        "author": "绝区零",
+        "duration": "10:0",
+        "cover": "//i1.hdslb.com/bfs/archive/a644f0aece0bf5ddac7a059b743784e55db8413c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d5JQ6pEFS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "绝区零菲欧妮角色展示"
+      },
+      {
+        "title": "灭霸：打响指我也认",
+        "url": "https://www.bilibili.com/video/BV1mtJQ6CEz8",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "灭霸这下可...",
+        "content": "灭霸这下可...",
+        "bvid": "BV1mtJQ6CEz8",
+        "author": "快乐阿依",
+        "duration": "1:21",
+        "cover": "//i1.hdslb.com/bfs/archive/8fd817a34c153d4cd38bd87cbc4d133579f9cd06.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mtJQ6CEz8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "灭霸 打响指我也认"
       },
       {
         "title": "结过婚我也认是什么梗【梗指南】",
         "url": "https://www.bilibili.com/video/BV19iJ86ZEnr",
         "desc": "",
-        "rank": 27,
+        "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "结过婚我也认是什么梗 引用素材： BV1AGp26cEex BV1PkJk6VEJZ *本视频仅作为了解该梗的辅助，不能仅靠该视频作为对该梗的全面了解，真正深入了解可以观看原出处以及更多方面~",
@@ -558,52 +574,36 @@
         "hotTitle": "结过婚我也认是什么梗"
       },
       {
-        "title": "3天2晚深入斐济赶海，只为挑战米级大马鲛，途中竟意外闯入金枪鱼大规模觅食！",
-        "url": "https://www.bilibili.com/video/BV1ZEJv61EXZ",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ZEJv61EXZ",
-        "author": "OK哥环球探海记",
-        "duration": "32:8",
-        "cover": "//i2.hdslb.com/bfs/archive/320baa7f8a55b5d648c716c78f152a8fffed9a6b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZEJv61EXZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "OK哥斐济赶海硬刚米级大马鲛"
-      },
-      {
-        "title": "性侵抢劫，杀人投毒，驻日美军到底有多无法无天？",
-        "url": "https://www.bilibili.com/video/BV1wNJ96MEbr",
+        "title": "凡人文戏藏了多少细节？《凡人修仙传动画》196逐帧解析",
+        "url": "https://www.bilibili.com/video/BV1mFJq6iEUX",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "打游戏真的很花时间 高市称日美就加强驻日美军管理进行磋商 2026 10/13 20:08:33 来源：新华网 日本民众集会抗议驻日美军暴力犯罪 2026 10/15 00:29:36 来源：新华网 驻日美军直升机“高空掉袋”惹冲绳民众抗议 2025 05/15 12:16:02 来源：新华网 联合国专家：驻日美军基地造成的污染问题“极其严重”2025 09/20 10:12:15 来源：新华网",
-        "content": "打游戏真的很花时间 高市称日美就加强驻日美军管理进行磋商 2026 10/13 20:08:33 来源：新华网 日本民众集会抗议驻日美军暴力犯罪 2026 10/15 00:29:36 来源：新华网 驻日美军直升机“高空掉袋”惹冲绳民众抗议 2025 05/15 12:16:02 来源：新华网 联合国专家：驻日美军基地造成的污染问题“极其严重”2025 09/20 10:12:15 来源：新华网",
-        "bvid": "BV1wNJ96MEbr",
-        "author": "星辰趣味屋",
-        "duration": "18:20",
-        "cover": "//i0.hdslb.com/bfs/archive/c25139ecb653e77493a572c82dd4406b0e686662.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wNJ96MEbr&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "驻日美军到底有多无法无天"
+        "description": "感谢海信电视对本期视频的大力支持~",
+        "content": "感谢海信电视对本期视频的大力支持~",
+        "bvid": "BV1mFJq6iEUX",
+        "author": "利维坦mY",
+        "duration": "14:48",
+        "cover": "//i1.hdslb.com/bfs/archive/9bbb2c7ce4fd6cd6edccbdb64e2e10cb50216349.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mFJq6iEUX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "凡人魏无涯和仲神师对战细节"
       },
       {
-        "title": "各方施压、逼叙援沙：沙特破局缺的不是盟友，而是朱拉尼这个药引子",
-        "url": "https://www.bilibili.com/video/BV1L2Ji6jERt",
+        "title": "我造了一块会飞的滑板...",
+        "url": "https://www.bilibili.com/video/BV1KiJk67EQ9",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "对胡塞来说，也门战争慢不得。",
-        "content": "对胡塞来说，也门战争慢不得。",
-        "bvid": "BV1L2Ji6jERt",
-        "author": "军武志",
-        "duration": "21:58",
-        "cover": "//i2.hdslb.com/bfs/archive/7c95d9411af4740fc735d8ac9840ff81ed92e960.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1L2Ji6jERt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "沙特与胡塞冲突为何反复升级"
+        "description": "这次手搓的是一个操控难度有点高，但是超级灵活的个人飞行器—载人飞行滑板！ 掌握之后真的有种御剑飞行的感觉，超级自由。 感谢STEPX对本期视频的赞助支持，StepX Neo真的是一台让人很惊艳的Ai智能体手机。 同时也非常感谢我的家乡 — 湖北巴东县委宣传部以及各相关部门领导对这次拍摄的大力支持。 很高兴能够用自己的方式让大家看到我的家乡！",
+        "content": "这次手搓的是一个操控难度有点高，但是超级灵活的个人飞行器—载人飞行滑板！ 掌握之后真的有种御剑飞行的感觉，超级自由。 感谢STEPX对本期视频的赞助支持，StepX Neo真的是一台让人很惊艳的Ai智能体手机。 同时也非常感谢我的家乡 — 湖北巴东县委宣传部以及各相关部门领导对这次拍摄的大力支持。 很高兴能够用自己的方式让大家看到我的家乡！",
+        "bvid": "BV1KiJk67EQ9",
+        "author": "神奇阿宇Ayu",
+        "duration": "9:58",
+        "cover": "//i0.hdslb.com/bfs/archive/72619f16a4b0703a5aa22c1c0bbcc5b9735f9799.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KiJk67EQ9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主手搓飞行滑板"
       }
     ],
     "qbitai": [
@@ -960,6 +960,16 @@
         "rank": 5
       },
       {
+        "title": "今年多次回购股曝光，五大共性凸显",
+        "url": "https://m.36kr.com/newsflashes/4030755775730311",
+        "desc": "据数据宝统计，截至10月15日，A股市场有33家公司回购次数在两次以上（含已完成回购、实施中的回购和拟回购）。其中，软通动力、三环集团、乐鑫科技等公司均实施回购3次；中国石化、华勤技术、温氏股份、东阳光、东鹏饮料、佰维存储、兴森科技等均有两次回购实施完毕。从回购实施情况来看，乐鑫科技的3次回购均已完成，软通动力、三环集团等年内3次回购均已完成其中的两次；华勤技术、兴森科技、惠泰医疗、渤海租赁、紫金龙净、步长制药等年内计划实施两次的回购公司均已全部实施完毕。梳理发现，今年多次实施回购的个股具备现金流充裕、盈利能力强、估值较低、注销式回购为主、机构关注度较高等五大共性。（证券时报）",
+        "cover": "",
+        "date": 1792291064000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "马斯克：承认在政治事务中“有些偏离正轨”",
         "url": "https://m.36kr.com/newsflashes/4030756896067974",
         "desc": "马斯克承认其在政治事务中“有些偏离正轨”，远离旗下公司的时间超出了应有程度。马斯克表示，他本应扮演一个不那么高调的角色，其政府事务参与时间不应超过一两个月，而实际上他在白宫度过了约四个月。马斯克指出，他本应更早一些回归专注于人工智能领域。（新浪财经）",
@@ -967,7 +977,7 @@
         "date": 1792290311000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "多项世界级，曙光8000十大前沿成果发布",
@@ -977,7 +987,7 @@
         "date": 1792289092000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "国金证券：当前AI短剧出海仍处渗透率低位，远期市场空间有望持续扩容",
@@ -987,7 +997,7 @@
         "date": 1792288394000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "对冲基金正在加速撤离AI交易",
@@ -997,7 +1007,7 @@
         "date": 1792287632000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "节后首批百家机构调研股曝光，源杰科技有284家机构调研",
@@ -1007,7 +1017,7 @@
         "date": 1792287016000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "iPhone Duo预售次日市场价格明显回落，部分版本加价空间缩水过半",
@@ -1017,7 +1027,7 @@
         "date": 1792286259000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "Anthropic联合创始人：人工智能或推动美国经济规模到2030年达到44万亿美元",
@@ -1027,7 +1037,7 @@
         "date": 1792285709000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "全球人形机器人收入前五全是中国企业，前8个月深圳机器人出口激增超1200%",
@@ -1037,7 +1047,7 @@
         "date": 1792285200000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "微信鸿蒙版上线小艺语音操作：一句话即可发消息、打语音和视频",
@@ -1047,7 +1057,7 @@
         "date": 1792243421711,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "智界将获独立造车资质，内部人士确认公司计划上市",
@@ -1057,7 +1067,7 @@
         "date": 1792230678659,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "DeepSeek V4.1 Flash新版本发布",
@@ -1067,7 +1077,7 @@
         "date": 1792229251952,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "中国贸易展览会在哥斯达黎加举行",
@@ -1077,7 +1087,7 @@
         "date": 1792227521000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
@@ -1087,7 +1097,7 @@
         "date": 1792225792000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "欧洲央行行长：应采取适度政策举措遏制通胀",
@@ -1097,7 +1107,7 @@
         "date": 1792224095000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "中国人民银行行长潘功胜会见相关国家央行行长",
@@ -1107,7 +1117,7 @@
         "date": 1792224053653,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "晶科能源CTO金浩：预计未来5年光伏组件价格将再降50%",
@@ -1117,7 +1127,7 @@
         "date": 1792222805000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "多方判断电价拐点已现",
@@ -1127,7 +1137,7 @@
         "date": 1792221259000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "德国汽车工业协会：2031年前不应强制要求汽车电池本地化生产",
@@ -1137,7 +1147,7 @@
         "date": 1792219598000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "纽约联储一级交易商名单调整，NatWest退出",
@@ -1147,25 +1157,15 @@
         "date": 1792218093000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 24
-      },
-      {
-        "title": "斯里兰卡人民币清算行揭牌仪式在科伦坡举行",
-        "url": "https://m.36kr.com/newsflashes/4029471856267908",
-        "desc": "由中国银行举办的斯里兰卡人民币清算行揭牌仪式15日在斯里兰卡科伦坡举行。斯里兰卡劳工部长兼财政部副部长费尔南多等来自斯里兰卡政府部门及中斯两国企业、金融机构的200余位代表参加活动。（新华社）",
-        "cover": "",
-        "date": 1792216722000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792290473440,
-    "bilibili": 1792288782639,
-    "qbitai": 1792286789999,
-    "36kr": 1792286790427
+    "thepaper": 1792291381444,
+    "bilibili": 1792290590022,
+    "qbitai": 1792287695859,
+    "36kr": 1792287696317
   },
   "failures": {}
 }
