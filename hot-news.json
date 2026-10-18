@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T10:56:33Z",
+  "updatedAt": "2026-10-18T11:11:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "【高下立判】VIT 3-1 100t 再见ABC！小蜜蜂即将三番战loud！上海冠军赛数据雷达图",
-        "url": "https://www.bilibili.com/video/BV1d2Ji6LEoj",
+        "title": "【无畏契约上海全球冠军赛】10月16日 VIT vs LOUD",
+        "url": "https://www.bilibili.com/video/BV1jLJ96hEXu",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1d2Ji6LEoj",
-        "author": "小徐还在绕",
-        "duration": "3:59",
-        "cover": "//i1.hdslb.com/bfs/archive/15d3af7f54a65bbf7ae186e3f9e19fc34237af2d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d2Ji6LEoj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【无畏契约上海全球冠军赛】10月16日 VIT vs LOUD",
+        "content": "【无畏契约上海全球冠军赛】10月16日 VIT vs LOUD",
+        "bvid": "BV1jLJ96hEXu",
+        "author": "无畏契约赛事",
+        "duration": "269:14",
+        "cover": "//i0.hdslb.com/bfs/archive/2a30972241de7dd965539c514fa7e394ab81ed5f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jLJ96hEXu&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "LOUD战胜VIT 上海冠军赛"
       },
       {
@@ -366,19 +366,19 @@
         "hotTitle": "英国为何又想回到欧盟了"
       },
       {
-        "title": "《凡人Reaction-196》",
-        "url": "https://www.bilibili.com/video/BV1dyJi62EbK",
+        "title": "凡人|修仙传-197集 韩立邂逅紫灵梅凝，定坠魔谷方案，闭关炼青焰铸就底牌",
+        "url": "https://www.bilibili.com/video/BV1tEJi6vEaU",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "程师兄太有趣啦！",
-        "content": "程师兄太有趣啦！",
-        "bvid": "BV1dyJi62EbK",
-        "author": "花间夕紫",
-        "duration": "21:36",
-        "cover": "//i1.hdslb.com/bfs/archive/130d093494c6d76f204b02b7af0adc92d5d993c6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dyJi62EbK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1tEJi6vEaU",
+        "author": "埋头追漫2",
+        "duration": "24:51",
+        "cover": "//i1.hdslb.com/bfs/archive/04837adf920a22f9e908bfba5598be0629c85bd8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tEJi6vEaU&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "仲神师感叹韩立实力不俗"
       },
       {
@@ -462,19 +462,19 @@
         "hotTitle": "特斯拉股价暴跌反映什么问题"
       },
       {
-        "title": "【2026德玛西亚杯】10月17日 BFX vs WE",
-        "url": "https://www.bilibili.com/video/BV1kGJq6tET3",
+        "title": "恭喜BFX！BFX 3-1 WE 赛后数据雷达图丨2026德玛西亚杯-决赛",
+        "url": "https://www.bilibili.com/video/BV1KsJi6hEyu",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026德玛西亚杯】10月17日 BFX vs WE",
-        "content": "【2026德玛西亚杯】10月17日 BFX vs WE",
-        "bvid": "BV1kGJq6tET3",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "193:33",
-        "cover": "//i0.hdslb.com/bfs/archive/da6c846a94426288a1fc718bf687f41ba3ebdd7b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kGJq6tET3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1KsJi6hEyu",
+        "author": "苦练李香兰",
+        "duration": "4:30",
+        "cover": "//i0.hdslb.com/bfs/archive/68fcd1db374b46e6a339e55097465a019204eb68.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KsJi6hEyu&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BFX战胜WE夺得德杯冠军"
       },
       {
@@ -1162,10 +1162,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792320963818,
-    "bilibili": 1792320973362,
-    "qbitai": 1792320993298,
-    "36kr": 1792320993709
+    "thepaper": 1792321863960,
+    "bilibili": 1792320870096,
+    "qbitai": 1792321893238,
+    "36kr": 1792321893657
   },
   "failures": {}
 }
