@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T02:41:26Z",
+  "updatedAt": "2026-10-18T02:56:26Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -960,6 +960,16 @@
         "rank": 5
       },
       {
+        "title": "StartLux拿下Hugging Face榜首",
+        "url": "https://m.36kr.com/newsflashes/4030806587593093",
+        "desc": "36氪获悉，全球知名AI开源社区Hugging Face上的Decision Index 0.3.2榜单近日更新，中国AI创业公司StartLux（原点星辉）推出的StartLux-Decision-v1.1-27B Instant以69.1分登顶全球第一，在173项公开复现模型中排名榜首，领先第二名近3分，也是榜单中唯一突破69分的模型。继9月底发布首代模型后，StartLux仅用十余天再次刷新行业最佳成绩，稳居全球决策模型SOTA。",
+        "cover": "",
+        "date": 1792295310000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "维多集团传奇石油衍生品交易员Yaoyao Liu将离职",
         "url": "https://m.36kr.com/newsflashes/4030805914161536",
         "desc": "Yaoyao Liu将离开大宗商品交易巨头维多集团。他的职业生涯经历大起大落，曾通过石油衍生品交易为该公司赚取数十亿美元。据知情人士透露，现年39岁的Liu在今年年中前后已不再参与日常交易。他离职之际，其团队的交易账簿已连续两年出现重大亏损头寸。不过，在今年的交易动荡之前，他早在2025年就已开始规划退休。（效率空）",
@@ -967,7 +977,7 @@
         "date": 1792294485000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "今年前三季度全国铁路发送旅客37.1亿人次，创历史同期新高",
@@ -977,7 +987,7 @@
         "date": 1792293740000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "具身大脑公司“格物通智”已完成近亿元天使轮融资",
@@ -987,7 +997,7 @@
         "date": 1792293034000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "央行副行长宣昌能出席全球主权债务圆桌会等会议并会见相关机构负责人",
@@ -997,7 +1007,7 @@
         "date": 1792292790116,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "韩国财长：半导体市场景气至少维持至明年",
@@ -1007,7 +1017,7 @@
         "date": 1792292066000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "今年多次回购股曝光，五大共性凸显",
@@ -1017,7 +1027,7 @@
         "date": 1792291064000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "马斯克：承认在政治事务中“有些偏离正轨”",
@@ -1027,7 +1037,7 @@
         "date": 1792290311000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "多项世界级，曙光8000十大前沿成果发布",
@@ -1037,7 +1047,7 @@
         "date": 1792289092000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "国金证券：当前AI短剧出海仍处渗透率低位，远期市场空间有望持续扩容",
@@ -1047,7 +1057,7 @@
         "date": 1792288394000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "对冲基金正在加速撤离AI交易",
@@ -1057,7 +1067,7 @@
         "date": 1792287632000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "节后首批百家机构调研股曝光，源杰科技有284家机构调研",
@@ -1067,7 +1077,7 @@
         "date": 1792287016000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "iPhone Duo预售次日市场价格明显回落，部分版本加价空间缩水过半",
@@ -1077,7 +1087,7 @@
         "date": 1792286259000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "Anthropic联合创始人：人工智能或推动美国经济规模到2030年达到44万亿美元",
@@ -1087,7 +1097,7 @@
         "date": 1792285709000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "全球人形机器人收入前五全是中国企业，前8个月深圳机器人出口激增超1200%",
@@ -1097,7 +1107,7 @@
         "date": 1792285200000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "微信鸿蒙版上线小艺语音操作：一句话即可发消息、打语音和视频",
@@ -1107,7 +1117,7 @@
         "date": 1792243421711,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "智界将获独立造车资质，内部人士确认公司计划上市",
@@ -1117,7 +1127,7 @@
         "date": 1792230678659,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "DeepSeek V4.1 Flash新版本发布",
@@ -1127,7 +1137,7 @@
         "date": 1792229251952,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "中国贸易展览会在哥斯达黎加举行",
@@ -1137,7 +1147,7 @@
         "date": 1792227521000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
@@ -1147,25 +1157,15 @@
         "date": 1792225792000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 24
-      },
-      {
-        "title": "欧洲央行行长：应采取适度政策举措遏制通胀",
-        "url": "https://m.36kr.com/newsflashes/4029656558702985",
-        "desc": "据报道，欧洲央行行长拉加德表示，战争带来通胀上行风险。财政可持续性仍是整体经济稳定的“重要支柱”，各国政府应当确保针对能源冲击出台的财政举措具备临时性、定向性与适配性。经济前景下行风险存在，通胀风险上行；应采取适度政策举措遏制通胀。（界面）",
-        "cover": "",
-        "date": 1792224095000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 25
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792294970273,
+    "thepaper": 1792295870183,
     "bilibili": 1792294194466,
-    "qbitai": 1792291286184,
-    "36kr": 1792291286641
+    "qbitai": 1792292186400,
+    "36kr": 1792292186832
   },
   "failures": {}
 }
