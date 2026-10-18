@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T11:26:33Z",
+  "updatedAt": "2026-10-18T11:41:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -40,80 +40,80 @@
         "rank": 6
       },
       {
-        "title": "古树被警方扣押又遭转赠：时任林业局长被处理，赔偿申请已受理",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34271160",
-        "desc": "",
-        "rank": 7
-      },
-      {
         "title": "“林诗栋妈妈的餐馆被拿排骨数量审判”上热搜，林诗栋舅舅：餐馆从未卖过排骨面",
         "url": "https://www.thepaper.cn/newsDetail_forward_34274809",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "贵州兴义一辆轿车掉入沟中，救援队吊车作业时车辆掉落致轿车司机身亡",
         "url": "https://www.thepaper.cn/newsDetail_forward_34273258",
         "desc": "",
-        "rank": 9
+        "rank": 8
       },
       {
         "title": "《早春晴朗》三周稳居Netflix榜二，天通苑合租屋的故事为什么被海外接受和喜爱？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34271921",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "中央气象台最新预报：12省份迎大到暴雨，北方多地气温创新低",
         "url": "https://www.thepaper.cn/newsDetail_forward_34271529",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "中外名家大师点亮开幕之夜，“中国扇”在黄浦江边开扇",
         "url": "https://www.thepaper.cn/newsDetail_forward_34271646",
         "desc": "",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "观察｜人工智能时代，如何合力应对反恐新挑战？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34268546",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "大麦网：王某某编造“25万出肖战第一排”谣言，职能部门正处理",
         "url": "https://www.thepaper.cn/newsDetail_forward_34273574",
         "desc": "",
-        "rank": 14
+        "rank": 13
       },
       {
         "title": "一路丰碑｜皎平渡口夜，见证依靠人民力量",
         "url": "https://www.thepaper.cn/newsDetail_forward_34224669",
         "desc": "",
-        "rank": 15
+        "rank": 14
       },
       {
         "title": "青海：打击非法穿越三江源国家公园行为",
         "url": "https://www.thepaper.cn/newsDetail_forward_34272071",
         "desc": "",
-        "rank": 16
+        "rank": 15
       },
       {
         "title": "生态环境部发布10月下半月全国空气质量预报会商结果：以优良为主",
         "url": "https://www.thepaper.cn/newsDetail_forward_34273369",
         "desc": "",
-        "rank": 17
+        "rank": 16
       },
       {
         "title": "穿越时空看长征·多维视野｜吴海勇：二万五千里长征促成毛泽东持久战思想的跃进",
         "url": "https://www.thepaper.cn/newsDetail_forward_34204676",
         "desc": "",
-        "rank": 18
+        "rank": 17
       },
       {
         "title": "Swisse斯维诗抗糖丸被检出铅超标，官方客服：相关批次未进入中国销售",
         "url": "https://www.thepaper.cn/newsDetail_forward_34274427",
+        "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "招标摇球抽签一直摇到内定公司为止，一条微信揭开采购黑幕",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34274655",
         "desc": "",
         "rank": 19
       },
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "【年度总决赛二路解说合集】10月18日 KSG vs 上海EDG.M",
-        "url": "https://www.bilibili.com/video/BV1CRn36oE9L",
+        "title": "EDG真得尿检！上海EDG.M 3-1 KSG 赛后数据雷达图丨2026KPL年度总决赛",
+        "url": "https://www.bilibili.com/video/BV186n36MEDY",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1CRn36oE9L",
-        "author": "kpl二路",
-        "duration": "1471:27",
-        "cover": "//i1.hdslb.com/bfs/archive/b53eb6c991fae03829e7fe886865bc0edb2262fe.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CRn36oE9L&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV186n36MEDY",
+        "author": "捕快云缨",
+        "duration": "4:0",
+        "cover": "//i1.hdslb.com/bfs/archive/24533e070a90a2e3b3840bd979a73b1939f5ce7d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV186n36MEDY&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "上海EDG.M战胜KSG KPL"
       },
       {
@@ -1162,10 +1162,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792322763464,
-    "bilibili": 1792322772625,
-    "qbitai": 1792322793139,
-    "36kr": 1792322793577
+    "thepaper": 1792323663621,
+    "bilibili": 1792322675590,
+    "qbitai": 1792323694115,
+    "36kr": 1792323694630
   },
   "failures": {}
 }
