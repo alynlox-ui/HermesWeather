@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T13:56:29Z",
+  "updatedAt": "2026-10-18T14:11:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "LOUD夺得上海冠军赛冠军"
       },
       {
-        "title": "10月18号德比斯年度亚军，总积分第二，制造商张雪机车年度季军",
-        "url": "https://www.bilibili.com/video/BV16An56FEQm",
+        "title": "10月17日德比斯总积分排名第二，制造商张雪机车排名第三",
+        "url": "https://www.bilibili.com/video/BV1W2Jv64EyN",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV16An56FEQm",
+        "bvid": "BV1W2Jv64EyN",
         "author": "张雪机车极致热爱",
-        "duration": "1:25",
-        "cover": "//i2.hdslb.com/bfs/archive/d798263bba1647de45b1a0276f914e7f92d55965.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16An56FEQm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "1:54",
+        "cover": "//i2.hdslb.com/bfs/archive/24402b16606d04ab690b05adf0e8ae6d74096fc5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1W2Jv64EyN&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "张雪机车获制造商年度第三"
       },
       {
@@ -1162,10 +1162,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792331766124,
-    "bilibili": 1792331769084,
-    "qbitai": 1792331789357,
-    "36kr": 1792331789906
+    "thepaper": 1792332668640,
+    "bilibili": 1792331712254,
+    "qbitai": 1792332693698,
+    "36kr": 1792332694151
   },
   "failures": {}
 }
