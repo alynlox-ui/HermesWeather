@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T13:42:47Z",
+  "updatedAt": "2026-10-20T13:56:39Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -10,86 +10,86 @@
         "rank": 1
       },
       {
-        "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34282373",
-        "desc": "",
-        "rank": 2
-      },
-      {
         "title": "四川马边县通报“硫磺熏制鲜竹笋”：对涉事人员依法开展调查取证",
         "url": "https://www.thepaper.cn/newsDetail_forward_34282643",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "圆通致歉“客户取消快递订单被记为投诉”事件：不存在“咨询即处罚”等情况，将强化管理和培训",
         "url": "https://www.thepaper.cn/newsDetail_forward_34283747",
         "desc": "",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "读中本贯通的高分生们",
         "url": "https://www.thepaper.cn/newsDetail_forward_34280094",
         "desc": "",
-        "rank": 5
-      },
-      {
-        "title": "众声丨以实践成果申请专业学位，让评价标尺更适配应用型人才成长",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34282716",
-        "desc": "",
-        "rank": 6
-      },
-      {
-        "title": "冯远征称“招不到黄胖子”，业内专家：多方因素造成艺考“颜值内卷”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34287229",
-        "desc": "",
-        "rank": 7
+        "rank": 4
       },
       {
         "title": "众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应",
         "url": "https://www.thepaper.cn/newsDetail_forward_34288055",
         "desc": "",
-        "rank": 8
+        "rank": 5
       },
       {
         "title": "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
         "url": "https://www.thepaper.cn/newsDetail_forward_34289607",
         "desc": "",
-        "rank": 9
+        "rank": 6
+      },
+      {
+        "title": "众声丨以实践成果申请专业学位，让评价标尺更适配应用型人才成长",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34282716",
+        "desc": "",
+        "rank": 7
       },
       {
         "title": "驻英国使馆提醒我公民注意英方出入境检查，敦促英方停止任意扣留盘查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34289409",
         "desc": "",
+        "rank": 8
+      },
+      {
+        "title": "冯远征称“招不到黄胖子”，业内专家：多方因素造成艺考“颜值内卷”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34287229",
+        "desc": "",
+        "rank": 9
+      },
+      {
+        "title": "宜春丰城同田乡政府拖欠五千万工程款续：正协调处理，仍无最终结果",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34289676",
+        "desc": "",
         "rank": 10
+      },
+      {
+        "title": "纪念中国工农红军长征胜利90周年｜经典绘画中的长征",
+        "url": "https://www.thepaper.cn/newsDetail_forward_33483748",
+        "desc": "",
+        "rank": 11
       },
       {
         "title": "马上评｜星巴克明确消费入座，有边界感才有体面",
         "url": "https://www.thepaper.cn/newsDetail_forward_34288084",
         "desc": "",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "邯郸12岁女孩在橡皮泥黑作坊打工致6级伤残：厂方被判担责7成，监护人担责3成",
         "url": "https://www.thepaper.cn/newsDetail_forward_34281346",
         "desc": "",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "女子打砸酒水店后被送医诊断治疗，涉事店主：货架上基本是五粮液，目前定损30多万元",
         "url": "https://www.thepaper.cn/newsDetail_forward_34283132",
         "desc": "",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "甘肃张掖通报“风电项目影响野生动物栖息”：建设合规，将组织调研",
         "url": "https://www.thepaper.cn/newsDetail_forward_34287541",
-        "desc": "",
-        "rank": 14
-      },
-      {
-        "title": "外交部提醒赴法国中国公民加强安全防范",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34282817",
         "desc": "",
         "rank": 15
       },
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792503665812,
+    "thepaper": 1792504565712,
     "bilibili": 1792502932917,
-    "qbitai": 1792503766860,
-    "36kr": 1792503767305
+    "qbitai": 1792504599294,
+    "36kr": 1792504599793
   },
   "failures": {}
 }
