@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T01:28:34Z",
+  "updatedAt": "2026-10-23T01:43:10Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,20 @@
     ],
     "bilibili": [
       {
-        "title": "西藏地震已致16死76伤",
-        "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB76%E4%BC%A4",
+        "title": "西藏巴青7.0级地震已造成16人遇难、76人受伤",
+        "url": "https://www.bilibili.com/video/BV1gUnb6REiB",
         "desc": "",
-        "rank": 1
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "记者从西藏那曲市政府新闻办召开的新闻发布会上了解到，截至10月23日13时，地震已造成16人遇难、76人受伤，房屋倒塌及受损共339户，牲畜棚圈受损20座。（记者：翟永冠、格桑边觉、普布次仁）",
+        "content": "记者从西藏那曲市政府新闻办召开的新闻发布会上了解到，截至10月23日13时，地震已造成16人遇难、76人受伤，房屋倒塌及受损共339户，牲畜棚圈受损20座。（记者：翟永冠、格桑边觉、普布次仁）",
+        "bvid": "BV1gUnb6REiB",
+        "author": "新华社",
+        "duration": "0:50",
+        "cover": "//i2.hdslb.com/bfs/archive/f1d85cf45f27919b2c0858f31a4e68a239d34a5e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gUnb6REiB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "西藏地震已致16死76伤"
       },
       {
         "title": "2026全球总决赛 MINITALK - “又见面了”",
@@ -388,10 +398,20 @@
         "hotTitle": "AI短片妖怪衙门"
       },
       {
-        "title": "漫威新剧幻视任务神秘反派是谁",
-        "url": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E6%96%B0%E5%89%A7%E5%B9%BB%E8%A7%86%E4%BB%BB%E5%8A%A1%E7%A5%9E%E7%A7%98%E5%8F%8D%E6%B4%BE%E6%98%AF%E8%B0%81",
+        "title": "奥创夺舍！机械飞升！《寻找幻视》3-4集万字解析！神秘反派登场！",
+        "url": "https://www.bilibili.com/video/BV1Txn26eEyz",
         "desc": "",
-        "rank": 18
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《寻找幻视》3-4集",
+        "content": "《寻找幻视》3-4集",
+        "bvid": "BV1Txn26eEyz",
+        "author": "超英队长",
+        "duration": "48:5",
+        "cover": "//i2.hdslb.com/bfs/archive/3ac19dfe5da1c8c8248496e2a4217c507e48d63a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Txn26eEyz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "漫威新剧幻视任务神秘反派是谁"
       },
       {
         "title": "【徐静雨】37分超级大逆转，詹姆斯17+10率领费城击败骑士！",
@@ -458,54 +478,64 @@
         "hotTitle": "黄子韬徐艺洋为何这个节点官宣生子"
       },
       {
-        "title": "食贫道和大漠叔叔聊柬埔寨电诈",
-        "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E5%92%8C%E5%A4%A7%E6%BC%A0%E5%8F%94%E5%8F%94%E8%81%8A%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88",
+        "title": "《正常人谁去园区吃火锅啊》",
+        "url": "https://www.bilibili.com/video/BV1ionz6FEvX",
         "desc": "",
-        "rank": 23
-      },
-      {
-        "title": "何同学iPhone Duo首发体验",
-        "url": "https://search.bilibili.com/all?keyword=%E4%BD%95%E5%90%8C%E5%AD%A6iPhone%20Duo%E9%A6%96%E5%8F%91%E4%BD%93%E9%AA%8C",
-        "desc": "",
-        "rank": 24
-      },
-      {
-        "title": "为什么说AI正在帮玩家夺回游戏？",
-        "url": "https://www.bilibili.com/video/BV1uxn26eEJi",
-        "desc": "",
-        "rank": 25,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "花几百块买的游戏，厂商说关服就关服？当索尼宣布停产实体光盘，民间大神却用AI把PS5大作逆向搬上了PC。在便利的数字时代，到底是谁偷走了我们的游戏“房产证”？",
-        "content": "花几百块买的游戏，厂商说关服就关服？当索尼宣布停产实体光盘，民间大神却用AI把PS5大作逆向搬上了PC。在便利的数字时代，到底是谁偷走了我们的游戏“房产证”？",
-        "bvid": "BV1uxn26eEJi",
-        "author": "林亦LYi",
-        "duration": "17:54",
-        "cover": "//i0.hdslb.com/bfs/archive/44918e7ffdbe7804f90fcf5044a9ce73b523f253.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uxn26eEJi&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI逆向工具对游戏产业有何影响"
+        "description": "柬埔寨电诈Reaction，即将更新，敬请期待！",
+        "content": "柬埔寨电诈Reaction，即将更新，敬请期待！",
+        "bvid": "BV1ionz6FEvX",
+        "author": "食贫道",
+        "duration": "14:6",
+        "cover": "//i1.hdslb.com/bfs/archive/1b3605e206e657701280b53a469a5d83cd02c9d9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ionz6FEvX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "食贫道和大漠叔叔聊柬埔寨电诈"
       },
       {
-        "title": "iPhone Duo拆机测评",
-        "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E6%8B%86%E6%9C%BA%E6%B5%8B%E8%AF%84",
+        "title": "【何同学】能折！但代价呢？iPhone Duo首发体验",
+        "url": "https://www.bilibili.com/video/BV1XynB6EEiM",
         "desc": "",
-        "rank": 26
-      },
-      {
-        "title": "孙颖莎王曼昱缺阵，中国女团2-3惜败日本，谁能赢削球手桥本？",
-        "url": "https://www.bilibili.com/video/BV1MJnH6aE9r",
-        "desc": "",
-        "rank": 27,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1MJnH6aE9r",
-        "author": "乒乓Q奇",
-        "duration": "8:45",
-        "cover": "//i2.hdslb.com/bfs/archive/7b383f21f501d21e471e52fbb2dc4b47e900911e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MJnH6aE9r&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国女团2-3日本女团"
+        "bvid": "BV1XynB6EEiM",
+        "author": "老师好我叫何同学",
+        "duration": "27:44",
+        "cover": "//i0.hdslb.com/bfs/archive/efd1d3b1cf6472e54842cc08daf428f75f8f26e6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XynB6EEiM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "何同学iPhone Duo首发体验"
+      },
+      {
+        "title": "AI逆向工具对游戏产业有何影响",
+        "url": "https://search.bilibili.com/all?keyword=AI%E9%80%86%E5%90%91%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%B8%B8%E6%88%8F%E4%BA%A7%E4%B8%9A%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+        "desc": "",
+        "rank": 25
+      },
+      {
+        "title": "全网首拆iPhone DUO",
+        "url": "https://www.bilibili.com/video/BV1Gvnp6gE5Y",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "苹果的首款折叠屏，是不是也是你的第一款折叠屏？",
+        "content": "苹果的首款折叠屏，是不是也是你的第一款折叠屏？",
+        "bvid": "BV1Gvnp6gE5Y",
+        "author": "YCS杨长顺",
+        "duration": "15:9",
+        "cover": "//i1.hdslb.com/bfs/archive/0e3df2e7f661546ca8d5fdbf4eaba627b9a01ed7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Gvnp6gE5Y&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "iPhone Duo拆机测评"
+      },
+      {
+        "title": "中国女团2-3日本女团",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A22-3%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
+        "desc": "",
+        "rank": 27
       },
       {
         "title": "豆瓣5.6！狗尾续貂还是不被理解？ 夜之城最“区”传奇诞生记！万字拆解《赛博朋克：边缘行者2》",
@@ -524,20 +554,10 @@
         "hotTitle": "赛博朋克边缘行者2口碑崩了吗"
       },
       {
-        "title": "全新iPhone Duo折叠屏超详细验机教程 跟着教程不烧心「科技美学开箱」",
-        "url": "https://www.bilibili.com/video/BV1YVnH6iERd",
+        "title": "iPhone Duo折叠屏验机教程",
+        "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E6%8A%98%E5%8F%A0%E5%B1%8F%E9%AA%8C%E6%9C%BA%E6%95%99%E7%A8%8B",
         "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "全新iPhone Duo折叠屏超详细验机教程 跟着教程不烧心「科技美学开箱」",
-        "content": "全新iPhone Duo折叠屏超详细验机教程 跟着教程不烧心「科技美学开箱」",
-        "bvid": "BV1YVnH6iERd",
-        "author": "科技美学",
-        "duration": "16:36",
-        "cover": "//i2.hdslb.com/bfs/archive/5a609374a95e957b25eec821c746daadde37d8fc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YVnH6iERd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "iPhone Duo折叠屏验机教程"
+        "rank": 29
       },
       {
         "title": "首发五人组狂轰105分！76人29分大逆转骑士",
@@ -890,6 +910,36 @@
         "rank": 3
       },
       {
+        "title": "中国稀土：子公司非法采矿案被移送审查起诉",
+        "url": "https://m.36kr.com/newsflashes/4038262602945410",
+        "desc": "36氪获悉，中国稀土公告，公司控股子公司湖南稀土收到《案件移送起诉告知书》，其非法采矿案被移送检察机关审查起诉。该事项源于湖南稀土超出采矿许可证范围采出稀土矿7.17吨，此前已缴纳罚款396.16万元并完成整改。公司表示，该事件不会对生产经营产生重大不利影响，目前生产经营正常。",
+        "cover": "",
+        "date": 1792748343000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "中国人民银行行长潘功胜会见彼得森国际经济研究所代表团",
+        "url": "https://m.36kr.com/newsflashes/4038261817447297",
+        "desc": "36氪获悉，中国人民银行行长潘功胜会见了彼得森国际经济研究所长亚当·波森、荷兰央行前行长克拉斯·诺特、韩国央行前行长李昌镛、国际货币基金组织前首席经济学家皮埃尔-奥利维耶·古兰沙，双方围绕全球经济形势、金融市场动态、中国宏观经济政策等议题进行了交流。中国人民银行副行长宣昌能参加会见。",
+        "cover": "",
+        "date": 1792747941006,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "怡亚通在深圳成立科技供应链公司，注册资本1000万",
+        "url": "https://m.36kr.com/newsflashes/4038252515267462",
+        "desc": "36氪获悉，天眼查App显示，近日，深圳市怡亚通科技供应链有限公司成立，法定代表人为赖沛金，注册资本1000万元人民币，经营范围含科技中介服务、供应链管理服务、电子产品销售等。股东信息显示，该公司由深圳市怡亚通供应链股份有限公司全资持股。",
+        "cover": "",
+        "date": 1792747726000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "证监会：对长期资金投资私募投资母基金设置差异化投资比例要求",
         "url": "https://m.36kr.com/newsflashes/4038253569184645",
         "desc": "36氪获悉，为进一步规范私募投资母基金业务活动，促进私募投资母基金规范健康发展，中国证监会起草了《私募投资母基金管理规定》征求意见稿，现向社会公开征求意见。《母基金规定》共二十三条，主要内容包括：一是明确私募投资母基金概念和具体分类，细化认定标准，根据投资范围差异对私募投资母基金分类。二是明确私募投资母基金分散投资要求，对长期资金投资私募投资母基金设置差异化投资比例要求。三是明确对私募投资母基金豁免计入一层投资层级。四是对管理不同类型私募投资母基金的管理人提出持续性要求。五是明确私募投资母基金运作管理要求，压实管理人主动管理职责，建立健全投后跟踪、穿透管理和风险监测机制，并对基金托管、利益冲突和关联交易管理等提出相应要求。六是细化私募投资母基金投资负面清单，坚守合规底线。",
@@ -897,7 +947,7 @@
         "date": 1792747437572,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "中国证监会就《私募投资母基金管理规定（征求意见稿）》公开征求意见",
@@ -907,7 +957,7 @@
         "date": 1792747321200,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "8天4板华瓷股份：上半年含氧化锆的陶瓷新材料业务营收占比仅1.15%",
@@ -917,7 +967,7 @@
         "date": 1792747287454,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "央行：10月26日开展7000亿元MLF操作，期限为1年期",
@@ -927,7 +977,7 @@
         "date": 1792747101747,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "三安光电：实控人林秀成被检察机关批准逮捕",
@@ -937,7 +987,7 @@
         "date": 1792747056225,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "国务院：鼓励东部地区布局人工智能核心产业",
@@ -947,7 +997,7 @@
         "date": 1792746727101,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "立昂微：第三季度归母净利润9018.18万元，同比增长373.03%",
@@ -957,7 +1007,7 @@
         "date": 1792746692113,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "国办：减缓人工智能应用就业替代影响",
@@ -967,7 +1017,7 @@
         "date": 1792746627943,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "国务院：加快开发人工智能领域新职业",
@@ -977,7 +1027,7 @@
         "date": 1792746568981,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "赤峰黄金：第三季度归母净利润5.53亿元，同比下降41.84%",
@@ -987,7 +1037,7 @@
         "date": 1792746517240,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "全球首座半潜式风电制氢平台成功下水",
@@ -997,7 +1047,7 @@
         "date": 1792746436000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "国务院办公厅印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》",
@@ -1007,7 +1057,7 @@
         "date": 1792746150763,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "洛阳钼业：第三季度归母净利润78.67亿元，同比增长40.28%",
@@ -1017,7 +1067,7 @@
         "date": 1792745956808,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "中煤能源：第三季度归母净利润46亿元，同比下降3.8%",
@@ -1027,7 +1077,7 @@
         "date": 1792745699000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "申通快递：第三季度归母净利润5.4亿元，同比增长78.72%",
@@ -1037,7 +1087,7 @@
         "date": 1792745451000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "香港交易所：推出人工智能及半导体指数",
@@ -1047,7 +1097,7 @@
         "date": 1792745419939,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "东岳硅材：前三季度归母净利润5.57亿元，同比增长19413.54%",
@@ -1057,45 +1107,15 @@
         "date": 1792745364458,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "腾景科技：第三季度归母净利润4602.22万元，同比增长69.11%",
-        "url": "https://m.36kr.com/newsflashes/4038213568287618",
-        "desc": "36氪获悉，腾景科技公告，第三季度实现营收3.14亿元，同比增长93.70%；归母净利润4602.22万元，同比增长69.11%；前三季度实现营收7.44亿元，同比增长74.93%；归母净利润9610.42万元，同比增长50.63%。",
-        "cover": "",
-        "date": 1792744996111,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "华友钴业：第三季度归母净利润8.03亿元，同比下降46.68%",
-        "url": "https://m.36kr.com/newsflashes/4038211591345026",
-        "desc": "36氪获悉，华友钴业公告，第三季度实现营收252.08亿元，同比增长15.93%；归母净利润8.03亿元，同比下降46.68%；基本每股收益0.43元。前三季度实现营收807.76亿元，同比增长37.05%；归母净利润43.10亿元，同比增长2.23%。",
-        "cover": "",
-        "date": 1792744875448,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "Uber将ChatGPT Work推广至全部3万名员工",
-        "url": "https://m.36kr.com/newsflashes/4038198377173897",
-        "desc": "Uber与OpenAI周四宣布扩大合作伙伴关系。这家网约车巨头向TechCrunch表示，旗下全球约3万名员工将全面使用ChatGPT Work。ChatGPT Work于今年7月推出，是一款面向企业的AI智能体产品，可供企业团队应用于各种工作流程。今年早些时候，Uber最初选择了1000名员工试点使用ChatGPT Work，如今已决定将其推广至整个公司。此前的试点项目覆盖了Uber多个部门的员工，包括财务、运营和产品部门。Uber工程副总裁苏曼特·苏库马尔（Sumanth Sukumar）向TechCrunch表示，早期使用者中约80%并非工程师。（新浪财经）",
-        "cover": "",
-        "date": 1792744420000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792747567655,
-    "bilibili": 1792747585029,
-    "qbitai": 1792718914181,
-    "36kr": 1792718914649
+    "thepaper": 1792748469552,
+    "bilibili": 1792747295138,
+    "qbitai": 1792719789788,
+    "36kr": 1792719790128
   },
   "failures": {}
 }
