@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T01:56:24Z",
+  "updatedAt": "2026-10-24T02:11:25Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -167,7 +167,7 @@
         "description": "挽昼将在《绝区零》3.4版本作为全新虚狩、首位结使代理人正式登场。另外，《绝区零》×《崩坏：星穹铁道》联动也将开启，敬请期待！ —— 欢迎来到罗斯凯利法！——",
         "content": "挽昼将在《绝区零》3.4版本作为全新虚狩、首位结使代理人正式登场。另外，《绝区零》×《崩坏：星穹铁道》联动也将开启，敬请期待！ —— 欢迎来到罗斯凯利法！——",
         "bvid": "BV1U3n46GEzY",
-        "author": "",
+        "author": "绝区零",
         "duration": "1:23",
         "cover": "//i1.hdslb.com/bfs/archive/b08dd70bdc097968dd8318bc65b3e2eafc2f2c27.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1U3n46GEzY&p=1&high_quality=1&danmaku=0&autoplay=0",
@@ -351,18 +351,18 @@
       },
       {
         "title": "【2026全球总决赛】10月24日 LOS vs T1",
-        "url": "https://www.bilibili.com/video/BV1mHnY6fEL7",
+        "url": "https://www.bilibili.com/video/BV17BHA68EVS",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026全球总决赛】10月24日 LOS vs T1",
-        "content": "【2026全球总决赛】10月24日 LOS vs T1",
-        "bvid": "BV1mHnY6fEL7",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "48:16",
-        "cover": "//i2.hdslb.com/bfs/archive/4edde8393d4312953c4064391474763ee865f899.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mHnY6fEL7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV17BHA68EVS",
+        "author": "4K无需多言",
+        "duration": "32:17",
+        "cover": "//i0.hdslb.com/bfs/archive/041e82bb1b734632513317ae81690a81b784f786.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17BHA68EVS&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "T1战胜LOS S16瑞士轮"
       },
       {
@@ -940,6 +940,26 @@
         "rank": 3
       },
       {
+        "title": "亿铸科技完成超10亿元新一轮融资",
+        "url": "https://m.36kr.com/newsflashes/4039705825858436",
+        "desc": "36氪获悉，存算一体AI芯片公司亿铸科技宣布完成超10亿元新一轮融资。公司基于3D DRAM的全数字通用存算一体AI芯片已完成流片，商用芯片测试结果基本达到预设设计指标。本轮融资将用于研发投入、产品迭代及产业化推进。",
+        "cover": "",
+        "date": 1792836076285,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "腾讯WorkBuddy接入模型Kimi-K3.1-Pro",
+        "url": "https://m.36kr.com/newsflashes/4039662177653892",
+        "desc": "10月24日，腾讯WorkBuddy宣布已接入模型Kimi-K3.1-Pro。据介绍，WorkBuddy同步接入高速版模型Kimi K3.1 Pro Highspeed，同等智能，输出速度约2-3倍。目前资源紧张，现阶段仅对“企业旗舰版”及“个人订阅用户”优先开放。",
+        "cover": "",
+        "date": 1792836019000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "高压蓄电池可能起火 大众在美国召回9048辆奥迪汽车",
         "url": "https://m.36kr.com/newsflashes/4039566962463621",
         "desc": "据美国国家公路交通安全管理局（NHTSA）披露的召回信息，大众集团美国公司正在召回部分2024-2025款奥迪Q4 E-Tron和Q4 Sportback E-Tron车辆，共计9048辆。召回原因为高压蓄电池可能发生故障并导致起火。（财联社）",
@@ -947,7 +967,7 @@
         "date": 1792834928000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "独家｜字节AI应用再整合：小云雀并入即梦",
@@ -957,7 +977,7 @@
         "date": 1792834895957,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "海航控股与零重空间将在飞机通信服务领域开展战略合作",
@@ -967,7 +987,7 @@
         "date": 1792833622000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "31省份2025年婚姻数据公布，广东结婚登记人数连续四年第一",
@@ -977,7 +997,7 @@
         "date": 1792832103000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "微信回应少量企业微信账号发色情链接：将进一步加大对外挂软件的打击力度",
@@ -987,7 +1007,7 @@
         "date": 1792830892000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "周鸿祎拟转让奇飞翔艺股权",
@@ -997,7 +1017,7 @@
         "date": 1792829729000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "工业互联网操作系统产业联盟在深成立",
@@ -1007,7 +1027,7 @@
         "date": 1792828471000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "减少重复开发和建设成本 我国启动自主实验室标准体系研制工作",
@@ -1017,7 +1037,7 @@
         "date": 1792827206000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "智元110台人形机器人同时跳舞，创吉尼斯世界纪录",
@@ -1027,7 +1047,7 @@
         "date": 1792825821000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "南方区域电力市场经营主体已超29万家",
@@ -1037,7 +1057,7 @@
         "date": 1792824404000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍",
@@ -1047,7 +1067,7 @@
         "date": 1792823106000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "国内金饰克价跌穿1200元 1个月下跌约100元",
@@ -1057,7 +1077,7 @@
         "date": 1792821496000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "全球最大独立AI影视公司Utopai Studios跻身独角兽行列",
@@ -1067,7 +1087,7 @@
         "date": 1792820810306,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "首个汽车行业AI基座发布 面向全行业开放共享",
@@ -1077,7 +1097,7 @@
         "date": 1792819856000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "杰瑞股份：公司海外业务收入占比已经超过50%",
@@ -1087,7 +1107,7 @@
         "date": 1792818157000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "捷豹路虎北美公司将在美国召回93997辆汽车",
@@ -1097,7 +1117,7 @@
         "date": 1792816798000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "国家统计局：10月中旬22种产品价格上涨，生猪价格环比下降4.9%",
@@ -1107,7 +1127,7 @@
         "date": 1792815298000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "乘联分会崔东树：9月我国动力和其它电池合计产量为237GWh，同比增长57%",
@@ -1117,35 +1137,15 @@
         "date": 1792814207000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "产业资本频频出手 北交所上市公司增持回购升温",
-        "url": "https://m.36kr.com/newsflashes/4039241092797320",
-        "desc": "近期产业资本频频出手，北交所上市公司增持回购明显升温。日前，锦波生物公告，战略投资人养生堂通过集中竞价首次增持公司股份。此前其已承诺18个月内累计增持不低于10亿元，成为北交所年内规模最大的增持承诺之一。养生堂的实控人为农夫山泉创始人钟睒睒，其持有养生堂98.38%股权。与此同时，多家北交所公司回购公告同步出炉，回购预案金额与实际回购规模双双创出近年新高，形成股东增持、公司回购双向发力的格局。（人民财讯）",
-        "cover": "",
-        "date": 1792813241000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "资金借道宽基ETF逆势布局 近20个交易日净流入超2300亿元",
-        "url": "https://m.36kr.com/newsflashes/4039238533682051",
-        "desc": "近期，资金借道宽基ETF（交易型开放式指数基金）积极布局A股市场。万得数据显示，10月22日，全市场宽基ETF单日净流入516.55亿元。将时间拉长至近20个交易日（9月17日至10月22日）来看，股票型ETF累计净流入2496.59亿元，其中宽基ETF净流入2361.41亿元，占比达94.59%。从具体产品来看，资金主要流向沪深300、科创50、创业板等指数相关ETF。（证券日报）",
-        "cover": "",
-        "date": 1792812051000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792835765891,
-    "bilibili": 1792835769519,
-    "qbitai": 1792806984479,
-    "36kr": 1792806984932
+    "thepaper": 1792836666234,
+    "bilibili": 1792835590021,
+    "qbitai": 1792807885415,
+    "36kr": 1792807885898
   },
   "failures": {}
 }
