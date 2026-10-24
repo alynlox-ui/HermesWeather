@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:12:36Z",
+  "updatedAt": "2026-10-23T18:27:22Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -46,44 +46,44 @@
         "rank": 7
       },
       {
+        "title": "马上评丨车企叫你一声“老登”，你答应不答应？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34319646",
+        "desc": "",
+        "rank": 8
+      },
+      {
         "title": "联大背后的私密外交：当帝国边缘的“牛马”遭遇顶级政治秀｜907编辑部",
         "url": "https://www.thepaper.cn/newsDetail_forward_34318468",
         "desc": "",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "台风“蔷琵”携风雨而来，上海如何织密防御网？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34319630",
         "desc": "",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "AI算力市场需求持续旺盛：寒武纪三季度营收翻倍，净利14亿元增近1.5倍",
         "url": "https://www.thepaper.cn/newsDetail_forward_34320341",
         "desc": "",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "西藏巴青“拉张型”地震是如何发生的？影响有多大？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34317116",
         "desc": "",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "“暴雨蓝色+大风蓝色”预警！上海启动防汛防台四级响应行动",
         "url": "https://www.thepaper.cn/newsDetail_forward_34321018",
         "desc": "",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "18只主动ETF首日吸金超150亿：三只一日售罄，券商公募总自购超21亿",
         "url": "https://www.thepaper.cn/newsDetail_forward_34320199",
-        "desc": "",
-        "rank": 13
-      },
-      {
-        "title": "美国中期选举｜共和党资金充裕但选情承压",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34317520",
         "desc": "",
         "rank": 14
       },
@@ -94,8 +94,8 @@
         "rank": 15
       },
       {
-        "title": "从制胜之道到必胜之路：伟大长征精神何以照亮新征程？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34316685",
+        "title": "美国中期选举｜共和党资金充裕但选情承压",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34317520",
         "desc": "",
         "rank": 16
       },
@@ -106,8 +106,8 @@
         "rank": 17
       },
       {
-        "title": "西藏巴青7.0级地震已造成16人遇难、76人受伤",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34317430",
+        "title": "从制胜之道到必胜之路：伟大长征精神何以照亮新征程？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34316685",
         "desc": "",
         "rank": 18
       },
@@ -118,18 +118,28 @@
         "rank": 19
       },
       {
-        "title": "淮北市委书记蒋曦当选安徽省委常委",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34316505",
+        "title": "西藏巴青7.0级地震已造成16人遇难、76人受伤",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34317430",
         "desc": "",
         "rank": 20
       }
     ],
     "bilibili": [
       {
-        "title": "西藏地震已致16死76伤",
-        "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB76%E4%BC%A4",
+        "title": "西藏巴青7.0级地震已造成16人遇难、76人受伤",
+        "url": "https://www.bilibili.com/video/BV1gUnb6REiB",
         "desc": "",
-        "rank": 1
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "记者从西藏那曲市政府新闻办召开的新闻发布会上了解到，截至10月23日13时，地震已造成16人遇难、76人受伤，房屋倒塌及受损共339户，牲畜棚圈受损20座。（记者：翟永冠、格桑边觉、普布次仁）",
+        "content": "记者从西藏那曲市政府新闻办召开的新闻发布会上了解到，截至10月23日13时，地震已造成16人遇难、76人受伤，房屋倒塌及受损共339户，牲畜棚圈受损20座。（记者：翟永冠、格桑边觉、普布次仁）",
+        "bvid": "BV1gUnb6REiB",
+        "author": "新华社",
+        "duration": "0:50",
+        "cover": "//i2.hdslb.com/bfs/archive/f1d85cf45f27919b2c0858f31a4e68a239d34a5e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gUnb6REiB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "西藏地震已致16死76伤"
       },
       {
         "title": "【2026全球总决赛】10月24日 BLG vs MKOI",
@@ -164,58 +174,68 @@
         "hotTitle": "Kimi K3.1 Pro发布"
       },
       {
-        "title": "369与Zeus交手表现如何",
-        "url": "https://search.bilibili.com/all?keyword=369%E4%B8%8EZeus%E4%BA%A4%E6%89%8B%E8%A1%A8%E7%8E%B0%E5%A6%82%E4%BD%95",
+        "title": "【2026全球总决赛】10月24日 AL vs KC",
+        "url": "https://www.bilibili.com/video/BV1PXne6tEyq",
         "desc": "",
-        "rank": 4
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【2026全球总决赛】10月24日 AL vs KC",
+        "content": "【2026全球总决赛】10月24日 AL vs KC",
+        "bvid": "BV1PXne6tEyq",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "52:46",
+        "cover": "//i1.hdslb.com/bfs/archive/b9c7723969d553dc8c307aeef2684794d1930e06.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PXne6tEyq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "KC战胜AL S16瑞士轮"
       },
       {
-        "title": "【S16】GENG1-0IG。虽然中路巨大gap，但你好像最有面子",
-        "url": "https://www.bilibili.com/video/BV1ECnY6yEEV",
+        "title": "世界第二！超越GPT6！新国模一哥K3.1Pro有多强？Kimi K3.1Pro性能数据解读！",
+        "url": "https://www.bilibili.com/video/BV1gfnY6eEZ1",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ECnY6yEEV",
-        "author": "心语悦无言",
-        "duration": "15:55",
-        "cover": "//i0.hdslb.com/bfs/archive/e1debf5e70c5e7786f5adccfa7a6284ab993e449.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ECnY6yEEV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "拆解GEN vs IG选手表现"
+        "description": "Kimi现在也是性能世界第二的AI公司了，Claude还是太猛了，只能期待一手Deepseek v4.1Pro能不能再进一步了。要知道这事纯后训练堆出来的结果。这是一期性能解读，具体实测很快就来！",
+        "content": "Kimi现在也是性能世界第二的AI公司了，Claude还是太猛了，只能期待一手Deepseek v4.1Pro能不能再进一步了。要知道这事纯后训练堆出来的结果。这是一期性能解读，具体实测很快就来！",
+        "bvid": "BV1gfnY6eEZ1",
+        "author": "林禾Link",
+        "duration": "10:56",
+        "cover": "//i2.hdslb.com/bfs/archive/494048252ffdd36366bfa7dd2660883e4837bada.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gfnY6eEZ1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "深度解读Kimi K3.1 Pro性能"
       },
       {
-        "title": "深度复盘IGvsGENG，唯一没那么烧心的一把比赛",
-        "url": "https://www.bilibili.com/video/BV1tWnY6tES1",
+        "title": "完辣！MKOI 1-0 BLG 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV1VQnh6hEFF",
         "desc": "",
         "rank": 6,
         "kind": "video",
         "platform": "bilibili",
-        "description": "四个0-1，大概率要内战了",
-        "content": "四个0-1，大概率要内战了",
-        "bvid": "BV1tWnY6tES1",
-        "author": "阿皮apiOVO",
-        "duration": "17:12",
-        "cover": "//i0.hdslb.com/bfs/archive/9d1de6a305d3c9ee8ec338e7a42fa81232ec42fb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tWnY6tES1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "深度复盘GEN战胜IG"
+        "description": "",
+        "content": "",
+        "bvid": "BV1VQnh6hEFF",
+        "author": "苦练李香兰",
+        "duration": "1:5",
+        "cover": "//i0.hdslb.com/bfs/archive/dcb5a8e12da910b78c0e7515259ea9f54f3f3f99.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VQnh6hEFF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "数据回顾BLG爆冷不敌MKOI"
       },
       {
-        "title": "虐！GEN 1-0 IG 赛后数据雷达图丨2026全球总决赛-瑞士轮",
-        "url": "https://www.bilibili.com/video/BV1C3na6mEsV",
+        "title": "我的天呐！这S赛太让人痛苦了，突破历史的首日全败！观众做了什么坏事要熬夜看这种比赛？【1酱赛评S赛瑞士轮Day1】",
+        "url": "https://www.bilibili.com/video/BV1WtHA6TEew",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1C3na6mEsV",
-        "author": "苦练李香兰",
-        "duration": "1:5",
-        "cover": "//i1.hdslb.com/bfs/archive/4b20e78a0f21b45175beb138f8f14b24a1cd62bf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1C3na6mEsV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GEN战胜IG S16瑞士轮"
+        "description": "视频制作剪辑@闻人常安AreS",
+        "content": "视频制作剪辑@闻人常安AreS",
+        "bvid": "BV1WtHA6TEew",
+        "author": "你是想气死1酱么",
+        "duration": "11:49",
+        "cover": "//i0.hdslb.com/bfs/archive/8aaadc1efe79243e3b0f95bee237c7c18a07c292.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WtHA6TEew&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "369与Zeus交手表现如何"
       },
       {
         "title": "29分大逆转！詹姆斯天神级防守到底有多强？为什么他的错防无法破解？",
@@ -234,10 +254,26 @@
         "hotTitle": "76人为何能创造29分大逆转"
       },
       {
+        "title": "深度复盘IGvsGENG，唯一没那么烧心的一把比赛",
+        "url": "https://www.bilibili.com/video/BV1tWnY6tES1",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "四个0-1，大概率要内战了",
+        "content": "四个0-1，大概率要内战了",
+        "bvid": "BV1tWnY6tES1",
+        "author": "阿皮apiOVO",
+        "duration": "17:12",
+        "cover": "//i0.hdslb.com/bfs/archive/9d1de6a305d3c9ee8ec338e7a42fa81232ec42fb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tWnY6tES1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "深度复盘GEN战胜IG"
+      },
+      {
         "title": "大暴雨来了：台风蔷琵将非常接近登陆我国，台风烟花及印度洋风暴将生成",
         "url": "https://www.bilibili.com/video/BV12cn862EUT",
         "desc": "",
-        "rank": 9,
+        "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "10月23日晚9点，强台风蔷琵来到我国台湾三貂角以东约70公里的海面上。卫星云图可见，10月23日上午，蔷琵在太平洋黑潮暖暖流的支持下，形态有所改善，但下午起在大量干冷空气的入侵中，台风的核心结构崩溃，台风眼消失。这说明，蔷琵已经开始快速减弱。 不过正所谓瘦死的骆驼比马大。蔷琵虽然减弱了，但第一，老底子还在，还是有能力制造狂风暴雨的。10月23日下午，琉球岛链上的与那国岛最低海压一度降至947.5hpa，西表岛出现16级阵风并全岛大停电，而我国台湾宜兰出现超大豪雨，20小时最大雨量达到537毫米，达到特大",
@@ -248,22 +284,6 @@
         "cover": "//i0.hdslb.com/bfs/archive/f229b1ba16da437230e62ee4f025797a007b27ef.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12cn862EUT&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "大暴雨来了"
-      },
-      {
-        "title": "独自在北极草原露营3天，采蘑菇、钓肥鱼，过上富足生活",
-        "url": "https://www.bilibili.com/video/BV12Jnb6yEmd",
-        "desc": "",
-        "rank": 10,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这期节目我将独自划船徒步60公里（往返）， 来到北极草原腹地的世界顶级钓场。 在蚊虫和暴雨的轮番围轰炸下露营， 偶遇行为令人迷惑的各种野生鸟类， 现采牛肝菌并且现钓肥鱼制作大餐。 与大量随机刷新的钓鱼佬同场竞技， 还有神秘嘉宾坐直升飞机从天而降。 大家好 我是FJ， 欢迎收看我的频道 蜀犬吠日。",
-        "content": "这期节目我将独自划船徒步60公里（往返）， 来到北极草原腹地的世界顶级钓场。 在蚊虫和暴雨的轮番围轰炸下露营， 偶遇行为令人迷惑的各种野生鸟类， 现采牛肝菌并且现钓肥鱼制作大餐。 与大量随机刷新的钓鱼佬同场竞技， 还有神秘嘉宾坐直升飞机从天而降。 大家好 我是FJ， 欢迎收看我的频道 蜀犬吠日。",
-        "bvid": "BV12Jnb6yEmd",
-        "author": "蜀犬吠日SCFR",
-        "duration": "70:18",
-        "cover": "//i1.hdslb.com/bfs/archive/9f7da1141907e4e757685659eed7c08abf382df9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12Jnb6yEmd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "北极荒野简直是天然自助餐"
       },
       {
         "title": "申奥2036，造五代机，国产空间站，莫迪的发达印度梦开始全面发力！",
@@ -282,58 +302,42 @@
         "hotTitle": "印度的申奥和登月梦能实现吗"
       },
       {
-        "title": "【2026全球总决赛】10月24日 AL vs KC",
-        "url": "https://www.bilibili.com/video/BV1PXne6tEyq",
+        "title": "虐！GEN 1-0 IG 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV1C3na6mEsV",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026全球总决赛】10月24日 AL vs KC",
-        "content": "【2026全球总决赛】10月24日 AL vs KC",
-        "bvid": "BV1PXne6tEyq",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "52:46",
-        "cover": "//i1.hdslb.com/bfs/archive/b9c7723969d553dc8c307aeef2684794d1930e06.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PXne6tEyq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "KC战胜AL S16瑞士轮"
+        "description": "",
+        "content": "",
+        "bvid": "BV1C3na6mEsV",
+        "author": "苦练李香兰",
+        "duration": "1:5",
+        "cover": "//i1.hdslb.com/bfs/archive/4b20e78a0f21b45175beb138f8f14b24a1cd62bf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1C3na6mEsV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GEN战胜IG S16瑞士轮"
       },
       {
-        "title": "绝望开抽！HLE 1-0 TES 赛后数据雷达图丨2026全球总决赛-瑞士轮",
-        "url": "https://www.bilibili.com/video/BV1cjna65EaK",
+        "title": "从四六级一路到科切拉，刘晓艳百万级直拍封神现场！",
+        "url": "https://www.bilibili.com/video/BV1Wone6REPF",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1cjna65EaK",
-        "author": "苦练李香兰",
-        "duration": "1:5",
-        "cover": "//i0.hdslb.com/bfs/archive/a1cd7cddaf10ca710dac4d5d32d8d22f0a3ada4d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cjna65EaK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "HLE战胜TES数据雷达图"
-      },
-      {
-        "title": "【2026全球总决赛】10月24日 TSW vs LYON",
-        "url": "https://www.bilibili.com/video/BV1pxHA6BEga",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【2026全球总决赛】10月24日 TSW vs LYON",
-        "content": "【2026全球总决赛】10月24日 TSW vs LYON",
-        "bvid": "BV1pxHA6BEga",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "60:14",
-        "cover": "//i2.hdslb.com/bfs/archive/17f437e70fad1a84e797adb6ba81273f4fad7f6d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pxHA6BEga&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "LYON战胜TSW S16瑞士轮"
+        "bvid": "BV1Wone6REPF",
+        "author": "考研英语晓燕",
+        "duration": "0:15",
+        "cover": "//i2.hdslb.com/bfs/archive/892198599ce0c064d60ef4a9f1486b39b4c121dc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wone6REPF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "刘晓艳 从四六级到科切拉"
       },
       {
         "title": "【锐评S16瑞士轮第一日】LPL大获全败，一胜难求！一起创造新的历史！这里是地狱吗？",
         "url": "https://www.bilibili.com/video/BV14WnY6tEwh",
         "desc": "",
-        "rank": 15,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -349,7 +353,7 @@
         "title": "【2026全球总决赛】10月24日 LOS vs T1",
         "url": "https://www.bilibili.com/video/BV1mHnY6fEL7",
         "desc": "",
-        "rank": 16,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "【2026全球总决赛】10月24日 LOS vs T1",
@@ -362,32 +366,16 @@
         "hotTitle": "T1战胜LOS S16瑞士轮"
       },
       {
-        "title": "S16瑞士轮第二轮抽签结果",
-        "url": "https://search.bilibili.com/all?keyword=S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C",
+        "title": "LYON战胜TSW S16瑞士轮",
+        "url": "https://search.bilibili.com/all?keyword=TSW%20LYON",
         "desc": "",
-        "rank": 17
-      },
-      {
-        "title": "1%赢球概率？詹姆斯无敌防守！76人真要总冠军？",
-        "url": "https://www.bilibili.com/video/BV1Qan86sEiv",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Qan86sEiv",
-        "author": "业余球探刀先生",
-        "duration": "13:3",
-        "cover": "//i2.hdslb.com/bfs/archive/6fac907dd212f0cb983d0b49d4c0392219f740da.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qan86sEiv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "詹姆斯防守能力有多强"
+        "rank": 16
       },
       {
         "title": "【六爻玄学预测】S16瑞士轮 HLE VS TES，看片发威，韩华速通?",
         "url": "https://www.bilibili.com/video/BV15ynb6tEVw",
         "desc": "",
-        "rank": 19,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "仅供娱乐，切勿以此为准进行任何投资活动",
@@ -400,36 +388,68 @@
         "hotTitle": "HLE战胜TES S16瑞士轮"
       },
       {
-        "title": "S16应援曲《以风之名》",
-        "url": "https://www.bilibili.com/video/BV1njnp6pEbF",
+        "title": "独自在北极草原露营3天，采蘑菇、钓肥鱼，过上富足生活",
+        "url": "https://www.bilibili.com/video/BV12Jnb6yEmd",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这期节目我将独自划船徒步60公里（往返）， 来到北极草原腹地的世界顶级钓场。 在蚊虫和暴雨的轮番围轰炸下露营， 偶遇行为令人迷惑的各种野生鸟类， 现采牛肝菌并且现钓肥鱼制作大餐。 与大量随机刷新的钓鱼佬同场竞技， 还有神秘嘉宾坐直升飞机从天而降。 大家好 我是FJ， 欢迎收看我的频道 蜀犬吠日。",
+        "content": "这期节目我将独自划船徒步60公里（往返）， 来到北极草原腹地的世界顶级钓场。 在蚊虫和暴雨的轮番围轰炸下露营， 偶遇行为令人迷惑的各种野生鸟类， 现采牛肝菌并且现钓肥鱼制作大餐。 与大量随机刷新的钓鱼佬同场竞技， 还有神秘嘉宾坐直升飞机从天而降。 大家好 我是FJ， 欢迎收看我的频道 蜀犬吠日。",
+        "bvid": "BV12Jnb6yEmd",
+        "author": "蜀犬吠日SCFR",
+        "duration": "70:18",
+        "cover": "//i1.hdslb.com/bfs/archive/9f7da1141907e4e757685659eed7c08abf382df9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12Jnb6yEmd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "北极荒野简直是天然自助餐"
+      },
+      {
+        "title": "2026全球总决赛瑞士轮第二轮抽签结果",
+        "url": "https://www.bilibili.com/video/BV1jBHA68Emn",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1jBHA68Emn",
+        "author": "英雄联盟赛事",
+        "duration": "0:47",
+        "cover": "//i2.hdslb.com/bfs/archive/3263f794a3f66259681bc5bfab0734ee9f67cea6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jBHA68Emn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S16瑞士轮第二轮抽签结果"
+      },
+      {
+        "title": "《原神》7.2版本PV：「坏灭肇始之时」",
+        "url": "https://www.bilibili.com/video/BV1z9nt6aE5H",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "原曲：《以父之名》 原唱：周杰伦 混音：@SpecialSound 填词/翻唱/和声/剪辑：蔚蓝边际",
-        "content": "原曲：《以父之名》 原唱：周杰伦 混音：@SpecialSound 填词/翻唱/和声/剪辑：蔚蓝边际",
-        "bvid": "BV1njnp6pEbF",
-        "author": "蔚蓝边际",
-        "duration": "3:36",
-        "cover": "//i0.hdslb.com/bfs/archive/06e53f0a74b23ff0b508fa1ceafa150b3a1c8f76.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1njnp6pEbF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S16应援曲 以风之名"
+        "description": "世界的坟墓我已看见，我将它指给无上的高天。 人若为毁灭而造下，倒不如燃烧那愤怒与生的火焰。 中文CV： 派蒙——多多 「光之镜」——多多 空——鹿喑 米提亚——苏尚卿 诺伊——三石 「丑角」皮耶罗——符冲 瓦列里——淦子齐 安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅——刘校妤 玛薇卡——李晔 那维莱特——桑毓泽 纳西妲——花玲 温迪——喵☆酱 钟离——彭博 八重神子——杜冥鸦 影——菊花花 日文CV： 派蒙——古贺葵 「光之镜」——古贺葵 空——堀江瞬 米提亚——小林裕介 诺伊——三木真一郎 「丑角」皮耶",
+        "content": "世界的坟墓我已看见，我将它指给无上的高天。 人若为毁灭而造下，倒不如燃烧那愤怒与生的火焰。 中文CV： 派蒙——多多 「光之镜」——多多 空——鹿喑 米提亚——苏尚卿 诺伊——三石 「丑角」皮耶罗——符冲 瓦列里——淦子齐 安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅——刘校妤 玛薇卡——李晔 那维莱特——桑毓泽 纳西妲——花玲 温迪——喵☆酱 钟离——彭博 八重神子——杜冥鸦 影——菊花花 日文CV： 派蒙——古贺葵 「光之镜」——古贺葵 空——堀江瞬 米提亚——小林裕介 诺伊——三木真一郎 「丑角」皮耶",
+        "bvid": "BV1z9nt6aE5H",
+        "author": "原神",
+        "duration": "16:49",
+        "cover": "//i0.hdslb.com/bfs/archive/b902371f8d2f165449eb06c11f482b7776c458e5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z9nt6aE5H&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "原神7.2版本PV"
       },
       {
-        "title": "台风蔷琵深度影响我国！这些地方要特别小心",
-        "url": "https://www.bilibili.com/video/BV1rRnn6UEGD",
+        "title": "警告！别跟海绵宝宝学做蟹黄堡！！",
+        "url": "https://www.bilibili.com/video/BV17pnp6EEen",
         "desc": "",
         "rank": 21,
         "kind": "video",
         "platform": "bilibili",
-        "description": "台风蔷琵一定会深度影响我国了！科普航告诉你，江浙沪一定会下台风雨，而且会在周末下；台风水汽甚至还要飘到北方多省。台风都没确定要登陆，怎么就笃定影响了？这场台风雨到底有多大？ 10月22日晚上，台风蔷琵的中心已来到我国台湾东南近海，它是否登陆我国仍然没确定。人工智能模型虽然不断西调蔷琵的路径，但始终认为它将在10月24日紧擦台湾东北部沿海不登陆；而传统数值模型也咬死了蔷琵很大可能登陆台湾和浙江，时间是10月24-25日。看来不到最后一刻，蔷琵是否登陆我国这个问题都定不下来。 但要注意三点，第一，蔷琵将离我国",
-        "content": "台风蔷琵一定会深度影响我国了！科普航告诉你，江浙沪一定会下台风雨，而且会在周末下；台风水汽甚至还要飘到北方多省。台风都没确定要登陆，怎么就笃定影响了？这场台风雨到底有多大？ 10月22日晚上，台风蔷琵的中心已来到我国台湾东南近海，它是否登陆我国仍然没确定。人工智能模型虽然不断西调蔷琵的路径，但始终认为它将在10月24日紧擦台湾东北部沿海不登陆；而传统数值模型也咬死了蔷琵很大可能登陆台湾和浙江，时间是10月24-25日。看来不到最后一刻，蔷琵是否登陆我国这个问题都定不下来。 但要注意三点，第一，蔷琵将离我国",
-        "bvid": "BV1rRnn6UEGD",
-        "author": "中气爱科普航",
-        "duration": "1:48",
-        "cover": "//i0.hdslb.com/bfs/archive/6244bbecc355e3c5b852553b238f8e5597be413b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rRnn6UEGD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "台风蔷琵来袭"
+        "description": "原来海绵宝宝里，最好吃的汉堡不是海绵宝宝做的！今天咱们就来复刻这款最美味最漂亮的美美吉姆蟹黄堡，据说好吃到让海绵宝宝都螺旋上天~~~",
+        "content": "原来海绵宝宝里，最好吃的汉堡不是海绵宝宝做的！今天咱们就来复刻这款最美味最漂亮的美美吉姆蟹黄堡，据说好吃到让海绵宝宝都螺旋上天~~~",
+        "bvid": "BV17pnp6EEen",
+        "author": "上班族的便当",
+        "duration": "8:24",
+        "cover": "//i0.hdslb.com/bfs/archive/5c66d9ca3842c227f1146d7520d380ef5a2778ba.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17pnp6EEen&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "复刻海绵宝宝里最好吃的汉堡"
       },
       {
         "title": "【S16】S赛都在练什么英雄？职业都取什么ID？BLG的最大优点也是缺点？",
@@ -448,26 +468,42 @@
         "hotTitle": "S赛各队都在练什么英雄"
       },
       {
-        "title": "警告！别跟海绵宝宝学做蟹黄堡！！",
-        "url": "https://www.bilibili.com/video/BV17pnp6EEen",
+        "title": "S16应援曲《以风之名》",
+        "url": "https://www.bilibili.com/video/BV1njnp6pEbF",
         "desc": "",
         "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "原来海绵宝宝里，最好吃的汉堡不是海绵宝宝做的！今天咱们就来复刻这款最美味最漂亮的美美吉姆蟹黄堡，据说好吃到让海绵宝宝都螺旋上天~~~",
-        "content": "原来海绵宝宝里，最好吃的汉堡不是海绵宝宝做的！今天咱们就来复刻这款最美味最漂亮的美美吉姆蟹黄堡，据说好吃到让海绵宝宝都螺旋上天~~~",
-        "bvid": "BV17pnp6EEen",
-        "author": "上班族的便当",
-        "duration": "8:24",
-        "cover": "//i0.hdslb.com/bfs/archive/5c66d9ca3842c227f1146d7520d380ef5a2778ba.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17pnp6EEen&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "复刻海绵宝宝里最好吃的汉堡"
+        "description": "原曲：《以父之名》 原唱：周杰伦 混音：@SpecialSound 填词/翻唱/和声/剪辑：蔚蓝边际",
+        "content": "原曲：《以父之名》 原唱：周杰伦 混音：@SpecialSound 填词/翻唱/和声/剪辑：蔚蓝边际",
+        "bvid": "BV1njnp6pEbF",
+        "author": "蔚蓝边际",
+        "duration": "3:36",
+        "cover": "//i0.hdslb.com/bfs/archive/06e53f0a74b23ff0b508fa1ceafa150b3a1c8f76.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1njnp6pEbF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S16应援曲 以风之名"
+      },
+      {
+        "title": "台风蔷琵深度影响我国！这些地方要特别小心",
+        "url": "https://www.bilibili.com/video/BV1rRnn6UEGD",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "台风蔷琵一定会深度影响我国了！科普航告诉你，江浙沪一定会下台风雨，而且会在周末下；台风水汽甚至还要飘到北方多省。台风都没确定要登陆，怎么就笃定影响了？这场台风雨到底有多大？ 10月22日晚上，台风蔷琵的中心已来到我国台湾东南近海，它是否登陆我国仍然没确定。人工智能模型虽然不断西调蔷琵的路径，但始终认为它将在10月24日紧擦台湾东北部沿海不登陆；而传统数值模型也咬死了蔷琵很大可能登陆台湾和浙江，时间是10月24-25日。看来不到最后一刻，蔷琵是否登陆我国这个问题都定不下来。 但要注意三点，第一，蔷琵将离我国",
+        "content": "台风蔷琵一定会深度影响我国了！科普航告诉你，江浙沪一定会下台风雨，而且会在周末下；台风水汽甚至还要飘到北方多省。台风都没确定要登陆，怎么就笃定影响了？这场台风雨到底有多大？ 10月22日晚上，台风蔷琵的中心已来到我国台湾东南近海，它是否登陆我国仍然没确定。人工智能模型虽然不断西调蔷琵的路径，但始终认为它将在10月24日紧擦台湾东北部沿海不登陆；而传统数值模型也咬死了蔷琵很大可能登陆台湾和浙江，时间是10月24-25日。看来不到最后一刻，蔷琵是否登陆我国这个问题都定不下来。 但要注意三点，第一，蔷琵将离我国",
+        "bvid": "BV1rRnn6UEGD",
+        "author": "中气爱科普航",
+        "duration": "1:48",
+        "cover": "//i0.hdslb.com/bfs/archive/6244bbecc355e3c5b852553b238f8e5597be413b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rRnn6UEGD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "台风蔷琵来袭"
       },
       {
         "title": "【2026全球总决赛】10月24日 G2 vs DK",
         "url": "https://www.bilibili.com/video/BV1FEne6DEQf",
         "desc": "",
-        "rank": 24,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "【2026全球总决赛】10月24日 G2 vs DK",
@@ -483,7 +519,7 @@
         "title": "受害者不断增加！盛艾敬父母不只是老赖这么简单？深扒盛艾敬父母3.0",
         "url": "https://www.bilibili.com/video/BV1zDnx6dEPp",
         "desc": "",
-        "rank": 25,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "真的是越扒越有",
@@ -494,22 +530,6 @@
         "cover": "//i1.hdslb.com/bfs/archive/59cd410d87c949483d4c9f5c7361d69c2338ed42.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zDnx6dEPp&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "三代鹿人深扒盛艾敬父母3.0"
-      },
-      {
-        "title": "《原神》7.2版本PV：「坏灭肇始之时」",
-        "url": "https://www.bilibili.com/video/BV1z9nt6aE5H",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "世界的坟墓我已看见，我将它指给无上的高天。 人若为毁灭而造下，倒不如燃烧那愤怒与生的火焰。 中文CV： 派蒙——多多 「光之镜」——多多 空——鹿喑 米提亚——苏尚卿 诺伊——三石 「丑角」皮耶罗——符冲 瓦列里——淦子齐 安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅——刘校妤 玛薇卡——李晔 那维莱特——桑毓泽 纳西妲——花玲 温迪——喵☆酱 钟离——彭博 八重神子——杜冥鸦 影——菊花花 日文CV： 派蒙——古贺葵 「光之镜」——古贺葵 空——堀江瞬 米提亚——小林裕介 诺伊——三木真一郎 「丑角」皮耶",
-        "content": "世界的坟墓我已看见，我将它指给无上的高天。 人若为毁灭而造下，倒不如燃烧那愤怒与生的火焰。 中文CV： 派蒙——多多 「光之镜」——多多 空——鹿喑 米提亚——苏尚卿 诺伊——三石 「丑角」皮耶罗——符冲 瓦列里——淦子齐 安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅——刘校妤 玛薇卡——李晔 那维莱特——桑毓泽 纳西妲——花玲 温迪——喵☆酱 钟离——彭博 八重神子——杜冥鸦 影——菊花花 日文CV： 派蒙——古贺葵 「光之镜」——古贺葵 空——堀江瞬 米提亚——小林裕介 诺伊——三木真一郎 「丑角」皮耶",
-        "bvid": "BV1z9nt6aE5H",
-        "author": "原神",
-        "duration": "16:49",
-        "cover": "//i0.hdslb.com/bfs/archive/b902371f8d2f165449eb06c11f482b7776c458e5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z9nt6aE5H&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "原神7.2版本PV"
       },
       {
         "title": "用寂静岭的画风打开《周处除三害》【AI MV大赛】",
@@ -528,52 +548,52 @@
         "hotTitle": "用寂静岭画风打开周处除三害"
       },
       {
-        "title": "RTX50系中端显卡价格翻倍｜显卡日报10月24日",
-        "url": "https://www.bilibili.com/video/BV1Tcn86mEnN",
+        "title": "【S16】GENG1-0IG。虽然中路巨大gap，但你好像最有面子",
+        "url": "https://www.bilibili.com/video/BV1ECnY6yEEV",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "日报有用记得关注哦，你的鼓励真的很重要",
-        "content": "日报有用记得关注哦，你的鼓励真的很重要",
-        "bvid": "BV1Tcn86mEnN",
-        "author": "芝士华莱士",
-        "duration": "2:6",
-        "cover": "//i1.hdslb.com/bfs/archive/a66424acd761d95db56a890ba2416bd1745779e1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Tcn86mEnN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "50系中端显卡价格上涨"
+        "description": "",
+        "content": "",
+        "bvid": "BV1ECnY6yEEV",
+        "author": "心语悦无言",
+        "duration": "15:55",
+        "cover": "//i0.hdslb.com/bfs/archive/e1debf5e70c5e7786f5adccfa7a6284ab993e449.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ECnY6yEEV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "拆解GEN vs IG选手表现"
       },
       {
-        "title": "完辣！MKOI 1-0 BLG 赛后数据雷达图丨2026全球总决赛-瑞士轮",
-        "url": "https://www.bilibili.com/video/BV1VQnh6hEFF",
+        "title": "孙颖莎王曼昱缺阵，中国女团2-3惜败日本，谁能赢削球手桥本？",
+        "url": "https://www.bilibili.com/video/BV1MJnH6aE9r",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1VQnh6hEFF",
-        "author": "苦练李香兰",
-        "duration": "1:5",
-        "cover": "//i0.hdslb.com/bfs/archive/dcb5a8e12da910b78c0e7515259ea9f54f3f3f99.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VQnh6hEFF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "数据回顾BLG爆冷不敌MKOI"
+        "bvid": "BV1MJnH6aE9r",
+        "author": "乒乓Q奇",
+        "duration": "8:45",
+        "cover": "//i2.hdslb.com/bfs/archive/7b383f21f501d21e471e52fbb2dc4b47e900911e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MJnH6aE9r&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国女团2-3日本女团"
       },
       {
-        "title": "【2026全球总决赛】10月24日 TLAW vs CFO",
-        "url": "https://www.bilibili.com/video/BV1KNne68EZt",
+        "title": "不减136斤不结婚，减掉还赢25万美金",
+        "url": "https://www.bilibili.com/video/BV1XZn26rE8x",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026全球总决赛】10月24日 TLAW vs CFO",
-        "content": "【2026全球总决赛】10月24日 TLAW vs CFO",
-        "bvid": "BV1KNne68EZt",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "59:46",
-        "cover": "//i0.hdslb.com/bfs/archive/6336ee27408a3d072b048aa72b1830d1d9043a21.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KNne68EZt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "CFO战胜TLAW S16瑞士轮"
+        "description": "我给一对即将结婚的情侣准备了一场疯狂的挑战：只要两人在婚礼前合力减掉136斤，就能赢走25万美金！💰 从高强度训练到不断升级的挑战，这场减肥计划远比想象中艰难。为了25万美金，也为了在婚礼上遇见更好的彼此，他们最终能坚持下来吗？看完记得一键三连！",
+        "content": "我给一对即将结婚的情侣准备了一场疯狂的挑战：只要两人在婚礼前合力减掉136斤，就能赢走25万美金！💰 从高强度训练到不断升级的挑战，这场减肥计划远比想象中艰难。为了25万美金，也为了在婚礼上遇见更好的彼此，他们最终能坚持下来吗？看完记得一键三连！",
+        "bvid": "BV1XZn26rE8x",
+        "author": "野兽先生MrBeast",
+        "duration": "42:40",
+        "cover": "//i2.hdslb.com/bfs/archive/6c89f427c5da67accb7475f9fe2039586d8742b3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XZn26rE8x&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "不减136斤不结婚挑战"
       }
     ],
     "qbitai": [
@@ -910,6 +930,16 @@
         "rank": 3
       },
       {
+        "title": "亚马逊CEO：公司云计算容量在2027年底前已基本售罄",
+        "url": "https://m.36kr.com/newsflashes/4039224352461960",
+        "desc": "据报道，亚马逊CEO安迪·贾西表示，受AI基础设施需求不断增长影响 ，亚马逊云科技的云计算容量在2027年底前已基本售罄，且大量订单已排至2028年。贾西称，亚马逊正竭力满足AI实验室和企业源源不断的需求。（界面新闻）",
+        "cover": "",
+        "date": 1792808503000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "美国调整对加拿大商品加征关税适用范围",
         "url": "https://m.36kr.com/newsflashes/4039196431487875",
         "desc": "白宫23日发布公告说，美国总统特朗普当日签署文件，调整对加拿大商品加征关税适用范围，相关调整将从美东时间10月30日开始生效。根据白宫发布的信息，相关调整依据《斯穆特-霍利关税法》第338条款作出，胶合板、漂白纸、纸板、塑料箱盒等商品将不再被额外征收50%的从价关税，而阀门、地毯等商品将被加征50%的从价关税。（新华社）",
@@ -917,7 +947,7 @@
         "date": 1792806776000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "645家A股上市公司年内发布股权激励计划",
@@ -927,7 +957,7 @@
         "date": 1792805588000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "Instacart正就整体出售自身展开谈判",
@@ -937,7 +967,7 @@
         "date": 1792804891000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "美股三大指数集体收跌 油气股大涨",
@@ -947,7 +977,7 @@
         "date": 1792804454551,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "美国运通盘前股价走低，刷卡消费额逊于预期",
@@ -957,7 +987,7 @@
         "date": 1792760290000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "国家能源局召开中长期油气增储上产工作推进会",
@@ -967,7 +997,7 @@
         "date": 1792760231935,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "寒武纪：当前人工智能算力市场需求持续旺盛，能够支撑公司业务稳步增长",
@@ -977,7 +1007,7 @@
         "date": 1792760028093,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "本川智能：第三季度归母净利润6250.93万元，同比增长438.11%",
@@ -987,7 +1017,7 @@
         "date": 1792759795000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "电科思仪：第三季度归母净利润1.11亿元，同比增长23.60%",
@@ -997,7 +1027,7 @@
         "date": 1792759564460,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "热门中概股美股盘前涨跌不一，小鹏集团涨超3%",
@@ -1007,7 +1037,7 @@
         "date": 1792759537938,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "美股大型科技股盘前普跌，Meta跌0.97%",
@@ -1017,7 +1047,7 @@
         "date": 1792759334793,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "Anthropic将设立欧洲AI咨询公司",
@@ -1027,7 +1057,7 @@
         "date": 1792758963000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "风华高科：第三季度归母净利润为3.51亿元，同比增长470.17%",
@@ -1037,7 +1067,7 @@
         "date": 1792758570817,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "Bolt与Stellantis计划自2028年起在大巴黎地区开展自动驾驶试验",
@@ -1047,7 +1077,7 @@
         "date": 1792758516000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "大华股份：第三季度归母净利润为5.20亿元，同比下降50.91%",
@@ -1057,7 +1087,7 @@
         "date": 1792758227000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "甲骨文：将在4年内向合作伙伴生态系统投资10亿美元",
@@ -1067,7 +1097,7 @@
         "date": 1792757946000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "大洋电机：第三季度归母净利润7143.93万元，同比下降70.58%",
@@ -1077,7 +1107,7 @@
         "date": 1792757676000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "山金国际：第三季度归母净利润7.85亿元，同比下降9.14%",
@@ -1087,7 +1117,7 @@
         "date": 1792757307000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "据悉日本央行将维持快速加息节奏，12月成为焦点",
@@ -1097,25 +1127,15 @@
         "date": 1792757015000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "中国人民银行行长潘功胜会见意大利前总理、欧央行前行长马里奥·德拉吉一行",
-        "url": "https://m.36kr.com/newsflashes/4038410474656904",
-        "desc": "36氪获悉，中国人民银行行长潘功胜会见了意大利前总理、欧央行前行长马里奥·德拉吉，美中关系全国委员会会长斯蒂芬·欧伦斯，城堡证券首席执行官赵鹏。双方围绕全球经济形势、金融市场动态、中国宏观经济政策等议题进行了交流。中国人民银行副行长宣昌能参加会见。",
-        "cover": "",
-        "date": 1792757014322,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792807864356,
-    "bilibili": 1792806642850,
-    "qbitai": 1792779156025,
-    "36kr": 1792779156403
+    "thepaper": 1792808764618,
+    "bilibili": 1792808773468,
+    "qbitai": 1792780041945,
+    "36kr": 1792780042296
   },
   "failures": {}
 }
