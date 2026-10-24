@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T11:41:27Z",
+  "updatedAt": "2026-10-24T11:56:27Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -312,7 +312,7 @@
         "content": "【2026VCTCN晋升赛】10月24日 TEC vs DRG",
         "bvid": "BV1fpHK6TEka",
         "author": "无畏契约赛事",
-        "duration": "13:1",
+        "duration": "70:51",
         "cover": "//i1.hdslb.com/bfs/archive/d7bbab048d09d028ce3ede29caec473df8c655c8.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fpHK6TEka&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TEC vs DRG VCT晋升赛"
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792845825072,
-    "bilibili": 1792845829482,
-    "qbitai": 1792842087404,
-    "36kr": 1792842087928
+    "thepaper": 1792846725590,
+    "bilibili": 1792845730127,
+    "qbitai": 1792842986747,
+    "36kr": 1792842987281
   },
   "failures": {}
 }
