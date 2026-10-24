@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T22:56:24Z",
+  "updatedAt": "2026-10-23T23:11:24Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "【凡人REACTION】197 所以说悄悄话千万不要公放，不过这个公放处理得确实挺好，既和上集做出差异，又顺势引出韩立信息",
-        "url": "https://www.bilibili.com/video/BV11yHP65EW5",
+        "title": "凡人灵界篇237：韩立连挥三次玄天斩灵剑！合体樱仙子领悟时空之力！",
+        "url": "https://www.bilibili.com/video/BV1nJnp6nE9x",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV11yHP65EW5",
-        "author": "钢铁ZR",
-        "duration": "21:9",
-        "cover": "//i2.hdslb.com/bfs/archive/1fd3a55ad71d782fc147f5acb6fa1600cb7df161.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11yHP65EW5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "凡人灵界篇237：韩立连挥三次玄天斩灵剑！合体樱仙子领悟时空之力！",
+        "content": "凡人灵界篇237：韩立连挥三次玄天斩灵剑！合体樱仙子领悟时空之力！",
+        "bvid": "BV1nJnp6nE9x",
+        "author": "梦入浮生-",
+        "duration": "42:36",
+        "cover": "//i1.hdslb.com/bfs/archive/6b877759ff855fadf65076d34e32541ae45a603d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nJnp6nE9x&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "韩立在九国盟声名远扬"
       },
       {
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "智元110台人形机器人同时跳舞，创吉尼斯世界纪录",
+        "url": "https://m.36kr.com/newsflashes/4039510353007750",
+        "desc": "10月24日，智元在山东济南组织110台远征A3全尺寸人形机器人同时跳舞，创下“最多人形机器人同时跳舞”吉尼斯世界纪录。此次挑战采用智元灵动LinkBots集群调控平台及UWB厘米级定位技术，实现多机同步动作与编队切换。据了解，这批机器人后续将陆续投入文旅演艺、公共服务、科研教育等场景。（界面新闻）",
+        "cover": "",
+        "date": 1792825821000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "南方区域电力市场经营主体已超29万家",
         "url": "https://m.36kr.com/newsflashes/4039394416006018",
         "desc": "随着南方区域电力市场正式运行，虚拟电厂、新型储能等新业态都将进一步入市参与交易，目前，经营主体已超29万家。涵盖发电企业、售电公司、电力用户、新型储能、虚拟电厂等多个主体。通过这个电力市场，风光等新能源可以更大范围内高效利用，目前，区域新能源发电利用率保持95%以上，高于全国平均水平。（央视新闻）",
@@ -947,7 +957,7 @@
         "date": 1792824404000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍",
@@ -957,7 +967,7 @@
         "date": 1792823106000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "国内金饰克价跌穿1200元 1个月下跌约100元",
@@ -967,7 +977,7 @@
         "date": 1792821496000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "全球最大独立AI影视公司Utopai Studios跻身独角兽行列",
@@ -977,7 +987,7 @@
         "date": 1792820810306,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "首个汽车行业AI基座发布 面向全行业开放共享",
@@ -987,7 +997,7 @@
         "date": 1792819856000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "杰瑞股份：公司海外业务收入占比已经超过50%",
@@ -997,7 +1007,7 @@
         "date": 1792818157000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "捷豹路虎北美公司将在美国召回93997辆汽车",
@@ -1007,7 +1017,7 @@
         "date": 1792816798000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "国家统计局：10月中旬22种产品价格上涨，生猪价格环比下降4.9%",
@@ -1017,7 +1027,7 @@
         "date": 1792815298000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "乘联分会崔东树：9月我国动力和其它电池合计产量为237GWh，同比增长57%",
@@ -1027,7 +1037,7 @@
         "date": 1792814207000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "产业资本频频出手 北交所上市公司增持回购升温",
@@ -1037,7 +1047,7 @@
         "date": 1792813241000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "资金借道宽基ETF逆势布局 近20个交易日净流入超2300亿元",
@@ -1047,7 +1057,7 @@
         "date": 1792812051000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "拼多多紧急捐赠1000万元，驰援西藏那曲抗震救灾",
@@ -1057,7 +1067,7 @@
         "date": 1792811324814,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "1—9月我国摩托车整车出口量为1516.36万辆 同比增长11.76%",
@@ -1067,7 +1077,7 @@
         "date": 1792810722000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "英国承诺出资1亿英镑设立生物安全实验室，OpenAI、Anthropic 参与合作",
@@ -1077,7 +1087,7 @@
         "date": 1792809517000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "亚马逊CEO：公司云计算容量在2027年底前已基本售罄",
@@ -1087,7 +1097,7 @@
         "date": 1792808503000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "美国调整对加拿大商品加征关税适用范围",
@@ -1097,7 +1107,7 @@
         "date": 1792806776000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "645家A股上市公司年内发布股权激励计划",
@@ -1107,7 +1117,7 @@
         "date": 1792805588000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "Instacart正就整体出售自身展开谈判",
@@ -1117,7 +1127,7 @@
         "date": 1792804891000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "美股三大指数集体收跌 油气股大涨",
@@ -1127,25 +1137,15 @@
         "date": 1792804454551,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "美国运通盘前股价走低，刷卡消费额逊于预期",
-        "url": "https://m.36kr.com/newsflashes/4038434903970950",
-        "desc": "美国运通股价下跌，此前公司公布的信用卡等产品交易额不及分析师预期。第三季度刷卡消费额为4540亿美元，低于调查的预测均值4569亿美元。公司表示，退出部分小企业联名卡合作项目对业绩造成了影响。不过，随着富裕消费者继续增加高端信用卡消费，美国运通上调了全年盈利指引。公司周五在声明中表示，预计2026年每股收益为18.30至18.60美元，此前预期为17.30至17.90美元。第三季度调整后每股收益为4.68美元，高于分析师平均预期的4.49美元。（新浪财经）",
-        "cover": "",
-        "date": 1792760290000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792824966042,
-    "bilibili": 1792824970712,
-    "qbitai": 1792796184288,
-    "36kr": 1792796184747
+    "thepaper": 1792825865704,
+    "bilibili": 1792824764238,
+    "qbitai": 1792797084276,
+    "36kr": 1792797084680
   },
   "failures": {}
 }
