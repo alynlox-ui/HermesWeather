@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T17:56:32Z",
+  "updatedAt": "2026-10-23T18:12:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,20 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "西藏巴青7.0级地震已造成16人遇难、76人受伤",
-        "url": "https://www.bilibili.com/video/BV1gUnb6REiB",
+        "title": "西藏地震已致16死76伤",
+        "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB76%E4%BC%A4",
         "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "记者从西藏那曲市政府新闻办召开的新闻发布会上了解到，截至10月23日13时，地震已造成16人遇难、76人受伤，房屋倒塌及受损共339户，牲畜棚圈受损20座。（记者：翟永冠、格桑边觉、普布次仁）",
-        "content": "记者从西藏那曲市政府新闻办召开的新闻发布会上了解到，截至10月23日13时，地震已造成16人遇难、76人受伤，房屋倒塌及受损共339户，牲畜棚圈受损20座。（记者：翟永冠、格桑边觉、普布次仁）",
-        "bvid": "BV1gUnb6REiB",
-        "author": "新华社",
-        "duration": "0:50",
-        "cover": "//i2.hdslb.com/bfs/archive/f1d85cf45f27919b2c0858f31a4e68a239d34a5e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gUnb6REiB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "西藏地震已致16死76伤"
+        "rank": 1
       },
       {
         "title": "【2026全球总决赛】10月24日 BLG vs MKOI",
@@ -174,20 +164,10 @@
         "hotTitle": "Kimi K3.1 Pro发布"
       },
       {
-        "title": "我的天呐！这S赛太让人痛苦了，突破历史的首日全败！观众做了什么坏事要熬夜看这种比赛？【1酱赛评S赛瑞士轮Day1】",
-        "url": "https://www.bilibili.com/video/BV1WtHA6TEew",
+        "title": "369与Zeus交手表现如何",
+        "url": "https://search.bilibili.com/all?keyword=369%E4%B8%8EZeus%E4%BA%A4%E6%89%8B%E8%A1%A8%E7%8E%B0%E5%A6%82%E4%BD%95",
         "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "视频制作剪辑@闻人常安AreS",
-        "content": "视频制作剪辑@闻人常安AreS",
-        "bvid": "BV1WtHA6TEew",
-        "author": "你是想气死1酱么",
-        "duration": "11:49",
-        "cover": "//i0.hdslb.com/bfs/archive/8aaadc1efe79243e3b0f95bee237c7c18a07c292.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WtHA6TEew&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "369与Zeus交手表现如何"
+        "rank": 4
       },
       {
         "title": "【S16】GENG1-0IG。虽然中路巨大gap，但你好像最有面子",
@@ -382,20 +362,10 @@
         "hotTitle": "T1战胜LOS S16瑞士轮"
       },
       {
-        "title": "2026全球总决赛瑞士轮第二轮抽签结果",
-        "url": "https://www.bilibili.com/video/BV1jBHA68Emn",
+        "title": "S16瑞士轮第二轮抽签结果",
+        "url": "https://search.bilibili.com/all?keyword=S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C",
         "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1jBHA68Emn",
-        "author": "英雄联盟赛事",
-        "duration": "0:47",
-        "cover": "//i2.hdslb.com/bfs/archive/3263f794a3f66259681bc5bfab0734ee9f67cea6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jBHA68Emn&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S16瑞士轮第二轮抽签结果"
+        "rank": 17
       },
       {
         "title": "1%赢球概率？詹姆斯无敌防守！76人真要总冠军？",
@@ -1142,10 +1112,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792806964161,
-    "bilibili": 1792806973005,
-    "qbitai": 1792778191697,
-    "36kr": 1792778192156
+    "thepaper": 1792807864356,
+    "bilibili": 1792806642850,
+    "qbitai": 1792779156025,
+    "36kr": 1792779156403
   },
   "failures": {}
 }
