@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:41:35Z",
+  "updatedAt": "2026-10-23T18:56:39Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "Kimi K3.1 Pro发布"
       },
       {
-        "title": "【2026全球总决赛】10月24日 AL vs KC",
-        "url": "https://www.bilibili.com/video/BV1PXne6tEyq",
+        "title": "【S16高能观赛团】24日瑞士轮D1 AL VS KC：Caliste本命英雄爆A全场，AL后期乏力输给KC",
+        "url": "https://www.bilibili.com/video/BV1UCne6YEtU",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026全球总决赛】10月24日 AL vs KC",
-        "content": "【2026全球总决赛】10月24日 AL vs KC",
-        "bvid": "BV1PXne6tEyq",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "52:46",
-        "cover": "//i1.hdslb.com/bfs/archive/b9c7723969d553dc8c307aeef2684794d1930e06.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PXne6tEyq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1UCne6YEtU",
+        "author": "哔哩哔哩LOL赛事直播",
+        "duration": "52:0",
+        "cover": "//i0.hdslb.com/bfs/archive/3b8449edbbaf5f7e0102e3af6fccc7cf8d7527e6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UCne6YEtU&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "KC战胜AL S16瑞士轮"
       },
       {
@@ -462,19 +462,19 @@
         "hotTitle": "原神7.2版本PV"
       },
       {
-        "title": "【2026全球总决赛】10月24日 G2 vs DK",
-        "url": "https://www.bilibili.com/video/BV1FEne6DEQf",
+        "title": "许哥是有点怕LPL的.. DK 1-0 G2 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV1Z4ne65EAA",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026全球总决赛】10月24日 G2 vs DK",
-        "content": "【2026全球总决赛】10月24日 G2 vs DK",
-        "bvid": "BV1FEne6DEQf",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "56:52",
-        "cover": "//i1.hdslb.com/bfs/archive/e24e35a4d0de145e1882cc12019fd2186429ae96.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FEne6DEQf&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Z4ne65EAA",
+        "author": "苦练李香兰",
+        "duration": "1:5",
+        "cover": "//i2.hdslb.com/bfs/archive/f0b953d90aca5f4ffbfd6cf044187f83052fef8f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z4ne65EAA&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "DK战胜G2 S16瑞士轮"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792809664881,
-    "bilibili": 1792809673231,
-    "qbitai": 1792780894640,
-    "36kr": 1792780895546
+    "thepaper": 1792810565057,
+    "bilibili": 1792809120363,
+    "qbitai": 1792781799086,
+    "36kr": 1792781799508
   },
   "failures": {}
 }
