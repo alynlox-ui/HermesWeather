@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T03:26:25Z",
+  "updatedAt": "2026-10-24T03:41:53Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -199,7 +199,7 @@
         "description": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
         "content": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
         "bvid": "BV126nt6GE4W",
-        "author": "",
+        "author": "WorkFisher",
         "duration": "10:31",
         "cover": "//i2.hdslb.com/bfs/archive/57abe8426269103bdbbe6d31ae743fa77008c3ff.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV126nt6GE4W&p=1&high_quality=1&danmaku=0&autoplay=0",
@@ -510,20 +510,10 @@
         "hotTitle": "LPL首轮全败是实力问题吗"
       },
       {
-        "title": "10月23日，2026宁波银行·宁波网球公开赛单打四强出炉！",
-        "url": "https://www.bilibili.com/video/BV1aVnY6NEnv",
+        "title": "宁波网球公开赛",
+        "url": "https://search.bilibili.com/all?keyword=%E5%AE%81%E6%B3%A2%E7%BD%91%E7%90%83%E5%85%AC%E5%BC%80%E8%B5%9B",
         "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "10月23日，2026宁波银行·宁波网球公开赛单打四强出炉！世界第一莱巴金娜、施耐德、费尔南德斯、布兹科娃成功晋级，一起来回顾激烈赛况。",
-        "content": "10月23日，2026宁波银行·宁波网球公开赛单打四强出炉！世界第一莱巴金娜、施耐德、费尔南德斯、布兹科娃成功晋级，一起来回顾激烈赛况。",
-        "bvid": "BV1aVnY6NEnv",
-        "author": "宁波网球公开赛",
-        "duration": "0:42",
-        "cover": "//i0.hdslb.com/bfs/archive/8f9cf96ef672a919bf8d935f20367cfa91e97bce.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aVnY6NEnv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "宁波网球公开赛"
+        "rank": 25
       },
       {
         "title": "深度复盘IGvsGENG，唯一没那么烧心的一把比赛",
@@ -1142,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792841165962,
-    "bilibili": 1792841170644,
-    "qbitai": 1792812385318,
-    "36kr": 1792812385769
+    "thepaper": 1792842066038,
+    "bilibili": 1792841014983,
+    "qbitai": 1792813312563,
+    "36kr": 1792813313071
   },
   "failures": {}
 }
