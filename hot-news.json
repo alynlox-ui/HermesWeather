@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T23:56:31Z",
+  "updatedAt": "2026-10-25T00:11:26Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -255,18 +255,18 @@
       },
       {
         "title": "【2026全球总决赛】10月25日 KC vs LYON",
-        "url": "https://www.bilibili.com/video/BV1cpHg69EMK",
+        "url": "https://www.bilibili.com/video/BV1rrHu6QEAh",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1cpHg69EMK",
-        "author": "4K无需多言",
-        "duration": "45:37",
-        "cover": "//i1.hdslb.com/bfs/archive/95bd961d657e1398bb39759ffb587f6c69f618e5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cpHg69EMK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026全球总决赛】10月25日 KC vs LYON",
+        "content": "【2026全球总决赛】10月25日 KC vs LYON",
+        "bvid": "BV1rrHu6QEAh",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "60:6",
+        "cover": "//i0.hdslb.com/bfs/archive/8120f0b5baeb1501bb1a1b5cde08f2442709f2cc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rrHu6QEAh&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "LYON战胜KC S16瑞士轮"
       },
       {
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792914968611,
-    "bilibili": 1792914973860,
-    "qbitai": 1792886190769,
-    "36kr": 1792886191218
+    "thepaper": 1792915864367,
+    "bilibili": 1792914903286,
+    "qbitai": 1792887086150,
+    "36kr": 1792887086571
   },
   "failures": {}
 }
