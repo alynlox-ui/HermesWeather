@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-25T03:11:33Z",
+  "updatedAt": "2026-10-25T03:41:27Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
-        "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34325705",
-        "desc": "",
-        "rank": 1
-      },
-      {
         "title": "一图世界｜多型导弹首次参与，瞄准岛链封锁，美日“利剑”演习为何值得关注",
         "url": "https://www.thepaper.cn/newsDetail_forward_34325334",
         "desc": "",
-        "rank": 2
+        "rank": 1
       },
       {
         "title": "言短意长｜肯德基员工就不能投诉胖哥俩了？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34325596",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "八国外长“史无前例”齐聚土耳其，反对对伊朗采取军事行动",
         "url": "https://www.thepaper.cn/newsDetail_forward_34325583",
         "desc": "",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "言短意长｜小鹏还在“圆”，道一声歉很难么",
         "url": "https://www.thepaper.cn/newsDetail_forward_34326329",
+        "desc": "",
+        "rank": 4
+      },
+      {
+        "title": "言短意长｜与其纠结“老登”，小鹏汽车不如多关心自身安全性能",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34328596",
         "desc": "",
         "rank": 5
       },
@@ -40,26 +40,26 @@
         "rank": 6
       },
       {
+        "title": "于蕾出任2027羊年央视春晚总导演，连续第5年执导春晚",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34328625",
+        "desc": "",
+        "rank": 7
+      },
+      {
         "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
         "url": "https://www.thepaper.cn/newsDetail_forward_34326151",
         "desc": "",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "谭案说法｜保洁阿姨“告赢”事业单位东家，拆解一份“有智慧”的判决",
         "url": "https://www.thepaper.cn/newsDetail_forward_34324755",
         "desc": "",
-        "rank": 8
-      },
-      {
-        "title": "于蕾出任2027羊年央视春晚总导演，连续第5年执导春晚",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34328625",
-        "desc": "",
         "rank": 9
       },
       {
-        "title": "言短意长｜与其纠结“老登”，小鹏汽车不如多关心自身安全性能",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34328596",
+        "title": "摩托车“水上漂”！张雪在家乡湖南麻阳刷新吉尼斯纪录",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34328135",
         "desc": "",
         "rank": 10
       },
@@ -82,70 +82,54 @@
         "rank": 13
       },
       {
-        "title": "二十届中央第八轮巡视对象公布",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34325730",
-        "desc": "",
-        "rank": 14
-      },
-      {
         "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
         "url": "https://www.thepaper.cn/newsDetail_forward_34325799",
         "desc": "",
-        "rank": 15
-      },
-      {
-        "title": "“姐夫”6天指挥15部老肖交响曲，还在《托斯卡》第三幕“空降”观众席",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34325700",
-        "desc": "",
-        "rank": 16
+        "rank": 14
       },
       {
         "title": "明起实施！上证指数、科创综指等拟修订，单样本权重不超15%",
         "url": "https://www.thepaper.cn/newsDetail_forward_34328014",
         "desc": "",
-        "rank": 17
+        "rank": 15
       },
       {
         "title": "靳伟任湖南省委副书记",
         "url": "https://www.thepaper.cn/newsDetail_forward_34327441",
         "desc": "",
-        "rank": 18
+        "rank": 16
+      },
+      {
+        "title": "俯瞰中国台湾，20张高清卫星影像定格宝岛多样地貌与鲜活人文",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34328530",
+        "desc": "",
+        "rank": 17
       },
       {
         "title": "视频丨太空视角俯瞰我国宝岛台湾，每条街道清晰可见",
         "url": "https://www.thepaper.cn/newsDetail_forward_34327380",
         "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34328097",
+        "desc": "",
         "rank": 19
       },
       {
-        "title": "俯瞰中国台湾，20张高清卫星影像定格宝岛多样地貌与鲜活人文",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34328530",
+        "title": "收到“伊朗策划袭击”情报后：美国对中东13国更新旅行警告，多国使馆限制运行",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34328105",
         "desc": "",
         "rank": 20
       }
     ],
     "bilibili": [
       {
-        "title": "【2026VCTCN晋升赛】10月25日 DRG vs NOVA",
-        "url": "https://www.bilibili.com/video/BV12PHL63Eep",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【2026VCTCN晋升赛】10月25日 DRG vs NOVA",
-        "content": "【2026VCTCN晋升赛】10月25日 DRG vs NOVA",
-        "bvid": "BV12PHL63Eep",
-        "author": "无畏契约赛事",
-        "duration": "116:17",
-        "cover": "//i1.hdslb.com/bfs/archive/42eef9441a2f9dc3205f0e81bf23f61fbf81a81f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12PHL63Eep&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "DRG vs NOVA VCT晋升赛"
-      },
-      {
         "title": "【S16今朝速递】今年ShowMaker难道真不一样了吗？",
         "url": "https://www.bilibili.com/video/BV1KoHG6uE8x",
         "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "欢迎收看全球总决赛全新节目《今朝速递》第二期，本期给大家带来2026全球总决赛瑞士轮第二日的赛果速递和赛况简析，还有现场选手采访、明日赛况前瞻等更多精彩内容，敬请收看本期视频。",
@@ -156,6 +140,22 @@
         "cover": "//i2.hdslb.com/bfs/archive/24ec573e9e73a3565918025b97f8f189e9cd8cd7.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KoHG6uE8x&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "IG对阵HLE有哪些看点"
+      },
+      {
+        "title": "2026王者共创之夜开场《懂你意思》|𝟏𝟎𝟖𝟎𝐏全高清𝟐𝟎𝟐𝟔𝟏𝟎𝟐𝟓",
+        "url": "https://www.bilibili.com/video/BV1VTH56nEqH",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1VTH56nEqH",
+        "author": "okdataone",
+        "duration": "6:5",
+        "cover": "//i0.hdslb.com/bfs/archive/83922da80e3f854d52c23f5d932d7933d032315e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VTH56nEqH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "2026王者荣耀共创之夜"
       },
       {
         "title": "吴站长携天津站男团激情演唱《Uptown Funk》",
@@ -190,58 +190,26 @@
         "hotTitle": "头文字F4"
       },
       {
-        "title": "所有人都想吃国补 偏偏天禄一来就有",
-        "url": "https://www.bilibili.com/video/BV1KPHL6GEkm",
+        "title": "【真实锐评】LPL瑞士轮第二轮外战全胜：IG BLG TES都有各自BP调整 只有AL快16强了！",
+        "url": "https://www.bilibili.com/video/BV1VqHg65EmZ",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1KPHL6GEkm",
-        "author": "CSGO赛事Jun",
-        "duration": "3:26",
-        "cover": "//i0.hdslb.com/bfs/archive/4b4349551fba1af48e54a41599cd5cf5d5adff2d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KPHL6GEkm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "TYLOO 0-2 Spirit"
-      },
-      {
-        "title": "美俄乌又准备谈判了，但泽圣还在秀操作",
-        "url": "https://www.bilibili.com/video/BV1TVHG6BEdd",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本期视频提及的事件以及信息来源如下： 《泽连斯基：不会为结束冲突放弃更多领土》，新华网，2026-10-25 《俄乌同意局部停火 三方会谈或于下月举行》，新华网，2026-10-24 《俄方：俄美乌会谈将于11月上旬在阿布扎比举行》，新华网，2026-10-23 《国际观察丨俄美乌会谈或重启，“谈拢”依然不易》，新华网，2026-10-23 《综合消息｜俄乌一边释放谈判信号一边互袭不断》，新华网，2026-10-22 《泽连斯基说同意“冻结现状”开启和谈》，新华网，2026-10-21 《美媒：美特使将向",
-        "content": "本期视频提及的事件以及信息来源如下： 《泽连斯基：不会为结束冲突放弃更多领土》，新华网，2026-10-25 《俄乌同意局部停火 三方会谈或于下月举行》，新华网，2026-10-24 《俄方：俄美乌会谈将于11月上旬在阿布扎比举行》，新华网，2026-10-23 《国际观察丨俄美乌会谈或重启，“谈拢”依然不易》，新华网，2026-10-23 《综合消息｜俄乌一边释放谈判信号一边互袭不断》，新华网，2026-10-22 《泽连斯基说同意“冻结现状”开启和谈》，新华网，2026-10-21 《美媒：美特使将向",
-        "bvid": "BV1TVHG6BEdd",
-        "author": "麻薯波比呀",
-        "duration": "17:7",
-        "cover": "//i2.hdslb.com/bfs/archive/4259a83959243820007562fa4337767c6b7e1e19.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TVHG6BEdd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "美俄乌将如何应对下次谈判"
-      },
-      {
-        "title": "【2026IVL秋季赛】 Week4 Day3 北京WBG vs MRC",
-        "url": "https://www.bilibili.com/video/BV1DQH56JE8y",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
-        "content": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
-        "bvid": "BV1DQH56JE8y",
-        "author": "第五人格赛事",
-        "duration": "173:13",
-        "cover": "//i1.hdslb.com/bfs/archive/961c8d97595ab51b3348f13c0fb01767de890fd2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DQH56JE8y&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "DOU5 vs Wolves IVL秋季"
+        "bvid": "BV1VqHg65EmZ",
+        "author": "真实电竞",
+        "duration": "9:30",
+        "cover": "//i2.hdslb.com/bfs/archive/dc3df6757dd60aeb78e5a270a4b6be2fa4a669e8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VqHg65EmZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "锐评LPL瑞士轮第二轮外战"
       },
       {
         "title": "新角色：大肥鱼",
         "url": "https://www.bilibili.com/video/BV1gVHA6mEbS",
         "desc": "",
-        "rank": 8,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "【新角色：大肥鱼】 初始武器 — 铁盆 固有天赋 — Token 【新武器：铁盆】 蓄力 — 按得越久，伤害越高、范围越大、音效越响 短按 — 小范围挥击；连续 3 下没打到人 ⇒ 触发【要饭】 [要饭] 对周围敌人做一次要饭判定，有概率朝你投喂【大白饭】 被动 — 在副手时，铁盆会自动戴在头上，并增加护盾值 【新技能：鲸群集结】 召唤一只小肥鱼代替你玩游戏：替你打、替你搬、替你干活。 没有数量上限。 【新天赋：Token】 消耗 — 大肥鱼 / 小肥鱼 做的每件事都要花 Token（攻击、搬运、瞬",
@@ -254,36 +222,68 @@
         "hotTitle": "UP主自制大肥鱼游戏"
       },
       {
-        "title": "一步之遥！莱巴金娜连续第二年挺进宁网总决赛 力争卫冕冠军",
-        "url": "https://www.bilibili.com/video/BV15yHG67E3n",
+        "title": "【凉哈皮丨玉琳】东玄神了！ZQ“东玄”鹿头两次恐惧震慑！四杀ASC求生绝杀比赛！玉琳要准备从座位起飞了。",
+        "url": "https://www.bilibili.com/video/BV1i6H56ZE9y",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1i6H56ZE9y",
+        "author": "第五丨轻柔",
+        "duration": "3:59",
+        "cover": "//i0.hdslb.com/bfs/archive/6e2cd1944eca616dd79108b40d02823132fcc694.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1i6H56ZE9y&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DOU5 vs Wolves IVL秋季"
+      },
+      {
+        "title": "【2026VCTCN晋升赛】10月25日 DRG vs NOVA",
+        "url": "https://www.bilibili.com/video/BV12PHL63Eep",
+        "desc": "",
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【2026VCTCN晋升赛】10月25日 DRG vs NOVA",
+        "content": "【2026VCTCN晋升赛】10月25日 DRG vs NOVA",
+        "bvid": "BV12PHL63Eep",
+        "author": "无畏契约赛事",
+        "duration": "116:17",
+        "cover": "//i1.hdslb.com/bfs/archive/42eef9441a2f9dc3205f0e81bf23f61fbf81a81f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12PHL63Eep&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DRG vs NOVA VCT晋升赛"
+      },
+      {
+        "title": "薄肌级【不要笑挑战】只有10.24%的人能忍得住不笑看到最后！",
+        "url": "https://www.bilibili.com/video/BV1DKn461EDF",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "#咪咕体育日报",
-        "content": "#咪咕体育日报",
-        "bvid": "BV15yHG67E3n",
-        "author": "咪咕体育",
-        "duration": "0:21",
-        "cover": "//i2.hdslb.com/bfs/archive/98ce72a09796b7cd7658a1b1c9570b7ff08527c9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15yHG67E3n&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "莱巴金娜宁网冲冠"
+        "description": "不要笑挑战，笑了有惩罚喔 喜欢的朋友欢迎点赞哈哈哈哈哈~",
+        "content": "不要笑挑战，笑了有惩罚喔 喜欢的朋友欢迎点赞哈哈哈哈哈~",
+        "bvid": "BV1DKn461EDF",
+        "author": "比比老师",
+        "duration": "15:31",
+        "cover": "//i0.hdslb.com/bfs/archive/db5718bb4f712f907cae21ae1101992d74040842.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DKn461EDF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "薄肌级不要笑挑战"
       },
       {
-        "title": "【跳车摇】我没指望你们这些人能理解四六级！",
-        "url": "https://www.bilibili.com/video/BV1jvn46dEY2",
+        "title": "美俄乌又准备谈判了，但泽圣还在秀操作",
+        "url": "https://www.bilibili.com/video/BV1TVHG6BEdd",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "天空属于哈夫克，英语属于刘晓艳。",
-        "content": "天空属于哈夫克，英语属于刘晓艳。",
-        "bvid": "BV1jvn46dEY2",
-        "author": "考研英语晓燕",
-        "duration": "0:14",
-        "cover": "//i2.hdslb.com/bfs/archive/71364e43b84d7a5e6ed36446a4a420554e1965e1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jvn46dEY2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "刘晓艳 从四六级到跳车摇"
+        "description": "本期视频提及的事件以及信息来源如下： 《泽连斯基：不会为结束冲突放弃更多领土》，新华网，2026-10-25 《俄乌同意局部停火 三方会谈或于下月举行》，新华网，2026-10-24 《俄方：俄美乌会谈将于11月上旬在阿布扎比举行》，新华网，2026-10-23 《国际观察丨俄美乌会谈或重启，“谈拢”依然不易》，新华网，2026-10-23 《综合消息｜俄乌一边释放谈判信号一边互袭不断》，新华网，2026-10-22 《泽连斯基说同意“冻结现状”开启和谈》，新华网，2026-10-21 《美媒：美特使将向",
+        "content": "本期视频提及的事件以及信息来源如下： 《泽连斯基：不会为结束冲突放弃更多领土》，新华网，2026-10-25 《俄乌同意局部停火 三方会谈或于下月举行》，新华网，2026-10-24 《俄方：俄美乌会谈将于11月上旬在阿布扎比举行》，新华网，2026-10-23 《国际观察丨俄美乌会谈或重启，“谈拢”依然不易》，新华网，2026-10-23 《综合消息｜俄乌一边释放谈判信号一边互袭不断》，新华网，2026-10-22 《泽连斯基说同意“冻结现状”开启和谈》，新华网，2026-10-21 《美媒：美特使将向",
+        "bvid": "BV1TVHG6BEdd",
+        "author": "麻薯波比呀",
+        "duration": "17:7",
+        "cover": "//i2.hdslb.com/bfs/archive/4259a83959243820007562fa4337767c6b7e1e19.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TVHG6BEdd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "美俄乌将如何应对下次谈判"
       },
       {
         "title": "《鸣潮》世界观PV | 超验TRANSCENDO",
@@ -302,20 +302,20 @@
         "hotTitle": "鸣潮世界观PV"
       },
       {
-        "title": "【真实锐评】LPL瑞士轮第二轮外战全胜：IG BLG TES都有各自BP调整 只有AL快16强了！",
-        "url": "https://www.bilibili.com/video/BV1VqHg65EmZ",
+        "title": "【2026全球总决赛】10月25日 TES vs AL",
+        "url": "https://www.bilibili.com/video/BV1iTHT6TEvg",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1VqHg65EmZ",
-        "author": "真实电竞",
-        "duration": "9:30",
-        "cover": "//i2.hdslb.com/bfs/archive/dc3df6757dd60aeb78e5a270a4b6be2fa4a669e8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VqHg65EmZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "锐评LPL瑞士轮第二轮外战"
+        "description": "【2026全球总决赛】10月25日 TES vs AL",
+        "content": "【2026全球总决赛】10月25日 TES vs AL",
+        "bvid": "BV1iTHT6TEvg",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "66:23",
+        "cover": "//i1.hdslb.com/bfs/archive/d99ad8f9011f10e2a73fac6dd3bcc50eb5c21422.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iTHT6TEvg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TES战胜AL S16瑞士轮"
       },
       {
         "title": "【2026全球总决赛】10月25日 HLE vs GEN",
@@ -334,26 +334,42 @@
         "hotTitle": "GEN战胜HLE S16瑞士轮"
       },
       {
-        "title": "BLG首胜！BLG 1-0 TLAW 赛后数据雷达图丨2026全球总决赛-瑞士轮",
-        "url": "https://www.bilibili.com/video/BV16uH36HEJy",
+        "title": "【跳车摇】我没指望你们这些人能理解四六级！",
+        "url": "https://www.bilibili.com/video/BV1jvn46dEY2",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV16uH36HEJy",
-        "author": "苦练李香兰",
-        "duration": "1:5",
-        "cover": "//i2.hdslb.com/bfs/archive/01068cca0f0cd4c1b358e26dfa8db1cc2270c152.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16uH36HEJy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "天空属于哈夫克，英语属于刘晓艳。",
+        "content": "天空属于哈夫克，英语属于刘晓艳。",
+        "bvid": "BV1jvn46dEY2",
+        "author": "考研英语晓燕",
+        "duration": "0:14",
+        "cover": "//i2.hdslb.com/bfs/archive/71364e43b84d7a5e6ed36446a4a420554e1965e1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jvn46dEY2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "刘晓艳 从四六级到跳车摇"
+      },
+      {
+        "title": "【2026全球总决赛】10月25日 TLAW vs BLG",
+        "url": "https://www.bilibili.com/video/BV1eEH36LEL2",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1eEH36LEL2",
+        "author": "老峰搬运工",
+        "duration": "46:44",
+        "cover": "//i0.hdslb.com/bfs/archive/746fad68582c1e00009163f454d3e4660b73b80b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eEH36LEL2&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG战胜TLAW S16瑞士轮"
       },
       {
         "title": "【2026全球总决赛】10月25日 LOS vs G2",
         "url": "https://www.bilibili.com/video/BV1gNHg6KE35",
         "desc": "",
-        "rank": 15,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "【2026全球总决赛】10月25日 LOS vs G2",
@@ -369,7 +385,7 @@
         "title": "【2026全球总决赛】10月25日 MKOI vs CFO",
         "url": "https://www.bilibili.com/video/BV1h7HT68Epy",
         "desc": "",
-        "rank": 16,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "【2026全球总决赛】10月25日 MKOI vs CFO",
@@ -380,22 +396,6 @@
         "cover": "//i0.hdslb.com/bfs/archive/9a1589aaa2eb4b450b98d6c31a916c80ef6e7c91.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1h7HT68Epy&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "MKOI战胜CFO S16瑞士轮"
-      },
-      {
-        "title": "【牧神记107+108集】苏幕遮以残躯硬撼上苍星君，秦牧遇上苍天骄虚生花，六合神藏孕育八千剑，断剑新生名曰无忧",
-        "url": "https://www.bilibili.com/video/BV1ohHg67Efg",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1ohHg67Efg",
-        "author": "荒天漫漫",
-        "duration": "40:23",
-        "cover": "//i0.hdslb.com/bfs/archive/48bfd489b7a9a7e36b6eae947480415e08befe6d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ohHg67Efg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "秦牧参悟道剑十四篇"
       },
       {
         "title": "S16世界赛在哪举办？举办场馆又有哪些故事？【LPL热知识】",
@@ -414,10 +414,42 @@
         "hotTitle": "S16举办场馆有哪些故事"
       },
       {
+        "title": "【高战士】许飞可能真的没说谎，新视角重看许飞厉娜悬崖对谈【后会友期01（重看）】",
+        "url": "https://www.bilibili.com/video/BV1ZaHG6sEx9",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1ZaHG6sEx9",
+        "author": "高战士",
+        "duration": "30:13",
+        "cover": "//i0.hdslb.com/bfs/archive/f429f2b0ead6f0f3b506f8f62c800a79d7680a2b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZaHG6sEx9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "许飞悬崖对谈时说谎了吗"
+      },
+      {
+        "title": "【牧神记107+108集】苏幕遮以残躯硬撼上苍星君，秦牧遇上苍天骄虚生花，六合神藏孕育八千剑，断剑新生名曰无忧",
+        "url": "https://www.bilibili.com/video/BV1ohHg67Efg",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1ohHg67Efg",
+        "author": "荒天漫漫",
+        "duration": "40:23",
+        "cover": "//i0.hdslb.com/bfs/archive/48bfd489b7a9a7e36b6eae947480415e08befe6d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ohHg67Efg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "秦牧参悟道剑十四篇"
+      },
+      {
         "title": "人工耳蜗里的声音，到底是什么样的？",
         "url": "https://www.bilibili.com/video/BV14Enb6LEDe",
         "desc": "",
-        "rank": 19,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "通过人工耳蜗听见的世界，和我们听见的一样吗？这一次，我们尝试用模拟的方式，带你一起听听。如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！ *本视频中未成年人的拍摄及出镜内容发布，均已获得其监护人同意。",
@@ -430,10 +462,42 @@
         "hotTitle": "人工耳蜗里的声音是什么样的"
       },
       {
+        "title": "11天，我们干掉祸害20多年的传销头目！",
+        "url": "https://www.bilibili.com/video/BV1oTnW67E4n",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "11天，我们干掉了祸害20多年的传销头目！ 感谢大家的关注和支持，愿我们的努力能让这样的悲剧更少的发生。 这里是温柔，旅途仍在继续，我们——依然在路上。",
+        "content": "11天，我们干掉了祸害20多年的传销头目！ 感谢大家的关注和支持，愿我们的努力能让这样的悲剧更少的发生。 这里是温柔，旅途仍在继续，我们——依然在路上。",
+        "bvid": "BV1oTnW67E4n",
+        "author": "温柔JUNZ",
+        "duration": "18:50",
+        "cover": "//i1.hdslb.com/bfs/archive/eb7350387aefed92e5045057162d1b32b85fc74f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oTnW67E4n&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主起底20多年的传销头目"
+      },
+      {
+        "title": "【锐评S16瑞士轮第二日】LPL大获全胜！IG拿下外战首胜，外战大王BLG也回来了！",
+        "url": "https://www.bilibili.com/video/BV1fxHg6DEWh",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1fxHg6DEWh",
+        "author": "Super卧龙君",
+        "duration": "11:26",
+        "cover": "//i2.hdslb.com/bfs/archive/cb7d2c430b6cba83b2d42a5eb1151bf5edcb2ed8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fxHg6DEWh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG IG外战各自强在哪儿"
+      },
+      {
         "title": "你看到的博主视频和实际上的博主拍视频？烧心啊！！！哈哈哈",
         "url": "https://www.bilibili.com/video/BV15mHA6WEMW",
         "desc": "",
-        "rank": 20,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -446,42 +510,10 @@
         "hotTitle": "真实拍视频日常有多烧心"
       },
       {
-        "title": "中国元素变装—非遗美食",
-        "url": "https://www.bilibili.com/video/BV122HK6DEYK",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV122HK6DEYK",
-        "author": "朵朵花林",
-        "duration": "0:48",
-        "cover": "//i1.hdslb.com/bfs/archive/7ee0da73ae3232d2c866d47535cf896c39fd96ad.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV122HK6DEYK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国非遗美食元素变装"
-      },
-      {
-        "title": "【2026全球总决赛】10月25日 DK vs T1",
-        "url": "https://www.bilibili.com/video/BV179H36HEgG",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【2026全球总决赛】10月25日 DK vs T1",
-        "content": "【2026全球总决赛】10月25日 DK vs T1",
-        "bvid": "BV179H36HEgG",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "62:36",
-        "cover": "//i2.hdslb.com/bfs/archive/0599f4924343d510994e8644607f1ad4b6d4d832.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV179H36HEgG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "DK战胜T1 S16瑞士轮"
-      },
-      {
         "title": "⚡⚡逆 天 复 仇 者⚡⚡",
         "url": "https://www.bilibili.com/video/BV1BZn86qE9n",
         "desc": "",
-        "rank": 23,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "总有一个这样的宇宙",
@@ -494,42 +526,26 @@
         "hotTitle": "逆天复仇者联盟"
       },
       {
-        "title": "什么是“鱼灾”？B站大肥鱼一周爆发始末全复盘【附安全养鱼指南】",
-        "url": "https://www.bilibili.com/video/BV126nt6GE4W",
+        "title": "二十国混战：速通复盘中土网友对线大战",
+        "url": "https://www.bilibili.com/video/BV1tcHK6pEZo",
         "desc": "",
-        "rank": 24,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
-        "content": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
-        "bvid": "BV126nt6GE4W",
-        "author": "WorkFisher",
-        "duration": "10:31",
-        "cover": "//i2.hdslb.com/bfs/archive/57abe8426269103bdbbe6d31ae743fa77008c3ff.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV126nt6GE4W&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大肥鱼为什么突然火了"
-      },
-      {
-        "title": "人性、欲望与奇观，自驾拉斯维加斯，现实夜之城什么样？",
-        "url": "https://www.bilibili.com/video/BV12qnt6VEM1",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "公路日记第二季美国篇完结啦，这三集完全自制无广，耗资大时间长，希望带大家各个国家不一样的风土人情，喜欢的给个三连吧，求求了这个对我真的很重要（拜托拜托） BGM列表： The Macarons Project - Fly Me to the Moon Rosa Walton; Hallie Coggins - I Really Want to Stay at Your House Elvis Presley; The Jordanaires - Can't Help Falling in Love T",
-        "content": "公路日记第二季美国篇完结啦，这三集完全自制无广，耗资大时间长，希望带大家各个国家不一样的风土人情，喜欢的给个三连吧，求求了这个对我真的很重要（拜托拜托） BGM列表： The Macarons Project - Fly Me to the Moon Rosa Walton; Hallie Coggins - I Really Want to Stay at Your House Elvis Presley; The Jordanaires - Can't Help Falling in Love T",
-        "bvid": "BV12qnt6VEM1",
-        "author": "超Carry的柴西",
-        "duration": "25:42",
-        "cover": "//i2.hdslb.com/bfs/archive/65c7b43fb6fdd34cfc122c76fd9e90ccf4c5401d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12qnt6VEM1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "柴西探索现实版夜之城"
+        "description": "",
+        "content": "",
+        "bvid": "BV1tcHK6pEZo",
+        "author": "波士顿圆脸",
+        "duration": "43:31",
+        "cover": "//i0.hdslb.com/bfs/archive/73426501e3a3a89275437506f457c2af478de321.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tcHK6pEZo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "速通中土网友对线大战"
       },
       {
         "title": "俄乌大结局：小泽投了，普京赢在哪三点？",
         "url": "https://www.bilibili.com/video/BV169HP6MEZo",
         "desc": "",
-        "rank": 26,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -542,52 +558,36 @@
         "hotTitle": "俄乌冲突大结局要来了吗"
       },
       {
-        "title": "一线明星参演、高成本制作、高市早苗点名要看？热播日剧背后的认知投毒真危险！",
-        "url": "https://www.bilibili.com/video/BV1wEHM6UES5",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "#热播日剧背后的认知投毒 一线明星参演、每集高成本制作费、高市早苗点名要看——这就是日本TBS电视台最近热播的电视剧《Vivant》（《别班》）第二季，剧中把中国人拍成惨无人道的施暴者，把日本自卫队情报人员美化成正义反击者。更值得警惕的是：日本外务省斥巨资搞对华舆论抹黑和歪曲历史、用AI视频篡改历史、用AI大模型“投毒”、持续篡改教科书……娱乐化包装的敌意，比赤裸裸的宣传更危险！#国际时讯马上评",
-        "content": "#热播日剧背后的认知投毒 一线明星参演、每集高成本制作费、高市早苗点名要看——这就是日本TBS电视台最近热播的电视剧《Vivant》（《别班》）第二季，剧中把中国人拍成惨无人道的施暴者，把日本自卫队情报人员美化成正义反击者。更值得警惕的是：日本外务省斥巨资搞对华舆论抹黑和歪曲历史、用AI视频篡改历史、用AI大模型“投毒”、持续篡改教科书……娱乐化包装的敌意，比赤裸裸的宣传更危险！#国际时讯马上评",
-        "bvid": "BV1wEHM6UES5",
-        "author": "央视新闻",
-        "duration": "4:5",
-        "cover": "//i0.hdslb.com/bfs/archive/9189f18d3c90a4e3ee52d659be8ed1440374961f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wEHM6UES5&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "日剧Vivant抹黑中国"
-      },
-      {
-        "title": "如履平地！张雪在家乡刷新吉尼斯纪录，17年前的遗憾圆满了！",
-        "url": "https://www.bilibili.com/video/BV1h4HV6mEZC",
+        "title": "什么是“鱼灾”？B站大肥鱼一周爆发始末全复盘【附安全养鱼指南】",
+        "url": "https://www.bilibili.com/video/BV126nt6GE4W",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "10月25日，张雪机车创始人张雪在家乡湖南麻阳，驾驶改装摩托车MX450，以40.74公里成功刷新“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录。17年前，张雪曾4次驾驶摩托车挑战“水上漂”，连人带车摔进水里，遗憾失利。张雪表示，今天在故乡圆梦，也是想让这片土地被世界看见。 记者：程济安 丁春雨 王天泽 陈思汗 戴斌",
-        "content": "10月25日，张雪机车创始人张雪在家乡湖南麻阳，驾驶改装摩托车MX450，以40.74公里成功刷新“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录。17年前，张雪曾4次驾驶摩托车挑战“水上漂”，连人带车摔进水里，遗憾失利。张雪表示，今天在故乡圆梦，也是想让这片土地被世界看见。 记者：程济安 丁春雨 王天泽 陈思汗 戴斌",
-        "bvid": "BV1h4HV6mEZC",
-        "author": "新华社",
-        "duration": "5:23",
-        "cover": "//i1.hdslb.com/bfs/archive/684b72244d396284728eef7ec763b22465728511.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1h4HV6mEZC&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "张雪在家乡刷新吉尼斯纪录"
+        "description": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
+        "content": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
+        "bvid": "BV126nt6GE4W",
+        "author": "WorkFisher",
+        "duration": "10:31",
+        "cover": "//i2.hdslb.com/bfs/archive/57abe8426269103bdbbe6d31ae743fa77008c3ff.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV126nt6GE4W&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大肥鱼为什么突然火了"
       },
       {
-        "title": "《原神》7.2版本PV：「坏灭肇始之时」",
-        "url": "https://www.bilibili.com/video/BV1z9nt6aE5H",
+        "title": "【2026全球总决赛】10月25日 DK vs T1",
+        "url": "https://www.bilibili.com/video/BV179H36HEgG",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "世界的坟墓我已看见，我将它指给无上的高天。 人若为毁灭而造下，倒不如燃烧那愤怒与生的火焰。 中文CV： 派蒙——多多 「光之镜」——多多 空——鹿喑 米提亚——苏尚卿 诺伊——三石 「丑角」皮耶罗——符冲 瓦列里——淦子齐 安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅——刘校妤 玛薇卡——李晔 那维莱特——桑毓泽 纳西妲——花玲 温迪——喵☆酱 钟离——彭博 八重神子——杜冥鸦 影——菊花花 日文CV： 派蒙——古贺葵 「光之镜」——古贺葵 空——堀江瞬 米提亚——小林裕介 诺伊——三木真一郎 「丑角」皮耶",
-        "content": "世界的坟墓我已看见，我将它指给无上的高天。 人若为毁灭而造下，倒不如燃烧那愤怒与生的火焰。 中文CV： 派蒙——多多 「光之镜」——多多 空——鹿喑 米提亚——苏尚卿 诺伊——三石 「丑角」皮耶罗——符冲 瓦列里——淦子齐 安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅——刘校妤 玛薇卡——李晔 那维莱特——桑毓泽 纳西妲——花玲 温迪——喵☆酱 钟离——彭博 八重神子——杜冥鸦 影——菊花花 日文CV： 派蒙——古贺葵 「光之镜」——古贺葵 空——堀江瞬 米提亚——小林裕介 诺伊——三木真一郎 「丑角」皮耶",
-        "bvid": "BV1z9nt6aE5H",
-        "author": "原神",
-        "duration": "16:49",
-        "cover": "//i0.hdslb.com/bfs/archive/b902371f8d2f165449eb06c11f482b7776c458e5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z9nt6aE5H&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "原神7.2版本PV"
+        "description": "【2026全球总决赛】10月25日 DK vs T1",
+        "content": "【2026全球总决赛】10月25日 DK vs T1",
+        "bvid": "BV179H36HEgG",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "62:36",
+        "cover": "//i2.hdslb.com/bfs/archive/0599f4924343d510994e8644607f1ad4b6d4d832.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV179H36HEgG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DK战胜T1 S16瑞士轮"
       },
       {
         "title": "S16丨看笑了！LPL一把没赢！熬一宿给我看这个？喝~退！【赛事食报】",
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792926664292,
-    "bilibili": 1792925716540,
-    "qbitai": 1792897893340,
-    "36kr": 1792897893732
+    "thepaper": 1792928464650,
+    "bilibili": 1792927518156,
+    "qbitai": 1792899686744,
+    "36kr": 1792899687191
   },
   "failures": {}
 }
