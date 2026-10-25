@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T20:42:36Z",
+  "updatedAt": "2026-10-24T20:56:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,26 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "【中立】锐评LPL瑞士轮四支队伍第二天战绩 3-1 我跟瓦不熟",
-        "url": "https://www.bilibili.com/video/BV1PEHg64Eih",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "许哥的就不出了 世界赛期间等许哥进八强再说",
-        "content": "许哥的就不出了 世界赛期间等许哥进八强再说",
-        "bvid": "BV1PEHg64Eih",
-        "author": "最中立的电竞",
-        "duration": "10:59",
-        "cover": "//i0.hdslb.com/bfs/archive/f56ab374b2b9215df5ca0815f56209f829a29124.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PEHg64Eih&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "锐评LPL瑞士轮第二轮战绩"
-      },
-      {
         "title": "一线明星参演、高成本制作、高市早苗点名要看？热播日剧背后的认知投毒真危险！",
         "url": "https://www.bilibili.com/video/BV1wEHM6UES5",
         "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "#热播日剧背后的认知投毒 一线明星参演、每集高成本制作费、高市早苗点名要看——这就是日本TBS电视台最近热播的电视剧《Vivant》（《别班》）第二季，剧中把中国人拍成惨无人道的施暴者，把日本自卫队情报人员美化成正义反击者。更值得警惕的是：日本外务省斥巨资搞对华舆论抹黑和歪曲历史、用AI视频篡改历史、用AI大模型“投毒”、持续篡改教科书……娱乐化包装的敌意，比赤裸裸的宣传更危险！#国际时讯马上评",
@@ -158,26 +142,10 @@
         "hotTitle": "日剧Vivant抹黑中国"
       },
       {
-        "title": "人工耳蜗里的声音，到底是什么样的？",
-        "url": "https://www.bilibili.com/video/BV14Enb6LEDe",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "通过人工耳蜗听见的世界，和我们听见的一样吗？这一次，我们尝试用模拟的方式，带你一起听听。如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！ *本视频中未成年人的拍摄及出镜内容发布，均已获得其监护人同意。",
-        "content": "通过人工耳蜗听见的世界，和我们听见的一样吗？这一次，我们尝试用模拟的方式，带你一起听听。如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！ *本视频中未成年人的拍摄及出镜内容发布，均已获得其监护人同意。",
-        "bvid": "BV14Enb6LEDe",
-        "author": "亿点点不一样",
-        "duration": "6:26",
-        "cover": "//i2.hdslb.com/bfs/archive/87f06529220d95eba6316614124a1732983fa14d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14Enb6LEDe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "人工耳蜗里的声音是什么样的"
-      },
-      {
         "title": "牧神记107集：秦牧江上遇虚生花，我秦牧修成元神，八千飞剑铸就无忧剑丸！",
         "url": "https://www.bilibili.com/video/BV1PjHg6ZENU",
         "desc": "",
-        "rank": 4,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -188,6 +156,38 @@
         "cover": "//i0.hdslb.com/bfs/archive/d9964de4ba9376d631fc0d7e21e802b13590fc89.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PjHg6ZENU&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "秦牧参悟道剑十四篇"
+      },
+      {
+        "title": "减缓人工智能应用就业替代影响，AI有用和AI有泡沫并不冲突",
+        "url": "https://www.bilibili.com/video/BV1ojHV6sEuX",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "10月23日，发布了《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》。 其中第6点指出，减缓人工智能应用就业替代影响。 对这件事情，本视频会来详细分析，感谢赞赏支持。",
+        "content": "10月23日，发布了《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》。 其中第6点指出，减缓人工智能应用就业替代影响。 对这件事情，本视频会来详细分析，感谢赞赏支持。",
+        "bvid": "BV1ojHV6sEuX",
+        "author": "星话大白",
+        "duration": "12:40",
+        "cover": "//i2.hdslb.com/bfs/archive/4add2ae8aff6531ccb820c7430027e0bcebdaa3b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ojHV6sEuX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何理解AI对就业的影响"
+      },
+      {
+        "title": "【2026全球总决赛】10月25日 MKOI vs CFO",
+        "url": "https://www.bilibili.com/video/BV1h7HT68Epy",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【2026全球总决赛】10月25日 MKOI vs CFO",
+        "content": "【2026全球总决赛】10月25日 MKOI vs CFO",
+        "bvid": "BV1h7HT68Epy",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "56:22",
+        "cover": "//i0.hdslb.com/bfs/archive/9a1589aaa2eb4b450b98d6c31a916c80ef6e7c91.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1h7HT68Epy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "MKOI战胜CFO S16瑞士轮"
       },
       {
         "title": "【跳车摇】我没指望你们这些人能理解四六级！",
@@ -206,42 +206,52 @@
         "hotTitle": "刘晓艳 从四六级到跳车摇"
       },
       {
-        "title": "新角色：大肥鱼",
-        "url": "https://www.bilibili.com/video/BV1gVHA6mEbS",
+        "title": "人工耳蜗里的声音，到底是什么样的？",
+        "url": "https://www.bilibili.com/video/BV14Enb6LEDe",
         "desc": "",
         "rank": 6,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【新角色：大肥鱼】 初始武器 — 铁盆 固有天赋 — Token 【新武器：铁盆】 蓄力 — 按得越久，伤害越高、范围越大、音效越响 短按 — 小范围挥击；连续 3 下没打到人 ⇒ 触发【要饭】 [要饭] 对周围敌人做一次要饭判定，有概率朝你投喂【大白饭】 被动 — 在副手时，铁盆会自动戴在头上，并增加护盾值 【新技能：鲸群集结】 召唤一只小肥鱼代替你玩游戏：替你打、替你搬、替你干活。 没有数量上限。 【新天赋：Token】 消耗 — 大肥鱼 / 小肥鱼 做的每件事都要花 Token（攻击、搬运、瞬",
-        "content": "【新角色：大肥鱼】 初始武器 — 铁盆 固有天赋 — Token 【新武器：铁盆】 蓄力 — 按得越久，伤害越高、范围越大、音效越响 短按 — 小范围挥击；连续 3 下没打到人 ⇒ 触发【要饭】 [要饭] 对周围敌人做一次要饭判定，有概率朝你投喂【大白饭】 被动 — 在副手时，铁盆会自动戴在头上，并增加护盾值 【新技能：鲸群集结】 召唤一只小肥鱼代替你玩游戏：替你打、替你搬、替你干活。 没有数量上限。 【新天赋：Token】 消耗 — 大肥鱼 / 小肥鱼 做的每件事都要花 Token（攻击、搬运、瞬",
-        "bvid": "BV1gVHA6mEbS",
-        "author": "苏沐沐_Official",
-        "duration": "3:25",
-        "cover": "//i1.hdslb.com/bfs/archive/252184582ebb71e90934f11e62bb4f4615be2a33.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gVHA6mEbS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主自制大肥鱼游戏"
+        "description": "通过人工耳蜗听见的世界，和我们听见的一样吗？这一次，我们尝试用模拟的方式，带你一起听听。如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！ *本视频中未成年人的拍摄及出镜内容发布，均已获得其监护人同意。",
+        "content": "通过人工耳蜗听见的世界，和我们听见的一样吗？这一次，我们尝试用模拟的方式，带你一起听听。如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！ *本视频中未成年人的拍摄及出镜内容发布，均已获得其监护人同意。",
+        "bvid": "BV14Enb6LEDe",
+        "author": "亿点点不一样",
+        "duration": "6:26",
+        "cover": "//i2.hdslb.com/bfs/archive/87f06529220d95eba6316614124a1732983fa14d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14Enb6LEDe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "人工耳蜗里的声音是什么样的"
       },
       {
-        "title": "【2026全球总决赛】10月25日 MKOI vs CFO",
-        "url": "https://www.bilibili.com/video/BV1h7HT68Epy",
+        "title": "【2026全球总决赛】10月25日 TES vs AL",
+        "url": "https://www.bilibili.com/video/BV1iTHT6TEvg",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026全球总决赛】10月25日 MKOI vs CFO",
-        "content": "【2026全球总决赛】10月25日 MKOI vs CFO",
-        "bvid": "BV1h7HT68Epy",
+        "description": "【2026全球总决赛】10月25日 TES vs AL",
+        "content": "【2026全球总决赛】10月25日 TES vs AL",
+        "bvid": "BV1iTHT6TEvg",
         "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "56:22",
-        "cover": "//i0.hdslb.com/bfs/archive/9a1589aaa2eb4b450b98d6c31a916c80ef6e7c91.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1h7HT68Epy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "MKOI战胜CFO S16瑞士轮"
+        "duration": "66:23",
+        "cover": "//i1.hdslb.com/bfs/archive/d99ad8f9011f10e2a73fac6dd3bcc50eb5c21422.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iTHT6TEvg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TES战胜AL S16瑞士轮"
       },
       {
-        "title": "BLG战胜TLAW S16瑞士轮",
-        "url": "https://search.bilibili.com/all?keyword=BLG%20TLAW",
+        "title": "BLG首胜！BLG 1-0 TLAW 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV16uH36HEJy",
         "desc": "",
-        "rank": 8
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV16uH36HEJy",
+        "author": "苦练李香兰",
+        "duration": "1:5",
+        "cover": "//i2.hdslb.com/bfs/archive/01068cca0f0cd4c1b358e26dfa8db1cc2270c152.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16uH36HEJy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG战胜TLAW S16瑞士轮"
       },
       {
         "title": "BLG首胜！BLG 1-0 TLAW 赛后数据雷达图丨2026全球总决赛-瑞士轮",
@@ -260,70 +270,42 @@
         "hotTitle": "BLG战胜TLAW赛后数据"
       },
       {
-        "title": "一刀不剪！3-1挽尊，9哥这是红果剧情？",
-        "url": "https://www.bilibili.com/video/BV16PH36REHk",
+        "title": "新角色：大肥鱼",
+        "url": "https://www.bilibili.com/video/BV1gVHA6mEbS",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV16PH36REHk",
-        "author": "解说毛毛",
-        "duration": "5:1",
-        "cover": "//i0.hdslb.com/bfs/archive/1447ef285ecfadd85c7b22caa5878da0c12485a5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16PH36REHk&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AL能连赢三场BO3吗"
+        "description": "【新角色：大肥鱼】 初始武器 — 铁盆 固有天赋 — Token 【新武器：铁盆】 蓄力 — 按得越久，伤害越高、范围越大、音效越响 短按 — 小范围挥击；连续 3 下没打到人 ⇒ 触发【要饭】 [要饭] 对周围敌人做一次要饭判定，有概率朝你投喂【大白饭】 被动 — 在副手时，铁盆会自动戴在头上，并增加护盾值 【新技能：鲸群集结】 召唤一只小肥鱼代替你玩游戏：替你打、替你搬、替你干活。 没有数量上限。 【新天赋：Token】 消耗 — 大肥鱼 / 小肥鱼 做的每件事都要花 Token（攻击、搬运、瞬",
+        "content": "【新角色：大肥鱼】 初始武器 — 铁盆 固有天赋 — Token 【新武器：铁盆】 蓄力 — 按得越久，伤害越高、范围越大、音效越响 短按 — 小范围挥击；连续 3 下没打到人 ⇒ 触发【要饭】 [要饭] 对周围敌人做一次要饭判定，有概率朝你投喂【大白饭】 被动 — 在副手时，铁盆会自动戴在头上，并增加护盾值 【新技能：鲸群集结】 召唤一只小肥鱼代替你玩游戏：替你打、替你搬、替你干活。 没有数量上限。 【新天赋：Token】 消耗 — 大肥鱼 / 小肥鱼 做的每件事都要花 Token（攻击、搬运、瞬",
+        "bvid": "BV1gVHA6mEbS",
+        "author": "苏沐沐_Official",
+        "duration": "3:25",
+        "cover": "//i1.hdslb.com/bfs/archive/252184582ebb71e90934f11e62bb4f4615be2a33.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gVHA6mEbS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主自制大肥鱼游戏"
       },
       {
-        "title": "DK战胜T1 S16瑞士轮",
-        "url": "https://search.bilibili.com/all?keyword=DK%20T1",
+        "title": "《鸣潮》世界观PV | 超验TRANSCENDO",
+        "url": "https://www.bilibili.com/video/BV1p8nh61Efm",
         "desc": "",
-        "rank": 11
-      },
-      {
-        "title": "【2026全球总决赛】10月25日 HLE vs GEN",
-        "url": "https://www.bilibili.com/video/BV1woHM6XEtP",
-        "desc": "",
-        "rank": 12,
+        "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026全球总决赛】10月25日 HLE vs GEN",
-        "content": "【2026全球总决赛】10月25日 HLE vs GEN",
-        "bvid": "BV1woHM6XEtP",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "62:2",
-        "cover": "//i1.hdslb.com/bfs/archive/d2ba58ed5022011c749cfa19bd1f443ffa595ac8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1woHM6XEtP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GEN战胜HLE S16瑞士轮"
-      },
-      {
-        "title": "TES战胜AL S16瑞士轮",
-        "url": "https://search.bilibili.com/all?keyword=TES%20AL",
-        "desc": "",
-        "rank": 13
-      },
-      {
-        "title": "早晨，IG拿下首胜！IG 1-0 TSW 赛后数据雷达图丨2026全球总决赛-瑞士轮",
-        "url": "https://www.bilibili.com/video/BV1aHHu6vEG1",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1aHHu6vEG1",
-        "author": "苦练李香兰",
-        "duration": "1:5",
-        "cover": "//i0.hdslb.com/bfs/archive/45fe6d1a119d6a6a0b012834aeda0fdbe4541543.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aHHu6vEG1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "IG战胜TSW S16瑞士轮"
+        "description": "闭环重启，潮声再循。",
+        "content": "闭环重启，潮声再循。",
+        "bvid": "BV1p8nh61Efm",
+        "author": "鸣潮",
+        "duration": "13:42",
+        "cover": "//i1.hdslb.com/bfs/archive/57b6f45c8747c18d0dc68beccaafcfbc2eaec175.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1p8nh61Efm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "鸣潮世界观PV"
       },
       {
         "title": "【2026全球总决赛】10月25日 LOS vs G2",
         "url": "https://www.bilibili.com/video/BV1gNHg6KE35",
         "desc": "",
-        "rank": 15,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "【2026全球总决赛】10月25日 LOS vs G2",
@@ -336,42 +318,10 @@
         "hotTitle": "G2战胜LOS S16瑞士轮"
       },
       {
-        "title": "印度神王一夫当关！LYON 1-0 KC 赛后数据雷达图丨2026全球总决赛-瑞士轮",
-        "url": "https://www.bilibili.com/video/BV1p6Hu6pEpX",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1p6Hu6pEpX",
-        "author": "苦练李香兰",
-        "duration": "1:5",
-        "cover": "//i2.hdslb.com/bfs/archive/fafabe295cbf0fa49e52f2ec991586c0ffe9fe20.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1p6Hu6pEpX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "LYON战胜KC S16瑞士轮"
-      },
-      {
-        "title": "二十国混战：速通复盘中土网友对线大战",
-        "url": "https://www.bilibili.com/video/BV1tcHK6pEZo",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1tcHK6pEZo",
-        "author": "波士顿圆脸",
-        "duration": "43:31",
-        "cover": "//i0.hdslb.com/bfs/archive/73426501e3a3a89275437506f457c2af478de321.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tcHK6pEZo&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "速通中土网友对线大战"
-      },
-      {
         "title": "你需要多少钱，才能财富自由？",
         "url": "https://www.bilibili.com/video/BV1yUHP6rEYD",
         "desc": "",
-        "rank": 18,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -384,10 +334,122 @@
         "hotTitle": "实现财富自由到底要多少钱"
       },
       {
+        "title": "这刺连胜！特尔贴地斩破门 帕尔默染红 十人切尔西0比2热刺",
+        "url": "https://www.bilibili.com/video/BV1LoHu6rEMJ",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1LoHu6rEMJ",
+        "author": "吉罗很快乐",
+        "duration": "18:26",
+        "cover": "//i0.hdslb.com/bfs/archive/03f5710326a0225c5b6a46492e567d3bffba2bae.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LoHu6rEMJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "十人切尔西0-2热刺"
+      },
+      {
+        "title": "【2026全球总决赛】10月25日 DK vs T1",
+        "url": "https://www.bilibili.com/video/BV179H36HEgG",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【2026全球总决赛】10月25日 DK vs T1",
+        "content": "【2026全球总决赛】10月25日 DK vs T1",
+        "bvid": "BV179H36HEgG",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "62:36",
+        "cover": "//i2.hdslb.com/bfs/archive/0599f4924343d510994e8644607f1ad4b6d4d832.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV179H36HEgG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DK战胜T1 S16瑞士轮"
+      },
+      {
+        "title": "【2026全球总决赛】10月25日 HLE vs GEN",
+        "url": "https://www.bilibili.com/video/BV1woHM6XEtP",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【2026全球总决赛】10月25日 HLE vs GEN",
+        "content": "【2026全球总决赛】10月25日 HLE vs GEN",
+        "bvid": "BV1woHM6XEtP",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "62:2",
+        "cover": "//i1.hdslb.com/bfs/archive/d2ba58ed5022011c749cfa19bd1f443ffa595ac8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1woHM6XEtP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GEN战胜HLE S16瑞士轮"
+      },
+      {
+        "title": "废队友？字母哥空刷71分！热火惨痛连败！热火输球到底谁背锅？",
+        "url": "https://www.bilibili.com/video/BV1WbHN65EA5",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1WbHN65EA5",
+        "author": "太吾车神",
+        "duration": "9:7",
+        "cover": "//i2.hdslb.com/bfs/archive/327865bbf201d70d609430f155aea995b3c2c0b8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WbHN65EA5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "热火连败问题到底出在谁"
+      },
+      {
+        "title": "早晨，IG拿下首胜！IG 1-0 TSW 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV1aHHu6vEG1",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1aHHu6vEG1",
+        "author": "苦练李香兰",
+        "duration": "1:5",
+        "cover": "//i0.hdslb.com/bfs/archive/45fe6d1a119d6a6a0b012834aeda0fdbe4541543.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aHHu6vEG1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "IG战胜TSW S16瑞士轮"
+      },
+      {
+        "title": "印度神王一夫当关！LYON 1-0 KC 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV1p6Hu6pEpX",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1p6Hu6pEpX",
+        "author": "苦练李香兰",
+        "duration": "1:5",
+        "cover": "//i2.hdslb.com/bfs/archive/fafabe295cbf0fa49e52f2ec991586c0ffe9fe20.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1p6Hu6pEpX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "LYON战胜KC S16瑞士轮"
+      },
+      {
+        "title": "S16世界赛在哪举办？举办场馆又有哪些故事？【LPL热知识】",
+        "url": "https://www.bilibili.com/video/BV1mLnb67Ekp",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "算是世界赛特辑了，之后可能会做世界赛队服盘点，球球点赞关注！",
+        "content": "算是世界赛特辑了，之后可能会做世界赛队服盘点，球球点赞关注！",
+        "bvid": "BV1mLnb67Ekp",
+        "author": "我是BE57",
+        "duration": "8:14",
+        "cover": "//i0.hdslb.com/bfs/archive/dd01e35be67a4fee4a1b954ebb936dd5705133de.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mLnb67Ekp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S16举办场馆有哪些故事"
+      },
+      {
         "title": "S16丨看笑了！LPL一把没赢！熬一宿给我看这个？喝~退！【赛事食报】",
         "url": "https://www.bilibili.com/video/BV1AKHP63EZa",
         "desc": "",
-        "rank": 19,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "求求大伙三连回回血吧~",
@@ -400,52 +462,20 @@
         "hotTitle": "LPL四支队伍各自的问题在哪"
       },
       {
-        "title": "“非洲优等生”成功密码是什么？天降猛男的得与失【中非04丨卢旺达】",
-        "url": "https://www.bilibili.com/video/BV1Wsnb63Eo5",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "一键三连推荐给更多朋友！",
-        "content": "一键三连推荐给更多朋友！",
-        "bvid": "BV1Wsnb63Eo5",
-        "author": "小王Albert",
-        "duration": "32:16",
-        "cover": "//i1.hdslb.com/bfs/archive/4800b6d1c36224f5c1370f450bf9f207504c6477.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wsnb63Eo5&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "卢旺达为何被称为非洲新加坡"
-      },
-      {
-        "title": "什么是“鱼灾”？B站大肥鱼一周爆发始末全复盘【附安全养鱼指南】",
-        "url": "https://www.bilibili.com/video/BV126nt6GE4W",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
-        "content": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
-        "bvid": "BV126nt6GE4W",
-        "author": "WorkFisher",
-        "duration": "10:31",
-        "cover": "//i2.hdslb.com/bfs/archive/57abe8426269103bdbbe6d31ae743fa77008c3ff.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV126nt6GE4W&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大肥鱼为什么突然火了"
-      },
-      {
-        "title": "S16世界赛在哪举办？举办场馆又有哪些故事？【LPL热知识】",
-        "url": "https://www.bilibili.com/video/BV1mLnb67Ekp",
+        "title": "【中立】锐评LPL瑞士轮四支队伍第二天战绩 3-1 我跟瓦不熟",
+        "url": "https://www.bilibili.com/video/BV1PEHg64Eih",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
-        "description": "算是世界赛特辑了，之后可能会做世界赛队服盘点，球球点赞关注！",
-        "content": "算是世界赛特辑了，之后可能会做世界赛队服盘点，球球点赞关注！",
-        "bvid": "BV1mLnb67Ekp",
-        "author": "我是BE57",
-        "duration": "8:14",
-        "cover": "//i0.hdslb.com/bfs/archive/dd01e35be67a4fee4a1b954ebb936dd5705133de.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mLnb67Ekp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S16举办场馆有哪些故事"
+        "description": "许哥的就不出了 世界赛期间等许哥进八强再说",
+        "content": "许哥的就不出了 世界赛期间等许哥进八强再说",
+        "bvid": "BV1PEHg64Eih",
+        "author": "最中立的电竞",
+        "duration": "10:59",
+        "cover": "//i0.hdslb.com/bfs/archive/f56ab374b2b9215df5ca0815f56209f829a29124.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PEHg64Eih&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "锐评LPL瑞士轮第二轮战绩"
       },
       {
         "title": "【S16】S赛都在练什么英雄？职业都取什么ID？BLG的最大优点也是缺点？",
@@ -464,74 +494,10 @@
         "hotTitle": "S赛各队都在练什么英雄"
       },
       {
-        "title": "11天，我们干掉祸害20多年的传销头目！",
-        "url": "https://www.bilibili.com/video/BV1oTnW67E4n",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "11天，我们干掉了祸害20多年的传销头目！ 感谢大家的关注和支持，愿我们的努力能让这样的悲剧更少的发生。 这里是温柔，旅途仍在继续，我们——依然在路上。",
-        "content": "11天，我们干掉了祸害20多年的传销头目！ 感谢大家的关注和支持，愿我们的努力能让这样的悲剧更少的发生。 这里是温柔，旅途仍在继续，我们——依然在路上。",
-        "bvid": "BV1oTnW67E4n",
-        "author": "温柔JUNZ",
-        "duration": "18:50",
-        "cover": "//i1.hdslb.com/bfs/archive/eb7350387aefed92e5045057162d1b32b85fc74f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oTnW67E4n&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主起底20多年的传销头目"
-      },
-      {
-        "title": "从四六级一路到科切拉，刘晓艳百万级直拍封神现场！",
-        "url": "https://www.bilibili.com/video/BV1Wone6REPF",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Wone6REPF",
-        "author": "考研英语晓燕",
-        "duration": "0:15",
-        "cover": "//i2.hdslb.com/bfs/archive/892198599ce0c064d60ef4a9f1486b39b4c121dc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wone6REPF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "刘晓艳 从四六级到科切拉"
-      },
-      {
-        "title": "【享拆】iPhone Duo 拆解：折叠机的引领者还是推动者？",
-        "url": "https://www.bilibili.com/video/BV1EtHM6kEFd",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "全网最细 iPhone Duo 拆解给大家端出来了～",
-        "content": "全网最细 iPhone Duo 拆解给大家端出来了～",
-        "bvid": "BV1EtHM6kEFd",
-        "author": "微机分WekiHome",
-        "duration": "20:47",
-        "cover": "//i2.hdslb.com/bfs/archive/d9487b59fd2b2b05d26ad82ead243b63a0a20563.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EtHM6kEFd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "iPhone Duo能否撕掉磨砂膜"
-      },
-      {
-        "title": "大银月来袭！魏无涯以一己之力 保住了九国盟的脸面跟人心！南宫婉的纠结与挣扎《凡人修仙传》197集逐帧解析",
-        "url": "https://www.bilibili.com/video/BV1gfHN69Ecb",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "感谢本期视频的配音小哥@鲜氣菌",
-        "content": "感谢本期视频的配音小哥@鲜氣菌",
-        "bvid": "BV1gfHN69Ecb",
-        "author": "白马侯子",
-        "duration": "12:20",
-        "cover": "//i0.hdslb.com/bfs/archive/61e1e76739195caff951925a2798979e2e9ec2a2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gfHN69Ecb&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "韩立在九国盟声名远扬"
-      },
-      {
         "title": "⚡⚡逆 天 复 仇 者⚡⚡",
         "url": "https://www.bilibili.com/video/BV1BZn86qE9n",
         "desc": "",
-        "rank": 28,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "总有一个这样的宇宙",
@@ -544,26 +510,58 @@
         "hotTitle": "逆天复仇者联盟"
       },
       {
-        "title": "人性、欲望与奇观，自驾拉斯维加斯，现实夜之城什么样？",
-        "url": "https://www.bilibili.com/video/BV12qnt6VEM1",
+        "title": "二十国混战：速通复盘中土网友对线大战",
+        "url": "https://www.bilibili.com/video/BV1tcHK6pEZo",
         "desc": "",
-        "rank": 29,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
-        "description": "公路日记第二季美国篇完结啦，这三集完全自制无广，耗资大时间长，希望带大家各个国家不一样的风土人情，喜欢的给个三连吧，求求了这个对我真的很重要（拜托拜托） BGM列表： The Macarons Project - Fly Me to the Moon Rosa Walton; Hallie Coggins - I Really Want to Stay at Your House Elvis Presley; The Jordanaires - Can't Help Falling in Love T",
-        "content": "公路日记第二季美国篇完结啦，这三集完全自制无广，耗资大时间长，希望带大家各个国家不一样的风土人情，喜欢的给个三连吧，求求了这个对我真的很重要（拜托拜托） BGM列表： The Macarons Project - Fly Me to the Moon Rosa Walton; Hallie Coggins - I Really Want to Stay at Your House Elvis Presley; The Jordanaires - Can't Help Falling in Love T",
-        "bvid": "BV12qnt6VEM1",
-        "author": "超Carry的柴西",
-        "duration": "25:42",
-        "cover": "//i2.hdslb.com/bfs/archive/65c7b43fb6fdd34cfc122c76fd9e90ccf4c5401d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12qnt6VEM1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "柴西探索现实版夜之城"
+        "description": "",
+        "content": "",
+        "bvid": "BV1tcHK6pEZo",
+        "author": "波士顿圆脸",
+        "duration": "43:31",
+        "cover": "//i0.hdslb.com/bfs/archive/73426501e3a3a89275437506f457c2af478de321.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tcHK6pEZo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "速通中土网友对线大战"
+      },
+      {
+        "title": "“非洲优等生”成功密码是什么？天降猛男的得与失【中非04丨卢旺达】",
+        "url": "https://www.bilibili.com/video/BV1Wsnb63Eo5",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "一键三连推荐给更多朋友！",
+        "content": "一键三连推荐给更多朋友！",
+        "bvid": "BV1Wsnb63Eo5",
+        "author": "小王Albert",
+        "duration": "32:16",
+        "cover": "//i1.hdslb.com/bfs/archive/4800b6d1c36224f5c1370f450bf9f207504c6477.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wsnb63Eo5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "卢旺达为何被称为非洲新加坡"
+      },
+      {
+        "title": "【享拆】iPhone Duo 拆解：折叠机的引领者还是推动者？",
+        "url": "https://www.bilibili.com/video/BV1EtHM6kEFd",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "全网最细 iPhone Duo 拆解给大家端出来了～",
+        "content": "全网最细 iPhone Duo 拆解给大家端出来了～",
+        "bvid": "BV1EtHM6kEFd",
+        "author": "微机分WekiHome",
+        "duration": "20:47",
+        "cover": "//i2.hdslb.com/bfs/archive/d9487b59fd2b2b05d26ad82ead243b63a0a20563.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EtHM6kEFd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "iPhone Duo能否撕掉磨砂膜"
       },
       {
         "title": "你管这叫普通农村？",
         "url": "https://www.bilibili.com/video/BV1Jhnb6TETw",
         "desc": "",
-        "rank": 30,
+        "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "喜欢视频请给咪克菌一键三连加关注吧！今后会有更多的脑洞！ 求三连~求三连~求三连",
@@ -574,6 +572,38 @@
         "cover": "//i0.hdslb.com/bfs/archive/1095cbde7edecd3fb5c1adb91ff1c0a67b698a70.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Jhnb6TETw&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "七旬大爷用手回收火箭"
+      },
+      {
+        "title": "什么是“鱼灾”？B站大肥鱼一周爆发始末全复盘【附安全养鱼指南】",
+        "url": "https://www.bilibili.com/video/BV126nt6GE4W",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
+        "content": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
+        "bvid": "BV126nt6GE4W",
+        "author": "WorkFisher",
+        "duration": "10:31",
+        "cover": "//i2.hdslb.com/bfs/archive/57abe8426269103bdbbe6d31ae743fa77008c3ff.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV126nt6GE4W&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大肥鱼为什么突然火了"
+      },
+      {
+        "title": "从四六级一路到科切拉，刘晓艳百万级直拍封神现场！",
+        "url": "https://www.bilibili.com/video/BV1Wone6REPF",
+        "desc": "",
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Wone6REPF",
+        "author": "考研英语晓燕",
+        "duration": "0:15",
+        "cover": "//i2.hdslb.com/bfs/archive/892198599ce0c064d60ef4a9f1486b39b4c121dc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wone6REPF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "刘晓艳 从四六级到科切拉"
       }
     ],
     "qbitai": [
@@ -920,6 +950,26 @@
         "rank": 4
       },
       {
+        "title": "韩国首尔市宣布将于26日至28日举办“首尔金融科技周2026”",
+        "url": "https://m.36kr.com/newsflashes/4040779755344775",
+        "desc": "据报道，韩国首尔市宣布将于26日至28日举办“首尔金融科技周2026”，邀请全球金融科技行业专家和企业，探讨首尔金融产业的发展潜力和未来竞争力的活动。",
+        "cover": "",
+        "date": 1792903536000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "国务院国资委：大力推进国资国企改革 扎实抓好进一步深化国资国企改革任务落地",
+        "url": "https://m.36kr.com/newsflashes/4040777502741635",
+        "desc": "国务院国资委党委23日召开理论学习中心组集体学习会。会议强调，要紧密结合国资央企职责使命，对标落实新时代长征路上的重点任务。要加快实现高质量发展，完整准确全面贯彻新发展理念，持续优化国有经济布局，加强关键核心技术攻关，切实增强核心功能、提升核心竞争力，更好发挥国有经济战略支撑作用；大力推进国资国企改革，扎实抓好进一步深化国资国企改革任务落地，真正破除影响企业高质量发展的体制机制障碍；大力提高监管效能，深入转变监管方式，加快推进穿透式监管，健全国资监管法规制度体系，推动各类监督贯通协同，持续提升监管专业化、体系化、法治化、高效化水平；坚持党的全面领导，推动党建与业务深度融合，持之以恒纵深推进全面从严治党，以高质量党建引领保障高质量发展。",
+        "cover": "",
+        "date": 1792903517000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "快手三农万粉创作者月活达9.6万+，将推出“乡野上新计划”",
         "url": "https://m.36kr.com/newsflashes/4040808036455296",
         "desc": "2026快手三农大会于10月25日在海南博鳌举行。快手三农业务负责人尹超在会上表示，快手三农将长期经营三农创作者，让更多元的乡村叙事被持续看见。过去一年，快手三农万粉以上创作者月活规模达9.6万+，内容日均播放量超14.5亿，直播日均观看次数超4.5亿，万粉作者有效供稿同比增长15.83%。未来，快手三农将通过“乡野上新计划”，持续发现新面孔、扶持新表达、放大新现场，帮助创作者沉淀粉丝关系、直播能力、农货连接和长期创作能力，让更多真实、鲜活、务实、美好的乡村表达被看见。",
@@ -927,7 +977,7 @@
         "date": 1792903349881,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "我国成功发射卫星互联网低轨28组卫星",
@@ -937,7 +987,7 @@
         "date": 1792902651000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "马斯克称乌曾违规使用“星链”发动进攻",
@@ -947,7 +997,7 @@
         "date": 1792901724000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "南方区域电力市场转入正式运行暨高质量发展推进会在广州召开",
@@ -957,7 +1007,7 @@
         "date": 1792900820000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "国家能源局主要负责同志赴广东调研新型电网建设等工作",
@@ -967,7 +1017,7 @@
         "date": 1792899932000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "江苏：前三季度GDP同比增长5.2%",
@@ -977,7 +1027,7 @@
         "date": 1792898132000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "德邦证券程强：A股估值已进入合理区间 多重有利条件正在汇聚",
@@ -987,7 +1037,7 @@
         "date": 1792898107000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "澳门三展联动 搭建多元产业交流合作平台",
@@ -997,7 +1047,7 @@
         "date": 1792897223000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "三星Exynos 2700内部测试得分超过高通",
@@ -1007,7 +1057,7 @@
         "date": 1792896352000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "上证指数、科创综指等拟修订 明起实施",
@@ -1017,7 +1067,7 @@
         "date": 1792895420000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "标普出台新规：调整成长股和价值股的划分规则 成长股评估标准不再参考个股过去12个月的上涨势头",
@@ -1027,7 +1077,7 @@
         "date": 1792894557000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "福建省终止防台风应急响应 陆续恢复海上生产",
@@ -1037,7 +1087,7 @@
         "date": 1792893912000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "青藏铁路受地震影响区段列车恢复正常运行",
@@ -1047,7 +1097,7 @@
         "date": 1792892754000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "南方区域电力市场转入正式运行暨高质量发展推进会在广州召开",
@@ -1057,7 +1107,7 @@
         "date": 1792891811000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "生态环境部就地下水污染防治重点区管理征求意见",
@@ -1067,7 +1117,7 @@
         "date": 1792890749390,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "中国联通：已在苹果直营店/授权店安排千余名驻店员，协助iPhone Duo购机用户开通eSIM",
@@ -1077,7 +1127,7 @@
         "date": 1792838707000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "艾迪精密美国公司在芝加哥开业",
@@ -1087,7 +1137,7 @@
         "date": 1792837831000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "皖能集团“陕电入皖”配套新能源项目投资运营主体成立",
@@ -1097,35 +1147,15 @@
         "date": 1792836909000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "亿铸科技完成超10亿元新一轮融资",
-        "url": "https://m.36kr.com/newsflashes/4039705825858436",
-        "desc": "36氪获悉，存算一体AI芯片公司亿铸科技宣布完成超10亿元新一轮融资。公司基于3D DRAM的全数字通用存算一体AI芯片已完成流片，商用芯片测试结果基本达到预设设计指标。本轮融资将用于研发投入、产品迭代及产业化推进。",
-        "cover": "",
-        "date": 1792836076285,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "腾讯WorkBuddy接入模型Kimi-K3.1-Pro",
-        "url": "https://m.36kr.com/newsflashes/4039662177653892",
-        "desc": "10月24日，腾讯WorkBuddy宣布已接入模型Kimi-K3.1-Pro。据介绍，WorkBuddy同步接入高速版模型Kimi K3.1 Pro Highspeed，同等智能，输出速度约2-3倍。目前资源紧张，现阶段仅对“企业旗舰版”及“个人订阅用户”优先开放。",
-        "cover": "",
-        "date": 1792836019000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792903263150,
-    "bilibili": 1792902210366,
-    "qbitai": 1792874556115,
-    "36kr": 1792874556472
+    "thepaper": 1792904162503,
+    "bilibili": 1792904170850,
+    "qbitai": 1792875393138,
+    "36kr": 1792875393485
   },
   "failures": {}
 }
