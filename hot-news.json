@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T04:26:29Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-10-25T04:42:35Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -494,19 +494,19 @@
         "hotTitle": "中国非遗美食元素变装"
       },
       {
-        "title": "不赌钱的掼蛋，为什么能火【商业单口08】",
-        "url": "https://www.bilibili.com/video/BV1uF4m1L7yB",
+        "title": "什么是“鱼灾”？B站大肥鱼一周爆发始末全复盘【附安全养鱼指南】",
+        "url": "https://www.bilibili.com/video/BV126nt6GE4W",
         "desc": "",
         "rank": 24,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1uF4m1L7yB",
-        "author": "真故研究室",
-        "duration": "14:29",
-        "cover": "//i1.hdslb.com/bfs/archive/f2da4f8f35209a15acf1e5b7efd25061519db4f2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uF4m1L7yB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
+        "content": "官方下载链接:https://www.deepseek.com/en/harness/ 插件下载链接：https://github.com/Alterssss/dsh-bili-whale 网盘自取（实在下载不下来的）：Deepseek-Herness安装包+插件：https://pan.quark.cn/s/8cd760754fff",
+        "bvid": "BV126nt6GE4W",
+        "author": "WorkFisher",
+        "duration": "10:31",
+        "cover": "//i2.hdslb.com/bfs/archive/57abe8426269103bdbbe6d31ae743fa77008c3ff.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV126nt6GE4W&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "大肥鱼为什么突然火了"
       },
       {
@@ -1152,10 +1152,11 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1792931170407,
-    "bilibili": 1792931174352,
-    "qbitai": 1792902389517,
-    "36kr": 1792902389971
+    "bilibili": 1792931124177,
+    "qbitai": 1792903355352,
+    "36kr": 1792903355757
   },
-  "failures": {}
+  "failures": {
+    "thepaper": "RuntimeError('NewsNow JSON not found')"
+  }
 }
