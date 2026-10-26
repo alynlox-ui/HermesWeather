@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-26T09:26:26Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-10-26T09:42:01Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -28,98 +28,98 @@
         "rank": 4
       },
       {
-        "title": "再夺一冠！孙心然赢得ITF青少年年终总决赛女单冠军",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34328841",
-        "desc": "",
-        "rank": 5
-      },
-      {
         "title": "卢拉成功连任，当选巴西新一任总统",
         "url": "https://www.thepaper.cn/newsDetail_forward_34331765",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "曾经顶流｜马景涛：回望顶流岁月，“纯粹年代”真的谢幕了吗？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34308460",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "马上评｜“娱乐至死”的医疗真人秀，该叫停了",
         "url": "https://www.thepaper.cn/newsDetail_forward_34330398",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "媒体：把自身罪行安到中国人头上，日本“神剧”为谁招魂",
         "url": "https://www.thepaper.cn/newsDetail_forward_34329226",
         "desc": "",
-        "rank": 9
+        "rank": 8
       },
       {
         "title": "面对面丨让荣耀不再沉默，揭秘在台隐蔽战线英烈往事",
         "url": "https://www.thepaper.cn/newsDetail_forward_34331230",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "马上评｜治理摆拍，平台怎能既当运动员又当裁判员",
         "url": "https://www.thepaper.cn/newsDetail_forward_34332747",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "媒体：电子屏“示众”欠费业主，物业催费何必走偏门",
         "url": "https://www.thepaper.cn/newsDetail_forward_34331088",
         "desc": "",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "马上评｜一条匿名差评，胖哥俩咋追踪到人的？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34330207",
         "desc": "",
+        "rank": 12
+      },
+      {
+        "title": "金正恩上周访问丹东，访问是应邀还是朝方提出？外交部介绍相关情况",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34333708",
+        "desc": "",
         "rank": 13
+      },
+      {
+        "title": "向校门口的二手烟说“不”，上海开展托幼机构、中小学控烟专项巡查",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34332141",
+        "desc": "",
+        "rank": 14
       },
       {
         "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34332295",
         "desc": "",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "二十届中央第七轮巡视完成反馈",
         "url": "https://www.thepaper.cn/newsDetail_forward_34329709",
         "desc": "",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "巴西总统选举第二轮投票开始",
         "url": "https://www.thepaper.cn/newsDetail_forward_34329847",
         "desc": "",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "李天阳不敌张本智和亚锦赛摘银，国乒亚锦赛4金收官",
         "url": "https://www.thepaper.cn/newsDetail_forward_34330175",
         "desc": "",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "中朝举行志愿军烈士陵园修缮工程竣工仪式",
         "url": "https://www.thepaper.cn/newsDetail_forward_34330469",
         "desc": "",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "全国总工会拨付200万元支援西藏灾区救灾救助工作",
         "url": "https://www.thepaper.cn/newsDetail_forward_34330169",
-        "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "达古冰川“盖被子”6年：局部“长高”10厘米，一场为冰川争取时间的试验",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34320772",
         "desc": "",
         "rank": 20
       }
@@ -608,6 +608,36 @@
     ],
     "qbitai": [
       {
+        "title": "OpenAI开始断网训练最强模型：“安全起见”",
+        "url": "https://www.qbitai.com/2026/10/505529.html",
+        "desc": "模型开始利用GPU缓存聊天？",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/bf1298f8e80aa020de369ab6a6387e15.webp",
+        "date": "2026-10-26T17:37:57",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "A社联创演讲：AI奇点已来",
+        "url": "https://www.qbitai.com/2026/10/505521.html",
+        "desc": "所谓奇点，或许是AI跃过人类的那个点。",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/1e19022b3a20c3c00fcae6b5cbd93963.webp",
+        "date": "2026-10-26T17:35:14",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
+      {
+        "title": "NeoLab第一个商业模式：转售GPU",
+        "url": "https://www.qbitai.com/2026/10/505478.html",
+        "desc": "从冲刺AGI到转售GPU。",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/截屏2026-10-26-10.05.43.png",
+        "date": "2026-10-26T17:31:47",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 3
+      },
+      {
         "title": "中国近50%的新云生意，竟被这家公司包揽！",
         "url": "https://www.qbitai.com/2026/10/505454.html",
         "desc": "有点意外，但也不意外",
@@ -615,7 +645,7 @@
         "date": "2026-10-26T17:02:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 4
       },
       {
         "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
@@ -625,7 +655,7 @@
         "date": "2026-10-26T16:38:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 5
       },
       {
         "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
@@ -635,7 +665,7 @@
         "date": "2026-10-26T16:04:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
@@ -645,7 +675,7 @@
         "date": "2026-10-26T14:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
@@ -655,7 +685,7 @@
         "date": "2026-10-26T14:45:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
@@ -665,7 +695,7 @@
         "date": "2026-10-26T14:42:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "被OpenAIGemini共同选择的实时语音交互，凭什么是这家中国公司？",
@@ -675,7 +705,7 @@
         "date": "2026-10-26T14:38:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
@@ -685,7 +715,7 @@
         "date": "2026-10-26T14:33:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "马斯克给机器人建了个学校！腾出百万车型产线来量产",
@@ -695,7 +725,7 @@
         "date": "2026-10-26T14:32:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "10亿Tokens免费送！实测全国产算力模型Spark-X2.6，纯代码搓出3D故宫",
@@ -705,7 +735,7 @@
         "date": "2026-10-26T14:31:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
@@ -715,7 +745,7 @@
         "date": "2026-10-26T14:15:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "成立3个月便反超GPT-6 Astra！深圳黑马首次亮相",
@@ -725,7 +755,7 @@
         "date": "2026-10-26T14:12:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "物理AI怎么“击穿”场景落地？宇树生态大会上的钢铁答案",
@@ -735,7 +765,7 @@
         "date": "2026-10-26T13:17:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "Kimi K3.1 Pro一手实测：Godot、Blender全能接，23轮测试自己跑",
@@ -745,7 +775,7 @@
         "date": "2026-10-26T13:13:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "B站AI创造公开赛第二赛季启动，设百万奖金池、英伟达算力加持",
@@ -755,7 +785,7 @@
         "date": "2026-10-26T13:09:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
@@ -765,7 +795,7 @@
         "date": "2026-10-23T17:21:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "企业AI需要两个世界模型",
@@ -775,7 +805,7 @@
         "date": "2026-10-23T17:07:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
@@ -785,7 +815,7 @@
         "date": "2026-10-23T17:03:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "国产5B生图模型海外突然爆火，4天超百万下载",
@@ -795,7 +825,7 @@
         "date": "2026-10-23T16:50:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
@@ -805,7 +835,7 @@
         "date": "2026-10-23T16:45:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 23
       },
       {
         "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
@@ -815,7 +845,7 @@
         "date": "2026-10-23T16:45:30",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 24
       },
       {
         "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
@@ -825,7 +855,7 @@
         "date": "2026-10-23T16:40:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 25
       },
       {
         "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
@@ -835,7 +865,7 @@
         "date": "2026-10-23T15:35:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 26
       },
       {
         "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
@@ -845,7 +875,7 @@
         "date": "2026-10-22T17:07:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 27
       },
       {
         "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
@@ -855,7 +885,7 @@
         "date": "2026-10-22T15:14:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 28
       },
       {
         "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
@@ -865,7 +895,7 @@
         "date": "2026-10-22T15:11:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 29
       },
       {
         "title": "谁在给OpenAI供应具身数据？",
@@ -873,36 +903,6 @@
         "desc": "挤进全球Physical AI核心供应链",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/2f7f9d2f186eaf0b1e429546b2d095b4.gif",
         "date": "2026-10-22T15:05:59",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 27
-      },
-      {
-        "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-        "url": "https://www.qbitai.com/2026/10/504734.html",
-        "desc": "医疗AI质变时刻",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/截屏2026-10-21-19.30.17-e1792582253547.png",
-        "date": "2026-10-21T19:30:59",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 28
-      },
-      {
-        "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-        "url": "https://www.qbitai.com/2026/10/504730.html",
-        "desc": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/60034dc56d2f77db0b8eff11820df665-scaled-e1792575906202.png",
-        "date": "2026-10-21T17:45:22",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-        "url": "https://www.qbitai.com/2026/10/504653.html",
-        "desc": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/b5d02e59509a6e74d695064de8f1c3d8.jpeg",
-        "date": "2026-10-21T15:15:05",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -950,6 +950,36 @@
         "rank": 4
       },
       {
+        "title": "睿创微纳：第三季度归母净利润为10.40亿元，同比增长192.41%",
+        "url": "https://m.36kr.com/newsflashes/4042511289947273",
+        "desc": "36氪获悉，睿创微纳公告，第三季度实现营收30.49亿元，同比增长97.70%；归母净利润为10.40亿元，同比增长192.41%。前三季度实现营收74.45亿元，同比增长82.22%；归母净利润22.997亿元，同比增长225.37%。",
+        "cover": "",
+        "date": 1793007308224,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "报告：韩开发者新模型近半基于中国底座，阿里Qwen占46.8%",
+        "url": "https://m.36kr.com/newsflashes/4042502049043334",
+        "desc": "36氪获悉，据媒体援引韩国智库Rockbridge Network Korea最新报告，2026年1至8月，韩国开发者在全球最大开源模型社区Hugging Face共发布1845个模型，基于中国模型的占比49.3%，阿里Qwen总占比46.8%，超美国模型的35.9%与韩国本土模型的14.9%。",
+        "cover": "",
+        "date": 1793007275000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "武汉天源：中标36.4亿元储能项目",
+        "url": "https://m.36kr.com/newsflashes/4042496250205060",
+        "desc": "36氪获悉，武汉天源公告，公司作为联合体牵头人，与内蒙古银河电力安装工程有限公司、宁夏交通建设股份有限公司组成的联合体，收到灵武市华新综合能源服务有限公司发来的《中标通知书》，确定为“灵武市1000MW/4000MWh集中共享储能项目设备+安装一体化项目”中标单位，中标金额36.4亿元。项目计划工期不晚于2027年4月30日并网，竣工验收工期15个月。若后续签订正式合同并顺利实施，将对公司产生积极影响。",
+        "cover": "",
+        "date": 1793006805000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "药明康德：第三季度归母净利润为83.18亿元，同比增长136.67%",
         "url": "https://m.36kr.com/newsflashes/4042495093757060",
         "desc": "36氪获悉，药明康德公告，第三季度实现营收166.40亿元，同比增长38.01%；归母净利润为83.18亿元，同比增长136.67%。前三季度实现营收455.37亿元，同比增长38.59%；归母净利润193.98亿元，同比增长60.64%。",
@@ -957,7 +987,7 @@
         "date": 1793006319687,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "上海：到2030年在轨卫星总数超3000颗，核心产业规模突破800亿元",
@@ -967,7 +997,7 @@
         "date": 1793006207841,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "金禄电子：第三季度归母净利润1.30亿元，同比增长1329.92%",
@@ -977,7 +1007,7 @@
         "date": 1793005682705,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "中国稀土：第三季度归母净利润1.71亿元，同比增长461.73%",
@@ -987,7 +1017,7 @@
         "date": 1793005495976,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "中国人民银行设立债市非银大额赎回互换便利",
@@ -997,7 +1027,7 @@
         "date": 1793005427201,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "中兴通讯：第三季度归母净利润13.07亿元，同比增长394.46%",
@@ -1007,7 +1037,7 @@
         "date": 1793005344115,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "恩捷股份：第三季度归母净利润9.74亿元，同比增长14245.28%",
@@ -1017,7 +1047,7 @@
         "date": 1793005211317,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "富临精工：第三季度归母净利润3.63亿元，同比增长140.97%",
@@ -1027,7 +1057,7 @@
         "date": 1793005091642,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "东华软件在北京成立慧景科技公司，注册资本2亿",
@@ -1037,7 +1067,7 @@
         "date": 1793005053000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "德福科技：第三季度归母净利润2.04亿元，同比增长631.02%",
@@ -1047,7 +1077,7 @@
         "date": 1793004989688,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "Acrab与端脑科技达成战略合作",
@@ -1057,7 +1087,7 @@
         "date": 1793004909902,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "汇洁股份：第三季度归母净利润2870.37万元，同比增长1097.1%",
@@ -1067,7 +1097,7 @@
         "date": 1793004731000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "星宸科技：第三季度归母净利润7.01亿元，同比增长752.76%",
@@ -1077,7 +1107,7 @@
         "date": 1793004625786,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "海大集团：第三季度归母净利润12.96亿元，同比下降13.81%",
@@ -1087,7 +1117,7 @@
         "date": 1793004532000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "日久光电：拟1亿元至2亿元回购股份用于减少注册资本",
@@ -1097,7 +1127,7 @@
         "date": 1793004012000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "商务部：发放对硝基甲苯反倾销案调查问卷",
@@ -1107,7 +1137,7 @@
         "date": 1793003966233,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 23
       },
       {
         "title": "璞源材料：子公司拟投资不超10亿元建设眉山茵地乐三期项目",
@@ -1117,45 +1147,16 @@
         "date": 1793003721723,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "德勤高管休斯顿薪酬涨近五成，同期公司裁员",
-        "url": "https://m.36kr.com/newsflashes/4042447447036802",
-        "desc": "四大会计师事务所德勤在裁员、削减新晋权益合伙人利润分成的背景下，其负责人理查德・休斯顿去年薪酬涨近五成，达到710万英镑。 根据公司备案文件，截至2026年5月的12个月里，休斯顿分得580万英镑利润分成；他此前主管德勤英国业务，今年6月获得晋升。此外，他还拿到一笔130万英镑的一次性奖励，该激励计划挂钩其负责更广范围欧洲业务的战略与财务目标完成情况。知情人士透露，这笔丰厚薪酬发放的背景是：德勤去年在英国裁员1000人，同时减少发放给新晋权益合伙人的份额单位。（新浪财经）",
-        "cover": "",
-        "date": 1793003411562,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "港交所：所有证券的买卖盘价格限制门槛由现时的九倍收紧为五倍",
-        "url": "https://m.36kr.com/newsflashes/4042444321526918",
-        "desc": "36氪获悉，港交所公告，香港证监会已批准交易所规则，有关将所有证券（结构性产品除外）的买卖盘价格限制门槛由现时的九倍收紧为五倍之修订，修订将由2026年11月2日（星期一）起生效。",
-        "cover": "",
-        "date": 1793003220796,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "万华化学：第三季度归母净利润为55.95亿元，同比增长84.38%",
-        "url": "https://m.36kr.com/newsflashes/4042443384050561",
-        "desc": "36氪获悉，万华化学公告，第三季度实现营收665.51亿元，同比增长24.80%；归母净利润为55.95亿元，同比增长84.38%。前三季度实现营收1858.67亿元，同比增长28.87%；归母净利润156.58亿元，同比增长70.99%。",
-        "cover": "",
-        "date": 1793003163577,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793006763773,
-    "bilibili": 1793005500684,
-    "qbitai": 1793006786153,
-    "36kr": 1793006786654
+    "thepaper": 1793007687694,
+    "qbitai": 1793007721324,
+    "36kr": 1793007721963
   },
-  "failures": {}
+  "failures": {
+    "bilibili": "RuntimeError('NewsNow JSON not found')"
+  }
 }
