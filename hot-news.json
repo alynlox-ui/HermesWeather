@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:41:25Z",
+  "updatedAt": "2026-10-26T08:56:29Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -231,7 +231,7 @@
         "description": "《影之刃零》毫无疑问是杰出、卓越且独一无二的。灵游坊以大型商业游戏的3A级投入，实现了制作人一个偏执的梦想，展现出了极致的制作人属性与个人风格，并依托足够成熟与商业化的玩法架构，尽可能地让游戏这些最挑人的部分，能够为大部分玩家接受、享受。",
         "content": "《影之刃零》毫无疑问是杰出、卓越且独一无二的。灵游坊以大型商业游戏的3A级投入，实现了制作人一个偏执的梦想，展现出了极致的制作人属性与个人风格，并依托足够成熟与商业化的玩法架构，尽可能地让游戏这些最挑人的部分，能够为大部分玩家接受、享受。",
         "bvid": "BV1gTHG6kEQb",
-        "author": "",
+        "author": "游民星空官方",
         "duration": "20:50",
         "cover": "//i1.hdslb.com/bfs/archive/efb004ddc8349b495fe2d5fe085ced83aad55a48.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gTHG6kEQb&p=1&high_quality=1&danmaku=0&autoplay=0",
@@ -366,19 +366,19 @@
         "hotTitle": "GEN战胜LYON S16瑞士轮"
       },
       {
-        "title": "S16世界赛在哪举办？举办场馆又有哪些故事？【LPL热知识】",
-        "url": "https://www.bilibili.com/video/BV1mLnb67Ekp",
+        "title": "s16世界赛前瞻说明",
+        "url": "https://www.bilibili.com/video/BV1SFnR6WEkj",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "算是世界赛特辑了，之后可能会做世界赛队服盘点，球球点赞关注！",
-        "content": "算是世界赛特辑了，之后可能会做世界赛队服盘点，球球点赞关注！",
-        "bvid": "BV1mLnb67Ekp",
-        "author": "我是BE57",
-        "duration": "8:14",
-        "cover": "//i0.hdslb.com/bfs/archive/dd01e35be67a4fee4a1b954ebb936dd5705133de.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mLnb67Ekp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1SFnR6WEkj",
+        "author": "龙德易学",
+        "duration": "0:31",
+        "cover": "//i0.hdslb.com/bfs/archive/fba2c1571b571000b0ebdf7bee2f6195ac4eed6a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SFnR6WEkj&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "S16举办场馆有哪些故事"
       },
       {
@@ -950,6 +950,46 @@
         "rank": 4
       },
       {
+        "title": "Acrab与端脑科技达成战略合作",
+        "url": "https://m.36kr.com/newsflashes/4042471995839617",
+        "desc": "36氪获悉，端脑科技与Acrab近日达成战略合作。端脑科技输出AI NPC一体机、智能体软件与终端落地经验，Acrab提供AI芯片、操作系统、工具链等端侧计算底座，共同推进AI NPC在个人终端场景落地。本次合作将聚焦平台适配、硬件集成、多模态模型与Agent运行优化，打通从底层芯片、模型智能体到终端应用的完整链路，构建端侧AI能力闭环。",
+        "cover": "",
+        "date": 1793004909902,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "汇洁股份：第三季度归母净利润2870.37万元，同比增长1097.1%",
+        "url": "https://m.36kr.com/newsflashes/4042459353650057",
+        "desc": "36氪获悉，汇洁股份公告，第三季度实现营收6.27亿元，同比下降4.62%；归母净利润2870.37万元，同比增长1097.1%。前三季度实现营收21.53亿元，同比下降3.22%；归母净利润1.66亿元，同比增长36.33%。",
+        "cover": "",
+        "date": 1793004731000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "星宸科技：第三季度归母净利润7.01亿元，同比增长752.76%",
+        "url": "https://m.36kr.com/newsflashes/4042467340883074",
+        "desc": "36氪获悉，星宸科技公告，第三季度实现营收19.17亿元，同比增长151.24%；归母净利润7.01亿元，同比增长752.76%。前三季度实现营收45.75亿元，同比增长111.21%；归母净利润15.64亿元，同比增长673.71%。",
+        "cover": "",
+        "date": 1793004625786,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "海大集团：第三季度归母净利润12.96亿元，同比下降13.81%",
+        "url": "https://m.36kr.com/newsflashes/4042456085976200",
+        "desc": "36氪获悉，海大集团公告，第三季度实现营收为91.09亿元，同比增长4.95%；归母净利润12.96亿元，同比下降13.81%。前三季度实现营收1033.49亿元，同比增长7.55%；归母净利润29.07亿元，同比下降29.83%。",
+        "cover": "",
+        "date": 1793004532000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
         "title": "日久光电：拟1亿元至2亿元回购股份用于减少注册资本",
         "url": "https://m.36kr.com/newsflashes/4042451480794242",
         "desc": "36氪获悉，日久光电公告称，公司拟使用自有资金或自筹资金以集中竞价方式回购股份，回购资金总额不低于1亿元且不超过2亿元，回购价格不超过17.98元/股。按回购金额上限测算，预计回购股份约1112.35万股，占公司总股本的4.0268%；按下限测算，预计回购约556.17万股，占总股本的2.0134%。回购股份将全部用于注销并减少注册资本，实施期限为自股东会审议通过之日起12个月内。",
@@ -957,7 +997,7 @@
         "date": 1793004012000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "商务部：发放对硝基甲苯反倾销案调查问卷",
@@ -967,7 +1007,7 @@
         "date": 1793003966233,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "璞源材料：子公司拟投资不超10亿元建设眉山茵地乐三期项目",
@@ -977,7 +1017,7 @@
         "date": 1793003721723,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "德勤高管休斯顿薪酬涨近五成，同期公司裁员",
@@ -987,7 +1027,7 @@
         "date": 1793003411562,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "港交所：所有证券的买卖盘价格限制门槛由现时的九倍收紧为五倍",
@@ -997,7 +1037,7 @@
         "date": 1793003220796,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "万华化学：第三季度归母净利润为55.95亿元，同比增长84.38%",
@@ -1007,7 +1047,7 @@
         "date": 1793003163577,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "厦钨新能：控股子公司拟7.23亿元投建年产4万吨磷酸铁（锰）锂项目",
@@ -1017,7 +1057,7 @@
         "date": 1793003146000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "英维克：第三季度归母净利润1.84亿元，同比增长0.25%",
@@ -1027,7 +1067,7 @@
         "date": 1793003059466,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "蓝色光标：第三季度归母净利润9545.37万元，同比下降3.81%",
@@ -1037,7 +1077,7 @@
         "date": 1793002587000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "恒指收盘涨0.51%，半导体板块领跌",
@@ -1047,7 +1087,7 @@
         "date": 1793002279084,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "商务部就《保护中国商业秘密特别规定（征求意见稿）》公开征求意见",
@@ -1057,7 +1097,7 @@
         "date": 1793002032217,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "博迈科：全资子公司签订约24-30亿元FPSO上部模块建造合同",
@@ -1067,7 +1107,7 @@
         "date": 1793001882000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "章源钨业：第三季度归母净利润3326.69万元，同比下降55.65%",
@@ -1077,7 +1117,7 @@
         "date": 1793001533068,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "蓝色光标：终止发行H股股票并在香港联交所上市",
@@ -1087,7 +1127,7 @@
         "date": 1793001510000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 22
       },
       {
         "title": "美国ITC作出金刚石锯片第三次反倾销日落复审产业损害终裁",
@@ -1097,7 +1137,7 @@
         "date": 1793001236000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 23
       },
       {
         "title": "我国牵头的信息安全标准与数字贸易ISO研究基金项目成果发布",
@@ -1107,55 +1147,15 @@
         "date": 1793001209457,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "大众中国：已在合肥正式获得L3级自动驾驶道路测试牌照",
-        "url": "https://m.36kr.com/newsflashes/4042404483683463",
-        "desc": "36氪获悉，大众中国表示，大众汽车集团（中国）已在合肥正式获得L3级自动驾驶道路测试牌照，并已在合肥启动L3级技术的真实道路测试与数据采集。",
-        "cover": "",
-        "date": 1793000789287,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "国家药监局批准全球首个XI因子抑制剂在中国上市",
-        "url": "https://m.36kr.com/newsflashes/4042395347735426",
-        "desc": "今天，国家药监局批准全球首个XI因子抑制剂在中国上市。据了解，该药品属于新机制新靶点药物，能与现有上市的卒中标准治疗联合使用，预防患者卒中复发。对于卒中长期管理具有重要价值。据了解，该药品也是全球同步研发的首个批准用于非心源性缺血性卒中和高风险短暂性脑缺血发作的二级预防抗凝药物。与已上市的抗凝药物相比，从作用机制角度出血的潜在风险更低。（央视新闻）",
-        "cover": "",
-        "date": 1793000645000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "外交部：欢迎更多国家加入世界人工智能合作组织",
-        "url": "https://m.36kr.com/newsflashes/4042398789243779",
-        "desc": "外交部发言人郭嘉昆主持例行记者会。记者提问，中方在全球治理论坛（雄安）上发布了《〈人工智能能力建设普惠计划〉进展报告》。请问中方如何看待能力建设在全球治理中所发挥的作用？郭嘉昆指出，日前，中方在全球治理论坛（雄安）上发布了《〈人工智能能力建设普惠计划〉进展报告》。展望未来，我们欢迎更多国家加入世界人工智能合作组织，探讨更多开展人工智能能力建设国际合作的路径，共同以实际行动促进全球人工智能向善普惠发展。（央视新闻）",
-        "cover": "",
-        "date": 1793000441726,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "灵快科技发布Botnow 3.0",
-        "url": "https://m.36kr.com/newsflashes/4042381143479169",
-        "desc": "36氪获悉，灵快科技发布智能体平台Botnow 3.0。核心能力包括：Agent可自主拆解步骤并执行任务，支持人工在关键节点介入审批，并通过Skill技能包、MCP连接器接入企业原有系统与流程等。",
-        "cover": "",
-        "date": 1793000195000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793004063312,
-    "bilibili": 1793004070645,
-    "qbitai": 1793004085093,
-    "36kr": 1793004085644
+    "thepaper": 1793004963237,
+    "bilibili": 1793003699760,
+    "qbitai": 1793004988662,
+    "36kr": 1793004989182
   },
   "failures": {}
 }
