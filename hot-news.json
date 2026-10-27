@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-27T07:41:35Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-10-27T07:56:52Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
+        "url": "https://www.qbitai.com/2026/10/505687.html",
+        "desc": "破解绿电直连项目落地僵局",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/825f34971f3580bb192c1c75288e7724.jpeg",
+        "date": "2026-10-27T15:44:41",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
         "url": "https://www.qbitai.com/2026/10/505635.html",
         "desc": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐",
@@ -615,7 +625,7 @@
         "date": "2026-10-27T15:41:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕",
@@ -625,7 +635,7 @@
         "date": "2026-10-27T15:25:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "小米披露灵巧手最新技术探索成果：基于1827个工厂SOP验证，升级21自由度仿生灵巧手",
@@ -635,7 +645,7 @@
         "date": "2026-10-27T15:09:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
@@ -645,7 +655,7 @@
         "date": "2026-10-27T11:23:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
@@ -655,7 +665,7 @@
         "date": "2026-10-27T00:06:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
@@ -665,7 +675,7 @@
         "date": "2026-10-26T17:46:13",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "OpenAI开始断网训练最强模型：“安全起见”",
@@ -675,7 +685,7 @@
         "date": "2026-10-26T17:37:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "A社联创演讲：AI奇点已来",
@@ -685,7 +695,7 @@
         "date": "2026-10-26T17:35:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "NeoLab第一个商业模式：转售GPU",
@@ -695,7 +705,7 @@
         "date": "2026-10-26T17:31:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "中国近50%的新云生意，竟被这家公司包揽！",
@@ -705,7 +715,7 @@
         "date": "2026-10-26T17:02:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
@@ -715,7 +725,7 @@
         "date": "2026-10-26T16:38:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
@@ -725,7 +735,7 @@
         "date": "2026-10-26T16:04:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
@@ -735,7 +745,7 @@
         "date": "2026-10-26T14:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
@@ -745,7 +755,7 @@
         "date": "2026-10-26T14:45:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
@@ -755,7 +765,7 @@
         "date": "2026-10-26T14:42:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "被OpenAIGemini共同选择的实时语音交互，凭什么是这家中国公司？",
@@ -765,7 +775,7 @@
         "date": "2026-10-26T14:38:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
@@ -775,7 +785,7 @@
         "date": "2026-10-26T14:33:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "马斯克给机器人建了个学校！腾出百万车型产线来量产",
@@ -785,7 +795,7 @@
         "date": "2026-10-26T14:32:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "10亿Tokens免费送！实测全国产算力模型Spark-X2.6，纯代码搓出3D故宫",
@@ -795,7 +805,7 @@
         "date": "2026-10-26T14:31:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
@@ -805,7 +815,7 @@
         "date": "2026-10-26T14:15:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "成立3个月便反超GPT-6 Astra！深圳黑马首次亮相",
@@ -815,7 +825,7 @@
         "date": "2026-10-26T14:12:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "物理AI怎么“击穿”场景落地？宇树生态大会上的钢铁答案",
@@ -825,7 +835,7 @@
         "date": "2026-10-26T13:17:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "Kimi K3.1 Pro一手实测：Godot、Blender全能接，23轮测试自己跑",
@@ -835,7 +845,7 @@
         "date": "2026-10-26T13:13:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "B站AI创造公开赛第二赛季启动，设百万奖金池、英伟达算力加持",
@@ -845,7 +855,7 @@
         "date": "2026-10-26T13:09:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "30B大模型跑进手机，推理引擎开始自我进化",
@@ -855,7 +865,7 @@
         "date": "2026-10-24T15:14:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
@@ -865,7 +875,7 @@
         "date": "2026-10-23T17:21:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "企业AI需要两个世界模型",
@@ -875,7 +885,7 @@
         "date": "2026-10-23T17:07:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
@@ -885,7 +895,7 @@
         "date": "2026-10-23T17:03:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "国产5B生图模型海外突然爆火，4天超百万下载",
@@ -893,16 +903,6 @@
         "desc": "",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/b34dfb4a8a6de3898b30c087abb15d96.webp",
         "date": "2026-10-23T16:50:16",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
-        "url": "https://www.qbitai.com/2026/10/504915.html",
-        "desc": "让AI真正走进真实世界",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/78c0d33720cde76f34f9d3ada1bdbc8a.webp",
-        "date": "2026-10-23T16:45:43",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "菜鸟物流科技连续在国内交付两个服装攀爬机器人仓",
+        "url": "https://m.36kr.com/newsflashes/4043824434910342",
+        "desc": "36氪获悉，菜鸟攀爬机器人交付持续取得进展，双11前，已向天津和苏州的两个服饰类客户交付了攀爬机器人仓库。据了解，越南首个攀爬仓库预计将在12月底完成交付。",
+        "cover": "",
+        "date": 1793087456232,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "宁德时代等在上海成立新创业投资合伙企业，出资额约15亿",
         "url": "https://m.36kr.com/newsflashes/4043815178752896",
         "desc": "36氪获悉，天眼查App显示，近日，上海时代宸远创业投资合伙企业（有限合伙）成立，执行事务合伙人为厦门溥泉私募基金管理合伙企业（有限合伙），出资额约15亿元人民币，经营范围为创业投资。合伙人信息显示，该合伙企业由宁德时代新能源科技股份有限公司、云南国有金融资本投资管理有限公司、厦门翔业创新投资有限公司等共同出资。",
@@ -947,7 +957,7 @@
         "date": 1793086891281,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "蜜雪集团与悦鲜活达成战略合作",
@@ -957,7 +967,7 @@
         "date": 1793086787530,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "摩根大通亚洲资产规模超预期增至4000亿美元",
@@ -967,7 +977,7 @@
         "date": 1793085792887,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "百亿级私募最新持仓揭晓，持仓市值超260亿元",
@@ -977,7 +987,7 @@
         "date": 1793085459973,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "群核信息增资至22.2亿，增幅约31%",
@@ -987,7 +997,7 @@
         "date": 1793084932360,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "A股三大指数集体收跌，工商银行、建设银行股价再创新高",
@@ -997,7 +1007,7 @@
         "date": 1793084534670,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "拉卡拉在上海成立青橙云数智科技公司，注册资本1000万",
@@ -1007,7 +1017,7 @@
         "date": 1793084199240,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "美图：MVLAND净流水ARR近85万美元",
@@ -1017,7 +1027,7 @@
         "date": 1793083929688,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "保时捷利润保持稳健，911车型对冲销量下滑",
@@ -1027,7 +1037,7 @@
         "date": 1793083612874,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "理光将在日本建设钙钛矿太阳能电池工厂",
@@ -1037,7 +1047,7 @@
         "date": 1793083524222,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "联讯仪器盘中跌破1000元，A股千元股仅剩贵州茅台",
@@ -1047,7 +1057,7 @@
         "date": 1793083210744,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "创业板指跌超2%",
@@ -1057,7 +1067,7 @@
         "date": 1793083002985,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "现货黄金跌破4000美元/盎司",
@@ -1067,7 +1077,7 @@
         "date": 1793082909863,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "HD现代电气将投资1980亿韩元扩大产能",
@@ -1077,7 +1087,7 @@
         "date": 1793082621196,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "国家广电总局：有线电视不得播放开机广告",
@@ -1087,7 +1097,7 @@
         "date": 1793082012453,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "大立光9个月净利润159.8亿元台币",
@@ -1097,7 +1107,7 @@
         "date": 1793081573853,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "小马智行在武汉成立新科技公司，注册资本500万",
@@ -1107,7 +1117,7 @@
         "date": 1793081083719,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "智元GO-3 Nano Preview登顶RoboDojo",
@@ -1117,7 +1127,7 @@
         "date": 1793080996125,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "英伟达与Meta宣布将扩大在Muse系列模型上的合作，以响应市场对AI智能体的爆发式需求‌",
@@ -1127,25 +1137,16 @@
         "date": 1793080945373,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "阿里巴巴、交银人寿等入股创奕晟华，该基金出资额由1000万增至7.35亿",
-        "url": "https://m.36kr.com/newsflashes/4043713230099331",
-        "desc": "36氪获悉，天眼查App显示，近日，杭州创奕晟华股权投资合伙企业（有限合伙）发生工商变更，出资额由1000万元增至7.35亿元，同时新增中宏人寿保险有限公司、广州富星投资咨询有限公司、交银人寿保险有限公司及阿里关联公司杭州灏月企业管理有限公司等合伙人。合伙人信息显示，中宏人寿、广州富星、交银人寿、杭州灏月及执行事务合伙人杭州创昇分别认缴4亿元、1.5亿元、1亿元、8000万元和500万元，对应份额为54.42%、20.40%、13.60%、10.88%和0.68%。杭州灏月由淘宝（中国）软件有限公司、浙江天猫技术有限公司、阿里巴巴网络中国有限公司共同持股。",
-        "cover": "",
-        "date": 1793080668829,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793086868589,
-    "bilibili": 1793086091923,
-    "qbitai": 1793086895267,
-    "36kr": 1793086895689
+    "thepaper": 1793087768912,
+    "qbitai": 1793087811644,
+    "36kr": 1793087812116
   },
-  "failures": {}
+  "failures": {
+    "bilibili": "RuntimeError('NewsNow JSON not found')"
+  }
 }
