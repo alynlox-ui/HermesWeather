@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-27T07:56:52Z",
-  "liveSourceCount": 3,
+  "updatedAt": "2026-10-27T08:13:21Z",
+  "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
@@ -126,52 +126,52 @@
     ],
     "bilibili": [
       {
-        "title": "武契奇败选",
-        "url": "https://www.bilibili.com/video/BV1vXnZ6yEsP",
+        "title": "OpenAI的三个重大成果，让我仿佛看到金仙降世",
+        "url": "https://www.bilibili.com/video/BV1bvxM6rE1a",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "极限赶出来了，挺难做的一个视频，依旧1.5倍。",
-        "content": "极限赶出来了，挺难做的一个视频，依旧1.5倍。",
-        "bvid": "BV1vXnZ6yEsP",
-        "author": "菲利蒲-Filip",
-        "duration": "59:44",
-        "cover": "//i1.hdslb.com/bfs/archive/2a997c790ab91eee6e0a6b318b3c93b3ddd06082.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vXnZ6yEsP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "塞尔维亚UP主谈武契奇败选"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1bvxM6rE1a",
+        "author": "分析学爱好者",
+        "duration": "5:55",
+        "cover": "//i0.hdslb.com/bfs/archive/962a38aef8249248bb4b4bbf357f88c2d8e7e9aa.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bvxM6rE1a&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "OpenAI声称证明全维度挂谷猜想"
       },
       {
-        "title": "新闻1+1 | 人工智能时代 如何减缓岗位替代？",
-        "url": "https://www.bilibili.com/video/BV1vfHF6EESs",
+        "title": "Breathe赛后发文道歉：在最后阶段以这种方式收尾 对不起自己 队友 整个团队 还有一直熬夜支持AL、LPL的粉丝观众们！呼吸哥发文致歉",
+        "url": "https://www.bilibili.com/video/BV1ruxK6DEZt",
         "desc": "",
         "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1vfHF6EESs",
-        "author": "央视网",
-        "duration": "23:59",
-        "cover": "//i2.hdslb.com/bfs/archive/ef6c8fd016097c8235595600478264f208e07950.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vfHF6EESs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "人工智能时代如何减缓岗位替代"
+        "bvid": "BV1ruxK6DEZt",
+        "author": "灯火电竞Pro",
+        "duration": "0:27",
+        "cover": "//i0.hdslb.com/bfs/archive/6d5c8a8685c2eaf148b16cd3117581b4ac397cc9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ruxK6DEZt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Breathe赛后发文道歉"
       },
       {
-        "title": "【徐静雨】伦德博格31分12板6助，勇士超新星强势崛起！",
-        "url": "https://www.bilibili.com/video/BV1vnxK6VES6",
+        "title": "今日关注 | 俄美乌三方会谈或下月重启 英国宣称1000天内做好战争准备",
+        "url": "https://www.bilibili.com/video/BV183Hc6gEWT",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【徐静雨】伦德博格31分12板6助，勇士超新星强势崛起！",
-        "content": "【徐静雨】伦德博格31分12板6助，勇士超新星强势崛起！",
-        "bvid": "BV1vnxK6VES6",
-        "author": "雨说体育徐静雨",
-        "duration": "7:34",
-        "cover": "//i2.hdslb.com/bfs/archive/2b28fa462f68caabffca72190ebef6e301e5301e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vnxK6VES6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "徐静雨称勇士超新星强势崛起"
+        "description": "",
+        "content": "",
+        "bvid": "BV183Hc6gEWT",
+        "author": "央视网",
+        "duration": "24:16",
+        "cover": "//i2.hdslb.com/bfs/archive/0aea373141589bd4126c8dfb0687bb4affdb6e86.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV183Hc6gEWT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "英国宣称1000天内做好战争准备"
       },
       {
         "title": "LVG遭遇蒙古队作弊或将无缘major？鉴挂:99％就是开子！【獭兔消息】",
@@ -190,20 +190,20 @@
         "hotTitle": "LVG举报对手疑似外挂"
       },
       {
-        "title": "【Karsa】TLAW vs AL 为什么能这么抽象???🤯",
-        "url": "https://www.bilibili.com/video/BV13tHF66Ecs",
+        "title": "新闻1+1 | 人工智能时代 如何减缓岗位替代？",
+        "url": "https://www.bilibili.com/video/BV1vfHF6EESs",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "商务合作联系：crystalpi@hotmail.com",
-        "content": "商务合作联系：crystalpi@hotmail.com",
-        "bvid": "BV13tHF66Ecs",
-        "author": "Karsa",
-        "duration": "15:41",
-        "cover": "//i1.hdslb.com/bfs/archive/219e32783fb540c00e3ba56dd4f7b7b0d1311f0c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13tHF66Ecs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Karsa看AL止步S赛"
+        "description": "",
+        "content": "",
+        "bvid": "BV1vfHF6EESs",
+        "author": "央视网",
+        "duration": "23:59",
+        "cover": "//i2.hdslb.com/bfs/archive/ef6c8fd016097c8235595600478264f208e07950.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vfHF6EESs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "人工智能时代如何减缓岗位替代"
       },
       {
         "title": "东鹏饮料发布声明：零容忍伤害民族感情行为 即刻切断与姆巴佩全部合作",
@@ -222,26 +222,42 @@
         "hotTitle": "东鹏饮料终止与姆巴佩全部合作"
       },
       {
-        "title": "Breathe赛后发文道歉：在最后阶段以这种方式收尾 对不起自己 队友 整个团队 还有一直熬夜支持AL、LPL的粉丝观众们！呼吸哥发文致歉",
-        "url": "https://www.bilibili.com/video/BV1ruxK6DEZt",
+        "title": "【Karsa】TLAW vs AL 为什么能这么抽象???🤯",
+        "url": "https://www.bilibili.com/video/BV13tHF66Ecs",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ruxK6DEZt",
-        "author": "灯火电竞Pro",
-        "duration": "0:27",
-        "cover": "//i0.hdslb.com/bfs/archive/6d5c8a8685c2eaf148b16cd3117581b4ac397cc9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ruxK6DEZt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Breathe赛后发文道歉"
+        "description": "商务合作联系：crystalpi@hotmail.com",
+        "content": "商务合作联系：crystalpi@hotmail.com",
+        "bvid": "BV13tHF66Ecs",
+        "author": "Karsa",
+        "duration": "15:41",
+        "cover": "//i1.hdslb.com/bfs/archive/219e32783fb540c00e3ba56dd4f7b7b0d1311f0c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13tHF66Ecs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Karsa看AL止步S赛"
+      },
+      {
+        "title": "iPad mini 8突袭上架：5499元起、首次OLED却仍锁60Hz，这波冲不冲？",
+        "url": "https://www.bilibili.com/video/BV1vYno6zEz6",
+        "desc": "",
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1vYno6zEz6",
+        "author": "科技闲聊站",
+        "duration": "0:46",
+        "cover": "//i2.hdslb.com/bfs/archive/46f4039a9aa4a30c7d374d2931255d11eb42a06b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vYno6zEz6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "iPad mini8发布仍60Hz"
       },
       {
         "title": "【IG战胜HLE单曲】《I不会绝G》⚡让我们一起~⚡去登峰造极~⚡",
         "url": "https://www.bilibili.com/video/BV1SpnZ6NEEf",
         "desc": "",
-        "rank": 8,
+        "rank": 9,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -254,36 +270,20 @@
         "hotTitle": "IG战胜HLE单曲 I不会绝G"
       },
       {
-        "title": "今日关注 | 俄美乌三方会谈或下月重启 英国宣称1000天内做好战争准备",
-        "url": "https://www.bilibili.com/video/BV183Hc6gEWT",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV183Hc6gEWT",
-        "author": "央视网",
-        "duration": "24:16",
-        "cover": "//i2.hdslb.com/bfs/archive/0aea373141589bd4126c8dfb0687bb4affdb6e86.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV183Hc6gEWT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "英国宣称1000天内做好战争准备"
-      },
-      {
-        "title": "关于最近很火的一张照片的回应！谢谢同学们！（让我印象最深刻的还是德穆兰）",
-        "url": "https://www.bilibili.com/video/BV1YDn968Epe",
+        "title": "再赢一个BO3！IG vs LYON 数据前瞻丨S16全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV138xK6KEJB",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "关于最近很火的一张照片的回应！谢谢同学们！（让我印象最深刻的还是德穆兰）",
-        "content": "关于最近很火的一张照片的回应！谢谢同学们！（让我印象最深刻的还是德穆兰）",
-        "bvid": "BV1YDn968Epe",
-        "author": "晓艳教英语",
-        "duration": "5:21",
-        "cover": "//i2.hdslb.com/bfs/archive/73ab0013fe4c2d7c638d898e5f365ca8890e15a4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YDn968Epe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "刘晓艳回应刘晓艳渲染大赛"
+        "description": "",
+        "content": "",
+        "bvid": "BV138xK6KEJB",
+        "author": "苦练李香兰",
+        "duration": "2:55",
+        "cover": "//i0.hdslb.com/bfs/archive/5b4eb5bd8c32a9321dfd670e9270eef9c471f038.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV138xK6KEJB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "IG vs LYON 数据前瞻"
       },
       {
         "title": "成都连丢6个冠军点，天王山之战输给大连；王钰栋赛季第9球；依木兰世界波；布尼亚明、向余望、蒯纪闻助攻；女足世少赛中国3-2美国【新星周报29】",
@@ -302,10 +302,42 @@
         "hotTitle": "中国U17女足小组第一出线"
       },
       {
+        "title": "武契奇败选",
+        "url": "https://www.bilibili.com/video/BV1vXnZ6yEsP",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "极限赶出来了，挺难做的一个视频，依旧1.5倍。",
+        "content": "极限赶出来了，挺难做的一个视频，依旧1.5倍。",
+        "bvid": "BV1vXnZ6yEsP",
+        "author": "菲利蒲-Filip",
+        "duration": "59:44",
+        "cover": "//i1.hdslb.com/bfs/archive/2a997c790ab91eee6e0a6b318b3c93b3ddd06082.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vXnZ6yEsP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "塞尔维亚UP主谈武契奇败选"
+      },
+      {
+        "title": "【徐静雨】伦德博格31分12板6助，勇士超新星强势崛起！",
+        "url": "https://www.bilibili.com/video/BV1vnxK6VES6",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【徐静雨】伦德博格31分12板6助，勇士超新星强势崛起！",
+        "content": "【徐静雨】伦德博格31分12板6助，勇士超新星强势崛起！",
+        "bvid": "BV1vnxK6VES6",
+        "author": "雨说体育徐静雨",
+        "duration": "7:34",
+        "cover": "//i2.hdslb.com/bfs/archive/2b28fa462f68caabffca72190ebef6e301e5301e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vnxK6VES6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "徐静雨称勇士超新星强势崛起"
+      },
+      {
         "title": "一把不赢十六强，我是LPL领头羊👍 TLAW 2-0 AL 赛后数据雷达图丨2026全球总决赛-瑞士轮",
         "url": "https://www.bilibili.com/video/BV1EeHc6sE37",
         "desc": "",
-        "rank": 12,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -318,68 +350,36 @@
         "hotTitle": "AL一场不胜止步16强"
       },
       {
-        "title": "我统计了我们学校有多少只奶蛙",
-        "url": "https://www.bilibili.com/video/BV16dna62EqW",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV16dna62EqW",
-        "author": "一只断空影",
-        "duration": "1:11",
-        "cover": "//i1.hdslb.com/bfs/archive/8aa3bfd574c822d4634d2d573b9beaf9f3c631d3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16dna62EqW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主统计学校有多少只奶蛙"
-      },
-      {
-        "title": "【雀说】上清华没有让我更快乐",
-        "url": "https://www.bilibili.com/video/BV1gTnb69ED2",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "欢迎收看雀巢工作室播客栏目《雀实有话说》第六期！ 本期我们请到了 @快乐的台长 和我们的主持人@在下乌鸦有何贵干 聊聊「优绩主义」 台长在网络上发布的搞笑视频深受大家喜爱，而现实中他却背着我们偷偷在清华大学研究人工智能。 他会如何理解优绩主义呢？ 从高考、排名到粉丝数，我们好像总在被各种标准衡量。离开学校之后，真的就能逃出评价体系吗？ 如果没法彻底逃出比较和竞争，我们又该从生活中寻找什么呢？ 欢迎大家一键三连投币转发，还有关注我们！（求你了！！！）",
-        "content": "欢迎收看雀巢工作室播客栏目《雀实有话说》第六期！ 本期我们请到了 @快乐的台长 和我们的主持人@在下乌鸦有何贵干 聊聊「优绩主义」 台长在网络上发布的搞笑视频深受大家喜爱，而现实中他却背着我们偷偷在清华大学研究人工智能。 他会如何理解优绩主义呢？ 从高考、排名到粉丝数，我们好像总在被各种标准衡量。离开学校之后，真的就能逃出评价体系吗？ 如果没法彻底逃出比较和竞争，我们又该从生活中寻找什么呢？ 欢迎大家一键三连投币转发，还有关注我们！（求你了！！！）",
-        "bvid": "BV1gTnb69ED2",
-        "author": "成都幽默帝国",
-        "duration": "33:18",
-        "cover": "//i1.hdslb.com/bfs/archive/bfdfcec9d261233453359084c71a992399777b7c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gTnb69ED2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "快乐的台长谈清华经历"
-      },
-      {
-        "title": "再赢一个BO3！IG vs LYON 数据前瞻丨S16全球总决赛-瑞士轮",
-        "url": "https://www.bilibili.com/video/BV138xK6KEJB",
+        "title": "中土互联网大战，有多爆笑？",
+        "url": "https://www.bilibili.com/video/BV1jKnd6uE5d",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV138xK6KEJB",
-        "author": "苦练李香兰",
-        "duration": "2:55",
-        "cover": "//i0.hdslb.com/bfs/archive/5b4eb5bd8c32a9321dfd670e9270eef9c471f038.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV138xK6KEJB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "IG vs LYON 数据前瞻"
+        "description": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：毣板 无雨 星夜 编辑：饼干 参考资料： 网易 《中土网民骂战：土耳其网民先掏的课本，最后被一张派大星梗图干沉默了》，2026年10月22日 腾讯新闻 《海外社交平台爆发赛博世界大战场面相当魔幻，土耳其网友想恶心中国结果踢到铁板！》，2026年10月22日 网易 《扼喉俄罗斯，勒索中国，小国土耳其为什么能这么豪横？》，2022年12月2",
+        "content": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：毣板 无雨 星夜 编辑：饼干 参考资料： 网易 《中土网民骂战：土耳其网民先掏的课本，最后被一张派大星梗图干沉默了》，2026年10月22日 腾讯新闻 《海外社交平台爆发赛博世界大战场面相当魔幻，土耳其网友想恶心中国结果踢到铁板！》，2026年10月22日 网易 《扼喉俄罗斯，勒索中国，小国土耳其为什么能这么豪横？》，2022年12月2",
+        "bvid": "BV1jKnd6uE5d",
+        "author": "世界见闻录",
+        "duration": "13:35",
+        "cover": "//i0.hdslb.com/bfs/archive/1ba3324d2fc7c332850648e3d8e9bc678b39dba7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jKnd6uE5d&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何看中土网友对线大战"
       },
       {
-        "title": "⚡️老詹狂野单曲《LeBron Funk》乐邦放克⚡️【AI MV大赛】",
-        "url": "https://www.bilibili.com/video/BV1kUHV6YECs",
+        "title": "【O/好自为之】GPT-6.1 Terra前端表现速览，意义不明的模型",
+        "url": "https://www.bilibili.com/video/BV1NwHw6KEy4",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "老詹携老伙计们把天赋带到FUNK圈",
-        "content": "老詹携老伙计们把天赋带到FUNK圈",
-        "bvid": "BV1kUHV6YECs",
-        "author": "抽乐个大象",
-        "duration": "2:6",
-        "cover": "//i2.hdslb.com/bfs/archive/2a916ddd66976c080b61a8ae5daa399378e9fe52.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kUHV6YECs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "詹姆斯单曲LeBron Funk"
+        "description": "",
+        "content": "",
+        "bvid": "BV1NwHw6KEy4",
+        "author": "荡殇永魔",
+        "duration": "1:41",
+        "cover": "//i1.hdslb.com/bfs/archive/fa7f6efe9e0b3347450cbb2238bf1fb905a10b21.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NwHw6KEy4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GPT-6.1Terra前端表现速览"
       },
       {
         "title": "张麻子《鹅城FUNK》",
@@ -398,20 +398,20 @@
         "hotTitle": "张麻子鹅城FUNK"
       },
       {
-        "title": "中土互联网大战，有多爆笑？",
-        "url": "https://www.bilibili.com/video/BV1jKnd6uE5d",
+        "title": "“以为DeepSeek亏钱搞慈善😅？人家超高毛利碾压同行😎”美国博主：DeepSeek开源底层数据，惊人利润卷哭老美😱硅谷跑来抄作业🤡发现没给流水线😆",
+        "url": "https://www.bilibili.com/video/BV1DQHG6rEuT",
         "desc": "",
         "rank": 18,
         "kind": "video",
         "platform": "bilibili",
-        "description": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：毣板 无雨 星夜 编辑：饼干 参考资料： 网易 《中土网民骂战：土耳其网民先掏的课本，最后被一张派大星梗图干沉默了》，2026年10月22日 腾讯新闻 《海外社交平台爆发赛博世界大战场面相当魔幻，土耳其网友想恶心中国结果踢到铁板！》，2026年10月22日 网易 《扼喉俄罗斯，勒索中国，小国土耳其为什么能这么豪横？》，2022年12月2",
-        "content": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：毣板 无雨 星夜 编辑：饼干 参考资料： 网易 《中土网民骂战：土耳其网民先掏的课本，最后被一张派大星梗图干沉默了》，2026年10月22日 腾讯新闻 《海外社交平台爆发赛博世界大战场面相当魔幻，土耳其网友想恶心中国结果踢到铁板！》，2026年10月22日 网易 《扼喉俄罗斯，勒索中国，小国土耳其为什么能这么豪横？》，2022年12月2",
-        "bvid": "BV1jKnd6uE5d",
-        "author": "世界见闻录",
-        "duration": "13:35",
-        "cover": "//i0.hdslb.com/bfs/archive/1ba3324d2fc7c332850648e3d8e9bc678b39dba7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jKnd6uE5d&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如何看中土网友对线大战"
+        "description": "视频来源自网络，仅限于学习用途，侵删。",
+        "content": "视频来源自网络，仅限于学习用途，侵删。",
+        "bvid": "BV1DQHG6rEuT",
+        "author": "YouTube精选智慧",
+        "duration": "10:23",
+        "cover": "//i1.hdslb.com/bfs/archive/86685bde6538a7ad5028dbace86c81b07b2294f7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DQHG6rEuT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "从底层数据解读DeepSeek经营情况"
       },
       {
         "title": "动态视频｜子弹时间再升级，70台iPhone造了个捕捉时空的球",
@@ -430,90 +430,10 @@
         "hotTitle": "影视飓风升级VOGUE子弹时间"
       },
       {
-        "title": "不想送直说！AL赞助商此前发文：AL赢一场就送键盘+鼠标",
-        "url": "https://www.bilibili.com/video/BV1syxK6oEGN",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1syxK6oEGN",
-        "author": "灯火电竞Pro",
-        "duration": "0:14",
-        "cover": "//i1.hdslb.com/bfs/archive/0afadddb2d4065869830d84c8ead18a38c6cf520.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1syxK6oEGN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "TLAW战胜AL S16瑞士轮"
-      },
-      {
-        "title": "反诈博主“徽剑”被曝2年前遭买凶遇害，曾公开举报电诈大佬刘忍，简介上写着：位卑未敢忘忧国，哪怕无人知我（编辑：卓光）",
-        "url": "https://www.bilibili.com/video/BV1pmxK6REXd",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1pmxK6REXd",
-        "author": "大象新闻",
-        "duration": "0:42",
-        "cover": "//i0.hdslb.com/bfs/archive/a0f79eb906a2d3671008cf8a98b81d1ed58a0a67.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pmxK6REXd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "反诈博主徽剑2年前遭买凶遇害"
-      },
-      {
-        "title": "「哔哩哔哩英雄联盟赛事10月27日直播回放弹幕版」CFO vs T1 | LOS vs TSW | TLAW vs AL",
-        "url": "https://www.bilibili.com/video/BV19znf6VEjM",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "观众老爷们喜欢看的话可以点点关注！！！",
-        "content": "观众老爷们喜欢看的话可以点点关注！！！",
-        "bvid": "BV19znf6VEjM",
-        "author": "柠檬茶的鸭鸭",
-        "duration": "393:27",
-        "cover": "//i1.hdslb.com/bfs/archive/1cc593a2aa746cc7c6885ed97c1607629f4b26cf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19znf6VEjM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "LOS战胜TSW S16瑞士轮"
-      },
-      {
-        "title": "【2026全球总决赛】10月27日 BLG vs KC",
-        "url": "https://www.bilibili.com/video/BV1rnnf6xEhx",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【2026全球总决赛】10月27日 BLG vs KC",
-        "content": "【2026全球总决赛】10月27日 BLG vs KC",
-        "bvid": "BV1rnnf6xEhx",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "57:18",
-        "cover": "//i1.hdslb.com/bfs/archive/43c0f110799e1f8fccdfecd51b15e614389996c7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rnnf6xEhx&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG战胜KC S16瑞士轮"
-      },
-      {
-        "title": "【真实锐评】AL一号种子16强：开除必须开除！这简直就是奇耻大辱 ！",
-        "url": "https://www.bilibili.com/video/BV1rCHF6bEBp",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1rCHF6bEBp",
-        "author": "真实电竞",
-        "duration": "8:59",
-        "cover": "//i2.hdslb.com/bfs/archive/912d708ba6911b5670ce36e67506f0ee1271d425.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rCHF6bEBp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "LPL连续两年一号种子止步16强"
-      },
-      {
         "title": "写了全国所有省份的love me！",
         "url": "https://www.bilibili.com/video/BV1w2Hw6KE1j",
         "desc": "",
-        "rank": 25,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -526,42 +446,42 @@
         "hotTitle": "挑战用所有省份写出love"
       },
       {
-        "title": "⚡️哈里凯恩 金球巡演⚡️",
-        "url": "https://www.bilibili.com/video/BV1YwHc6jEhy",
+        "title": "不想送直说！AL赞助商此前发文：AL赢一场就送键盘+鼠标",
+        "url": "https://www.bilibili.com/video/BV1syxK6oEGN",
         "desc": "",
-        "rank": 26,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1YwHc6jEhy",
-        "author": "黑化方块",
-        "duration": "1:23",
-        "cover": "//i1.hdslb.com/bfs/archive/9e875df71138e308df9941357a1794e08407a001.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YwHc6jEhy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "哈里凯恩金球巡演"
+        "bvid": "BV1syxK6oEGN",
+        "author": "灯火电竞Pro",
+        "duration": "0:14",
+        "cover": "//i1.hdslb.com/bfs/archive/0afadddb2d4065869830d84c8ead18a38c6cf520.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1syxK6oEGN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TLAW战胜AL S16瑞士轮"
       },
       {
-        "title": "普通女同事的职场纠纷和爱恨情仇【卡黄盘点】",
-        "url": "https://www.bilibili.com/video/BV1HZnR6yEGj",
+        "title": "【真实锐评】AL一号种子16强：开除必须开除！这简直就是奇耻大辱 ！",
+        "url": "https://www.bilibili.com/video/BV1rCHF6bEBp",
         "desc": "",
-        "rank": 27,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1HZnR6yEGj",
-        "author": "郭本尼",
-        "duration": "53:2",
-        "cover": "//i0.hdslb.com/bfs/archive/3f87d528c1d300ff54d8d140c5729bcf346794ac.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HZnR6yEGj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "53分钟盘点卡黄爱恨情仇"
+        "bvid": "BV1rCHF6bEBp",
+        "author": "真实电竞",
+        "duration": "8:59",
+        "cover": "//i2.hdslb.com/bfs/archive/912d708ba6911b5670ce36e67506f0ee1271d425.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rCHF6bEBp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "LPL连续两年一号种子止步16强"
       },
       {
         "title": "【2026全球总决赛】AL遗憾告别2026全球总决赛",
         "url": "https://www.bilibili.com/video/BV15BHc6QE4e",
         "desc": "",
-        "rank": 28,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "AL遗憾告别2026全球总决赛",
@@ -574,10 +494,42 @@
         "hotTitle": "AL发文告别2026全球总决赛"
       },
       {
+        "title": "普通女同事的职场纠纷和爱恨情仇【卡黄盘点】",
+        "url": "https://www.bilibili.com/video/BV1HZnR6yEGj",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1HZnR6yEGj",
+        "author": "郭本尼",
+        "duration": "53:2",
+        "cover": "//i0.hdslb.com/bfs/archive/3f87d528c1d300ff54d8d140c5729bcf346794ac.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HZnR6yEGj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "53分钟盘点卡黄爱恨情仇"
+      },
+      {
+        "title": "⚡️哈里凯恩 金球巡演⚡️",
+        "url": "https://www.bilibili.com/video/BV1YwHc6jEhy",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1YwHc6jEhy",
+        "author": "黑化方块",
+        "duration": "1:23",
+        "cover": "//i1.hdslb.com/bfs/archive/9e875df71138e308df9941357a1794e08407a001.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YwHc6jEhy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "哈里凯恩金球巡演"
+      },
+      {
         "title": "老李数据还可以喔！T1 vs MKOI 数据前瞻丨S16全球总决赛-瑞士轮",
         "url": "https://www.bilibili.com/video/BV16GxK6UEjX",
         "desc": "",
-        "rank": 29,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -590,20 +542,68 @@
         "hotTitle": "S16首批八强席位争夺战在即"
       },
       {
-        "title": "花4毛钱让1000个蓝色大肥鱼建造故宫",
-        "url": "https://www.bilibili.com/video/BV1nJHK6gEtd",
+        "title": "反诈博主“徽剑”被曝2年前遭买凶遇害，曾公开举报电诈大佬刘忍，简介上写着：位卑未敢忘忧国，哪怕无人知我（编辑：卓光）",
+        "url": "https://www.bilibili.com/video/BV1pmxK6REXd",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1pmxK6REXd",
+        "author": "大象新闻",
+        "duration": "0:42",
+        "cover": "//i0.hdslb.com/bfs/archive/a0f79eb906a2d3671008cf8a98b81d1ed58a0a67.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pmxK6REXd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "反诈博主徽剑2年前遭买凶遇害"
+      },
+      {
+        "title": "【2026全球总决赛】10月27日 BLG vs KC",
+        "url": "https://www.bilibili.com/video/BV1rnnf6xEhx",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【2026全球总决赛】10月27日 BLG vs KC",
+        "content": "【2026全球总决赛】10月27日 BLG vs KC",
+        "bvid": "BV1rnnf6xEhx",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "57:18",
+        "cover": "//i1.hdslb.com/bfs/archive/43c0f110799e1f8fccdfecd51b15e614389996c7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rnnf6xEhx&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG战胜KC S16瑞士轮"
+      },
+      {
+        "title": "境外电诈集团百万雇凶杀人！自媒体人“徽剑”已于2年前遇害，曾公开举报电诈大佬刘忍",
+        "url": "https://www.bilibili.com/video/BV11wxK6xEge",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV11wxK6xEge",
+        "author": "环球网",
+        "duration": "2:41",
+        "cover": "//i1.hdslb.com/bfs/archive/cd540ae02307b2f3fb2c62e2276fbdb9ab555203.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11wxK6xEge&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "徽剑遭境外买凶遇害时间线"
+      },
+      {
+        "title": "「哔哩哔哩英雄联盟赛事10月27日直播回放弹幕版」CFO vs T1 | LOS vs TSW | TLAW vs AL",
+        "url": "https://www.bilibili.com/video/BV19znf6VEjM",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "模组：https://www.guangyapan.com/s/1961047832870391869_aruGHpdD5sfdwMCf 依旧测试中，可能会有一些bug",
-        "content": "模组：https://www.guangyapan.com/s/1961047832870391869_aruGHpdD5sfdwMCf 依旧测试中，可能会有一些bug",
-        "bvid": "BV1nJHK6gEtd",
-        "author": "点燃篝火的Anrry",
-        "duration": "4:49",
-        "cover": "//i1.hdslb.com/bfs/archive/7ad9ded1198fb034f6392ba9c2106d385f36d50e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nJHK6gEtd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "1000个大肥鱼在MC建故宫"
+        "description": "观众老爷们喜欢看的话可以点点关注！！！",
+        "content": "观众老爷们喜欢看的话可以点点关注！！！",
+        "bvid": "BV19znf6VEjM",
+        "author": "柠檬茶的鸭鸭",
+        "duration": "393:27",
+        "cover": "//i1.hdslb.com/bfs/archive/1cc593a2aa746cc7c6885ed97c1607629f4b26cf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19znf6VEjM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "LOS战胜TSW S16瑞士轮"
       }
     ],
     "qbitai": [
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "Rapidus与HCLTech宣布启用印度研发中心",
+        "url": "https://m.36kr.com/newsflashes/4043833999086464",
+        "desc": "HCLTech与日本先进逻辑半导体研发及制造企业Rapidus Corporation正式启用位于印度的两家 HCLTech研发中心。这两家研发中心分别位于班加罗尔和胡布利，将为Rapidus提供涵盖掩模设计、设计基础设施、工艺设计套件开发、设计技术协同优化以及版图设计在内的一系列半导体工程服务。HCLTech还将与Rapidus合作，建立印度工程人才输送渠道，以满足Rapidus在日本不断变化的人才需求。（财联社）",
+        "cover": "",
+        "date": 1793088039983,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "菜鸟物流科技连续在国内交付两个服装攀爬机器人仓",
         "url": "https://m.36kr.com/newsflashes/4043824434910342",
         "desc": "36氪获悉，菜鸟攀爬机器人交付持续取得进展，双11前，已向天津和苏州的两个服饰类客户交付了攀爬机器人仓库。据了解，越南首个攀爬仓库预计将在12月底完成交付。",
@@ -947,7 +957,7 @@
         "date": 1793087456232,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "宁德时代等在上海成立新创业投资合伙企业，出资额约15亿",
@@ -957,7 +967,7 @@
         "date": 1793086891281,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "蜜雪集团与悦鲜活达成战略合作",
@@ -967,7 +977,7 @@
         "date": 1793086787530,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "摩根大通亚洲资产规模超预期增至4000亿美元",
@@ -977,7 +987,7 @@
         "date": 1793085792887,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "百亿级私募最新持仓揭晓，持仓市值超260亿元",
@@ -987,7 +997,7 @@
         "date": 1793085459973,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "群核信息增资至22.2亿，增幅约31%",
@@ -997,7 +1007,7 @@
         "date": 1793084932360,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "A股三大指数集体收跌，工商银行、建设银行股价再创新高",
@@ -1007,7 +1017,7 @@
         "date": 1793084534670,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "拉卡拉在上海成立青橙云数智科技公司，注册资本1000万",
@@ -1017,7 +1027,7 @@
         "date": 1793084199240,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "美图：MVLAND净流水ARR近85万美元",
@@ -1027,7 +1037,7 @@
         "date": 1793083929688,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "保时捷利润保持稳健，911车型对冲销量下滑",
@@ -1037,7 +1047,7 @@
         "date": 1793083612874,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "理光将在日本建设钙钛矿太阳能电池工厂",
@@ -1047,7 +1057,7 @@
         "date": 1793083524222,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "联讯仪器盘中跌破1000元，A股千元股仅剩贵州茅台",
@@ -1057,7 +1067,7 @@
         "date": 1793083210744,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "创业板指跌超2%",
@@ -1067,7 +1077,7 @@
         "date": 1793083002985,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "现货黄金跌破4000美元/盎司",
@@ -1077,7 +1087,7 @@
         "date": 1793082909863,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "HD现代电气将投资1980亿韩元扩大产能",
@@ -1087,7 +1097,7 @@
         "date": 1793082621196,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "国家广电总局：有线电视不得播放开机广告",
@@ -1097,7 +1107,7 @@
         "date": 1793082012453,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "大立光9个月净利润159.8亿元台币",
@@ -1107,7 +1117,7 @@
         "date": 1793081573853,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "小马智行在武汉成立新科技公司，注册资本500万",
@@ -1117,7 +1127,7 @@
         "date": 1793081083719,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "智元GO-3 Nano Preview登顶RoboDojo",
@@ -1127,26 +1137,15 @@
         "date": 1793080996125,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "英伟达与Meta宣布将扩大在Muse系列模型上的合作，以响应市场对AI智能体的爆发式需求‌",
-        "url": "https://m.36kr.com/newsflashes/4043717760996228",
-        "desc": "英伟达与Meta宣布将扩大在Muse系列模型上的合作，以响应市场对AI智能体的爆发式需求‌。双方还将探索更多技术维度的协同，包括依托英伟达OpenShell参考架构强化AI智能体安全体系，借助英伟达Sentry实现智能体行为全链路监控，覆盖结构化、非结构化与图数据全类型处理场景。Meta将进一步扩大英伟达Vera Rubin AI算力集群与Vera CPU的部署规模，搭配英伟达Spectrum-X以太网网络与BlueField-4 DPU，全面提升AI工作负载的运行性能与扩展能力。（财联社）",
-        "cover": "",
-        "date": 1793080945373,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793087768912,
-    "qbitai": 1793087811644,
-    "36kr": 1793087812116
+    "thepaper": 1793088665107,
+    "bilibili": 1793087895392,
+    "qbitai": 1793088801106,
+    "36kr": 1793088801907
   },
-  "failures": {
-    "bilibili": "RuntimeError('NewsNow JSON not found')"
-  }
+  "failures": {}
 }
