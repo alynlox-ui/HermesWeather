@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T14:59:07Z",
+  "updatedAt": "2026-10-27T15:11:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,25 +174,35 @@
         "hotTitle": "凯恩获金球奖是否实至名归"
       },
       {
-        "title": "北京JDG战胜广州TTG KPL年总",
-        "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%ACJDG%20%E5%B9%BF%E5%B7%9ETTG",
+        "title": "【2026KPL年度总决赛】10月27日 北京JDG VS 广州TTG",
+        "url": "https://www.bilibili.com/video/BV16jxg6aEsW",
         "desc": "",
-        "rank": 4
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【2026KPL年度总决赛】10月27日 北京JDG VS 广州TTG",
+        "content": "【2026KPL年度总决赛】10月27日 北京JDG VS 广州TTG",
+        "bvid": "BV16jxg6aEsW",
+        "author": "哔哩哔哩王者荣耀赛事",
+        "duration": "247:14",
+        "cover": "//i0.hdslb.com/bfs/archive/f7fbe1fca6f3a55383f262eb9703632df572950e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16jxg6aEsW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "北京JDG战胜广州TTG KPL年总"
       },
       {
-        "title": "西甲主席就姆巴佩言论发中西双语致歉：向中国人民表达最诚挚的歉意",
-        "url": "https://www.bilibili.com/video/BV1qWxg6oEVm",
+        "title": "姆巴佩就发表不当言论致歉 言论欠妥 绝非本意 总台回应西甲主席：必须赔礼道歉 否则一切免谈",
+        "url": "https://www.bilibili.com/video/BV1mcxg6kEed",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1qWxg6oEVm",
-        "author": "青蜂侠-Bee",
-        "duration": "0:15",
-        "cover": "//i0.hdslb.com/bfs/archive/008e0d3bec6e2438857a00b82d4089d70cdc518d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qWxg6oEVm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "姆巴佩就发表不当言论致歉 言论欠妥 绝非本意 总台回应西甲主席：必须赔礼道歉 否则一切免谈",
+        "content": "姆巴佩就发表不当言论致歉 言论欠妥 绝非本意 总台回应西甲主席：必须赔礼道歉 否则一切免谈",
+        "bvid": "BV1mcxg6kEed",
+        "author": "帮帮团V直播",
+        "duration": "0:29",
+        "cover": "//i0.hdslb.com/bfs/archive/db1c1a3f2ac4466276154654b95d91bd3d58b5bf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mcxg6kEed&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "西甲就姆巴佩不当言论道歉"
       },
       {
@@ -260,19 +270,19 @@
         "hotTitle": "热火双塔阵容为何1+1小于2"
       },
       {
-        "title": "【玩机器】Spirit vs FURIA PGL Masters Bucharest 2026 布加勒斯特 全场集锦！",
-        "url": "https://www.bilibili.com/video/BV1gCnf66E1n",
+        "title": "【CSBOY弹幕录播】Liquid-Aurora丨Spirit-MOUZ PGL布加勒斯特 2026年10月27日",
+        "url": "https://www.bilibili.com/video/BV1SFxg6VEwP",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "欲渡黄河冰塞川 将登太行雪满山。6657upup！",
-        "content": "欲渡黄河冰塞川 将登太行雪满山。6657upup！",
-        "bvid": "BV1gCnf66E1n",
-        "author": "这里是小天啊",
-        "duration": "61:24",
-        "cover": "//i0.hdslb.com/bfs/archive/516596ea4f7bd81d4d7d80bb5c86f1310fa1f67a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gCnf66E1n&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "自动上传出问题目前是手工上传可能会延迟",
+        "content": "自动上传出问题目前是手工上传可能会延迟",
+        "bvid": "BV1SFxg6VEwP",
+        "author": "MTC君",
+        "duration": "225:20",
+        "cover": "//i2.hdslb.com/bfs/archive/143a7c8e3475b1ed66ba5ba26f5df8ad065cf76a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SFxg6VEwP&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Spirit vs MOUZ PGL大师赛"
       },
       {
@@ -308,10 +318,20 @@
         "hotTitle": "自媒体人举报电诈遇害始末"
       },
       {
-        "title": "库里8投8中砍24分",
-        "url": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C8%E6%8A%958%E4%B8%AD%E7%A0%8D24%E5%88%86",
+        "title": "勇士战胜掘金取赛季首胜！库里8中8砍24分，伦德伯格31分",
+        "url": "https://www.bilibili.com/video/BV11wxK6xEeh",
         "desc": "",
-        "rank": 13
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV11wxK6xEeh",
+        "author": "NBA",
+        "duration": "3:2",
+        "cover": "//i2.hdslb.com/bfs/archive/5af3c5a1a9c003c9c8750a365f0eb808122a0827.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11wxK6xEeh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "库里8投8中砍24分"
       },
       {
         "title": "判了！aleksib被判缓刑四个月，罪名是加重逃税，但应该不影响参加新加坡Major",
@@ -330,26 +350,36 @@
         "hotTitle": "NAVI队长Aleksib被判缓刑四个月"
       },
       {
-        "title": "众主播看狼队被次级队WSIG零封！无缘晋升，再见了狼队要解散了！WOL vs WSIG",
-        "url": "https://www.bilibili.com/video/BV1BFxu6sEY4",
+        "title": "【2026VCTCN晋升赛】10月27日 WOL vs WSIG",
+        "url": "https://www.bilibili.com/video/BV1Aaxu6YER7",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
-        "content": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
-        "bvid": "BV1BFxu6sEY4",
-        "author": "anno大笨蛋",
-        "duration": "2:28",
-        "cover": "//i2.hdslb.com/bfs/archive/1500a4caeff01953be9ef51ad42bbd58b76c250d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BFxu6sEY4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026VCTCN晋升赛】10月27日 WOL vs WSIG",
+        "content": "【2026VCTCN晋升赛】10月27日 WOL vs WSIG",
+        "bvid": "BV1Aaxu6YER7",
+        "author": "无畏契约赛事",
+        "duration": "121:23",
+        "cover": "//i0.hdslb.com/bfs/archive/e59d4edbe148f0be12d05ed76fa4317864df10f1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Aaxu6YER7&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "WSIG战胜WOL VCT晋升赛"
       },
       {
-        "title": "塞尔维亚UP主谈武契奇败选",
-        "url": "https://search.bilibili.com/all?keyword=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9AUP%E4%B8%BB%E8%B0%88%E6%AD%A6%E5%A5%91%E5%A5%87%E8%B4%A5%E9%80%89",
+        "title": "武契奇败选",
+        "url": "https://www.bilibili.com/video/BV1vXnZ6yEsP",
         "desc": "",
-        "rank": 16
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "极限赶出来了，挺难做的一个视频，依旧1.5倍。",
+        "content": "极限赶出来了，挺难做的一个视频，依旧1.5倍。",
+        "bvid": "BV1vXnZ6yEsP",
+        "author": "菲利蒲-Filip",
+        "duration": "59:44",
+        "cover": "//i1.hdslb.com/bfs/archive/2a997c790ab91eee6e0a6b318b3c93b3ddd06082.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vXnZ6yEsP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "塞尔维亚UP主谈武契奇败选"
       },
       {
         "title": "张麻子《鹅城FUNK》",
@@ -384,10 +414,20 @@
         "hotTitle": "反诈博主徽剑2年前遭买凶遇害"
       },
       {
-        "title": "挑战用所有省份写出love",
-        "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%94%A8%E6%89%80%E6%9C%89%E7%9C%81%E4%BB%BD%E5%86%99%E5%87%BAlove",
+        "title": "写了全国所有省份的love me！",
+        "url": "https://www.bilibili.com/video/BV1w2Hw6KE1j",
         "desc": "",
-        "rank": 19
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1w2Hw6KE1j",
+        "author": "西柚甜瓜",
+        "duration": "1:48",
+        "cover": "//i2.hdslb.com/bfs/archive/f1d952d55688049f5e74a18819b92696d7433bd4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1w2Hw6KE1j&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "挑战用所有省份写出love"
       },
       {
         "title": "动态视频｜子弹时间再升级，70台iPhone造了个捕捉时空的球",
@@ -406,10 +446,20 @@
         "hotTitle": "影视飓风升级VOGUE子弹时间"
       },
       {
-        "title": "极客湾旗舰手机芯片大横评",
-        "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%97%97%E8%88%B0%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E5%A4%A7%E6%A8%AA%E8%AF%84",
+        "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
+        "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
         "desc": "",
-        "rank": 21
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "终于来了！2026年旗舰手机芯片谁最强？我们今天凑齐了苹果A20 Pro、高通骁龙8 Elite Extreme Gen6、联发科天玑9600 Pro、小米玄戒O3四大旗舰手机芯片，也一同找来了麒麟9050 Pro和谷歌Tensor G6，赶紧来做一期芯片大横评，好好看一下各家的能效表现！不测不知道，一测吓一跳，今年不仅有遥遥领先的赢家，更有翻车严重的答辩！到底谁好谁拉？一起来看看吧……",
+        "content": "终于来了！2026年旗舰手机芯片谁最强？我们今天凑齐了苹果A20 Pro、高通骁龙8 Elite Extreme Gen6、联发科天玑9600 Pro、小米玄戒O3四大旗舰手机芯片，也一同找来了麒麟9050 Pro和谷歌Tensor G6，赶紧来做一期芯片大横评，好好看一下各家的能效表现！不测不知道，一测吓一跳，今年不仅有遥遥领先的赢家，更有翻车严重的答辩！到底谁好谁拉？一起来看看吧……",
+        "bvid": "BV1kMxM6FECM",
+        "author": "极客湾Geekerwan",
+        "duration": "57:15",
+        "cover": "//i0.hdslb.com/bfs/archive/a5504c58614fd9d4890ab2fa11d50b49dd303fcc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kMxM6FECM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "极客湾旗舰手机芯片大横评"
       },
       {
         "title": "万重山河皆侠骨！剑网3新50级版本MV《万重山》上线",
@@ -460,10 +510,20 @@
         "hotTitle": "回顾凯恩职业生涯的逆袭经历"
       },
       {
-        "title": "1000个大肥鱼在MC建故宫",
-        "url": "https://search.bilibili.com/all?keyword=1000%E4%B8%AA%E5%A4%A7%E8%82%A5%E9%B1%BC%E5%9C%A8MC%E5%BB%BA%E6%95%85%E5%AE%AB",
+        "title": "花4毛钱让1000个蓝色大肥鱼建造故宫",
+        "url": "https://www.bilibili.com/video/BV1nJHK6gEtd",
         "desc": "",
-        "rank": 25
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "模组：https://www.guangyapan.com/s/1961047832870391869_aruGHpdD5sfdwMCf 依旧测试中，可能会有一些bug",
+        "content": "模组：https://www.guangyapan.com/s/1961047832870391869_aruGHpdD5sfdwMCf 依旧测试中，可能会有一些bug",
+        "bvid": "BV1nJHK6gEtd",
+        "author": "点燃篝火的Anrry",
+        "duration": "4:49",
+        "cover": "//i1.hdslb.com/bfs/archive/7ad9ded1198fb034f6392ba9c2106d385f36d50e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nJHK6gEtd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "1000个大肥鱼在MC建故宫"
       },
       {
         "title": "一把不赢十六强，我是LPL领头羊👍 TLAW 2-0 AL 赛后数据雷达图丨2026全球总决赛-瑞士轮",
@@ -498,10 +558,20 @@
         "hotTitle": "AL发文告别2026全球总决赛"
       },
       {
-        "title": "S16首批八强席位争夺战在即",
-        "url": "https://search.bilibili.com/all?keyword=S16%E9%A6%96%E6%89%B9%E5%85%AB%E5%BC%BA%E5%B8%AD%E4%BD%8D%E4%BA%89%E5%A4%BA%E6%88%98%E5%9C%A8%E5%8D%B3",
+        "title": "老李数据还可以喔！T1 vs MKOI 数据前瞻丨S16全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV16GxK6UEjX",
         "desc": "",
-        "rank": 28
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV16GxK6UEjX",
+        "author": "苦练李香兰",
+        "duration": "2:46",
+        "cover": "//i1.hdslb.com/bfs/archive/a01f260e7531e8d62e773bf7f0e85ed886be32ef.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16GxK6UEjX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S16首批八强席位争夺战在即"
       },
       {
         "title": "根本就没有这种比赛！！",
@@ -1072,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793112964050,
-    "bilibili": 1793112968730,
-    "qbitai": 1793113147217,
-    "36kr": 1793113147568
+    "thepaper": 1793113864373,
+    "bilibili": 1793112802505,
+    "qbitai": 1793113893185,
+    "36kr": 1793113893588
   },
   "failures": {}
 }
