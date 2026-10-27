@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T13:56:33Z",
+  "updatedAt": "2026-10-27T14:11:27Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -158,19 +158,19 @@
         "hotTitle": "热火双塔阵容为何1+1小于2"
       },
       {
-        "title": "西甲主席就姆巴佩言论发中西双语致歉：向中国人民表达最诚挚的歉意",
-        "url": "https://www.bilibili.com/video/BV1qWxg6oEVm",
+        "title": "姆巴佩就发表不当言论致歉 言论欠妥 绝非本意 总台回应西甲主席：必须赔礼道歉 否则一切免谈",
+        "url": "https://www.bilibili.com/video/BV1mcxg6kEed",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1qWxg6oEVm",
-        "author": "青蜂侠-Bee",
-        "duration": "0:15",
-        "cover": "//i0.hdslb.com/bfs/archive/008e0d3bec6e2438857a00b82d4089d70cdc518d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qWxg6oEVm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "姆巴佩就发表不当言论致歉 言论欠妥 绝非本意 总台回应西甲主席：必须赔礼道歉 否则一切免谈",
+        "content": "姆巴佩就发表不当言论致歉 言论欠妥 绝非本意 总台回应西甲主席：必须赔礼道歉 否则一切免谈",
+        "bvid": "BV1mcxg6kEed",
+        "author": "帮帮团V直播",
+        "duration": "0:29",
+        "cover": "//i0.hdslb.com/bfs/archive/db1c1a3f2ac4466276154654b95d91bd3d58b5bf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mcxg6kEed&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "西甲就姆巴佩不当言论道歉"
       },
       {
@@ -248,7 +248,7 @@
         "content": "【2026VCTCN晋升赛】10月27日 WOL vs WSIG",
         "bvid": "BV1Aaxu6YER7",
         "author": "无畏契约赛事",
-        "duration": "11:40",
+        "duration": "67:22",
         "cover": "//i0.hdslb.com/bfs/archive/e59d4edbe148f0be12d05ed76fa4317864df10f1.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Aaxu6YER7&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "WOL vs WSIG VCT晋升赛"
@@ -430,19 +430,19 @@
         "hotTitle": "如何看中土网友对线大战"
       },
       {
-        "title": "不想送直说！AL赞助商此前发文：AL赢一场就送键盘+鼠标",
-        "url": "https://www.bilibili.com/video/BV1syxK6oEGN",
+        "title": "一把不赢十六强，我是LPL领头羊👍 TLAW 2-0 AL 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV1EeHc6sE37",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1syxK6oEGN",
-        "author": "灯火电竞Pro",
-        "duration": "0:14",
-        "cover": "//i1.hdslb.com/bfs/archive/0afadddb2d4065869830d84c8ead18a38c6cf520.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1syxK6oEGN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1EeHc6sE37",
+        "author": "苦练李香兰",
+        "duration": "2:42",
+        "cover": "//i1.hdslb.com/bfs/archive/2858b9a2b1a88d8a46919b33356b775e8ff66dc9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EeHc6sE37&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TLAW战胜AL S16瑞士轮"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793109364833,
-    "bilibili": 1793109373207,
-    "qbitai": 1793109392898,
-    "36kr": 1793109393328
+    "thepaper": 1793110266186,
+    "bilibili": 1793109194045,
+    "qbitai": 1793110286713,
+    "36kr": 1793110287283
   },
   "failures": {}
 }
