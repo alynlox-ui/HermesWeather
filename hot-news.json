@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:41:42Z",
+  "updatedAt": "2026-10-27T10:56:28Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "【狂魔哥解说】北京JDG vs 广州TTG-2026.10.27录播，多平台录播+V：2569313408：价格优惠",
-        "url": "https://www.bilibili.com/video/BV1j6xT6JEZg",
+        "title": "【2026KPL年度总决赛】10月27日 北京JDG VS 广州TTG",
+        "url": "https://www.bilibili.com/video/BV16jxg6aEsW",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1j6xT6JEZg",
-        "author": "Avery禾禾",
-        "duration": "3:55",
-        "cover": "//i0.hdslb.com/bfs/archive/8a9b9e818e3d144d02957d4c7161379443ba2a9d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j6xT6JEZg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026KPL年度总决赛】10月27日 北京JDG VS 广州TTG",
+        "content": "【2026KPL年度总决赛】10月27日 北京JDG VS 广州TTG",
+        "bvid": "BV16jxg6aEsW",
+        "author": "哔哩哔哩王者荣耀赛事",
+        "duration": "78:48",
+        "cover": "//i0.hdslb.com/bfs/archive/f7fbe1fca6f3a55383f262eb9703632df572950e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16jxg6aEsW&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "北京JDG vs 广州TTG KPL年总"
       },
       {
@@ -910,21 +910,21 @@
     ],
     "36kr": [
       {
-        "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-        "url": "https://m.36kr.com/p/4043377845310592",
+        "title": "杨振宁当年的遗憾，被OpenAI补上了?",
+        "url": "https://m.36kr.com/p/4043775631381385",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261027/v2_478ec74381a7463b95bab8707d102827@000000_oswg51698oswg898oswg381_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
-        "date": 1793060313487,
+        "cover": "https://img.36krcdn.com/hsossms/20261027/v2_6e6eec4e2372480687d970f63dc421c7@5888275@ai_oswg950802oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1793098250521,
         "platform": "36kr",
         "kind": "article",
         "rank": 1
       },
       {
-        "title": "刚刚，GPT-6.1 Terra骨折价发布，Agent时代的打工模型来了",
-        "url": "https://m.36kr.com/p/4043376902165382",
+        "title": "张一鸣登顶，梁文锋领衔AI硬科技登上财富前台",
+        "url": "https://m.36kr.com/p/4043785145357449",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261027/v2_1777bfb6a6ac4598befe42a7b7dba87e@000000_oswg153392oswg1280oswg543_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
-        "date": 1793060306183,
+        "cover": "https://img.36krcdn.com/hsossms/20261027/v2_9f2fa1734f5e4531b506d908ab42b118@5888275@ai_oswg850757oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1793098238850,
         "platform": "36kr",
         "kind": "article",
         "rank": 2
@@ -940,6 +940,26 @@
         "rank": 3
       },
       {
+        "title": "君正股份：前三季度净利润26.16亿元，同比增长922.95%",
+        "url": "https://m.36kr.com/newsflashes/4044002060735368",
+        "desc": "36氪获悉，君正股份公告，公司第三季度营业收入31.45亿元，同比增长164.85%；归属于上市公司股东的净利润14.19亿元，同比增长2595.49%。2026年前三季度营业收入71.02亿元，同比增长106.66%；归属于上市公司股东的净利润26.16亿元，同比增长922.95%。",
+        "cover": "",
+        "date": 1793098297652,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "顾家家居：前三季度净利润13.87亿元，同比下降9.87%",
+        "url": "https://m.36kr.com/newsflashes/4043997228438663",
+        "desc": "36氪获悉，顾家家居公告，公司第三季度营业收入48.53亿元，同比下降6.87%；归属于上市公司股东的净利润4.61亿元，同比下降10.98%。2026年前三季度营业收入147.28亿元，同比下降1.89%；归属于上市公司股东的净利润13.87亿元，同比下降9.87%。",
+        "cover": "",
+        "date": 1793098002712,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "泡泡玛特：LABUBU电影目前还在剧本环节",
         "url": "https://m.36kr.com/newsflashes/4043990475166592",
         "desc": "在今日泡泡玛特三季度财报电话会上，公司管理层表示，LABUBU电影目前还在剧本环节，剧本开发的周期会相对长一些，除此以外也在和海外知名公司探索了动画的可能性。（财联社）",
@@ -947,7 +967,7 @@
         "date": 1793097590525,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "通用汽车将普通股上市地从纽交所迁至纳斯达克",
@@ -957,7 +977,7 @@
         "date": 1793097552853,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "东方盛虹：前三季度净利润46.43亿元，同比增长3573.11%",
@@ -967,7 +987,7 @@
         "date": 1793097401787,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "中科曙光：前三季度净利润17.25亿元，同比增长78.51%",
@@ -977,7 +997,7 @@
         "date": 1793097062188,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "五粮液：第三季度净利润9.58亿元，同比下降48.25%",
@@ -987,7 +1007,7 @@
         "date": 1793096705903,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "广汇能源：第三季度净利润14.95亿元，同比增长842.2%",
@@ -997,7 +1017,7 @@
         "date": 1793096447583,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "泡泡玛特正推进下个乐园项目",
@@ -1007,7 +1027,7 @@
         "date": 1793096170829,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "联合包裹第三季度营收增长6.7%至229亿美元，上调全年业绩指引",
@@ -1017,7 +1037,7 @@
         "date": 1793096106853,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "机构今日买入天娱数科等19股，卖出杰克科技1.9亿元",
@@ -1027,7 +1047,7 @@
         "date": 1793095918055,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "浙江医药：前三季度净利润6.93亿元，同比下降25.76%",
@@ -1037,7 +1057,7 @@
         "date": 1793095717007,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "奥来德：前三季度净利润1.82亿元，同比增长481.77%",
@@ -1047,7 +1067,7 @@
         "date": 1793095088879,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "禾望电气：前三季度净利润1.38亿元，同比下降58.83%",
@@ -1057,7 +1077,7 @@
         "date": 1793094958010,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "东风科技：前三季度净利润1.21亿元，同比增长442.97%",
@@ -1067,7 +1087,7 @@
         "date": 1793094574340,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "上海：支持人形机器人、协作机器人、高精度重载机器人等机器人创新突破",
@@ -1077,7 +1097,7 @@
         "date": 1793094466716,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "鸣志电器：前三季度净利润1亿元，同比增长101.05%",
@@ -1087,7 +1107,7 @@
         "date": 1793094301046,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "长飞光纤光缆遭南向资金净卖出5.19亿港元",
@@ -1097,7 +1117,7 @@
         "date": 1793094191977,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "上海：推进工业5G/EUHT独立专网试点，支持部署5G-A、万兆光网等高质量网络",
@@ -1107,7 +1127,7 @@
         "date": 1793094078972,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "《上海市加快发展新一代智能制造行动方案》印发",
@@ -1117,35 +1137,15 @@
         "date": 1793093968154,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "金山办公：三季度营收17.66亿元，同比增长16.11%",
-        "url": "https://m.36kr.com/newsflashes/4043926364968069",
-        "desc": "36氪获悉，金山办公发布2026年第三季度报告：公司实现营业收入17.66亿元，同比增长16.11%；经调整后归属上市公司股东的净利润为5.39亿元，同比增长8.44%。前三季度累计实现营业收入50.80亿元，同比增长21.57%。",
-        "cover": "",
-        "date": 1793093677549,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "包钢股份：前三季度净利润4.52亿元，同比增长94.22%",
-        "url": "https://m.36kr.com/newsflashes/4043921927050121",
-        "desc": "36氪获悉，包钢股份公告，公司第三季度营业收入149.83亿元，同比下降10.55%；归属于上市公司股东的净利润1.72亿元，同比增长112.11%。2026年前三季度营业收入430.18亿元，同比下降10.53%；归属于上市公司股东的净利润4.52亿元，同比增长94.22%。",
-        "cover": "",
-        "date": 1793093406680,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793097669084,
-    "bilibili": 1793097672923,
-    "qbitai": 1793097701321,
-    "36kr": 1793097702315
+    "thepaper": 1793098568923,
+    "bilibili": 1793097583777,
+    "qbitai": 1793098588284,
+    "36kr": 1793098588885
   },
   "failures": {}
 }
