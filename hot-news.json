@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T05:41:42Z",
+  "updatedAt": "2026-10-28T05:56:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -190,19 +190,19 @@
         "hotTitle": "Doinb说FPX已经解散了"
       },
       {
-        "title": "众主播看S1Mon开完飞机后发现脸上有个人头！kklin太变态了像没戴耳机！AQ vs RA",
-        "url": "https://www.bilibili.com/video/BV1axx76zE6p",
+        "title": "【高下立判】AQ 2-0 RA，多伦多狼魂！果汁47杀+20暴力炸，横扫RA晋级",
+        "url": "https://www.bilibili.com/video/BV1Vtx76MEg1",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
-        "content": "如果你觉得视频还不错的话希望能收到你的点赞投币和关注嘿嘿！谢谢啦！",
-        "bvid": "BV1axx76zE6p",
-        "author": "anno大笨蛋",
-        "duration": "2:59",
-        "cover": "//i0.hdslb.com/bfs/archive/61c66842f50360c67ccd26079a21ab23cb1696a4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1axx76zE6p&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Vtx76MEg1",
+        "author": "小徐还在绕",
+        "duration": "2:15",
+        "cover": "//i0.hdslb.com/bfs/archive/850e34befee64448dc6645ed641ee05e36a14201.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vtx76MEg1&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "AQ战胜RA VCT晋升赛"
       },
       {
@@ -456,7 +456,7 @@
         "content": "-",
         "bvid": "BV1T6x76FEBT",
         "author": "kpl二路",
-        "duration": "2215:55",
+        "duration": "2769:30",
         "cover": "//i1.hdslb.com/bfs/archive/c22a7763535a9fa67f491666c82ed507ea9a2fd5.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1T6x76FEBT&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "重庆狼队 vs 长沙TES.A KPL年总"
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793194868620,
+    "thepaper": 1793195771416,
     "bilibili": 1793194061725,
-    "qbitai": 1793166102478,
-    "36kr": 1793166102870
+    "qbitai": 1793166996450,
+    "36kr": 1793166996841
   },
   "failures": {}
 }
