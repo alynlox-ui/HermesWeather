@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-28T22:11:33Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-10-28T22:27:05Z",
+  "liveSourceCount": 2,
   "sources": {
     "thepaper": [
       {
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "IDC最新报告：MaaS市场分化，PPIO拿下独立服务商首位",
+        "url": "https://www.qbitai.com/2026/10/506468.html",
+        "desc": "百亿MaaS市场格局生变",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/0b13d82fdc8d67d354ebd212b15060ff.png",
+        "date": "2026-10-29T14:13:05",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "敢和英伟达现场PK的国产GPU，我是服的",
         "url": "https://www.qbitai.com/2026/10/506376.html",
         "desc": "跟H200和Thor T5000硬碰硬",
@@ -615,7 +625,7 @@
         "date": "2026-10-29T13:57:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
@@ -625,7 +635,7 @@
         "date": "2026-10-29T11:27:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
@@ -635,7 +645,7 @@
         "date": "2026-10-29T10:51:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
@@ -645,7 +655,7 @@
         "date": "2026-10-29T10:18:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "24万开卖！理想重造i6，李想：目标全球畅销",
@@ -655,7 +665,7 @@
         "date": "2026-10-29T08:59:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
@@ -665,7 +675,7 @@
         "date": "2026-10-29T08:03:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
@@ -675,7 +685,7 @@
         "date": "2026-10-28T19:09:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
@@ -685,7 +695,7 @@
         "date": "2026-10-28T18:32:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "威卡：用数据集链接具身智能和工程机械",
@@ -695,7 +705,7 @@
         "date": "2026-10-28T17:01:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
@@ -705,7 +715,7 @@
         "date": "2026-10-28T16:59:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
@@ -715,7 +725,7 @@
         "date": "2026-10-28T16:55:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "华为双十一焕新季・全场景新品发布会：焕新启航，聚势新生！",
@@ -725,7 +735,7 @@
         "date": "2026-10-28T16:44:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "四川最牛便利连锁超市搞机器人售货，黄了",
@@ -735,7 +745,7 @@
         "date": "2026-10-28T16:00:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一",
@@ -745,7 +755,7 @@
         "date": "2026-10-28T16:00:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
@@ -755,7 +765,7 @@
         "date": "2026-10-28T12:04:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
@@ -765,7 +775,7 @@
         "date": "2026-10-27T20:57:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "印奇把4D雷达也端到端了",
@@ -775,7 +785,7 @@
         "date": "2026-10-27T18:40:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
@@ -785,7 +795,7 @@
         "date": "2026-10-27T17:54:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
@@ -795,7 +805,7 @@
         "date": "2026-10-27T16:46:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
@@ -805,7 +815,7 @@
         "date": "2026-10-27T16:35:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
@@ -815,7 +825,7 @@
         "date": "2026-10-27T16:27:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
@@ -825,7 +835,7 @@
         "date": "2026-10-27T16:18:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
@@ -835,7 +845,7 @@
         "date": "2026-10-27T15:44:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
@@ -845,7 +855,7 @@
         "date": "2026-10-27T15:41:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕",
@@ -855,7 +865,7 @@
         "date": "2026-10-27T15:25:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "小米披露灵巧手最新技术探索成果：基于1827个工厂SOP验证，升级21自由度仿生灵巧手",
@@ -865,7 +875,7 @@
         "date": "2026-10-27T15:09:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
@@ -875,7 +885,7 @@
         "date": "2026-10-27T11:23:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
@@ -885,7 +895,7 @@
         "date": "2026-10-27T00:06:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
@@ -893,16 +903,6 @@
         "desc": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/3541bad072d2dbddde30dd5f828d67bf.jpeg",
         "date": "2026-10-26T17:46:13",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "OpenAI开始断网训练最强模型：“安全起见”",
-        "url": "https://www.qbitai.com/2026/10/505529.html",
-        "desc": "模型开始利用GPU缓存聊天？",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/bf1298f8e80aa020de369ab6a6387e15.webp",
-        "date": "2026-10-26T17:37:57",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -950,6 +950,26 @@
         "rank": 4
       },
       {
+        "title": "沪市1091家公司披露三季报，超八成公司实现盈利",
+        "url": "https://m.36kr.com/newsflashes/4046565197943942",
+        "desc": "截至10月29日，沪市1091家公司披露2026年三季报，披露进度47.0%，合计实现营业收入14.35万亿元，同比增长6.1%；净利润1.23万亿元，同比增长8.3%。其中，超八成公司实现盈利，约五成公司净利润同比增长，380余家营收和净利润双增，260余家净利润增速超过50%。286家科创板公司前三季度合计实现营业收入5749亿元、净利润572亿元，同比分别增长31.2%、85.9%。第三季度营业收入2131亿元，同比增长32.5%，净利润同比增长59.7%。（澎湃）",
+        "cover": "",
+        "date": 1793255090000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "美银证券：中国石油股份第三季业绩符合预期",
+        "url": "https://m.36kr.com/newsflashes/4046563363656832",
+        "desc": "美银证券发布研报称，中国石油股份第三季业绩符合预期，该行上调2026年盈利预测及目标价，重申“买入”评级，将H股目标价由11.5港元升至12港元，A股目标价相应由13元人民币升至15元人民币。（新浪财经）",
+        "cover": "",
+        "date": 1793254627176,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "亚马逊加码智能家居",
         "url": "https://m.36kr.com/newsflashes/4046552537797504",
         "desc": "亚马逊集中发布了五款以Alexa AI助手为核心的新产品，包括升级版Echo Dot智能音箱、首次配备摄像头的Echo Studio智能音箱、Echo Time智能时钟、Alexa Photo Frame数码相框，以及Echo Show 16智能显示屏。其中，本次发布的16英寸旗舰智能屏Echo Show 16起售价499.99美元。（财联社）",
@@ -957,7 +977,7 @@
         "date": 1793253966418,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "宁德时代等入股阿基米德半导体公司",
@@ -967,7 +987,7 @@
         "date": 1793253494986,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "现货白银日内跌幅扩大至2%",
@@ -977,7 +997,7 @@
         "date": 1793253488212,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "VF威富集团2027财年第二季度营收26.95亿美元，同比增长1%",
@@ -987,7 +1007,7 @@
         "date": 1793253471654,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "科创板宽基ETF近一周资金净流入187亿元",
@@ -997,7 +1017,7 @@
         "date": 1793253131941,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "华为投资控股公司增资至约693.9亿",
@@ -1007,7 +1027,7 @@
         "date": 1793252865117,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "现代汽车将2026年销量目标下调至400万辆",
@@ -1017,7 +1037,7 @@
         "date": 1793252359695,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "法国兴业银行第三季度净利润18.9亿欧元，同比增长24%",
@@ -1027,7 +1047,7 @@
         "date": 1793252300423,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "Nintendo Switch 2首家电商旗舰店在天猫开业，参与天猫双11",
@@ -1037,7 +1057,7 @@
         "date": 1793251697660,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "东山精密：四季度产品交付有望延续高增长趋势",
@@ -1047,7 +1067,7 @@
         "date": 1793250961475,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "沪市三天新增回购增持方案29单，金额上限45亿元",
@@ -1057,7 +1077,7 @@
         "date": 1793250870633,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "沪深两市成交额突破1万亿元",
@@ -1067,7 +1087,7 @@
         "date": 1793250655454,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "丰田汽车9月全球销量同比下降2.9%",
@@ -1077,7 +1097,7 @@
         "date": 1793250074949,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "现代汽车第三季度净利润1.70万亿韩元，低于预期",
@@ -1087,7 +1107,7 @@
         "date": 1793249800502,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "三星重工第三季度营收3.15万亿韩元，同比增长20%",
@@ -1097,7 +1117,7 @@
         "date": 1793249058000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "中科曙光：曙光存储系统已在曙光8000、机器人数据采集与训练、自动驾驶等多场景中应用",
@@ -1107,7 +1127,7 @@
         "date": 1793248479000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "东华软件在北京成立合丰智联科技公司，注册资本2.5亿",
@@ -1117,7 +1137,7 @@
         "date": 1793248421569,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "茶颜悦色在广州成立新餐饮管理公司，注册资本200万",
@@ -1127,35 +1147,16 @@
         "date": 1793248072000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "吉利汽车：前三季度净利润139.28亿元，同比增长7%",
-        "url": "https://m.36kr.com/newsflashes/4046454141588356",
-        "desc": "36氪获悉，吉利汽车在港交所公告，2026年前三季度实现收入2725.64亿元，同比增长13%；净利润139.28亿元，同比增长7%。其中，第三季度收入989.64亿元，同比增长10%；净利润48.37亿元，同比增长28%。",
-        "cover": "",
-        "date": 1793247960790,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "阿里等入股弦引未来",
-        "url": "https://m.36kr.com/newsflashes/4046418258039686",
-        "desc": "36氪获悉，天眼查App显示，近日，安徽弦引未来科技有限公司发生工商变更，新增阿里旗下杭州灏月企业管理有限公司、安徽元生嘉灏股权投资合伙企业（有限合伙）等为股东，田蓥梅卸任法定代表人，由陶彦博接任，同时，注册资本由约705.7万元人民币增至约783.3万元人民币。该公司成立于2025年9月，经营范围含智能机器人的研发、人工智能基础软件开发、人工智能应用软件开发等，现由北京思弦共创咨询合伙企业（有限合伙）、合肥弦灵共行商业管理合伙企业（有限合伙）及上述新增股东等共同持股。",
-        "cover": "",
-        "date": 1793247084000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793254269045,
-    "bilibili": 1793254274161,
-    "qbitai": 1793225492780,
-    "36kr": 1793225493157
+    "qbitai": 1793226425075,
+    "36kr": 1793226425475
   },
-  "failures": {}
+  "failures": {
+    "thepaper": "RuntimeError('NewsNow JSON not found')",
+    "bilibili": "RuntimeError('NewsNow JSON not found')"
+  }
 }
