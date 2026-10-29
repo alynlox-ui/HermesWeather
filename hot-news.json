@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T13:11:55Z",
-  "liveSourceCount": 4,
+  "updatedAt": "2026-10-29T13:27:37Z",
+  "liveSourceCount": 3,
   "sources": {
     "thepaper": [
       {
@@ -1152,10 +1152,12 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793279463492,
-    "bilibili": 1793279472809,
-    "qbitai": 1793279515050,
-    "36kr": 1793279515465
+    "thepaper": 1793280363249,
+    "bilibili": 1793278909322,
+    "qbitai": 1793280456713,
+    "36kr": 1793280457084
   },
-  "failures": {}
+  "failures": {
+    "bilibili": "UnicodeEncodeError('gbk', 'bilibili resolve fallback: 运‑20B解锁一机两用 (The read operation timed out)', 28, 29, 'illegal multibyte sequence')"
+  }
 }
