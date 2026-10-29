@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:56:29Z",
+  "updatedAt": "2026-10-29T02:11:37Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+        "url": "https://www.qbitai.com/2026/10/506554.html",
+        "desc": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/6772f30570a3eaaac7b79fd850e62719-e1793267902681.jpeg",
+        "date": "2026-10-29T17:58:26",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
         "url": "https://www.qbitai.com/2026/10/506550.html",
         "desc": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
@@ -615,7 +625,7 @@
         "date": "2026-10-29T17:52:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "AI安全是AI规模化应用“加速器”",
@@ -625,7 +635,7 @@
         "date": "2026-10-29T16:50:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
@@ -635,7 +645,7 @@
         "date": "2026-10-29T14:53:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
@@ -645,7 +655,7 @@
         "date": "2026-10-29T14:51:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "IDC最新报告：MaaS市场分化，PPIO拿下独立服务商首位",
@@ -655,7 +665,7 @@
         "date": "2026-10-29T14:13:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "敢和英伟达现场PK的国产GPU，我是服的",
@@ -665,17 +675,17 @@
         "date": "2026-10-29T13:57:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
         "url": "https://www.qbitai.com/2026/10/506281.html",
         "desc": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/4befaaf6c54c2eafe4ae61049622c158.jpeg",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/d5e73d228ec2b66a7b85e324bded636e.jpeg",
         "date": "2026-10-29T11:27:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
@@ -685,7 +695,7 @@
         "date": "2026-10-29T10:51:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
@@ -695,7 +705,7 @@
         "date": "2026-10-29T10:18:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "24万开卖！理想重造i6，李想：目标全球畅销",
@@ -705,7 +715,7 @@
         "date": "2026-10-29T08:59:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
@@ -715,7 +725,7 @@
         "date": "2026-10-29T08:03:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
@@ -725,7 +735,7 @@
         "date": "2026-10-28T19:09:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
@@ -735,7 +745,7 @@
         "date": "2026-10-28T18:32:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "威卡：用数据集链接具身智能和工程机械",
@@ -745,7 +755,7 @@
         "date": "2026-10-28T17:01:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
@@ -755,7 +765,7 @@
         "date": "2026-10-28T16:59:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
@@ -765,7 +775,7 @@
         "date": "2026-10-28T16:55:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "华为双十一焕新季・全场景新品发布会：焕新启航，聚势新生！",
@@ -775,7 +785,7 @@
         "date": "2026-10-28T16:44:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "四川最牛便利连锁超市搞机器人售货，黄了",
@@ -785,7 +795,7 @@
         "date": "2026-10-28T16:00:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一",
@@ -795,7 +805,7 @@
         "date": "2026-10-28T16:00:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
@@ -805,7 +815,7 @@
         "date": "2026-10-28T12:04:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
@@ -815,7 +825,7 @@
         "date": "2026-10-27T20:57:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "印奇把4D雷达也端到端了",
@@ -825,7 +835,7 @@
         "date": "2026-10-27T18:40:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
@@ -835,7 +845,7 @@
         "date": "2026-10-27T16:46:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
@@ -845,7 +855,7 @@
         "date": "2026-10-27T16:35:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
@@ -855,7 +865,7 @@
         "date": "2026-10-27T16:27:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
@@ -865,7 +875,7 @@
         "date": "2026-10-27T16:18:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
@@ -875,7 +885,7 @@
         "date": "2026-10-27T15:44:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
@@ -885,7 +895,7 @@
         "date": "2026-10-27T15:41:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕",
@@ -895,36 +905,26 @@
         "date": "2026-10-27T15:25:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "小米披露灵巧手最新技术探索成果：基于1827个工厂SOP验证，升级21自由度仿生灵巧手",
-        "url": "https://www.qbitai.com/2026/10/505600.html",
-        "desc": "",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/6f3c19ea337efb4d743a305bdd786a03.png",
-        "date": "2026-10-27T15:09:28",
-        "platform": "qbitai",
-        "kind": "article",
         "rank": 30
       }
     ],
     "36kr": [
+      {
+        "title": "泡泡玛特不是段永平的可口可乐",
+        "url": "https://m.36kr.com/p/4046673516057477",
+        "desc": "",
+        "cover": "https://img.36krcdn.com/hsossms/20261029/v2_efb4b216d0034cdd8282656c932f10bd@5888275@ai_oswg810908oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1793268639103,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 1
+      },
       {
         "title": "“世界” 等待张一鸣",
         "url": "https://m.36kr.com/p/4046427575605128",
         "desc": "",
         "cover": "https://img.36krcdn.com/hsossms/20261029/v2_48d43172849441dc806030007d4a251f@1743780481@ai_oswg879517oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
         "date": 1793264913293,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 1
-      },
-      {
-        "title": "“对不起，我们不投具身智能了”",
-        "url": "https://m.36kr.com/p/4046281658307456",
-        "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261029/v2_f8a83efb391b4d388e37f4d37ba332f9@000000_oswg71924oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
-        "date": 1793238040540,
         "platform": "36kr",
         "kind": "article",
         "rank": 2
@@ -940,14 +940,64 @@
         "rank": 3
       },
       {
-        "title": "2.3万元起，首款触屏MacBook来了，苹果Logo重新发光点亮",
-        "url": "https://m.36kr.com/p/4046025527694217",
+        "title": "“对不起，我们不投具身智能了”",
+        "url": "https://m.36kr.com/p/4046281658307456",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261029/v2_3431ade07f3a4422ac3115fce0425464@000000@ai_oswg849932oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1793233445787,
+        "cover": "https://img.36krcdn.com/hsossms/20261029/v2_f8a83efb391b4d388e37f4d37ba332f9@000000_oswg71924oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
+        "date": 1793238040540,
         "platform": "36kr",
         "kind": "article",
         "rank": 4
+      },
+      {
+        "title": "北京汽车以旧换新补贴申报截止时间延长至明年1月",
+        "url": "https://m.36kr.com/newsflashes/4046785932071813",
+        "desc": "北京市商务局根据北京市汽车消费需求及以旧换新补贴政策实施情况，调整补贴申报截止时间，公告如下：将北京市2026年汽车以旧换新补贴申报截止时间由2026年11月30日24时延长至2027年1月10日24时，年度补贴资金使用完毕除外。如需更改补正相关信息的，应于2027年1月20日24时前完成更改并提交。逾期未提交补贴申请或补正相关信息的，不予补贴。汽车报废更新补贴申请人提交的《报废机动车回收证明》《机动车注销证明》《机动车销售统一发票》《机动车登记证书》均应在2026年1月1日至2026年12月31日期间取得。（央视新闻）",
+        "cover": "",
+        "date": 1793268635800,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "盐湖股份：第三季度归母净利润27.72亿元，同比增长31.36%",
+        "url": "https://m.36kr.com/newsflashes/4046792087769988",
+        "desc": "36氪获悉，盐湖股份公告，第三季度实现营收59.33亿元，同比增长25.39%；归母净利润为27.72亿元，同比增长31.36%。前三季度实现营收189.85亿元，同比增长58.37%；归母净利润为89.40亿元，同比增长90.09%。",
+        "cover": "",
+        "date": 1793268587388,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "迈瑞医疗：第三季度归母净利润23.87亿元，同比下降4.55%",
+        "url": "https://m.36kr.com/newsflashes/4046789954999170",
+        "desc": "36氪获悉，迈瑞医疗公告，第三季度实现营收93.5亿元，同比增长2.85%；归母净利润23.87亿元，同比下降4.55%。前三季度实现营收270.97亿元，同比增长4.89%；归母净利润71.84亿元，同比下降5.1%。",
+        "cover": "",
+        "date": 1793268457214,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "北方华创：第三季度归母净利润20.22亿元，同比增长5.18%",
+        "url": "https://m.36kr.com/newsflashes/4046782369387649",
+        "desc": "36氪获悉，北方华创公告，前三季度实现营收314.67亿元，同比增长15.26%；归母净利润53.92亿元，同比增长5.10%。第三季度实现营收113.06亿元，同比增长1.31%；归母净利润20.22亿元，同比增长5.18%。",
+        "cover": "",
+        "date": 1793267994225,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
+        "title": "吉利汽车：第三季度实现营收990亿元，同比增长10%",
+        "url": "https://m.36kr.com/newsflashes/4046780657308551",
+        "desc": "36氪获悉，吉利汽车发布第三季度财报，第三季度实现营收990亿元，同比增长10%；核心归母净利润达52.1亿元，同比增长32%。前三季度公司总收入2726亿元，同比增长13%；核心归母净利润149亿元，同比增长41%。",
+        "cover": "",
+        "date": 1793267889728,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 9
       },
       {
         "title": "澜起科技：第三季度归母净利润12.4亿元，同比增长161.98%",
@@ -957,7 +1007,7 @@
         "date": 1793267775583,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 10
       },
       {
         "title": "中国共产党第二十届中央委员会第五次全体会议公报",
@@ -967,7 +1017,7 @@
         "date": 1793267332178,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 11
       },
       {
         "title": "中共中央将于30日上午举行新闻发布会，介绍和解读党的二十届五中全会精神",
@@ -977,7 +1027,7 @@
         "date": 1793267250149,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 12
       },
       {
         "title": "屹唐股份：拟投资18亿元建设半导体装备制造基地项目",
@@ -987,7 +1037,7 @@
         "date": 1793267155313,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 13
       },
       {
         "title": "比亚迪：第三季度归母净利润100.20亿元，同比增长28.08%",
@@ -997,7 +1047,7 @@
         "date": 1793267097992,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 14
       },
       {
         "title": "三安光电：前三季度实现营收100.39亿元，净亏损1.20亿元",
@@ -1007,7 +1057,7 @@
         "date": 1793266607000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 15
       },
       {
         "title": "联讯仪器：第三季度归母净利润14.39亿元，同比增长3488.07%",
@@ -1017,7 +1067,7 @@
         "date": 1793266464099,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 16
       },
       {
         "title": "机构：MacBook Pro新机入局，预估2027年全球OLED笔记本出货年增逾40%",
@@ -1027,7 +1077,7 @@
         "date": 1793266204000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 17
       },
       {
         "title": "中远海控：第三季度归母净利润172.3亿元，同比增长80.73%",
@@ -1037,7 +1087,7 @@
         "date": 1793266160024,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 18
       },
       {
         "title": "阿里云盘企业版CDE Agent计费模式调整通知",
@@ -1047,17 +1097,17 @@
         "date": 1793266052777,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 19
       },
       {
-        "title": "满坤科技：第三季度归母净利润为1.29亿元，同比增长231.24%",
+        "title": "满坤科技：第三季度归母净利润1.29亿元，同比增长231.24%",
         "url": "https://m.36kr.com/newsflashes/4046740839748736",
         "desc": "36氪获悉，满坤科技公告，第三季度实现营收7.24亿元，同比增长56.48%；归母净利润为1.29亿元，同比增长231.24%。前三季度实现营收16.67亿元，同比增长36.32%；归母净利润为1.72亿元，同比增长69.04%。",
         "cover": "",
         "date": 1793265459457,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 20
       },
       {
         "title": "小米旗下瀚星创投入股芯词元半导体",
@@ -1067,7 +1117,7 @@
         "date": 1793265321000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 21
       },
       {
         "title": "中国石化：第三季度归母净利润133.61亿元，同比增长57.2%",
@@ -1077,7 +1127,7 @@
         "date": 1793265189439,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 22
       },
       {
         "title": "兆易创新：前三季度归母净利润110.66亿元，同比增长921.55%",
@@ -1087,7 +1137,7 @@
         "date": 1793264983864,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 23
       },
       {
         "title": "中国联通：第三季度归母净利润16.64亿元，同比下降31.3%",
@@ -1097,65 +1147,15 @@
         "date": 1793264848298,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "恒瑞医药：注射用瑞康曲妥珠单抗上市申请获受理并纳入优先审评",
-        "url": "https://m.36kr.com/newsflashes/4046722108953481",
-        "desc": "36氪获悉，恒瑞医药公告，公司子公司苏州盛迪亚生物医药有限公司收到国家药监局《受理通知书》，注射用瑞康曲妥珠单抗的药品上市许可申请获受理，且已被纳入优先审评程序。拟定适应症为联合或不联合帕妥珠单抗，一线治疗局部晚期或转移性HER2阳性乳腺癌患者。该药品为公司自主研发的以HER2为靶点的抗体偶联药物，已在国内获批三项适应症。截至目前，相关项目累计研发投入约23.61亿元。",
-        "cover": "",
-        "date": 1793264846000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "宏昌电子：第三季度归母净利润2.16亿元，同比增长2544.78%",
-        "url": "https://m.36kr.com/newsflashes/4046729719534471",
-        "desc": "36氪获悉，宏昌电子公告，前三季度实现营收36.81亿元，同比增长71.67%；归母净利润2.56亿元，同比增长943.19%。第三季度实现营收14.95亿元，同比增长82.77%；归母净利润2.16亿元，同比增长2544.78%。",
-        "cover": "",
-        "date": 1793264780733,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "阿里云荷兰地域正式开服，年内海外已新增4个地域、12个可用区",
-        "url": "https://m.36kr.com/newsflashes/4046727008572292",
-        "desc": "36氪获悉，阿里云在荷兰阿姆斯特丹举行的国际云栖大会上宣布，荷兰首个地域节点正式开服。这是阿里云今年新开的第四个海外地域节点，此前已先后在马来西亚、法国、巴西开服，同时扩建了日本、韩国、墨西哥等地的数据中心，年内海外累计新增12个可用区。未来，阿里云计划在土耳其、芬兰新设地域节点，并扩建马来西亚、德国、阿联酋、法国和中国香港的数据中心。",
-        "cover": "",
-        "date": 1793264615269,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "国家药监局批准一款防晒类化妆品新原料",
-        "url": "https://m.36kr.com/newsflashes/4046725426254977",
-        "desc": "今天，国家药监局批准一款化妆品新原料“甲氧基丙基氨基环己烯基亚乙基氧基乙基氰基乙酸酯”，该原料是《化妆品监督管理条例》实施后批准的首个防晒剂，进一步丰富了我国防晒剂原料供给，将更好满足消费者多样化、差异化的防晒需求。（央视新闻）",
-        "cover": "",
-        "date": 1793264518692,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 23
-      },
-      {
-        "title": "陈发树第三季度新进成为中际联合第七大股东",
-        "url": "https://m.36kr.com/newsflashes/4046720097244036",
-        "desc": "36氪获悉，据中际联合三季报显示，陈发树新进成为第七大股东，持有238万股，占总股本比例1.12%。",
-        "cover": "",
-        "date": 1793264193435,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 24
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793267767670,
-    "bilibili": 1793267773623,
-    "qbitai": 1793238988163,
-    "36kr": 1793238989034
+    "thepaper": 1793268668909,
+    "bilibili": 1793267409141,
+    "qbitai": 1793239896630,
+    "36kr": 1793239897024
   },
   "failures": {}
 }
