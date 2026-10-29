@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T13:41:36Z",
+  "updatedAt": "2026-10-29T13:56:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -152,7 +152,7 @@
         "content": "【2026KPL年度总决赛】10月29日 KSG VS 北京WB",
         "bvid": "BV1mCsf65ELQ",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "217:27",
+        "duration": "249:54",
         "cover": "//i1.hdslb.com/bfs/archive/81f6b1d30cd8758e53a8bc0fa7febd7649de5eaf.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mCsf65ELQ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "KSG vs 北京WB KPL"
@@ -542,19 +542,19 @@
         "hotTitle": "在学校里复刻王者职业比赛"
       },
       {
-        "title": "恭喜T1二比零战胜Mkoi成功晋级八强！多兰连c两把扛起大旗",
-        "url": "https://www.bilibili.com/video/BV1pps96WE1q",
+        "title": "恭喜T1晋级八强！sask穿西装激情解说 T1 vs MKOI 瑞士轮全程弹幕版和纯净版！10月29日",
+        "url": "https://www.bilibili.com/video/BV1Mfsd6qEQf",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1pps96WE1q",
-        "author": "小夏111_",
-        "duration": "0:39",
-        "cover": "//i0.hdslb.com/bfs/archive/e1c9936927815525f92135ef7f59317a1d8a05f2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pps96WE1q&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "崩哥直播间：https://www.huya.com/579236 坚持每日更新崩哥视频（崩哥不混就行） 请勿过分解读 老板们看个乐子就好 友友们看到留下三连，点个关注再走吧！ 祝友友们工作顺利，开心每一天",
+        "content": "崩哥直播间：https://www.huya.com/579236 坚持每日更新崩哥视频（崩哥不混就行） 请勿过分解读 老板们看个乐子就好 友友们看到留下三连，点个关注再走吧！ 祝友友们工作顺利，开心每一天",
+        "bvid": "BV1Mfsd6qEQf",
+        "author": "切猪君",
+        "duration": "155:32",
+        "cover": "//i2.hdslb.com/bfs/archive/60b21a0068267fdd2d5fee9c2fad2b68f189e43c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Mfsd6qEQf&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "T1战胜MKOI S16瑞士轮"
       },
       {
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793281263240,
-    "bilibili": 1793281271724,
-    "qbitai": 1793281295637,
-    "36kr": 1793281296032
+    "thepaper": 1793282164644,
+    "bilibili": 1793280710232,
+    "qbitai": 1793282196044,
+    "36kr": 1793282196374
   },
   "failures": {}
 }
