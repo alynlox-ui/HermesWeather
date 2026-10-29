@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T14:11:33Z",
+  "updatedAt": "2026-10-29T14:26:30Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -456,7 +456,7 @@
         "content": "【2026KPL年度总决赛】10月29日 KSG VS 北京WB",
         "bvid": "BV1mCsf65ELQ",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "272:19",
+        "duration": "292:11",
         "cover": "//i1.hdslb.com/bfs/archive/81f6b1d30cd8758e53a8bc0fa7febd7649de5eaf.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mCsf65ELQ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "KSG vs 北京WB KPL"
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793283063381,
-    "bilibili": 1793283071769,
-    "qbitai": 1793283093000,
-    "36kr": 1793283093378
+    "thepaper": 1793283965007,
+    "bilibili": 1793282511729,
+    "qbitai": 1793283989805,
+    "36kr": 1793283990620
   },
   "failures": {}
 }
