@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T06:56:50Z",
+  "updatedAt": "2026-10-30T15:11:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,10 +222,20 @@
         "hotTitle": "Bin回应不敌TES"
       },
       {
-        "title": "解放军位黄岩岛战备警巡",
-        "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%BD%8D%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%88%98%E5%A4%87%E8%AD%A6%E5%B7%A1",
+        "title": "“盯死！”南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
+        "url": "https://www.bilibili.com/video/BV1sRxv6CEz1",
         "desc": "",
-        "rank": 7
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "10月30日，中国人民解放军南部战区组织海空兵力位中国黄岩岛领海领空及周边海空域开展战备警巡，这是对菲方侵权挑衅行径的必要反制。黄岩岛是中国固有领土。10月份以来，战区部队组织海空兵力持续加强黄岩岛领海周边海空域巡逻警戒，进一步强化有关海空域管控力度，有力有效应对各类侵权挑衅行径，坚决捍卫国家主权安全，坚定维护南海地区和平稳定。 来源：南部战区",
+        "content": "10月30日，中国人民解放军南部战区组织海空兵力位中国黄岩岛领海领空及周边海空域开展战备警巡，这是对菲方侵权挑衅行径的必要反制。黄岩岛是中国固有领土。10月份以来，战区部队组织海空兵力持续加强黄岩岛领海周边海空域巡逻警戒，进一步强化有关海空域管控力度，有力有效应对各类侵权挑衅行径，坚决捍卫国家主权安全，坚定维护南海地区和平稳定。 来源：南部战区",
+        "bvid": "BV1sRxv6CEz1",
+        "author": "新华社",
+        "duration": "1:36",
+        "cover": "//i2.hdslb.com/bfs/archive/007dc55c0d7b58654c39b6e3e1655de84c976e5d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sRxv6CEz1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "解放军位黄岩岛战备警巡"
       },
       {
         "title": "罗小黑战记第41集剧情吐槽！又是山新与山新与山新与山新聊天的一天呢🤣",
@@ -254,7 +264,7 @@
         "content": "游戏名：《影之刃零》，由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。",
         "bvid": "BV1Lcsd67EXy",
         "author": "11的游戏世界",
-        "duration": "383:20",
+        "duration": "372:51",
         "cover": "//i2.hdslb.com/bfs/archive/ab7eb51031d5891e0abea7d605822594e130295f.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Lcsd67EXy&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "影之刃零最高难度实况"
@@ -270,7 +280,7 @@
         "content": "【2026VCTCN晋升赛】10月30日 FPX vs AQ",
         "bvid": "BV17vxq6NEBi",
         "author": "无畏契约赛事",
-        "duration": "107:59",
+        "duration": "175:43",
         "cover": "//i1.hdslb.com/bfs/archive/e6e82c37e648dc9ea7a8cdd7d3d969b706b9278a.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17vxq6NEBi&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "FPX vs AQ VCT晋升赛"
@@ -1132,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793372169752,
+    "thepaper": 1793373074411,
     "bilibili": 1793371429049,
-    "qbitai": 1793343409638,
-    "36kr": 1793343410010
+    "qbitai": 1793373092402,
+    "36kr": 1793373092864
   },
   "failures": {}
 }
