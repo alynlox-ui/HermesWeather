@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T02:26:28Z",
+  "updatedAt": "2026-10-31T02:41:29Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "攻击21首次在四川舰起降"
       },
       {
-        "title": "前瞻预测 G2 VS HLE TL VS LOS G2能否再创辉煌？",
-        "url": "https://www.bilibili.com/video/BV1Pjxv6zEQw",
+        "title": "【2026全球总决赛】10月31日 G2 vs HLE",
+        "url": "https://www.bilibili.com/video/BV11Fx66REUr",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Pjxv6zEQw",
-        "author": "中年电竞人",
-        "duration": "2:39",
-        "cover": "//i1.hdslb.com/bfs/archive/583894dc1a7fd59a77832b47eaf48c1e78c0c0c0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Pjxv6zEQw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "【2026全球总决赛】10月31日 G2 vs HLE",
+        "content": "【2026全球总决赛】10月31日 G2 vs HLE",
+        "bvid": "BV11Fx66REUr",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "102:39",
+        "cover": "//i0.hdslb.com/bfs/archive/9fc4027b3f2569cc1e77164adb1a3939dd6e93ba.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11Fx66REUr&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "HLE战胜G2 S16瑞士轮"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793413568800,
+    "thepaper": 1793414468963,
     "bilibili": 1793412922134,
-    "qbitai": 1793413588226,
-    "36kr": 1793413588518
+    "qbitai": 1793414488787,
+    "36kr": 1793414489104
   },
   "failures": {}
 }
