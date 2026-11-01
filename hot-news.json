@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T03:41:36Z",
+  "updatedAt": "2026-11-01T03:56:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "诺里承认未用杨瀚森是失误"
       },
       {
-        "title": "众主播看NOVA零封UR！！恭喜NOVA晋级VCT！！ URvsNOVA",
-        "url": "https://www.bilibili.com/video/BV1bDxx6sEgb",
+        "title": "【高下立判】UR 0-3 NOVA 等级森严！NOVA降维打击UR重回VCT",
+        "url": "https://www.bilibili.com/video/BV1uQxx69EMX",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "祝你天天开心！送上新鲜的猪肉！点点关注！点点赞！投投币！谢谢你啦！",
-        "content": "祝你天天开心！送上新鲜的猪肉！点点关注！点点赞！投投币！谢谢你啦！",
-        "bvid": "BV1bDxx6sEgb",
-        "author": "我们一起去养猪",
-        "duration": "2:35",
-        "cover": "//i1.hdslb.com/bfs/archive/f68c45c1db0c34b564cfba17454c4a5225bfa9ab.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bDxx6sEgb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1uQxx69EMX",
+        "author": "小徐还在绕",
+        "duration": "3:7",
+        "cover": "//i2.hdslb.com/bfs/archive/c04f99905be14422c01f79606ea082ae9e6bcab4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uQxx69EMX&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "NOVA战胜UR VCT晋升赛"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793533264370,
-    "bilibili": 1793533273362,
-    "qbitai": 1793504496111,
-    "36kr": 1793504496476
+    "thepaper": 1793534163581,
+    "bilibili": 1793533266612,
+    "qbitai": 1793505395374,
+    "36kr": 1793505395677
   },
   "failures": {}
 }
