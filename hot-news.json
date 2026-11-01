@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-11-01T03:12:32Z",
+  "updatedAt": "2026-11-01T03:26:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
-        "title": "马上评｜能查村支书威胁环保博主事，也定能彻查环境污染事",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34377443",
-        "desc": "",
-        "rank": 1
-      },
-      {
         "title": "四川华蓥大摆荡项目事故调查报告公布",
         "url": "https://www.thepaper.cn/newsDetail_forward_34378329",
         "desc": "",
-        "rank": 2
+        "rank": 1
       },
       {
         "title": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34378084",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "地铁站台孩童随地便溺引发乘客纠纷，官方回应：已对家长进行教育",
         "url": "https://www.thepaper.cn/newsDetail_forward_34378191",
         "desc": "",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "四川勒多曼因峰有4人滑坠致2人遇难，系违规登山",
         "url": "https://www.thepaper.cn/newsDetail_forward_34378773",
         "desc": "",
-        "rank": 5
+        "rank": 4
       },
       {
         "title": "言短意长｜“小小徐”婚礼凸显地方应急能力趋向成熟",
         "url": "https://www.thepaper.cn/newsDetail_forward_34381069",
+        "desc": "",
+        "rank": 5
+      },
+      {
+        "title": "多所高校明确“严禁全程依赖PPT”，央媒：课堂主角永远是人",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34380335",
         "desc": "",
         "rank": 6
       },
@@ -58,38 +58,38 @@
         "rank": 9
       },
       {
-        "title": "陈丽君穿《祝姑娘》服饰走红毯，好似画中走出的古风人物",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34377754",
-        "desc": "",
-        "rank": 10
-      },
-      {
         "title": "明查｜肯尼亚18层坍塌大楼由“中国承建”？不实，中企参与救援",
         "url": "https://www.thepaper.cn/newsDetail_forward_34379118",
         "desc": "",
-        "rank": 11
-      },
-      {
-        "title": "国家文物局：推动实现更多流失文物回归祖国",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34376534",
-        "desc": "",
-        "rank": 12
+        "rank": 10
       },
       {
         "title": "2026新闻日历丨澎湃早晚报合辑（十月）",
         "url": "https://www.thepaper.cn/newsDetail_forward_34367736",
         "desc": "",
-        "rank": 13
+        "rank": 11
       },
       {
         "title": "服药能否代替打疫苗？感染后能用抗生素吗？中疾控发布流感防治8问8答",
         "url": "https://www.thepaper.cn/newsDetail_forward_34380803",
         "desc": "",
-        "rank": 14
+        "rank": 12
       },
       {
         "title": "11月起，这些新规将施行",
         "url": "https://www.thepaper.cn/newsDetail_forward_34377868",
+        "desc": "",
+        "rank": 13
+      },
+      {
+        "title": "中共中央关于持之以恒推进全面从严治党若干重大问题的决定",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34381970",
+        "desc": "",
+        "rank": 14
+      },
+      {
+        "title": "习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34381972",
         "desc": "",
         "rank": 15
       },
@@ -100,26 +100,26 @@
         "rank": 16
       },
       {
-        "title": "媒体：两小伙登山坠亡、救援费至少10万元，目击者讲述过程",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34377753",
-        "desc": "",
-        "rank": 17
-      },
-      {
         "title": "马骁已任母校中国科大双聘教授，系菲尔兹奖得主邓煜团队成员",
         "url": "https://www.thepaper.cn/newsDetail_forward_34380802",
         "desc": "",
-        "rank": 18
+        "rank": 17
       },
       {
         "title": "硅基流动赴港IPO备案申请状态显示为“已接收”，拟冲刺“AI Token工厂第一股”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34376118",
         "desc": "",
-        "rank": 19
+        "rank": 18
       },
       {
         "title": "我国计划在2030年前实现登月！“两次发射、一次登月”方案揭秘",
         "url": "https://www.thepaper.cn/newsDetail_forward_34381327",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "访谈｜郭硕：让“失语的皇后”开口说话",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34204935",
         "desc": "",
         "rank": 20
       }
@@ -222,10 +222,20 @@
         "hotTitle": "BLG晋级8强BP是破局关键吗"
       },
       {
-        "title": "第一次去混浴是什么体验",
-        "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8E%BB%E6%B7%B7%E6%B5%B4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+        "title": "体验全球最火的混浴？真裸泡？！太刺激了吧？！",
+        "url": "https://www.bilibili.com/video/BV1cyxi6gEDN",
         "desc": "",
-        "rank": 7
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "挑战全球最火的混浴，实在太震撼了！！！！！！！！！！！！！！！",
+        "content": "挑战全球最火的混浴，实在太震撼了！！！！！！！！！！！！！！！",
+        "bvid": "BV1cyxi6gEDN",
+        "author": "Super也好君",
+        "duration": "14:39",
+        "cover": "//i1.hdslb.com/bfs/archive/d1d2a2ecb516562905f0701f482bcc252ee2e343.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cyxi6gEDN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "第一次去混浴是什么体验"
       },
       {
         "title": "【S16】鱼入大海，鸟上青霄。BLG真正的领域刚刚到来",
@@ -260,10 +270,20 @@
         "hotTitle": "华南什么时候能入秋"
       },
       {
-        "title": "DeepSeek开源Super-agent原型",
-        "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E6%BA%90Super-agent%E5%8E%9F%E5%9E%8B",
+        "title": "GLM-5.5又有新消息！DeepSeek祭出超级Agent研究原型，开发者看得冷汗直流！",
+        "url": "https://www.bilibili.com/video/BV1Qoxp6XEZs",
         "desc": "",
-        "rank": 10
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Qoxp6XEZs",
+        "author": "黑鸦Heya",
+        "duration": "2:14",
+        "cover": "//i2.hdslb.com/bfs/archive/4a227c9599ca4849a8416182bdee1e5e7a12c39f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qoxp6XEZs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DeepSeek开源Super-agent原型"
       },
       {
         "title": "牧神记109",
@@ -442,10 +462,20 @@
         "hotTitle": "央视频专访绝区零制作人"
       },
       {
-        "title": "锐评BLG战胜HLE晋级八强",
-        "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84BLG%E6%88%98%E8%83%9CHLE%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA",
+        "title": "【真实锐评】BLG战胜HLE晋级八强！剥夺必须剥夺！MSI总比分赢HLE 今天又给你踹成16强！",
+        "url": "https://www.bilibili.com/video/BV118xp63EQZ",
         "desc": "",
-        "rank": 22
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV118xp63EQZ",
+        "author": "真实电竞",
+        "duration": "8:16",
+        "cover": "//i1.hdslb.com/bfs/archive/8bade08f2b4aa16e6b021720ae1afe4ae3ae06a7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV118xp63EQZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "锐评BLG战胜HLE晋级八强"
       },
       {
         "title": "AQ不敌NOVA！S1Mon再次无缘席位！【奶爸侃瓦419】",
@@ -1112,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793531463386,
-    "bilibili": 1793531470473,
-    "qbitai": 1793502752191,
-    "36kr": 1793502752563
+    "thepaper": 1793532363175,
+    "bilibili": 1793531462017,
+    "qbitai": 1793503593176,
+    "36kr": 1793503593521
   },
   "failures": {}
 }
