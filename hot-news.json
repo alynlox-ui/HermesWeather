@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T20:41:33Z",
+  "updatedAt": "2026-10-31T20:56:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,35 +126,35 @@
     ],
     "bilibili": [
       {
-        "title": "牧神记106",
-        "url": "https://www.bilibili.com/video/BV1UQHG6rEZ6",
+        "title": "牧神记 第107集",
+        "url": "https://www.bilibili.com/video/BV19Rx16pEVJ",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1UQHG6rEZ6",
-        "author": "归入云天_",
-        "duration": "17:7",
-        "cover": "//i2.hdslb.com/bfs/archive/2786018a989a72b4a2b0ce2cd569e0672c04918f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UQHG6rEZ6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV19Rx16pEVJ",
+        "author": "埋头追漫2",
+        "duration": "20:52",
+        "cover": "//i1.hdslb.com/bfs/archive/bd2b9c12a539e8e53033db4ef1fb60867cfdf6dc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19Rx16pEVJ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "牧神记村长剑退神祇"
       },
       {
-        "title": "压抑到极致的爆发，BLG晋级淘汰赛！BLG 2-0 HLE 赛后数据雷达图丨2026全球总决赛-瑞士轮",
-        "url": "https://www.bilibili.com/video/BV1Yfxp6HEaF",
+        "title": "锐评S16 BLG战胜HLE晋级淘汰赛：压抑到极致的瞬间燃爆！",
+        "url": "https://www.bilibili.com/video/BV1Ycxx6ZEZ2",
         "desc": "",
         "rank": 2,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Yfxp6HEaF",
-        "author": "苦练李香兰",
-        "duration": "2:45",
-        "cover": "//i1.hdslb.com/bfs/archive/7c15b2f83b10cd0902ce4ab122125494a841e26c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yfxp6HEaF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "求求你给个3连吧！",
+        "content": "求求你给个3连吧！",
+        "bvid": "BV1Ycxx6ZEZ2",
+        "author": "喵仙人ovo",
+        "duration": "8:44",
+        "cover": "//i0.hdslb.com/bfs/archive/dd8e7e8be481e48ada9883313f00f3d80c5aada9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ycxx6ZEZ2&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG战胜HLE晋级淘汰赛"
       },
       {
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "深蓝汽车：10月全球销量32602辆，环比增长8.01%",
+        "url": "https://m.36kr.com/newsflashes/4050664551502729",
+        "desc": "36氪获悉，深蓝汽车宣布，10月全球销量32602辆，环比增长8.01%。",
+        "cover": "",
+        "date": 1793508598000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "蔚来：1-10月交付334,547台，同比增长38.5%",
         "url": "https://m.36kr.com/newsflashes/4050697522762627",
         "desc": "36氪获悉，2026年10月，蔚来公司交付新车34246台，其中，蔚来品牌交付新车18125台；乐道品牌交付新车8383台；firefly萤火虫品牌交付新车7738台。2026年1-10月，蔚来共交付新车334547台，同比增长38.5%，创历史新高。截至目前，蔚来已累计交付新车1332139台。",
@@ -947,7 +957,7 @@
         "date": 1793506956223,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "东风本田：10月销量17026台，环比增长16.9%",
@@ -957,7 +967,7 @@
         "date": 1793506943000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "鸿蒙智行：10月交付新车33537台",
@@ -967,7 +977,7 @@
         "date": 1793506547730,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "极氪：10月交付32483辆，同比增长51.6%",
@@ -977,7 +987,7 @@
         "date": 1793506277258,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "中国—秘鲁自贸协定升级议定书正式生效",
@@ -987,7 +997,7 @@
         "date": 1793505557000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "我国计划在2030年前实现登月！“两次发射、一次登月”方案揭秘",
@@ -997,7 +1007,7 @@
         "date": 1793503955204,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "零跑汽车：10月交付106127台，同比增长51%",
@@ -1007,7 +1017,7 @@
         "date": 1793502824373,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "10月北京二手住宅网签量同比增长8.2%",
@@ -1017,7 +1027,7 @@
         "date": 1793502114000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "三星电子与SK海力士带动韩企股份回购规模激增467.33%",
@@ -1027,7 +1037,7 @@
         "date": 1793501159000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "稳中有进、质效双升，前三季度物流运行数据发布",
@@ -1037,7 +1047,7 @@
         "date": 1793500724185,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "币安称已补回90%被盗资产",
@@ -1047,7 +1057,7 @@
         "date": 1793500662530,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "小鹏集团：10月共交付新车50237台，创单月交付量历史新高",
@@ -1057,7 +1067,7 @@
         "date": 1793499919828,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "张朝阳：关注流是搜狐战略级产品，内容不参与大模型收录",
@@ -1067,7 +1077,7 @@
         "date": 1793499606000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "理想汽车：2026年10月交付29025辆",
@@ -1077,7 +1087,7 @@
         "date": 1793499113192,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "苹果CEO：不会为了做AI而做产品",
@@ -1087,7 +1097,7 @@
         "date": 1793499043076,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "韩国10月出口同比增长93.7%，芯片出口暴涨259%",
@@ -1097,7 +1107,7 @@
         "date": 1793498539662,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "OpenAI宣布ChatGPT部分任务将与Codex共享额度",
@@ -1107,7 +1117,7 @@
         "date": 1793497623000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "小米汽车：10月交付量超5万台",
@@ -1117,7 +1127,7 @@
         "date": 1793496775417,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "“思锐增材”完成千万级Pre-A轮融资",
@@ -1127,25 +1137,15 @@
         "date": 1793496711384,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "阳光私募持仓千余家上市公司，深度梳理16只绩优、超跌、低PE股",
-        "url": "https://m.36kr.com/newsflashes/4050493028865160",
-        "desc": "2026年A股三季报正式收官，阳光私募持仓浮出水面。据数据宝统计，截至目前，共有1120家上市公司前十大流通股东名单中出现阳光私募的身影，合计持仓市值达到2285.28亿元。从单只股票来看，三季度末，阳光私募持仓市值超1亿元的个股共480只。中国石油是阳光私募头号重仓股，持仓市值为43.31亿元，排名居首。从持仓变动来看，上述阳光私募持仓市值超1亿元的股票中，三季度期间阳光私募新进或者增持的股票有177只。结合三季报业绩、市盈率、股价回撤情况来看，阳光私募重仓且新进增持股当中，部分绩优股存在“超跌”情形。上述177只股票中，截至10月30日收盘，滚动市盈率（PE）低于30倍，且今年前三季度净利润同比增长20%以上（含扭亏为盈），同时最新收盘价较年内高点回撤30%以上的有16只。（证券时报）",
-        "cover": "",
-        "date": 1793496150000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793508063073,
-    "bilibili": 1793508071580,
-    "qbitai": 1793479293503,
-    "36kr": 1793479293883
+    "thepaper": 1793508963422,
+    "bilibili": 1793508045175,
+    "qbitai": 1793480193378,
+    "36kr": 1793480193663
   },
   "failures": {}
 }
