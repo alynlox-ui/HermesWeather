@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T02:41:35Z",
+  "updatedAt": "2026-11-01T02:56:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "【2026KPL年度总决赛】10月17日 KSG VS 杭州LGD.NBW",
-        "url": "https://www.bilibili.com/video/BV1TAJq6vEns",
+        "title": "【2026KPL年度总决赛】11月1日 KSG VS 杭州LGD.NBW",
+        "url": "https://www.bilibili.com/video/BV13xx46hEU4",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026KPL年度总决赛】10月17日 KSG VS 杭州LGD.NBW",
-        "content": "【2026KPL年度总决赛】10月17日 KSG VS 杭州LGD.NBW",
-        "bvid": "BV1TAJq6vEns",
+        "description": "【2026KPL年度总决赛】11月1日 KSG VS 杭州LGD.NBW",
+        "content": "【2026KPL年度总决赛】11月1日 KSG VS 杭州LGD.NBW",
+        "bvid": "BV13xx46hEU4",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "125:6",
+        "duration": "79:52",
         "cover": "//i2.hdslb.com/bfs/archive/a7e0063c3f3ce21d1ed75fbe2234a6fd7d62a77a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TAJq6vEns&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13xx46hEU4&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "KSG vs 杭州LGD.NBW KPL"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793529663361,
-    "bilibili": 1793529673511,
-    "qbitai": 1793500894718,
-    "36kr": 1793500895043
+    "thepaper": 1793530564218,
+    "bilibili": 1793529660038,
+    "qbitai": 1793501795408,
+    "36kr": 1793501795785
   },
   "failures": {}
 }
