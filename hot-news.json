@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:56:28Z",
+  "updatedAt": "2026-11-01T07:11:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -334,19 +334,19 @@
         "hotTitle": "星穹铁道音乐大赏"
       },
       {
-        "title": "垃圾国漫 财神窦占龙",
-        "url": "https://www.bilibili.com/video/BV1irbN6DEKJ",
+        "title": "憋宝-七杆八金刚丨外八行最神秘憋宝客",
+        "url": "https://www.bilibili.com/video/BV12J4m1p7CR",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1irbN6DEKJ",
-        "author": "爱国的黑奴",
-        "duration": "2:20",
-        "cover": "//i1.hdslb.com/bfs/archive/49e61763d7964567cf77c68ad5c7dc2f8d79c2de.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1irbN6DEKJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "自幼失去双亲的穷小子窦占龙如何屡获奇遇，练就一身憋宝神功，逆袭成为无宝不识的“财神”的故事。",
+        "content": "自幼失去双亲的穷小子窦占龙如何屡获奇遇，练就一身憋宝神功，逆袭成为无宝不识的“财神”的故事。",
+        "bvid": "BV12J4m1p7CR",
+        "author": "每天有声书",
+        "duration": "747:55",
+        "cover": "//i2.hdslb.com/bfs/archive/b23fa24f42101060cb30c855ac58aebfca5304b8.png",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12J4m1p7CR&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "窦占龙绝境开仙谷"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793544965229,
+    "thepaper": 1793545865305,
     "bilibili": 1793544079682,
-    "qbitai": 1793516187874,
-    "36kr": 1793516188316
+    "qbitai": 1793517085275,
+    "36kr": 1793517094577
   },
   "failures": {}
 }
