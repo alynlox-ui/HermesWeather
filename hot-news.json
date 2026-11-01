@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T22:26:32Z",
+  "updatedAt": "2026-10-31T22:41:29Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,42 +126,26 @@
     ],
     "bilibili": [
       {
-        "title": "[瑞士轮] 全位置数据雷达图丨S16全球总决赛",
-        "url": "https://www.bilibili.com/video/BV1QPxx6dEt5",
+        "title": "【2026IVL秋季赛】 Week5 Day2 DOU5 vs FPX.ZQ",
+        "url": "https://www.bilibili.com/video/BV1E1x168E8E",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1QPxx6dEt5",
-        "author": "苦练李香兰",
-        "duration": "10:38",
-        "cover": "//i1.hdslb.com/bfs/archive/25d9bb667b953b648fb05db94929a1b736623c42.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QPxx6dEt5&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S16瑞士轮全位置数据图"
-      },
-      {
-        "title": "牧神记 第107集",
-        "url": "https://www.bilibili.com/video/BV19Rx16pEVJ",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV19Rx16pEVJ",
-        "author": "埋头追漫2",
-        "duration": "20:52",
-        "cover": "//i1.hdslb.com/bfs/archive/bd2b9c12a539e8e53033db4ef1fb60867cfdf6dc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19Rx16pEVJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "牧神记村长剑退神祇"
+        "description": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
+        "content": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
+        "bvid": "BV1E1x168E8E",
+        "author": "第五人格赛事",
+        "duration": "123:24",
+        "cover": "//i0.hdslb.com/bfs/archive/ec0723f924d881d0800f09e178253cfd8bd5840d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1E1x168E8E&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "WBG vs ASC IVL"
       },
       {
         "title": "美国中期选举大斗法",
         "url": "https://www.bilibili.com/video/BV15Mxn6UEnt",
         "desc": "",
-        "rank": 3,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "本视频提及事件以及信息来源如下： 《特朗普：成为第51个州，委内瑞拉将再次伟大》来自：上观新闻，2026-10-28 14:53发布 《深度丨特朗普连跑红州20次，奥巴马出山压阵，美国中期选举攻防战怎么打？》来自：上观新闻，2026-10-29 19:20发布 《特朗普发布百万美金悬赏：成功举报选举舞弊、促成舞弊者被定罪，将获得100万美元奖励》来自：威海新闻网，2026-10-27 10:02发布 《美媒爆料：绑架马杜罗前，特朗普特地问了AI数小时；AI告诉特朗普，“马杜罗是极不受欢迎的独裁者，许多委内",
@@ -172,6 +156,22 @@
         "cover": "//i0.hdslb.com/bfs/archive/b87a2d6adb8e86c80d46bc2e3e0084be5f080f72.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Mxn6UEnt&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "中期选举对特朗普有多重要"
+      },
+      {
+        "title": "牧神记 第107集",
+        "url": "https://www.bilibili.com/video/BV19Rx16pEVJ",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV19Rx16pEVJ",
+        "author": "埋头追漫2",
+        "duration": "20:52",
+        "cover": "//i1.hdslb.com/bfs/archive/bd2b9c12a539e8e53033db4ef1fb60867cfdf6dc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19Rx16pEVJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "牧神记村长剑退神祇"
       },
       {
         "title": "【真实锐评】BLG战胜HLE晋级八强！剥夺必须剥夺！MSI总比分赢HLE 今天又给你踹成16强！",
@@ -190,26 +190,10 @@
         "hotTitle": "锐评BLG战胜HLE晋级八强"
       },
       {
-        "title": "陶哲轩：AI做数学难题的成功率可能只有5%左右",
-        "url": "https://www.bilibili.com/video/BV1FZxJ6xEcQ",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1FZxJ6xEcQ",
-        "author": "分析学爱好者",
-        "duration": "6:29",
-        "cover": "//i1.hdslb.com/bfs/archive/57a4d8edda46730ca62ef1f56c4618ab27fab0e5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FZxJ6xEcQ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI做数学难题成功率有多高"
-      },
-      {
         "title": "歌剧老师锐评韩娱Aespa、SEVENTEEN、NMIXX、BABYMONSTER",
         "url": "https://www.bilibili.com/video/BV1WRxy6eEwA",
         "desc": "",
-        "rank": 6,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "歌剧老师锐评韩娱Aespa、SEVENTEEN、NMIXX、BABYMONSTER、BIGBANG",
@@ -222,26 +206,74 @@
         "hotTitle": "歌剧老师锐评韩娱"
       },
       {
-        "title": "【2026IVL秋季赛】 Week5 Day2 DOU5 vs FPX.ZQ",
-        "url": "https://www.bilibili.com/video/BV1E1x168E8E",
+        "title": "陶哲轩：AI做数学难题的成功率可能只有5%左右",
+        "url": "https://www.bilibili.com/video/BV1FZxJ6xEcQ",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1FZxJ6xEcQ",
+        "author": "分析学爱好者",
+        "duration": "6:29",
+        "cover": "//i1.hdslb.com/bfs/archive/57a4d8edda46730ca62ef1f56c4618ab27fab0e5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FZxJ6xEcQ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AI做数学难题成功率有多高"
+      },
+      {
+        "title": "[瑞士轮] 全位置数据雷达图丨S16全球总决赛",
+        "url": "https://www.bilibili.com/video/BV1QPxx6dEt5",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
-        "content": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
-        "bvid": "BV1E1x168E8E",
-        "author": "第五人格赛事",
-        "duration": "123:24",
-        "cover": "//i0.hdslb.com/bfs/archive/ec0723f924d881d0800f09e178253cfd8bd5840d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1E1x168E8E&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "WBG vs ASC IVL"
+        "description": "",
+        "content": "",
+        "bvid": "BV1QPxx6dEt5",
+        "author": "苦练李香兰",
+        "duration": "10:38",
+        "cover": "//i1.hdslb.com/bfs/archive/25d9bb667b953b648fb05db94929a1b736623c42.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QPxx6dEt5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S16瑞士轮全位置数据图"
+      },
+      {
+        "title": "BLG vs HLE 晋级八强！Bin奥拉夫捉迷藏绕后砍爆HLE！HLE创造历史MSI冠军16强出局！Game 2 | 2026全球总决赛瑞士轮",
+        "url": "https://www.bilibili.com/video/BV1HWxW6NEKL",
+        "desc": "",
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "相关游戏：英雄联盟",
+        "content": "相关游戏：英雄联盟",
+        "bvid": "BV1HWxW6NEKL",
+        "author": "呆梦demo",
+        "duration": "10:13",
+        "cover": "//i2.hdslb.com/bfs/archive/941789d973aa414af939cb8050ba0639acad03a2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HWxW6NEKL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "HLE MSI冠军历史首次16强出局"
+      },
+      {
+        "title": "体验全球最火的混浴？真裸泡？！太刺激了吧？！",
+        "url": "https://www.bilibili.com/video/BV1cyxi6gEDN",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "挑战全球最火的混浴，实在太震撼了！！！！！！！！！！！！！！！",
+        "content": "挑战全球最火的混浴，实在太震撼了！！！！！！！！！！！！！！！",
+        "bvid": "BV1cyxi6gEDN",
+        "author": "Super也好君",
+        "duration": "14:39",
+        "cover": "//i1.hdslb.com/bfs/archive/d1d2a2ecb516562905f0701f482bcc252ee2e343.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cyxi6gEDN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "第一次去混浴是什么体验"
       },
       {
         "title": "华南想入秋？11月10日这波体验卡，没准就成了",
         "url": "https://www.bilibili.com/video/BV1oPxn6nEcf",
         "desc": "",
-        "rank": 8,
+        "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "这下好了！东北和广东终于在同一天达到33度了，但问题是大兴安岭零下二十几三十度的冷空气为什么灭不掉华南F3三十几度的高温，广东广西的短袖什么时候才能换下来呢？冷空气信用分还能刷出共享单车吗？",
@@ -252,38 +284,6 @@
         "cover": "//i0.hdslb.com/bfs/archive/34b92f1f9cae98481aba80fc6572387e5003f7e2.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oPxn6nEcf&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "华南什么时候能入秋"
-      },
-      {
-        "title": "团伙作案、冲动犯罪！未成年人别再拿年龄当 “免罚护身符”",
-        "url": "https://www.bilibili.com/video/BV1T4xp65EsQ",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "https://www.yspapp.cn/6yNH https://www.yspapp.cn/6yOT https://www.yspapp.cn/6yOX （央视频号：总台电视资讯）",
-        "content": "https://www.yspapp.cn/6yNH https://www.yspapp.cn/6yOT https://www.yspapp.cn/6yOX （央视频号：总台电视资讯）",
-        "bvid": "BV1T4xp65EsQ",
-        "author": "央视频",
-        "duration": "6:13",
-        "cover": "//i1.hdslb.com/bfs/archive/673348142fa71bbe3f19c06289505ef2f30a3b0c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1T4xp65EsQ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "未成年人别拿年龄当犯罪免罚护身符"
-      },
-      {
-        "title": "BLG2:0HLE赛后采访viper：上场比赛，大家都太急着说自己的想法，结果没人愿意听。今天的想法是：无论成败，都要齐心协力共同行动！HLE终要淘汰不如输给我",
-        "url": "https://www.bilibili.com/video/BV1Qfxp6HEpR",
-        "desc": "",
-        "rank": 10,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Qfxp6HEpR",
-        "author": "nefelibataT",
-        "duration": "5:13",
-        "cover": "//i1.hdslb.com/bfs/archive/fce5429449fd4d55e9a351206161ef119186054e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qfxp6HEpR&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Viper说HLE终究要淘汰不如输给我"
       },
       {
         "title": "BLG零封HLE晋级八强！Viper的EZ上演改变时间线的大招！Knight发条大招毁天灭地摧毁HLE！众解说疯狂呐喊：BLG打的就是硬仗！",
@@ -302,42 +302,26 @@
         "hotTitle": "BLG战胜HLE晋级淘汰赛"
       },
       {
-        "title": "压抑到极致的爆发，BLG晋级淘汰赛！BLG 2-0 HLE 赛后数据雷达图丨2026全球总决赛-瑞士轮",
-        "url": "https://www.bilibili.com/video/BV1Yfxp6HEaF",
+        "title": "BLG2:0HLE赛后采访viper：上场比赛，大家都太急着说自己的想法，结果没人愿意听。今天的想法是：无论成败，都要齐心协力共同行动！HLE终要淘汰不如输给我",
+        "url": "https://www.bilibili.com/video/BV1Qfxp6HEpR",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Yfxp6HEaF",
-        "author": "苦练李香兰",
-        "duration": "2:45",
-        "cover": "//i1.hdslb.com/bfs/archive/7c15b2f83b10cd0902ce4ab122125494a841e26c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yfxp6HEaF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "数据回顾BLG战胜HLE"
-      },
-      {
-        "title": "BLG vs HLE 晋级八强！Bin奥拉夫捉迷藏绕后砍爆HLE！HLE创造历史MSI冠军16强出局！Game 2 | 2026全球总决赛瑞士轮",
-        "url": "https://www.bilibili.com/video/BV1HWxW6NEKL",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "相关游戏：英雄联盟",
-        "content": "相关游戏：英雄联盟",
-        "bvid": "BV1HWxW6NEKL",
-        "author": "呆梦demo",
-        "duration": "10:13",
-        "cover": "//i2.hdslb.com/bfs/archive/941789d973aa414af939cb8050ba0639acad03a2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HWxW6NEKL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "HLE MSI冠军历史首次16强出局"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Qfxp6HEpR",
+        "author": "nefelibataT",
+        "duration": "5:13",
+        "cover": "//i1.hdslb.com/bfs/archive/fce5429449fd4d55e9a351206161ef119186054e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qfxp6HEpR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Viper说HLE终究要淘汰不如输给我"
       },
       {
         "title": "披哥唱跳哪家强？姚琛&王赫野舞台后不唱歌！爱玩抽象？丨B站音乐企划",
         "url": "https://www.bilibili.com/video/BV1KuxY6iEsF",
         "desc": "",
-        "rank": 14,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -348,6 +332,22 @@
         "cover": "//i1.hdslb.com/bfs/archive/94ea5f9552b8dbbc8326b77098e5ea87bfeafcf2.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KuxY6iEsF&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "姚琛王赫野闺蜜合拍好抽象"
+      },
+      {
+        "title": "【2026全球总决赛】11月1日 LOS vs LYON",
+        "url": "https://www.bilibili.com/video/BV1gqxH6mEo2",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【2026全球总决赛】11月1日 LOS vs LYON",
+        "content": "【2026全球总决赛】11月1日 LOS vs LYON",
+        "bvid": "BV1gqxH6mEo2",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "duration": "167:46",
+        "cover": "//i0.hdslb.com/bfs/archive/4f78ebf371e6f40b19503c0809cdacf325d7e553.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gqxH6mEo2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "LYON战胜LOS S16瑞士轮"
       },
       {
         "title": "“盯死！”南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
@@ -366,26 +366,42 @@
         "hotTitle": "解放军位黄岩岛战备警巡"
       },
       {
-        "title": "【2026全球总决赛】11月1日 LOS vs LYON",
-        "url": "https://www.bilibili.com/video/BV1gqxH6mEo2",
+        "title": "BLG vs HLE 绝境大翻盘！Gumayusi致命掉点BLG劣势逆转！Knight发条大招拉三人毁天灭地！Game 1 | 2026全球总决赛瑞士轮",
+        "url": "https://www.bilibili.com/video/BV1CYxn6hEE5",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026全球总决赛】11月1日 LOS vs LYON",
-        "content": "【2026全球总决赛】11月1日 LOS vs LYON",
-        "bvid": "BV1gqxH6mEo2",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "167:46",
-        "cover": "//i0.hdslb.com/bfs/archive/4f78ebf371e6f40b19503c0809cdacf325d7e553.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gqxH6mEo2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "LYON战胜LOS S16瑞士轮"
+        "description": "相关游戏：英雄联盟",
+        "content": "相关游戏：英雄联盟",
+        "bvid": "BV1CYxn6hEE5",
+        "author": "呆梦demo",
+        "duration": "14:30",
+        "cover": "//i1.hdslb.com/bfs/archive/6a6d387c6e298dc617f8bde3aa8e2f37bbe002f6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CYxn6hEE5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Knight发条大招4杀"
+      },
+      {
+        "title": "压抑到极致的爆发，BLG晋级淘汰赛！BLG 2-0 HLE 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV1Yfxp6HEaF",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Yfxp6HEaF",
+        "author": "苦练李香兰",
+        "duration": "2:45",
+        "cover": "//i1.hdslb.com/bfs/archive/7c15b2f83b10cd0902ce4ab122125494a841e26c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yfxp6HEaF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "数据回顾BLG战胜HLE"
       },
       {
         "title": "《凡人修仙传》198集逐帧解析,吕洛得知韩立回来,强直脊柱炎再也不弯腰",
         "url": "https://www.bilibili.com/video/BV1kQxk6ZEMr",
         "desc": "",
-        "rank": 17,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -401,7 +417,7 @@
         "title": "全网搬大润发第一人！！！",
         "url": "https://www.bilibili.com/video/BV1sVxv6rEJ7",
         "desc": "",
-        "rank": 18,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -414,106 +430,10 @@
         "hotTitle": "UP主挑战搬空大润发"
       },
       {
-        "title": "BLG vs HLE 绝境大翻盘！Gumayusi致命掉点BLG劣势逆转！Knight发条大招拉三人毁天灭地！Game 1 | 2026全球总决赛瑞士轮",
-        "url": "https://www.bilibili.com/video/BV1CYxn6hEE5",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "相关游戏：英雄联盟",
-        "content": "相关游戏：英雄联盟",
-        "bvid": "BV1CYxn6hEE5",
-        "author": "呆梦demo",
-        "duration": "14:30",
-        "cover": "//i1.hdslb.com/bfs/archive/6a6d387c6e298dc617f8bde3aa8e2f37bbe002f6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CYxn6hEE5&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Knight发条大招4杀"
-      },
-      {
-        "title": "波兰疑似“政变“：总理封锁宪法法院总统强行突破",
-        "url": "https://www.bilibili.com/video/BV1r9xk64E9b",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1r9xk64E9b",
-        "author": "波士顿圆脸",
-        "duration": "14:4",
-        "cover": "//i0.hdslb.com/bfs/archive/5c4adf6cd827c1bbea9fe706413aa0c1eb671eed.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1r9xk64E9b&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "波兰疑似政变风波因何而起"
-      },
-      {
-        "title": "波风水门[九喇嘛连结]优化展示！",
-        "url": "https://www.bilibili.com/video/BV1tkxJ6iEbY",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "优化后的九喇嘛水门情报来袭，快随萌黄一起看看！",
-        "content": "优化后的九喇嘛水门情报来袭，快随萌黄一起看看！",
-        "bvid": "BV1tkxJ6iEbY",
-        "author": "火影忍者手游情报君",
-        "duration": "7:45",
-        "cover": "//i1.hdslb.com/bfs/archive/a645b797ab172f79a07fa3cc41f48597dd5a9d69.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tkxJ6iEbY&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "火影手游金水优化爆料"
-      },
-      {
-        "title": "仁川兄弟《Trouble Faker》瑞士轮晋级结算画面",
-        "url": "https://www.bilibili.com/video/BV1MMxq6XE8g",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "AI生成视频，非真实事件，无不良导向。",
-        "content": "AI生成视频，非真实事件，无不良导向。",
-        "bvid": "BV1MMxq6XE8g",
-        "author": "九夜听风",
-        "duration": "1:45",
-        "cover": "//i2.hdslb.com/bfs/archive/b1ba3256a4b9b6a834c390889213ac392c6cd647.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MMxq6XE8g&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "仁川兄弟晋级八强结算画面"
-      },
-      {
-        "title": "12月14日全球公测 |《白银之城》角色PV - 库拉蒂：愚者与勇者",
-        "url": "https://www.bilibili.com/video/BV1BJnR66Eij",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "值得称颂的骑士，该是副怎样的面貌？ 兔子骑士耷拉着耳朵，想破了脑筋。 跟随智者的引领，她试探前行、步步寻觅。 直到——城市上空响起尖啸，风暴骤临。 她来不及思量，驭马腾空、挥剑直去。 再一次。以行动、以本心，库拉蒂给出了答案。 ---------------------------------- 《白银之城》全球公测正式定档2026年12月14日！ 预约里程碑活动同步开启中，解锁至对应阶段且官方社区与渠道关注数达标后，即可获得全新四星角色、【演绎弹】×20 等奖励。 点击前往预约>>>https:",
-        "content": "值得称颂的骑士，该是副怎样的面貌？ 兔子骑士耷拉着耳朵，想破了脑筋。 跟随智者的引领，她试探前行、步步寻觅。 直到——城市上空响起尖啸，风暴骤临。 她来不及思量，驭马腾空、挥剑直去。 再一次。以行动、以本心，库拉蒂给出了答案。 ---------------------------------- 《白银之城》全球公测正式定档2026年12月14日！ 预约里程碑活动同步开启中，解锁至对应阶段且官方社区与渠道关注数达标后，即可获得全新四星角色、【演绎弹】×20 等奖励。 点击前往预约>>>https:",
-        "bvid": "BV1BJnR66Eij",
-        "author": "白银之城",
-        "duration": "12:15",
-        "cover": "//i1.hdslb.com/bfs/archive/f415efd51b0b48b2d2e5a7f335d624e0b6ed88d7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BJnR66Eij&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "白银之城公测定档PV"
-      },
-      {
-        "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
-        "url": "https://www.bilibili.com/video/BV1Ntxr6xE7Y",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Ntxr6xE7Y",
-        "author": "漫士沉思录",
-        "duration": "70:23",
-        "cover": "//i2.hdslb.com/bfs/archive/e9ec866844e65aafdea59260e181dfa65962c11c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ntxr6xE7Y&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "剖析人类提出过最难的数学题"
-      },
-      {
         "title": "纯黑《影之刃零》逆天者全程无伤一镜到底攻略解说 第一期",
         "url": "https://www.bilibili.com/video/BV1Ntxr6xEjG",
         "desc": "",
-        "rank": 25,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "一周目逆天者难度全程无伤一镜到底攻略解说。 非全收集攻略，但每一期开始前会把之前落下的东西收集全。 一般情况下会根据游戏背景选择会用哪种语言的歌曲做片尾，但奈何自己中文歌听的太少（没有说中文歌不好的意思，死宅一般只听ACG相关歌曲导致的），只能选兼容性较强的英文歌了。",
@@ -526,36 +446,116 @@
         "hotTitle": "纯黑影之刃逆天者全程无伤解说"
       },
       {
-        "title": "体验全球最火的混浴？真裸泡？！太刺激了吧？！",
-        "url": "https://www.bilibili.com/video/BV1cyxi6gEDN",
+        "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
+        "url": "https://www.bilibili.com/video/BV1Ntxr6xE7Y",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Ntxr6xE7Y",
+        "author": "漫士沉思录",
+        "duration": "70:23",
+        "cover": "//i2.hdslb.com/bfs/archive/e9ec866844e65aafdea59260e181dfa65962c11c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ntxr6xE7Y&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "剖析人类提出过最难的数学题"
+      },
+      {
+        "title": "12月14日全球公测 |《白银之城》角色PV - 库拉蒂：愚者与勇者",
+        "url": "https://www.bilibili.com/video/BV1BJnR66Eij",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "值得称颂的骑士，该是副怎样的面貌？ 兔子骑士耷拉着耳朵，想破了脑筋。 跟随智者的引领，她试探前行、步步寻觅。 直到——城市上空响起尖啸，风暴骤临。 她来不及思量，驭马腾空、挥剑直去。 再一次。以行动、以本心，库拉蒂给出了答案。 ---------------------------------- 《白银之城》全球公测正式定档2026年12月14日！ 预约里程碑活动同步开启中，解锁至对应阶段且官方社区与渠道关注数达标后，即可获得全新四星角色、【演绎弹】×20 等奖励。 点击前往预约>>>https:",
+        "content": "值得称颂的骑士，该是副怎样的面貌？ 兔子骑士耷拉着耳朵，想破了脑筋。 跟随智者的引领，她试探前行、步步寻觅。 直到——城市上空响起尖啸，风暴骤临。 她来不及思量，驭马腾空、挥剑直去。 再一次。以行动、以本心，库拉蒂给出了答案。 ---------------------------------- 《白银之城》全球公测正式定档2026年12月14日！ 预约里程碑活动同步开启中，解锁至对应阶段且官方社区与渠道关注数达标后，即可获得全新四星角色、【演绎弹】×20 等奖励。 点击前往预约>>>https:",
+        "bvid": "BV1BJnR66Eij",
+        "author": "白银之城",
+        "duration": "12:15",
+        "cover": "//i1.hdslb.com/bfs/archive/f415efd51b0b48b2d2e5a7f335d624e0b6ed88d7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BJnR66Eij&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "白银之城公测定档PV"
+      },
+      {
+        "title": "仁川兄弟《Trouble Faker》瑞士轮晋级结算画面",
+        "url": "https://www.bilibili.com/video/BV1MMxq6XE8g",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "AI生成视频，非真实事件，无不良导向。",
+        "content": "AI生成视频，非真实事件，无不良导向。",
+        "bvid": "BV1MMxq6XE8g",
+        "author": "九夜听风",
+        "duration": "1:45",
+        "cover": "//i2.hdslb.com/bfs/archive/b1ba3256a4b9b6a834c390889213ac392c6cd647.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MMxq6XE8g&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "仁川兄弟晋级八强结算画面"
+      },
+      {
+        "title": "AI特效、全程尬演，烂片狂捞23亿票房！万字拆解《功夫女足》",
+        "url": "https://www.bilibili.com/video/BV1DSxz6aET2",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "第115期【烂片有约】，感谢观看~ 谢谢@文拾Hiro 的美妙音乐!",
+        "content": "第115期【烂片有约】，感谢观看~ 谢谢@文拾Hiro 的美妙音乐!",
+        "bvid": "BV1DSxz6aET2",
+        "author": "迪普_official",
+        "duration": "26:21",
+        "cover": "//i2.hdslb.com/bfs/archive/b3b471c6842c82584342a183d56eb53d83035b4a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DSxz6aET2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "23亿票房的功夫女足是烂片吗"
+      },
+      {
+        "title": "波风水门[九喇嘛连结]优化展示！",
+        "url": "https://www.bilibili.com/video/BV1tkxJ6iEbY",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "优化后的九喇嘛水门情报来袭，快随萌黄一起看看！",
+        "content": "优化后的九喇嘛水门情报来袭，快随萌黄一起看看！",
+        "bvid": "BV1tkxJ6iEbY",
+        "author": "火影忍者手游情报君",
+        "duration": "7:45",
+        "cover": "//i1.hdslb.com/bfs/archive/a645b797ab172f79a07fa3cc41f48597dd5a9d69.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tkxJ6iEbY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "火影手游金水优化爆料"
+      },
+      {
+        "title": "波兰疑似“政变“：总理封锁宪法法院总统强行突破",
+        "url": "https://www.bilibili.com/video/BV1r9xk64E9b",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "挑战全球最火的混浴，实在太震撼了！！！！！！！！！！！！！！！",
-        "content": "挑战全球最火的混浴，实在太震撼了！！！！！！！！！！！！！！！",
-        "bvid": "BV1cyxi6gEDN",
-        "author": "Super也好君",
-        "duration": "14:39",
-        "cover": "//i1.hdslb.com/bfs/archive/d1d2a2ecb516562905f0701f482bcc252ee2e343.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cyxi6gEDN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "第一次去混浴是什么体验"
+        "description": "",
+        "content": "",
+        "bvid": "BV1r9xk64E9b",
+        "author": "波士顿圆脸",
+        "duration": "14:4",
+        "cover": "//i0.hdslb.com/bfs/archive/5c4adf6cd827c1bbea9fe706413aa0c1eb671eed.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1r9xk64E9b&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "波兰疑似政变风波因何而起"
       },
       {
-        "title": "新歌略显疲态?！鸣潮音乐大赏Vol.06｜职业音乐制作人Reaction听评畅聊【乐赏LIVE】",
-        "url": "https://www.bilibili.com/video/BV1avxk6zE3i",
+        "title": "【丧病中配】当2077的CV来配音《赛博朋克：边缘行者2》（第一话）",
+        "url": "https://www.bilibili.com/video/BV1VaxY6DE5v",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "本期视频里出现的歌曲是高赞粉丝推荐的鸣潮游戏中的歌曲配乐，以直播的形式进行Reaction的直播精剪回放。所有歌曲都是我第一次收听，所以反应与感受分享等都是即时的，可能存在部分不严谨与错误，欢迎/感谢大家指正；同时我从职业音乐制作人的角度身份和大家一起品鉴、赏析、畅聊这些歌曲中我的一些发现、感受与收获灵感时的即兴演奏/改编 ~ 欢迎各位同好在弹幕评论区继续交流分享你们的鸣潮必听榜！ *时间戳个人推荐曲目用❤标注；个人向本场最喜欢的歌曲用♛标注。 最后想要系统学习音乐制作的同学朋友也欢迎查看支持我的线上",
-        "content": "本期视频里出现的歌曲是高赞粉丝推荐的鸣潮游戏中的歌曲配乐，以直播的形式进行Reaction的直播精剪回放。所有歌曲都是我第一次收听，所以反应与感受分享等都是即时的，可能存在部分不严谨与错误，欢迎/感谢大家指正；同时我从职业音乐制作人的角度身份和大家一起品鉴、赏析、畅聊这些歌曲中我的一些发现、感受与收获灵感时的即兴演奏/改编 ~ 欢迎各位同好在弹幕评论区继续交流分享你们的鸣潮必听榜！ *时间戳个人推荐曲目用❤标注；个人向本场最喜欢的歌曲用♛标注。 最后想要系统学习音乐制作的同学朋友也欢迎查看支持我的线上",
-        "bvid": "BV1avxk6zE3i",
-        "author": "天秤Dav",
-        "duration": "78:5",
-        "cover": "//i2.hdslb.com/bfs/archive/4b0acda1e3a359b0b7429dab65117ebd711a78bc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1avxk6zE3i&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "职业音乐人赏析鸣潮歌曲配乐"
+        "description": "本视频仅供娱乐，非商业用途 有幸邀请专业的CV大佬们一起玩配音，本视频点赞过5万，继续更新第二话~ CAST： 金王：@冷泉夜月 罗曼、塔莉亚：@Kii崽 CV张琦 D：@刘照坤Jock 米格尔、医生：@山中大虎 CV淦子齐 萨尔：@配音演员虞晓旭 梅舒加、车祸路人、荒坂安保：@配音演员杨帅 杰西、创伤小组：@菇力帕君 艾米莉、护士：@楼倾司 漩漩、荒坂安保：@弥雲 涡涡、暴恐机动队、荒坂安保：@Caruso 电台、荒坂安保、混混、帮帮：嘟督 STAFF： 台词改",
+        "content": "本视频仅供娱乐，非商业用途 有幸邀请专业的CV大佬们一起玩配音，本视频点赞过5万，继续更新第二话~ CAST： 金王：@冷泉夜月 罗曼、塔莉亚：@Kii崽 CV张琦 D：@刘照坤Jock 米格尔、医生：@山中大虎 CV淦子齐 萨尔：@配音演员虞晓旭 梅舒加、车祸路人、荒坂安保：@配音演员杨帅 杰西、创伤小组：@菇力帕君 艾米莉、护士：@楼倾司 漩漩、荒坂安保：@弥雲 涡涡、暴恐机动队、荒坂安保：@Caruso 电台、荒坂安保、混混、帮帮：嘟督 STAFF： 台词改",
+        "bvid": "BV1VaxY6DE5v",
+        "author": "嘟督不噶油",
+        "duration": "21:19",
+        "cover": "//i2.hdslb.com/bfs/archive/28e67265d48140bec1643fbff8df21840cbb4d44.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VaxY6DE5v&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "当2077的CV来配音边缘行者2"
       },
       {
         "title": "公司给粉丝安排了35万元的游艇…",
@@ -574,20 +574,20 @@
         "hotTitle": "UP主挑战和粉丝包下一座游艇"
       },
       {
-        "title": "【丧病中配】当2077的CV来配音《赛博朋克：边缘行者2》（第一话）",
-        "url": "https://www.bilibili.com/video/BV1VaxY6DE5v",
+        "title": "一条视频看10月世界：中东在燃烧，法国在骚乱，中国网友在跨国吵架",
+        "url": "https://www.bilibili.com/video/BV1rCxe6wEN9",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "本视频仅供娱乐，非商业用途 有幸邀请专业的CV大佬们一起玩配音，本视频点赞过5万，继续更新第二话~ CAST： 金王：@冷泉夜月 罗曼、塔莉亚：@Kii崽 CV张琦 D：@刘照坤Jock 米格尔、医生：@山中大虎 CV淦子齐 萨尔：@配音演员虞晓旭 梅舒加、车祸路人、荒坂安保：@配音演员杨帅 杰西、创伤小组：@菇力帕君 艾米莉、护士：@楼倾司 漩漩、荒坂安保：@弥雲 涡涡、暴恐机动队、荒坂安保：@Caruso 电台、荒坂安保、混混、帮帮：嘟督 STAFF： 台词改",
-        "content": "本视频仅供娱乐，非商业用途 有幸邀请专业的CV大佬们一起玩配音，本视频点赞过5万，继续更新第二话~ CAST： 金王：@冷泉夜月 罗曼、塔莉亚：@Kii崽 CV张琦 D：@刘照坤Jock 米格尔、医生：@山中大虎 CV淦子齐 萨尔：@配音演员虞晓旭 梅舒加、车祸路人、荒坂安保：@配音演员杨帅 杰西、创伤小组：@菇力帕君 艾米莉、护士：@楼倾司 漩漩、荒坂安保：@弥雲 涡涡、暴恐机动队、荒坂安保：@Caruso 电台、荒坂安保、混混、帮帮：嘟督 STAFF： 台词改",
-        "bvid": "BV1VaxY6DE5v",
-        "author": "嘟督不噶油",
-        "duration": "21:19",
-        "cover": "//i2.hdslb.com/bfs/archive/28e67265d48140bec1643fbff8df21840cbb4d44.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VaxY6DE5v&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "当2077的CV来配音边缘行者2"
+        "description": "一键三连推荐给更多朋友！",
+        "content": "一键三连推荐给更多朋友！",
+        "bvid": "BV1rCxe6wEN9",
+        "author": "小王Albert",
+        "duration": "29:6",
+        "cover": "//i2.hdslb.com/bfs/archive/65f31c4f47288b3e997dddd97ec92011c6676485.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rCxe6wEN9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "王骁谈特朗普中期选举处境"
       },
       {
         "title": "AI预测BLG VS HLE丨S16十六强生死一战，AI如何BP？谁是突破口？谁又是关键人物？图一乐继续",
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "7只沪市主动ETF已正式成立",
+        "url": "https://m.36kr.com/newsflashes/4050825708802951",
+        "desc": "沪市9只主动ETF完成募集后，部分产品已陆续成立并启动建仓。证券时报记者获悉，截至10月30日，沪市已有7只主动ETF成立，其中，摩根、易方达、华夏、平安等管理人旗下主动ETF已启动建仓，其他产品也将陆续成立并开始建仓。（证券时报）",
+        "cover": "",
+        "date": 1793514797867,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "都铎投资旗下Xantium计划分拆900亿美元对冲基金",
         "url": "https://m.36kr.com/newsflashes/4050793841578883",
         "desc": "都铎投资旗下Xantium计划分拆900亿美元对冲基金。（新浪财经）",
@@ -947,7 +957,7 @@
         "date": 1793513849000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "险资三季度新进重仓股出炉，中国人寿新进宁德时代",
@@ -957,7 +967,7 @@
         "date": 1793512242046,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "B站举办第四届超级科学晚，站内科学内容累计观看时长超23亿小时",
@@ -967,7 +977,7 @@
         "date": 1793510987000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "澳洲房屋拍卖成交率跌至六年低位",
@@ -977,7 +987,7 @@
         "date": 1793509484000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "深蓝汽车：10月全球销量32602辆，环比增长8.01%",
@@ -987,7 +997,7 @@
         "date": 1793508598000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "蔚来：1-10月交付334,547台，同比增长38.5%",
@@ -997,7 +1007,7 @@
         "date": 1793506956223,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "东风本田：10月销量17026台，环比增长16.9%",
@@ -1007,7 +1017,7 @@
         "date": 1793506943000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "鸿蒙智行：10月交付新车33537台",
@@ -1017,7 +1027,7 @@
         "date": 1793506547730,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "极氪：10月交付32483辆，同比增长51.6%",
@@ -1027,7 +1037,7 @@
         "date": 1793506277258,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "中国—秘鲁自贸协定升级议定书正式生效",
@@ -1037,7 +1047,7 @@
         "date": 1793505557000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "我国计划在2030年前实现登月！“两次发射、一次登月”方案揭秘",
@@ -1047,7 +1057,7 @@
         "date": 1793503955204,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "零跑汽车：10月交付106127台，同比增长51%",
@@ -1057,7 +1067,7 @@
         "date": 1793502824373,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "10月北京二手住宅网签量同比增长8.2%",
@@ -1067,7 +1077,7 @@
         "date": 1793502114000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "三星电子与SK海力士带动韩企股份回购规模激增467.33%",
@@ -1077,7 +1087,7 @@
         "date": 1793501159000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "稳中有进、质效双升，前三季度物流运行数据发布",
@@ -1087,7 +1097,7 @@
         "date": 1793500724185,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "币安称已补回90%被盗资产",
@@ -1097,7 +1107,7 @@
         "date": 1793500662530,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "小鹏集团：10月共交付新车50237台，创单月交付量历史新高",
@@ -1107,7 +1117,7 @@
         "date": 1793499919828,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "张朝阳：关注流是搜狐战略级产品，内容不参与大模型收录",
@@ -1117,7 +1127,7 @@
         "date": 1793499606000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "理想汽车：2026年10月交付29025辆",
@@ -1127,25 +1137,15 @@
         "date": 1793499113192,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "苹果CEO：不会为了做AI而做产品",
-        "url": "https://m.36kr.com/newsflashes/4050567873762180",
-        "desc": "苹果CEO约翰·特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在AI赛道落后，尤其是苹果推迟推出更强版本的Siri，该功能直到今年夏天才正式上线。特努斯是苹果资深高管，9月初正式出任CEO。他承认“每个人都有自己的看法”，但坚称：“我对我们现在所处的阶段很满意。”特努斯补充，苹果一定会在新产品中运用人工智能，但他表示：“我们不想为了做AI而推出AI。如果我们做得好，用户不会去思考这个功能到底是AI实现的，还是传统软件实现的。重点在于，我们是否打造出用户真正喜爱的产品。”当被问及AI是否会对苹果及其生态带来颠覆性改变，比如智能体可能让应用程序变得不再必要时，特努斯回应：“我想那或许会让生活变得十分便捷，但产品打造是一件极具人文色彩、充满个人创意的事，也是我们热爱的事业。”（新浪财经）",
-        "cover": "",
-        "date": 1793499043076,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793514363022,
-    "bilibili": 1793513448873,
-    "qbitai": 1793485592418,
-    "36kr": 1793485592785
+    "thepaper": 1793515263378,
+    "bilibili": 1793515273363,
+    "qbitai": 1793486489006,
+    "36kr": 1793486489307
   },
   "failures": {}
 }
