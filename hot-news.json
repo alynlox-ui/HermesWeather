@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T04:56:33Z",
+  "updatedAt": "2026-11-01T05:11:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,20 +126,20 @@
     ],
     "bilibili": [
       {
-        "title": "什么鬼签！居然要打内战了！IG VS TES 比赛数据前瞻 | S16八强淘汰赛抽签",
-        "url": "https://www.bilibili.com/video/BV1nHxW6iEnx",
+        "title": "BLG终于晋级，HLE开启疯狂水世界，淘汰赛抽签锐评【火兰吐槽】",
+        "url": "https://www.bilibili.com/video/BV1hmxx64E19",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "什么鬼签！居然要打内战了！IG VS TES 比赛数据前瞻 | S16淘汰赛抽签",
-        "content": "什么鬼签！居然要打内战了！IG VS TES 比赛数据前瞻 | S16淘汰赛抽签",
-        "bvid": "BV1nHxW6iEnx",
-        "author": "_江之岛盾子_",
-        "duration": "1:46",
-        "cover": "//i0.hdslb.com/bfs/archive/3e2904a4c1a3e11638d1fd6e5a6474f96f58a5b5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nHxW6iEnx&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "淘汰赛首场TES内战IG"
+        "description": "",
+        "content": "",
+        "bvid": "BV1hmxx64E19",
+        "author": "火兰朋克",
+        "duration": "5:3",
+        "cover": "//i1.hdslb.com/bfs/archive/f8a48762c801e87a5440e5a031c7c32a4e5c13be.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hmxx64E19&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "火兰朋克锐评LPL淘汰赛签运"
       },
       {
         "title": "关于iPhone Duo爆屏，我们从供应链挖到了点新东西【X.PIN】",
@@ -158,20 +158,20 @@
         "hotTitle": "供应链视角看苹果折叠屏问题在哪"
       },
       {
-        "title": "Intel：大崩盘",
-        "url": "https://www.bilibili.com/video/BV1jWxJ6UEdW",
+        "title": "以后只有有钱人才能做数学？AI时代年轻数学家的生存危机",
+        "url": "https://www.bilibili.com/video/BV1Yfxp6HEcg",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "Intel 2026Q3财报专题解析 因为想把一期内容讲清楚，再加上AI时代纯手搓视频，找资料+信息核对+写文案+录人声+音频后期+找画面素材+视频后期，一个人做比较花时间，你的投币是全职UP主的更新动力！",
-        "content": "Intel 2026Q3财报专题解析 因为想把一期内容讲清楚，再加上AI时代纯手搓视频，找资料+信息核对+写文案+录人声+音频后期+找画面素材+视频后期，一个人做比较花时间，你的投币是全职UP主的更新动力！",
-        "bvid": "BV1jWxJ6UEdW",
-        "author": "蒸気火鸡",
-        "duration": "2:37",
-        "cover": "//i0.hdslb.com/bfs/archive/98d244732eab7041eff7d79224ac34101fc7bfd4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jWxJ6UEdW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "英特尔股价为何大跌"
+        "description": "视频中提到的文章： 《Math is for Feeding your Family》（数学家也要养家糊口） 作者：匿名青年数学研究者 发表于 Proofs and Prompts，2026年10月30日。 原文：https://proofsandprompts.com/2026/10/30/math-is-for-feeding-your-family/",
+        "content": "视频中提到的文章： 《Math is for Feeding your Family》（数学家也要养家糊口） 作者：匿名青年数学研究者 发表于 Proofs and Prompts，2026年10月30日。 原文：https://proofsandprompts.com/2026/10/30/math-is-for-feeding-your-family/",
+        "bvid": "BV1Yfxp6HEcg",
+        "author": "钰子一",
+        "duration": "7:20",
+        "cover": "//i2.hdslb.com/bfs/archive/1a52f0fbb719b84d515248a6cdb1a75de220f118.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yfxp6HEcg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AI真的让科研更公平了吗"
       },
       {
         "title": "Bin:都说Zeus是世一上 今天我击败了他 我就接替他了！目标击败每一支韩国队然后夺冠！",
@@ -190,42 +190,26 @@
         "hotTitle": "Bin说击败Zeus接替世一上"
       },
       {
-        "title": "以后只有有钱人才能做数学？AI时代年轻数学家的生存危机",
-        "url": "https://www.bilibili.com/video/BV1Yfxp6HEcg",
+        "title": "什么鬼签！居然要打内战了！IG VS TES 比赛数据前瞻 | S16八强淘汰赛抽签",
+        "url": "https://www.bilibili.com/video/BV1nHxW6iEnx",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "视频中提到的文章： 《Math is for Feeding your Family》（数学家也要养家糊口） 作者：匿名青年数学研究者 发表于 Proofs and Prompts，2026年10月30日。 原文：https://proofsandprompts.com/2026/10/30/math-is-for-feeding-your-family/",
-        "content": "视频中提到的文章： 《Math is for Feeding your Family》（数学家也要养家糊口） 作者：匿名青年数学研究者 发表于 Proofs and Prompts，2026年10月30日。 原文：https://proofsandprompts.com/2026/10/30/math-is-for-feeding-your-family/",
-        "bvid": "BV1Yfxp6HEcg",
-        "author": "钰子一",
-        "duration": "7:20",
-        "cover": "//i2.hdslb.com/bfs/archive/1a52f0fbb719b84d515248a6cdb1a75de220f118.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yfxp6HEcg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI真的让科研更公平了吗"
-      },
-      {
-        "title": "黑人牙膏脸是什么梗【梗指南】",
-        "url": "https://www.bilibili.com/video/BV1tax464Ef3",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "黑人牙膏脸是什么梗 *本视频仅作为了解该梗的辅助，不能仅靠该视频作为对该梗的全面了解，真正深入了解可以观看原出处以及更多方面~",
-        "content": "黑人牙膏脸是什么梗 *本视频仅作为了解该梗的辅助，不能仅靠该视频作为对该梗的全面了解，真正深入了解可以观看原出处以及更多方面~",
-        "bvid": "BV1tax464Ef3",
-        "author": "梗指南",
-        "duration": "1:37",
-        "cover": "//i2.hdslb.com/bfs/archive/ca7d2825fba927304b7aa5a22e600f2c497c8545.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tax464Ef3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "黑人牙膏脸是什么梗"
+        "description": "什么鬼签！居然要打内战了！IG VS TES 比赛数据前瞻 | S16淘汰赛抽签",
+        "content": "什么鬼签！居然要打内战了！IG VS TES 比赛数据前瞻 | S16淘汰赛抽签",
+        "bvid": "BV1nHxW6iEnx",
+        "author": "_江之岛盾子_",
+        "duration": "1:46",
+        "cover": "//i0.hdslb.com/bfs/archive/3e2904a4c1a3e11638d1fd6e5a6474f96f58a5b5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nHxW6iEnx&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "淘汰赛首场TES内战IG"
       },
       {
         "title": "S16 iG交换队服合集",
         "url": "https://www.bilibili.com/video/BV1sVxH6PEMj",
         "desc": "",
-        "rank": 7,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -238,52 +222,68 @@
         "hotTitle": "IG瑞士轮交换了几次队服"
       },
       {
-        "title": "为什么叫“APEC领导人非正式会议”？“非正式”反而最重要？",
-        "url": "https://www.bilibili.com/video/BV1gJxu6rEAk",
+        "title": "黑人牙膏脸是什么梗【梗指南】",
+        "url": "https://www.bilibili.com/video/BV1tax464Ef3",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "黑人牙膏脸是什么梗 *本视频仅作为了解该梗的辅助，不能仅靠该视频作为对该梗的全面了解，真正深入了解可以观看原出处以及更多方面~",
+        "content": "黑人牙膏脸是什么梗 *本视频仅作为了解该梗的辅助，不能仅靠该视频作为对该梗的全面了解，真正深入了解可以观看原出处以及更多方面~",
+        "bvid": "BV1tax464Ef3",
+        "author": "梗指南",
+        "duration": "1:37",
+        "cover": "//i2.hdslb.com/bfs/archive/ca7d2825fba927304b7aa5a22e600f2c497c8545.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tax464Ef3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "黑人牙膏脸是什么梗"
+      },
+      {
+        "title": "Intel：大崩盘",
+        "url": "https://www.bilibili.com/video/BV1jWxJ6UEdW",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "继2001年上海和2014年北京后，今年APEC领导人非正式会议再次落地中国，来到改革开放的前沿阵地——深圳。",
-        "content": "继2001年上海和2014年北京后，今年APEC领导人非正式会议再次落地中国，来到改革开放的前沿阵地——深圳。",
-        "bvid": "BV1gJxu6rEAk",
-        "author": "小Q不是导盲犬",
-        "duration": "5:18",
-        "cover": "//i2.hdslb.com/bfs/archive/979ab0be6487dece5316c8317fffe06034ecb315.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gJxu6rEAk&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "APEC领导人会议为何强调非正式"
+        "description": "Intel 2026Q3财报专题解析 因为想把一期内容讲清楚，再加上AI时代纯手搓视频，找资料+信息核对+写文案+录人声+音频后期+找画面素材+视频后期，一个人做比较花时间，你的投币是全职UP主的更新动力！",
+        "content": "Intel 2026Q3财报专题解析 因为想把一期内容讲清楚，再加上AI时代纯手搓视频，找资料+信息核对+写文案+录人声+音频后期+找画面素材+视频后期，一个人做比较花时间，你的投币是全职UP主的更新动力！",
+        "bvid": "BV1jWxJ6UEdW",
+        "author": "蒸気火鸡",
+        "duration": "2:37",
+        "cover": "//i0.hdslb.com/bfs/archive/98d244732eab7041eff7d79224ac34101fc7bfd4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jWxJ6UEdW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "英特尔股价为何大跌"
       },
       {
-        "title": "战爵士6分5篮板1助攻1抢断丨杨瀚森给管理层争了口气",
-        "url": "https://www.bilibili.com/video/BV1dMxp6xEuw",
+        "title": "⚡马斯克&黄仁勋《Trouble Maker》⚡【AI MV大赛】",
+        "url": "https://www.bilibili.com/video/BV1VSxr63ENv",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "开拓者客场轻取爵士队，杨瀚森出场13分4秒，得到6分，5篮板1助攻1抢断，表现出色。诺里教练承认上一场使用错误，回应管理层对杨瀚森的期待。杨瀚森战爵士有哪些表现和问题。我们一起来看。",
-        "content": "开拓者客场轻取爵士队，杨瀚森出场13分4秒，得到6分，5篮板1助攻1抢断，表现出色。诺里教练承认上一场使用错误，回应管理层对杨瀚森的期待。杨瀚森战爵士有哪些表现和问题。我们一起来看。",
-        "bvid": "BV1dMxp6xEuw",
-        "author": "王视角",
-        "duration": "2:52",
-        "cover": "//i2.hdslb.com/bfs/archive/7b3f31e50211b37746caf359ed39ed882fddcb89.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dMxp6xEuw&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "诺里承认未用杨瀚森是失误"
+        "description": "I is back. 跑线下断更了几天 GPT越来越蠢了浪费了我好多时间和Token💢",
+        "content": "I is back. 跑线下断更了几天 GPT越来越蠢了浪费了我好多时间和Token💢",
+        "bvid": "BV1VSxr63ENv",
+        "author": "Claude最严厉的父亲",
+        "duration": "2:12",
+        "cover": "//i0.hdslb.com/bfs/archive/fea5a655682a0567efec8a4a4316b91ce348ffea.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VSxr63ENv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "马斯克黄仁勋Trouble Maker"
       },
       {
-        "title": "准备就绪！首届CMG世界机器人登泰山大赛明日开赛",
-        "url": "https://www.bilibili.com/video/BV1S8x46oEZW",
+        "title": "【高下立判】UR 0-3 NOVA 等级森严！NOVA降维打击UR重回VCT",
+        "url": "https://www.bilibili.com/video/BV1uQxx69EMX",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1S8x46oEZW",
-        "author": "央视新闻",
-        "duration": "1:7",
-        "cover": "//i2.hdslb.com/bfs/archive/5a8650187bb3663e653d8a374be895983b40ea27.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1S8x46oEZW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "首届CMG世界机器人登泰山大赛来了"
+        "bvid": "BV1uQxx69EMX",
+        "author": "小徐还在绕",
+        "duration": "3:7",
+        "cover": "//i2.hdslb.com/bfs/archive/c04f99905be14422c01f79606ea082ae9e6bcab4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uQxx69EMX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "NOVA战胜UR VCT晋升赛"
       },
       {
         "title": "牧神记109",
@@ -302,36 +302,36 @@
         "hotTitle": "牧神记村长剑退神祇"
       },
       {
-        "title": "体验全球最火的混浴？真裸泡？！太刺激了吧？！",
-        "url": "https://www.bilibili.com/video/BV1cyxi6gEDN",
+        "title": "战爵士6分5篮板1助攻1抢断丨杨瀚森给管理层争了口气",
+        "url": "https://www.bilibili.com/video/BV1dMxp6xEuw",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "挑战全球最火的混浴，实在太震撼了！！！！！！！！！！！！！！！",
-        "content": "挑战全球最火的混浴，实在太震撼了！！！！！！！！！！！！！！！",
-        "bvid": "BV1cyxi6gEDN",
-        "author": "Super也好君",
-        "duration": "14:39",
-        "cover": "//i1.hdslb.com/bfs/archive/d1d2a2ecb516562905f0701f482bcc252ee2e343.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cyxi6gEDN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "第一次去混浴是什么体验"
+        "description": "开拓者客场轻取爵士队，杨瀚森出场13分4秒，得到6分，5篮板1助攻1抢断，表现出色。诺里教练承认上一场使用错误，回应管理层对杨瀚森的期待。杨瀚森战爵士有哪些表现和问题。我们一起来看。",
+        "content": "开拓者客场轻取爵士队，杨瀚森出场13分4秒，得到6分，5篮板1助攻1抢断，表现出色。诺里教练承认上一场使用错误，回应管理层对杨瀚森的期待。杨瀚森战爵士有哪些表现和问题。我们一起来看。",
+        "bvid": "BV1dMxp6xEuw",
+        "author": "王视角",
+        "duration": "2:52",
+        "cover": "//i2.hdslb.com/bfs/archive/7b3f31e50211b37746caf359ed39ed882fddcb89.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dMxp6xEuw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "诺里承认未用杨瀚森是失误"
       },
       {
-        "title": "【中字】韩网众解说崩溃看HLE被零封淘汰，BLG第二把直接把HLE打成人机，LCK二号居然16强了！",
-        "url": "https://www.bilibili.com/video/BV1U4xp6VEbM",
+        "title": "耗时9天，我拼出了终极版复仇者大厦！",
+        "url": "https://www.bilibili.com/video/BV1qbxy6HENK",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1U4xp6VEbM",
-        "author": "散养的豆包",
-        "duration": "15:38",
-        "cover": "//i1.hdslb.com/bfs/archive/c2fa5c1c8e38096ec9c94748b14e0ea08f90250b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1U4xp6VEbM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "韩国解说看BLG零封HLE"
+        "description": "哪个漫威迷不想拥有一座终极版的复仇者大厦呢！",
+        "content": "哪个漫威迷不想拥有一座终极版的复仇者大厦呢！",
+        "bvid": "BV1qbxy6HENK",
+        "author": "炒蛋车间长",
+        "duration": "14:23",
+        "cover": "//i2.hdslb.com/bfs/archive/1996803b11af59208c5564dbae2cc9a9eb744b05.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qbxy6HENK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主用乐高拼漫威复仇者大厦"
       },
       {
         "title": "重返乱星海时的韩立。",
@@ -398,52 +398,52 @@
         "hotTitle": "S16瑞士轮全位置数据图"
       },
       {
-        "title": "美国中期选举大斗法",
-        "url": "https://www.bilibili.com/video/BV15Mxn6UEnt",
+        "title": "【真实锐评】BLG战胜HLE晋级八强！剥夺必须剥夺！MSI总比分赢HLE 今天又给你踹成16强！",
+        "url": "https://www.bilibili.com/video/BV118xp63EQZ",
         "desc": "",
         "rank": 18,
         "kind": "video",
         "platform": "bilibili",
-        "description": "本视频提及事件以及信息来源如下： 《特朗普：成为第51个州，委内瑞拉将再次伟大》来自：上观新闻，2026-10-28 14:53发布 《深度丨特朗普连跑红州20次，奥巴马出山压阵，美国中期选举攻防战怎么打？》来自：上观新闻，2026-10-29 19:20发布 《特朗普发布百万美金悬赏：成功举报选举舞弊、促成舞弊者被定罪，将获得100万美元奖励》来自：威海新闻网，2026-10-27 10:02发布 《美媒爆料：绑架马杜罗前，特朗普特地问了AI数小时；AI告诉特朗普，“马杜罗是极不受欢迎的独裁者，许多委内",
-        "content": "本视频提及事件以及信息来源如下： 《特朗普：成为第51个州，委内瑞拉将再次伟大》来自：上观新闻，2026-10-28 14:53发布 《深度丨特朗普连跑红州20次，奥巴马出山压阵，美国中期选举攻防战怎么打？》来自：上观新闻，2026-10-29 19:20发布 《特朗普发布百万美金悬赏：成功举报选举舞弊、促成舞弊者被定罪，将获得100万美元奖励》来自：威海新闻网，2026-10-27 10:02发布 《美媒爆料：绑架马杜罗前，特朗普特地问了AI数小时；AI告诉特朗普，“马杜罗是极不受欢迎的独裁者，许多委内",
-        "bvid": "BV15Mxn6UEnt",
-        "author": "燕三嘤嘤嘤",
-        "duration": "40:40",
-        "cover": "//i0.hdslb.com/bfs/archive/b87a2d6adb8e86c80d46bc2e3e0084be5f080f72.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Mxn6UEnt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中期选举对特朗普有多重要"
+        "description": "",
+        "content": "",
+        "bvid": "BV118xp63EQZ",
+        "author": "真实电竞",
+        "duration": "8:16",
+        "cover": "//i1.hdslb.com/bfs/archive/8bade08f2b4aa16e6b021720ae1afe4ae3ae06a7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV118xp63EQZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "锐评BLG战胜HLE晋级八强"
       },
       {
-        "title": "越来越卷，死磕大厂还值吗？打工3年真实感受",
-        "url": "https://www.bilibili.com/video/BV1QHsX6NEUL",
+        "title": "LYON晋级淘汰赛！LYON 2-1 LOS 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV14GxW6kEMt",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！",
-        "content": "你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！",
-        "bvid": "BV1QHsX6NEUL",
-        "author": "月亮猹-",
-        "duration": "10:23",
-        "cover": "//i2.hdslb.com/bfs/archive/e66053425d8fdeaa6889a92007c693de995781c1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QHsX6NEUL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大学生就业卷大厂还值得吗"
+        "description": "",
+        "content": "",
+        "bvid": "BV14GxW6kEMt",
+        "author": "苦练李香兰",
+        "duration": "3:17",
+        "cover": "//i0.hdslb.com/bfs/archive/7fd014e41e70256416f57baa3f88199f604169eb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14GxW6kEMt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "LYON战胜LOS S16瑞士轮"
       },
       {
-        "title": "【狗蛋的游戏评测】影之刃零—破局",
-        "url": "https://www.bilibili.com/video/BV1wvxC6bEws",
+        "title": "不是所有IP都叫CPOPwave 绝区零匠心雕琢的用户品质口碑正在绵延生长",
+        "url": "https://www.bilibili.com/video/BV12Axk6hEhg",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "总之，当务之急是睡觉",
-        "content": "总之，当务之急是睡觉",
-        "bvid": "BV1wvxC6bEws",
-        "author": "Tdogegg",
-        "duration": "25:44",
-        "cover": "//i0.hdslb.com/bfs/archive/40326ccbc79b3a24f49212c3b8503705524c6f94.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wvxC6bEws&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "影之刃零游戏评测"
+        "description": "#CPOPwave集结出海顶流IP 「zenless zone zero」看！@绝区零 匠心雕琢的用户品质口碑，正在绵延生长。CPOPwave2026中国潮流IP年度现场即将开启，快来一起感受新艾利都的都市狂想！11月2日来群像展现场可以抽发布之夜门票，不是所有的IP都叫CPOPwave，#今年谁上乌镇峰会的总台CPOPwave了 #乌镇网事",
+        "content": "#CPOPwave集结出海顶流IP 「zenless zone zero」看！@绝区零 匠心雕琢的用户品质口碑，正在绵延生长。CPOPwave2026中国潮流IP年度现场即将开启，快来一起感受新艾利都的都市狂想！11月2日来群像展现场可以抽发布之夜门票，不是所有的IP都叫CPOPwave，#今年谁上乌镇峰会的总台CPOPwave了 #乌镇网事",
+        "bvid": "BV12Axk6hEhg",
+        "author": "央视频",
+        "duration": "7:22",
+        "cover": "//i1.hdslb.com/bfs/archive/c27b02121a71bb87f8feba647443b4f908905017.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12Axk6hEhg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "央视频专访绝区零制作人"
       },
       {
         "title": "卧槽！！BLG淘汰LCK银河战舰HLE送他们16强！S赛最爽对局有多爽！BLG回来了！【1酱赛评S16瑞士轮day7】",
@@ -462,26 +462,74 @@
         "hotTitle": "锐评HLE止步S16十六强"
       },
       {
-        "title": "LYON晋级淘汰赛！LYON 2-1 LOS 赛后数据雷达图丨2026全球总决赛-瑞士轮",
-        "url": "https://www.bilibili.com/video/BV14GxW6kEMt",
+        "title": "越来越卷，死磕大厂还值吗？打工3年真实感受",
+        "url": "https://www.bilibili.com/video/BV1QHsX6NEUL",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
+        "description": "你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！",
+        "content": "你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！你会有工作的！",
+        "bvid": "BV1QHsX6NEUL",
+        "author": "月亮猹-",
+        "duration": "10:23",
+        "cover": "//i2.hdslb.com/bfs/archive/e66053425d8fdeaa6889a92007c693de995781c1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QHsX6NEUL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大学生就业卷大厂还值得吗"
+      },
+      {
+        "title": "美国中期选举大斗法",
+        "url": "https://www.bilibili.com/video/BV15Mxn6UEnt",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本视频提及事件以及信息来源如下： 《特朗普：成为第51个州，委内瑞拉将再次伟大》来自：上观新闻，2026-10-28 14:53发布 《深度丨特朗普连跑红州20次，奥巴马出山压阵，美国中期选举攻防战怎么打？》来自：上观新闻，2026-10-29 19:20发布 《特朗普发布百万美金悬赏：成功举报选举舞弊、促成舞弊者被定罪，将获得100万美元奖励》来自：威海新闻网，2026-10-27 10:02发布 《美媒爆料：绑架马杜罗前，特朗普特地问了AI数小时；AI告诉特朗普，“马杜罗是极不受欢迎的独裁者，许多委内",
+        "content": "本视频提及事件以及信息来源如下： 《特朗普：成为第51个州，委内瑞拉将再次伟大》来自：上观新闻，2026-10-28 14:53发布 《深度丨特朗普连跑红州20次，奥巴马出山压阵，美国中期选举攻防战怎么打？》来自：上观新闻，2026-10-29 19:20发布 《特朗普发布百万美金悬赏：成功举报选举舞弊、促成舞弊者被定罪，将获得100万美元奖励》来自：威海新闻网，2026-10-27 10:02发布 《美媒爆料：绑架马杜罗前，特朗普特地问了AI数小时；AI告诉特朗普，“马杜罗是极不受欢迎的独裁者，许多委内",
+        "bvid": "BV15Mxn6UEnt",
+        "author": "燕三嘤嘤嘤",
+        "duration": "40:40",
+        "cover": "//i0.hdslb.com/bfs/archive/b87a2d6adb8e86c80d46bc2e3e0084be5f080f72.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Mxn6UEnt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中期选举对特朗普有多重要"
+      },
+      {
+        "title": "亮记闲谈-如果恐龙活着它的肉是什么味？",
+        "url": "https://www.bilibili.com/video/BV17wn96PERn",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV14GxW6kEMt",
-        "author": "苦练李香兰",
-        "duration": "3:17",
-        "cover": "//i0.hdslb.com/bfs/archive/7fd014e41e70256416f57baa3f88199f604169eb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14GxW6kEMt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "LYON战胜LOS S16瑞士轮"
+        "bvid": "BV17wn96PERn",
+        "author": "无穷小亮的科普日常",
+        "duration": "17:7",
+        "cover": "//i0.hdslb.com/bfs/archive/4b0841817dd4b0d38109d0c43881f265ca079357.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17wn96PERn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如果恐龙活着它的肉是什么味"
+      },
+      {
+        "title": "机器人爬泰山，要练哪些功夫？",
+        "url": "https://www.bilibili.com/video/BV15gxn67ES8",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV15gxn67ES8",
+        "author": "央视新闻",
+        "duration": "3:44",
+        "cover": "//i0.hdslb.com/bfs/archive/54aec52385201441ce2a15b456658582c39fa22f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15gxn67ES8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "机器人为何能爬泰山"
       },
       {
         "title": "压抑到极致的爆发，BLG晋级淘汰赛！BLG 2-0 HLE 赛后数据雷达图丨2026全球总决赛-瑞士轮",
         "url": "https://www.bilibili.com/video/BV1Yfxp6HEaF",
         "desc": "",
-        "rank": 23,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -497,7 +545,7 @@
         "title": "【影之刃零】全剧情解析，一口气看完超长完整版 两种结局！",
         "url": "https://www.bilibili.com/video/BV1B5xB6qEQH",
         "desc": "",
-        "rank": 24,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "连肝40小时，【影之刃零】全剧情解析，一口气看完超长完整版 好坏结局！",
@@ -510,84 +558,36 @@
         "hotTitle": "影之刃零全剧情解析"
       },
       {
-        "title": "不是所有IP都叫CPOPwave 绝区零匠心雕琢的用户品质口碑正在绵延生长",
-        "url": "https://www.bilibili.com/video/BV12Axk6hEhg",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "#CPOPwave集结出海顶流IP 「zenless zone zero」看！@绝区零 匠心雕琢的用户品质口碑，正在绵延生长。CPOPwave2026中国潮流IP年度现场即将开启，快来一起感受新艾利都的都市狂想！11月2日来群像展现场可以抽发布之夜门票，不是所有的IP都叫CPOPwave，#今年谁上乌镇峰会的总台CPOPwave了 #乌镇网事",
-        "content": "#CPOPwave集结出海顶流IP 「zenless zone zero」看！@绝区零 匠心雕琢的用户品质口碑，正在绵延生长。CPOPwave2026中国潮流IP年度现场即将开启，快来一起感受新艾利都的都市狂想！11月2日来群像展现场可以抽发布之夜门票，不是所有的IP都叫CPOPwave，#今年谁上乌镇峰会的总台CPOPwave了 #乌镇网事",
-        "bvid": "BV12Axk6hEhg",
-        "author": "央视频",
-        "duration": "7:22",
-        "cover": "//i1.hdslb.com/bfs/archive/c27b02121a71bb87f8feba647443b4f908905017.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12Axk6hEhg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "央视频专访绝区零制作人"
-      },
-      {
-        "title": "亮记闲谈-如果恐龙活着它的肉是什么味？",
-        "url": "https://www.bilibili.com/video/BV17wn96PERn",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV17wn96PERn",
-        "author": "无穷小亮的科普日常",
-        "duration": "17:7",
-        "cover": "//i0.hdslb.com/bfs/archive/4b0841817dd4b0d38109d0c43881f265ca079357.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17wn96PERn&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如果恐龙活着它的肉是什么味"
-      },
-      {
-        "title": "【真实锐评】BLG战胜HLE晋级八强！剥夺必须剥夺！MSI总比分赢HLE 今天又给你踹成16强！",
-        "url": "https://www.bilibili.com/video/BV118xp63EQZ",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV118xp63EQZ",
-        "author": "真实电竞",
-        "duration": "8:16",
-        "cover": "//i1.hdslb.com/bfs/archive/8bade08f2b4aa16e6b021720ae1afe4ae3ae06a7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV118xp63EQZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "锐评BLG战胜HLE晋级八强"
-      },
-      {
-        "title": "12月14日全球公测 |《白银之城》角色PV - 库拉蒂：愚者与勇者",
-        "url": "https://www.bilibili.com/video/BV1BJnR66Eij",
+        "title": "锐评S16 BLG战胜HLE晋级淘汰赛：压抑到极致的瞬间燃爆！",
+        "url": "https://www.bilibili.com/video/BV1Ycxx6ZEZ2",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "值得称颂的骑士，该是副怎样的面貌？ 兔子骑士耷拉着耳朵，想破了脑筋。 跟随智者的引领，她试探前行、步步寻觅。 直到——城市上空响起尖啸，风暴骤临。 她来不及思量，驭马腾空、挥剑直去。 再一次。以行动、以本心，库拉蒂给出了答案。 ---------------------------------- 《白银之城》全球公测正式定档2026年12月14日！ 预约里程碑活动同步开启中，解锁至对应阶段且官方社区与渠道关注数达标后，即可获得全新四星角色、【演绎弹】×20 等奖励。 点击前往预约>>>https:",
-        "content": "值得称颂的骑士，该是副怎样的面貌？ 兔子骑士耷拉着耳朵，想破了脑筋。 跟随智者的引领，她试探前行、步步寻觅。 直到——城市上空响起尖啸，风暴骤临。 她来不及思量，驭马腾空、挥剑直去。 再一次。以行动、以本心，库拉蒂给出了答案。 ---------------------------------- 《白银之城》全球公测正式定档2026年12月14日！ 预约里程碑活动同步开启中，解锁至对应阶段且官方社区与渠道关注数达标后，即可获得全新四星角色、【演绎弹】×20 等奖励。 点击前往预约>>>https:",
-        "bvid": "BV1BJnR66Eij",
-        "author": "白银之城",
-        "duration": "12:15",
-        "cover": "//i1.hdslb.com/bfs/archive/f415efd51b0b48b2d2e5a7f335d624e0b6ed88d7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BJnR66Eij&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "白银之城公测定档PV"
+        "description": "求求你给个3连吧！",
+        "content": "求求你给个3连吧！",
+        "bvid": "BV1Ycxx6ZEZ2",
+        "author": "喵仙人ovo",
+        "duration": "8:44",
+        "cover": "//i0.hdslb.com/bfs/archive/dd8e7e8be481e48ada9883313f00f3d80c5aada9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ycxx6ZEZ2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG生死战Knight发挥有多好"
       },
       {
-        "title": "《润魂子》1-5合集 纯享版【AI全民制作人】",
-        "url": "https://www.bilibili.com/video/BV1zRx76SEJQ",
+        "title": "仁川兄弟《Trouble Faker》瑞士轮晋级结算画面",
+        "url": "https://www.bilibili.com/video/BV1MMxq6XE8g",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1zRx76SEJQ",
-        "author": "AAA宇宙边角料",
-        "duration": "13:46",
-        "cover": "//i0.hdslb.com/bfs/archive/588c85497a150aa1418187cc1661c03136d4a840.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zRx76SEJQ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI短片邪修润魂子"
+        "description": "AI生成视频，非真实事件，无不良导向。",
+        "content": "AI生成视频，非真实事件，无不良导向。",
+        "bvid": "BV1MMxq6XE8g",
+        "author": "九夜听风",
+        "duration": "1:45",
+        "cover": "//i2.hdslb.com/bfs/archive/b1ba3256a4b9b6a834c390889213ac392c6cd647.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MMxq6XE8g&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "仁川兄弟晋级八强结算画面"
       },
       {
         "title": "AI预测BLG VS HLE丨S16十六强生死一战，AI如何BP？谁是突破口？谁又是关键人物？图一乐继续",
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+        "url": "https://www.qbitai.com/2026/11/507038.html",
+        "desc": "",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/123b45bfbfd4396348456d031a78ae2c.webp",
+        "date": "2026-11-01T21:09:55",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
         "url": "https://www.qbitai.com/2026/11/507031.html",
         "desc": "让AI像牛顿一样思考",
@@ -615,7 +625,7 @@
         "date": "2026-11-01T16:02:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
@@ -625,7 +635,7 @@
         "date": "2026-11-01T15:50:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "Jev新成果，再次引爆开源",
@@ -635,7 +645,7 @@
         "date": "2026-11-01T12:18:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
@@ -645,7 +655,7 @@
         "date": "2026-10-31T21:49:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
@@ -655,7 +665,7 @@
         "date": "2026-10-31T13:17:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
@@ -665,7 +675,7 @@
         "date": "2026-10-31T13:11:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
@@ -675,7 +685,7 @@
         "date": "2026-10-31T13:05:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
@@ -685,7 +695,7 @@
         "date": "2026-10-30T20:58:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
@@ -695,7 +705,7 @@
         "date": "2026-10-30T19:05:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
@@ -705,7 +715,7 @@
         "date": "2026-10-30T18:44:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
@@ -715,7 +725,7 @@
         "date": "2026-10-30T16:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
@@ -725,7 +735,7 @@
         "date": "2026-10-30T16:12:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
@@ -735,7 +745,7 @@
         "date": "2026-10-30T15:31:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
@@ -745,7 +755,7 @@
         "date": "2026-10-30T13:52:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "Claude新模型曝光：新Fable，新Opus…",
@@ -755,7 +765,7 @@
         "date": "2026-10-30T13:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
@@ -765,7 +775,7 @@
         "date": "2026-10-30T11:48:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
@@ -775,7 +785,7 @@
         "date": "2026-10-30T11:40:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
@@ -785,7 +795,7 @@
         "date": "2026-10-30T08:19:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
@@ -795,7 +805,7 @@
         "date": "2026-10-29T17:58:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
@@ -805,7 +815,7 @@
         "date": "2026-10-29T17:52:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "AI安全是AI规模化应用“加速器”",
@@ -815,7 +825,7 @@
         "date": "2026-10-29T16:50:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
@@ -825,7 +835,7 @@
         "date": "2026-10-29T14:53:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
@@ -835,7 +845,7 @@
         "date": "2026-10-29T14:51:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "IDC最新报告：MaaS市场分化，PPIO拿下独立服务商首位",
@@ -845,7 +855,7 @@
         "date": "2026-10-29T14:13:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "敢和英伟达现场PK的国产GPU，我是服的",
@@ -855,7 +865,7 @@
         "date": "2026-10-29T13:57:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
@@ -865,7 +875,7 @@
         "date": "2026-10-29T11:27:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
@@ -875,7 +885,7 @@
         "date": "2026-10-29T10:51:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
@@ -885,7 +895,7 @@
         "date": "2026-10-29T10:18:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "24万开卖！理想重造i6，李想：目标全球畅销",
@@ -893,16 +903,6 @@
         "desc": "理想今年最后一场发布会，自研电池芯片全部上车",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/95a6d6fca3c2a968174eaf777db57fb7.webp",
         "date": "2026-10-29T08:59:26",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-        "url": "https://www.qbitai.com/2026/10/506227.html",
-        "desc": "能连肝数日修Bug，免疫提示词注入",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/article-image-6-1.png",
-        "date": "2026-10-29T08:03:58",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793537763018,
-    "bilibili": 1793536869129,
-    "qbitai": 1793508993642,
-    "36kr": 1793508993967
+    "thepaper": 1793538663778,
+    "bilibili": 1793538673546,
+    "qbitai": 1793509895594,
+    "36kr": 1793509895958
   },
   "failures": {}
 }
