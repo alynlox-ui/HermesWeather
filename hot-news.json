@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T21:41:31Z",
+  "updatedAt": "2026-10-31T21:56:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -286,19 +286,19 @@
         "hotTitle": "歼20首次公开亮相十周年"
       },
       {
-        "title": "锐评S16 BLG战胜HLE晋级淘汰赛：压抑到极致的瞬间燃爆！",
-        "url": "https://www.bilibili.com/video/BV1Ycxx6ZEZ2",
+        "title": "压抑到极致的爆发，BLG晋级淘汰赛！BLG 2-0 HLE 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV1Yfxp6HEaF",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "求求你给个3连吧！",
-        "content": "求求你给个3连吧！",
-        "bvid": "BV1Ycxx6ZEZ2",
-        "author": "喵仙人ovo",
-        "duration": "8:44",
-        "cover": "//i0.hdslb.com/bfs/archive/dd8e7e8be481e48ada9883313f00f3d80c5aada9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ycxx6ZEZ2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Yfxp6HEaF",
+        "author": "苦练李香兰",
+        "duration": "2:45",
+        "cover": "//i1.hdslb.com/bfs/archive/7c15b2f83b10cd0902ce4ab122125494a841e26c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yfxp6HEaF&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG战胜HLE晋级淘汰赛"
       },
       {
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "险资三季度新进重仓股出炉，中国人寿新进宁德时代",
+        "url": "https://m.36kr.com/newsflashes/4050784125686663",
+        "desc": "据数据宝统计，险资合计出现在630多只股票三季报前十大流通股东榜，新进重仓150只股票。从最新重仓股来看，险资三季度新进宁德时代、中际旭创、华电新能、北方华创等个股前十大流通股东榜。从期末持股市值来看，中国人寿旗下产品三季度新进持有宁德时代超2640万股，期末持股市值76.86亿元，位居险资新进重仓股持股市值榜首位。中国人寿旗下产品三季度新进中际旭创近760万股，期末持股市值61.43亿元位居第二位。中国人寿、中国平安等旗下产品新进华电新能逾11亿股，期末持股市值超43亿元。此外，北方华创、生益科技、新易盛等三季度险资新进重仓股期末持股市值均超10亿元。（证券时报）",
+        "cover": "",
+        "date": 1793512242046,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "B站举办第四届超级科学晚，站内科学内容累计观看时长超23亿小时",
         "url": "https://m.36kr.com/newsflashes/4050692830434440",
         "desc": "36氪获悉，10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京举行。数据显示，过去一年，B站上科普、科技相关知识内容，用户累计观看时长突破了23亿小时，相关UP主达133万，有超过3200位专业科研人员、科技企业等加入B站分享内容。",
@@ -947,7 +957,7 @@
         "date": 1793510987000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "澳洲房屋拍卖成交率跌至六年低位",
@@ -957,7 +967,7 @@
         "date": 1793509484000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "深蓝汽车：10月全球销量32602辆，环比增长8.01%",
@@ -967,7 +977,7 @@
         "date": 1793508598000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "蔚来：1-10月交付334,547台，同比增长38.5%",
@@ -977,7 +987,7 @@
         "date": 1793506956223,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "东风本田：10月销量17026台，环比增长16.9%",
@@ -987,7 +997,7 @@
         "date": 1793506943000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "鸿蒙智行：10月交付新车33537台",
@@ -997,7 +1007,7 @@
         "date": 1793506547730,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "极氪：10月交付32483辆，同比增长51.6%",
@@ -1007,7 +1017,7 @@
         "date": 1793506277258,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "中国—秘鲁自贸协定升级议定书正式生效",
@@ -1017,7 +1027,7 @@
         "date": 1793505557000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "我国计划在2030年前实现登月！“两次发射、一次登月”方案揭秘",
@@ -1027,7 +1037,7 @@
         "date": 1793503955204,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "零跑汽车：10月交付106127台，同比增长51%",
@@ -1037,7 +1047,7 @@
         "date": 1793502824373,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "10月北京二手住宅网签量同比增长8.2%",
@@ -1047,7 +1057,7 @@
         "date": 1793502114000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "三星电子与SK海力士带动韩企股份回购规模激增467.33%",
@@ -1057,7 +1067,7 @@
         "date": 1793501159000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "稳中有进、质效双升，前三季度物流运行数据发布",
@@ -1067,7 +1077,7 @@
         "date": 1793500724185,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "币安称已补回90%被盗资产",
@@ -1077,7 +1087,7 @@
         "date": 1793500662530,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "小鹏集团：10月共交付新车50237台，创单月交付量历史新高",
@@ -1087,7 +1097,7 @@
         "date": 1793499919828,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "张朝阳：关注流是搜狐战略级产品，内容不参与大模型收录",
@@ -1097,7 +1107,7 @@
         "date": 1793499606000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "理想汽车：2026年10月交付29025辆",
@@ -1107,7 +1117,7 @@
         "date": 1793499113192,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "苹果CEO：不会为了做AI而做产品",
@@ -1117,7 +1127,7 @@
         "date": 1793499043076,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "韩国10月出口同比增长93.7%，芯片出口暴涨259%",
@@ -1127,25 +1137,15 @@
         "date": 1793498539662,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "OpenAI宣布ChatGPT部分任务将与Codex共享额度",
-        "url": "https://m.36kr.com/newsflashes/4050533828612993",
-        "desc": "10月31日，OpenAI公告称，自12月起，ChatGPT Plus、Pro、Business套餐的使用额度将在ChatGPT与Codex之间共享。OpenAI正在把Work的智能体能力整合至ChatGPT主交互界面。用量以Token统计，消耗额度取决于模型与任务复杂度，复杂任务消耗更高；即时对话（Instant chat）不占用该共享额度。OpenAI预计，大多数用户等待额度重置的频率不会比现在更高。（界面）",
-        "cover": "",
-        "date": 1793497623000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793511666684,
-    "bilibili": 1793511668966,
-    "qbitai": 1793482891176,
-    "36kr": 1793482891465
+    "thepaper": 1793512563438,
+    "bilibili": 1793511647564,
+    "qbitai": 1793483794460,
+    "36kr": 1793483794746
   },
   "failures": {}
 }
