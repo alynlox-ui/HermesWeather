@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T23:43:16Z",
+  "updatedAt": "2026-10-31T23:57:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,20 @@
     ],
     "bilibili": [
       {
-        "title": "WBG vs ASC IVL",
-        "url": "https://search.bilibili.com/all?keyword=IVL",
+        "title": "【2026IVL秋季赛】 Week5 Day2 DOU5 vs FPX.ZQ",
+        "url": "https://www.bilibili.com/video/BV1E1x168E8E",
         "desc": "",
-        "rank": 1
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
+        "content": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
+        "bvid": "BV1E1x168E8E",
+        "author": "第五人格赛事",
+        "duration": "123:24",
+        "cover": "//i0.hdslb.com/bfs/archive/ec0723f924d881d0800f09e178253cfd8bd5840d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1E1x168E8E&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "WBG vs ASC IVL"
       },
       {
         "title": "美国中期选举大斗法",
@@ -260,25 +270,35 @@
         "hotTitle": "歌剧老师锐评韩娱"
       },
       {
-        "title": "第一次去混浴是什么体验",
-        "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8E%BB%E6%B7%B7%E6%B5%B4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+        "title": "体验全球最火的混浴？真裸泡？！太刺激了吧？！",
+        "url": "https://www.bilibili.com/video/BV1cyxi6gEDN",
         "desc": "",
-        "rank": 10
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "挑战全球最火的混浴，实在太震撼了！！！！！！！！！！！！！！！",
+        "content": "挑战全球最火的混浴，实在太震撼了！！！！！！！！！！！！！！！",
+        "bvid": "BV1cyxi6gEDN",
+        "author": "Super也好君",
+        "duration": "14:39",
+        "cover": "//i1.hdslb.com/bfs/archive/d1d2a2ecb516562905f0701f482bcc252ee2e343.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cyxi6gEDN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "第一次去混浴是什么体验"
       },
       {
-        "title": "卧槽！！BLG淘汰LCK银河战舰HLE送他们16强！S赛最爽对局有多爽！BLG回来了！【1酱赛评S16瑞士轮day7】",
-        "url": "https://www.bilibili.com/video/BV1Stxs6nExW",
+        "title": "压抑到极致的爆发，BLG晋级淘汰赛！BLG 2-0 HLE 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV1Yfxp6HEaF",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "视频制作剪辑@闻人常安AreS",
-        "content": "视频制作剪辑@闻人常安AreS",
-        "bvid": "BV1Stxs6nExW",
-        "author": "你是想气死1酱么",
-        "duration": "12:1",
-        "cover": "//i1.hdslb.com/bfs/archive/e639db8239ff3bf226e605cafe57e43f918bba90.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Stxs6nExW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Yfxp6HEaF",
+        "author": "苦练李香兰",
+        "duration": "2:45",
+        "cover": "//i1.hdslb.com/bfs/archive/7c15b2f83b10cd0902ce4ab122125494a841e26c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yfxp6HEaF&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG战胜HLE晋级淘汰赛"
       },
       {
@@ -330,10 +350,20 @@
         "hotTitle": "Viper说HLE终究要淘汰不如输给我"
       },
       {
-        "title": "LYON战胜LOS S16瑞士轮",
-        "url": "https://search.bilibili.com/all?keyword=LOS%20LYON",
+        "title": "[ニコカラ] Los! Los! Los! - 悠木碧",
+        "url": "https://www.bilibili.com/video/BV1jptu64Eto",
         "desc": "",
-        "rank": 15
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1jptu64Eto",
+        "author": "小鸟游四通",
+        "duration": "3:36",
+        "cover": "//i2.hdslb.com/bfs/archive/1ec40a91f719091320d0a3432c98e187bde4d3d2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jptu64Eto&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "LYON战胜LOS S16瑞士轮"
       },
       {
         "title": "“盯死！”南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
@@ -352,10 +382,20 @@
         "hotTitle": "解放军位黄岩岛战备警巡"
       },
       {
-        "title": "UP主挑战搬空大润发",
-        "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8C%91%E6%88%98%E6%90%AC%E7%A9%BA%E5%A4%A7%E6%B6%A6%E5%8F%91",
+        "title": "全网搬大润发第一人！！！",
+        "url": "https://www.bilibili.com/video/BV1sVxv6rEJ7",
         "desc": "",
-        "rank": 17
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1sVxv6rEJ7",
+        "author": "李炮炮儿",
+        "duration": "4:35",
+        "cover": "//i1.hdslb.com/bfs/archive/d19a18d0884a3dcd49f9c2f506d35b2793626529.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sVxv6rEJ7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主挑战搬空大润发"
       },
       {
         "title": "波兰疑似“政变“：总理封锁宪法法院总统强行突破",
@@ -374,10 +414,20 @@
         "hotTitle": "波兰疑似政变风波因何而起"
       },
       {
-        "title": "韩立平安回归名扬天南",
-        "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
+        "title": "《凡人修仙传》198集逐帧解析,吕洛得知韩立回来,强直脊柱炎再也不弯腰",
+        "url": "https://www.bilibili.com/video/BV1kQxk6ZEMr",
         "desc": "",
-        "rank": 19
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1kQxk6ZEMr",
+        "author": "一路同行YXTT",
+        "duration": "9:27",
+        "cover": "//i1.hdslb.com/bfs/archive/63034ce461a2c27b59d339caa32adeb39235c532.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kQxk6ZEMr&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "韩立平安回归名扬天南"
       },
       {
         "title": "BLG vs HLE 绝境大翻盘！Gumayusi致命掉点BLG劣势逆转！Knight发条大招拉三人毁天灭地！Game 1 | 2026全球总决赛瑞士轮",
@@ -412,20 +462,10 @@
         "hotTitle": "23亿票房的功夫女足是烂片吗"
       },
       {
-        "title": "仁川兄弟《Trouble Faker》瑞士轮晋级结算画面",
-        "url": "https://www.bilibili.com/video/BV1MMxq6XE8g",
+        "title": "仁川兄弟晋级八强结算画面",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%81%E5%B7%9D%E5%85%84%E5%BC%9F%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%E7%BB%93%E7%AE%97%E7%94%BB%E9%9D%A2",
         "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "AI生成视频，非真实事件，无不良导向。",
-        "content": "AI生成视频，非真实事件，无不良导向。",
-        "bvid": "BV1MMxq6XE8g",
-        "author": "九夜听风",
-        "duration": "1:45",
-        "cover": "//i2.hdslb.com/bfs/archive/b1ba3256a4b9b6a834c390889213ac392c6cd647.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MMxq6XE8g&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "仁川兄弟晋级八强结算画面"
+        "rank": 22
       },
       {
         "title": "亮记闲谈-如果恐龙活着它的肉是什么味？",
@@ -476,20 +516,10 @@
         "hotTitle": "UP主挑战和粉丝包下一座游艇"
       },
       {
-        "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
-        "url": "https://www.bilibili.com/video/BV1Ntxr6xE7Y",
+        "title": "剖析人类提出过最难的数学题",
+        "url": "https://search.bilibili.com/all?keyword=%E5%89%96%E6%9E%90%E4%BA%BA%E7%B1%BB%E6%8F%90%E5%87%BA%E8%BF%87%E6%9C%80%E9%9A%BE%E7%9A%84%E6%95%B0%E5%AD%A6%E9%A2%98",
         "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Ntxr6xE7Y",
-        "author": "漫士沉思录",
-        "duration": "70:23",
-        "cover": "//i2.hdslb.com/bfs/archive/e9ec866844e65aafdea59260e181dfa65962c11c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ntxr6xE7Y&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "剖析人类提出过最难的数学题"
+        "rank": 26
       },
       {
         "title": "纯黑《影之刃零》逆天者全程无伤一镜到底攻略解说 第一期",
@@ -524,20 +554,10 @@
         "hotTitle": "王骁谈特朗普中期选举处境"
       },
       {
-        "title": "【丧病中配】当2077的CV来配音《赛博朋克：边缘行者2》（第一话）",
-        "url": "https://www.bilibili.com/video/BV1VaxY6DE5v",
+        "title": "当2077的CV来配音边缘行者2",
+        "url": "https://search.bilibili.com/all?keyword=%E5%BD%932077%E7%9A%84CV%E6%9D%A5%E9%85%8D%E9%9F%B3%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852",
         "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本视频仅供娱乐，非商业用途 有幸邀请专业的CV大佬们一起玩配音，本视频点赞过5万，继续更新第二话~ CAST： 金王：@冷泉夜月 罗曼、塔莉亚：@Kii崽 CV张琦 D：@刘照坤Jock 米格尔、医生：@山中大虎 CV淦子齐 萨尔：@配音演员虞晓旭 梅舒加、车祸路人、荒坂安保：@配音演员杨帅 杰西、创伤小组：@菇力帕君 艾米莉、护士：@楼倾司 漩漩、荒坂安保：@弥雲 涡涡、暴恐机动队、荒坂安保：@Caruso 电台、荒坂安保、混混、帮帮：嘟督 STAFF： 台词改",
-        "content": "本视频仅供娱乐，非商业用途 有幸邀请专业的CV大佬们一起玩配音，本视频点赞过5万，继续更新第二话~ CAST： 金王：@冷泉夜月 罗曼、塔莉亚：@Kii崽 CV张琦 D：@刘照坤Jock 米格尔、医生：@山中大虎 CV淦子齐 萨尔：@配音演员虞晓旭 梅舒加、车祸路人、荒坂安保：@配音演员杨帅 杰西、创伤小组：@菇力帕君 艾米莉、护士：@楼倾司 漩漩、荒坂安保：@弥雲 涡涡、暴恐机动队、荒坂安保：@Caruso 电台、荒坂安保、混混、帮帮：嘟督 STAFF： 台词改",
-        "bvid": "BV1VaxY6DE5v",
-        "author": "嘟督不噶油",
-        "duration": "21:19",
-        "cover": "//i2.hdslb.com/bfs/archive/28e67265d48140bec1643fbff8df21840cbb4d44.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VaxY6DE5v&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "当2077的CV来配音边缘行者2"
+        "rank": 29
       },
       {
         "title": "AI预测BLG VS HLE丨S16十六强生死一战，AI如何BP？谁是突破口？谁又是关键人物？图一乐继续",
@@ -558,6 +578,16 @@
     ],
     "qbitai": [
       {
+        "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+        "url": "https://www.qbitai.com/2026/11/506990.html",
+        "desc": "这事还是想得太简单了",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/article-image-8.png",
+        "date": "2026-11-01T15:50:57",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "Jev新成果，再次引爆开源",
         "url": "https://www.qbitai.com/2026/11/506922.html",
         "desc": "再次“性价比屠夫”",
@@ -565,7 +595,7 @@
         "date": "2026-11-01T12:18:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
@@ -575,7 +605,7 @@
         "date": "2026-10-31T21:49:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
@@ -585,7 +615,7 @@
         "date": "2026-10-31T13:17:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
@@ -595,7 +625,7 @@
         "date": "2026-10-31T13:11:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
@@ -605,7 +635,7 @@
         "date": "2026-10-31T13:05:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
@@ -615,7 +645,7 @@
         "date": "2026-10-30T20:58:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
@@ -625,7 +655,7 @@
         "date": "2026-10-30T19:05:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
@@ -635,7 +665,7 @@
         "date": "2026-10-30T18:44:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
@@ -645,7 +675,7 @@
         "date": "2026-10-30T16:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
@@ -655,7 +685,7 @@
         "date": "2026-10-30T16:12:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
@@ -665,7 +695,7 @@
         "date": "2026-10-30T15:31:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
@@ -675,7 +705,7 @@
         "date": "2026-10-30T13:52:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "Claude新模型曝光：新Fable，新Opus…",
@@ -685,7 +715,7 @@
         "date": "2026-10-30T13:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
@@ -695,7 +725,7 @@
         "date": "2026-10-30T11:48:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
@@ -705,7 +735,7 @@
         "date": "2026-10-30T11:40:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
@@ -715,7 +745,7 @@
         "date": "2026-10-30T08:19:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
@@ -725,7 +755,7 @@
         "date": "2026-10-29T17:58:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
@@ -735,7 +765,7 @@
         "date": "2026-10-29T17:52:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "AI安全是AI规模化应用“加速器”",
@@ -745,7 +775,7 @@
         "date": "2026-10-29T16:50:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
@@ -755,7 +785,7 @@
         "date": "2026-10-29T14:53:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
@@ -765,7 +795,7 @@
         "date": "2026-10-29T14:51:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "IDC最新报告：MaaS市场分化，PPIO拿下独立服务商首位",
@@ -775,7 +805,7 @@
         "date": "2026-10-29T14:13:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "敢和英伟达现场PK的国产GPU，我是服的",
@@ -785,7 +815,7 @@
         "date": "2026-10-29T13:57:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
@@ -795,7 +825,7 @@
         "date": "2026-10-29T11:27:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
@@ -805,7 +835,7 @@
         "date": "2026-10-29T10:51:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
@@ -815,7 +845,7 @@
         "date": "2026-10-29T10:18:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "24万开卖！理想重造i6，李想：目标全球畅销",
@@ -825,7 +855,7 @@
         "date": "2026-10-29T08:59:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
@@ -835,7 +865,7 @@
         "date": "2026-10-29T08:03:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
@@ -843,16 +873,6 @@
         "desc": "让基建作为常驻buff",
         "cover": "",
         "date": "2026-10-28T19:09:10",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
-        "url": "https://www.qbitai.com/2026/10/506098.html",
-        "desc": "让基建作为常驻buff",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/3ec94d5cc72254cc93c29b00b98779db.jpeg",
-        "date": "2026-10-28T18:32:39",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1092,10 +1112,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793518863309,
-    "bilibili": 1793518872640,
-    "qbitai": 1793490196425,
-    "36kr": 1793490196711
+    "thepaper": 1793519763408,
+    "bilibili": 1793518857305,
+    "qbitai": 1793491052770,
+    "36kr": 1793491053095
   },
   "failures": {}
 }
