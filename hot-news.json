@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T05:26:39Z",
+  "updatedAt": "2026-11-01T05:41:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+        "url": "https://www.qbitai.com/2026/11/507076.html",
+        "desc": "西湖世界模型研究中心成立",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/WX20261101-212750@2x.png",
+        "date": "2026-11-01T21:28:10",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
         "url": "https://www.qbitai.com/2026/11/507038.html",
         "desc": "",
@@ -615,7 +625,7 @@
         "date": "2026-11-01T21:09:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
@@ -625,7 +635,7 @@
         "date": "2026-11-01T16:02:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
@@ -635,7 +645,7 @@
         "date": "2026-11-01T15:50:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "Jev新成果，再次引爆开源",
@@ -645,7 +655,7 @@
         "date": "2026-11-01T12:18:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
@@ -655,7 +665,7 @@
         "date": "2026-10-31T21:49:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
@@ -665,7 +675,7 @@
         "date": "2026-10-31T13:17:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
@@ -675,7 +685,7 @@
         "date": "2026-10-31T13:11:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
@@ -685,7 +695,7 @@
         "date": "2026-10-31T13:05:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
@@ -695,7 +705,7 @@
         "date": "2026-10-30T20:58:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
@@ -705,7 +715,7 @@
         "date": "2026-10-30T19:05:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
@@ -715,7 +725,7 @@
         "date": "2026-10-30T18:44:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
@@ -725,7 +735,7 @@
         "date": "2026-10-30T16:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
@@ -735,7 +745,7 @@
         "date": "2026-10-30T16:12:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
@@ -745,7 +755,7 @@
         "date": "2026-10-30T15:31:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
@@ -755,7 +765,7 @@
         "date": "2026-10-30T13:52:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "Claude新模型曝光：新Fable，新Opus…",
@@ -765,7 +775,7 @@
         "date": "2026-10-30T13:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
@@ -775,7 +785,7 @@
         "date": "2026-10-30T11:48:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
@@ -785,7 +795,7 @@
         "date": "2026-10-30T11:40:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
@@ -795,7 +805,7 @@
         "date": "2026-10-30T08:19:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
@@ -805,7 +815,7 @@
         "date": "2026-10-29T17:58:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
@@ -815,7 +825,7 @@
         "date": "2026-10-29T17:52:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "AI安全是AI规模化应用“加速器”",
@@ -825,7 +835,7 @@
         "date": "2026-10-29T16:50:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
@@ -835,7 +845,7 @@
         "date": "2026-10-29T14:53:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
@@ -845,7 +855,7 @@
         "date": "2026-10-29T14:51:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "IDC最新报告：MaaS市场分化，PPIO拿下独立服务商首位",
@@ -855,7 +865,7 @@
         "date": "2026-10-29T14:13:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "敢和英伟达现场PK的国产GPU，我是服的",
@@ -865,7 +875,7 @@
         "date": "2026-10-29T13:57:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
@@ -875,7 +885,7 @@
         "date": "2026-10-29T11:27:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
@@ -885,7 +895,7 @@
         "date": "2026-10-29T10:51:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
@@ -893,16 +903,6 @@
         "desc": "用扩散模型怎么做做Agent？",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/c045b0d5-776f-4782-a7c6-f42ae0b115a7.png",
         "date": "2026-10-29T10:18:28",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-        "url": "https://www.qbitai.com/2026/10/506246.html",
-        "desc": "理想今年最后一场发布会，自研电池芯片全部上车",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/95a6d6fca3c2a968174eaf777db57fb7.webp",
-        "date": "2026-10-29T08:59:26",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793539563571,
+    "thepaper": 1793540463517,
     "bilibili": 1793538673426,
-    "qbitai": 1793510798735,
-    "36kr": 1793510799030
+    "qbitai": 1793511694949,
+    "36kr": 1793511695283
   },
   "failures": {}
 }
