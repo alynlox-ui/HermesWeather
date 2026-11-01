@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T01:42:16Z",
+  "updatedAt": "2026-11-01T01:56:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -318,10 +318,20 @@
         "hotTitle": "韩国解说看BLG零封HLE"
       },
       {
-        "title": "GG vs Wolves IVL",
-        "url": "https://search.bilibili.com/all?keyword=IVL",
+        "title": "【2026IVL秋季赛】 Week5 Day2 MRC vs TE",
+        "url": "https://www.bilibili.com/video/BV14mxy6uEje",
         "desc": "",
-        "rank": 13
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
+        "content": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
+        "bvid": "BV14mxy6uEje",
+        "author": "第五人格赛事",
+        "duration": "92:20",
+        "cover": "//i1.hdslb.com/bfs/archive/9a6ad8060c4cbb5335bd5a6fe480d036e8aeca24.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14mxy6uEje&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GG vs Wolves IVL"
       },
       {
         "title": "三角洲行动 新枪超越野牛！小口径武器地位集体上升！S12武器强度排行榜预估版！",
@@ -340,10 +350,20 @@
         "hotTitle": "三角洲S12武器强度排行预估"
       },
       {
-        "title": "锐评BLG战胜HLE晋级八强",
-        "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84BLG%E6%88%98%E8%83%9CHLE%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA",
+        "title": "【真实锐评】BLG战胜HLE晋级八强！剥夺必须剥夺！MSI总比分赢HLE 今天又给你踹成16强！",
+        "url": "https://www.bilibili.com/video/BV118xp63EQZ",
         "desc": "",
-        "rank": 15
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV118xp63EQZ",
+        "author": "真实电竞",
+        "duration": "8:16",
+        "cover": "//i1.hdslb.com/bfs/archive/8bade08f2b4aa16e6b021720ae1afe4ae3ae06a7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV118xp63EQZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "锐评BLG战胜HLE晋级八强"
       },
       {
         "title": "[瑞士轮] 全位置数据雷达图丨S16全球总决赛",
@@ -920,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "欧佩克+ 代表表示将维持现有稳定产量配额计划",
+        "url": "https://m.36kr.com/newsflashes/4051011855356804",
+        "desc": "欧佩克+ 代表表示将维持现有稳定产量配额计划。（财联社）",
+        "cover": "",
+        "date": 1793526141562,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "10月沪市190家公司披露回购进展公告，已实施回购超326亿元",
         "url": "https://m.36kr.com/newsflashes/4051011292353417",
         "desc": "10月以来，面对市场调整，沪市上市公司正以实际行动传递市场信心。10月以来，沪市190家公司披露回购进展公告275家次，合计已实施回购金额超过326亿元。股东增持落地同步开展，10月以来，53家公司披露62份增持进展公告，累计已增持49.28亿元。（界面）",
@@ -927,7 +957,7 @@
         "date": 1793526107199,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "亨通光电：董事长提议1亿元—2亿元回购股份",
@@ -937,7 +967,7 @@
         "date": 1793525974773,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "​科创板公司前三季度扣非净利同比增6.74倍",
@@ -947,7 +977,7 @@
         "date": 1793525934785,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "弘信电子：董事长提议2亿—4亿元回购公司股份",
@@ -957,7 +987,7 @@
         "date": 1793524547973,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "科创板科创成长层公司前三季度亏损同比收窄逾九成",
@@ -967,7 +997,7 @@
         "date": 1793524209000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "沪深上市公司净利润超5万亿元，创四年新高",
@@ -977,7 +1007,7 @@
         "date": 1793523621694,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "科创板公司第三季度营收环比增长6.27%",
@@ -987,7 +1017,7 @@
         "date": 1793523202000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "央行、金融监管总局、证监会，明日将召开会议",
@@ -997,7 +1027,7 @@
         "date": 1793522827315,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "赛力斯：10月新能源汽车销量24921辆，同比下降51.57%",
@@ -1007,7 +1037,7 @@
         "date": 1793522341634,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "央行将召开股票回购增持再贷款座谈会",
@@ -1017,7 +1047,7 @@
         "date": 1793521673907,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "昊铂埃安BU10月销量42357辆，同比增长56.79%",
@@ -1027,7 +1057,7 @@
         "date": 1793520500000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "科技七巨头盈利增速或自2022年末以来首次落后标普500其余成分股",
@@ -1037,7 +1067,7 @@
         "date": 1793517921000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "现代汽车印度公司10月销量为82299辆，同比增长17.7%",
@@ -1047,7 +1077,7 @@
         "date": 1793515825000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "7只沪市主动ETF已正式成立",
@@ -1057,7 +1087,7 @@
         "date": 1793514797867,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "都铎投资旗下Xantium计划分拆900亿美元对冲基金",
@@ -1067,7 +1097,7 @@
         "date": 1793513849000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "险资三季度新进重仓股出炉，中国人寿新进宁德时代",
@@ -1077,7 +1107,7 @@
         "date": 1793512242046,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "B站举办第四届超级科学晚，站内科学内容累计观看时长超23亿小时",
@@ -1087,7 +1117,7 @@
         "date": 1793510987000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "澳洲房屋拍卖成交率跌至六年低位",
@@ -1097,7 +1127,7 @@
         "date": 1793509484000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "深蓝汽车：10月全球销量32602辆，环比增长8.01%",
@@ -1107,25 +1137,15 @@
         "date": 1793508598000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "蔚来：1-10月交付334,547台，同比增长38.5%",
-        "url": "https://m.36kr.com/newsflashes/4050697522762627",
-        "desc": "36氪获悉，2026年10月，蔚来公司交付新车34246台，其中，蔚来品牌交付新车18125台；乐道品牌交付新车8383台；firefly萤火虫品牌交付新车7738台。2026年1-10月，蔚来共交付新车334547台，同比增长38.5%，创历史新高。截至目前，蔚来已累计交付新车1332139台。",
-        "cover": "",
-        "date": 1793506956223,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793526063231,
-    "bilibili": 1793526071906,
-    "qbitai": 1793497335978,
-    "36kr": 1793497336279
+    "thepaper": 1793526963155,
+    "bilibili": 1793526060576,
+    "qbitai": 1793498192225,
+    "36kr": 1793498192604
   },
   "failures": {}
 }
