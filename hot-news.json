@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:11:31Z",
+  "updatedAt": "2026-10-31T19:26:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -70,26 +70,26 @@
         "rank": 11
       },
       {
-        "title": "62岁男子去世家人称离职单签名为假，公司否认：离职后在宿舍滞留3天",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34367256",
-        "desc": "",
-        "rank": 12
-      },
-      {
         "title": "大量网友到“小小徐”婚礼吃席，云南昭通市文旅局：正与景区协商顺路游玩优惠活动",
         "url": "https://www.thepaper.cn/newsDetail_forward_34377129",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "“小小徐”结婚请网友撑场面，当地酒店爆满厨师忙到凌晨",
         "url": "https://www.thepaper.cn/newsDetail_forward_34376815",
         "desc": "",
-        "rank": 14
+        "rank": 13
       },
       {
         "title": "智能马桶找不到冲水键，半月谈：智能家电不应考验人的“智能”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34375453",
+        "desc": "",
+        "rank": 14
+      },
+      {
+        "title": "孩童站台就地小便引争执，地铁回应：第一时间劝解，已对家长进行教育",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34378535",
         "desc": "",
         "rank": 15
       },
@@ -344,7 +344,7 @@
         "content": "-",
         "bvid": "BV1nnxW6TEJM",
         "author": "一只青娥",
-        "duration": "1:32",
+        "duration": "1:46",
         "cover": "//i0.hdslb.com/bfs/archive/961e63083b888d3a0645fd2b8b86351aac9ca02d.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nnxW6TEJM&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "HLE不敌BLG赛后现状"
@@ -558,19 +558,19 @@
         "hotTitle": "韩立平安回归名扬天南"
       },
       {
-        "title": "【预测】S16八强赛全预测",
-        "url": "https://www.bilibili.com/video/BV1kExW6BEHd",
+        "title": "BLGHLE败者止步十六强 八强抽签LCK或将全员四强？",
+        "url": "https://www.bilibili.com/video/BV1iCxr6LEp6",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1kExW6BEHd",
-        "author": "东南倾丶",
-        "duration": "1:58",
-        "cover": "//i1.hdslb.com/bfs/archive/e771e3ba566475ac7812fcf045cd0cc8ad345e31.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kExW6BEHd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1iCxr6LEp6",
+        "author": "Leee李桑",
+        "duration": "2:9",
+        "cover": "//i0.hdslb.com/bfs/archive/f4a263f225167c6faea7f3728441c35be025ab22.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iCxr6LEp6&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "S16八强抽签结果"
       },
       {
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "零跑汽车：10月交付106127台，同比增长51%",
+        "url": "https://m.36kr.com/newsflashes/4050629826532225",
+        "desc": "36氪获悉，零跑汽车公布10月全球交付成绩：达106127台，同比增长51%，实现连续4个月月销超10万台。截至2026年10月底，零跑全球累计交付超190万台，即将于11月达成第200万台下线。",
+        "cover": "",
+        "date": 1793502824373,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "10月北京二手住宅网签量同比增长8.2%",
         "url": "https://m.36kr.com/newsflashes/4050593660474499",
         "desc": "北京链家研究院根据北京市住建委官网数据统计，10月北京市二手住宅网签量为13081套，同比增长8.2%，环比下降17.0%。北京链家研究院分析师冷会表示，网签量环比下降主要受统计因素影响，10月份工作日数量少于正常月份，网签量下降是正常现象。实际上10月份二手房市场热度相较9月份还有所提升，链家实际签约量环比有小幅增长。价格方面，10月二手住宅成交价格走势总体平稳，多数城区价格保持稳定或略有波动。（证券时报）",
@@ -947,7 +957,7 @@
         "date": 1793502114000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "三星电子与SK海力士带动韩企股份回购规模激增467.33%",
@@ -957,7 +967,7 @@
         "date": 1793501159000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "稳中有进、质效双升，前三季度物流运行数据发布",
@@ -967,7 +977,7 @@
         "date": 1793500724185,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "币安称已补回90%被盗资产",
@@ -977,7 +987,7 @@
         "date": 1793500662530,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "小鹏集团：10月共交付新车50237台，创单月交付量历史新高",
@@ -987,7 +997,7 @@
         "date": 1793499919828,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "张朝阳：关注流是搜狐战略级产品，内容不参与大模型收录",
@@ -997,7 +1007,7 @@
         "date": 1793499606000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "理想汽车：2026年10月交付29025辆",
@@ -1007,7 +1017,7 @@
         "date": 1793499113192,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "苹果CEO：不会为了做AI而做产品",
@@ -1017,7 +1027,7 @@
         "date": 1793499043076,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "韩国10月出口同比增长93.7%，芯片出口暴涨259%",
@@ -1027,7 +1037,7 @@
         "date": 1793498539662,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "OpenAI宣布ChatGPT部分任务将与Codex共享额度",
@@ -1037,7 +1047,7 @@
         "date": 1793497623000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "小米汽车：10月交付量超5万台",
@@ -1047,7 +1057,7 @@
         "date": 1793496775417,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "“思锐增材”完成千万级Pre-A轮融资",
@@ -1057,7 +1067,7 @@
         "date": 1793496711384,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "阳光私募持仓千余家上市公司，深度梳理16只绩优、超跌、低PE股",
@@ -1067,7 +1077,7 @@
         "date": 1793496150000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "DeepSeek发布全新Agent架构",
@@ -1077,7 +1087,7 @@
         "date": 1793495166000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "英伟达披露下一代CPO技术，原型样品已就位",
@@ -1087,7 +1097,7 @@
         "date": 1793494800000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "禄达技术集团收购亚洲算力算网与量子计算科技有限公司55%股权",
@@ -1097,7 +1107,7 @@
         "date": 1793437302253,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "中信证券：银行板块有望从“高股息防御资产”向“高确定性权益资产”重估，预计全年仍将演绎估值上行方向",
@@ -1107,7 +1117,7 @@
         "date": 1793437108798,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "三星高管会见OpenAI首席执行官，探讨人工智能转型",
@@ -1117,7 +1127,7 @@
         "date": 1793436415878,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "OpenAI奥特曼谈内存短缺：全球DRAM应优先供给数据中心，闲置在玩家PC里是浪费",
@@ -1127,25 +1137,15 @@
         "date": 1793436208724,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "事关大额存单，多家外资银行密集上架",
-        "url": "https://m.36kr.com/newsflashes/4049534176121734",
-        "desc": "近期，汇丰、渣打、永丰、东亚等多家外资银行密集上架人民币大额存单，部分三年期产品利率，较同期限国有大行的大额存单高出近40个基点。多家外资银行发行人民币大额存单，具体来看：永丰银行（中国）三年期个人大额存单，20万元起存，年利率1.92%，较国有大行同期限产品高出近40个基点；东亚银行（中国）年内发行了多款三年期大额存单，年利率1.90%；汇丰银行（中国）1个月期到6个月期大额存单，年利率0.85%到1.3%；渣打银行（中国）发行大额存单覆盖1个月至1年，50万元起存的6个月和1年期的年利率最高可达1.2%。中国邮政储蓄银行研究员娄飞鹏表示，近期人民币升值比较明显，居民持有人民币的意愿增加，外资银行想要扩大跨境结算、贸易融资、财富管理等业务，需要增加人民币存款，发行大额存单是个相对比较好的选择。同时，外资银行在国内的网点比较少，吸收存款的优势相对不够明显，需要比较高的利率来吸引投资者。（央视新闻）",
-        "cover": "",
-        "date": 1793435951179,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793502663096,
-    "bilibili": 1793502671797,
-    "qbitai": 1793473891584,
-    "36kr": 1793473891931
+    "thepaper": 1793503563446,
+    "bilibili": 1793502654228,
+    "qbitai": 1793474791751,
+    "36kr": 1793474792078
   },
   "failures": {}
 }
