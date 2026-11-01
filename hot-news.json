@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T04:41:35Z",
+  "updatedAt": "2026-11-01T04:56:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -286,19 +286,19 @@
         "hotTitle": "首届CMG世界机器人登泰山大赛来了"
       },
       {
-        "title": "牧神记106",
-        "url": "https://www.bilibili.com/video/BV1UQHG6rEZ6",
+        "title": "牧神记109",
+        "url": "https://www.bilibili.com/video/BV1cFxs66EiU",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1UQHG6rEZ6",
+        "bvid": "BV1cFxs66EiU",
         "author": "归入云天_",
-        "duration": "17:7",
-        "cover": "//i2.hdslb.com/bfs/archive/2786018a989a72b4a2b0ce2cd569e0672c04918f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UQHG6rEZ6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "16:34",
+        "cover": "//i2.hdslb.com/bfs/archive/dbbe4cff91243b1b5d884c4b35f06ad13d018d4e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cFxs66EiU&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "牧神记村长剑退神祇"
       },
       {
@@ -462,19 +462,19 @@
         "hotTitle": "锐评HLE止步S16十六强"
       },
       {
-        "title": "【AI预测】LOS连胜LYON连败 瑞士轮四模型看好2比1取胜",
-        "url": "https://www.bilibili.com/video/BV1mAxk6hEHT",
+        "title": "LYON晋级淘汰赛！LYON 2-1 LOS 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+        "url": "https://www.bilibili.com/video/BV14GxW6kEMt",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1mAxk6hEHT",
-        "author": "碳水快乐机管理员",
-        "duration": "2:50",
-        "cover": "//i0.hdslb.com/bfs/archive/69e6fa48b73dc5ddc6f5ce96cbabad6e23b37536.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mAxk6hEHT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV14GxW6kEMt",
+        "author": "苦练李香兰",
+        "duration": "3:17",
+        "cover": "//i0.hdslb.com/bfs/archive/7fd014e41e70256416f57baa3f88199f604169eb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14GxW6kEMt&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "LYON战胜LOS S16瑞士轮"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793536862929,
-    "bilibili": 1793536872231,
-    "qbitai": 1793508095311,
-    "36kr": 1793508095609
+    "thepaper": 1793537763018,
+    "bilibili": 1793536869129,
+    "qbitai": 1793508993642,
+    "36kr": 1793508993967
   },
   "failures": {}
 }
