@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:26:35Z",
+  "updatedAt": "2026-11-01T20:41:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -142,26 +142,10 @@
         "hotTitle": "DeepSeek Agent小白教程"
       },
       {
-        "title": "人类数学协会声明抵制AI，却反帮OpenAI扭转舆论",
-        "url": "https://www.bilibili.com/video/BV1zaxt6LEFB",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1zaxt6LEFB",
-        "author": "分析学爱好者",
-        "duration": "8:28",
-        "cover": "//i2.hdslb.com/bfs/archive/9d3e84ad79d047a80e4410a4058e96e9c38b4cea.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zaxt6LEFB&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "数学协会抵制AI反致舆论反转"
-      },
-      {
         "title": "准备就绪！首届CMG世界机器人登泰山大赛明日开赛",
         "url": "https://www.bilibili.com/video/BV1S8x46oEZW",
         "desc": "",
-        "rank": 3,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -172,6 +156,22 @@
         "cover": "//i2.hdslb.com/bfs/archive/5a8650187bb3663e653d8a374be895983b40ea27.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1S8x46oEZW&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "首届CMG世界机器人登泰山大赛开赛"
+      },
+      {
+        "title": "登顶榜首！哈弗茨制胜 枪手联赛四连胜 利物浦0比1阿森纳",
+        "url": "https://www.bilibili.com/video/BV1nex86QEkZ",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1nex86QEkZ",
+        "author": "吉罗很快乐",
+        "duration": "18:11",
+        "cover": "//i2.hdslb.com/bfs/archive/e1efc328ded904a5d9bcabc0096765bbd4f8f619.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nex86QEkZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "阿森纳1-0利物浦"
       },
       {
         "title": "MSI冠军16强回家！万字解析BLG零封HLE背后的原因！",
@@ -190,26 +190,58 @@
         "hotTitle": "万字解析BLG零封HLE背后原因"
       },
       {
-        "title": "韩网炸了！BLG淘汰HLE送全队十六强，韩国人怎么评价韩华突然回家？",
-        "url": "https://www.bilibili.com/video/BV1V4xb6BEzN",
+        "title": "八强淘汰赛胜负预测，一个视频带你看懂世界赛版本现状！",
+        "url": "https://www.bilibili.com/video/BV1nAxs6BEt5",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "素材若有问题会修改/문제시 삭제",
-        "content": "素材若有问题会修改/문제시 삭제",
-        "bvid": "BV1V4xb6BEzN",
-        "author": "辉锅_",
-        "duration": "4:38",
-        "cover": "//i2.hdslb.com/bfs/archive/33613e70abba54bde6002a385c0f99119f556225.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1V4xb6BEzN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "韩国人怎么看HLE止步十六强"
+        "description": "",
+        "content": "",
+        "bvid": "BV1nAxs6BEt5",
+        "author": "东南倾丶",
+        "duration": "18:22",
+        "cover": "//i0.hdslb.com/bfs/archive/77fbfac93d4125accdd1924d5f57d97df0436fc9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nAxs6BEt5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S16八强淘汰赛胜负预测"
+      },
+      {
+        "title": "人类数学协会声明抵制AI，却反帮OpenAI扭转舆论",
+        "url": "https://www.bilibili.com/video/BV1zaxt6LEFB",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1zaxt6LEFB",
+        "author": "分析学爱好者",
+        "duration": "8:28",
+        "cover": "//i2.hdslb.com/bfs/archive/9d3e84ad79d047a80e4410a4058e96e9c38b4cea.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zaxt6LEFB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "数学协会抵制AI反致舆论反转"
+      },
+      {
+        "title": "2026全球总决赛瑞士轮第八日英雄麦克疯：“交流做好 好好打就行了！～”",
+        "url": "https://www.bilibili.com/video/BV1QYxh63EzL",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "BLG.Bin ：我冲了，我冲了 BLG.Xun ：我们把游戏内容交流好就好了 BLG.Knight ：好好打就行了 BLG.Viper ：“杀”掉，“杀”掉，“杀”掉 BLG.ON ：NICE！K皇",
+        "content": "BLG.Bin ：我冲了，我冲了 BLG.Xun ：我们把游戏内容交流好就好了 BLG.Knight ：好好打就行了 BLG.Viper ：“杀”掉，“杀”掉，“杀”掉 BLG.ON ：NICE！K皇",
+        "bvid": "BV1QYxh63EzL",
+        "author": "英雄联盟赛事",
+        "duration": "3:59",
+        "cover": "//i1.hdslb.com/bfs/archive/45a69b08483d73165976fa3073e2267dc57d460a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QYxh63EzL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG战胜HLE比赛语音"
       },
       {
         "title": "特朗普2.0的中期选举，悬了？",
         "url": "https://www.bilibili.com/video/BV1ZKxp6oEk1",
         "desc": "",
-        "rank": 6,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "2026 年美国中期选举即将拉开帷幕。 共和党会不会丢掉 众议院？特朗普会不会成为 “ 跛脚鸭 ” ？ 甚至，投票箱会不会被抢、 开箱唱票会不会闹出舞弊争议？这些选前最为刺眼的悬念，都即 将揭晓答案。",
@@ -222,90 +254,106 @@
         "hotTitle": "美国中期选举悬念拆解"
       },
       {
-        "title": "真正的传奇会自己打出贴纸！device 45杀wildcard助力100T压线晋级major",
-        "url": "https://www.bilibili.com/video/BV1Yuxa62E9F",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Yuxa62E9F",
-        "author": "Kyr3",
-        "duration": "2:43",
-        "cover": "//i1.hdslb.com/bfs/archive/02755fc9ffa4b5f01097991e45432129fc41f888.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yuxa62E9F&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "100T压线晋级Major"
-      },
-      {
-        "title": "我国计划在2030年前实现登月！“两次发射、一次登月”方案揭秘",
-        "url": "https://www.bilibili.com/video/BV1cwxp6hEcM",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1cwxp6hEcM",
-        "author": "央视网",
-        "duration": "1:22",
-        "cover": "//i2.hdslb.com/bfs/archive/1885c7a49ec3e7d6ba22b76aa397110c396a8948.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cwxp6hEcM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "两次发射一次登月方案揭秘"
-      },
-      {
-        "title": "美国佛州一飞机1分钟急坠近万米：爆炸燃起巨大火球，机上9人全部遇难",
-        "url": "https://www.bilibili.com/video/BV1zBxa6oEtM",
+        "title": "三分神准！防守扎实！进化成型？打到教练认错！杨瀚森到底都有多强？",
+        "url": "https://www.bilibili.com/video/BV1RHx46AEJz",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "当地时间11月1日，一架载有9人的公务机在美国佛罗里达州棕榈滩县一处居民区，坠毁机上人员全部遇难。这架“里尔60”型飞机从得克萨斯州奥斯汀-伯格斯特龙国际机场起飞，目的地是巴哈马。据美国媒体报道，这架飞机坠毁前在不到一分钟内急坠了31000英尺（约合9450米），飞机坠落并发生爆炸燃起巨大火球和滚滚浓烟。",
-        "content": "当地时间11月1日，一架载有9人的公务机在美国佛罗里达州棕榈滩县一处居民区，坠毁机上人员全部遇难。这架“里尔60”型飞机从得克萨斯州奥斯汀-伯格斯特龙国际机场起飞，目的地是巴哈马。据美国媒体报道，这架飞机坠毁前在不到一分钟内急坠了31000英尺（约合9450米），飞机坠落并发生爆炸燃起巨大火球和滚滚浓烟。",
-        "bvid": "BV1zBxa6oEtM",
-        "author": "青蜂侠-Bee",
-        "duration": "0:18",
-        "cover": "//i1.hdslb.com/bfs/archive/1530e38f6aa327628be87e6c796416669359c6cd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zBxa6oEtM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "美公务机坠毁9人遇难"
+        "description": "终于进入轮换！三分准到离谱！杨瀚森已经是空间型内线？",
+        "content": "终于进入轮换！三分准到离谱！杨瀚森已经是空间型内线？",
+        "bvid": "BV1RHx46AEJz",
+        "author": "大场面埃文",
+        "duration": "7:52",
+        "cover": "//i2.hdslb.com/bfs/archive/d30596235d2a311155dbce78c9bea7e066eac8c9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RHx46AEJz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "杨瀚森首进常规轮换表现如何"
       },
       {
-        "title": "GPT-6.2 Astra 灰测；deepseek 人格独特；Chat/Work 确定合并；Grok 支持支付宝；GLM 5.5、Qwen4、Seedream",
-        "url": "https://www.bilibili.com/video/BV1V4xb6BEUW",
+        "title": "BLG终于晋级，HLE开启疯狂水世界，淘汰赛抽签锐评【火兰吐槽】",
+        "url": "https://www.bilibili.com/video/BV1hmxx64E19",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "白天有事，发晚了，大家应该都看完了吧 ~_~",
-        "content": "白天有事，发晚了，大家应该都看完了吧 ~_~",
-        "bvid": "BV1V4xb6BEUW",
-        "author": "渐近自由JJZY",
-        "duration": "6:35",
-        "cover": "//i2.hdslb.com/bfs/archive/7ffb93b8f3969f91db3bbe7b4d24b9a1db3eee54.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1V4xb6BEUW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GPT 6.2 Astra 灰测"
+        "description": "",
+        "content": "",
+        "bvid": "BV1hmxx64E19",
+        "author": "火兰朋克",
+        "duration": "5:3",
+        "cover": "//i1.hdslb.com/bfs/archive/f8a48762c801e87a5440e5a031c7c32a4e5c13be.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hmxx64E19&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "火兰朋克锐评LPL淘汰赛签运"
       },
       {
-        "title": "《影之刃零》72小时销量突破400万份！可喜可贺！",
-        "url": "https://www.bilibili.com/video/BV1Dexh66EeC",
+        "title": "韩网炸了！BLG淘汰HLE送全队十六强，韩国人怎么评价韩华突然回家？",
+        "url": "https://www.bilibili.com/video/BV1V4xb6BEzN",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "《影之刃零》72小时销量突破400万份！可喜可贺！",
-        "content": "《影之刃零》72小时销量突破400万份！可喜可贺！",
-        "bvid": "BV1Dexh66EeC",
-        "author": "未尽歌未竟",
-        "duration": "2:48",
-        "cover": "//i1.hdslb.com/bfs/archive/975eb179fcd1c0e4ea39d7ee8aaf008cb4eb4a16.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dexh66EeC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "素材若有问题会修改/문제시 삭제",
+        "content": "素材若有问题会修改/문제시 삭제",
+        "bvid": "BV1V4xb6BEzN",
+        "author": "辉锅_",
+        "duration": "4:38",
+        "cover": "//i2.hdslb.com/bfs/archive/33613e70abba54bde6002a385c0f99119f556225.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1V4xb6BEzN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "韩国人怎么看HLE止步十六强"
+      },
+      {
+        "title": "最年轻的F1世界冠军：安东内利历史性加冕时刻",
+        "url": "https://www.bilibili.com/video/BV1ECxa6WEdk",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1ECxa6WEdk",
+        "author": "F1世界锦标赛",
+        "duration": "4:46",
+        "cover": "//i0.hdslb.com/bfs/archive/bafc62e1c34321bea653ae1bb23bc4c9d1d3711a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ECxa6WEdk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "安东内利成F1史上最年轻世界冠军"
+      },
+      {
+        "title": "全位置前三数据【S16全球总决赛-瑞士轮】",
+        "url": "https://www.bilibili.com/video/BV1xZxx6SEv8",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1xZxx6SEv8",
+        "author": "苦练李香兰",
+        "duration": "9:22",
+        "cover": "//i1.hdslb.com/bfs/archive/103c53beeead167e3fd6310bc311a04f0aa9e55c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xZxx6SEv8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S16瑞士轮全位置前三数据"
+      },
+      {
+        "title": "发售仅3天时间！《影之刃零》正式官宣销量突破400万！",
+        "url": "https://www.bilibili.com/video/BV1F5xh6sE4r",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1F5xh6sE4r",
+        "author": "Gable游戏频道",
+        "duration": "1:5",
+        "cover": "//i1.hdslb.com/bfs/archive/1e5fcc0692f6594524e3f9324d3ea16be28f40fc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1F5xh6sE4r&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "影之刃零72小时销量突破400万"
       },
       {
         "title": "牧神记107集",
         "url": "https://www.bilibili.com/video/BV1dRx16WENq",
         "desc": "",
-        "rank": 12,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -318,26 +366,10 @@
         "hotTitle": "牧神记村长剑退神祇"
       },
       {
-        "title": "眼尖网友挖出大消息：官网惊现 Mythos 5.5！",
-        "url": "https://www.bilibili.com/video/BV112xh6aEAP",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV112xh6aEAP",
-        "author": "黑鸦Heya",
-        "duration": "1:29",
-        "cover": "//i2.hdslb.com/bfs/archive/673cc1dcf448abaaba0de94756c8e9593dd176ca.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV112xh6aEAP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Mythos 5.5现身官网"
-      },
-      {
         "title": "【明日方舟】塔露拉实战测评：实力为超大杯中！打破强度疑问，重新正视自我！强烈推荐抽取！",
         "url": "https://www.bilibili.com/video/BV1Mfxt6ZEPZ",
         "desc": "",
-        "rank": 14,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "说实话，塔露拉这个强度我已经够满意了，至少是在我的预期之内。 给到超大杯中也是实至名归了，真正意义上碾碎日常活动之人！ 肉鸽体验更新，听牌遗物直接删除道中，over！ 专精推荐：优先考虑三技能再考虑二技能，一技能随意。 抽取推荐：强烈推荐抽取！ 数据来源：prts。",
@@ -350,10 +382,26 @@
         "hotTitle": "明日方舟塔露拉实战测评"
       },
       {
+        "title": "【复盘】中单差距最大的一集！BLG如何战胜HLE挺进八强？",
+        "url": "https://www.bilibili.com/video/BV12Bx46HE4Y",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV12Bx46HE4Y",
+        "author": "徐桑",
+        "duration": "8:56",
+        "cover": "//i0.hdslb.com/bfs/archive/c5eac49cc79235ca981199c4c59f93737aa25133.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12Bx46HE4Y&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG战胜HLE中单作用有多大"
+      },
+      {
         "title": "全网搬大润发第一人！！！",
         "url": "https://www.bilibili.com/video/BV1sVxv6rEJ7",
         "desc": "",
-        "rank": 15,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -366,26 +414,42 @@
         "hotTitle": "UP主挑战搬空大润发"
       },
       {
-        "title": "登顶榜首！哈弗茨制胜 枪手联赛四连胜 利物浦0比1阿森纳",
-        "url": "https://www.bilibili.com/video/BV1nex86QEkZ",
+        "title": "影之刃零到底是什么样的游戏？他的成功能带来什么影响?《糖九说》#48",
+        "url": "https://www.bilibili.com/video/BV1Wrx46nE5U",
         "desc": "",
-        "rank": 16,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1nex86QEkZ",
-        "author": "吉罗很快乐",
-        "duration": "18:11",
-        "cover": "//i2.hdslb.com/bfs/archive/e1efc328ded904a5d9bcabc0096765bbd4f8f619.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nex86QEkZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "阿森纳1-0利物浦"
+        "bvid": "BV1Wrx46nE5U",
+        "author": "糖七又是糖九",
+        "duration": "13:28",
+        "cover": "//i1.hdslb.com/bfs/archive/b6121aba494b3fcbd7c6a3b7f105d3dafd8494f1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Wrx46nE5U&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "影之刃零想做什么战斗体验"
+      },
+      {
+        "title": "真正的传奇会自己打出贴纸！device 45杀wildcard助力100T压线晋级major",
+        "url": "https://www.bilibili.com/video/BV1Yuxa62E9F",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Yuxa62E9F",
+        "author": "Kyr3",
+        "duration": "2:43",
+        "cover": "//i1.hdslb.com/bfs/archive/02755fc9ffa4b5f01097991e45432129fc41f888.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Yuxa62E9F&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "100T压线晋级Major"
       },
       {
         "title": "韩立也是见到了天道盟凤冰",
         "url": "https://www.bilibili.com/video/BV11Txk6ZE3Y",
         "desc": "",
-        "rank": 17,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -401,7 +465,7 @@
         "title": "歌剧老师锐评韩娱Aespa、SEVENTEEN、NMIXX、BABYMONSTER",
         "url": "https://www.bilibili.com/video/BV1WRxy6eEwA",
         "desc": "",
-        "rank": 18,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "歌剧老师锐评韩娱Aespa、SEVENTEEN、NMIXX、BABYMONSTER",
@@ -414,138 +478,10 @@
         "hotTitle": "歌剧老师锐评韩娱"
       },
       {
-        "title": "美国中期选举大斗法",
-        "url": "https://www.bilibili.com/video/BV15Mxn6UEnt",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本视频提及事件以及信息来源如下： 《特朗普：成为第51个州，委内瑞拉将再次伟大》来自：上观新闻，2026-10-28 14:53发布 《深度丨特朗普连跑红州20次，奥巴马出山压阵，美国中期选举攻防战怎么打？》来自：上观新闻，2026-10-29 19:20发布 《特朗普发布百万美金悬赏：成功举报选举舞弊、促成舞弊者被定罪，将获得100万美元奖励》来自：威海新闻网，2026-10-27 10:02发布 《美媒爆料：绑架马杜罗前，特朗普特地问了AI数小时；AI告诉特朗普，“马杜罗是极不受欢迎的独裁者，许多委内",
-        "content": "本视频提及事件以及信息来源如下： 《特朗普：成为第51个州，委内瑞拉将再次伟大》来自：上观新闻，2026-10-28 14:53发布 《深度丨特朗普连跑红州20次，奥巴马出山压阵，美国中期选举攻防战怎么打？》来自：上观新闻，2026-10-29 19:20发布 《特朗普发布百万美金悬赏：成功举报选举舞弊、促成舞弊者被定罪，将获得100万美元奖励》来自：威海新闻网，2026-10-27 10:02发布 《美媒爆料：绑架马杜罗前，特朗普特地问了AI数小时；AI告诉特朗普，“马杜罗是极不受欢迎的独裁者，许多委内",
-        "bvid": "BV15Mxn6UEnt",
-        "author": "燕三嘤嘤嘤",
-        "duration": "40:40",
-        "cover": "//i0.hdslb.com/bfs/archive/b87a2d6adb8e86c80d46bc2e3e0084be5f080f72.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Mxn6UEnt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中期选举对特朗普有多重要"
-      },
-      {
-        "title": "2026 bilibili 超级科学晚全程回顾（上）",
-        "url": "https://www.bilibili.com/video/BV1fRx76UEPU",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "2026最前沿的科技盛会 更多精彩>>>https://www.bilibili.com/blackboard/era/fQkSZPjwhLHQrH1R.html",
-        "content": "2026最前沿的科技盛会 更多精彩>>>https://www.bilibili.com/blackboard/era/fQkSZPjwhLHQrH1R.html",
-        "bvid": "BV1fRx76UEPU",
-        "author": "哔哩哔哩弹幕网",
-        "duration": "75:30",
-        "cover": "//i0.hdslb.com/bfs/archive/845278f0b2ce36647f906fc0a1f2002c3a14654d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fRx76UEPU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "超级科学晚全程回顾"
-      },
-      {
-        "title": "全球笑点下降2000倍而我不变【第二集】",
-        "url": "https://www.bilibili.com/video/BV1TxxC6vEo4",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这一集等于我做三个视频了...我要去睡觉了 不过，很多朋友不知道怎么看完整版，关注雀巢 搞笑人才断代，龙国岌岌可危，雀巢被推上擂台。全民嘲笑他长这么帅根本不会搞笑，樱花国笑出眼泪。下一秒，雀巢讲出核弹级地狱笑话。当雀巢获胜，全网跪了。世人终于颤栗，龙国的搞笑大王，终于诞生！",
-        "content": "这一集等于我做三个视频了...我要去睡觉了 不过，很多朋友不知道怎么看完整版，关注雀巢 搞笑人才断代，龙国岌岌可危，雀巢被推上擂台。全民嘲笑他长这么帅根本不会搞笑，樱花国笑出眼泪。下一秒，雀巢讲出核弹级地狱笑话。当雀巢获胜，全网跪了。世人终于颤栗，龙国的搞笑大王，终于诞生！",
-        "bvid": "BV1TxxC6vEo4",
-        "author": "逗比的雀巢",
-        "duration": "16:8",
-        "cover": "//i2.hdslb.com/bfs/archive/b469c3f10f8498c42cd3a29741fe501fc9aad287.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TxxC6vEo4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "假如世界举办绷住大赛"
-      },
-      {
-        "title": "《影之刃零》逆天者难度电影级全程无伤全收集全成就全支线全流程攻略-4K、最高画质、白金、影之刃零无伤通关攻略结局全BOSS无伤",
-        "url": "https://www.bilibili.com/video/BV13vsf6DEnn",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV13vsf6DEnn",
-        "author": "劍訣浮雲",
-        "duration": "215:18",
-        "cover": "//i0.hdslb.com/bfs/archive/c40d9b7c66abadd580c50e9432dc084f59218f7f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13vsf6DEnn&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "纯黑影之刃逆天者全程无伤解说"
-      },
-      {
-        "title": "最年轻的F1世界冠军：安东内利历史性加冕时刻",
-        "url": "https://www.bilibili.com/video/BV1ECxa6WEdk",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ECxa6WEdk",
-        "author": "F1世界锦标赛",
-        "duration": "4:46",
-        "cover": "//i0.hdslb.com/bfs/archive/bafc62e1c34321bea653ae1bb23bc4c9d1d3711a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ECxa6WEdk&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "安东内利成F1史上最年轻世界冠军"
-      },
-      {
-        "title": "【狗蛋的游戏评测】影之刃零—破局",
-        "url": "https://www.bilibili.com/video/BV1wvxC6bEws",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "总之，当务之急是睡觉",
-        "content": "总之，当务之急是睡觉",
-        "bvid": "BV1wvxC6bEws",
-        "author": "Tdogegg",
-        "duration": "25:44",
-        "cover": "//i0.hdslb.com/bfs/archive/40326ccbc79b3a24f49212c3b8503705524c6f94.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wvxC6bEws&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "影之刃零游戏评测"
-      },
-      {
-        "title": "全位置前三数据【S16全球总决赛-瑞士轮】",
-        "url": "https://www.bilibili.com/video/BV1xZxx6SEv8",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1xZxx6SEv8",
-        "author": "苦练李香兰",
-        "duration": "9:22",
-        "cover": "//i1.hdslb.com/bfs/archive/103c53beeead167e3fd6310bc311a04f0aa9e55c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xZxx6SEv8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S16瑞士轮全位置前三数据"
-      },
-      {
-        "title": "够菜才能发现的彩蛋，影之刃零【彩蛋艺术馆】",
-        "url": "https://www.bilibili.com/video/BV1brxJ6TExt",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "爱您",
-        "content": "爱您",
-        "bvid": "BV1brxJ6TExt",
-        "author": "黑椒墨鱼",
-        "duration": "7:1",
-        "cover": "//i2.hdslb.com/bfs/archive/39c15326fdec6e7abf5c74a4a6a16689b930a752.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1brxJ6TExt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "影之刃零不小心就错过的彩蛋"
-      },
-      {
         "title": "公司给粉丝安排了35万元的游艇…",
         "url": "https://www.bilibili.com/video/BV1rKxi6KEuA",
         "desc": "",
-        "rank": 27,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "这次我们来到了地中海，带粉丝体验世界上最新、最贵、最大的帆船游艇——东方快车科林斯号。而它与我们熟知的游轮有什么区别呢？又会带来什么独特而又奢华的体验？如果喜欢本期视频，记得多多点赞支持我们！",
@@ -558,26 +494,42 @@
         "hotTitle": "UP主挑战和粉丝包下一座游艇"
       },
       {
-        "title": "豪还装？无言七局狂送16个，KSG憾败LGD，年总止步八强！",
-        "url": "https://www.bilibili.com/video/BV1nbxt67Esu",
+        "title": "重大发现！故宫太和殿的天花板上竟藏了颗百年前的“监控”！",
+        "url": "https://www.bilibili.com/video/BV1jTxC6mExW",
         "desc": "",
-        "rank": 28,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
-        "description": "合作@清墨坦泽飞 @问鼎巅峰之路-小胖 @上道 @獺兔 @奇轵 @瓦系安崽Ovo @蓝色大肥鱼promax至尊版 【2026KPL年度总决赛】11月1日 KSG 3:4 杭州LGD.NBW",
-        "content": "合作@清墨坦泽飞 @问鼎巅峰之路-小胖 @上道 @獺兔 @奇轵 @瓦系安崽Ovo @蓝色大肥鱼promax至尊版 【2026KPL年度总决赛】11月1日 KSG 3:4 杭州LGD.NBW",
-        "bvid": "BV1nbxt67Esu",
-        "author": "兼职打工王三两",
-        "duration": "6:16",
-        "cover": "//i0.hdslb.com/bfs/archive/bf2870d38c6778edecf390a14c443f7e9acd0c50.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nbxt67Esu&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "KSG止步年总八强"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1jTxC6mExW",
+        "author": "南翔",
+        "duration": "8:54",
+        "cover": "//i1.hdslb.com/bfs/archive/3fda39c2a9a123d523f8e1b85c3215a92bd0f376.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jTxC6mExW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主手工复刻故宫同款蟠龙藻井"
+      },
+      {
+        "title": "耗时9天，我拼出了终极版复仇者大厦！",
+        "url": "https://www.bilibili.com/video/BV1qbxy6HENK",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "哪个漫威迷不想拥有一座终极版的复仇者大厦呢！",
+        "content": "哪个漫威迷不想拥有一座终极版的复仇者大厦呢！",
+        "bvid": "BV1qbxy6HENK",
+        "author": "炒蛋车间长",
+        "duration": "14:23",
+        "cover": "//i2.hdslb.com/bfs/archive/1996803b11af59208c5564dbae2cc9a9eb744b05.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qbxy6HENK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主用乐高拼漫威复仇者大厦"
       },
       {
         "title": "不是所有IP都叫CPOPwave 绝区零匠心雕琢的用户品质口碑正在绵延生长",
         "url": "https://www.bilibili.com/video/BV12Axk6hEhg",
         "desc": "",
-        "rank": 29,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "#CPOPwave集结出海顶流IP 「zenless zone zero」看！@绝区零 匠心雕琢的用户品质口碑，正在绵延生长。CPOPwave2026中国潮流IP年度现场即将开启，快来一起感受新艾利都的都市狂想！11月2日来群像展现场可以抽发布之夜门票，不是所有的IP都叫CPOPwave，#今年谁上乌镇峰会的总台CPOPwave了 #乌镇网事",
@@ -588,6 +540,54 @@
         "cover": "//i1.hdslb.com/bfs/archive/c27b02121a71bb87f8feba647443b4f908905017.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12Axk6hEhg&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "央视频专访绝区零制作人"
+      },
+      {
+        "title": "【狗蛋的游戏评测】影之刃零—破局",
+        "url": "https://www.bilibili.com/video/BV1wvxC6bEws",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "总之，当务之急是睡觉",
+        "content": "总之，当务之急是睡觉",
+        "bvid": "BV1wvxC6bEws",
+        "author": "Tdogegg",
+        "duration": "25:44",
+        "cover": "//i0.hdslb.com/bfs/archive/40326ccbc79b3a24f49212c3b8503705524c6f94.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wvxC6bEws&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "影之刃零游戏评测"
+      },
+      {
+        "title": "《洛克王国：世界》S5赛季异色精灵展示",
+        "url": "https://www.bilibili.com/video/BV1Gwxq6oEKa",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "阿官温馨提示： 《洛克王国：世界》S5赛季「圣龙宝藏」将于11月5日正式开启！ ▶游戏支持PC/安卓/鸿蒙/iOS多端游玩，全平台数据互通 ▶S4赛季创作者激励火热进行中： https://www.bilibili.com/blackboard/era/BV4aEWJEimiFwu0d.html",
+        "content": "阿官温馨提示： 《洛克王国：世界》S5赛季「圣龙宝藏」将于11月5日正式开启！ ▶游戏支持PC/安卓/鸿蒙/iOS多端游玩，全平台数据互通 ▶S4赛季创作者激励火热进行中： https://www.bilibili.com/blackboard/era/BV4aEWJEimiFwu0d.html",
+        "bvid": "BV1Gwxq6oEKa",
+        "author": "洛克王国世界",
+        "duration": "5:31",
+        "cover": "//i1.hdslb.com/bfs/archive/27a45bdcb5a9ca06cc5b36dab844c0daf77dc463.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Gwxq6oEKa&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "洛克王国S5异色精灵展示"
+      },
+      {
+        "title": "全球笑点下降2000倍而我不变【第二集】",
+        "url": "https://www.bilibili.com/video/BV1TxxC6vEo4",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这一集等于我做三个视频了...我要去睡觉了 不过，很多朋友不知道怎么看完整版，关注雀巢 搞笑人才断代，龙国岌岌可危，雀巢被推上擂台。全民嘲笑他长这么帅根本不会搞笑，樱花国笑出眼泪。下一秒，雀巢讲出核弹级地狱笑话。当雀巢获胜，全网跪了。世人终于颤栗，龙国的搞笑大王，终于诞生！",
+        "content": "这一集等于我做三个视频了...我要去睡觉了 不过，很多朋友不知道怎么看完整版，关注雀巢 搞笑人才断代，龙国岌岌可危，雀巢被推上擂台。全民嘲笑他长这么帅根本不会搞笑，樱花国笑出眼泪。下一秒，雀巢讲出核弹级地狱笑话。当雀巢获胜，全网跪了。世人终于颤栗，龙国的搞笑大王，终于诞生！",
+        "bvid": "BV1TxxC6vEo4",
+        "author": "逗比的雀巢",
+        "duration": "16:8",
+        "cover": "//i2.hdslb.com/bfs/archive/b469c3f10f8498c42cd3a29741fe501fc9aad287.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TxxC6vEo4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "假如世界举办绷住大赛"
       },
       {
         "title": "AI预测BLG VS HLE丨S16十六强生死一战，AI如何BP？谁是突破口？谁又是关键人物？图一乐继续",
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+        "url": "https://www.qbitai.com/2026/11/507082.html",
+        "desc": "HuggingFace疑似泄露权重已被下5000次",
+        "cover": "",
+        "date": "2026-11-02T12:28:53",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "三年前布局，今年爆火丨西湖大学成立新中心",
         "url": "https://www.qbitai.com/2026/11/507076.html",
         "desc": "西湖世界模型研究中心成立",
@@ -615,7 +625,7 @@
         "date": "2026-11-01T21:28:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
@@ -625,7 +635,7 @@
         "date": "2026-11-01T21:09:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
@@ -635,7 +645,7 @@
         "date": "2026-11-01T16:02:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
@@ -645,7 +655,7 @@
         "date": "2026-11-01T15:50:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "Jev新成果，再次引爆开源",
@@ -655,7 +665,7 @@
         "date": "2026-11-01T12:18:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
@@ -665,7 +675,7 @@
         "date": "2026-10-31T21:49:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
@@ -675,7 +685,7 @@
         "date": "2026-10-31T13:17:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
@@ -685,7 +695,7 @@
         "date": "2026-10-31T13:11:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
@@ -695,7 +705,7 @@
         "date": "2026-10-31T13:05:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
@@ -705,7 +715,7 @@
         "date": "2026-10-30T20:58:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
@@ -715,7 +725,7 @@
         "date": "2026-10-30T19:05:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
@@ -725,7 +735,7 @@
         "date": "2026-10-30T18:44:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
@@ -735,7 +745,7 @@
         "date": "2026-10-30T16:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
@@ -745,7 +755,7 @@
         "date": "2026-10-30T16:12:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
@@ -755,7 +765,7 @@
         "date": "2026-10-30T15:31:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
@@ -765,7 +775,7 @@
         "date": "2026-10-30T13:52:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "Claude新模型曝光：新Fable，新Opus…",
@@ -775,7 +785,7 @@
         "date": "2026-10-30T13:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
@@ -785,7 +795,7 @@
         "date": "2026-10-30T11:48:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
@@ -795,7 +805,7 @@
         "date": "2026-10-30T11:40:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
@@ -805,7 +815,7 @@
         "date": "2026-10-30T08:19:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
@@ -815,7 +825,7 @@
         "date": "2026-10-29T17:58:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
@@ -825,7 +835,7 @@
         "date": "2026-10-29T17:52:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "AI安全是AI规模化应用“加速器”",
@@ -835,7 +845,7 @@
         "date": "2026-10-29T16:50:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
@@ -845,7 +855,7 @@
         "date": "2026-10-29T14:53:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
@@ -855,7 +865,7 @@
         "date": "2026-10-29T14:51:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "IDC最新报告：MaaS市场分化，PPIO拿下独立服务商首位",
@@ -865,7 +875,7 @@
         "date": "2026-10-29T14:13:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "敢和英伟达现场PK的国产GPU，我是服的",
@@ -875,7 +885,7 @@
         "date": "2026-10-29T13:57:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
@@ -885,7 +895,7 @@
         "date": "2026-10-29T11:27:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
@@ -893,16 +903,6 @@
         "desc": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/503582c343c291bf43e3e7b6383370c4.jpeg",
         "date": "2026-10-29T10:51:45",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-        "url": "https://www.qbitai.com/2026/10/505934.html",
-        "desc": "用扩散模型怎么做做Agent？",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/c045b0d5-776f-4782-a7c6-f42ae0b115a7.png",
-        "date": "2026-10-29T10:18:28",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -940,6 +940,46 @@
         "rank": 3
       },
       {
+        "title": "佳电股份：公司没有机器人产品，正开展机器手代替人工数字化改造",
+        "url": "https://m.36kr.com/newsflashes/4052131461534856",
+        "desc": "36氪获悉，佳电股份在互动平台表示，公司目前没有机器人产品。公司正在开展机器手代替人工数字化改造，现定子铁心叠装、定子铁心焊接、转子喷漆已实现机器手应用，该改造主要用于公司自身生产制造环节。公司研发计划需根据市场政策、行业发展、公司战略布局及实际情况等因素综合决定。",
+        "cover": "",
+        "date": 1793594476900,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "江南化工：公司主营业务不涉及机器人相关业务",
+        "url": "https://m.36kr.com/newsflashes/4052114796876934",
+        "desc": "36氪获悉，江南化工在互动平台表示，2015年公司实施了对北京光年无限科技有限公司的参股投资，截至目前，公司持有北京光年无限科技有限公司约12.91%股权。公司主营业务不涉及机器人相关业务。",
+        "cover": "https://img.36krcdn.com/hsossms/20261102/v2_e8dd2c9949f84f53816cb4d673713092@5579416_oswg53991oswg1086oswg300_img_png",
+        "date": 1793594118000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "国际复材：T布已向主流客户小批量供货，当前供给仍存较大缺口",
+        "url": "https://m.36kr.com/newsflashes/4052101349118848",
+        "desc": "国际复材近日在业绩说明会上表示，当前电子布板块整体供需关系紧张，但存在结构分化，产品价格受行业供需格局、下游需求、原材料等多重因素综合影响，不同规格产品价格表现存在差异。公司T布已向主流客户小批量供货，当前供给仍存在较大缺口。二代布受产能约束，现阶段供货仍以战略客户为主。特种布项目进度、规划比例将结合市场需求、产线爬坡及效益情况统筹安排。（证券时报）",
+        "cover": "",
+        "date": 1793593836000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "回天新材：半导体封装用胶部分产品实现批量供货",
+        "url": "https://m.36kr.com/newsflashes/4052100712403842",
+        "desc": "回天新材近日在分析师会议上表示，三季度电子电器板块整体保持较快增长，收入占比持续提升。消费电子业务延续良好增长态势，头部客户订单稳步上量；半导体封装用胶在多家客户推进测试导入，部分产品实现批量供货，当前业务体量相对较小；汽车电子智能化配套用胶稳步拓展，光模块用胶持续推进客户测试导入。公司将持续加大资源投入，推动高端电子业务稳步放量。（证券时报）",
+        "cover": "",
+        "date": 1793593678000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "北交所上市公司前三季度平均营业收入同比增长15.30%",
         "url": "https://m.36kr.com/newsflashes/4052113856943238",
         "desc": "从北交所获悉，截至10月30日，北交所354家上市公司已全部披露2026年三季报。前三季度平均实现营业收入6.32亿元，同比增长15.30%，平均实现归母净利润4768.32万元，同比增长2.27%，其中288家公司实现盈利，盈利面81.36%。246家公司营业收入同比增长，占比69.49%，51家公司营业收入超过10亿元；162家公司归母净利润同比增长，占比45.76%，41家公司归母净利润超过1亿元。（央视新闻）",
@@ -947,7 +987,7 @@
         "date": 1793593402401,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 8
       },
       {
         "title": "Coal India旗下子公司South Eastern Coalfields提交印度IPO申请",
@@ -957,7 +997,7 @@
         "date": 1793593276466,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "远景投运全球首套一体化800V高压直流供电系统",
@@ -967,7 +1007,7 @@
         "date": 1793593003916,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "长鑫科技在安徽成立芯越产业投资公司，注册资本9亿",
@@ -977,7 +1017,7 @@
         "date": 1793592858000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "报告：我国人工智能推理数据量首超训练数据量",
@@ -987,7 +1027,7 @@
         "date": 1793592450703,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "恒指午间休盘涨0.61%，恒生科技指数涨2.85%",
@@ -997,7 +1037,7 @@
         "date": 1793592187898,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "度小满与香港科技大学联合发布国内首个自进化金融增强大模型",
@@ -1007,7 +1047,7 @@
         "date": 1793591546889,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "平煤股份：近期主焦煤价格呈现上行态势，但盈利弹性存在不确定性",
@@ -1017,7 +1057,7 @@
         "date": 1793591419097,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "半日主力资金加仓电子、计算机板块，抛售煤炭板块",
@@ -1027,7 +1067,7 @@
         "date": 1793590917733,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "A股三大指数午间休盘集体上涨，全市场近4800股飘红",
@@ -1037,7 +1077,7 @@
         "date": 1793590401435,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "美团发布LongCat-2.5大模型",
@@ -1047,7 +1087,7 @@
         "date": 1793589625925,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "恒生科技指数盘中涨超2%",
@@ -1057,7 +1097,7 @@
         "date": 1793589370441,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "Meta与中国企业合作开发人形机器人？傅利叶回应",
@@ -1067,7 +1107,7 @@
         "date": 1793589339041,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "创业板指涨超2%",
@@ -1077,7 +1117,7 @@
         "date": 1793589281791,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "沪深两市成交额连续第348个交易日突破1万亿元",
@@ -1087,7 +1127,7 @@
         "date": 1793589107487,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 22
       },
       {
         "title": "东方甄选在北京成立互联网销售公司，注册资本100万",
@@ -1097,55 +1137,15 @@
         "date": 1793588848197,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "中广核技：截至9月底累计中标3台锗镓发生器，另有5台已发出试用",
-        "url": "https://m.36kr.com/newsflashes/4052035685225344",
-        "desc": "36氪获悉，中广核技发布投资者关系管理信息表示，同位素业务方面，子公司同位素科技于今年7月完成试生产，8月正式向市场销售供应产品。截至9月底，累计中标3台锗镓发生器，另有5台锗镓发生器已发往客户处试用。",
-        "cover": "",
-        "date": 1793588631178,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "李在明：韩国将向AI、数据中心投资21.3万亿韩元，4.6万亿押注自研顶尖大模型",
-        "url": "https://m.36kr.com/newsflashes/4052030389588870",
-        "desc": "韩国总统李在明周一表态，将对人工智能及其他未来增长引擎产业加大力度投入，以此提振韩国经济潜在增速，落实他所提出的“全民共享增长”目标。“2027年总支出820.9万亿韩元，为史上最大规模财政投入，增幅达12.8%，创下年度最高增速纪录。”他表示，扩大支出，既是匹配韩国民众理应享有的更高生活水平，也是为了强化国家未来竞争力。 李在明特别提到，政府将投入21.3万亿韩元，推进三大重点项目：打造半导体制造集群、建设数据中心、研发实体人工智能、全面布局AI产业。 此外，单独安排4.6万亿韩元资金，目标自研全球顶尖水平的自主大模型；13.8万亿韩元将投向十大战略技术领域，稳固韩国在这些前沿赛道的绝对竞争力，以此牵引未来经济增长。（新浪财经）",
-        "cover": "",
-        "date": 1793588307958,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "北京：购买智能眼镜补贴15%、最高500元",
-        "url": "https://m.36kr.com/newsflashes/4052022731953288",
-        "desc": "36氪获悉，北京市商务局近日印发《促进智能眼镜消费政策指南》，推出七项支持举措，从购新补贴、首店首发、品牌联名、国际化消费场景、离境退税、数字化转型到国际市场开拓，全链条促进智能眼镜消费，释放新型智能终端消费潜力。指南明确，依据《北京市2026年家电以旧换新、数码和智能产品购新补贴实施细则》，对购买符合条件的智能眼镜产品，按照扣除各环节优惠后最终销售价格的15%给予补贴，每件最高补贴500元。",
-        "cover": "",
-        "date": 1793587840573,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "国家能源局：三季度煤电发电量及电煤用量持续下降，迎峰度冬煤炭库存总体有保障",
-        "url": "https://m.36kr.com/newsflashes/4052017591997316",
-        "desc": "36氪获悉，据国家能源局消息，2026年三季度，我国煤电发电量及占比同比下降，能源低碳转型取得新进展。随着近期煤炭增产保供举措加快实施，煤炭供应稳步恢复，与之同时，煤炭消费相对平稳，供需差进一步收窄，叠加电煤库存保持安全合理区间，为迎峰度冬保供提供坚实基础。煤电发电量及占比同比下降。7、8、9三个月，全国煤电发电量同比分别下降4.0%、4.6%、1.9%，电煤用量相应降低。继今年上半年国内煤电发电量占比首次低于50%以下，9月底进一步降至49.1%。煤电年新增发电量占全社会新增用电量的比例持续下降，9月底降至4.4%。煤炭库存处于安全合理区间。截至10月25日，环渤海港口存煤2692万吨，同比增加215万吨，其中秦皇岛港存煤595万吨，同比增加42万吨。全国统调电厂存煤保持较高水平，10月25日为2.1亿吨，平均可用35天，与近三年平均水平相当。",
-        "cover": "",
-        "date": 1793587526855,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793593564591,
-    "bilibili": 1793592721266,
-    "qbitai": 1793564794678,
-    "36kr": 1793564795077
+    "thepaper": 1793594463970,
+    "bilibili": 1793594472573,
+    "qbitai": 1793565693727,
+    "36kr": 1793565694072
   },
   "failures": {}
 }
