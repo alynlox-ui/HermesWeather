@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T21:41:30Z",
+  "updatedAt": "2026-11-01T21:56:28Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -398,19 +398,19 @@
         "hotTitle": "UP主挑战和粉丝包下一座游艇"
       },
       {
-        "title": "牧神记107集",
-        "url": "https://www.bilibili.com/video/BV1dRx16WENq",
+        "title": "牧神记108",
+        "url": "https://www.bilibili.com/video/BV1gCxW6HEbr",
         "desc": "",
         "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1dRx16WENq",
-        "author": "埋头苦干3",
-        "duration": "20:52",
-        "cover": "//i2.hdslb.com/bfs/archive/1dabaeeedfc93d4725376b9daf9e8cfe9374df4b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dRx16WENq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1gCxW6HEbr",
+        "author": "归入云天_",
+        "duration": "16:31",
+        "cover": "//i1.hdslb.com/bfs/archive/92427d9342dfc0ad1976a1f99b3b86345ec42971.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gCxW6HEbr&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "牧神记村长剑退神祇"
       },
       {
@@ -940,6 +940,36 @@
         "rank": 3
       },
       {
+        "title": "爱奇艺在广州成立新文化传媒公司，注册资本1000万",
+        "url": "https://m.36kr.com/newsflashes/4052203269985410",
+        "desc": "36氪获悉，天眼查App显示，近日，广州爱奇艺文化传媒有限公司成立，法定代表人为王晓晖，注册资本1000万元人民币，经营范围包括文艺创作、电影摄制服务、广播电视节目制作经营等。股东信息显示，该公司由北京爱奇艺音画传媒有限公司全资持股。",
+        "cover": "",
+        "date": 1793598859740,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "文投控股午后上演“地天板”，走出9天5板",
+        "url": "https://m.36kr.com/newsflashes/4052199028085889",
+        "desc": "36氪获悉，午后AI漫剧概念文投控股直线涨停，上演“地天板”，走出9天5板，成交超7亿元，该股早盘以跌停价开盘。",
+        "cover": "",
+        "date": 1793598600835,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "恒生科技指数午后涨幅扩大至3%",
+        "url": "https://m.36kr.com/newsflashes/4052195194623113",
+        "desc": "36氪获悉，恒生科技指数午后涨幅扩大至3%，地平线机器人涨超8%，小米集团涨超7%。",
+        "cover": "",
+        "date": 1793598366859,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "宽基ETF午后成交继续抬升，科创50ETF华夏、创业板ETF易方达均破百亿",
         "url": "https://m.36kr.com/newsflashes/4052188767802249",
         "desc": "午后，多只宽基ETF成交额再度拉升。截至13时30分，科创50ETF华夏成交额突破115亿元，接近前一交易日全天成交额；创业板ETF易方达成交额突破100亿元；沪深300ETF华泰柏瑞成交额超越上日全天后继续走高，当前成交近95亿元，向百亿关口靠拢。（第一财经）",
@@ -947,7 +977,7 @@
         "date": 1793597974597,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "嘉能可寻求达成CEO薪酬新协议，以应对潜在收购对股价的冲击",
@@ -957,7 +987,7 @@
         "date": 1793597935051,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "花旗：韩国经常账户盈余正呈现结构性扩大趋势，未来三个月美元兑韩元汇率将降至1300",
@@ -967,7 +997,7 @@
         "date": 1793597782991,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "博盈特焊：越南生产基地已有8条HRSG生产线投入生产",
@@ -977,7 +1007,7 @@
         "date": 1793597470783,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "高盛上调原油价格预期，因为供应风险“重大”",
@@ -987,7 +1017,7 @@
         "date": 1793596877822,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "中国外卖产业大会：过去一年，四五线及以下城市订单增速均达一线城市的2倍以上",
@@ -997,7 +1027,7 @@
         "date": 1793596676199,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "立讯精密：CPC和XPO产品与头部客户还在进行方案验证",
@@ -1007,7 +1037,7 @@
         "date": 1793596510000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "燃料成本攀升，东京与中部地区电价创多年新高",
@@ -1017,7 +1047,7 @@
         "date": 1793595924000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "阿联酋与OpenAI签署协议，涵盖能源领域",
@@ -1027,7 +1057,7 @@
         "date": 1793595866670,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "新凤鸣在湖北成立新材料公司，注册资本1亿元",
@@ -1037,7 +1067,7 @@
         "date": 1793595481000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "布鲁克菲尔德牵头韩国有史以来规模最大的银团贷款",
@@ -1047,7 +1077,7 @@
         "date": 1793595024000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "高盛预计英国央行将在2027年2月加息25个基点，将终端利率推升至4.25%‌",
@@ -1057,7 +1087,7 @@
         "date": 1793594547000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "佳电股份：公司没有机器人产品，正开展机器手代替人工数字化改造",
@@ -1067,7 +1097,7 @@
         "date": 1793594476900,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "江南化工：公司主营业务不涉及机器人相关业务",
@@ -1077,7 +1107,7 @@
         "date": 1793594118000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "国际复材：T布已向主流客户小批量供货，当前供给仍存较大缺口",
@@ -1087,7 +1117,7 @@
         "date": 1793593836000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "回天新材：半导体封装用胶部分产品实现批量供货",
@@ -1097,7 +1127,7 @@
         "date": 1793593678000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "北交所上市公司前三季度平均营业收入同比增长15.30%",
@@ -1107,45 +1137,15 @@
         "date": 1793593402401,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "Coal India旗下子公司South Eastern Coalfields提交印度IPO申请",
-        "url": "https://m.36kr.com/newsflashes/4052100279391105",
-        "desc": "印度国营煤炭巨头Coal India旗下的子公司South Eastern Coalfields Ltd.已向印度市场监管机构提交首次公开募股（IPO）的招股说明书草案。根据提交给印度证券交易委员会（SEBI）的招股说明书草案，此次发售将完全由母公司Coal India出售现有股份，不会发行新股。招股说明书显示，Coal India计划出售最多6.681亿股。此次IPO的联席账簿管理人包括：SBI Capital Markets Ltd.、ICICI Securities Ltd.、IDBI Capital Markets & Securities Ltd. 以及 Motilal Oswal Investment Advisors Ltd.知情人士透露，此次IPO最多可筹集8亿美元。（新浪财经）",
-        "cover": "",
-        "date": 1793593276466,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "远景投运全球首套一体化800V高压直流供电系统",
-        "url": "https://m.36kr.com/newsflashes/4052107328164742",
-        "desc": "36氪获悉，11月2日，远景科技集团宣布，其一体化800V高压直流供电系统在远景乌兰察布星河基地实现端到端贯通。作为全球首套在大型AI数据中心投入商业化运行的一体化800V高压直流供电系统，该系统由远景天枢控制器、固态变压器（SST）、直流储能（BESS）及DC/DC构成，开创了AI数据中心供配电新模式。远景乌兰察布星河基地于今年8月投产。园区规划容量3GW，建成后可承载百万卡并行、百万P算力规模，绿电直连比例将超过80%。",
-        "cover": "",
-        "date": 1793593003916,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "长鑫科技在安徽成立芯越产业投资公司，注册资本9亿",
-        "url": "https://m.36kr.com/newsflashes/4052098084263046",
-        "desc": "36氪获悉，天眼查App显示，近日，长鑫芯越产业投资（安徽）有限公司成立，法定代表人为赵纶，注册资本9亿元人民币，经营范围为以自有资金从事投资活动。股东信息显示，该公司由长鑫科技集团股份有限公司全资持股。",
-        "cover": "",
-        "date": 1793592858000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793598064998,
-    "bilibili": 1793598075912,
-    "qbitai": 1793569290008,
-    "36kr": 1793569290588
+    "thepaper": 1793598964702,
+    "bilibili": 1793597664425,
+    "qbitai": 1793570187996,
+    "36kr": 1793570188433
   },
   "failures": {}
 }
