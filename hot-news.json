@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:41:34Z",
+  "updatedAt": "2026-11-01T20:57:04Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -334,19 +334,19 @@
         "hotTitle": "S16瑞士轮全位置前三数据"
       },
       {
-        "title": "发售仅3天时间！《影之刃零》正式官宣销量突破400万！",
-        "url": "https://www.bilibili.com/video/BV1F5xh6sE4r",
+        "title": "三天时间拿下400万销量！《影之刃零》官方销量公布 bug修复中 近期上线更新",
+        "url": "https://www.bilibili.com/video/BV1Dixh6uELX",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1F5xh6sE4r",
-        "author": "Gable游戏频道",
-        "duration": "1:5",
-        "cover": "//i1.hdslb.com/bfs/archive/1e5fcc0692f6594524e3f9324d3ea16be28f40fc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1F5xh6sE4r&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1Dixh6uELX",
+        "author": "可乐游戏频道",
+        "duration": "1:23",
+        "cover": "//i2.hdslb.com/bfs/archive/a120b9577159b50008aab0961fb3e2c929ef5e17.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dixh6uELX&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "影之刃零72小时销量突破400万"
       },
       {
@@ -940,6 +940,26 @@
         "rank": 3
       },
       {
+        "title": "布鲁克菲尔德牵头韩国有史以来规模最大的银团贷款",
+        "url": "https://m.36kr.com/newsflashes/4052105069614213",
+        "desc": "全球投资公司布鲁克菲尔德已委任KB国民银行担任牵头安排行，负责韩国有史以来规模最大的银团贷款。贷款资金将用于采购人工智能计算基础设施，包括图形处理器（GPU）。这笔贷款规模为10.7万亿韩元（约合80亿美元）。（新浪财经）",
+        "cover": "",
+        "date": 1793595024000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "高盛预计英国央行将在2027年2月加息25个基点，将终端利率推升至4.25%‌",
+        "url": "https://m.36kr.com/newsflashes/4052108067263616",
+        "desc": "高盛预计英国央行将在2027年2月加息25个基点，将终端利率推升至4.25%‌，在2027年中期之前将维持在4.25%的水平，随后从2027年第四季度开始按季度下调至3.25%的最终不变利率。（财联社）",
+        "cover": "",
+        "date": 1793594547000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "佳电股份：公司没有机器人产品，正开展机器手代替人工数字化改造",
         "url": "https://m.36kr.com/newsflashes/4052131461534856",
         "desc": "36氪获悉，佳电股份在互动平台表示，公司目前没有机器人产品。公司正在开展机器手代替人工数字化改造，现定子铁心叠装、定子铁心焊接、转子喷漆已实现机器手应用，该改造主要用于公司自身生产制造环节。公司研发计划需根据市场政策、行业发展、公司战略布局及实际情况等因素综合决定。",
@@ -947,7 +967,7 @@
         "date": 1793594476900,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "江南化工：公司主营业务不涉及机器人相关业务",
@@ -957,7 +977,7 @@
         "date": 1793594118000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "国际复材：T布已向主流客户小批量供货，当前供给仍存较大缺口",
@@ -967,7 +987,7 @@
         "date": 1793593836000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "回天新材：半导体封装用胶部分产品实现批量供货",
@@ -977,7 +997,7 @@
         "date": 1793593678000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "北交所上市公司前三季度平均营业收入同比增长15.30%",
@@ -987,7 +1007,7 @@
         "date": 1793593402401,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "Coal India旗下子公司South Eastern Coalfields提交印度IPO申请",
@@ -997,7 +1017,7 @@
         "date": 1793593276466,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "远景投运全球首套一体化800V高压直流供电系统",
@@ -1007,7 +1027,7 @@
         "date": 1793593003916,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "长鑫科技在安徽成立芯越产业投资公司，注册资本9亿",
@@ -1017,7 +1037,7 @@
         "date": 1793592858000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "报告：我国人工智能推理数据量首超训练数据量",
@@ -1027,7 +1047,7 @@
         "date": 1793592450703,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "恒指午间休盘涨0.61%，恒生科技指数涨2.85%",
@@ -1037,7 +1057,7 @@
         "date": 1793592187898,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "度小满与香港科技大学联合发布国内首个自进化金融增强大模型",
@@ -1047,7 +1067,7 @@
         "date": 1793591546889,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "平煤股份：近期主焦煤价格呈现上行态势，但盈利弹性存在不确定性",
@@ -1057,7 +1077,7 @@
         "date": 1793591419097,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "半日主力资金加仓电子、计算机板块，抛售煤炭板块",
@@ -1067,7 +1087,7 @@
         "date": 1793590917733,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "A股三大指数午间休盘集体上涨，全市场近4800股飘红",
@@ -1077,7 +1097,7 @@
         "date": 1793590401435,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "美团发布LongCat-2.5大模型",
@@ -1087,7 +1107,7 @@
         "date": 1793589625925,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "恒生科技指数盘中涨超2%",
@@ -1097,7 +1117,7 @@
         "date": 1793589370441,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "Meta与中国企业合作开发人形机器人？傅利叶回应",
@@ -1107,7 +1127,7 @@
         "date": 1793589339041,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "创业板指涨超2%",
@@ -1117,35 +1137,15 @@
         "date": 1793589281791,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "沪深两市成交额连续第348个交易日突破1万亿元",
-        "url": "https://m.36kr.com/newsflashes/4052043489072007",
-        "desc": "36氪获悉，沪深两市成交额连续第348个交易日突破1万亿元。",
-        "cover": "",
-        "date": 1793589107487,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "东方甄选在北京成立互联网销售公司，注册资本100万",
-        "url": "https://m.36kr.com/newsflashes/4052039240864648",
-        "desc": "36氪获悉，天眼查App显示，近日，东方甄选（北京）互联网销售有限公司成立，法定代表人为张健，注册资本100万元人民币，经营范围包括食品互联网销售、日用品销售、日用品批发等。股东信息显示，该公司由东方甄选关联公司东方优选（北京）科技有限公司全资持股。",
-        "cover": "",
-        "date": 1793588848197,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793594463970,
-    "bilibili": 1793594472573,
-    "qbitai": 1793565693727,
-    "36kr": 1793565694072
+    "thepaper": 1793595367958,
+    "bilibili": 1793594061986,
+    "qbitai": 1793566624459,
+    "36kr": 1793566624773
   },
   "failures": {}
 }
