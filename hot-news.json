@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T04:41:49Z",
+  "updatedAt": "2026-11-02T04:56:24Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -142,20 +142,20 @@
         "hotTitle": "北京JDG战胜重庆狼队 KPL"
       },
       {
-        "title": "DeepSeek 新出的 Super-agent 实测：介绍、原理、安装、使用，一次讲清楚",
-        "url": "https://www.bilibili.com/video/BV1Duxt6cEGL",
+        "title": "宇宙回信：来自黑洞的一支“双人舞”",
+        "url": "https://www.bilibili.com/video/BV1waxT6REgH",
         "desc": "",
         "rank": 2,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Duxt6cEGL",
-        "author": "牧羊人AILab",
-        "duration": "6:59",
-        "cover": "//i1.hdslb.com/bfs/archive/8e90e6d91b2d1224f4b018a154bc49d40709c08b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Duxt6cEGL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "DeepSeek新架构详解"
+        "description": "演讲嘉宾：中国科学院国家天文台 研究员 王亚楠 更多详情：https://www.bilibili.com/blackboard/era/mlM8x7EDc2rhV3vQ.html?spm_id_from=333.1007.0.0",
+        "content": "演讲嘉宾：中国科学院国家天文台 研究员 王亚楠 更多详情：https://www.bilibili.com/blackboard/era/mlM8x7EDc2rhV3vQ.html?spm_id_from=333.1007.0.0",
+        "bvid": "BV1waxT6REgH",
+        "author": "哔哩哔哩超级科学晚",
+        "duration": "9:36",
+        "cover": "//i0.hdslb.com/bfs/archive/9ef29502b0d4bb2123cc412d672b2014501594ce.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1waxT6REgH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "来自黑洞的一支双人舞"
       },
       {
         "title": "2026全球总决赛瑞士轮第八日英雄麦克疯：“交流做好 好好打就行了！～”",
@@ -190,26 +190,10 @@
         "hotTitle": "BLG晋级八强赛事语音"
       },
       {
-        "title": "宇宙回信：来自黑洞的一支“双人舞”",
-        "url": "https://www.bilibili.com/video/BV1waxT6REgH",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "演讲嘉宾：中国科学院国家天文台 研究员 王亚楠 更多详情：https://www.bilibili.com/blackboard/era/mlM8x7EDc2rhV3vQ.html?spm_id_from=333.1007.0.0",
-        "content": "演讲嘉宾：中国科学院国家天文台 研究员 王亚楠 更多详情：https://www.bilibili.com/blackboard/era/mlM8x7EDc2rhV3vQ.html?spm_id_from=333.1007.0.0",
-        "bvid": "BV1waxT6REgH",
-        "author": "哔哩哔哩超级科学晚",
-        "duration": "9:36",
-        "cover": "//i0.hdslb.com/bfs/archive/9ef29502b0d4bb2123cc412d672b2014501594ce.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1waxT6REgH&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "来自黑洞的一支双人舞"
-      },
-      {
         "title": "许飞厉娜，好高的感情浓度！好美的感情！来自2026的仙品【后会友期04】",
         "url": "https://www.bilibili.com/video/BV1RWxb6zEqK",
         "desc": "",
-        "rank": 6,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "染上飞雪轻而易举，做她们两个人的视频，都会嘴角上扬。 ps:本来打算和纯稚的写到一篇，结果太长啦，分两期发。",
@@ -222,19 +206,35 @@
         "hotTitle": "许飞厉娜感情浓度分析"
       },
       {
-        "title": "【CSBOY弹幕录播】Legacy-蒙古丨PV-G2丨黑豹-FaZe丨Falcons-NAVI丨IEM北京首日 2026年11月02日",
-        "url": "https://www.bilibili.com/video/BV165xh6sEto",
+        "title": "FAZE连追十一分上演史诗级翻盘 最终却遭到了黑豹的让一追二",
+        "url": "https://www.bilibili.com/video/BV1Kk4c6mEw8",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Kk4c6mEw8",
+        "author": "CSGO赛事Jun",
+        "duration": "4:34",
+        "cover": "//i1.hdslb.com/bfs/archive/6ee3d337de32f64ee44ae190dc4651ec69f38695.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Kk4c6mEw8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "黑豹让一追二FaZe"
+      },
+      {
+        "title": "猎鹰遗迹再次落败，🥚看NAVI图一暴打13-5Falcons，京介五杀一绿带四红，小孩假装搜点➕NIKO再现黑屋背身逗笑众人🤣，马卡泽上演惊天180°扫转！",
+        "url": "https://www.bilibili.com/video/BV1HY4P6nEMU",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "自动上传出问题目前是手工上传可能会延迟",
-        "content": "自动上传出问题目前是手工上传可能会延迟",
-        "bvid": "BV165xh6sEto",
-        "author": "MTC君",
-        "duration": "604:35",
-        "cover": "//i2.hdslb.com/bfs/archive/7eac1649ee58412485ef8b1572845a4aff164175.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV165xh6sEto&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1HY4P6nEMU",
+        "author": "CS2_VV",
+        "duration": "19:57",
+        "cover": "//i2.hdslb.com/bfs/archive/78a3ebb27dfb11eddfff9458c209a35ff8b2fe9b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HY4P6nEMU&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "NAVI vs Falcons IEM北京"
       },
       {
@@ -270,20 +270,20 @@
         "hotTitle": "哈利波特麻瓜吃瓜大会"
       },
       {
-        "title": "【真实锐评】S赛八强抽签对局！BLG对战DK TES对战IG T1对战KC这是好事阿！",
-        "url": "https://www.bilibili.com/video/BV1CN4A6DEQM",
+        "title": "BLG八强结算珍贵录像《朝你韩华捏一把》",
+        "url": "https://www.bilibili.com/video/BV1PFx46EEWs",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1CN4A6DEQM",
-        "author": "真实电竞",
-        "duration": "11:11",
-        "cover": "//i0.hdslb.com/bfs/archive/cff4ed302402668f867620063e025ceba4ee9587.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CN4A6DEQM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S16八强抽签结果都是好签吗"
+        "description": "AI生成视频，非真实事件，无不良导向。",
+        "content": "AI生成视频，非真实事件，无不良导向。",
+        "bvid": "BV1PFx46EEWs",
+        "author": "九夜听风",
+        "duration": "1:57",
+        "cover": "//i2.hdslb.com/bfs/archive/4f1f43bba6fb6ac747850304f2a554465a51e25b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PFx46EEWs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG八强结算珍贵录像"
       },
       {
         "title": "女流得知影之刃零销量突破400万当场震惊：72小时400万牛死了 真的很厉害！",
@@ -302,42 +302,74 @@
         "hotTitle": "影之刃零72小时销量突破400万"
       },
       {
-        "title": "BLG八强结算珍贵录像《朝你韩华捏一把》",
-        "url": "https://www.bilibili.com/video/BV1PFx46EEWs",
+        "title": "锐评S16八强赛抽签！LPL胜算几何？为什么说是好签？",
+        "url": "https://www.bilibili.com/video/BV13y4F64EvL",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "AI生成视频，非真实事件，无不良导向。",
-        "content": "AI生成视频，非真实事件，无不良导向。",
-        "bvid": "BV1PFx46EEWs",
-        "author": "九夜听风",
-        "duration": "1:57",
-        "cover": "//i2.hdslb.com/bfs/archive/4f1f43bba6fb6ac747850304f2a554465a51e25b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PFx46EEWs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG八强结算珍贵录像"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV13y4F64EvL",
+        "author": "Super卧龙君",
+        "duration": "12:42",
+        "cover": "//i2.hdslb.com/bfs/archive/4b204f4c8608747b20d9d1c6a44eaf751407d8c3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13y4F64EvL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "LPL淘汰赛是好签吗"
       },
       {
-        "title": "FAZE连追十一分上演史诗级翻盘 最终却遭到了黑豹的让一追二",
-        "url": "https://www.bilibili.com/video/BV1Kk4c6mEw8",
+        "title": "DeepSeek 新出的 Super-agent 实测：介绍、原理、安装、使用，一次讲清楚",
+        "url": "https://www.bilibili.com/video/BV1Duxt6cEGL",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Kk4c6mEw8",
-        "author": "CSGO赛事Jun",
-        "duration": "4:34",
-        "cover": "//i1.hdslb.com/bfs/archive/6ee3d337de32f64ee44ae190dc4651ec69f38695.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Kk4c6mEw8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "黑豹让一追二FaZe"
+        "bvid": "BV1Duxt6cEGL",
+        "author": "牧羊人AILab",
+        "duration": "6:59",
+        "cover": "//i1.hdslb.com/bfs/archive/8e90e6d91b2d1224f4b018a154bc49d40709c08b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Duxt6cEGL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DeepSeek新架构详解"
+      },
+      {
+        "title": "再见敌蜜，双方都很怕对方拿到大结果！",
+        "url": "https://www.bilibili.com/video/BV1Fgx46rEiH",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Fgx46rEiH",
+        "author": "刘哔电影",
+        "duration": "35:5",
+        "cover": "//i0.hdslb.com/bfs/archive/d4b4e26a11fd8eb56ef0f61c2fd9c3addd71e81c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Fgx46rEiH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "后会友期文吉儿王子璇深度解读"
+      },
+      {
+        "title": "【真实锐评】S赛八强抽签对局！BLG对战DK TES对战IG T1对战KC这是好事阿！",
+        "url": "https://www.bilibili.com/video/BV1CN4A6DEQM",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1CN4A6DEQM",
+        "author": "真实电竞",
+        "duration": "11:11",
+        "cover": "//i0.hdslb.com/bfs/archive/cff4ed302402668f867620063e025ceba4ee9587.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CN4A6DEQM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S16八强抽签结果都是好签吗"
       },
       {
         "title": "歌剧老师锐评韩娱Aespa、SEVENTEEN、NMIXX、BABYMONSTER",
         "url": "https://www.bilibili.com/video/BV1WRxy6eEwA",
         "desc": "",
-        "rank": 14,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "歌剧老师锐评韩娱Aespa、SEVENTEEN、NMIXX、BABYMONSTER",
@@ -350,10 +382,58 @@
         "hotTitle": "歌剧老师锐评韩娱"
       },
       {
+        "title": "美国中期选举大斗法",
+        "url": "https://www.bilibili.com/video/BV15Mxn6UEnt",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本视频提及事件以及信息来源如下： 《特朗普：成为第51个州，委内瑞拉将再次伟大》来自：上观新闻，2026-10-28 14:53发布 《深度丨特朗普连跑红州20次，奥巴马出山压阵，美国中期选举攻防战怎么打？》来自：上观新闻，2026-10-29 19:20发布 《特朗普发布百万美金悬赏：成功举报选举舞弊、促成舞弊者被定罪，将获得100万美元奖励》来自：威海新闻网，2026-10-27 10:02发布 《美媒爆料：绑架马杜罗前，特朗普特地问了AI数小时；AI告诉特朗普，“马杜罗是极不受欢迎的独裁者，许多委内",
+        "content": "本视频提及事件以及信息来源如下： 《特朗普：成为第51个州，委内瑞拉将再次伟大》来自：上观新闻，2026-10-28 14:53发布 《深度丨特朗普连跑红州20次，奥巴马出山压阵，美国中期选举攻防战怎么打？》来自：上观新闻，2026-10-29 19:20发布 《特朗普发布百万美金悬赏：成功举报选举舞弊、促成舞弊者被定罪，将获得100万美元奖励》来自：威海新闻网，2026-10-27 10:02发布 《美媒爆料：绑架马杜罗前，特朗普特地问了AI数小时；AI告诉特朗普，“马杜罗是极不受欢迎的独裁者，许多委内",
+        "bvid": "BV15Mxn6UEnt",
+        "author": "燕三嘤嘤嘤",
+        "duration": "40:40",
+        "cover": "//i0.hdslb.com/bfs/archive/b87a2d6adb8e86c80d46bc2e3e0084be5f080f72.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Mxn6UEnt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中期选举对特朗普有多重要"
+      },
+      {
+        "title": "导弹般坠机9人死亡：但为何什么也不会改变？",
+        "url": "https://www.bilibili.com/video/BV1jz4w6BEzp",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1jz4w6BEzp",
+        "author": "波士顿圆脸",
+        "duration": "11:59",
+        "cover": "//i1.hdslb.com/bfs/archive/30e5a1e371e303925e77cc4638de4cd6c5bd5e16.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jz4w6BEzp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何看美国飞机坠毁9人遇难"
+      },
+      {
+        "title": "【纸绘动画/卡点】爆肝600张！！数形结合！让你爱上数学【手搓动画大赛】",
+        "url": "https://www.bilibili.com/video/BV1yhxp66Ez8",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这一期是制作时间最长，最认真的一次作品，手绘大约600张，总制作时长高于50小时，创新动效想法和知识点真的构思了好久，喜欢的话支持一下叭~ 由于自己是高中生，所以高数的知识自己预习着去做了，如果错了的话我会及时在评论区纠正。 感谢E废音效配音和秋秋的审核纠正~",
+        "content": "这一期是制作时间最长，最认真的一次作品，手绘大约600张，总制作时长高于50小时，创新动效想法和知识点真的构思了好久，喜欢的话支持一下叭~ 由于自己是高中生，所以高数的知识自己预习着去做了，如果错了的话我会及时在评论区纠正。 感谢E废音效配音和秋秋的审核纠正~",
+        "bvid": "BV1yhxp66Ez8",
+        "author": "Sktr小艺同学",
+        "duration": "2:7",
+        "cover": "//i0.hdslb.com/bfs/archive/c6cbd8e35aee1f8d134aa5f4c0a2178a98280a27.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yhxp66Ez8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "高中生手绘600张动画演示数学"
+      },
+      {
         "title": "记录忙碌又充实的一天。在大山支教的日子里，总想尽己所能给孩子们最好的。",
         "url": "https://www.bilibili.com/video/BV1xQxy6iED7",
         "desc": "",
-        "rank": 15,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "山区支教老师早六晚十一高能量日常",
@@ -369,7 +449,7 @@
         "title": "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让SuperAgent给你干活！",
         "url": "https://www.bilibili.com/video/BV1REx46NEc4",
         "desc": "",
-        "rank": 16,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "DeepSeek Harness超详细教程！ 大家可以速速收藏啦~ 耗时60天制作！感谢大家的三联 未来还会出其他AI教程，大家可以关注一下~",
@@ -382,74 +462,10 @@
         "hotTitle": "DeepSeek Agent小白教程"
       },
       {
-        "title": "全球笑点下降2000倍而我不变【第二集】",
-        "url": "https://www.bilibili.com/video/BV1TxxC6vEo4",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这一集等于我做三个视频了...我要去睡觉了 不过，很多朋友不知道怎么看完整版，关注雀巢 搞笑人才断代，龙国岌岌可危，雀巢被推上擂台。全民嘲笑他长这么帅根本不会搞笑，樱花国笑出眼泪。下一秒，雀巢讲出核弹级地狱笑话。当雀巢获胜，全网跪了。世人终于颤栗，龙国的搞笑大王，终于诞生！",
-        "content": "这一集等于我做三个视频了...我要去睡觉了 不过，很多朋友不知道怎么看完整版，关注雀巢 搞笑人才断代，龙国岌岌可危，雀巢被推上擂台。全民嘲笑他长这么帅根本不会搞笑，樱花国笑出眼泪。下一秒，雀巢讲出核弹级地狱笑话。当雀巢获胜，全网跪了。世人终于颤栗，龙国的搞笑大王，终于诞生！",
-        "bvid": "BV1TxxC6vEo4",
-        "author": "逗比的雀巢",
-        "duration": "16:8",
-        "cover": "//i2.hdslb.com/bfs/archive/b469c3f10f8498c42cd3a29741fe501fc9aad287.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TxxC6vEo4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "假如世界举办绷住大赛"
-      },
-      {
-        "title": "锐评S16八强赛抽签！LPL胜算几何？为什么说是好签？",
-        "url": "https://www.bilibili.com/video/BV13y4F64EvL",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV13y4F64EvL",
-        "author": "Super卧龙君",
-        "duration": "12:42",
-        "cover": "//i2.hdslb.com/bfs/archive/4b204f4c8608747b20d9d1c6a44eaf751407d8c3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13y4F64EvL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "LPL淘汰赛是好签吗"
-      },
-      {
-        "title": "导弹般坠机9人死亡：但为何什么也不会改变？",
-        "url": "https://www.bilibili.com/video/BV1jz4w6BEzp",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1jz4w6BEzp",
-        "author": "波士顿圆脸",
-        "duration": "11:59",
-        "cover": "//i1.hdslb.com/bfs/archive/30e5a1e371e303925e77cc4638de4cd6c5bd5e16.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jz4w6BEzp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如何看美国飞机坠毁9人遇难"
-      },
-      {
-        "title": "美国中期选举大斗法",
-        "url": "https://www.bilibili.com/video/BV15Mxn6UEnt",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本视频提及事件以及信息来源如下： 《特朗普：成为第51个州，委内瑞拉将再次伟大》来自：上观新闻，2026-10-28 14:53发布 《深度丨特朗普连跑红州20次，奥巴马出山压阵，美国中期选举攻防战怎么打？》来自：上观新闻，2026-10-29 19:20发布 《特朗普发布百万美金悬赏：成功举报选举舞弊、促成舞弊者被定罪，将获得100万美元奖励》来自：威海新闻网，2026-10-27 10:02发布 《美媒爆料：绑架马杜罗前，特朗普特地问了AI数小时；AI告诉特朗普，“马杜罗是极不受欢迎的独裁者，许多委内",
-        "content": "本视频提及事件以及信息来源如下： 《特朗普：成为第51个州，委内瑞拉将再次伟大》来自：上观新闻，2026-10-28 14:53发布 《深度丨特朗普连跑红州20次，奥巴马出山压阵，美国中期选举攻防战怎么打？》来自：上观新闻，2026-10-29 19:20发布 《特朗普发布百万美金悬赏：成功举报选举舞弊、促成舞弊者被定罪，将获得100万美元奖励》来自：威海新闻网，2026-10-27 10:02发布 《美媒爆料：绑架马杜罗前，特朗普特地问了AI数小时；AI告诉特朗普，“马杜罗是极不受欢迎的独裁者，许多委内",
-        "bvid": "BV15Mxn6UEnt",
-        "author": "燕三嘤嘤嘤",
-        "duration": "40:40",
-        "cover": "//i0.hdslb.com/bfs/archive/b87a2d6adb8e86c80d46bc2e3e0084be5f080f72.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Mxn6UEnt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中期选举对特朗普有多重要"
-      },
-      {
         "title": "【花小烙】皮肤上为什么会长湿疹？",
         "url": "https://www.bilibili.com/video/BV1TBx46pEwA",
         "desc": "",
-        "rank": 21,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "我的梦想是希望得了湿疹的朋友们永远不再复发！～【耶！】",
@@ -462,26 +478,26 @@
         "hotTitle": "为什么秋冬浑身痒"
       },
       {
-        "title": "八强淘汰赛胜负预测，一个视频带你看懂世界赛版本现状！",
-        "url": "https://www.bilibili.com/video/BV1nAxs6BEt5",
+        "title": "韩媒爆料Zeus在S赛开赛前拒绝了HLE的续约邀请！他希望进入自由市场！曝Zeus未续约HLE",
+        "url": "https://www.bilibili.com/video/BV1MR4F6SEac",
         "desc": "",
-        "rank": 22,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1nAxs6BEt5",
-        "author": "东南倾丶",
-        "duration": "18:22",
-        "cover": "//i0.hdslb.com/bfs/archive/77fbfac93d4125accdd1924d5f57d97df0436fc9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nAxs6BEt5&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S16八强淘汰赛胜负预测"
+        "bvid": "BV1MR4F6SEac",
+        "author": "灯火电竞Pro",
+        "duration": "0:19",
+        "cover": "//i1.hdslb.com/bfs/archive/2e82c84abbe9622f41440df343f01898e9b2a2dc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MR4F6SEac&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "韩媒称Zeus拒绝了HLE续约邀请"
       },
       {
         "title": "韩网炸了！BLG淘汰HLE送全队十六强，韩国人怎么评价韩华突然回家？Viper Gumayusi Bin 左手",
         "url": "https://www.bilibili.com/video/BV1V4xb6BEzN",
         "desc": "",
-        "rank": 23,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "素材若有问题会修改/문제시 삭제",
@@ -494,42 +510,10 @@
         "hotTitle": "韩国人怎么看HLE止步十六强"
       },
       {
-        "title": "【纸绘动画/卡点】爆肝600张！！数形结合！让你爱上数学【手搓动画大赛】",
-        "url": "https://www.bilibili.com/video/BV1yhxp66Ez8",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这一期是制作时间最长，最认真的一次作品，手绘大约600张，总制作时长高于50小时，创新动效想法和知识点真的构思了好久，喜欢的话支持一下叭~ 由于自己是高中生，所以高数的知识自己预习着去做了，如果错了的话我会及时在评论区纠正。 感谢E废音效配音和秋秋的审核纠正~",
-        "content": "这一期是制作时间最长，最认真的一次作品，手绘大约600张，总制作时长高于50小时，创新动效想法和知识点真的构思了好久，喜欢的话支持一下叭~ 由于自己是高中生，所以高数的知识自己预习着去做了，如果错了的话我会及时在评论区纠正。 感谢E废音效配音和秋秋的审核纠正~",
-        "bvid": "BV1yhxp66Ez8",
-        "author": "Sktr小艺同学",
-        "duration": "2:7",
-        "cover": "//i0.hdslb.com/bfs/archive/c6cbd8e35aee1f8d134aa5f4c0a2178a98280a27.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yhxp66Ez8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "高中生手绘600张动画演示数学"
-      },
-      {
-        "title": "再见敌蜜，双方都很怕对方拿到大结果！",
-        "url": "https://www.bilibili.com/video/BV1Fgx46rEiH",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Fgx46rEiH",
-        "author": "刘哔电影",
-        "duration": "35:5",
-        "cover": "//i0.hdslb.com/bfs/archive/d4b4e26a11fd8eb56ef0f61c2fd9c3addd71e81c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Fgx46rEiH&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "后会友期文吉儿王子璇深度解读"
-      },
-      {
         "title": "【徐静雨】三大原因造就顶级武侠效果，影之刃零战斗观赏性排第一！",
         "url": "https://www.bilibili.com/video/BV1ecxt6iEBe",
         "desc": "",
-        "rank": 26,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "【徐静雨】三大原因造就顶级武侠效果，影之刃零战斗观赏性排第一！",
@@ -542,42 +526,26 @@
         "hotTitle": "徐静雨谈影之刃零战斗表现力"
       },
       {
-        "title": "三角洲行动 首个为职业赛场专调干员！银翼疑似红皮加强？S12干员平衡汇总与分析！",
-        "url": "https://www.bilibili.com/video/BV1mBxb6FEso",
+        "title": "全球笑点下降2000倍而我不变【第二集】",
+        "url": "https://www.bilibili.com/video/BV1TxxC6vEo4",
         "desc": "",
-        "rank": 27,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "三角洲行动 首个为职业赛场专调干员！银翼疑似红皮加强？S12干员平衡汇总与分析！ 银翼 液氮 无名 比特 干员调整",
-        "content": "三角洲行动 首个为职业赛场专调干员！银翼疑似红皮加强？S12干员平衡汇总与分析！ 银翼 液氮 无名 比特 干员调整",
-        "bvid": "BV1mBxb6FEso",
-        "author": "Always聪聪",
-        "duration": "4:43",
-        "cover": "//i2.hdslb.com/bfs/archive/ed4c4fc4cb9fe50399407541df952dd087e8887f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mBxb6FEso&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "三角洲S12干员平衡汇总"
-      },
-      {
-        "title": "MSI冠军16强回家！万字解析BLG零封HLE背后的原因！",
-        "url": "https://www.bilibili.com/video/BV1JLxh69EgU",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1JLxh69EgU",
-        "author": "分析师蓝宝石",
-        "duration": "21:47",
-        "cover": "//i1.hdslb.com/bfs/archive/20ece9fd7265e75af5f02a2c820e354b9358b2ab.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JLxh69EgU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "万字解析BLG零封HLE背后原因"
+        "description": "这一集等于我做三个视频了...我要去睡觉了 不过，很多朋友不知道怎么看完整版，关注雀巢 搞笑人才断代，龙国岌岌可危，雀巢被推上擂台。全民嘲笑他长这么帅根本不会搞笑，樱花国笑出眼泪。下一秒，雀巢讲出核弹级地狱笑话。当雀巢获胜，全网跪了。世人终于颤栗，龙国的搞笑大王，终于诞生！",
+        "content": "这一集等于我做三个视频了...我要去睡觉了 不过，很多朋友不知道怎么看完整版，关注雀巢 搞笑人才断代，龙国岌岌可危，雀巢被推上擂台。全民嘲笑他长这么帅根本不会搞笑，樱花国笑出眼泪。下一秒，雀巢讲出核弹级地狱笑话。当雀巢获胜，全网跪了。世人终于颤栗，龙国的搞笑大王，终于诞生！",
+        "bvid": "BV1TxxC6vEo4",
+        "author": "逗比的雀巢",
+        "duration": "16:8",
+        "cover": "//i2.hdslb.com/bfs/archive/b469c3f10f8498c42cd3a29741fe501fc9aad287.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TxxC6vEo4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "假如世界举办绷住大赛"
       },
       {
         "title": "⚡️蛋载派对《ZywOo killer》⚡️",
         "url": "https://www.bilibili.com/video/BV1Cexp6BExg",
         "desc": "",
-        "rank": 29,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -590,20 +558,52 @@
         "hotTitle": "ZywOo killer"
       },
       {
-        "title": "【IKGN】爆了！——影之刃零",
-        "url": "https://www.bilibili.com/video/BV1GLxp6QE8L",
+        "title": "CPOPwave出海长红IP——《原神》让世界认识中国游戏",
+        "url": "https://www.bilibili.com/video/BV17sxY6xEWK",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "#CPOPwave集结出海顶流IP 旅行者在提瓦特走过的六年，也是中国创作者讲述世界故事的六年。当一款游戏成为文明对话的语言，@原神 正在将不同背景的全球玩家联系起来。#今年谁上乌镇峰会的总台CPOPwave了",
+        "content": "#CPOPwave集结出海顶流IP 旅行者在提瓦特走过的六年，也是中国创作者讲述世界故事的六年。当一款游戏成为文明对话的语言，@原神 正在将不同背景的全球玩家联系起来。#今年谁上乌镇峰会的总台CPOPwave了",
+        "bvid": "BV17sxY6xEWK",
+        "author": "央视频",
+        "duration": "8:53",
+        "cover": "//i0.hdslb.com/bfs/archive/7998f23a9c41b421960e43d58e5db0f4d2160536.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17sxY6xEWK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "原神为何能火遍全球"
+      },
+      {
+        "title": "三角洲行动 首个为职业赛场专调干员！银翼疑似红皮加强？S12干员平衡汇总与分析！",
+        "url": "https://www.bilibili.com/video/BV1mBxb6FEso",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "三角洲行动 首个为职业赛场专调干员！银翼疑似红皮加强？S12干员平衡汇总与分析！ 银翼 液氮 无名 比特 干员调整",
+        "content": "三角洲行动 首个为职业赛场专调干员！银翼疑似红皮加强？S12干员平衡汇总与分析！ 银翼 液氮 无名 比特 干员调整",
+        "bvid": "BV1mBxb6FEso",
+        "author": "Always聪聪",
+        "duration": "4:43",
+        "cover": "//i2.hdslb.com/bfs/archive/ed4c4fc4cb9fe50399407541df952dd087e8887f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mBxb6FEso&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "三角洲S12干员平衡汇总"
+      },
+      {
+        "title": "碎星杯决赛！铁根跟甜筒谁能拿下最终的冠军？",
+        "url": "https://www.bilibili.com/video/BV1vB4F6hERH",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【IKGN 11.1更新】 1.新增成就：在11.1号更新一期11零，爆了 3.论文开题：经不可轻传，亦不可空取 11.神秘代码：233328652（11群）",
-        "content": "【IKGN 11.1更新】 1.新增成就：在11.1号更新一期11零，爆了 3.论文开题：经不可轻传，亦不可空取 11.神秘代码：233328652（11群）",
-        "bvid": "BV1GLxp6QE8L",
-        "author": "冷面叶星星IKGN",
-        "duration": "16:39",
-        "cover": "//i1.hdslb.com/bfs/archive/8477b91f09584e4cecd9d87d674a0c918b331cd3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GLxp6QE8L&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "影之刃零实战测评"
+        "description": "",
+        "content": "",
+        "bvid": "BV1vB4F6hERH",
+        "author": "清酒好可怜",
+        "duration": "19:48",
+        "cover": "//i2.hdslb.com/bfs/archive/d01e7729bbd5cee0c54680277f4aea7733f957ab.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vB4F6hERH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "碎星杯决赛铁根vs甜筒"
       }
     ],
     "qbitai": [
@@ -940,6 +940,46 @@
         "rank": 3
       },
       {
+        "title": "主动ETF逐步建仓，360亿增量资金“上膛”",
+        "url": "https://m.36kr.com/newsflashes/4052615009276801",
+        "desc": "首批18只主动ETF10月23日启动募集，截至10月30日合计募集资金超过342亿，有15只达到上限并结束募集。摩根、易方达、富国等9家管理人自购27亿。18只主动ETF将逐步投资建仓，预计为市场带来近360亿增量资金。（第一财经）",
+        "cover": "",
+        "date": 1793623990312,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "热门中概股美股盘前多数上涨，阿里巴巴涨超3%",
+        "url": "https://m.36kr.com/newsflashes/4052613884826500",
+        "desc": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩、小鹏集团涨超4%，阿里巴巴涨超3%，爱奇艺涨超2%，京东、拼多多、微博、富途控股涨超1%；网易跌0.49%，理想汽车跌0.14%。",
+        "cover": "",
+        "date": 1793623921681,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "美股大型科技股盘前多数上涨，英伟达涨超1%",
+        "url": "https://m.36kr.com/newsflashes/4052611193820297",
+        "desc": "36氪获悉，美股大型科技股盘前多数上涨，截至发稿，SK海力士涨超3%，闪迪、英伟达涨超1%，特斯拉涨0.8%，谷歌涨0.76%，微软涨0.4%，亚马逊涨0.2%，奈飞涨0.1%；英特尔跌超1%，Meta跌0.65%，苹果跌0.11%。",
+        "cover": "",
+        "date": 1793623757435,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "证监会：拟优化护盘式回购",
+        "url": "https://m.36kr.com/newsflashes/4052606800352130",
+        "desc": "36氪获悉，中国证监会有关部门负责人就近期稳市场稳预期相关工作答记者问。为进一步提高上市公司开展股份回购的便利度，发挥市场内在稳市功能，经广泛深入调研，近期证监会拟对为维护公司价值及股东权益所必需而回购股份（简称护盘式回购）作以下调整优化：一是新增股价“破发”作为可以开展护盘式回购的情形之一，规定护盘式回购不适用“公司股票上市已满六个月”的限制，取消护盘式回购中开盘和收盘集合竞价阶段不得申报的限制等。二是要求上市36个月内的上市公司当股价触及护盘式回购情形的，严格认真履行上市承诺中的稳定股价措施。三是要求存在超募资金的上市公司在触及护盘式回购时及时实施回购。四是要求上市公司在年度现金分红计划中明确一定比例资金纳入回购专项基金，要求存在超募资金的上市公司将一定比例的超募资金纳入回购专项基金并专项用于股份回购注销，要求上市公司通过集中竞价卖出护盘式回购股份的所得收益纳入回购专项基金。下一步，将在深入研究论证的基础上，抓紧修订《上市公司股份回购规则》，增强护盘式回购的约束力。规则正式修订前，证监会将加大和有关方面协调配合，支持、鼓励和督促具备条件的上市公司，特别是重要指数成份股公司、龙头科技股公司按照上述要求结合自身实际积极实施股份回购，持续做好市值管理。",
+        "cover": "",
+        "date": 1793623489279,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "证监会：将会同证券交易所指导证券公司对融资保证金比例、可充抵保证金证券折算率、维持担保比例等风险控制指标进行统筹研究",
         "url": "https://m.36kr.com/newsflashes/4052602669470601",
         "desc": "36氪获悉，中国证监会有关部门负责人就近期稳市场稳预期相关工作答记者问。融资融券是资本市场重要的基础性制度之一，对平抑非理性波动，促进价格发现，吸引中长期资金入市，满足投资者融资需求具有积极作用。2026年1月，根据当时的市场形势，沪深北交易所将融资保证金比例由80%提高至100%，对减缓杠杆风险顺周期积累、促进理性交易和提前防控风险起到积极作用。近期，融资余额和交易活跃度明显下降，整体杠杆水平趋于稳健。为稳定资本市场、提振投资者信心，促进融资融券业务功能发挥，证监会将会同证券交易所指导证券公司对融资保证金比例、可充抵保证金证券折算率、维持担保比例等风险控制指标进行统筹研究，进一步优化，保持弹性。在风险总体可控的基础上，根据法定的逆周期调节安排，适度释放融资空间，盘活存量资金，提升市场流动性。投资者应当继续秉持理性投资理念，根据自身风险承受能力，合理运用融资工具。证监会将继续督促证券公司切实加强风险管理，保护投资者合法权益。",
@@ -947,7 +987,7 @@
         "date": 1793623237150,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 8
       },
       {
         "title": "证监会：提高上市公司股票回购增持专项再贷款覆盖率，督促已披露回购增持贷款计划的上市公司加快实施进度",
@@ -957,7 +997,7 @@
         "date": 1793623091218,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "证监会：将引导和鼓励已完成募集的18只主动ETF加快开展投资建仓",
@@ -967,7 +1007,7 @@
         "date": 1793622977821,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "宁德时代：已累计耗资53.6亿元回购1960.59万股",
@@ -977,7 +1017,7 @@
         "date": 1793622905352,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "汇创达：拟9.6亿元收购春草科技100%股权",
@@ -987,7 +1027,7 @@
         "date": 1793622579653,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "迈威尔预计第三财季营收符合此前指引，将业绩预期区间收窄至上下浮动2%",
@@ -997,7 +1037,7 @@
         "date": 1793622243418,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "亚玛顿：筹划控制权变更事项，公司股票11月3日起停牌",
@@ -1007,7 +1047,7 @@
         "date": 1793622134960,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "神开股份：拟1800万元—3600万元回购股份",
@@ -1017,7 +1057,7 @@
         "date": 1793621693107,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "迈威尔将以全股票交易收购Lumentum，交易完成后后者股东持股约33%",
@@ -1027,7 +1067,7 @@
         "date": 1793621473090,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "Lumentum第一财季营收为12.60亿美元，略高于市场预期",
@@ -1037,7 +1077,7 @@
         "date": 1793621313492,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "中国人民银行、金融监管总局、中国证监会召开支持资本市场两项工具座谈会",
@@ -1047,7 +1087,7 @@
         "date": 1793621077315,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "好想来母公司回应被证监会立案",
@@ -1057,7 +1097,7 @@
         "date": 1793620583218,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "国家外汇局公开征求意见，拟出台一揽子便利化新政策",
@@ -1067,7 +1107,7 @@
         "date": 1793620551734,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "科力远：因涉嫌信息披露违法违规，证监会决定对公司及控股股东立案",
@@ -1077,7 +1117,7 @@
         "date": 1793620074944,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "中国汽车流通协会保值率报告：极氪9X双榜第一",
@@ -1087,7 +1127,7 @@
         "date": 1793619644099,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 22
       },
       {
         "title": "先进数通：拟1390万元—2780万元回购公司股份",
@@ -1097,55 +1137,15 @@
         "date": 1793619540988,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "紫光国微：拟5亿元—7亿元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4052536011707529",
-        "desc": "36氪获悉，紫光国微公告，公司拟以5亿元—7亿元回购公司股份，用于股权激励或员工持股计划，回购股份不超过83.31元/股。",
-        "cover": "",
-        "date": 1793619168683,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "青鸟智控：拟回购公司2.5%—5%股份",
-        "url": "https://m.36kr.com/newsflashes/4052530594435971",
-        "desc": "36氪获悉，青鸟智控公告，公司拟回购公司总股本的2.5%—5%股份，用于员工持股计划或股权激励，回购价格不超过12元/股。",
-        "cover": "",
-        "date": 1793618838039,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "ST诺泰：氟维司群注射液ANDA获得美国FDA上市许可",
-        "url": "https://m.36kr.com/newsflashes/4052525006640004",
-        "desc": "36氪获悉，ST诺泰公告，公司向美国FDA提交的氟维司群注射液简略新药申请（简称“ANDA”）已获得美国FDA的上市许可批准。氟维司群注射液是公司首个在美国获批的制剂产品。",
-        "cover": "",
-        "date": 1793618496987,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "雅诗兰黛集团第一财季净销售额同比增长7%至37.15亿美元",
-        "url": "https://m.36kr.com/newsflashes/4052517393814658",
-        "desc": "11月2日，雅诗兰黛集团公布2027财年第一季度业绩，截至9月30日的三个月内，净销售额同比增长7%至37.15亿美元，净利润同比增长逾100%至2.33亿美元，调整后摊薄每股收益为0.72美元，上年同期为0.32美元。集团将2027财年全年有机销售额增长预期上调至4%至5.5%，调整后营业利润率预期上调至12.9%至13.7%，调整后摊薄每股收益预期上调至3.20至3.45美元。（界面）",
-        "cover": "",
-        "date": 1793618032337,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793623271273,
-    "bilibili": 1793623293909,
-    "qbitai": 1793594509427,
-    "36kr": 1793594509876
+    "thepaper": 1793624164423,
+    "bilibili": 1793623551629,
+    "qbitai": 1793595383782,
+    "36kr": 1793595384366
   },
   "failures": {}
 }
