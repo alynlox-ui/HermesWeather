@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T04:56:24Z",
+  "updatedAt": "2026-11-02T05:11:39Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "黑豹让一追二FaZe"
       },
       {
-        "title": "猎鹰遗迹再次落败，🥚看NAVI图一暴打13-5Falcons，京介五杀一绿带四红，小孩假装搜点➕NIKO再现黑屋背身逗笑众人🤣，马卡泽上演惊天180°扫转！",
-        "url": "https://www.bilibili.com/video/BV1HY4P6nEMU",
+        "title": "【CSBOY弹幕录播】Legacy-蒙古丨PV-G2丨黑豹-FaZe丨Falcons-NAVI丨IEM北京首日 2026年11月02日",
+        "url": "https://www.bilibili.com/video/BV165xh6sEto",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1HY4P6nEMU",
-        "author": "CS2_VV",
-        "duration": "19:57",
-        "cover": "//i2.hdslb.com/bfs/archive/78a3ebb27dfb11eddfff9458c209a35ff8b2fe9b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HY4P6nEMU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "自动上传出问题目前是手工上传可能会延迟",
+        "content": "自动上传出问题目前是手工上传可能会延迟",
+        "bvid": "BV165xh6sEto",
+        "author": "MTC君",
+        "duration": "604:35",
+        "cover": "//i2.hdslb.com/bfs/archive/7eac1649ee58412485ef8b1572845a4aff164175.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV165xh6sEto&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "NAVI vs Falcons IEM北京"
       },
       {
@@ -487,7 +487,7 @@
         "description": "",
         "content": "",
         "bvid": "BV1MR4F6SEac",
-        "author": "灯火电竞Pro",
+        "author": "",
         "duration": "0:19",
         "cover": "//i1.hdslb.com/bfs/archive/2e82c84abbe9622f41440df343f01898e9b2a2dc.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MR4F6SEac&p=1&high_quality=1&danmaku=0&autoplay=0",
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "甲骨文启动100亿美元六档美元债券发行",
+        "url": "https://m.36kr.com/newsflashes/4052619596846211",
+        "desc": "11月2日，据报道，甲骨文启动总额100亿美元的投资级美元债券发行，分为六档，包括3年期固定利率及浮息债券、5年期、7年期、长期10年期和20年期固定利率债券，预计当日定价，11月4日交割。债券为美元计价的高级无担保债券，预期评级为穆迪“Baa2”、标普“BBB-”及惠誉“BBB”。募集资金净额将用于一般企业用途，包括资本开支、偿还债务、未来投资或收购，以及派发现金股息或回购股票。（界面）",
+        "cover": "",
+        "date": 1793624270315,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "主动ETF逐步建仓，360亿增量资金“上膛”",
         "url": "https://m.36kr.com/newsflashes/4052615009276801",
         "desc": "首批18只主动ETF10月23日启动募集，截至10月30日合计募集资金超过342亿，有15只达到上限并结束募集。摩根、易方达、富国等9家管理人自购27亿。18只主动ETF将逐步投资建仓，预计为市场带来近360亿增量资金。（第一财经）",
@@ -947,7 +957,7 @@
         "date": 1793623990312,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "热门中概股美股盘前多数上涨，阿里巴巴涨超3%",
@@ -957,7 +967,7 @@
         "date": 1793623921681,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "美股大型科技股盘前多数上涨，英伟达涨超1%",
@@ -967,7 +977,7 @@
         "date": 1793623757435,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "证监会：拟优化护盘式回购",
@@ -977,7 +987,7 @@
         "date": 1793623489279,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "证监会：将会同证券交易所指导证券公司对融资保证金比例、可充抵保证金证券折算率、维持担保比例等风险控制指标进行统筹研究",
@@ -987,7 +997,7 @@
         "date": 1793623237150,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "证监会：提高上市公司股票回购增持专项再贷款覆盖率，督促已披露回购增持贷款计划的上市公司加快实施进度",
@@ -997,7 +1007,7 @@
         "date": 1793623091218,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "证监会：将引导和鼓励已完成募集的18只主动ETF加快开展投资建仓",
@@ -1007,7 +1017,7 @@
         "date": 1793622977821,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "宁德时代：已累计耗资53.6亿元回购1960.59万股",
@@ -1017,7 +1027,7 @@
         "date": 1793622905352,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "汇创达：拟9.6亿元收购春草科技100%股权",
@@ -1027,7 +1037,7 @@
         "date": 1793622579653,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "迈威尔预计第三财季营收符合此前指引，将业绩预期区间收窄至上下浮动2%",
@@ -1037,7 +1047,7 @@
         "date": 1793622243418,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "亚玛顿：筹划控制权变更事项，公司股票11月3日起停牌",
@@ -1047,7 +1057,7 @@
         "date": 1793622134960,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "神开股份：拟1800万元—3600万元回购股份",
@@ -1057,7 +1067,7 @@
         "date": 1793621693107,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "迈威尔将以全股票交易收购Lumentum，交易完成后后者股东持股约33%",
@@ -1067,7 +1077,7 @@
         "date": 1793621473090,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "Lumentum第一财季营收为12.60亿美元，略高于市场预期",
@@ -1077,7 +1087,7 @@
         "date": 1793621313492,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "中国人民银行、金融监管总局、中国证监会召开支持资本市场两项工具座谈会",
@@ -1087,7 +1097,7 @@
         "date": 1793621077315,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "好想来母公司回应被证监会立案",
@@ -1097,7 +1107,7 @@
         "date": 1793620583218,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "国家外汇局公开征求意见，拟出台一揽子便利化新政策",
@@ -1107,7 +1117,7 @@
         "date": 1793620551734,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "科力远：因涉嫌信息披露违法违规，证监会决定对公司及控股股东立案",
@@ -1117,7 +1127,7 @@
         "date": 1793620074944,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "中国汽车流通协会保值率报告：极氪9X双榜第一",
@@ -1127,25 +1137,15 @@
         "date": 1793619644099,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "先进数通：拟1390万元—2780万元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4052542111552393",
-        "desc": "36氪获悉，先进数通公告，公司拟以1390万元—2780万元回购公司股份，用于股权激励或员工持股计划，回购股份价格不超过13.90元/股。",
-        "cover": "",
-        "date": 1793619540988,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793624164423,
+    "thepaper": 1793625072578,
     "bilibili": 1793623551629,
-    "qbitai": 1793595383782,
-    "36kr": 1793595384366
+    "qbitai": 1793596298678,
+    "36kr": 1793596299074
   },
   "failures": {}
 }
