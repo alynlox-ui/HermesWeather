@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T00:26:53Z",
+  "updatedAt": "2026-11-02T00:41:30Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -350,19 +350,19 @@
         "hotTitle": "ZywOo killer"
       },
       {
-        "title": "发售仅3天时间！《影之刃零》正式官宣销量突破400万！",
-        "url": "https://www.bilibili.com/video/BV1F5xh6sE4r",
+        "title": "女流得知影之刃零销量突破400万当场震惊：72小时400万牛死了 真的很厉害！",
+        "url": "https://www.bilibili.com/video/BV1Lr4F6bEwU",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1F5xh6sE4r",
-        "author": "Gable游戏频道",
-        "duration": "1:5",
-        "cover": "//i1.hdslb.com/bfs/archive/1e5fcc0692f6594524e3f9324d3ea16be28f40fc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1F5xh6sE4r&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "女流直播间 大家点赞收藏三连，欢迎加入BBQ粉丝群197463898，偶尔不定时掉落小惊喜哦！",
+        "content": "女流直播间 大家点赞收藏三连，欢迎加入BBQ粉丝群197463898，偶尔不定时掉落小惊喜哦！",
+        "bvid": "BV1Lr4F6bEwU",
+        "author": "游戏BBQ",
+        "duration": "1:19",
+        "cover": "//i1.hdslb.com/bfs/archive/a2e192b5926fcf180c8f155b4c9bf463db5ced5e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Lr4F6bEwU&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "影之刃零72小时销量突破400万"
       },
       {
@@ -940,6 +940,26 @@
         "rank": 3
       },
       {
+        "title": "大普微：PCIe 6.0主控芯片及SSD产品研发正顺利推进，预计2027年进入量产状态",
+        "url": "https://m.36kr.com/newsflashes/4052364030186375",
+        "desc": "36氪获悉，大普微在互动平台表示，公司PCIe 6.0主控芯片及SSD产品研发正按募投项目计划顺利推进，预计2027年进入量产状态。",
+        "cover": "",
+        "date": 1793608671764,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "华海药业：子公司HB0056注射液项目新增适应症临床试验获批",
+        "url": "https://m.36kr.com/newsflashes/4052361601422470",
+        "desc": "36氪获悉，华海药业公告，近日，公司的下属子公司上海华奥泰生物药业股份有限公司及华博生物医药技术（上海）有限公司收到国家药监局核准签发的HB0056注射液项目新增慢性阻塞性肺疾病适应症的《药物临床试验批准通知书》。",
+        "cover": "",
+        "date": 1793608523524,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "三星计划2030年底前关闭8英寸晶圆代工所有产线",
         "url": "https://m.36kr.com/newsflashes/4052352065623177",
         "desc": "三星电子已决定全面退出8英寸晶圆代工业务，公司近期已通知客户，计划在2030年底前关闭所有相关生产线。此前，三星电子一直仅表示将逐步缩减8英寸生产线，此次则是首次明确提出业务退出的具体时间表，之后公司计划将人力和设备投资集中于基于12英寸晶圆先进制程。（新浪财经）",
@@ -947,7 +967,7 @@
         "date": 1793607941505,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "国内首条氢能密封材料生产线试车",
@@ -957,7 +977,7 @@
         "date": 1793607770048,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "土耳其启动对谷歌AI搜索功能反垄断调查",
@@ -967,7 +987,7 @@
         "date": 1793607393193,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "机构：预估2027年AI网络与互连产值将达2798亿美元",
@@ -977,7 +997,7 @@
         "date": 1793607334448,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "恒指收涨0.42%，恒生科技指数涨2.25%",
@@ -987,7 +1007,7 @@
         "date": 1793607026478,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "今年9月中国企业信用指数为160.62，基础持续稳固",
@@ -997,7 +1017,7 @@
         "date": 1793606635292,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "汉马科技：10月新能源中重卡销量同比下降18.28%",
@@ -1007,7 +1027,7 @@
         "date": 1793606459284,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "华润置地回应200亿元公司债券用途：115亿拟用于偿还到期公司债，85亿投向核心城市项目",
@@ -1017,7 +1037,7 @@
         "date": 1793606291696,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "iPhone Duo被指国行美版存结构差异，苹果：受相关许可规定影响",
@@ -1027,7 +1047,7 @@
         "date": 1793606158810,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "瑞安航空预计下财年燃油成本增加20亿欧元，考虑冻结员工薪酬",
@@ -1037,7 +1057,7 @@
         "date": 1793605827544,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "马斯克：2029年轨道算力将碾压地面",
@@ -1047,7 +1067,7 @@
         "date": 1793605593326,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "10月公募调研超1万次，医药生物与电子行业受青睐",
@@ -1057,7 +1077,7 @@
         "date": 1793605156713,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "年内129家公募耗资逾360亿元参与打新",
@@ -1067,7 +1087,7 @@
         "date": 1793604983288,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "央行明日启动第三次证券、基金、保险公司互换便利操作招标",
@@ -1077,7 +1097,7 @@
         "date": 1793604220072,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "非洲首次举办奥林匹克赛事，阿里巴巴以AI云技术支持达喀尔青奥会",
@@ -1087,7 +1107,7 @@
         "date": 1793604173964,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "年内私募自购逾20亿元",
@@ -1097,7 +1117,7 @@
         "date": 1793604047654,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "阿布扎比与OpenAI签署四项协议，合作涵盖政府、能源及投资领域",
@@ -1107,7 +1127,7 @@
         "date": 1793603959065,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "中国建筑接手温州平阳万达广场投资公司",
@@ -1117,35 +1137,15 @@
         "date": 1793603818972,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "Alphabet启动七部分欧元债券发行",
-        "url": "https://m.36kr.com/newsflashes/4052279375582087",
-        "desc": "11月2日消息，据报道，Alphabet启动七部分欧元债券发行。（界面）",
-        "cover": "",
-        "date": 1793603504857,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "美团在厦门成立乐鲜科技公司，注册资本1000万",
-        "url": "https://m.36kr.com/newsflashes/4052276258640774",
-        "desc": "36氪获悉，天眼查App显示，近日，厦门乐鲜科技有限公司成立，法定代表人为刘东伟，注册资本1000万元人民币，经营范围包括票务代理服务、汽车装饰用品销售、消防器材销售等，由深圳乐鲜科技有限公司全资持股，后者为美团旗下Xigua Limited全资子公司。",
-        "cover": "",
-        "date": 1793603314614,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793607972883,
-    "bilibili": 1793607985193,
-    "qbitai": 1793579201231,
-    "36kr": 1793579213106
+    "thepaper": 1793608868927,
+    "bilibili": 1793607878680,
+    "qbitai": 1793580089996,
+    "36kr": 1793580090459
   },
   "failures": {}
 }
