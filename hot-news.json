@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-02T06:56:59Z",
-  "liveSourceCount": 3,
+  "updatedAt": "2026-11-02T07:11:43Z",
+  "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
@@ -158,19 +158,19 @@
         "hotTitle": "北京JDG战胜重庆狼队 KPL"
       },
       {
-        "title": "【哔话足球】切尔西VS曼联比赛复盘，利马会去巴萨吗，曼联主教练谁将接手，B费赛后为何痛哭流涕?",
-        "url": "https://www.bilibili.com/video/BV1YQ4P6ME7F",
+        "title": "危崖之上！罗杰斯一条龙 曼联各赛9场不胜 切尔西2比0十人曼联",
+        "url": "https://www.bilibili.com/video/BV1Zwxn6QEdX",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1YQ4P6ME7F",
-        "author": "最佳第十二人",
-        "duration": "36:19",
-        "cover": "//i0.hdslb.com/bfs/archive/d2e21739373106c5a9bbfd287d8f0f5a86b80c3d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YQ4P6ME7F&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Zwxn6QEdX",
+        "author": "吉罗很快乐",
+        "duration": "22:45",
+        "cover": "//i2.hdslb.com/bfs/archive/8f6f69615f599c24d8308b70aa7815278958941e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Zwxn6QEdX&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "UP主复盘切尔西vs曼联"
       },
       {
@@ -1142,11 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
+    "thepaper": 1793632274779,
     "bilibili": 1793630592828,
-    "qbitai": 1793602618831,
-    "36kr": 1793602619230
+    "qbitai": 1793603503177,
+    "36kr": 1793603503631
   },
-  "failures": {
-    "thepaper": "RuntimeError('NewsNow JSON not found')"
-  }
+  "failures": {}
 }
