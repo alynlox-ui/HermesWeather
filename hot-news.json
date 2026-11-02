@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T05:26:39Z",
+  "updatedAt": "2026-11-02T05:41:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "许飞厉娜感情浓度分析"
       },
       {
-        "title": "猎鹰遗迹再次落败，🥚看NAVI图一暴打13-5Falcons，京介五杀一绿带四红，小孩假装搜点➕NIKO再现黑屋背身逗笑众人🤣，马卡泽上演惊天180°扫转！",
-        "url": "https://www.bilibili.com/video/BV1HY4P6nEMU",
+        "title": "259解说 Falcons vs NaVi IEM北京小组赛",
+        "url": "https://www.bilibili.com/video/BV1GX4P6qEGe",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1HY4P6nEMU",
-        "author": "CS2_VV",
-        "duration": "19:57",
-        "cover": "//i2.hdslb.com/bfs/archive/78a3ebb27dfb11eddfff9458c209a35ff8b2fe9b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HY4P6nEMU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "259直播间：https://live.bilibili.com/1883358196",
+        "content": "259直播间：https://live.bilibili.com/1883358196",
+        "bvid": "BV1GX4P6qEGe",
+        "author": "晚夕满潮",
+        "duration": "72:53",
+        "cover": "//i1.hdslb.com/bfs/archive/e8269548e8ca1fe9b12d9a4bffd8596c28088cf0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GX4P6qEGe&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "NAVI vs Falcons IEM北京"
       },
       {
@@ -574,19 +574,19 @@
         "hotTitle": "S16八强淘汰赛胜负预测"
       },
       {
-        "title": "牧神记109",
-        "url": "https://www.bilibili.com/video/BV1cFxs66EiU",
+        "title": "牧神记 107 集：一剑两伤！村长硬撼乔星君天威，道破上苍才是祸根，虚生花临危受命下界",
+        "url": "https://www.bilibili.com/video/BV1Ecxn6WEcs",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1cFxs66EiU",
-        "author": "归入云天_",
-        "duration": "16:34",
-        "cover": "//i2.hdslb.com/bfs/archive/dbbe4cff91243b1b5d884c4b35f06ad13d018d4e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cFxs66EiU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "预告解析，希望大家喜欢。正片将于11点更新，链接已放评论区置顶！",
+        "content": "预告解析，希望大家喜欢。正片将于11点更新，链接已放评论区置顶！",
+        "bvid": "BV1Ecxn6WEcs",
+        "author": "山河动漫社",
+        "duration": "23:14",
+        "cover": "//i0.hdslb.com/bfs/archive/b00514e38cf55b1001a4a49adb80957b296c6b15.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ecxn6WEcs&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "牧神记村长剑退神祇"
       },
       {
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+        "url": "https://www.qbitai.com/2026/11/507277.html",
+        "desc": "商汤SenseNova 6.8 Flash",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/964e219a62594d8b8c561a28d6abee22.png",
+        "date": "2026-11-02T21:36:41",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
         "url": "https://www.qbitai.com/2026/11/507260.html",
         "desc": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
@@ -615,7 +625,7 @@
         "date": "2026-11-02T15:47:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
@@ -625,7 +635,7 @@
         "date": "2026-11-02T15:27:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
@@ -635,7 +645,7 @@
         "date": "2026-11-02T14:28:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
@@ -645,7 +655,7 @@
         "date": "2026-11-02T14:08:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
@@ -655,7 +665,7 @@
         "date": "2026-11-02T12:28:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "三年前布局，今年爆火丨西湖大学成立新中心",
@@ -665,7 +675,7 @@
         "date": "2026-11-01T21:28:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
@@ -675,7 +685,7 @@
         "date": "2026-11-01T21:09:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
@@ -685,7 +695,7 @@
         "date": "2026-11-01T16:02:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
@@ -695,7 +705,7 @@
         "date": "2026-11-01T15:50:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "Jev新成果，再次引爆开源",
@@ -705,7 +715,7 @@
         "date": "2026-11-01T12:18:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
@@ -715,7 +725,7 @@
         "date": "2026-10-31T21:49:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
@@ -725,7 +735,7 @@
         "date": "2026-10-31T13:17:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
@@ -735,7 +745,7 @@
         "date": "2026-10-31T13:11:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
@@ -745,7 +755,7 @@
         "date": "2026-10-31T13:05:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
@@ -755,7 +765,7 @@
         "date": "2026-10-30T20:58:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
@@ -765,7 +775,7 @@
         "date": "2026-10-30T19:05:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
@@ -775,7 +785,7 @@
         "date": "2026-10-30T18:44:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
@@ -785,7 +795,7 @@
         "date": "2026-10-30T16:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
@@ -795,7 +805,7 @@
         "date": "2026-10-30T16:12:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
@@ -805,7 +815,7 @@
         "date": "2026-10-30T15:31:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
@@ -815,7 +825,7 @@
         "date": "2026-10-30T13:52:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "Claude新模型曝光：新Fable，新Opus…",
@@ -825,7 +835,7 @@
         "date": "2026-10-30T13:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
@@ -835,7 +845,7 @@
         "date": "2026-10-30T11:48:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
@@ -845,7 +855,7 @@
         "date": "2026-10-30T11:40:21",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
@@ -855,7 +865,7 @@
         "date": "2026-10-30T08:19:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
@@ -865,7 +875,7 @@
         "date": "2026-10-29T17:58:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
@@ -875,7 +885,7 @@
         "date": "2026-10-29T17:52:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "AI安全是AI规模化应用“加速器”",
@@ -885,7 +895,7 @@
         "date": "2026-10-29T16:50:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
@@ -893,16 +903,6 @@
         "desc": "All in one、任何人都能用",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/eb042998bea64c8aa45289f39e6ec5ed.webp",
         "date": "2026-10-29T14:53:19",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
-        "url": "https://www.qbitai.com/2026/10/506477.html",
-        "desc": "MIT最后一位三学位天才出手了。",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/截屏2026-10-28-11.12.19.png",
-        "date": "2026-10-29T14:51:51",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793625964270,
+    "thepaper": 1793626872099,
     "bilibili": 1793625353528,
-    "qbitai": 1793597198685,
-    "36kr": 1793597199112
+    "qbitai": 1793598095090,
+    "36kr": 1793598095533
   },
   "failures": {}
 }
