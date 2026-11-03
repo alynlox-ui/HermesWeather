@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T03:12:22Z",
+  "updatedAt": "2026-11-03T03:26:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,20 @@
     ],
     "bilibili": [
       {
-        "title": "刘延东同志遗体在京火化",
-        "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E5%BB%B6%E4%B8%9C%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96",
+        "title": "刘延东同志遗体在京火化 习近平赵乐际王沪宁蔡奇丁薛祥李希韩正等到八宝山革命公墓送别",
+        "url": "https://www.bilibili.com/video/BV1JU4g6eEMC",
         "desc": "",
-        "rank": 1
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1JU4g6eEMC",
+        "author": "中新视频",
+        "duration": "0:17",
+        "cover": "//i2.hdslb.com/bfs/archive/8d326650ba2af1d04dfcfc738492528d54f318ed.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JU4g6eEMC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "刘延东同志遗体在京火化"
       },
       {
         "title": "开破车挑战纽北！证明中国人比德国人更会玩车",
@@ -340,10 +350,20 @@
         "hotTitle": "AI复刻超能勇士经典片头"
       },
       {
-        "title": "原神米提亚角色预告",
-        "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E7%B1%B3%E6%8F%90%E4%BA%9A%E8%A7%92%E8%89%B2%E9%A2%84%E5%91%8A",
+        "title": "《原神》角色预告-「米提亚：井井有条」",
+        "url": "https://www.bilibili.com/video/BV19b4A6PECX",
         "desc": "",
-        "rank": 15
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "与能源相关的实验都存在一定的危险性，所以工作人员需要时刻保持谨慎的态度。 不妨多问问自己：有日程可控的预期吗？有数据稳定的可能吗？有提前完成的风险吗？ 中文CV： 米提亚——苏尚卿 瓦列里——淦子齐 阿罗夏——王辅平 沃雅妮莎——苏婉 奥黛塔——潘丹妮 日文CV： 米提亚——小林裕介 瓦列里——古川慎 阿罗夏——佐藤元 沃雅妮莎——伊藤加奈惠 奥黛塔——上坂堇 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
+        "content": "与能源相关的实验都存在一定的危险性，所以工作人员需要时刻保持谨慎的态度。 不妨多问问自己：有日程可控的预期吗？有数据稳定的可能吗？有提前完成的风险吗？ 中文CV： 米提亚——苏尚卿 瓦列里——淦子齐 阿罗夏——王辅平 沃雅妮莎——苏婉 奥黛塔——潘丹妮 日文CV： 米提亚——小林裕介 瓦列里——古川慎 阿罗夏——佐藤元 沃雅妮莎——伊藤加奈惠 奥黛塔——上坂堇 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
+        "bvid": "BV19b4A6PECX",
+        "author": "原神",
+        "duration": "11:21",
+        "cover": "//i0.hdslb.com/bfs/archive/7ede0c5073197358c0b09da1b6e298fc5acc04d8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19b4A6PECX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "原神米提亚角色预告"
       },
       {
         "title": "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让SuperAgent给你干活！",
@@ -588,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+        "url": "https://www.qbitai.com/2026/11/507448.html",
+        "desc": "AI的下一程是生产力系统之争",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/43aeba28dbdd2e6e7e6db739558393a3.webp",
+        "date": "2026-11-03T19:13:49",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
         "url": "https://www.qbitai.com/2026/11/507419.html",
         "desc": "终于，有了一个可以触摸的起点",
@@ -595,7 +625,7 @@
         "date": "2026-11-03T14:55:30",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
@@ -605,7 +635,7 @@
         "date": "2026-11-03T14:29:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
@@ -615,7 +645,7 @@
         "date": "2026-11-03T13:59:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
@@ -625,7 +655,7 @@
         "date": "2026-11-03T13:16:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "A社紧急修改招股书！RSI我们快要控制不住了",
@@ -635,7 +665,7 @@
         "date": "2026-11-03T11:41:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
@@ -645,7 +675,7 @@
         "date": "2026-11-03T11:16:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
@@ -655,7 +685,7 @@
         "date": "2026-11-03T10:02:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
@@ -665,7 +695,7 @@
         "date": "2026-11-03T09:57:30",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
@@ -675,7 +705,7 @@
         "date": "2026-11-03T09:46:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
@@ -685,7 +715,7 @@
         "date": "2026-11-02T21:36:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
@@ -695,7 +725,7 @@
         "date": "2026-11-02T15:47:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
@@ -705,7 +735,7 @@
         "date": "2026-11-02T15:27:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
@@ -715,7 +745,7 @@
         "date": "2026-11-02T14:28:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
@@ -725,7 +755,7 @@
         "date": "2026-11-02T14:08:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
@@ -735,7 +765,7 @@
         "date": "2026-11-02T12:28:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "三年前布局，今年爆火丨西湖大学成立新中心",
@@ -745,7 +775,7 @@
         "date": "2026-11-01T21:28:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
@@ -755,7 +785,7 @@
         "date": "2026-11-01T21:09:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
@@ -765,7 +795,7 @@
         "date": "2026-11-01T16:02:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
@@ -775,7 +805,7 @@
         "date": "2026-11-01T15:50:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "Jev新成果，再次引爆开源",
@@ -785,7 +815,7 @@
         "date": "2026-11-01T12:18:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
@@ -795,7 +825,7 @@
         "date": "2026-10-31T21:49:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
@@ -805,7 +835,7 @@
         "date": "2026-10-31T13:17:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
@@ -815,7 +845,7 @@
         "date": "2026-10-31T13:11:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
@@ -825,7 +855,7 @@
         "date": "2026-10-31T13:05:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
@@ -835,7 +865,7 @@
         "date": "2026-10-30T20:58:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
@@ -845,7 +875,7 @@
         "date": "2026-10-30T19:05:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
@@ -855,7 +885,7 @@
         "date": "2026-10-30T18:44:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
@@ -865,7 +895,7 @@
         "date": "2026-10-30T16:50:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
@@ -873,16 +903,6 @@
         "desc": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/0fc3f5ab17b1e5b253e532e96b0c924e.jpeg",
         "date": "2026-10-30T16:12:11",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-        "url": "https://www.qbitai.com/2026/10/506743.html",
-        "desc": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/10/17240ae25c2799cc42c3d952b16abae3.jpeg",
-        "date": "2026-10-30T15:31:11",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -910,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "机构今日买入传智教育等14股，卖出生益科技8.55亿元",
+        "url": "https://m.36kr.com/newsflashes/4053930522760069",
+        "desc": "盘后数据显示，11月3日龙虎榜中，共49只个股出现了机构的身影，有14只股票呈现机构净买入，35只股票呈现机构净卖出。当天机构净买入前三的股票分别是传智教育、慈文传媒、澳洋健康，净买入金额分别是1.07亿元、7927万元、6449万元。当天机构净卖出前三的股票分别是生益科技、景旺电子、光迅科技，净卖出金额分别是8.55亿元、2.11亿元、1.79亿元。（第一财经）",
+        "cover": "",
+        "date": 1793705121000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "2连板青岛双星：公司股票交易异常波动，无任何应披露而未披露的事项",
+        "url": "https://m.36kr.com/newsflashes/4053929928709256",
+        "desc": "36氪获悉，青岛双星公告，公司股票连续2个交易日内日收盘价格涨幅偏离值累计达到20.20%，属于股票交易异常波动。经核查，公司前期披露的信息不存在需要更正、补充之处；未发现近期公共媒体报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息；公司近期生产经营情况正常，内外部经营环境未发生重大变化；经核实，公司、控股股东和实际控制人目前暂无关于公司应披露而未披露的重大事项或处于筹划阶段的其他重大事项；股票异常波动期间公司、控股股东、实际控制人未买卖公司股票。公司目前没有任何应披露而未披露的事项或与该事项有关的筹划、商谈、意向、协议等。",
+        "cover": "",
+        "date": 1793704725000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "涪陵电力：国家电网批准无偿划转6.4亿股，尚待交易所确认",
+        "url": "https://m.36kr.com/newsflashes/4053923171996807",
+        "desc": "36氪获悉，涪陵电力公告，国网综合能源服务集团有限公司此前拟将重庆川东电力集团有限责任公司持有的公司6.4亿股股份（占上市公司总股本的41.65%）无偿划转至国网综能集团。本次进展为，国家电网有限公司已完成审核批准，国网综能集团与川东电力于2026年11月2日签署《股权无偿划转协议》；划转尚需上海证券交易所进行合规性确认，并在中国证券登记结算有限责任公司上海分公司完成过户登记。划转完成后，公司直接控股股东将由川东电力变更为国网综能集团，实际控制人仍为国务院国资委。",
+        "cover": "",
+        "date": 1793704494000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "梯瓦制药与三星Bioepis达成协议，将在美国商业化两款生物类似药",
         "url": "https://m.36kr.com/newsflashes/4053918739321986",
         "desc": "11月3日，梯瓦制药与三星Bioepis宣布达成许可及商业化协议，涉及两款获美国食品药品监督管理局（FDA）批准的免疫学生物类似药：依那西普生物类似药ETICOVO和英夫利昔单抗生物类似药。根据协议，梯瓦将在交易完成后获得ETICOVO在美国的商业化权利，并于2027年第三季度获得英夫利昔单抗生物类似药的相关权利。交易预计于2026年底前完成。三星Bioepis将继续负责两款药物的监管事务及生产。双方将分享产品商业化利润，梯瓦还将分期支付首付款，三星Bioepis则有望获得额外的上市及销售里程碑付款。（界面）",
@@ -917,7 +967,7 @@
         "date": 1793704213887,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "报道：三星将在得克萨斯州的第二家工厂生产AMD和英伟达的芯片部件",
@@ -927,7 +977,7 @@
         "date": 1793704195000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "帕兰蒂尔利润大幅飙升，美国商业收入首次超过政府业务",
@@ -937,7 +987,7 @@
         "date": 1793703740945,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "2026年粤港澳大湾区全球招商大会举办，一批外资项目加速落地",
@@ -947,7 +997,7 @@
         "date": 1793703324246,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "上海口岸前三季度进口同比增长超三成",
@@ -957,7 +1007,7 @@
         "date": 1793702913421,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "外交部回应“英伟达要求其合作伙伴必须将至少51%的服务提供给非中国企业”有关报道",
@@ -967,7 +1017,7 @@
         "date": 1793702684496,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "中巨芯：巨化股份和恒芯企业承诺6个月内不减持公司股份",
@@ -977,7 +1027,7 @@
         "date": 1793702463000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "永贵电器：控股子公司签订2949.3万元蓄电池箱合同",
@@ -987,7 +1037,7 @@
         "date": 1793702259000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "舍弗勒将在欧洲再裁员3460人，汽车行业形势持续恶化",
@@ -997,7 +1047,7 @@
         "date": 1793702036000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "Cinven拟以26亿欧元收购女性健康制药公司Theramex",
@@ -1007,7 +1057,7 @@
         "date": 1793701705000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "百度旗下基金等入股中科密位",
@@ -1017,7 +1067,7 @@
         "date": 1793701486000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "印度今年黄金需求料降至六年低点",
@@ -1027,7 +1077,7 @@
         "date": 1793701224000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "德银：SpaceX年底AI算力有望达2.7GW，云算力租赁业务前景强劲",
@@ -1037,7 +1087,7 @@
         "date": 1793700986000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "盈富基金获南向资金净买入165.07亿港元",
@@ -1047,7 +1097,7 @@
         "date": 1793700949330,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "秦港股份：筹划收购曹妃甸四家公司部分股权，股票复牌",
@@ -1057,7 +1107,7 @@
         "date": 1793700833000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "网易智企发布基于易盾双向架构的AI原生安全产品体系",
@@ -1067,7 +1117,7 @@
         "date": 1793700595000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "Salesforce斥资27亿美元收购初创企业Cresta",
@@ -1077,45 +1127,15 @@
         "date": 1793700320000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "云南锗业：子公司与AOI签订合计90万片磷化铟衬底长期供货协议",
-        "url": "https://m.36kr.com/newsflashes/4053838504874889",
-        "desc": "36氪获悉，云南锗业公告，控股子公司云南鑫耀与客户AOI签订《长期供货协议》及《年度合同》。根据协议，AOI预计2027年至2031年期间每年采购18万片、合计90万片4英寸N型磷化铟衬底。其中2027年度合同金额为1.94亿美元（约合13.05亿元人民币），占公司2025年度经审计营收的122.46%。合同履行需以取得两用物项出口许可为前提。",
-        "cover": "",
-        "date": 1793699819000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "阳光电源：截至10月31日已累计回购344.28万股股份",
-        "url": "https://m.36kr.com/newsflashes/4053845281952644",
-        "desc": "36氪获悉，阳光电源公告，截至2026年10月31日，公司通过集中竞价交易方式累计回购股份344.28万股，占总股本0.1661%，回购成交最高价114.99元/股，最低价72.01元/股，支付资金总额为3.55亿元。本次回购符合公司回购方案及相关法律法规要求。",
-        "cover": "",
-        "date": 1793699620000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "美的集团：截至10月31日累计回购117.57亿元A股股份",
-        "url": "https://m.36kr.com/newsflashes/4053840195097481",
-        "desc": "36氪获悉，美的集团公告，截至2026年10月31日，公司通过集中竞价交易方式累计回购A股股份1.45亿股，占总股本的1.89%，最高成交价87.71元/股，最低成交价73.66元/股，支付总金额117.57亿元。此前公司已将回购股份用途变更为“用于依法注销减少注册资本”。",
-        "cover": "",
-        "date": 1793699369000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1793704263471,
+    "thepaper": 1793705163101,
     "bilibili": 1793703443845,
-    "qbitai": 1793675542061,
-    "36kr": 1793675542416
+    "qbitai": 1793676393793,
+    "36kr": 1793676394223
   },
   "failures": {}
 }
