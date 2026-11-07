@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-07T04:26:26Z",
+  "updatedAt": "2026-11-07T04:41:30Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
-        "title": "霍志静任北京人艺院长，冯远征不再担任",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34422015",
-        "desc": "",
-        "rank": 1
-      },
-      {
         "title": "讲武谈兵｜四川舰首次起降无人机，无人机航母时代来了？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34413980",
         "desc": "",
-        "rank": 2
+        "rank": 1
       },
       {
         "title": "言短意长｜争议延迟上学时间，先要明白教育不是一场比谁起得更早的竞赛",
         "url": "https://www.thepaper.cn/newsDetail_forward_34422540",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "跨国公司为何扎根上海？高管们聊起了这些年在中国的发展",
         "url": "https://www.thepaper.cn/newsDetail_forward_34422960",
         "desc": "",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "先创业后离职，口述配方指导生产，新宙邦前高管侵犯商业秘密：赔偿2000万后被判刑",
         "url": "https://www.thepaper.cn/newsDetail_forward_34422851",
+        "desc": "",
+        "rank": 4
+      },
+      {
+        "title": "马上评｜从这个“首次”看中国航天的大国担当",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34426536",
         "desc": "",
         "rank": 5
       },
@@ -40,8 +40,8 @@
         "rank": 6
       },
       {
-        "title": "马上评｜从这个“首次”看中国航天的大国担当",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34426536",
+        "title": "弦外｜面对数百万严重精神障碍患者，一个管理系统如何更高效",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34424730",
         "desc": "",
         "rank": 7
       },
@@ -100,45 +100,45 @@
         "rank": 16
       },
       {
-        "title": "全国人民代表大会常务委员会任命名单",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34422028",
-        "desc": "",
-        "rank": 17
-      },
-      {
         "title": "商务部回应“美首次以涉古巴为由制裁中企”：敦促美方尽快纠正错误做法",
         "url": "https://www.thepaper.cn/newsDetail_forward_34425625",
         "desc": "",
-        "rank": 18
+        "rank": 17
       },
       {
         "title": "《兄弟》出版20年，余华：文学需要冒犯",
         "url": "https://www.thepaper.cn/newsDetail_forward_34426138",
         "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "进博之问｜6天精彩，如何转化为365天的生意？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34418336",
+        "desc": "",
         "rank": 19
       },
       {
-        "title": "弦外｜面对数百万严重精神障碍患者，一个管理系统如何更高效",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34424730",
+        "title": "河北保定通报桥体脱落事故：造成3名施工人员、1名货车司机受伤",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34427376",
         "desc": "",
         "rank": 20
       }
     ],
     "bilibili": [
       {
-        "title": "【B站&抖音二路解说年总】11月7日 广州TTG vs 杭州LGD.NBW",
-        "url": "https://www.bilibili.com/video/BV1Ww4H6vEjh",
+        "title": "胖皇四连MVP！广州TTG 4-0 杭州LGD.NBW 赛后数据雷达图丨2026KPL年度总决赛",
+        "url": "https://www.bilibili.com/video/BV1MQ4n6VE3r",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Ww4H6vEjh",
-        "author": "kpl二路",
-        "duration": "2176:53",
-        "cover": "//i0.hdslb.com/bfs/archive/d04b884e60825800b6d30ed60551325eef495459.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ww4H6vEjh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1MQ4n6VE3r",
+        "author": "捕快云缨",
+        "duration": "3:49",
+        "cover": "//i1.hdslb.com/bfs/archive/209f2fe619309a82c63a00e0282ea922fb7c71be.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MQ4n6VE3r&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "广州TTG战胜杭州LGD.NBW KPL"
       },
       {
@@ -1122,10 +1122,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794054364713,
-    "bilibili": 1794054368998,
-    "qbitai": 1794025586389,
-    "36kr": 1794025586867
+    "thepaper": 1794055269623,
+    "bilibili": 1794054299576,
+    "qbitai": 1794026490117,
+    "36kr": 1794026490510
   },
   "failures": {}
 }
