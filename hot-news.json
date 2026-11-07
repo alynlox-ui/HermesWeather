@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T04:56:31Z",
+  "updatedAt": "2026-11-07T05:11:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -136,7 +136,7 @@
         "content": "-",
         "bvid": "BV1Ww4H6vEjh",
         "author": "kpl二路",
-        "duration": "2176:53",
+        "duration": "3090:9",
         "cover": "//i0.hdslb.com/bfs/archive/d04b884e60825800b6d30ed60551325eef495459.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ww4H6vEjh&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "广州TTG战胜杭州LGD.NBW KPL"
@@ -1122,10 +1122,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794056165102,
-    "bilibili": 1794056167814,
-    "qbitai": 1794027390911,
-    "36kr": 1794027391313
+    "thepaper": 1794057065520,
+    "bilibili": 1794056101982,
+    "qbitai": 1794028294991,
+    "36kr": 1794028295395
   },
   "failures": {}
 }
