@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T04:41:34Z",
+  "updatedAt": "2026-11-09T04:56:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -270,19 +270,19 @@
         "hotTitle": "用AI原创68分钟科幻长片"
       },
       {
-        "title": "【带篮子】锐评BLG拿下T1复盘：大飞本质性压抑！",
-        "url": "https://www.bilibili.com/video/BV1iwW46FEBC",
+        "title": "2026-11-09 BLG大战T1",
+        "url": "https://www.bilibili.com/video/BV1W6WW6iEFs",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "来自带篮子直播间",
-        "content": "来自带篮子直播间",
-        "bvid": "BV1iwW46FEBC",
-        "author": "缝合魔人学习通",
-        "duration": "15:23",
-        "cover": "//i1.hdslb.com/bfs/archive/dc5b20b6f2ba40d92c3dfb2547258e84c02524d2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iwW46FEBC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1W6WW6iEFs",
+        "author": "神枪小宝宝",
+        "duration": "250:36",
+        "cover": "//i0.hdslb.com/bfs/archive/d288e96b5be738ae0f253dd7415694a19a7c3915.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1W6WW6iEFs&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG战胜T1晋级决赛"
       },
       {
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "荣昌生物：签署泛RAS（ON）小分子抑制剂全球独占许可协议，将支付首付款5000万元、最高里程碑付款48.7亿元",
+        "url": "https://m.36kr.com/newsflashes/4062519384249218",
+        "desc": "36氪获悉，荣昌生物公告，公司与烟台荣昌制药签署《许可协议》，获得泛RAS（ON）小分子抑制剂全球独占性许可。公司将支付首付款5000万元，最高里程碑付款48.7亿元，并按年度净销售额3%-7%支付特许权使用费。公司现有肿瘤产品管线目前主要专注于实体肿瘤ADC及双特异性抗体，本次引进的泛RAS(ON)小分子抑制剂项目可补充现有管线、拓宽公司肿瘤产品组合，并为日后与公司管线内其他资产开展联合开发创造机会。",
+        "cover": "",
+        "date": 1794228505386,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "金价波动加大催生更灵活交易工具，多家银行上线积存金“挂单”功能",
+        "url": "https://m.36kr.com/newsflashes/4062517611647878",
+        "desc": "11月9日，中信银行发布公告称，预计将于11月16日上线积存金挂单功能，支持买入、赎回委托挂单。客户可根据自身交易需求预设价格，待黄金价格达到设定条件后自动成交。今年以来随着黄金价格波动幅度逐步放大，兴业银行、南京银行等多家银行已陆续上线积存金挂单功能。与此同时，部分银行还通过延长交易时段、推出手续费优惠等方式提升相关产品竞争力。（财联社）",
+        "cover": "",
+        "date": 1794228397195,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "巨人网络：拟以3亿元至6亿元回购公司股份",
         "url": "https://m.36kr.com/newsflashes/4062511234307204",
         "desc": "36氪获悉，巨人网络公告，公司拟使用自有资金以集中竞价交易方式回购公司A股社会公众股，回购总额不超过6亿元且不低于3亿元，回购价格不超过32.60元/股。本次回购股份用于维护公司价值及股东权益，回购期限自董事会审议通过之日起3个月。",
@@ -937,7 +957,7 @@
         "date": 1794228007953,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "谷歌推出新版TPU芯片，向英伟达发起竞争",
@@ -947,7 +967,7 @@
         "date": 1794227533113,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "韩国电商和配送巨头Coupang、Baemin因涉不正当竞争合计被罚超30亿",
@@ -957,7 +977,7 @@
         "date": 1794227330367,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "Anthropic豪掷34亿美元自建发电设备",
@@ -967,7 +987,7 @@
         "date": 1794226983000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "乘联会：10月增程市场逆势环比大涨31.3%，小米为增程市场注入显著增量",
@@ -977,7 +997,7 @@
         "date": 1794226642810,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "上纬新材：消费级具身智能机器人业务收入占总营收比例较低",
@@ -987,7 +1007,7 @@
         "date": 1794226559000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "华银电力：调整2025年度定增方案，募资规模下调至不超6亿元",
@@ -997,7 +1017,7 @@
         "date": 1794226138000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "快舟系列运载火箭后续发展规划发布，未来三年计划发射50次以上",
@@ -1007,7 +1027,7 @@
         "date": 1794225859000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "天孚通信：拟1亿元至1.5亿元回购股份用于注销",
@@ -1017,7 +1037,7 @@
         "date": 1794225562000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "聚灿光电：拟定增募资不超15亿元，用于红黄光外延片及芯片扩产升级项目等",
@@ -1027,7 +1047,7 @@
         "date": 1794225324000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "精测电子：拟1亿元至2亿元回购股份用于注销",
@@ -1037,7 +1057,7 @@
         "date": 1794225052000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "章源钨业：因钨原材料价格上涨，调整硬质合金类产品价格",
@@ -1047,7 +1067,7 @@
         "date": 1794224732357,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "迈为股份：一致行动协议到期解除，实控人变更为周剑",
@@ -1057,7 +1077,7 @@
         "date": 1794224550000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "大族数控：拟2亿元至3亿元回购公司A股股份",
@@ -1067,7 +1087,7 @@
         "date": 1794224520000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "“Apple智能”生成式人工智能服务新增苹果平板、笔记本电脑两类场景，已完成备案",
@@ -1077,7 +1097,7 @@
         "date": 1794224362570,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "宏达电子：拟定增募资不超10亿元，投建钽电容及陶瓷薄膜电路项目",
@@ -1087,7 +1107,7 @@
         "date": 1794224336000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "沪电股份：拟5亿元至10亿元回购公司股份",
@@ -1097,7 +1117,7 @@
         "date": 1794224061825,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "艾为电子：筹划购买钰泰股份股权，股票停牌",
@@ -1107,35 +1127,15 @@
         "date": 1794224017028,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "7天4板红太阳：不存在借助市场热门题材、概念标签或未经披露的重大事项进行股价炒作的情形",
-        "url": "https://m.36kr.com/newsflashes/4062429390754688",
-        "desc": "36氪获悉，红太阳发布风险提示公告，公司务实聚焦农药主业及吡啶碱等上下游产业链，坚持以主营业务为经营核心。公司不蹭热点、不蹭概念，不存在借助市场热门题材、概念标签或未经披露的重大事项进行股价炒作的情形。公司未来经营重点仍在于提升主营业务的盈利质量和可持续性，而非追逐短期市场概念。",
-        "cover": "",
-        "date": 1794223791000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "华如科技：被禁止参加全军物资工程服务采购活动5年",
-        "url": "https://m.36kr.com/newsflashes/4062429945402498",
-        "desc": "36氪获悉，华如科技公告，公司收到军队采购网发布的禁止性处理公告，禁止公司自2023年11月22日至2028年11月22日参加全军物资工程服务采购活动。公司法定代表人韩超及关联人员夏金凤被禁止自2026年3月31日至2029年3月31日参与相关活动。公司表示，2023年11月22日至今未从军队采购网获取订单，该事项不影响持续经营。2024年新签合同订单3.76亿元，2025年新签合同订单3.66亿元。",
-        "cover": "",
-        "date": 1794223465000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794228062561,
-    "bilibili": 1794228071499,
-    "qbitai": 1794199293633,
-    "36kr": 1794199294177
+    "thepaper": 1794228961962,
+    "bilibili": 1794227752533,
+    "qbitai": 1794200193908,
+    "36kr": 1794200194304
   },
   "failures": {}
 }
