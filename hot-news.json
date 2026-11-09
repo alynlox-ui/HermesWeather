@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T23:56:33Z",
+  "updatedAt": "2026-11-09T00:11:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -366,19 +366,19 @@
         "hotTitle": "BLG 雪原双子来了"
       },
       {
-        "title": "恭喜BLG，给我严查多兰!!我为T1不服!!!",
-        "url": "https://www.bilibili.com/video/BV1r2WW6aEDz",
+        "title": "【带篮子】大飞还装不装了！blg战胜t1 带篮子拷打faker！",
+        "url": "https://www.bilibili.com/video/BV1feW46TEU8",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1r2WW6aEDz",
-        "author": "真剑游戏测评",
-        "duration": "16:41",
-        "cover": "//i1.hdslb.com/bfs/archive/0170dff1bf49b5da23591effda9943cc1c8b0f2b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1r2WW6aEDz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1feW46TEU8",
+        "author": "好研宝",
+        "duration": "11:13",
+        "cover": "//i2.hdslb.com/bfs/archive/c43e17446d2067804143f918cc2cff8e7a68a3cb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1feW46TEU8&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "张靓颖恭喜BLG战胜T1"
       },
       {
@@ -798,6 +798,16 @@
         "rank": 19
       },
       {
+        "title": "超1.3万人共赴出海之约：GTC2026 全球流量大会（上海）圆满收官",
+        "url": "https://www.qbitai.com/2026/11/508661.html",
+        "desc": "11月5日，为期两天的GTC2026 全球流量大会（上海）在上海世博展览馆H3馆圆满落下帷幕。",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/5dcc836090f0a0bb0f23b73d4b74e837.jpeg",
+        "date": "2026-11-06T15:59:36",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 20
+      },
+      {
         "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
         "url": "https://www.qbitai.com/2026/11/508155.html",
         "desc": "Q3营收实现数倍增长",
@@ -805,7 +815,7 @@
         "date": "2026-11-06T15:00:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
@@ -815,7 +825,7 @@
         "date": "2026-11-06T14:54:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
@@ -825,7 +835,7 @@
         "date": "2026-11-06T14:43:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
@@ -835,7 +845,7 @@
         "date": "2026-11-06T13:01:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
@@ -845,7 +855,7 @@
         "date": "2026-11-06T11:36:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
@@ -855,7 +865,7 @@
         "date": "2026-11-06T11:20:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
@@ -865,7 +875,7 @@
         "date": "2026-11-06T10:00:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
@@ -875,7 +885,7 @@
         "date": "2026-11-05T21:17:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
@@ -885,7 +895,7 @@
         "date": "2026-11-05T17:37:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
@@ -893,16 +903,6 @@
         "desc": "拼多多把农创赛搬出了PPT。",
         "cover": "",
         "date": "2026-11-05T17:00:18",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "网易发力互动式讲题Agent：有道“欧拉讲题”上线，推翻行业“搜题生意”，开卷“讲题力”",
-        "url": "https://www.qbitai.com/2026/11/507822.html",
-        "desc": "网易有道推出互动式数学讲题Agent「欧拉讲题」，已在应用市场上线",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/5119bfaac963a5dd5b00b6d0b7b7d866-e1793868490845.png",
-        "date": "2026-11-05T16:48:32",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "恒指收跌0.13%，恒生科技指数跌0.92%",
+        "url": "https://m.36kr.com/newsflashes/4062246972544129",
+        "desc": "36氪获悉，恒指收跌0.13%，恒生科技指数跌0.92%；零售、光模块领跌，鸿腾精密、芯碁微装跌超12%，美团跌超6%，中际旭创跌超4%；煤炭、医疗设备板块涨幅居前，亮晴控股涨超27%，首钢能源涨超12%，兖矿能源涨超6%；南向资金净买入18.56亿港元。",
+        "cover": "",
+        "date": 1794211878695,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "环旭电子：10月合并营业收入66.44亿元，同比增加18.87%",
+        "url": "https://m.36kr.com/newsflashes/4062229107496069",
+        "desc": "36氪获悉，环旭电子公告，公司2026年10月合并营业收入为66.44亿元，同比增加18.87%，环比减少11.25%。公司2026年1月至10月合并营业收入为535.24亿元，同比增加8.72%。",
+        "cover": "",
+        "date": 1794211245610,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "神农集团：10月商品猪销售收入5.91亿元，同比增长49.24%",
+        "url": "https://m.36kr.com/newsflashes/4062224075969667",
+        "desc": "36氪获悉，神农集团公告，2026年10月份，公司销售商品猪42.84万头，同比增长55.9%（其中，向集团内部屠宰企业销售商品猪6.55万头）。商品猪销售收入5.91亿元，同比增长49.24%。商品猪销售均价9.83元/公斤，环比下降6.02%。",
+        "cover": "",
+        "date": 1794211157685,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "新五丰：10月销售生猪38.47万头，同比减少36.93%",
         "url": "https://m.36kr.com/newsflashes/4062225149612928",
         "desc": "36氪获悉，新五丰公告，2026年10月，公司销售生猪38.47万头，销售量同比减少36.93%，其中销售商品猪18万头。",
@@ -937,7 +967,7 @@
         "date": 1794210906000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "SK海力士拟扩充美国团队，深化与核心客户合作",
@@ -947,7 +977,7 @@
         "date": 1794210584424,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "国内潮玩市场迈向千亿级规模",
@@ -957,7 +987,7 @@
         "date": 1794210254478,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "英伟达自动驾驶进军韩国",
@@ -967,7 +997,7 @@
         "date": 1794210091000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "理想汽车旗下创投公司增资1亿元",
@@ -977,7 +1007,7 @@
         "date": 1794209662000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "千问办公2.0发布，为首个支持多人与Agent协作的Team Agent",
@@ -987,7 +1017,7 @@
         "date": 1794209387347,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "空客启动多年回购计划，总金额最高可达50亿欧元",
@@ -997,7 +1027,7 @@
         "date": 1794209117262,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "SpaceX拟在得州建设240亿美元超级计算设施",
@@ -1007,7 +1037,7 @@
         "date": 1794208993835,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "交通运输部：上周监测港口完成货物吞吐量25718.5万吨，环比下降5.69%",
@@ -1017,7 +1047,7 @@
         "date": 1794208527470,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "上海：强化脑机接口医疗器械全链条服务与监管",
@@ -1027,7 +1057,7 @@
         "date": 1794208452171,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "上海：积极探索开展医疗器械注册证转让试点",
@@ -1037,7 +1067,7 @@
         "date": 1794208440647,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "上海：争取仿制药立卷审查试点等改革，加快首仿品种上市",
@@ -1047,7 +1077,7 @@
         "date": 1794208267559,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "《上海市保障药品安全促进医药产业高质量发展“十五五”规划》印发",
@@ -1057,7 +1087,7 @@
         "date": 1794208215904,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "今年1—10月海南离岛免税购物金额276.6亿元",
@@ -1067,7 +1097,7 @@
         "date": 1794208051139,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "华夏幸福等被执行16.8亿",
@@ -1077,7 +1107,7 @@
         "date": 1794207871738,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "A股三大指数收盘涨跌不一，物理AI概念领涨",
@@ -1087,7 +1117,7 @@
         "date": 1794207673851,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "英伟达美股夜盘跌幅扩大至近6%",
@@ -1097,45 +1127,15 @@
         "date": 1794207413673,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "北汽集团在顺义成立星环生态科技公司，注册资本2亿",
-        "url": "https://m.36kr.com/newsflashes/4062160138376067",
-        "desc": "36氪获悉，天眼查App显示，近日，北京北汽星环生态科技有限公司成立，法定代表人为巩海东，注册资本2亿元人民币，经营范围包括汽车销售、新能源汽车整车销售、电车销售等，由北京汽车集团有限公司全资持股。",
-        "cover": "",
-        "date": 1794206578758,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "柏诚股份：公司模块化业务板块尚未实现盈利",
-        "url": "https://m.36kr.com/newsflashes/4062159185171588",
-        "desc": "柏诚股份在2026年第三季度业绩说明会上表示，模块化业务是公司战略级重点培育业务方向，公司加大力度推进模块化建造解决方案在生物制药、食品药品、微电子、数据中心、锂电等下游产业领域的运用，不断积累项目业绩和实施经验。公司今年模块化业务板块订单规模不断扩大，市场认可度持续提升，但由于产能尚未释放，而厂房及设备折旧、人工成本、技术研发及市场培育投入等持续发生，目前尚未实现盈利。（证券时报）",
-        "cover": "",
-        "date": 1794206520579,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "英国10月就业市场再度降温，正式员工招聘四个月来首次萎缩",
-        "url": "https://m.36kr.com/newsflashes/4062158639895681",
-        "desc": "11月9日，英国招聘与就业联合会（REC）及毕马威（KPMG）公布的调查显示，英国10月就业市场再度走弱，正式员工招聘四个月来首次出现萎缩，但新入职员工的起薪增长有所加快。正式员工招聘指数从9月的50.9降至10月的46.6，创今年5月以来最低水平；临时员工招聘指数也从50.9降至48.9，为3月以来首次跌破50荣枯线。（新浪财经）",
-        "cover": "",
-        "date": 1794206487298,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794210962422,
+    "thepaper": 1794211862344,
     "bilibili": 1794210076591,
-    "qbitai": 1794182192960,
-    "36kr": 1794182193331
+    "qbitai": 1794183092571,
+    "36kr": 1794183093026
   },
   "failures": {}
 }
