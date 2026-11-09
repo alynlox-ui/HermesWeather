@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:56:32Z",
+  "updatedAt": "2026-11-08T23:11:38Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -526,20 +526,10 @@
         "hotTitle": "锐评BLG战胜T1晋级决赛"
       },
       {
-        "title": "《崩坏：星穹铁道》星神★阿哈角色PV——「让骰子飞」",
-        "url": "https://www.bilibili.com/video/BV1tS4n6CEoJ",
+        "title": "星铁星神阿哈角色PV",
+        "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E6%98%9F%E7%A5%9E%E9%98%BF%E5%93%88%E8%A7%92%E8%89%B2PV",
         "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "「你这妙计叫什么名字？」 「打BOSS，直接用BOSS打——此计名为BOSS直拼。」 中文CV： 星神★阿哈——子音 男开拓者——秦且歌 来古士——赵君毅 银狼——Hanser 黄泉——菊花花 ‌ 日文CV： 星神★阿哈——户松遥 男开拓者——榎木淳弥 来古士——唐户俊太郎 银狼——阿澄佳奈 黄泉——泽城美雪 ‌ 英文CV： 星神★阿哈——Amber Lee Connors 男开拓者——Shaun Mendum 来古士——Blythe Melin 银狼——Melissa Fahn 黄泉——Alle",
-        "content": "「你这妙计叫什么名字？」 「打BOSS，直接用BOSS打——此计名为BOSS直拼。」 中文CV： 星神★阿哈——子音 男开拓者——秦且歌 来古士——赵君毅 银狼——Hanser 黄泉——菊花花 ‌ 日文CV： 星神★阿哈——户松遥 男开拓者——榎木淳弥 来古士——唐户俊太郎 银狼——阿澄佳奈 黄泉——泽城美雪 ‌ 英文CV： 星神★阿哈——Amber Lee Connors 男开拓者——Shaun Mendum 来古士——Blythe Melin 银狼——Melissa Fahn 黄泉——Alle",
-        "bvid": "BV1tS4n6CEoJ",
-        "author": "崩坏星穹铁道",
-        "duration": "12:39",
-        "cover": "//i2.hdslb.com/bfs/archive/d4305c122263017f3eb24fdcf34b352d08af4a36.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tS4n6CEoJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "星铁星神阿哈角色PV"
+        "rank": 26
       },
       {
         "title": "【S16淘汰赛】全位置数据雷达图",
@@ -608,6 +598,16 @@
     ],
     "qbitai": [
       {
+        "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+        "url": "https://www.qbitai.com/2026/11/508629.html",
+        "desc": "最早量产的亲自泼冷水",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/b886b21a1cb7974b84638cebe77e9de8.png",
+        "date": "2026-11-09T15:02:36",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
         "url": "https://www.qbitai.com/2026/11/508607.html",
         "desc": "Worker不够了主管Agent还能自己招！",
@@ -615,7 +615,7 @@
         "date": "2026-11-09T13:47:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
@@ -625,7 +625,7 @@
         "date": "2026-11-09T13:09:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
@@ -635,7 +635,7 @@
         "date": "2026-11-09T11:47:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
@@ -645,7 +645,7 @@
         "date": "2026-11-09T10:19:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
@@ -655,7 +655,7 @@
         "date": "2026-11-09T08:40:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "终端侧AI：从单点应用走向智能体体验",
@@ -665,7 +665,7 @@
         "date": "2026-11-08T19:05:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "资本正在撤离“世界模型”",
@@ -675,7 +675,7 @@
         "date": "2026-11-08T12:09:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
@@ -685,7 +685,7 @@
         "date": "2026-11-07T17:38:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "OpenAI新融资到账110亿美元，不及原计划一半",
@@ -695,7 +695,7 @@
         "date": "2026-11-07T16:11:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "为了去AI味，人类开始主动写烂文章了……",
@@ -705,7 +705,7 @@
         "date": "2026-11-07T15:59:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
@@ -715,7 +715,7 @@
         "date": "2026-11-07T13:01:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "AGENTS.MD，危险危险危险！！！",
@@ -725,7 +725,7 @@
         "date": "2026-11-07T11:43:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
@@ -735,7 +735,7 @@
         "date": "2026-11-07T11:31:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
@@ -745,7 +745,7 @@
         "date": "2026-11-07T11:23:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
@@ -755,7 +755,7 @@
         "date": "2026-11-06T23:21:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
@@ -765,7 +765,7 @@
         "date": "2026-11-06T17:25:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
@@ -775,7 +775,7 @@
         "date": "2026-11-06T17:21:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
@@ -785,7 +785,7 @@
         "date": "2026-11-06T17:19:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
@@ -795,7 +795,7 @@
         "date": "2026-11-06T15:00:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
@@ -805,7 +805,7 @@
         "date": "2026-11-06T14:54:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
@@ -815,7 +815,7 @@
         "date": "2026-11-06T14:43:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
@@ -825,7 +825,7 @@
         "date": "2026-11-06T13:01:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
@@ -835,7 +835,7 @@
         "date": "2026-11-06T11:36:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
@@ -845,7 +845,7 @@
         "date": "2026-11-06T11:20:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
@@ -855,7 +855,7 @@
         "date": "2026-11-06T10:00:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
@@ -865,7 +865,7 @@
         "date": "2026-11-05T21:17:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
@@ -875,7 +875,7 @@
         "date": "2026-11-05T17:37:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
@@ -885,7 +885,7 @@
         "date": "2026-11-05T17:00:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "网易发力互动式讲题Agent：有道“欧拉讲题”上线，推翻行业“搜题生意”，开卷“讲题力”",
@@ -893,16 +893,6 @@
         "desc": "网易有道推出互动式数学讲题Agent「欧拉讲题」，已在应用市场上线",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/5119bfaac963a5dd5b00b6d0b7b7d866-e1793868490845.png",
         "date": "2026-11-05T16:48:32",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-        "url": "https://www.qbitai.com/2026/11/507787.html",
-        "desc": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/2085b54e37f1b8dca4da3690df8c0ee1.png",
-        "date": "2026-11-05T15:15:13",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +920,66 @@
         "rank": 2
       },
       {
+        "title": "上海：争取仿制药立卷审查试点等改革，加快首仿品种上市",
+        "url": "https://m.36kr.com/newsflashes/4062187807691656",
+        "desc": "36氪获悉，上海市食品药品安全委员会印发《上海市保障药品安全促进医药产业高质量发展“十五五”规划》，其中提出，深入推动药品领域改革。持续推进创新药临床试验审评审批改革，支持创新药研发。深化境内外生产化学药品补充申请审评审批程序改革，对本市化学药品重大变更申报提供前置服务。争取仿制药立卷审查试点等改革，加快首仿品种上市。优化已上市药品变更流程。深入开展药品连续制造技术应用试点。优化临床急需药品临时进口服务指导工作机制和流程。",
+        "cover": "",
+        "date": 1794208267559,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "《上海市保障药品安全促进医药产业高质量发展“十五五”规划》印发",
+        "url": "https://m.36kr.com/newsflashes/4062186961376385",
+        "desc": "36氪获悉，上海市食品药品安全委员会印发《上海市保障药品安全促进医药产业高质量发展“十五五”规划》，其中提出，到2030年，上海药品监管实现“夯基拓能、提质增效、整体跃升”。责任链条更加完善，党政同责、部门联动、企业主责、社会共治的责任体系全面构建。风险防控更加有力，全过程动态安全监管机制持续夯实，系统性、区域性安全风险得到有效防范。改革攻坚更加深入，审评审批制度改革向纵深推进，重点领域改革试点取得突破。服务供给更加优质，生物医药发展服务创新工作机制不断完善，注册指导与服务效能得到充分释放。监管保障更加健全，监管法规制度和监管科学体系全面升级，人才队伍建设持续加强，数智化监管能力和监管国际化水平显著提升。更好服务上海建设具有国际影响力的生物医药产业创新高地，更好满足人民群众的健康需求。",
+        "cover": "",
+        "date": 1794208215904,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "今年1—10月海南离岛免税购物金额276.6亿元",
+        "url": "https://m.36kr.com/newsflashes/4062184261866633",
+        "desc": "据海口海关统计，今年1—10月海南离岛免税购物金额276.6亿元，购物人数410.1万人次，购物件数2311.3万件，同比分别增长12.5%、8.9%、4.4%。（央视新闻）",
+        "cover": "",
+        "date": 1794208051139,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "华夏幸福等被执行16.8亿",
+        "url": "https://m.36kr.com/newsflashes/4062160742061189",
+        "desc": "36氪获悉，天眼查法律诉讼信息显示，11月5日和6日，华夏幸福基业股份有限公司等新增3则被执行人信息，执行标的合计16.8亿余元人民币，执行法院为固安县人民法院、大厂回族自治县人民法院。该公司成立于1993年5月，法定代表人为王文学，注册资本约39.14亿人民币，经营范围包括房地产中介服务、提供施工设备服务、企业管理咨询等，由华夏幸福基业控股股份公司、鼎基资本管理有限公司、浙江春晖集团有限公司等共同持股。",
+        "cover": "",
+        "date": 1794207871738,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "A股三大指数收盘涨跌不一，物理AI概念领涨",
+        "url": "https://m.36kr.com/newsflashes/4062178080379777",
+        "desc": "36氪获悉，A股三大指数收盘涨跌不一，沪指涨0.32%，深成指跌0.27%，创业板指跌0.27%；物理AI、冰雪旅游领涨，上纬新材、冰山冷热、晶雪节能涨停，宇树科技涨超9%；煤炭、燃气股集体走强，郑州煤电、安泰集团、东方环宇涨停；锂矿、光伏概念跌幅居前，*ST威领跌停，阳光电源跌超5%，融捷股份跌超4%。",
+        "cover": "",
+        "date": 1794207673851,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "英伟达美股夜盘跌幅扩大至近6%",
+        "url": "https://m.36kr.com/newsflashes/4062173817623425",
+        "desc": "36氪获悉，英伟达美股夜盘跌幅扩大至近6%，此前黄仁勋承认婚外情并致歉。",
+        "cover": "",
+        "date": 1794207413673,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
         "title": "北汽集团在顺义成立星环生态科技公司，注册资本2亿",
         "url": "https://m.36kr.com/newsflashes/4062160138376067",
         "desc": "36氪获悉，天眼查App显示，近日，北京北汽星环生态科技有限公司成立，法定代表人为巩海东，注册资本2亿元人民币，经营范围包括汽车销售、新能源汽车整车销售、电车销售等，由北京汽车集团有限公司全资持股。",
@@ -937,7 +987,7 @@
         "date": 1794206578758,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 9
       },
       {
         "title": "柏诚股份：公司模块化业务板块尚未实现盈利",
@@ -947,7 +997,7 @@
         "date": 1794206520579,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 10
       },
       {
         "title": "英国10月就业市场再度降温，正式员工招聘四个月来首次萎缩",
@@ -957,7 +1007,7 @@
         "date": 1794206487298,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 11
       },
       {
         "title": "步科股份：前三季度机器人业务占营收比重升至56.55%",
@@ -967,7 +1017,7 @@
         "date": 1794206047584,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 12
       },
       {
         "title": "泰国计划到2030年将汽车产量提升至195万辆",
@@ -977,7 +1027,7 @@
         "date": 1794205974754,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 13
       },
       {
         "title": "一汽、豪能股份在泸州成立卓艺精密科技公司，注册资本7000万",
@@ -987,7 +1037,7 @@
         "date": 1794205845485,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 14
       },
       {
         "title": "英国拟将2030年电动汽车销售目标从80%下调至60%，以缓解车企压力",
@@ -997,7 +1047,7 @@
         "date": 1794205587494,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 15
       },
       {
         "title": "玛莎拉蒂将与尊界合作，推动本地化生产",
@@ -1007,7 +1057,7 @@
         "date": 1794205494497,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 16
       },
       {
         "title": "欧盟起诉IBM及其合作伙伴，边境管理系统项目陷入困境",
@@ -1017,7 +1067,7 @@
         "date": 1794205283835,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 17
       },
       {
         "title": "马斯克：特斯拉可能将出租而非出售Optimus机器人",
@@ -1027,7 +1077,7 @@
         "date": 1794204998477,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 18
       },
       {
         "title": "野人先生餐饮管理公司拟注销",
@@ -1037,7 +1087,7 @@
         "date": 1794204224058,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 19
       },
       {
         "title": "阿里云Token Plan额度上调70%以上",
@@ -1047,7 +1097,7 @@
         "date": 1794204024241,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 20
       },
       {
         "title": "“优理奇机器人”完成5亿元Pre-A轮融资",
@@ -1057,7 +1107,7 @@
         "date": 1794203839747,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 21
       },
       {
         "title": "MiniMax在珠海横琴成立新科技公司，注册资本500万",
@@ -1067,75 +1117,15 @@
         "date": 1794203792756,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
-      },
-      {
-        "title": "抖音旗下星罗拾光增资至约363.83亿元",
-        "url": "https://m.36kr.com/newsflashes/4062109322859654",
-        "desc": "36氪获悉，天眼查App显示，近日，深圳星罗拾光科技有限公司发生工商变更，注册资本由283.825亿元人民币增至363.825亿元人民币，增加80亿元，增幅约28.19%。该公司成立于2022年9月，法定代表人为石玉磊，经营范围含信息系统集成服务、软件开发、货物进出口、技术进出口、计算机软硬件及辅助设备批发和零售等。由抖音集团（香港）有限公司全资持股。",
-        "cover": "",
-        "date": 1794203477225,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 17
-      },
-      {
-        "title": "科大讯飞在合肥成立聆算科技公司，注册资本1亿",
-        "url": "https://m.36kr.com/newsflashes/4062103824814978",
-        "desc": "36氪获悉，天眼查App显示，近日，安徽聆算科技有限公司成立，法定代表人为陈雪纯，注册资本1亿元人民币，经营范围包括人工智能基础资源与技术平台、人工智能应用软件开发、人工智能公共服务平台技术咨询服务等，由科大讯飞旗下讯飞智元信息科技有限公司全资持股。",
-        "cover": "",
-        "date": 1794203141651,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "泰国工业联合会：泰国目标到2030年实现年产195万辆汽车",
-        "url": "https://m.36kr.com/newsflashes/4062094150128770",
-        "desc": "泰国工业联合会称，泰国目标到2030年实现年产195万辆汽车。（财联社）",
-        "cover": "",
-        "date": 1794202551155,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "乘联分会：10月新能源乘用车市场零售110.9万辆，同比下降13.7%",
-        "url": "https://m.36kr.com/newsflashes/4062086022206599",
-        "desc": "36氪获悉，乘联分会发布数据，10月新能源乘用车市场零售110.9万辆，同比下降13.7%，环比增长2.3%；1-10月新能源乘用车市场零售886.9万辆，同比下降12.9%。10月常规燃油乘用车零售53万辆，同比下降45%，环比下降0.1%；其中普通混合动力车同比增长28%，环比增长1.3%。",
-        "cover": "",
-        "date": 1794202055066,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "乘联分会：10月全国乘用车市场零售164.3万辆，同比下降27.1%",
-        "url": "https://m.36kr.com/newsflashes/4062084897346433",
-        "desc": "36氪获悉，乘联分会发布数据，2026年10月全国乘用车市场零售164.3万辆，同比下降27.1%，环比增长1.5%；1-10月乘用车累计零售1,497.8万辆，同比下降22.3%。",
-        "cover": "",
-        "date": 1794201986410,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "万泽股份：公司四季度燃机业务持续提升，海外燃机新增叶片订单将按预期落地",
-        "url": "https://m.36kr.com/newsflashes/4062082704823430",
-        "desc": "36氪获悉，万泽股份在互动平台表示，公司四季度燃机业务持续提升，海外燃机新增叶片订单将按预期落地。",
-        "cover": "",
-        "date": 1794201852589,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794207362608,
+    "thepaper": 1794208262582,
     "bilibili": 1794206472143,
-    "qbitai": 1794178592388,
-    "36kr": 1794178592752
+    "qbitai": 1794179498202,
+    "36kr": 1794179498585
   },
   "failures": {}
 }
