@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:11:32Z",
+  "updatedAt": "2026-11-08T22:26:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "【带篮子】锐评BLG拿下T1复盘：大飞本质性压抑！",
-        "url": "https://www.bilibili.com/video/BV1iwW46FEBC",
+        "title": "2026-11-09 BLG大战T1",
+        "url": "https://www.bilibili.com/video/BV1W6WW6iEFs",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "来自带篮子直播间",
-        "content": "来自带篮子直播间",
-        "bvid": "BV1iwW46FEBC",
-        "author": "缝合魔人学习通",
-        "duration": "15:23",
-        "cover": "//i1.hdslb.com/bfs/archive/dc5b20b6f2ba40d92c3dfb2547258e84c02524d2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iwW46FEBC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1W6WW6iEFs",
+        "author": "神枪小宝宝",
+        "duration": "250:36",
+        "cover": "//i0.hdslb.com/bfs/archive/d288e96b5be738ae0f253dd7415694a19a7c3915.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1W6WW6iEFs&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG战胜T1晋级决赛"
       },
       {
@@ -318,19 +318,19 @@
         "hotTitle": "S16淘汰赛全位置数据雷达图"
       },
       {
-        "title": "【带篮子】大飞还装不装了！blg战胜t1 带篮子拷打faker！",
-        "url": "https://www.bilibili.com/video/BV1feW46TEU8",
+        "title": "恭喜BLG，给我严查多兰!!我为T1不服!!!",
+        "url": "https://www.bilibili.com/video/BV1r2WW6aEDz",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1feW46TEU8",
-        "author": "好研宝",
-        "duration": "11:13",
-        "cover": "//i2.hdslb.com/bfs/archive/c43e17446d2067804143f918cc2cff8e7a68a3cb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1feW46TEU8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1r2WW6aEDz",
+        "author": "真剑游戏测评",
+        "duration": "16:41",
+        "cover": "//i1.hdslb.com/bfs/archive/0170dff1bf49b5da23591effda9943cc1c8b0f2b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1r2WW6aEDz&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "张靓颖恭喜BLG战胜T1"
       },
       {
@@ -930,6 +930,46 @@
         "rank": 2
       },
       {
+        "title": "英国拟将2030年电动汽车销售目标从80%下调至60%，以缓解车企压力",
+        "url": "https://m.36kr.com/newsflashes/4062143897506689",
+        "desc": "11月9日，有报道称，英国政府计划将2030年新车销售中零排放汽车的占比目标从目前的80%下调至约60%，并将针对汽车制造商的合规灵活性措施延长至2034年。英国副首相路易丝·黑格（Louise Haigh）预计将在本周三举行的会议后敲定相关方案。不过，英国政府发言人表示，目前尚未作出最终决定。（新浪财经）",
+        "cover": "",
+        "date": 1794205587494,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "玛莎拉蒂将与尊界合作，推动本地化生产",
+        "url": "https://m.36kr.com/newsflashes/4062142373843848",
+        "desc": "11月9日获悉，玛莎拉蒂与尊界的合作项目名为“玛莎拉蒂Design”，该项目为华为、江淮和Stellantis的三方合作。目前，新车外观已确认，规划明年第四季度有进一步量产动态。（第一财经）",
+        "cover": "",
+        "date": 1794205494497,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "欧盟起诉IBM及其合作伙伴，边境管理系统项目陷入困境",
+        "url": "https://m.36kr.com/newsflashes/4062138922357889",
+        "desc": "欧盟已对IBM及另外两家欧洲公司提起诉讼，原因是这三家公司在开发欧盟新型智能边境管理系统的过程中多次延期。今年夏天，该系统的推广曾导致欧洲各地机场出现大范围混乱。据内部通信记录，负责监管该系统的欧盟机构EU-Lisa已起诉美国科技公司IBM、法国信息技术集团Atos以及意大利国防承包商莱昂纳多（Leonardo）。此前，由这三家公司组成的联合体多次未能按期完成项目，并对EU-Lisa发出的警告和罚款提出异议。（新浪财经）",
+        "cover": "",
+        "date": 1794205283835,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "马斯克：特斯拉可能将出租而非出售Optimus机器人",
+        "url": "https://m.36kr.com/newsflashes/4062134247052417",
+        "desc": "马斯克最新表示，特斯拉很可能会向客户出租其人形机器人，而不是出售。特斯拉已经在其弗里蒙特工厂启动了optimus的早期量产，预计将在2027年底左右开始向外部客户交付。（财联社）",
+        "cover": "",
+        "date": 1794204998477,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "野人先生餐饮管理公司拟注销",
         "url": "https://m.36kr.com/newsflashes/4062121558971266",
         "desc": "36氪获悉，天眼查App显示，近日，北京野人先生餐饮管理有限责任公司新增一则简易注销公告，公告期自2026年11月3日至2026年11月23日。该公司成立于2016年6月，法定代表人为创始人崔建维，注册资本100万人民币，经营范围包括自制饮品制售、预包装食品销售、散装食品销售等，由崔建维全资持股。",
@@ -937,7 +977,7 @@
         "date": 1794204224058,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 7
       },
       {
         "title": "阿里云Token Plan额度上调70%以上",
@@ -947,7 +987,7 @@
         "date": 1794204024241,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 8
       },
       {
         "title": "“优理奇机器人”完成5亿元Pre-A轮融资",
@@ -957,7 +997,7 @@
         "date": 1794203839747,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "MiniMax在珠海横琴成立新科技公司，注册资本500万",
@@ -967,7 +1007,7 @@
         "date": 1794203792756,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "抖音旗下星罗拾光增资至约363.83亿元",
@@ -977,7 +1017,7 @@
         "date": 1794203477225,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "科大讯飞在合肥成立聆算科技公司，注册资本1亿",
@@ -987,7 +1027,7 @@
         "date": 1794203141651,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "泰国工业联合会：泰国目标到2030年实现年产195万辆汽车",
@@ -997,7 +1037,7 @@
         "date": 1794202551155,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "乘联分会：10月新能源乘用车市场零售110.9万辆，同比下降13.7%",
@@ -1007,7 +1047,7 @@
         "date": 1794202055066,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "乘联分会：10月全国乘用车市场零售164.3万辆，同比下降27.1%",
@@ -1017,7 +1057,7 @@
         "date": 1794201986410,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "万泽股份：公司四季度燃机业务持续提升，海外燃机新增叶片订单将按预期落地",
@@ -1027,7 +1067,7 @@
         "date": 1794201852589,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "深成指午后翻绿",
@@ -1037,7 +1077,7 @@
         "date": 1794200607667,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "搜狐：第三季度总收入为1.33亿美元",
@@ -1047,7 +1087,7 @@
         "date": 1794200589855,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "城堡证券计划进一步扩大其在亚洲的交易业务",
@@ -1057,7 +1097,7 @@
         "date": 1794200232218,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "正荣地产：子公司Zhenro Hong Kong被下令清盘，其财务业绩不再综合入账",
@@ -1067,7 +1107,7 @@
         "date": 1794199082530,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "Kakao Mobility与英伟达签署L4级自动驾驶技术谅解备忘录",
@@ -1077,7 +1117,7 @@
         "date": 1794198879000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "2027款岚图知音将于11月13日上市",
@@ -1087,55 +1127,15 @@
         "date": 1794198198000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "机构：10月房地产行业债券融资总额环比增长近7成",
-        "url": "https://m.36kr.com/newsflashes/4062005243139202",
-        "desc": "中指研究院发布的最新数据显示，10月房地产行业债券融资总额为447.6亿元，同比下降12%，环比增长68.8%。从融资结构来看，信用债融资295.6亿元，同比下降8.5%，环比增长80.1%，占比66%；ABS融资152亿元，同比下降3.2%，环比增长50.5%，占比34%。1—10月房地产行业债券融资总额为4797.6亿元，同比下降3.6%。其中，信用债融资2794.6亿元，同比下降7.9%；海外债融资209亿元，同比增长115%；ABS融资1794亿元，同比下降2.8%。（证券时报）",
-        "cover": "",
-        "date": 1794197548000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "交通运输部：继续暂停对美船舶收取船舶特别港务费",
-        "url": "https://m.36kr.com/newsflashes/4062006296548231",
-        "desc": "据交通运输部消息，为落实中美第八轮经贸磋商成果，经国务院批准，继续暂停实施《交通运输部关于对美船舶收取船舶特别港务费的公告》（交通运输部公告2025年第54号）、《交通运输部办公厅关于印发〈对美船舶收取船舶特别港务费实施办法〉的通知》（交办水〔2025〕59号）、《交通运输部关于启动航运业、造船业及相关产业链供应链安全和发展利益受影响情况调查的公告》（交通运输部公告2025年第55号）至2027年1月10日。（央视新闻）",
-        "cover": "",
-        "date": 1794197188998,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "尊界或推全新子品牌，定价40-50万区间、主打SUV车型",
-        "url": "https://m.36kr.com/newsflashes/4062005898646401",
-        "desc": "从知情人士处获悉，尊界或将推出一个全新子品牌，定价区间在40-50万左右，车型主打SUV。“其与玛莎拉蒂的合作分属于两个项目，目前（子品牌）具体细节尚未正式确定。”该知情人士透露。此前有市场传闻称，玛莎拉蒂母公司Stellantis、华为、江淮三方合作接近落地，目前规划两款全新纯电车型，整车将由尊界超级工厂负责制造。（财联社）",
-        "cover": "",
-        "date": 1794197164712,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "恒指午间休盘涨0.2%，恒生科技指数涨0.07%",
-        "url": "https://m.36kr.com/newsflashes/4062002630464393",
-        "desc": "36氪获悉，恒指午间休盘涨0.2%，恒生科技指数涨0.07%；煤炭、半导体、医疗板块领涨，卓正医疗、兖矿能源涨超4%，华虹宏力涨超3%；电气设备、汽车、建材板块跌幅居前，博雷顿、零跑汽车跌超5%，中国建材跌超3%；南向资金净买入20.21亿港元。",
-        "cover": "",
-        "date": 1794196965238,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794204662513,
-    "bilibili": 1794204671747,
-    "qbitai": 1794175891996,
-    "36kr": 1794175892292
+    "thepaper": 1794205562823,
+    "bilibili": 1794204670849,
+    "qbitai": 1794176792884,
+    "36kr": 1794176793180
   },
   "failures": {}
 }
