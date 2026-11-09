@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T23:27:27Z",
+  "updatedAt": "2026-11-08T23:41:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -76,50 +76,50 @@
         "rank": 12
       },
       {
+        "title": "观察｜以“进口”为名的博览会，本土科创企业为何组团进场",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34418393",
+        "desc": "",
+        "rank": 13
+      },
+      {
         "title": "幼童遭烫伤后死亡、无偿照看者被索赔116万，法院判赔15万",
         "url": "https://www.thepaper.cn/newsDetail_forward_34432814",
         "desc": "",
-        "rank": 13
+        "rank": 14
+      },
+      {
+        "title": "时隔14年，72岁王健林重任万达商管董事长",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34437843",
+        "desc": "",
+        "rank": 15
       },
       {
         "title": "媒体：“零元面馆”的善意，为何结出了市场的苦果？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34435656",
         "desc": "",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "关不上的弹窗｜弹窗广告总能盯上老年人背后：上了三个技术手段",
         "url": "https://www.thepaper.cn/newsDetail_forward_34362085",
         "desc": "",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "财晓得｜关不上的弹窗调查：“误触”如何转入广告页面，为何屡禁不止？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34317120",
         "desc": "",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "哈工大研究生回长沙卖气球：现在每月赚3000多元，但我不后悔",
         "url": "https://www.thepaper.cn/newsDetail_forward_34427379",
         "desc": "",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "从“临场应对”到“体系作战”，进博会的医疗保障有多顶？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34432313",
-        "desc": "",
-        "rank": 18
-      },
-      {
-        "title": "赵嘉鸣：茧不破、蝶不出",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34433746",
-        "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "澎湃新闻网记者朱远祥：以调查报道推动问题整改",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34434483",
         "desc": "",
         "rank": 20
       }
@@ -174,10 +174,20 @@
         "hotTitle": "Angel复盘BLG vs T1"
       },
       {
-        "title": "米勒激动现场落泪",
-        "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E6%BF%80%E5%8A%A8%E7%8E%B0%E5%9C%BA%E8%90%BD%E6%B3%AA",
+        "title": "恭喜blg！！！这一刻我们等了太久了！",
+        "url": "https://www.bilibili.com/video/BV1CzWW6TESm",
         "desc": "",
-        "rank": 4
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1CzWW6TESm",
+        "author": "解说米勒",
+        "duration": "0:18",
+        "cover": "//i1.hdslb.com/bfs/archive/b40e2fc16b0910560e4d6e3665bad68648ebc55d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CzWW6TESm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "米勒激动现场落泪"
       },
       {
         "title": "卫星轨道六大参数",
@@ -308,10 +318,20 @@
         "hotTitle": "王传君安利鲁豫参加浪姐"
       },
       {
-        "title": "Knight说赛后第一个联系369",
-        "url": "https://search.bilibili.com/all?keyword=Knight%E8%AF%B4%E8%B5%9B%E5%90%8E%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%81%94%E7%B3%BB369",
+        "title": "Meiko选手回应与369的“明年之约”",
+        "url": "https://www.bilibili.com/video/BV14pW769ERS",
         "desc": "",
-        "rank": 13
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "11月8日，iG电子竞技俱乐部在2026年英雄联盟全球总决赛中止步四强。赛后Meiko选手接受采访，回应此前在后台与369选手的明年之约。",
+        "content": "11月8日，iG电子竞技俱乐部在2026年英雄联盟全球总决赛中止步四强。赛后Meiko选手接受采访，回应此前在后台与369选手的明年之约。",
+        "bvid": "BV14pW769ERS",
+        "author": "央视网",
+        "duration": "0:45",
+        "cover": "//i0.hdslb.com/bfs/archive/6a5fd56728d8e3f4117f3618c0b609ef99681475.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14pW769ERS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Knight说赛后第一个联系369"
       },
       {
         "title": "Bin：世一上只是玩梗，我认为T1比GEN更强！",
@@ -378,10 +398,20 @@
         "hotTitle": "汪苏泷联名2诞生幕后"
       },
       {
-        "title": "全民安全公开课",
-        "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E6%B0%91%E5%AE%89%E5%85%A8%E5%85%AC%E5%BC%80%E8%AF%BE",
+        "title": "全民安全公开课-第三季（2025年5月）",
+        "url": "https://www.bilibili.com/video/BV14njMzfE3X",
         "desc": "",
-        "rank": 18
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "https://tv.cctv.com/lm/smx/index.shtml 全民安全公开课第三季，在央视社会与法频道（ CCTV -12)《生命线》栏目播出 该系列节目围绕汛期防溺水、高楼火灾逃生、电梯安全、地铁公交安全四大主题 带领观众走进广西、内蒙古、天津、北京等地的应急科普教育基地、消防研究所、高校等场所 针对性普及应急安全知识和避险自救技能，推动实现\"人人讲安全、个个会应急\"",
+        "content": "https://tv.cctv.com/lm/smx/index.shtml 全民安全公开课第三季，在央视社会与法频道（ CCTV -12)《生命线》栏目播出 该系列节目围绕汛期防溺水、高楼火灾逃生、电梯安全、地铁公交安全四大主题 带领观众走进广西、内蒙古、天津、北京等地的应急科普教育基地、消防研究所、高校等场所 针对性普及应急安全知识和避险自救技能，推动实现\"人人讲安全、个个会应急\"",
+        "bvid": "BV14njMzfE3X",
+        "author": "Hollowkeith",
+        "duration": "68:56",
+        "cover": "//i1.hdslb.com/bfs/archive/57649fadcd7a081f6741dd5552329f3b58fb4edf.png",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14njMzfE3X&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "全民安全公开课"
       },
       {
         "title": "锐评BLG击败T1晋级决赛！LPL等待了13年的胜利，距离创造神话仅一步之遥！",
@@ -900,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "理想汽车旗下创投公司增资1亿元",
+        "url": "https://m.36kr.com/newsflashes/4062203797083016",
+        "desc": "36氪获悉，天眼查App显示，近日，重庆车之辕创业投资有限公司发生工商变更，注册资本由6亿元人民币增至7亿元人民币，增加1亿元。该公司成立于2022年3月，法定代表人为王扬，经营范围为创业投资（限投资未上市企业），由重庆车之轩科技有限公司全资持股。天眼查集团信息显示，该公司为理想汽车集团成员企业。",
+        "cover": "",
+        "date": 1794209662000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "千问办公2.0发布，为首个支持多人与Agent协作的Team Agent",
+        "url": "https://m.36kr.com/newsflashes/4062206154298505",
+        "desc": "36氪获悉，11月9日，千问办公发布2.0版本，这是其上线三个月以来最大的一次升级。该版本推出了行业首个支持多人与Agent协作的功能“协作”，同时上线“人机共创”、“资料空间”、“自动任务”和“三端互联”等核心能力，让Agent从服务个人走向服务团队和组织。目前，所有功能已在千问办公客户端全量上线。",
+        "cover": "",
+        "date": 1794209387347,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "空客启动多年回购计划，总金额最高可达50亿欧元",
         "url": "https://m.36kr.com/newsflashes/4062201729225858",
         "desc": "空中客车启动了董事会批准后向市场发布的多年回购计划，作为其进一步增强股东回报承诺的一部分。该项目将在市场执行，最迟于2029年7月31日结束，分多批进行，总金额最高可达50亿欧元（或等值的股份）。空客计划注销通过该计划获得的股份。",
@@ -907,7 +957,7 @@
         "date": 1794209117262,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "SpaceX拟在得州建设240亿美元超级计算设施",
@@ -917,7 +967,7 @@
         "date": 1794208993835,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "交通运输部：上周监测港口完成货物吞吐量25718.5万吨，环比下降5.69%",
@@ -927,7 +977,7 @@
         "date": 1794208527470,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "上海：强化脑机接口医疗器械全链条服务与监管",
@@ -937,7 +987,7 @@
         "date": 1794208452171,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "上海：积极探索开展医疗器械注册证转让试点",
@@ -947,7 +997,7 @@
         "date": 1794208440647,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "上海：争取仿制药立卷审查试点等改革，加快首仿品种上市",
@@ -957,7 +1007,7 @@
         "date": 1794208267559,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "《上海市保障药品安全促进医药产业高质量发展“十五五”规划》印发",
@@ -967,7 +1017,7 @@
         "date": 1794208215904,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "今年1—10月海南离岛免税购物金额276.6亿元",
@@ -977,7 +1027,7 @@
         "date": 1794208051139,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "华夏幸福等被执行16.8亿",
@@ -987,7 +1037,7 @@
         "date": 1794207871738,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "A股三大指数收盘涨跌不一，物理AI概念领涨",
@@ -997,7 +1047,7 @@
         "date": 1794207673851,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "英伟达美股夜盘跌幅扩大至近6%",
@@ -1007,7 +1057,7 @@
         "date": 1794207413673,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "北汽集团在顺义成立星环生态科技公司，注册资本2亿",
@@ -1017,7 +1067,7 @@
         "date": 1794206578758,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "柏诚股份：公司模块化业务板块尚未实现盈利",
@@ -1027,7 +1077,7 @@
         "date": 1794206520579,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "英国10月就业市场再度降温，正式员工招聘四个月来首次萎缩",
@@ -1037,7 +1087,7 @@
         "date": 1794206487298,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "步科股份：前三季度机器人业务占营收比重升至56.55%",
@@ -1047,7 +1097,7 @@
         "date": 1794206047584,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "泰国计划到2030年将汽车产量提升至195万辆",
@@ -1057,7 +1107,7 @@
         "date": 1794205974754,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "一汽、豪能股份在泸州成立卓艺精密科技公司，注册资本7000万",
@@ -1067,7 +1117,7 @@
         "date": 1794205845485,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "英国拟将2030年电动汽车销售目标从80%下调至60%，以缓解车企压力",
@@ -1077,35 +1127,15 @@
         "date": 1794205587494,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "玛莎拉蒂将与尊界合作，推动本地化生产",
-        "url": "https://m.36kr.com/newsflashes/4062142373843848",
-        "desc": "11月9日获悉，玛莎拉蒂与尊界的合作项目名为“玛莎拉蒂Design”，该项目为华为、江淮和Stellantis的三方合作。目前，新车外观已确认，规划明年第四季度有进一步量产动态。（第一财经）",
-        "cover": "",
-        "date": 1794205494497,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "欧盟起诉IBM及其合作伙伴，边境管理系统项目陷入困境",
-        "url": "https://m.36kr.com/newsflashes/4062138922357889",
-        "desc": "欧盟已对IBM及另外两家欧洲公司提起诉讼，原因是这三家公司在开发欧盟新型智能边境管理系统的过程中多次延期。今年夏天，该系统的推广曾导致欧洲各地机场出现大范围混乱。据内部通信记录，负责监管该系统的欧盟机构EU-Lisa已起诉美国科技公司IBM、法国信息技术集团Atos以及意大利国防承包商莱昂纳多（Leonardo）。此前，由这三家公司组成的联合体多次未能按期完成项目，并对EU-Lisa发出的警告和罚款提出异议。（新浪财经）",
-        "cover": "",
-        "date": 1794205283835,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794209162520,
+    "thepaper": 1794210062333,
     "bilibili": 1794208272716,
-    "qbitai": 1794180447365,
-    "36kr": 1794180447759
+    "qbitai": 1794181291989,
+    "36kr": 1794181292292
   },
   "failures": {}
 }
