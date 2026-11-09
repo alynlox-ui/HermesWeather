@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T05:41:34Z",
+  "updatedAt": "2026-11-09T05:57:31Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -270,20 +270,10 @@
         "hotTitle": "降温必吃的这口神仙大蒸饺"
       },
       {
-        "title": "高开疯走？真不是小学生吵架！贴脸插刀不体面？情感漠视？缺乏引导！《后会友期》第四期",
-        "url": "https://www.bilibili.com/video/BV1tjW76ZEk9",
+        "title": "白小纯青稚关系中的情感漠视",
+        "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A%E5%85%B3%E7%B3%BB%E4%B8%AD%E7%9A%84%E6%83%85%E6%84%9F%E6%BC%A0%E8%A7%86",
         "desc": "",
-        "rank": 10,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《后会友期》第四期+抢鲜版，周五完稿的，还能跟上最新话题吗！",
-        "content": "《后会友期》第四期+抢鲜版，周五完稿的，还能跟上最新话题吗！",
-        "bvid": "BV1tjW76ZEk9",
-        "author": "噬元兽影视",
-        "duration": "24:48",
-        "cover": "//i1.hdslb.com/bfs/archive/cfde1eaa1e00716511abd63f814047da1d842569.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tjW76ZEk9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "白小纯青稚关系中的情感漠视"
+        "rank": 10
       },
       {
         "title": "Bin：世一上只是玩梗，我认为T1比GEN更强！",
@@ -366,20 +356,10 @@
         "hotTitle": "影之刃零的侠为何悲壮"
       },
       {
-        "title": "那年芮尔的遗憾，化成今天萨勒芬妮完美的大招！BLG的奇迹之团",
-        "url": "https://www.bilibili.com/video/BV13NWs6JEhP",
+        "title": "ON完美大招魅惑3人",
+        "url": "https://search.bilibili.com/all?keyword=ON%E5%AE%8C%E7%BE%8E%E5%A4%A7%E6%8B%9B%E9%AD%85%E6%83%913%E4%BA%BA",
         "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV13NWs6JEhP",
-        "author": "英雄联盟赛事",
-        "duration": "0:52",
-        "cover": "//i0.hdslb.com/bfs/archive/86930f284596e0d6993dac0c8dbb74cc9555235d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13NWs6JEhP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "ON完美大招魅惑3人"
+        "rank": 16
       },
       {
         "title": "再进世界赛决赛，knight谈自己的变化：现在更能看全局",
@@ -526,20 +506,10 @@
         "hotTitle": "BLG vs GEN数据前瞻"
       },
       {
-        "title": "【Karsa】BLG vs T1 LPL今年终于打破魔咒了😭",
-        "url": "https://www.bilibili.com/video/BV1KpW461EVx",
+        "title": "Karsa复盘BLG战胜T1",
+        "url": "https://search.bilibili.com/all?keyword=Karsa%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CT1",
         "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "商务合作联系：crystalpi@hotmail.com",
-        "content": "商务合作联系：crystalpi@hotmail.com",
-        "bvid": "BV1KpW461EVx",
-        "author": "Karsa",
-        "duration": "43:13",
-        "cover": "//i0.hdslb.com/bfs/archive/d522bd50e715d2b821d62044de5b0ef40e334a39.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KpW461EVx&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Karsa复盘BLG战胜T1"
+        "rank": 26
       },
       {
         "title": "载入史册！BLG 3-1 T1 赛后数据雷达图丨2026全球总决赛-半决赛",
@@ -1132,10 +1102,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794231662142,
-    "bilibili": 1794231670836,
-    "qbitai": 1794202894042,
-    "36kr": 1794202894458
+    "thepaper": 1794232562162,
+    "bilibili": 1794231356940,
+    "qbitai": 1794203850694,
+    "36kr": 1794203851226
   },
   "failures": {}
 }
