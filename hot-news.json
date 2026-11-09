@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T01:47:25Z",
-  "liveSourceCount": 3,
+  "updatedAt": "2026-11-09T02:02:25Z",
+  "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
@@ -142,20 +142,10 @@
         "hotTitle": "A2O SOUL出道主打曲"
       },
       {
-        "title": "NCT DREAM《Boogie Woogie》MV",
-        "url": "https://www.bilibili.com/video/BV1bLW46nE2w",
+        "title": "NCT DREAM新歌MV",
+        "url": "https://search.bilibili.com/all?keyword=NCT%20DREAM%E6%96%B0%E6%AD%8CMV",
         "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1bLW46nE2w",
-        "author": "SMTOWN",
-        "duration": "3:19",
-        "cover": "//i1.hdslb.com/bfs/archive/5186f9b6b52ded2f5eb054ff968c57e9283d4589.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bLW46nE2w&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "NCT DREAM新歌MV"
+        "rank": 2
       },
       {
         "title": "BLG为什么能够战胜T1",
@@ -164,10 +154,20 @@
         "rank": 3
       },
       {
-        "title": "BLG战胜T1晋级决赛",
-        "url": "https://search.bilibili.com/all?keyword=BLG%20T1",
+        "title": "2026-11-09 BLG大战T1",
+        "url": "https://www.bilibili.com/video/BV1W6WW6iEFs",
         "desc": "",
-        "rank": 4
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1W6WW6iEFs",
+        "author": "神枪小宝宝",
+        "duration": "250:36",
+        "cover": "//i0.hdslb.com/bfs/archive/d288e96b5be738ae0f253dd7415694a19a7c3915.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1W6WW6iEFs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG战胜T1晋级决赛"
       },
       {
         "title": "卫星轨道六大参数",
@@ -186,16 +186,36 @@
         "hotTitle": "卫星互联网低轨29组卫星成功发射"
       },
       {
-        "title": "米勒激动现场落泪",
-        "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E6%BF%80%E5%8A%A8%E7%8E%B0%E5%9C%BA%E8%90%BD%E6%B3%AA",
+        "title": "恭喜blg！！！这一刻我们等了太久了！",
+        "url": "https://www.bilibili.com/video/BV1CzWW6TESm",
         "desc": "",
-        "rank": 6
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1CzWW6TESm",
+        "author": "解说米勒",
+        "duration": "0:18",
+        "cover": "//i1.hdslb.com/bfs/archive/b40e2fc16b0910560e4d6e3665bad68648ebc55d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CzWW6TESm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "米勒激动现场落泪"
       },
       {
-        "title": "Knight说赛后第一个联系369",
-        "url": "https://search.bilibili.com/all?keyword=Knight%E8%AF%B4%E8%B5%9B%E5%90%8E%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%81%94%E7%B3%BB369",
+        "title": "369回国首播和zuian一起，弹幕全让69打瓦😂，369：T1打BLG肯定相信BLG呀！TES打iG暂停是服务器炸了，zuian：jiaqi在后面睡着了",
+        "url": "https://www.bilibili.com/video/BV1jUWJ6yEnX",
         "desc": "",
-        "rank": 7
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1jUWJ6yEnX",
+        "author": "nefelibataT",
+        "duration": "2:55",
+        "cover": "//i2.hdslb.com/bfs/archive/003daff397a302bd7c5cf38362dcb7ea545374f7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jUWJ6yEnX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Knight说赛后第一个联系369"
       },
       {
         "title": "纯稚的悬崖对谈终于来了，要我说这一波管理层负全责！《后会友期》观后感第三期",
@@ -220,10 +240,20 @@
         "rank": 9
       },
       {
-        "title": "BLG让S14的故事有了新篇章",
-        "url": "https://search.bilibili.com/all?keyword=BLG%E8%AE%A9S14%E7%9A%84%E6%95%85%E4%BA%8B%E6%9C%89%E4%BA%86%E6%96%B0%E7%AF%87%E7%AB%A0",
+        "title": "一个没什么主题的BLG打完T1这场的碎碎念",
+        "url": "https://www.bilibili.com/video/BV1Z7Wx6FEwc",
         "desc": "",
-        "rank": 10
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Z7Wx6FEwc",
+        "author": "夏安与秋",
+        "duration": "2:54",
+        "cover": "//i2.hdslb.com/bfs/archive/2290256618f55f10bb1cd60d534bbf2ce9597374.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z7Wx6FEwc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG让S14的故事有了新篇章"
       },
       {
         "title": "BO5战胜Faker！ BLG战胜T1挺进决赛！BLG决赛加油！【2026英雄联盟全球总决赛】",
@@ -258,20 +288,10 @@
         "hotTitle": "王传君安利鲁豫参加浪姐"
       },
       {
-        "title": "再进世界赛决赛，knight谈自己的变化：现在更能看全局",
-        "url": "https://www.bilibili.com/video/BV1dCW46cECg",
+        "title": "央视网赛后采访knight",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BFknight",
         "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "BLG晋级2026英雄联盟全球总决赛决赛后，中单选手 Knight接受央视网采访。即将第二次站上世界赛决赛舞台，他说和2024年相比，自己的心态更成熟，也更能看清场上的全局。回看这一年的BLG，他最看重的是，无论经历了什么，队友之间依然彼此相信、好好配合。",
-        "content": "BLG晋级2026英雄联盟全球总决赛决赛后，中单选手 Knight接受央视网采访。即将第二次站上世界赛决赛舞台，他说和2024年相比，自己的心态更成熟，也更能看清场上的全局。回看这一年的BLG，他最看重的是，无论经历了什么，队友之间依然彼此相信、好好配合。",
-        "bvid": "BV1dCW46cECg",
-        "author": "央视网",
-        "duration": "0:51",
-        "cover": "//i2.hdslb.com/bfs/archive/5a2d209670661cc8514699319818abaccac117b8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dCW46cECg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "央视网赛后采访knight"
+        "rank": 13
       },
       {
         "title": "Bin说T1比GEN强",
@@ -292,20 +312,10 @@
         "rank": 16
       },
       {
-        "title": "S赛怀旧金曲《BLG带带我》",
-        "url": "https://www.bilibili.com/video/BV1mK4E6NE82",
+        "title": "S赛怀旧金曲云南山歌版",
+        "url": "https://search.bilibili.com/all?keyword=S%E8%B5%9B%E6%80%80%E6%97%A7%E9%87%91%E6%9B%B2%E4%BA%91%E5%8D%97%E5%B1%B1%E6%AD%8C%E7%89%88",
         "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "AI生成视频，非真实事件，无不良导向",
-        "content": "AI生成视频，非真实事件，无不良导向",
-        "bvid": "BV1mK4E6NE82",
-        "author": "九夜听风",
-        "duration": "2:1",
-        "cover": "//i0.hdslb.com/bfs/archive/1ebb201cd6656eda9ffe2f7786e40f943fadea32.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mK4E6NE82&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S赛怀旧金曲云南山歌版"
+        "rank": 17
       },
       {
         "title": "T1输BLG赛后Faker满脸欣慰微笑着默默退场【LPL镜头切掉画面】",
@@ -362,20 +372,10 @@
         "hotTitle": "楚钧复盘BLG对战T1"
       },
       {
-        "title": "【锐评BLG战胜T1晋级决赛】就在今天！LPL等待一生的巨浪，BLG做到了！",
-        "url": "https://www.bilibili.com/video/BV1j6W46PEMr",
+        "title": "锐评BLG战胜T1晋级决赛",
+        "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84BLG%E6%88%98%E8%83%9CT1%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B",
         "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1j6W46PEMr",
-        "author": "Super卧龙君",
-        "duration": "15:43",
-        "cover": "//i2.hdslb.com/bfs/archive/7da4ed6fbdf0b1751821fa41e1070f630662f2a5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j6W46PEMr&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "锐评BLG战胜T1晋级决赛"
+        "rank": 22
       },
       {
         "title": "那年芮尔的遗憾，化成今天萨勒芬妮完美的大招！BLG的奇迹之团",
@@ -394,32 +394,42 @@
         "hotTitle": "ON完美大招魅惑3人"
       },
       {
-        "title": "达拉斯最后一餐依旧火锅！纽约见了喵～",
-        "url": "https://www.bilibili.com/video/BV1qoWx6YEhL",
+        "title": "BLG全员赛后依旧火锅局",
+        "url": "https://search.bilibili.com/all?keyword=BLG%E5%85%A8%E5%91%98%E8%B5%9B%E5%90%8E%E4%BE%9D%E6%97%A7%E7%81%AB%E9%94%85%E5%B1%80",
         "desc": "",
-        "rank": 24,
+        "rank": 24
+      },
+      {
+        "title": "BLG击败T1采访Knight：Faker那波阿卡丽让我想到24年塞拉斯，还好最后我们挺住了！",
+        "url": "https://www.bilibili.com/video/BV1M3Ws6LE8x",
+        "desc": "",
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1qoWx6YEhL",
-        "author": "BLG布噜噜",
-        "duration": "1:18",
-        "cover": "//i2.hdslb.com/bfs/archive/e6aafa04466724a4af30cc705426722ab668b8f1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qoWx6YEhL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG全员赛后依旧火锅局"
+        "bvid": "BV1M3Ws6LE8x",
+        "author": "Ymbky丶",
+        "duration": "2:24",
+        "cover": "//i1.hdslb.com/bfs/archive/03cee1970901d6b3cb3f3a59054e3080ba4c9d9e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1M3Ws6LE8x&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Knight称第四局仿佛回到24年"
       },
       {
-        "title": "Knight称第四局仿佛回到24年",
-        "url": "https://search.bilibili.com/all?keyword=Knight%E7%A7%B0%E7%AC%AC%E5%9B%9B%E5%B1%80%E4%BB%BF%E4%BD%9B%E5%9B%9E%E5%88%B024%E5%B9%B4",
+        "title": "《绝区零》赛维里安EP | Gambit",
+        "url": "https://www.bilibili.com/video/BV1xiWW6uESZ",
         "desc": "",
-        "rank": 25
-      },
-      {
-        "title": "绝区零赛维里安EP",
-        "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E8%B5%9B%E7%BB%B4%E9%87%8C%E5%AE%89EP",
-        "desc": "",
-        "rank": 26
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "对手还未落子 胜负已定在我方 我仍循自己的信念向前 ▼ 制作名单 制作人：周斌 作曲：周斌 编曲：周斌 作词：Mishon 演唱：Mishon 混音：周斌 母带：周斌 —— 欢迎来到罗斯凯利法！—— ▼《绝区零》3.3版本「重返天空的旅程」现已上线！ 限定S级代理人「菲欧妮」&「维琳娜」现已加入调频&复刻。 版本期间，参与活动可免费领取妄想天使时装！ bilibili安卓端下载地址：https://www.biligame.com/detail/?id=108434 bilibiliPC端下载地址：",
+        "content": "对手还未落子 胜负已定在我方 我仍循自己的信念向前 ▼ 制作名单 制作人：周斌 作曲：周斌 编曲：周斌 作词：Mishon 演唱：Mishon 混音：周斌 母带：周斌 —— 欢迎来到罗斯凯利法！—— ▼《绝区零》3.3版本「重返天空的旅程」现已上线！ 限定S级代理人「菲欧妮」&「维琳娜」现已加入调频&复刻。 版本期间，参与活动可免费领取妄想天使时装！ bilibili安卓端下载地址：https://www.biligame.com/detail/?id=108434 bilibiliPC端下载地址：",
+        "bvid": "BV1xiWW6uESZ",
+        "author": "绝区零",
+        "duration": "14:57",
+        "cover": "//i1.hdslb.com/bfs/archive/21895396c10b379f44589b0c4615546864cf5361.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xiWW6uESZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "绝区零赛维里安EP"
       },
       {
         "title": "BLG能对LCK完成一穿四吗",
@@ -428,26 +438,26 @@
         "rank": 27
       },
       {
-        "title": "载入史册！BLG 3-1 T1 赛后数据雷达图丨2026全球总决赛-半决赛",
-        "url": "https://www.bilibili.com/video/BV15FWs6XEDp",
+        "title": "数据回顾BLG战胜T1",
+        "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E6%8D%AE%E5%9B%9E%E9%A1%BEBLG%E6%88%98%E8%83%9CT1",
         "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV15FWs6XEDp",
-        "author": "苦练李香兰",
-        "duration": "4:35",
-        "cover": "//i0.hdslb.com/bfs/archive/1e49ee1bf404e6e3959e9278c76ab756f695146a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15FWs6XEDp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "数据回顾BLG战胜T1"
+        "rank": 28
       },
       {
-        "title": "星铁星神阿哈角色PV",
-        "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E6%98%9F%E7%A5%9E%E9%98%BF%E5%93%88%E8%A7%92%E8%89%B2PV",
+        "title": "《崩坏：星穹铁道》星神★阿哈角色PV——「让骰子飞」",
+        "url": "https://www.bilibili.com/video/BV1tS4n6CEoJ",
         "desc": "",
-        "rank": 29
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "「你这妙计叫什么名字？」 「打BOSS，直接用BOSS打——此计名为BOSS直拼。」 中文CV： 星神★阿哈——子音 男开拓者——秦且歌 来古士——赵君毅 银狼——Hanser 黄泉——菊花花 ‌ 日文CV： 星神★阿哈——户松遥 男开拓者——榎木淳弥 来古士——唐户俊太郎 银狼——阿澄佳奈 黄泉——泽城美雪 ‌ 英文CV： 星神★阿哈——Amber Lee Connors 男开拓者——Shaun Mendum 来古士——Blythe Melin 银狼——Melissa Fahn 黄泉——Alle",
+        "content": "「你这妙计叫什么名字？」 「打BOSS，直接用BOSS打——此计名为BOSS直拼。」 中文CV： 星神★阿哈——子音 男开拓者——秦且歌 来古士——赵君毅 银狼——Hanser 黄泉——菊花花 ‌ 日文CV： 星神★阿哈——户松遥 男开拓者——榎木淳弥 来古士——唐户俊太郎 银狼——阿澄佳奈 黄泉——泽城美雪 ‌ 英文CV： 星神★阿哈——Amber Lee Connors 男开拓者——Shaun Mendum 来古士——Blythe Melin 银狼——Melissa Fahn 黄泉——Alle",
+        "bvid": "BV1tS4n6CEoJ",
+        "author": "崩坏星穹铁道",
+        "duration": "12:39",
+        "cover": "//i2.hdslb.com/bfs/archive/d4305c122263017f3eb24fdcf34b352d08af4a36.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tS4n6CEoJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "星铁星神阿哈角色PV"
       },
       {
         "title": "BLG为何能击败T1",
@@ -458,6 +468,26 @@
     ],
     "qbitai": [
       {
+        "title": "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
+        "url": "https://www.qbitai.com/2026/11/508753.html",
+        "desc": "香港金融科技周 x StartmeupHK 2026十一月六日圆满结束。",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/e2772d2455879aff7bc5fbc9e59ea677-scaled.jpeg",
+        "date": "2026-11-09T17:58:33",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
+        "url": "https://www.qbitai.com/2026/11/508746.html",
+        "desc": "11月9日，百度文心首次披露 RSI 最新进展",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/6d66056eee84611f1e4ebef31fedd47d.png",
+        "date": "2026-11-09T17:48:04",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
+      {
         "title": "具身智能出海，物流先行",
         "url": "https://www.qbitai.com/2026/11/508716.html",
         "desc": "全球练兵、全球交付",
@@ -465,7 +495,7 @@
         "date": "2026-11-09T17:01:13",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 3
       },
       {
         "title": "“AI毁了我的计算机学位”",
@@ -475,7 +505,7 @@
         "date": "2026-11-09T16:57:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 4
       },
       {
         "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
@@ -485,7 +515,7 @@
         "date": "2026-11-09T16:44:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
@@ -495,7 +525,7 @@
         "date": "2026-11-09T16:34:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
@@ -505,7 +535,7 @@
         "date": "2026-11-09T16:26:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
@@ -515,7 +545,7 @@
         "date": "2026-11-09T15:02:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
@@ -525,7 +555,7 @@
         "date": "2026-11-09T13:47:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
@@ -535,7 +565,7 @@
         "date": "2026-11-09T13:09:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
@@ -545,7 +575,7 @@
         "date": "2026-11-09T11:47:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
@@ -555,7 +585,7 @@
         "date": "2026-11-09T10:19:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
@@ -565,7 +595,7 @@
         "date": "2026-11-09T08:40:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "终端侧AI：从单点应用走向智能体体验",
@@ -575,7 +605,7 @@
         "date": "2026-11-08T19:05:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "资本正在撤离“世界模型”",
@@ -585,7 +615,7 @@
         "date": "2026-11-08T12:09:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
@@ -595,7 +625,7 @@
         "date": "2026-11-07T17:38:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "OpenAI新融资到账110亿美元，不及原计划一半",
@@ -605,7 +635,7 @@
         "date": "2026-11-07T16:11:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "为了去AI味，人类开始主动写烂文章了……",
@@ -615,7 +645,7 @@
         "date": "2026-11-07T15:59:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
@@ -625,7 +655,7 @@
         "date": "2026-11-07T13:01:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "AGENTS.MD，危险危险危险！！！",
@@ -635,7 +665,7 @@
         "date": "2026-11-07T11:43:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
@@ -645,7 +675,7 @@
         "date": "2026-11-07T11:31:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
@@ -655,7 +685,7 @@
         "date": "2026-11-07T11:23:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
@@ -665,7 +695,7 @@
         "date": "2026-11-06T23:21:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
@@ -675,7 +705,7 @@
         "date": "2026-11-06T17:25:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
@@ -685,7 +715,7 @@
         "date": "2026-11-06T17:21:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 25
       },
       {
         "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
@@ -695,7 +725,7 @@
         "date": "2026-11-06T17:19:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 26
       },
       {
         "title": "超1.3万人共赴出海之约：GTC2026 全球流量大会（上海）圆满收官",
@@ -705,7 +735,7 @@
         "date": "2026-11-06T15:59:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 27
       },
       {
         "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
@@ -715,7 +745,7 @@
         "date": "2026-11-06T15:00:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 28
       },
       {
         "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
@@ -725,7 +755,7 @@
         "date": "2026-11-06T14:54:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 29
       },
       {
         "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
@@ -735,49 +765,129 @@
         "date": "2026-11-06T14:43:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
-      },
-      {
-        "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-        "url": "https://www.qbitai.com/2026/11/508107.html",
-        "desc": "一举刷新「AI安全世界杯」CyberGym世界纪录",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/截屏2026-11-06-13.01.03-e1793941287946.png",
-        "date": "2026-11-06T13:01:47",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-        "url": "https://www.qbitai.com/2026/11/507988.html",
-        "desc": "香港金融科技周 x StartmeupHK 2026踏入第11届",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/35f5b2b4ed1aaf7b80ac64dc288da9b6.jpeg",
-        "date": "2026-11-06T11:36:34",
-        "platform": "qbitai",
-        "kind": "article",
         "rank": 30
       }
     ],
     "36kr": [
       {
-        "title": "「国家队」的作业不好抄",
-        "url": "https://m.36kr.com/p/4061923101660041",
+        "title": "孙正义悬了",
+        "url": "https://m.36kr.com/p/4062214505747329",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261109/v2_a73296e3703344b0909ad774509c7ea9@5426566@ai_oswg892112oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1794192347770,
+        "cover": "https://img.36krcdn.com/hsossms/20261109/v2_5142c04740724c33aa64dd9f79d2382c@5888275@ai_oswg814039oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1794218049896,
         "platform": "36kr",
         "kind": "article",
         "rank": 1
       },
       {
-        "title": "36万「中女」，一年买走52亿江南布衣",
-        "url": "https://m.36kr.com/p/4061858250773385",
+        "title": "GPT-6.2首测，网友：终于有个能压倒Opus 5.5的了？",
+        "url": "https://m.36kr.com/p/4062202785125250",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261109/v2_72fbe990b7674022905aa8aaac461ce4@000000_oswg39391oswg900oswg382_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
-        "date": 1794192022878,
+        "cover": "https://img.36krcdn.com/hsossms/20261109/v2_20cdf91401184d54a58789c76c825a2f@6100851_oswg1912912oswg1440oswg600_img_png?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
+        "date": 1794218133484,
         "platform": "36kr",
         "kind": "article",
         "rank": 2
+      },
+      {
+        "title": "高盛数据显示，对冲基金上周快速抛售全球科技股",
+        "url": "https://m.36kr.com/newsflashes/4062343548687236",
+        "desc": "因为担心美国民主党可能会阻碍数据中心建设，引发了对AI交易的急剧重新评估，对冲基金上周以有纪录以来最快的速度之一抛售全球科技股。科技股是上周全球和美国遭净卖出幅度量最大的板块，其百分比金额大致追平高盛集团自2016年以来的数据。根据该银行截至11月6日的主经纪业务数据，这也引发了四个月来最大规模的单一股票净卖出潮。（财联社）",
+        "cover": "",
+        "date": 1794218373000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "唐人神：10月生猪销售收入4.15亿元，同比下降49.84%",
+        "url": "https://m.36kr.com/newsflashes/4062342704272261",
+        "desc": "36氪获悉，唐人神公告，10月生猪销量49.95万头，同比下降19.33%，环比上升5.1%；销售收入合计4.15亿元，同比下降49.84%，环比上升8.74%。公司生猪销售收入同比降幅较大，主要受生猪市场行情波动和出栏结构调整的影响。",
+        "cover": "",
+        "date": 1794218140000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "宁波能源：完成收购岳西风电100%股权并增资朗辰新能源7900万元",
+        "url": "https://m.36kr.com/newsflashes/4062341314794630",
+        "desc": "36氪获悉，宁波能源公告，公司全资子公司朗辰新能源和宁能投资分别以1.97亿元和1.89亿元收购汇宸基金持有的岳西风电51%和49%股权，合计对价3.86亿元，同时公司向朗辰新能源增资7900万元。近日工商变更登记已完成，岳西风电纳入公司合并报表范围。本次收购有助于增加公司新能源装机容量，提升竞争力。",
+        "cover": "",
+        "date": 1794218095750,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "百济神州：前三季度净利润60.55亿元，同比增长431.8%",
+        "url": "https://m.36kr.com/newsflashes/4062342040179593",
+        "desc": "36氪获悉，百济神州公告，前三季度实现营业收入349.93亿元，同比增长26.8%；归属于上市公司股东的净利润60.55亿元，同比增长431.8%。第三季度实现营业收入127.74亿元，同比增长26.8%；归属于上市公司股东的净利润27.85亿元，同比增长304.3%。业绩变动主要得益于产品收入增长和费用管理推动的经营效率提升。",
+        "cover": "",
+        "date": 1794217681163,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "马斯克Terafab目标曝光：瞄准月产70万片存储芯片晶圆，接近三星DRAM总产能",
+        "url": "https://m.36kr.com/newsflashes/4062329286022274",
+        "desc": "马斯克旗下半导体合资企业Terafab正将触角伸向全球存储芯片产能的核心地带。据日经新闻报道，Terafab已向半导体设备供应商透露，计划于2032年实现月产100万片晶圆的产能目标，其中70万片用于存储芯片、30万片用于逻辑芯片。这一目标的震撼之处在于其存储芯片规模：三星目前DRAM月产能约为65万至70万片晶圆，Terafab的存储芯片目标与之相当。对于一家尚处起步阶段的新进入者而言，能否在约六年内复制三星现有规模，将是对整个行业格局的重大考验。（财联社）",
+        "cover": "",
+        "date": 1794217619000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "外媒：黄仁勋或被英伟达免职，尚未指定接班人",
+        "url": "https://m.36kr.com/newsflashes/4062330073682819",
+        "desc": "美东时间11月8日，英伟达创始人兼CEO黄仁勋于致员工信中承认婚外情，并向董事会、员工及全球股东致歉。英伟达董事会已宣布由独立董事和外部律师启动调查。彭博社报道称，作为英伟达联合创始人，黄仁勋以亲力亲为、不知疲倦的管理风格著称。这家公司尚未公布明确的接班计划，黄仁勋也没有明显的指定接班人。他多次表示希望在未来数十年继续执掌英伟达，并围绕自己建立了一种非正式的组织架构度。据路透社报道，美国投资机构Yorkville Ives的合伙人兼高级董事总经理丹·艾夫斯表示：“显然，根据董事会的调查结果，黄仁勋可能被免去首席执行官职务。”（中新经纬）",
+        "cover": "",
+        "date": 1794217365000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
+        "title": "ST思科瑞：自11月11日起复牌并撤销其他风险警示，证券简称变更为“思科瑞”",
+        "url": "https://m.36kr.com/newsflashes/4062321790538888",
+        "desc": "36氪获悉，ST思科瑞公告，公司股票将于2026年11月10日停牌一天，自11月11日起复牌并撤销其他风险警示，证券简称由“ST思科瑞”变更为“思科瑞”，扩位简称变更为“思科瑞微电子”，证券代码不变，日涨跌幅限制仍为20%。",
+        "cover": "",
+        "date": 1794217224000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 9
+      },
+      {
+        "title": "金固股份：具身智能机器人结构件业务现阶段收入和利润占比极低",
+        "url": "https://m.36kr.com/newsflashes/4062321307571080",
+        "desc": "36氪获悉，金固股份发布股票交易异常波动公告，近期资本市场对机器人概念关注度较高，相关板块市场表现活跃。公司具身智能机器人结构件业务的规模化生产、交付及商业化能力均具有一定不确定性，现阶段收入和利润占比极低，预计短期内不会对公司业绩产生重大影响。",
+        "cover": "",
+        "date": 1794217005000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 10
+      },
+      {
+        "title": "澳大利亚Stockland因居民反对放弃悉尼数据中心计划，AI基础设施建设阻力加大",
+        "url": "https://m.36kr.com/newsflashes/4062310276109184",
+        "desc": "11月8日，澳大利亚房地产开发商Stockland确认，由于当地居民反对，公司已决定取消悉尼一处大型物流园区项目中的数据中心建设计划，但整体物流开发项目仍将继续推进。该项目由Stockland与John Boyd Properties合作开发，位于悉尼机场附近的一处前高尔夫球场，占地近2公里，毗邻库克斯河、悉尼机场及博塔尼港。项目最初于2025年公布，原计划建设综合物流及商业设施。今年早些时候，Stockland提出将数据中心纳入潜在开发用途，随后引发当地居民反对。公司表示，将在后续规划过程中继续与相关利益方沟通。（新浪财经）",
+        "cover": "",
+        "date": 1794216759000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 11
+      },
+      {
+        "title": "天赐材料：董事长提议公司5000万元—1亿元回购股份",
+        "url": "https://m.36kr.com/newsflashes/4062309719708545",
+        "desc": "36氪获悉，天赐材料公告，公司控股股东、董事长徐金富提议公司5000万元—1亿元回购股份，用于员工持股计划或股权激励、减少注册资本或用于维护公司价值及股东权益。",
+        "cover": "",
+        "date": 1794216484000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 12
       },
       {
         "title": "雪天盐业：拟发行股份及支付现金购买坤天新能源100%股权，尽职调查审计评估有序推进",
@@ -787,7 +897,7 @@
         "date": 1794216330000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 13
       },
       {
         "title": "清溢光电：控股子公司拟不超15亿元投建高端半导体掩膜版生产基地建设项目三期",
@@ -797,7 +907,7 @@
         "date": 1794216174000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 14
       },
       {
         "title": "龙行天下上交所IPO过会",
@@ -807,7 +917,7 @@
         "date": 1794216040488,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 15
       },
       {
         "title": "企微原生AI助理“大圆”全量接入混元Hy4，提升复杂工作处理能力",
@@ -817,7 +927,7 @@
         "date": 1794215926000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 16
       },
       {
         "title": "益生股份：10月白羽肉鸡苗销售收入1.45亿元，环比增长10.72%",
@@ -827,7 +937,7 @@
         "date": 1794215731000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 17
       },
       {
         "title": "中信建投完成第三批“互换便利”业务首批股票买入",
@@ -837,7 +947,7 @@
         "date": 1794215671933,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 18
       },
       {
         "title": "神州半导体IPO申请11月16日上会",
@@ -847,7 +957,7 @@
         "date": 1794215526551,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 19
       },
       {
         "title": "马斯克：SpaceX与Anthropic算力合约并非单向押注",
@@ -857,7 +967,7 @@
         "date": 1794215501000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 20
       },
       {
         "title": "风范股份：中标国家电网项目，金额约8669.46万元",
@@ -867,7 +977,7 @@
         "date": 1794215233000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 21
       },
       {
         "title": "大北农：10月商品肥猪销售收入2.87亿元，同比下降46.75%",
@@ -877,116 +987,15 @@
         "date": 1794214983000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
-      },
-      {
-        "title": "英搏尔：拟斥1.5亿~2.5亿元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4062287200850821",
-        "desc": "36氪获悉，英搏尔公告，公司拟以集中竞价方式回购无限售条件A股流通股，回购资金总额不低于1.5亿元且不超过2.5亿元，回购价格不超过29.05元/股。按回购价格上限测算，预计回购股份数量为516.35万股-860.59万股，占公司总股本比例为1.66%-2.77%。回购股份用于维护公司价值及股东权益，将在披露回购结果暨股份变动公告12个月后择机出售，未使用部分逾期将注销。回购实施期限为董事会审议通过方案之日起3个月内。公司董事、高管、控股股东、实控人及持股5%以上股东未来六个月无减持计划。",
-        "cover": "",
-        "date": 1794214809000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 13
-      },
-      {
-        "title": "五粮液基金管理公司变更法定代表人",
-        "url": "https://m.36kr.com/newsflashes/4062283829679236",
-        "desc": "36氪获悉，天眼查App显示，近日，宜宾五粮液基金管理有限公司发生工商变更，法定代表人由向晔变更为钟道远，同时完成章程备案。该公司成立于2017年8月，注册资本1.1亿元人民币，经营范围含基金管理、投资管理、资产管理、股权投资、创业投资及相关咨询服务。股东信息显示，该公司由四川省宜宾五粮液集团有限公司、宜宾发展控股集团有限公司、厦门建发美酒汇酒业有限公司分别持股56%、24%、20%。",
-        "cover": "",
-        "date": 1794214667000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 14
-      },
-      {
-        "title": "重庆建工：联合体中标4.94亿元EPC总承包项目",
-        "url": "https://m.36kr.com/newsflashes/4062280484705156",
-        "desc": "36氪获悉，重庆建工公告，公司近日收到项目中标通知书，公司（牵头人）、重庆设计集团有限公司、中冶赛迪工程技术股份有限公司联合体中标万盛经开区2026年城镇配套基础设施项目EPC总承包，中标价约4.94亿元，其中公司承建的工程体量约为4.9亿元。",
-        "cover": "",
-        "date": 1794214461000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 15
-      },
-      {
-        "title": "厦门空港：10月旅客吞吐量245.5万人次，同比下降3.9%",
-        "url": "https://m.36kr.com/newsflashes/4062279191221125",
-        "desc": "36氪获悉，厦门空港公告，2026年10月飞机起降16187架次，同比下降3.23%；旅客吞吐量245.5万人次，同比下降3.9%；货邮吞吐量3.69万吨，同比增长10.76%。",
-        "cover": "",
-        "date": 1794214203000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 16
-      },
-      {
-        "title": "软银公司上调全年业绩预期，上半年营收和营业利润均创历史新高",
-        "url": "https://m.36kr.com/newsflashes/4062274883064962",
-        "desc": "11月9日，日本电信运营商软银公司公布2027财年上半年财报，并上调全年业绩预期。公司预计全年营收将达到7.9万亿日元，高于此前预测的7.5万亿日元；营业利润预期从1.1万亿日元上调至1.16万亿日元；归属于母公司股东的净利润预期从5600亿日元上调至6100亿日元，部分反映了出售Energy Global优先股权益所带来的收益。",
-        "cover": "",
-        "date": 1794214199220,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 17
-      },
-      {
-        "title": "美民主党拟对马斯克等发起调查",
-        "url": "https://m.36kr.com/newsflashes/4062282945254278",
-        "desc": "美国国会民主党议员8日表示，明年1月民主党接管国会后，将对美国亿万富翁埃隆·马斯克、白宫办公厅主任斯蒂芬·米勒及部分企业发起调查。民主党籍的联邦众议员罗伯特·加西亚与联邦参议员伊丽莎白·沃伦当天在电视访谈中作出上述表态。（新华社）",
-        "cover": "",
-        "date": 1794214074295,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "Sakana AI计划最早2027年秋季进行IPO",
-        "url": "https://m.36kr.com/newsflashes/4062275983053699",
-        "desc": "据报道，日本AI公司Sakana AI准备进行首次公开募股（IPO），最早可能于2027年秋季在日本或美国上市。该公司已聘请高盛担任IPO顾问。（财联社）",
-        "cover": "",
-        "date": 1794214069000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "英伟达宣布对多家韩国AI创企投资计划",
-        "url": "https://m.36kr.com/newsflashes/4062276068201346",
-        "desc": "英伟达11月9日发布声明称，公司高管与韩国科学技术信息通信部副部长共同会见超20家韩国初创企业，涵盖基础模型、物理AI、AI基础设施以及AI半导体等领域。英伟达宣布投资韩国AI互连技术创企Point2，并计划进一步投资AI实验室Motif Technologies、物理AI创企RLWRLD和企业级AI公司Upstage。（界面）",
-        "cover": "",
-        "date": 1794213654553,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "金安国纪：拟投资5亿元新建电子级玻纤布项目",
-        "url": "https://m.36kr.com/newsflashes/4062272174297991",
-        "desc": "36氪获悉，金安国纪公告，公司董事会审议通过议案，拟在安徽省宁国市投资新建年产1.3亿米电子级玻纤布项目，投资总额约5亿元，资金来源为自筹资金。项目实施主体为公司全资子公司安徽金瑞电子玻纤有限公司，建设周期预计12个月。该项目建成后将有效保障公司核心原材料供应安全，构建稳定供应链体系。",
-        "cover": "",
-        "date": 1794213416888,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "正邦科技：10月生猪销售收入5.96亿元，同比降12.69%",
-        "url": "https://m.36kr.com/newsflashes/4062257630860162",
-        "desc": "36氪获悉，正邦科技公告，2026年10月销售生猪94.76万头，环比上升12.50%，同比上升4.38%；销售收入5.96亿元，环比上升10.23%，同比下降12.69%。商品猪（扣除仔猪后）销售均价9.59元/公斤，较上月下降8.56%。2026年1-10月，累计销售生猪905.75万头，同比上升36.41%；累计销售收入64.12亿元，同比下降6.04%。",
-        "cover": "",
-        "date": 1794213119000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794217262639,
+    "thepaper": 1794218162500,
     "bilibili": 1794216568611,
-    "qbitai": 1794188823388
+    "qbitai": 1794189737199,
+    "36kr": 1794189745299
   },
-  "failures": {
-    "36kr": "JSONDecodeError('Unterminated string starting at: line 1 column 4868 (char 4867)')"
-  }
+  "failures": {}
 }
