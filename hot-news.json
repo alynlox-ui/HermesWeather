@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T04:03:52Z",
-  "liveSourceCount": 3,
+  "updatedAt": "2026-11-09T04:18:13Z",
+  "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
@@ -126,32 +126,26 @@
     ],
     "bilibili": [
       {
-        "title": "米勒激动现场落泪",
-        "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E6%BF%80%E5%8A%A8%E7%8E%B0%E5%9C%BA%E8%90%BD%E6%B3%AA",
+        "title": "30岁的Faker，他只是输给了时间",
+        "url": "https://www.bilibili.com/video/BV1guWs62Ejx",
         "desc": "",
-        "rank": 1
-      },
-      {
-        "title": "马斯克SpaceX星舰成功发射26颗卫星，竟开始盈利了！一口气看完全过程！",
-        "url": "https://www.bilibili.com/video/BV13naE6WEHQ",
-        "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV13naE6WEHQ",
-        "author": "极客小冷",
-        "duration": "5:58",
-        "cover": "//i1.hdslb.com/bfs/archive/e84f90e08df79d92214dc5c1ded851494fe640bd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13naE6WEHQ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "卫星互联网低轨29组卫星成功发射"
+        "description": "李哥加油！没关系的，我们很幸福！",
+        "content": "李哥加油！没关系的，我们很幸福！",
+        "bvid": "BV1guWs62Ejx",
+        "author": "T1ヽFaker",
+        "duration": "1:31",
+        "cover": "//i0.hdslb.com/bfs/archive/f55799ae497c2c88924e22692e82775351e6eb8f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1guWs62Ejx&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "回看30岁Faker的来时路"
       },
       {
         "title": "如何评价“罪在当代，功在千秋？”这句话？",
         "url": "https://www.bilibili.com/video/BV1kJ4E6xEan",
         "desc": "",
-        "rank": 3,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "如何评价“罪在当代，功在千秋？”",
@@ -164,88 +158,88 @@
         "hotTitle": "功在千秋能抵消罪在当代吗"
       },
       {
-        "title": "复盘BLG战胜T1,MSIEWC都没输，凭什么我ON避你锋芒？",
-        "url": "https://www.bilibili.com/video/BV1vTWb6eESC",
+        "title": "极地卫星和静止卫星的轨道运行方式",
+        "url": "https://www.bilibili.com/video/BV1Et41117nA",
         "desc": "",
-        "rank": 4,
+        "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "我每次看到blg获胜的激动之后，第二时间会想到的就是今年的blg一路以来的不容易，心酸，有的时候喜悦和悲伤会交杂在一起，真的挺复杂的，但是所有的泪花，都是源于幸福的，我为你们自豪，今年陪你们一路走到现在，是我的荣幸",
-        "content": "我每次看到blg获胜的激动之后，第二时间会想到的就是今年的blg一路以来的不容易，心酸，有的时候喜悦和悲伤会交杂在一起，真的挺复杂的，但是所有的泪花，都是源于幸福的，我为你们自豪，今年陪你们一路走到现在，是我的荣幸",
-        "bvid": "BV1vTWb6eESC",
-        "author": "杰斯汪解析",
-        "duration": "15:26",
-        "cover": "//i1.hdslb.com/bfs/archive/ab68778af36a11615a5fefcb00cecf259176df60.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vTWb6eESC&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "ON在S16的进步有多大"
+        "description": "极地太阳同步轨道和静止卫星运行轨道",
+        "content": "极地太阳同步轨道和静止卫星运行轨道",
+        "bvid": "BV1Et41117nA",
+        "author": "锐多宝",
+        "duration": "2:20",
+        "cover": "//i1.hdslb.com/bfs/archive/a5ec57ca85a8a96e8fb9ffa5185c7678ff372526.png",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Et41117nA&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "卫星互联网低轨29组卫星成功发射"
+      },
+      {
+        "title": "复盘半决赛多兰VN操作",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%A4%9A%E5%85%B0VN%E6%93%8D%E4%BD%9C",
+        "desc": "",
+        "rank": 4
+      },
+      {
+        "title": "草莓植物工厂能种上月球吗",
+        "url": "https://search.bilibili.com/all?keyword=%E8%8D%89%E8%8E%93%E6%A4%8D%E7%89%A9%E5%B7%A5%E5%8E%82%E8%83%BD%E7%A7%8D%E4%B8%8A%E6%9C%88%E7%90%83%E5%90%97",
+        "desc": "",
+        "rank": 5
+      },
+      {
+        "title": "A2O SOUL出道主打曲",
+        "url": "https://search.bilibili.com/all?keyword=A2O%20SOUL%E5%87%BA%E9%81%93%E4%B8%BB%E6%89%93%E6%9B%B2",
+        "desc": "",
+        "rank": 6
+      },
+      {
+        "title": "全员恶人，四面通吃！心机大叔的黑帮生存手则，开始崛起！万字细嗦《谷雨》日更第四期 包含；剧情、细节、镜头语言、历史科普等",
+        "url": "https://www.bilibili.com/video/BV1QsWx6sESn",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "全员恶人，四面通吃！心机大叔的黑帮生存手则，开始崛起！万字细嗦《谷雨》日更第四期 包含；剧情、细节、镜头语言、历史科普等",
+        "content": "全员恶人，四面通吃！心机大叔的黑帮生存手则，开始崛起！万字细嗦《谷雨》日更第四期 包含；剧情、细节、镜头语言、历史科普等",
+        "bvid": "BV1QsWx6sESn",
+        "author": "不善言辞的秃秃",
+        "duration": "29:51",
+        "cover": "//i2.hdslb.com/bfs/archive/ce82b4857eef4fcafa91bd702d86b2fd47b0b17b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QsWx6sESn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "涉税罪案剧谷雨历史科普"
+      },
+      {
+        "title": "NCT DREAM《Boogie Woogie》MV",
+        "url": "https://www.bilibili.com/video/BV1bLW46nE2w",
+        "desc": "",
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1bLW46nE2w",
+        "author": "SMTOWN",
+        "duration": "3:19",
+        "cover": "//i1.hdslb.com/bfs/archive/5186f9b6b52ded2f5eb054ff968c57e9283d4589.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bLW46nE2w&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "NCT DREAM新歌MV"
       },
       {
         "title": "让九个AI大模型玩造桥",
         "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5",
         "desc": "",
-        "rank": 5
-      },
-      {
-        "title": "【A2O】A2O SOUL 'Dancing in the Dark' Official Music Video",
-        "url": "https://www.bilibili.com/video/BV17cWb6BEZh",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "A2O SOUL 'Dancing in the Dark' Official Music Video Zalpha Pop by A2O Produced by S.M. LEE Presented by A2O Entertainment - A2O SOUL - MOON TAI GAKU SEE-ONE SEOHA SONO LUCIEN ZAI AYDEN ALURE ZET SORA TEO JUNE HANSUNG - A2O 官方网站 - www.a2oentertainment.c",
-        "content": "A2O SOUL 'Dancing in the Dark' Official Music Video Zalpha Pop by A2O Produced by S.M. LEE Presented by A2O Entertainment - A2O SOUL - MOON TAI GAKU SEE-ONE SEOHA SONO LUCIEN ZAI AYDEN ALURE ZET SORA TEO JUNE HANSUNG - A2O 官方网站 - www.a2oentertainment.c",
-        "bvid": "BV17cWb6BEZh",
-        "author": "A2O_WORLD",
-        "duration": "3:4",
-        "cover": "//i0.hdslb.com/bfs/archive/ce486f26e0a94465e7a4d495aec2c145e110aa1a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17cWb6BEZh&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "A2O SOUL出道主打曲"
-      },
-      {
-        "title": "11月9日下午，山西省太原市委宣传部召开新闻通气会，通报豪生国际公寓火灾相关情况",
-        "url": "https://www.bilibili.com/video/BV1ZEWt6TEH4",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "11月8日16时59分，太原市迎泽区柳巷街道豪生国际公寓发生火灾事故，共疏散、营救60名被困人员。截至通气会前，火灾已造成14人死亡，相关负责人已被控制。（人民日报记者 郑洋洋）",
-        "content": "11月8日16时59分，太原市迎泽区柳巷街道豪生国际公寓发生火灾事故，共疏散、营救60名被困人员。截至通气会前，火灾已造成14人死亡，相关负责人已被控制。（人民日报记者 郑洋洋）",
-        "bvid": "BV1ZEWt6TEH4",
-        "author": "人民日报",
-        "duration": "0:10",
-        "cover": "//i2.hdslb.com/bfs/archive/bf3b7b2f1db6d2df5984167917dba1c959c64e66.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZEWt6TEH4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "太原火灾事故相关负责人被控制"
-      },
-      {
-        "title": "王传君安利鲁豫参加浪姐",
-        "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%AE%89%E5%88%A9%E9%B2%81%E8%B1%AB%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90",
-        "desc": "",
-        "rank": 8
-      },
-      {
-        "title": "重庆为啥是直辖市而不是省",
-        "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E4%B8%BA%E5%95%A5%E6%98%AF%E7%9B%B4%E8%BE%96%E5%B8%82%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9C%81",
-        "desc": "",
         "rank": 9
       },
       {
-        "title": "NCT DREAM新歌MV",
-        "url": "https://search.bilibili.com/all?keyword=NCT%20DREAM%E6%96%B0%E6%AD%8CMV",
+        "title": "BLG战胜T1晋级决赛",
+        "url": "https://search.bilibili.com/all?keyword=BLG%20T1",
         "desc": "",
         "rank": 10
-      },
-      {
-        "title": "新华社发文为BLG加油",
-        "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%8F%91%E6%96%87%E4%B8%BABLG%E5%8A%A0%E6%B2%B9",
-        "desc": "",
-        "rank": 11
       },
       {
         "title": "Bin：世一上只是玩梗，我认为T1比GEN更强！",
         "url": "https://www.bilibili.com/video/BV1R1W46fEjU",
         "desc": "",
-        "rank": 12,
+        "rank": 11,
         "kind": "video",
         "platform": "bilibili",
         "description": "Bin：世一上只是玩梗，我认为T1比GEN更强！",
@@ -258,152 +252,198 @@
         "hotTitle": "Bin说T1比GEN强"
       },
       {
-        "title": "iG老板发文直指AL：我说的不是滔博，当时觉得我们小ig和残阵滔博走不远，压力我们，本身谁也没有要求说一定要留下来打训练赛，被打脸了而已。",
-        "url": "https://www.bilibili.com/video/BV1qfWx6wEBE",
+        "title": "彻底疯狂！美国现场见证BLG3:1拿下T1！！！全场都在喊世一上！！",
+        "url": "https://www.bilibili.com/video/BV1axWx69EEH",
         "desc": "",
-        "rank": 13,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1qfWx6wEBE",
-        "author": "灯火电竞Pro",
-        "duration": "0:24",
-        "cover": "//i2.hdslb.com/bfs/archive/c781abcaba65a9be7f2d4a4ba381978a0e2d9229.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qfWx6wEBE&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "IG投资人再发文谈陪练争议"
+        "description": "看完比赛第一时间就传回素材了！希望能更快给大家看到现场的内容剪辑小姐姐也是通宵看完比赛熬夜剪的！大伙如果看的开心的话给个三连吧！非常感谢！",
+        "content": "看完比赛第一时间就传回素材了！希望能更快给大家看到现场的内容剪辑小姐姐也是通宵看完比赛熬夜剪的！大伙如果看的开心的话给个三连吧！非常感谢！",
+        "bvid": "BV1axWx69EEH",
+        "author": "一只树奈奈啊",
+        "duration": "4:32",
+        "cover": "//i1.hdslb.com/bfs/archive/2514006df89078fc23a461f41e10255404410517.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1axWx69EEH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "良小伞现场看全场呼唤世一上"
       },
       {
-        "title": "BLG为何能击败T1",
-        "url": "https://search.bilibili.com/all?keyword=BLG%E4%B8%BA%E4%BD%95%E8%83%BD%E5%87%BB%E8%B4%A5T1",
+        "title": "新华社发文为BLG加油",
+        "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%8F%91%E6%96%87%E4%B8%BABLG%E5%8A%A0%E6%B2%B9",
+        "desc": "",
+        "rank": 13
+      },
+      {
+        "title": "大学生如何就业学业两手抓",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A6%82%E4%BD%95%E5%B0%B1%E4%B8%9A%E5%AD%A6%E4%B8%9A%E4%B8%A4%E6%89%8B%E6%8A%93",
         "desc": "",
         "rank": 14
+      },
+      {
+        "title": "再进世界赛决赛，knight谈自己的变化：现在更能看全局",
+        "url": "https://www.bilibili.com/video/BV1dCW46cECg",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "BLG晋级2026英雄联盟全球总决赛决赛后，中单选手 Knight接受央视网采访。即将第二次站上世界赛决赛舞台，他说和2024年相比，自己的心态更成熟，也更能看清场上的全局。回看这一年的BLG，他最看重的是，无论经历了什么，队友之间依然彼此相信、好好配合。",
+        "content": "BLG晋级2026英雄联盟全球总决赛决赛后，中单选手 Knight接受央视网采访。即将第二次站上世界赛决赛舞台，他说和2024年相比，自己的心态更成熟，也更能看清场上的全局。回看这一年的BLG，他最看重的是，无论经历了什么，队友之间依然彼此相信、好好配合。",
+        "bvid": "BV1dCW46cECg",
+        "author": "央视网",
+        "duration": "0:51",
+        "cover": "//i2.hdslb.com/bfs/archive/5a2d209670661cc8514699319818abaccac117b8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dCW46cECg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "央视网赛后采访knight"
       },
       {
         "title": "火柴人VS动画师更新",
         "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E6%9F%B4%E4%BA%BAVS%E5%8A%A8%E7%94%BB%E5%B8%88",
         "desc": "",
-        "rank": 15
-      },
-      {
-        "title": "央视网赛后采访knight",
-        "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BFknight",
-        "desc": "",
         "rank": 16
       },
       {
-        "title": "张韶涵新歌回旋MV",
-        "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E6%96%B0%E6%AD%8C%E5%9B%9E%E6%97%8BMV",
+        "title": "鲁豫对话王传君：三十而惑，四十而立 | 陈鲁豫·慢谈EP28【视频播客】",
+        "url": "https://www.bilibili.com/video/BV1sp4i67EeA",
         "desc": "",
-        "rank": 17
-      },
-      {
-        "title": "星河流动",
-        "url": "https://www.bilibili.com/video/BV1LM4L6TE3V",
-        "desc": "",
-        "rank": 18,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
-        "description": "朋友说给我做了世界名画",
-        "content": "朋友说给我做了世界名画",
-        "bvid": "BV1LM4L6TE3V",
-        "author": "牛排大王mc",
-        "duration": "0:23",
-        "cover": "//i2.hdslb.com/bfs/archive/a93c4a0ae77a2c8767fe16073d3fd2e005cffcb9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LM4L6TE3V&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "在MC里还原梵高星空"
+        "description": "他是大家都不陌生的演员：17岁出演《西施眼》进入演艺圈，24岁通过《爱情公寓》家喻户晓，33岁《我不是药神》让他荣誉满身。 本期《陈鲁豫·慢谈》，鲁豫对话王传君。他们聊三十岁那年的人生骤变，聊紧闭又推开的门，聊争议背后的真实心境，也聊一个演员如何把自己打碎、再慢慢长回来。",
+        "content": "他是大家都不陌生的演员：17岁出演《西施眼》进入演艺圈，24岁通过《爱情公寓》家喻户晓，33岁《我不是药神》让他荣誉满身。 本期《陈鲁豫·慢谈》，鲁豫对话王传君。他们聊三十岁那年的人生骤变，聊紧闭又推开的门，聊争议背后的真实心境，也聊一个演员如何把自己打碎、再慢慢长回来。",
+        "bvid": "BV1sp4i67EeA",
+        "author": "陈鲁豫-慢谈",
+        "duration": "155:54",
+        "cover": "//i1.hdslb.com/bfs/archive/2c708f00221cf093710ae7b00462fe96d70eb0ad.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sp4i67EeA&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "王传君安利鲁豫参加浪姐"
       },
       {
-        "title": "BLG能对LCK完成一穿四吗",
-        "url": "https://search.bilibili.com/all?keyword=BLG%E8%83%BD%E5%AF%B9LCK%E5%AE%8C%E6%88%90%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%90%97",
+        "title": "米勒激动现场落泪",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E6%BF%80%E5%8A%A8%E7%8E%B0%E5%9C%BA%E8%90%BD%E6%B3%AA",
         "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "数据回顾BLG战胜T1",
-        "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E6%8D%AE%E5%9B%9E%E9%A1%BEBLG%E6%88%98%E8%83%9CT1",
-        "desc": "",
-        "rank": 20
-      },
-      {
-        "title": "BLG为什么能够战胜T1",
-        "url": "https://search.bilibili.com/all?keyword=BLG%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%A4%9F%E6%88%98%E8%83%9CT1",
-        "desc": "",
-        "rank": 21
-      },
-      {
-        "title": "【IGN】《影之刃零》「黑暗之魂」相关Mod 22分钟实机演示",
-        "url": "https://www.bilibili.com/video/BV14hWW6kEtW",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《影之刃零》的「黑暗之魂」元素Mod演示，分别使用了B站UP主 @莫嚎哥 （下指） @好想吃下指 （小零食）@Redem_7 （魂5外观）制作的Mod，感兴趣的朋友可前往对应作者处下载相关Mod。",
-        "content": "《影之刃零》的「黑暗之魂」元素Mod演示，分别使用了B站UP主 @莫嚎哥 （下指） @好想吃下指 （小零食）@Redem_7 （魂5外观）制作的Mod，感兴趣的朋友可前往对应作者处下载相关Mod。",
-        "bvid": "BV14hWW6kEtW",
-        "author": "IGN中国",
-        "duration": "22:1",
-        "cover": "//i1.hdslb.com/bfs/archive/2e349784b516267b65433e115e833d54427e7075.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14hWW6kEtW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "影之刃零黑暗之魂MOD实机演示"
-      },
-      {
-        "title": "星铁星神阿哈角色PV",
-        "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E6%98%9F%E7%A5%9E%E9%98%BF%E5%93%88%E8%A7%92%E8%89%B2PV",
-        "desc": "",
-        "rank": 23
-      },
-      {
-        "title": "BLG让S14的故事有了新篇章",
-        "url": "https://search.bilibili.com/all?keyword=BLG%E8%AE%A9S14%E7%9A%84%E6%95%85%E4%BA%8B%E6%9C%89%E4%BA%86%E6%96%B0%E7%AF%87%E7%AB%A0",
-        "desc": "",
-        "rank": 24
-      },
-      {
-        "title": "Knight称第四局仿佛回到24年",
-        "url": "https://search.bilibili.com/all?keyword=Knight%E7%A7%B0%E7%AC%AC%E5%9B%9B%E5%B1%80%E4%BB%BF%E4%BD%9B%E5%9B%9E%E5%88%B024%E5%B9%B4",
-        "desc": "",
-        "rank": 25
-      },
-      {
-        "title": "BLG战胜T1晋级决赛",
-        "url": "https://search.bilibili.com/all?keyword=BLG%20T1",
-        "desc": "",
-        "rank": 26
+        "rank": 18
       },
       {
         "title": "ON完美大招魅惑3人",
         "url": "https://search.bilibili.com/all?keyword=ON%E5%AE%8C%E7%BE%8E%E5%A4%A7%E6%8B%9B%E9%AD%85%E6%83%913%E4%BA%BA",
         "desc": "",
-        "rank": 27
+        "rank": 19
       },
       {
-        "title": "BLG vs GEN数据前瞻",
-        "url": "https://search.bilibili.com/all?keyword=BLG%20vs%20GEN%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BB",
+        "title": "一刀不剪！我碧有一剑！对抗整个LCK！",
+        "url": "https://www.bilibili.com/video/BV1RrW46aERY",
         "desc": "",
-        "rank": 28
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1RrW46aERY",
+        "author": "解说毛毛",
+        "duration": "9:32",
+        "cover": "//i1.hdslb.com/bfs/archive/24eaa256057556180b7cf0b2372c27f6c2de6f6b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RrW46aERY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG能对LCK完成一穿四吗"
+      },
+      {
+        "title": "【真实锐评】BLG战胜T1晋级决赛 BLG就是LPL外战天花板战队！bin虐爆多兰 交出你的偷来的皮肤！",
+        "url": "https://www.bilibili.com/video/BV1iLWx6hEzo",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1iLWx6hEzo",
+        "author": "真实电竞",
+        "duration": "10:1",
+        "cover": "//i1.hdslb.com/bfs/archive/4f488793e9531d11b847ab02d089878df9c38dae.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iLWx6hEzo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG为什么能够战胜T1"
+      },
+      {
+        "title": "在MC里还原梵高星空",
+        "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E8%BF%98%E5%8E%9F%E6%A2%B5%E9%AB%98%E6%98%9F%E7%A9%BA",
+        "desc": "",
+        "rank": 22
+      },
+      {
+        "title": "ON在S16的进步有多大",
+        "url": "https://search.bilibili.com/all?keyword=ON%E5%9C%A8S16%E7%9A%84%E8%BF%9B%E6%AD%A5%E6%9C%89%E5%A4%9A%E5%A4%A7",
+        "desc": "",
+        "rank": 23
+      },
+      {
+        "title": "星铁星神阿哈角色PV",
+        "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E6%98%9F%E7%A5%9E%E9%98%BF%E5%93%88%E8%A7%92%E8%89%B2PV",
+        "desc": "",
+        "rank": 24
+      },
+      {
+        "title": "载入史册！BLG 3-1 T1 赛后数据雷达图丨2026全球总决赛-半决赛",
+        "url": "https://www.bilibili.com/video/BV15FWs6XEDp",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV15FWs6XEDp",
+        "author": "苦练李香兰",
+        "duration": "4:35",
+        "cover": "//i0.hdslb.com/bfs/archive/1e49ee1bf404e6e3959e9278c76ab756f695146a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15FWs6XEDp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "数据回顾BLG战胜T1"
+      },
+      {
+        "title": "影之刃零黑暗之魂MOD实机演示",
+        "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82MOD%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+        "desc": "",
+        "rank": 26
+      },
+      {
+        "title": "《绝区零》赛维里安EP | Gambit",
+        "url": "https://www.bilibili.com/video/BV1xiWW6uESZ",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "对手还未落子 胜负已定在我方 我仍循自己的信念向前 ▼ 制作名单 制作人：周斌 作曲：周斌 编曲：周斌 作词：Mishon 演唱：Mishon 混音：周斌 母带：周斌 —— 欢迎来到罗斯凯利法！—— ▼《绝区零》3.3版本「重返天空的旅程」现已上线！ 限定S级代理人「菲欧妮」&「维琳娜」现已加入调频&复刻。 版本期间，参与活动可免费领取妄想天使时装！ bilibili安卓端下载地址：https://www.biligame.com/detail/?id=108434 bilibiliPC端下载地址：",
+        "content": "对手还未落子 胜负已定在我方 我仍循自己的信念向前 ▼ 制作名单 制作人：周斌 作曲：周斌 编曲：周斌 作词：Mishon 演唱：Mishon 混音：周斌 母带：周斌 —— 欢迎来到罗斯凯利法！—— ▼《绝区零》3.3版本「重返天空的旅程」现已上线！ 限定S级代理人「菲欧妮」&「维琳娜」现已加入调频&复刻。 版本期间，参与活动可免费领取妄想天使时装！ bilibili安卓端下载地址：https://www.biligame.com/detail/?id=108434 bilibiliPC端下载地址：",
+        "bvid": "BV1xiWW6uESZ",
+        "author": "绝区零",
+        "duration": "14:57",
+        "cover": "//i1.hdslb.com/bfs/archive/21895396c10b379f44589b0c4615546864cf5361.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xiWW6uESZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "绝区零赛维里安EP"
       },
       {
         "title": "十二年鬼畜热梗合集",
         "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%8C%E5%B9%B4%E9%AC%BC%E7%95%9C%E7%83%AD%E6%A2%97%E5%90%88%E9%9B%86",
         "desc": "",
-        "rank": 29
+        "rank": 28
       },
       {
-        "title": "T1输BLG赛后Faker满脸欣慰微笑着默默退场【LPL镜头切掉画面】",
-        "url": "https://www.bilibili.com/video/BV15oWW6RE6d",
+        "title": "《虚环》PV03｜致过去与未来的歌",
+        "url": "https://www.bilibili.com/video/BV1h4WW6LEEv",
         "desc": "",
-        "rank": 30,
+        "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV15oWW6RE6d",
-        "author": "Ymbky丶",
-        "duration": "1:22",
-        "cover": "//i1.hdslb.com/bfs/archive/e026709bbf6d4d837bd2584f65ec5dd61ab2a182.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15oWW6RE6d&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Faker赛后微笑退场"
+        "description": "我们希望书写的，不仅是屏幕中偶像的故事，也是你与V圈共同经历、笑过哭过串过的故事。 回旋——让散落的回音聚拢，让旧日的承诺兑现，也让一路相遇的人，都能找到属于自己的陪伴。 加入《虚环》，为故事续写传奇👉🏻https://www.bilibili.com/blackboard/era/Bxc4ALgnSDC4OWXS.html 演唱：张韶涵 参演：白神遥Haruka、东爱璃Lovely、Lulu、七海Nana7mi、扇宝、恬豆发芽了、星瞳、宣小纸不怕火、雪糕cheese、伊万酱哒油、永雏塔菲、早稻叽、折",
+        "content": "我们希望书写的，不仅是屏幕中偶像的故事，也是你与V圈共同经历、笑过哭过串过的故事。 回旋——让散落的回音聚拢，让旧日的承诺兑现，也让一路相遇的人，都能找到属于自己的陪伴。 加入《虚环》，为故事续写传奇👉🏻https://www.bilibili.com/blackboard/era/Bxc4ALgnSDC4OWXS.html 演唱：张韶涵 参演：白神遥Haruka、东爱璃Lovely、Lulu、七海Nana7mi、扇宝、恬豆发芽了、星瞳、宣小纸不怕火、雪糕cheese、伊万酱哒油、永雏塔菲、早稻叽、折",
+        "bvid": "BV1h4WW6LEEv",
+        "author": "虚环",
+        "duration": "3:47",
+        "cover": "//i0.hdslb.com/bfs/archive/9212b1401ca3e4f2bcaf5d6e0e2e60b35d73c024.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1h4WW6LEEv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "张韶涵新歌回旋MV"
+      },
+      {
+        "title": "BLG为何能击败T1",
+        "url": "https://search.bilibili.com/all?keyword=BLG%E4%B8%BA%E4%BD%95%E8%83%BD%E5%87%BB%E8%B4%A5T1",
+        "desc": "",
+        "rank": 30
       }
     ],
     "qbitai": [
@@ -730,6 +770,76 @@
         "rank": 2
       },
       {
+        "title": "乘联会：10月增程市场逆势环比大涨31.3%，小米为增程市场注入显著增量",
+        "url": "https://m.36kr.com/newsflashes/4062488867804294",
+        "desc": "11月9日，乘联会发布了最新的市场产销数据：2026年10月全国乘用车市场零售164.3万辆，同比下降27.1%，1-10月乘用车累计零售1497.8万辆，同比下降22.3%。虽然大盘预冷，但增程市场迎来关键转折。乘联会数据显示，10月增程车型批发15.2万辆，同比增长19.9%，环比增长31.3%，小米等品牌强势增长推动10月增程环比走强。小米澎程9月7日上市，10月迎来上市后首个完整交付月，销售超5万辆，为增程市场注入显著增量。",
+        "cover": "",
+        "date": 1794226642810,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "上纬新材：消费级具身智能机器人业务收入占总营收比例较低",
+        "url": "https://m.36kr.com/newsflashes/4062475630891904",
+        "desc": "36氪获悉，上纬新材公告，公司股票交易风险提示：近期股价累计涨幅超100%，短期股价涨幅过大，存在短期过热风险。截至2026年11月6日，公司最新市盈率为1767.36倍，化学原料和化学制品业最近一个月平均滚动市盈率为19.57倍，公司市盈率显著高于行业市盈率水平。公司2026年前三季度实现营业收入12.09亿元，同比减少5.51%；归属于上市公司股东的净利润亏损4.22亿元，同比减少796.94%。消费级具身智能机器人业务收入占总营收比例较低，尚不能预测对2026年度营收及盈利的影响情况。",
+        "cover": "",
+        "date": 1794226559000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "华银电力：调整2025年度定增方案，募资规模下调至不超6亿元",
+        "url": "https://m.36kr.com/newsflashes/4062474716844930",
+        "desc": "36氪获悉，华银电力公告，公司决定调整2025年度向特定对象发行A股股票方案，将募集资金规模从不超过15亿元（含）调整为不超过6亿元（含）。除上述调整外，公司此次发行方案的其他内容均保持不变。",
+        "cover": "",
+        "date": 1794226138000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "快舟系列运载火箭后续发展规划发布，未来三年计划发射50次以上",
+        "url": "https://m.36kr.com/newsflashes/4062469166093442",
+        "desc": "快舟航天11月9日公布快舟系列运载火箭后续发展规划。未来三年，快舟一号甲、快舟十一号两型火箭计划完成50次以上发射任务。2027年，快舟十二号固液混合火箭、快舟六号可重复使用液体火箭计划实现首飞。（央视新闻）",
+        "cover": "",
+        "date": 1794225859000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "天孚通信：拟1亿元至1.5亿元回购股份用于注销",
+        "url": "https://m.36kr.com/newsflashes/4062461347566469",
+        "desc": "36氪获悉，天孚通信发布回购股份报告书，公司拟使用自有资金回购部分A股股份，回购资金总额不低于1亿元且不超过1.5亿元，回购价格不超过350元/股。回购股份将全部予以注销并相应减少注册资本，实施期限为自股东会审议通过之日起6个月内。",
+        "cover": "",
+        "date": 1794225562000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "聚灿光电：拟定增募资不超15亿元，用于红黄光外延片及芯片扩产升级项目等",
+        "url": "https://m.36kr.com/newsflashes/4062457448682370",
+        "desc": "36氪获悉，聚灿光电公告，公司拟向特定对象发行股票，募集资金总额不超过15亿元，扣除发行费用后用于年产300万片高性能红黄光外延片及芯片扩产升级项目及研发中心建设项目。",
+        "cover": "",
+        "date": 1794225324000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
+        "title": "精测电子：拟1亿元至2亿元回购股份用于注销",
+        "url": "https://m.36kr.com/newsflashes/4062456924820610",
+        "desc": "36氪获悉，精测电子公告，公司拟使用自有资金或自筹资金以集中竞价方式回购股份，资金总额不低于1亿元且不超过2亿元，回购价格不超过210元/股，预计回购股份数量占总股本0.17%至0.34%，回购股份将全部用于注销并减少注册资本。回购期限为股东会审议通过之日起12个月内。",
+        "cover": "",
+        "date": 1794225052000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 9
+      },
+      {
         "title": "章源钨业：因钨原材料价格上涨，调整硬质合金类产品价格",
         "url": "https://m.36kr.com/newsflashes/4062457566942087",
         "desc": "36氪获悉，章源钨业11月9日发布《关于调整硬质合金类产品价格的通知函》称，因钨原材料价格持续上涨，致使公司生产成本大幅增长。公司决定从2026年11月10日起，对硬质合金类产品按新价格执行。",
@@ -737,7 +847,7 @@
         "date": 1794224732357,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 10
       },
       {
         "title": "迈为股份：一致行动协议到期解除，实控人变更为周剑",
@@ -747,7 +857,7 @@
         "date": 1794224550000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 11
       },
       {
         "title": "大族数控：拟2亿元至3亿元回购公司A股股份",
@@ -757,7 +867,7 @@
         "date": 1794224520000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 12
       },
       {
         "title": "“Apple智能”生成式人工智能服务新增苹果平板、笔记本电脑两类场景，已完成备案",
@@ -767,7 +877,7 @@
         "date": 1794224362570,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 13
       },
       {
         "title": "宏达电子：拟定增募资不超10亿元，投建钽电容及陶瓷薄膜电路项目",
@@ -777,7 +887,7 @@
         "date": 1794224336000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 14
       },
       {
         "title": "沪电股份：拟5亿元至10亿元回购公司股份",
@@ -787,7 +897,7 @@
         "date": 1794224061825,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 15
       },
       {
         "title": "艾为电子：筹划购买钰泰股份股权，股票停牌",
@@ -797,7 +907,7 @@
         "date": 1794224017028,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 16
       },
       {
         "title": "7天4板红太阳：不存在借助市场热门题材、概念标签或未经披露的重大事项进行股价炒作的情形",
@@ -807,7 +917,7 @@
         "date": 1794223791000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 17
       },
       {
         "title": "华如科技：被禁止参加全军物资工程服务采购活动5年",
@@ -817,7 +927,7 @@
         "date": 1794223465000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 18
       },
       {
         "title": "光华科技：拟2.25亿元投资凯诺中星，获21.46%股权",
@@ -827,7 +937,7 @@
         "date": 1794223232000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 19
       },
       {
         "title": "天邦食品：与通威集团签署重整投资协议",
@@ -837,7 +947,7 @@
         "date": 1794223000000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 20
       },
       {
         "title": "加密货币交易所Coinbase获得正式信托银行牌照",
@@ -847,7 +957,7 @@
         "date": 1794222765000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 21
       },
       {
         "title": "机构今日买入凡拓数创等19股，卖出华新建材1.46亿元",
@@ -857,86 +967,15 @@
         "date": 1794222462000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
-      },
-      {
-        "title": "中远海能：子公司投资37.93亿元建造4艘VLCC原油轮",
-        "url": "https://m.36kr.com/newsflashes/4062405927654281",
-        "desc": "36氪获悉，中远海能公告，公司全资子公司海南海能与大船重工签订4艘VLCC原油轮建造合同，合同船价总额37.93亿元，总投资约38.29亿元。公司对海南海能现金增资18.96亿元。本次交易已获董事会审议通过，不构成关联交易或重大资产重组。4艘船舶计划于2029年9月至2030年5月交付。",
-        "cover": "",
-        "date": 1794222175000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 16
-      },
-      {
-        "title": "生益电子：东莞科创投资集团拟增持5000万元至1亿元",
-        "url": "https://m.36kr.com/newsflashes/4062405410100102",
-        "desc": "36氪获悉，生益电子公告，公司持股5%以上股东东莞市国弘投资有限公司的一致行动人东莞科技创新投资集团，基于对公司未来发展的信心，计划自2026年11月9日起6个月内，以集中竞价方式增持公司股份，增持金额不低于5000万元且不高于1亿元。东莞科创投资集团已首次增持公司股份71.76万股，占总股本0.08%，增持金额4515.27万元。",
-        "cover": "",
-        "date": 1794221908000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 17
-      },
-      {
-        "title": "中微公司：11月9日首次回购公司股份7.96万股",
-        "url": "https://m.36kr.com/newsflashes/4062397255652229",
-        "desc": "36氪获悉，中微公司公告，公司于2026年11月9日通过集中竞价交易方式首次回购股份7.96万股，占总股本比例0.008%，回购成交价格区间为247.51元/股至257.00元/股，已支付总金额1998.56万元。",
-        "cover": "",
-        "date": 1794221650000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "中科飞测：拟1亿元至1.5亿元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4062396870038657",
-        "desc": "36氪获悉，中科飞测公告，公司董事会审议通过回购股份方案，拟以自有资金和/或自筹资金(含股票回购专项贷款资金)通过集中竞价交易方式回购股份，回购价格不超过440元/股，回购资金总额不低于1亿元且不超过1.5亿元，回购股份拟用于股权激励或员工持股计划，回购期限为董事会审议通过之日起12个月内。",
-        "cover": "",
-        "date": 1794221507000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "昂利康：签署创新药及递送系统全面合作协议",
-        "url": "https://m.36kr.com/newsflashes/4062394282513286",
-        "desc": "36氪获悉，昂利康公告，公司与苏州睿智杰及MicroX签署《创新药及递送系统全面合作协议》，就三个创新药管线开展合作，临床前研发预算总额预计8950万元。预计本年度新增PCC阶段研发投入约2050万元。",
-        "cover": "",
-        "date": 1794221289000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "耐普矿机：拟以5000万元-8000万元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4062389840270211",
-        "desc": "36氪获悉，耐普矿机公告，拟以不低于人民币5000万元且不超过人民币8000万元回购公司股份，回购价格不超过人民币22.45元/股。本次回购的股份全部用于维护公司价值及股东权益，回购股份的资金来源为自有资金结合自筹资金，回购方式为集中竞价交易方式，实施期限自董事会审议通过回购方案之日起3个月内。按回购金额上限8000万元测算，预计回购股份数量356.35万股，约占当前公司总股本的1.62%；按回购金额下限5000万元测算，预计回购股份数量222.72万股，约占当前公司总股本的1.02%。",
-        "cover": "",
-        "date": 1794221138000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "丘钛科技：10月手机摄像头模组销量同比下降45.7%",
-        "url": "https://m.36kr.com/newsflashes/4062388995838849",
-        "desc": "36氪获悉，丘钛科技公告，2026年10月集团手机产品销量3884.5万件，环比下降22.6%，同比下降37.7%；其中摄像头模组销量2390.4万件，环比下降34.2%，同比下降45.7%；生物识别模组销量1494.1万件，环比增长8.0%，同比下降18.6%。汽车产品销量99.9万件，环比下降15.5%，同比下降24%；IoT产品销量225.2万件，环比下降4.4%，同比增长6.4%。合营企业印度丘钛摄像头模组销量529.6万件，环比下降24.1%，同比增长4.1%；生物识别模组销量190.1万件，环比下降29.4%，同比增长9.6%。",
-        "cover": "",
-        "date": 1794220904000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794225363359,
-    "bilibili": 1794224150221,
-    "qbitai": 1794197009422
+    "thepaper": 1794226263543,
+    "bilibili": 1794226274476,
+    "qbitai": 1794197887113,
+    "36kr": 1794197893466
   },
-  "failures": {
-    "36kr": "RuntimeError('36Kr initialState not found')"
-  }
+  "failures": {}
 }
