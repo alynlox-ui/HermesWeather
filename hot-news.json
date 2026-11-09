@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T00:56:34Z",
+  "updatedAt": "2026-11-09T01:11:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,26 @@
     ],
     "qbitai": [
       {
+        "title": "具身智能出海，物流先行",
+        "url": "https://www.qbitai.com/2026/11/508716.html",
+        "desc": "全球练兵、全球交付",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/b41981042358beae78508d1d85383202.webp",
+        "date": "2026-11-09T17:01:13",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "“AI毁了我的计算机学位”",
+        "url": "https://www.qbitai.com/2026/11/508706.html",
+        "desc": "教授也用Claude糊弄…",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/qbit-b6de9660-1213-4888-8eca-4b10c02da84d.png",
+        "date": "2026-11-09T16:57:20",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
+      {
         "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
         "url": "https://www.qbitai.com/2026/11/507843.html",
         "desc": "",
@@ -615,7 +635,7 @@
         "date": "2026-11-09T16:44:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 3
       },
       {
         "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
@@ -625,7 +645,7 @@
         "date": "2026-11-09T16:34:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 4
       },
       {
         "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
@@ -635,7 +655,7 @@
         "date": "2026-11-09T16:26:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
@@ -645,7 +665,7 @@
         "date": "2026-11-09T15:02:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
@@ -655,7 +675,7 @@
         "date": "2026-11-09T13:47:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
@@ -665,7 +685,7 @@
         "date": "2026-11-09T13:09:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
@@ -675,7 +695,7 @@
         "date": "2026-11-09T11:47:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
@@ -685,7 +705,7 @@
         "date": "2026-11-09T10:19:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
@@ -695,7 +715,7 @@
         "date": "2026-11-09T08:40:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "终端侧AI：从单点应用走向智能体体验",
@@ -705,7 +725,7 @@
         "date": "2026-11-08T19:05:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "资本正在撤离“世界模型”",
@@ -715,7 +735,7 @@
         "date": "2026-11-08T12:09:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
@@ -725,7 +745,7 @@
         "date": "2026-11-07T17:38:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "OpenAI新融资到账110亿美元，不及原计划一半",
@@ -735,7 +755,7 @@
         "date": "2026-11-07T16:11:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "为了去AI味，人类开始主动写烂文章了……",
@@ -745,7 +765,7 @@
         "date": "2026-11-07T15:59:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
@@ -755,7 +775,7 @@
         "date": "2026-11-07T13:01:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "AGENTS.MD，危险危险危险！！！",
@@ -765,7 +785,7 @@
         "date": "2026-11-07T11:43:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
@@ -775,7 +795,7 @@
         "date": "2026-11-07T11:31:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
@@ -785,7 +805,7 @@
         "date": "2026-11-07T11:23:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
@@ -795,7 +815,7 @@
         "date": "2026-11-06T23:21:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
@@ -805,7 +825,7 @@
         "date": "2026-11-06T17:25:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
@@ -815,7 +835,7 @@
         "date": "2026-11-06T17:21:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
@@ -825,7 +845,7 @@
         "date": "2026-11-06T17:19:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "超1.3万人共赴出海之约：GTC2026 全球流量大会（上海）圆满收官",
@@ -835,7 +855,7 @@
         "date": "2026-11-06T15:59:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 25
       },
       {
         "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
@@ -845,7 +865,7 @@
         "date": "2026-11-06T15:00:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 26
       },
       {
         "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
@@ -855,7 +875,7 @@
         "date": "2026-11-06T14:54:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 27
       },
       {
         "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
@@ -865,7 +885,7 @@
         "date": "2026-11-06T14:43:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 28
       },
       {
         "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
@@ -875,7 +895,7 @@
         "date": "2026-11-06T13:01:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 29
       },
       {
         "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
@@ -883,26 +903,6 @@
         "desc": "香港金融科技周 x StartmeupHK 2026踏入第11届",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/35f5b2b4ed1aaf7b80ac64dc288da9b6.jpeg",
         "date": "2026-11-06T11:36:34",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 28
-      },
-      {
-        "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
-        "url": "https://www.qbitai.com/2026/11/507972.html",
-        "desc": "Seedance 2.5 单秒低至0.15元",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/4ee0c61ff35a44f18ffa2c654b323206.webp",
-        "date": "2026-11-06T11:20:05",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
-        "url": "https://www.qbitai.com/2026/11/507967.html",
-        "desc": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/0f5a742aae3fdfb7a2efbceb16436ecf.png",
-        "date": "2026-11-06T10:00:11",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,46 @@
         "rank": 2
       },
       {
+        "title": "风范股份：中标国家电网项目，金额约8669.46万元",
+        "url": "https://m.36kr.com/newsflashes/4062293121258630",
+        "desc": "36氪获悉，风范股份公告，公司中标国家电网有限公司2026年输变电项目第五次装置性材料公开招标采购的角钢塔包1、角钢塔包62、钢管塔包1标包，中标金额约8669.46万元，约占公司2025年经审计营业收入的2.91%。上述项目中标对公司经营业绩具有积极影响，目前公司尚未与相关机构签署正式商务合同，合同条款及对当期业绩的影响存在不确定性。",
+        "cover": "",
+        "date": 1794215233000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "大北农：10月商品肥猪销售收入2.87亿元，同比下降46.75%",
+        "url": "https://m.36kr.com/newsflashes/4062289028699011",
+        "desc": "36氪获悉，大北农公告，2026年10月公司商品肥猪销售数量为22.28万头，环比下降14.01%，同比下降39.29%；销售收入2.87亿元，环比下降18.93%，同比下降46.75%；销售均价9.83元/公斤。2026年1—10月，公司累计销售商品肥猪312.1万头，同比增长11.2%；累计销售收入40.39亿元，同比下降17.55%。",
+        "cover": "",
+        "date": 1794214983000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "英搏尔：拟斥1.5亿~2.5亿元回购公司股份",
+        "url": "https://m.36kr.com/newsflashes/4062287200850821",
+        "desc": "36氪获悉，英搏尔公告，公司拟以集中竞价方式回购无限售条件A股流通股，回购资金总额不低于1.5亿元且不超过2.5亿元，回购价格不超过29.05元/股。按回购价格上限测算，预计回购股份数量为516.35万股-860.59万股，占公司总股本比例为1.66%-2.77%。回购股份用于维护公司价值及股东权益，将在披露回购结果暨股份变动公告12个月后择机出售，未使用部分逾期将注销。回购实施期限为董事会审议通过方案之日起3个月内。公司董事、高管、控股股东、实控人及持股5%以上股东未来六个月无减持计划。",
+        "cover": "",
+        "date": 1794214809000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "五粮液基金管理公司变更法定代表人",
+        "url": "https://m.36kr.com/newsflashes/4062283829679236",
+        "desc": "36氪获悉，天眼查App显示，近日，宜宾五粮液基金管理有限公司发生工商变更，法定代表人由向晔变更为钟道远，同时完成章程备案。该公司成立于2017年8月，注册资本1.1亿元人民币，经营范围含基金管理、投资管理、资产管理、股权投资、创业投资及相关咨询服务。股东信息显示，该公司由四川省宜宾五粮液集团有限公司、宜宾发展控股集团有限公司、厦门建发美酒汇酒业有限公司分别持股56%、24%、20%。",
+        "cover": "",
+        "date": 1794214667000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "重庆建工：联合体中标4.94亿元EPC总承包项目",
         "url": "https://m.36kr.com/newsflashes/4062280484705156",
         "desc": "36氪获悉，重庆建工公告，公司近日收到项目中标通知书，公司（牵头人）、重庆设计集团有限公司、中冶赛迪工程技术股份有限公司联合体中标万盛经开区2026年城镇配套基础设施项目EPC总承包，中标价约4.94亿元，其中公司承建的工程体量约为4.9亿元。",
@@ -937,7 +977,7 @@
         "date": 1794214461000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 7
       },
       {
         "title": "厦门空港：10月旅客吞吐量245.5万人次，同比下降3.9%",
@@ -947,7 +987,7 @@
         "date": 1794214203000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 8
       },
       {
         "title": "软银公司上调全年业绩预期，上半年营收和营业利润均创历史新高",
@@ -957,7 +997,7 @@
         "date": 1794214199220,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "美民主党拟对马斯克等发起调查",
@@ -967,7 +1007,7 @@
         "date": 1794214074295,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "Sakana AI计划最早2027年秋季进行IPO",
@@ -977,7 +1017,7 @@
         "date": 1794214069000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "英伟达宣布对多家韩国AI创企投资计划",
@@ -987,7 +1027,7 @@
         "date": 1794213654553,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "金安国纪：拟投资5亿元新建电子级玻纤布项目",
@@ -997,7 +1037,7 @@
         "date": 1794213416888,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "正邦科技：10月生猪销售收入5.96亿元，同比降12.69%",
@@ -1007,7 +1047,7 @@
         "date": 1794213119000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "宝泰隆：煤价上行提高公司原料采购成本",
@@ -1017,7 +1057,7 @@
         "date": 1794212934000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "凯莱英：取得合计不超12.6亿元股票回购专项贷款承诺函",
@@ -1027,7 +1067,7 @@
         "date": 1794212712000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "中国核电：拟出资1.785亿元参与设立中核瑞安",
@@ -1037,7 +1077,7 @@
         "date": 1794212484950,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "“星云星座计划”发布，我国太空算力网加快部署",
@@ -1047,7 +1087,7 @@
         "date": 1794212306721,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "美媒：“反数据中心”或进入2028总统选举议程",
@@ -1057,7 +1097,7 @@
         "date": 1794212194218,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "商务部：继续暂停对韩华海洋株式会社5家美国相关子公司实施反制措施2个月",
@@ -1067,7 +1107,7 @@
         "date": 1794211970950,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "恒指收跌0.13%，恒生科技指数跌0.92%",
@@ -1077,7 +1117,7 @@
         "date": 1794211878695,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "环旭电子：10月合并营业收入66.44亿元，同比增加18.87%",
@@ -1087,55 +1127,15 @@
         "date": 1794211245610,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "神农集团：10月商品猪销售收入5.91亿元，同比增长49.24%",
-        "url": "https://m.36kr.com/newsflashes/4062224075969667",
-        "desc": "36氪获悉，神农集团公告，2026年10月份，公司销售商品猪42.84万头，同比增长55.9%（其中，向集团内部屠宰企业销售商品猪6.55万头）。商品猪销售收入5.91亿元，同比增长49.24%。商品猪销售均价9.83元/公斤，环比下降6.02%。",
-        "cover": "",
-        "date": 1794211157685,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "新五丰：10月销售生猪38.47万头，同比减少36.93%",
-        "url": "https://m.36kr.com/newsflashes/4062225149612928",
-        "desc": "36氪获悉，新五丰公告，2026年10月，公司销售生猪38.47万头，销售量同比减少36.93%，其中销售商品猪18万头。",
-        "cover": "",
-        "date": 1794210906000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "SK海力士拟扩充美国团队，深化与核心客户合作",
-        "url": "https://m.36kr.com/newsflashes/4062202092311682",
-        "desc": "SK集团周一表示，韩国芯片厂商SK海力士准备扩充美国地区员工规模，此举意在加强与英伟达等美国核心大客户的联系。SK集团称，SK海力士计划在12月3日前后新增高管任命、重组美国业务体系。（新浪财经）",
-        "cover": "",
-        "date": 1794210584424,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "国内潮玩市场迈向千亿级规模",
-        "url": "https://m.36kr.com/newsflashes/4062220252222344",
-        "desc": "当前，国内潮玩市场正迈向千亿级规模，七成以上消费者更看重情绪陪伴与圈层社交。早些年海外品牌直接铺货就能走量，但如今这条路早已走不通了。在第九届虹桥国际经济论坛上，海外参展商普遍提到，想适配中国市场，与本土共创已是必选项。国内产业配套恰好接得住：东莞擅长精密开模、小批量打样，义乌承接配件、包装与商贸流转，长三角集聚IP设计与品控，多地协同把新品试制周期压到最短。（央视财经）",
-        "cover": "",
-        "date": 1794210254478,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794214562208,
+    "thepaper": 1794215462522,
     "bilibili": 1794213679012,
-    "qbitai": 1794185793813,
-    "36kr": 1794185794358
+    "qbitai": 1794186692887,
+    "36kr": 1794186693256
   },
   "failures": {}
 }
