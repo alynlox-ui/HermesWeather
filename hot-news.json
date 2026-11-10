@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T05:26:27Z",
+  "updatedAt": "2026-11-10T05:41:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -64,26 +64,26 @@
         "rank": 10
       },
       {
+        "title": "贵州茅台：i茅台要从“抢购”模式逐步转向满足消费者需求的日常售卖模式",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34445766",
+        "desc": "",
+        "rank": 11
+      },
+      {
         "title": "西咸新区一政务中心建筑被工程机械损毁，警方通报：47岁嫌疑人已被采取刑事强制措施",
         "url": "https://www.thepaper.cn/newsDetail_forward_34441097",
         "desc": "",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "赢了宅斗却没有走出大宅，古装剧需要什么样的“大女主”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34443351",
         "desc": "",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "马上评｜澳门，何以对话世界",
         "url": "https://www.thepaper.cn/newsDetail_forward_34440593",
-        "desc": "",
-        "rank": 13
-      },
-      {
-        "title": "视频丨攻击-11首次实弹攻击，首发命中！细节揭秘",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34440282",
         "desc": "",
         "rank": 14
       },
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794317163381,
-    "bilibili": 1794317166095,
-    "qbitai": 1794288387505,
-    "36kr": 1794288387999
+    "thepaper": 1794318063200,
+    "bilibili": 1794316572242,
+    "qbitai": 1794289294902,
+    "36kr": 1794289295571
   },
   "failures": {}
 }
