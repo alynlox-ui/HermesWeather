@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T22:56:35Z",
+  "updatedAt": "2026-11-09T23:11:28Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+        "url": "https://www.qbitai.com/2026/11/508912.html",
+        "desc": "作曲、拍片、3D建模一条龙全包圆",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/9cba7edbea7145b990ea9d82f8121f8f.webp",
+        "date": "2026-11-10T15:03:43",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
         "url": "https://www.qbitai.com/2026/11/508828.html",
         "desc": "速度提了，API价格降了",
@@ -615,7 +625,7 @@
         "date": "2026-11-10T10:48:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
@@ -625,7 +635,7 @@
         "date": "2026-11-10T09:27:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
@@ -635,7 +645,7 @@
         "date": "2026-11-10T06:11:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "Fable 5.2深夜掀桌！从0造操作系统，性价比反超Opus 5.5",
@@ -645,7 +655,7 @@
         "date": "2026-11-10T06:08:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
@@ -655,7 +665,7 @@
         "date": "2026-11-09T18:23:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
@@ -665,7 +675,7 @@
         "date": "2026-11-09T17:58:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
@@ -675,7 +685,7 @@
         "date": "2026-11-09T17:48:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "具身智能出海，物流先行",
@@ -685,7 +695,7 @@
         "date": "2026-11-09T17:01:13",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "“AI毁了我的计算机学位”",
@@ -695,7 +705,7 @@
         "date": "2026-11-09T16:57:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
@@ -705,7 +715,7 @@
         "date": "2026-11-09T16:44:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
@@ -715,7 +725,7 @@
         "date": "2026-11-09T16:34:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
@@ -725,7 +735,7 @@
         "date": "2026-11-09T16:26:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
@@ -735,7 +745,7 @@
         "date": "2026-11-09T15:02:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
@@ -745,7 +755,7 @@
         "date": "2026-11-09T13:47:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
@@ -755,7 +765,7 @@
         "date": "2026-11-09T13:09:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
@@ -765,7 +775,7 @@
         "date": "2026-11-09T11:47:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
@@ -775,7 +785,7 @@
         "date": "2026-11-09T10:19:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
@@ -785,7 +795,7 @@
         "date": "2026-11-09T08:40:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "终端侧AI：从单点应用走向智能体体验",
@@ -795,7 +805,7 @@
         "date": "2026-11-08T19:05:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "资本正在撤离“世界模型”",
@@ -805,7 +815,7 @@
         "date": "2026-11-08T12:09:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
@@ -815,7 +825,7 @@
         "date": "2026-11-07T17:38:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "OpenAI新融资到账110亿美元，不及原计划一半",
@@ -825,7 +835,7 @@
         "date": "2026-11-07T16:11:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "为了去AI味，人类开始主动写烂文章了……",
@@ -835,7 +845,7 @@
         "date": "2026-11-07T15:59:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
@@ -845,7 +855,7 @@
         "date": "2026-11-07T13:01:17",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "AGENTS.MD，危险危险危险！！！",
@@ -855,7 +865,7 @@
         "date": "2026-11-07T11:43:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
@@ -865,7 +875,7 @@
         "date": "2026-11-07T11:31:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
@@ -875,7 +885,7 @@
         "date": "2026-11-07T11:23:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
@@ -885,7 +895,7 @@
         "date": "2026-11-06T23:21:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
@@ -893,16 +903,6 @@
         "desc": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/d777df11e6dc6bfed4da0d0ed126f04f.png",
         "date": "2026-11-06T17:25:59",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
-        "url": "https://www.qbitai.com/2026/11/508170.html",
-        "desc": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/0ebd83f7329cd34880099cef00e73e63.jpeg",
-        "date": "2026-11-06T17:21:51",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "软银调整美国AI数据中心发电设备采购计划，确认5972亿日元损失",
+        "url": "https://m.36kr.com/newsflashes/4063599356351622",
+        "desc": "软银集团公布的财报显示，受美国AI数据中心项目发电设备采购计划调整影响，公司在截至2026年9月30日的六个月内确认5972亿日元（约合37.3亿美元）损失。相关采购由软银集团及愿景基金二期投资的子公司Silver Bands 7 LLC负责，涉及美国俄亥俄州等地AI数据中心项目的电力供应设备。软银表示，随着现有及规划中项目的需求发生变化，Silver Bands 7 LLC调整了设备采购策略，并因此承担相应供应商义务。上述损失包括用于锁定设备制造产能及采购设备的不可退还预付款4570亿日元，以及合同修改和结算相关损失1402亿日元。（界面）",
+        "cover": "",
+        "date": 1794294421652,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "A股三大指数集体收涨，短剧游戏概念走强",
+        "url": "https://m.36kr.com/newsflashes/4063594821063816",
+        "desc": "36氪获悉，A股三大指数集体收涨，沪指涨0.08%，深成指涨0.86%，创业板指涨1.46%。短剧游戏、物理AI、虚拟人概念走强，上海电影、天地在线涨停，盛天网络涨超9%，海天瑞声涨8%；煤炭、海运、油气板块跌幅居前，中国石油跌超6%，中远海能跌超5%，晋控煤业跌超4%。",
+        "cover": "",
+        "date": 1794294144840,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "紫光国微在无锡成立新半导体技术公司，注册资本1亿",
         "url": "https://m.36kr.com/newsflashes/4063586676298630",
         "desc": "36氪获悉，天眼查App显示，近日，无锡紫光天跃半导体技术有限公司成立，法定代表人为路鹏，注册资本1亿元人民币，经营范围包括集成电路设计、集成电路芯片设计及服务、集成电路销售等。股东信息显示，该公司由紫光国芯微电子股份有限公司全资持股。",
@@ -937,7 +957,7 @@
         "date": 1794293647723,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "软银：截至第二季度末对OpenAI投资总额546亿美元",
@@ -947,7 +967,7 @@
         "date": 1794293487577,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "沪指尾盘翻绿",
@@ -957,7 +977,7 @@
         "date": 1794293454028,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "软银集团上半财年净亏损7680亿日元，去年同期盈利2.92万亿日元",
@@ -967,7 +987,7 @@
         "date": 1794293161646,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "本田汽车预计本财年全球汽车销量316万辆，此前预测为339万辆",
@@ -977,7 +997,7 @@
         "date": 1794292790159,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "本田上半财年净利润为5168亿日元，同比增长65.7%",
@@ -987,7 +1007,7 @@
         "date": 1794292667854,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "英飞凌上调AI相关销售预期，受益于数据中心扩产计划",
@@ -997,7 +1017,7 @@
         "date": 1794292645412,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "天猫双11迎来即时零售增长小高峰：淘宝闪购今年超50万商家参与，上千个零售品牌交易翻倍",
@@ -1007,7 +1027,7 @@
         "date": 1794292518621,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "广汽集团在遵义成立新销售服务公司，注册资本2000万",
@@ -1017,7 +1037,7 @@
         "date": 1794292463579,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "我国已牵头制定25项医疗器械领域国际标准",
@@ -1027,7 +1047,7 @@
         "date": 1794292250703,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "京东京喜发布三周年成绩单：用户数超6亿",
@@ -1037,7 +1057,7 @@
         "date": 1794292124745,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "铃木汽车下调全年税前利润预期",
@@ -1047,7 +1067,7 @@
         "date": 1794291978183,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "荷兰10月通胀率升至3.7%，天然气价格同比上涨11.7%",
@@ -1057,7 +1077,7 @@
         "date": 1794291076558,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "LV集团旗下路威凯腾等在上海成立新企业管理合伙企业，出资额约3.1亿",
@@ -1067,7 +1087,7 @@
         "date": 1794290553820,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "荣耀在深圳成立奇点智能科技公司，注册资本1亿",
@@ -1077,7 +1097,7 @@
         "date": 1794290307000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "三星电子称已支持1000家初创公司，助力吸引2.2万亿韩元投资",
@@ -1087,7 +1107,7 @@
         "date": 1794289812000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "贵金属价格波动，中国金币集团发布风险提示",
@@ -1097,7 +1117,7 @@
         "date": 1794289360000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "台交所加权股价指数收高2.52%",
@@ -1107,35 +1127,15 @@
         "date": 1794289226600,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "台积电：10月销售额5868.9亿元台币，同比增长59.7%",
-        "url": "https://m.36kr.com/newsflashes/4063506004628609",
-        "desc": "台积电公布10月营收报告。公司当月合并营收约为新台币5868.9亿元，环比增长14.7%，同比增长59.7%。今年1月至10月，台积电累计合并营收约为新台币4.49万亿元，同比增长43.3%。（界面）",
-        "cover": "",
-        "date": 1794288723915,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "新加坡推出面向海外央行及官方机构的黄金托管服务",
-        "url": "https://m.36kr.com/newsflashes/4063453405910150",
-        "desc": "新加坡已面向海外央行及官方机构推出黄金托管服务，旨在把握全球对黄金储备多元化存储日益增长的需求。新加坡金融管理局（MAS）周二在一份声明中表示，这些贵金属将存放在该城邦的国家货币金库内。该金库目前容量高达500吨，并可根据需求增长进行扩容。新加坡副总理兼新加坡金管局主席颜金勇（Gan Kim Yong）在金管局办公室对记者表示：“新加坡无意取代其他黄金中心或黄金托管服务。随着各国将黄金作为储备资产的需求日益增长，我认为各国央行也在寻求替代方案，希望获得更多选择，以增强其黄金储备的韧性。”（新浪财经）",
-        "cover": "",
-        "date": 1794288375000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794293763406,
-    "bilibili": 1794293772979,
-    "qbitai": 1794264994720,
-    "36kr": 1794264995042
+    "thepaper": 1794294663697,
+    "bilibili": 1794293661195,
+    "qbitai": 1794265888533,
+    "36kr": 1794265888894
   },
   "failures": {}
 }
