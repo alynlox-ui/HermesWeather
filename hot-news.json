@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T01:27:23Z",
+  "updatedAt": "2026-11-10T01:41:28Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -40,14 +40,14 @@
         "rank": 6
       },
       {
-        "title": "多位车主投诉比亚迪大唐前后轮毂装反，比亚迪客服：收到相关反馈，可至附近4S店检查",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34440618",
+        "title": "马上评｜“零元面馆”是善意，周边小店亦是民生",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34443839",
         "desc": "",
         "rank": 7
       },
       {
-        "title": "马上评｜“零元面馆”是善意，周边小店亦是民生",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34443839",
+        "title": "多位车主投诉比亚迪大唐前后轮毂装反，比亚迪客服：收到相关反馈，可至附近4S店检查",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34440618",
         "desc": "",
         "rank": 8
       },
@@ -76,60 +76,70 @@
         "rank": 12
       },
       {
+        "title": "西咸新区一政务中心建筑被工程机械损毁，警方通报：47岁嫌疑人已被采取刑事强制措施",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34441097",
+        "desc": "",
+        "rank": 13
+      },
+      {
         "title": "赛诺菲进博首展儿童健康布局，中法合力共护儿童成长未来",
         "url": "https://www.thepaper.cn/newsDetail_forward_34438394",
         "desc": "",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "马上评丨梁家辉深夜独乘高铁，真正的明星从来不需要簇拥",
         "url": "https://www.thepaper.cn/newsDetail_forward_34439695",
         "desc": "",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "杭州临平警方：一店铺发生刑案2人死亡，嫌犯畏罪自杀身亡",
         "url": "https://www.thepaper.cn/newsDetail_forward_34440148",
         "desc": "",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "分析｜10月CPI同比涨幅回落至0.7%，下阶段走势如何？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34439524",
         "desc": "",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "祸不单行的英伟达，从1140万美元货物失踪说起｜907编辑室",
         "url": "https://www.thepaper.cn/newsDetail_forward_34439625",
         "desc": "",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "“粮食、农业与健康日”领衔COP31首日，主席国呼吁兑现气候承诺",
         "url": "https://www.thepaper.cn/newsDetail_forward_34440145",
         "desc": "",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "马上评｜澳门，何以对话世界",
         "url": "https://www.thepaper.cn/newsDetail_forward_34440593",
-        "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "视频丨攻击-11首次实弹攻击，首发命中！细节揭秘",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34440282",
         "desc": "",
         "rank": 20
       }
     ],
     "bilibili": [
       {
-        "title": "Agent正式进入养鱼时代",
-        "url": "https://search.bilibili.com/all?keyword=Agent%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%85%A5%E5%85%BB%E9%B1%BC%E6%97%B6%E4%BB%A3",
+        "title": "【视频播客】DeepSeek 新出的 Super Agent 是什么？AI如何一路从养虾养马发展到养鱼的？",
+        "url": "https://www.bilibili.com/video/BV1AuWT69EY6",
         "desc": "",
-        "rank": 1
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "年初，我们还在研究怎么“养虾”，后来又开始“养马”，现在连 AI 都开始尝试管理 AI 了。 最近 DSH Super-Agent 的架构和开源原型引起了不少关注。 一个 AI 负责分配任务，其他 AI 各自干活，甚至还能在后台持续推进工作。 听起来像是给 AI 配了个项目经理，但它真的有这么厉害吗？ 这次我们和@杜雨说AI 和@三颗门牙X 一起聊聊 从 OpenClaw 到 Super Agent，回顾这一年 Agent 到底进化了什么。",
+        "content": "年初，我们还在研究怎么“养虾”，后来又开始“养马”，现在连 AI 都开始尝试管理 AI 了。 最近 DSH Super-Agent 的架构和开源原型引起了不少关注。 一个 AI 负责分配任务，其他 AI 各自干活，甚至还能在后台持续推进工作。 听起来像是给 AI 配了个项目经理，但它真的有这么厉害吗？ 这次我们和@杜雨说AI 和@三颗门牙X 一起聊聊 从 OpenClaw 到 Super Agent，回顾这一年 Agent 到底进化了什么。",
+        "bvid": "BV1AuWT69EY6",
+        "author": "Git源宝",
+        "duration": "115:39",
+        "cover": "//i1.hdslb.com/bfs/archive/a871fbe69778ca86e761283f075cd321eef862a3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AuWT69EY6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Agent正式进入养鱼时代"
       },
       {
         "title": "除了买瓜，原来还有这么多离谱事？！【一千零一部】",
@@ -324,10 +334,20 @@
         "hotTitle": "Bin与Kiin历史交手数据对比"
       },
       {
-        "title": "吴家村是什么梗",
-        "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%AE%B6%E6%9D%91%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
+        "title": "【梗百科】吴家村是啥梗？",
+        "url": "https://www.bilibili.com/video/BV1zjWt6BE1a",
         "desc": "",
-        "rank": 14
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "功夫世界观belike CV：吱毛 文案：灵念卿 后期：Matsukei 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
+        "content": "功夫世界观belike CV：吱毛 文案：灵念卿 后期：Matsukei 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
+        "bvid": "BV1zjWt6BE1a",
+        "author": "梗百科",
+        "duration": "2:10",
+        "cover": "//i2.hdslb.com/bfs/archive/e57fcdee770704180dd839556f9bbc18d5bde04a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zjWt6BE1a&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "吴家村是什么梗"
       },
       {
         "title": "地球人请勿模仿！文班亚马三分线外三步上篮😱",
@@ -346,10 +366,20 @@
         "hotTitle": "文班三分线外起步上篮"
       },
       {
-        "title": "记者探访花坛藏尸案现场",
-        "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E7%8E%B0%E5%9C%BA",
+        "title": "探访\"泸州花坛藏尸案\"现场 儿子：唯独这里没找",
+        "url": "https://www.bilibili.com/video/BV1VQWb6eE12",
         "desc": "",
-        "rank": 16
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "泸州“花坛藏尸案”将于明日（11月10日）一审宣判。2026年7月10日，四川省泸州市中级人民法院开庭审理了这起案件，被告人杨某根、陈某芬被控故意杀人罪。 受害人吴女士过去经营服装生意，在1997年2月1日距离春节还有6天的时候忽然失踪，下落不明，那年小黄刚满10岁。2025年6月7日，因为商城进行防水改造，工人在对楼顶施工时，从顶层花坛中发现了吴女士的遗骸，和遗骸一起被发现的还有她的衣服、鞋子等。 吴女士的儿子黄平告诉看看新闻Knews记者，藏尸的花坛和楼体一体浇筑，种着绿植。花坛只有小腿高、一米多",
+        "content": "泸州“花坛藏尸案”将于明日（11月10日）一审宣判。2026年7月10日，四川省泸州市中级人民法院开庭审理了这起案件，被告人杨某根、陈某芬被控故意杀人罪。 受害人吴女士过去经营服装生意，在1997年2月1日距离春节还有6天的时候忽然失踪，下落不明，那年小黄刚满10岁。2025年6月7日，因为商城进行防水改造，工人在对楼顶施工时，从顶层花坛中发现了吴女士的遗骸，和遗骸一起被发现的还有她的衣服、鞋子等。 吴女士的儿子黄平告诉看看新闻Knews记者，藏尸的花坛和楼体一体浇筑，种着绿植。花坛只有小腿高、一米多",
+        "bvid": "BV1VQWb6eE12",
+        "author": "看看新闻Knews",
+        "duration": "1:8",
+        "cover": "//i1.hdslb.com/bfs/archive/d17bf02eda014c4ca5e4b1f6abc211f2753b9b31.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VQWb6eE12&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "记者探访花坛藏尸案现场"
       },
       {
         "title": "你就不能一手抓保研，一手抓实习，一手抓竞赛，一手抓考公，一手抓考证，一手抓综测……",
@@ -900,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "湖北能源：10月完成发电量29.53亿千瓦时，同比减少16.44%",
+        "url": "https://m.36kr.com/newsflashes/4063748408448137",
+        "desc": "36氪获悉，湖北能源公告，2026年10月，公司完成发电量29.53亿千瓦时，同比减少16.44%。2026年1—10月累计完成发电量360.56亿千瓦时，同比减少1.18%。",
+        "cover": "",
+        "date": 1794303519070,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "博思软件：拟5000万元—1亿元回购公司股份",
+        "url": "https://m.36kr.com/newsflashes/4063746591904897",
+        "desc": "36氪获悉，博思软件公告，拟5000万元—1亿元回购公司股份，此次回购为维护公司价值及股东权益所必需，回购价格上限为11.52元/股。",
+        "cover": "",
+        "date": 1794303408197,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "上海：到2030年，海洋产业增加值不低于3500亿元",
+        "url": "https://m.36kr.com/newsflashes/4063742653911944",
+        "desc": "36氪获悉，上海市海洋局印发《上海市海洋经济发展“十五五”实施方案》，其中提出，到2030年，海洋经济综合实力实现新跃升。主要海洋产业稳步增长，海洋产业空间布局持续优化，“3+5+X”的现代海洋产业体系基本形成。海洋生产总值年均增长率不低于全市经济增长目标，海洋产业增加值不低于3500亿元。",
+        "cover": "",
+        "date": 1794303167841,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "海南机场：取得金融机构股票回购专项贷款承诺函",
         "url": "https://m.36kr.com/newsflashes/4063732809733252",
         "desc": "36氪获悉，海南机场公告，公司取得工商银行海口江东支行出具的《贷款承诺函》，承诺为公司提供不超过9000万元贷款，贷款用途为回购公司部分发行的社会公众股份，用于注销并减少注册资本，贷款期限不超过3年。",
@@ -907,7 +967,7 @@
         "date": 1794302567000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "理想汽车：“理想i6团购返佣”活动与公司无关",
@@ -917,7 +977,7 @@
         "date": 1794302340238,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "宏达电子：董事长提议公司2000万元—4000万元回购股份",
@@ -927,7 +987,7 @@
         "date": 1794302081439,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "京东科技被曝架构调整，正式拆分“云科技”与“金融科技”两大板块",
@@ -937,7 +997,7 @@
         "date": 1794301922436,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "常山药业：肝素钠注射液获玻利维亚药品注册证书",
@@ -947,7 +1007,7 @@
         "date": 1794301802279,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "金地集团：10月实现签约金额17.5亿元，同比下降8.85%",
@@ -957,7 +1017,7 @@
         "date": 1794301475311,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "现货黄金日内跌幅扩大至1%",
@@ -967,7 +1027,7 @@
         "date": 1794301409694,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "新开普：拟3000万元—6000万元回购公司股份",
@@ -977,7 +1037,7 @@
         "date": 1794301220999,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "贵州茅台王莉：代售模式总体运行平稳，但运营仍处于探索之中",
@@ -987,7 +1047,7 @@
         "date": 1794301039677,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "珍宝岛：玛巴洛沙韦化学原料药上市申请获批",
@@ -997,7 +1057,7 @@
         "date": 1794301004108,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "水星家纺：拟1500万元—3000万元回购公司股份",
@@ -1007,7 +1067,7 @@
         "date": 1794300647211,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "新天绿能：10月完成发电量159.88万兆瓦时，同比增加68.22%",
@@ -1017,7 +1077,7 @@
         "date": 1794300557969,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "松发股份：取得不超9亿元回购专项贷款承诺函",
@@ -1027,7 +1087,7 @@
         "date": 1794300385373,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "威高血净：拟将证券简称变更为“威高生科”",
@@ -1037,7 +1097,7 @@
         "date": 1794300094521,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "美国汽油价格自7月以来首次跌破每加仑4美元",
@@ -1047,7 +1107,7 @@
         "date": 1794299984487,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "宏和科技：取得金融机构股票回购专项贷款承诺函",
@@ -1057,7 +1117,7 @@
         "date": 1794299627791,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "中天精装：取得金融机构回购股份专项贷款承诺函",
@@ -1067,45 +1127,15 @@
         "date": 1794299469991,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "贵州茅台余思明：正制定2026年度中期利润分配方案",
-        "url": "https://m.36kr.com/newsflashes/4063677604500617",
-        "desc": "11月10日，贵州茅台召开2026年第三季度业绩说明会，公司财务总监、董秘余思明表示，根据公司《2024－2026年度现金分红回报规划》，2024—2026年度公司每年度的现金分红分两次（年度和中期分红）实施。贵州茅台董事会正按照股东会授权制定2026年度中期利润分配方案，将根据规划承诺在2026年年内完成此次中期利润分配。（证券时报）",
-        "cover": "",
-        "date": 1794299197540,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "仙坛股份：10月鸡肉产品销售收入5.34亿元，同比增长6.15%",
-        "url": "https://m.36kr.com/newsflashes/4063672175793281",
-        "desc": "36氪获悉，仙坛股份公告，公司2026年10月实现鸡肉产品销售收入5.34亿元，销售数量6.05万吨，同比变动幅度分别为6.15%、7.43%，环比变动幅度分别为4.15%、-0.02%。",
-        "cover": "",
-        "date": 1794298866198,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "和硕10月销售额1880.8亿元新台币，同比增长60%",
-        "url": "https://m.36kr.com/newsflashes/4063670133035910",
-        "desc": "和硕10月销售额1880.8亿元新台币，同比增长60%。（界面）",
-        "cover": "",
-        "date": 1794298741518,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794302763632,
-    "bilibili": 1794302772667,
-    "qbitai": 1794274043455,
-    "36kr": 1794274043874
+    "thepaper": 1794303664168,
+    "bilibili": 1794302670717,
+    "qbitai": 1794274887806,
+    "36kr": 1794274888215
   },
   "failures": {}
 }
