@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:56:35Z",
+  "updatedAt": "2026-11-10T04:11:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "中恒集团：全资子公司拟挂牌转让复星南宁34%股权",
+        "url": "https://m.36kr.com/newsflashes/4063892708463493",
+        "desc": "36氪获悉，中恒集团公告，为优化资产结构及资源配置，公司全资子公司中恒怡鑫拟通过公开挂牌方式，转让参股公司复星医药（南宁）有限责任公司（简称“复星南宁”）34%股权，挂牌价格不低于1113.73万元。转让完成后，中恒怡鑫将不再持有复星南宁股权。",
+        "cover": "",
+        "date": 1794312326444,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "台积电：董事会核准以不超5亿美元认购OpenAI特别股股份",
+        "url": "https://m.36kr.com/newsflashes/4063884296230020",
+        "desc": "台积电11月10日公告，董事会核准以不超过5亿美元的额度认购OpenAI特别股股份。（界面）",
+        "cover": "",
+        "date": 1794311813002,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "Anthropic预计IPO定价中点74美元，净募资额937亿美元",
         "url": "https://m.36kr.com/newsflashes/4063882408596354",
         "desc": "Anthropic预计IPO定价中点74美元，计入超额配售权和私募配售后，净募资额达937亿美元。（财联社）",
@@ -937,7 +957,7 @@
         "date": 1794311697790,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "台积电批准409亿美元资本预算，用于长期产能扩张",
@@ -947,7 +967,7 @@
         "date": 1794311656018,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "谷歌、英伟达等七家公司承诺向Anthropic投资260亿美元",
@@ -957,7 +977,7 @@
         "date": 1794311510335,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "Anthropic第三季度算力及基础设施支出达99亿美元，占营收58%",
@@ -967,7 +987,7 @@
         "date": 1794311138194,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "Anthropic：截至今年10月底，年化营收约为810亿美元",
@@ -977,7 +997,7 @@
         "date": 1794310928853,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "Anthropic：IPO目标估值约1万亿美元",
@@ -987,7 +1007,7 @@
         "date": 1794310901689,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "Anthropic宣布IPO路演：发行价区间预计为每股70–78美元",
@@ -997,7 +1017,7 @@
         "date": 1794310864550,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "保额3.18亿美元，李泽楷公司签发创纪录保单",
@@ -1007,7 +1027,7 @@
         "date": 1794310340196,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "武汉天源：拟5000万元—1亿元回购股份",
@@ -1017,7 +1037,7 @@
         "date": 1794309938319,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "智谱：拟根据一般授权回购H股，预期总金额上限为40亿港元",
@@ -1027,7 +1047,7 @@
         "date": 1794309314479,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "澳洲航空与埃森哲达成技术合作，将裁员850人",
@@ -1037,7 +1057,7 @@
         "date": 1794309257773,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "帝尔激光：拟5000万元—1亿元回购公司股份",
@@ -1047,7 +1067,7 @@
         "date": 1794308794133,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "成大生物：拟2500万元—5000万元回购股份",
@@ -1057,7 +1077,7 @@
         "date": 1794308422446,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "华利集团：拟不超5亿美元取得O-Net Technologies不超25%股权",
@@ -1067,7 +1087,7 @@
         "date": 1794308336274,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "聚石化学：部分董事、高管拟合计400万元—800万元增持公司股份",
@@ -1077,7 +1097,7 @@
         "date": 1794307812579,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "显卡价格继续走低，华强北RTX 5080价格直降4000元",
@@ -1087,7 +1107,7 @@
         "date": 1794307278512,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "消息称Anthropic IPO拟发行8.25亿股，指示性价格区间为每股70至78美元",
@@ -1097,7 +1117,7 @@
         "date": 1794307180999,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "马斯克披露Grok全新SI训练推理基建，复用星链工程能力",
@@ -1107,35 +1127,15 @@
         "date": 1794307098328,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "亚马逊获英国批准扩大无人机送货服务",
-        "url": "https://m.36kr.com/newsflashes/4063802077123458",
-        "desc": "11月10日，亚马逊发表声明称，其Prime Air服务已成为全球首个获得英国民航局（CAA）颁发的SAIL 4运营授权和适航验证的服务。亚马逊表示，符合条件的客户数量从约600户增加到了8000户。（界面）",
-        "cover": "",
-        "date": 1794306794746,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "安杰思：控股股东、实控人等承诺未来6个月不减持股份",
-        "url": "https://m.36kr.com/newsflashes/4063800844883076",
-        "desc": "36氪获悉，安杰思公告，收到公司控股股东杭州一嘉投资管理有限公司、实际控制人张承及其控制的宁波嘉一投资管理合伙企业（有限合伙）、杭州鼎杰企业管理合伙企业（有限合伙）出具的承诺函，上述股东承诺自2026年11月19日起至2027年5月18日止，不以任何方式减持其直接持有的公司股份。",
-        "cover": "",
-        "date": 1794306719536,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794311763186,
-    "bilibili": 1794311771902,
-    "qbitai": 1794282994730,
-    "36kr": 1794282995125
+    "thepaper": 1794312663265,
+    "bilibili": 1794311677695,
+    "qbitai": 1794283895106,
+    "36kr": 1794283895575
   },
   "failures": {}
 }
