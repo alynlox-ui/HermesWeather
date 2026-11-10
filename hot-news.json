@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T02:11:34Z",
+  "updatedAt": "2026-11-10T02:26:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,26 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "【视频播客】DeepSeek 新出的 Super Agent 是什么？AI如何一路从养虾养马发展到养鱼的？",
-        "url": "https://www.bilibili.com/video/BV1AuWT69EY6",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "年初，我们还在研究怎么“养虾”，后来又开始“养马”，现在连 AI 都开始尝试管理 AI 了。 最近 DSH Super-Agent 的架构和开源原型引起了不少关注。 一个 AI 负责分配任务，其他 AI 各自干活，甚至还能在后台持续推进工作。 听起来像是给 AI 配了个项目经理，但它真的有这么厉害吗？ 这次我们和@杜雨说AI 和@三颗门牙X 一起聊聊 从 OpenClaw 到 Super Agent，回顾这一年 Agent 到底进化了什么。",
-        "content": "年初，我们还在研究怎么“养虾”，后来又开始“养马”，现在连 AI 都开始尝试管理 AI 了。 最近 DSH Super-Agent 的架构和开源原型引起了不少关注。 一个 AI 负责分配任务，其他 AI 各自干活，甚至还能在后台持续推进工作。 听起来像是给 AI 配了个项目经理，但它真的有这么厉害吗？ 这次我们和@杜雨说AI 和@三颗门牙X 一起聊聊 从 OpenClaw 到 Super Agent，回顾这一年 Agent 到底进化了什么。",
-        "bvid": "BV1AuWT69EY6",
-        "author": "Git源宝",
-        "duration": "115:39",
-        "cover": "//i1.hdslb.com/bfs/archive/a871fbe69778ca86e761283f075cd321eef862a3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AuWT69EY6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Agent正式进入养鱼时代"
-      },
-      {
         "title": "除了买瓜，原来还有这么多离谱事？！【一千零一部】",
         "url": "https://www.bilibili.com/video/BV1DnWM6PEMS",
         "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "「这瓜保熟吗」的疯狂二创让《征服》复兴 买瓜名场面的背后故事，你知道多少？ 刘华强为什么能成为经典形象？ 他的复仇原因是什么？ 为什么说一部剧记录的是一个时代？ 我们保留了原汁原味的故事与情感 也用现在的视角重新理解它的经典 以及做了超大量后期、调色与高清化的努力 把这个你可能错过多年的故事，重新再讲一遍 总有些深意，在匆忙中被错过 「一千零一部」，让故事重焕新光 如果喜欢这个系列，还请点赞、收藏、转发",
@@ -156,6 +140,22 @@
         "cover": "//i0.hdslb.com/bfs/archive/af2c457bc7b1655b6400863f455606047e878b8b.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DnWM6PEMS&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "木鱼水心深挖征服"
+      },
+      {
+        "title": "【2026金鸡奖】第39届金鸡百花电影节开幕式全程",
+        "url": "https://www.bilibili.com/video/BV1TS4z64EVY",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "黄晓明与赵丽颖共同完成“点亮金鸡”仪式",
+        "content": "黄晓明与赵丽颖共同完成“点亮金鸡”仪式",
+        "bvid": "BV1TS4z64EVY",
+        "author": "洛可可的账号",
+        "duration": "72:47",
+        "cover": "//i1.hdslb.com/bfs/archive/52b77538174f74a57f10a3d7703565fc98be6652.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TS4z64EVY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "金鸡奖闭幕式暨颁奖典礼"
       },
       {
         "title": "捍卫主场！申京&杜兰特均揽准三双，火箭力克掘金终结连败",
@@ -206,20 +206,20 @@
         "hotTitle": "BLG决赛应援曲 左手指冠"
       },
       {
-        "title": "泽连斯基愿同普京会面 地点除了莫斯科哪里都行",
-        "url": "https://www.bilibili.com/video/BV1LgWg6SEju",
+        "title": "“驼峰航线”美军援华抗日飞行员遗骸移交仪式在成都举行",
+        "url": "https://www.bilibili.com/video/BV1EHWu6pEnu",
         "desc": "",
         "rank": 6,
         "kind": "video",
         "platform": "bilibili",
-        "description": "据乌克兰国际文传电讯社报道，乌克兰常驻联合国代表安德里·梅利尼克9日称，乌方期待俄美乌三方会谈取得成果，但重大决定仍需由乌克兰和俄罗斯领导人举行面对面会晤才能作出，乌总统泽连斯基愿意在莫斯科以外的任何地方与俄总统普京会面。 梅利尼克当天在联合国安理会一场会议上说，如果没有领导人级别的会谈，俄乌几乎不可能取得政治突破。泽连斯基愿同普京会面，“无论是12月在（美国）佛罗里达二十国集团峰会期间……甚至在南极，莫斯科以外的任何地方都行”。 梅利尼克说，目前俄方加大对乌克兰的袭击力度，并且持续摧毁乌基础设施。他",
-        "content": "据乌克兰国际文传电讯社报道，乌克兰常驻联合国代表安德里·梅利尼克9日称，乌方期待俄美乌三方会谈取得成果，但重大决定仍需由乌克兰和俄罗斯领导人举行面对面会晤才能作出，乌总统泽连斯基愿意在莫斯科以外的任何地方与俄总统普京会面。 梅利尼克当天在联合国安理会一场会议上说，如果没有领导人级别的会谈，俄乌几乎不可能取得政治突破。泽连斯基愿同普京会面，“无论是12月在（美国）佛罗里达二十国集团峰会期间……甚至在南极，莫斯科以外的任何地方都行”。 梅利尼克说，目前俄方加大对乌克兰的袭击力度，并且持续摧毁乌基础设施。他",
-        "bvid": "BV1LgWg6SEju",
+        "description": "记者：薛晨",
+        "content": "记者：薛晨",
+        "bvid": "BV1EHWu6pEnu",
         "author": "新华社",
-        "duration": "0:30",
-        "cover": "//i2.hdslb.com/bfs/archive/05291416e477a73f3b42d89a7166c805c16c98ac.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LgWg6SEju&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "泽连斯基愿同普京会面"
+        "duration": "0:21",
+        "cover": "//i0.hdslb.com/bfs/archive/79898c2c2c0534af095ab82ae3956d5a9b0f9fb5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EHWu6pEnu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中方移交美军援华抗日飞行员遗骸"
       },
       {
         "title": "【球探小报#55】 有望成为首个出口的中国无畏契约选手？17岁BLG Kassielsy是CN下一代最强青训",
@@ -254,26 +254,154 @@
         "hotTitle": "王力宏王心凌首次同台合唱爱你"
       },
       {
-        "title": "纳斯达克5x23小时交易，12月6日实行，对A股有何影响？",
-        "url": "https://www.bilibili.com/video/BV1urWE6hE9g",
+        "title": "泽连斯基愿同普京会面 地点除了莫斯科哪里都行",
+        "url": "https://www.bilibili.com/video/BV1LgWg6SEju",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "据纳斯达克官网消息，纳斯达克计划于当地时间12月6日正式实施“23/5”交易制度，每周5天、每天23小时连续开放交易，每日仅保留美东时间20:00至21:00一小时休市窗口。",
-        "content": "据纳斯达克官网消息，纳斯达克计划于当地时间12月6日正式实施“23/5”交易制度，每周5天、每天23小时连续开放交易，每日仅保留美东时间20:00至21:00一小时休市窗口。",
-        "bvid": "BV1urWE6hE9g",
-        "author": "海螺复盘",
-        "duration": "2:28",
-        "cover": "//i0.hdslb.com/bfs/archive/c823a483d95e510c8727b95cc8f36c2546ec6e1a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1urWE6hE9g&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "美股通宵对A股有何影响"
+        "description": "据乌克兰国际文传电讯社报道，乌克兰常驻联合国代表安德里·梅利尼克9日称，乌方期待俄美乌三方会谈取得成果，但重大决定仍需由乌克兰和俄罗斯领导人举行面对面会晤才能作出，乌总统泽连斯基愿意在莫斯科以外的任何地方与俄总统普京会面。 梅利尼克当天在联合国安理会一场会议上说，如果没有领导人级别的会谈，俄乌几乎不可能取得政治突破。泽连斯基愿同普京会面，“无论是12月在（美国）佛罗里达二十国集团峰会期间……甚至在南极，莫斯科以外的任何地方都行”。 梅利尼克说，目前俄方加大对乌克兰的袭击力度，并且持续摧毁乌基础设施。他",
+        "content": "据乌克兰国际文传电讯社报道，乌克兰常驻联合国代表安德里·梅利尼克9日称，乌方期待俄美乌三方会谈取得成果，但重大决定仍需由乌克兰和俄罗斯领导人举行面对面会晤才能作出，乌总统泽连斯基愿意在莫斯科以外的任何地方与俄总统普京会面。 梅利尼克当天在联合国安理会一场会议上说，如果没有领导人级别的会谈，俄乌几乎不可能取得政治突破。泽连斯基愿同普京会面，“无论是12月在（美国）佛罗里达二十国集团峰会期间……甚至在南极，莫斯科以外的任何地方都行”。 梅利尼克说，目前俄方加大对乌克兰的袭击力度，并且持续摧毁乌基础设施。他",
+        "bvid": "BV1LgWg6SEju",
+        "author": "新华社",
+        "duration": "0:30",
+        "cover": "//i2.hdslb.com/bfs/archive/05291416e477a73f3b42d89a7166c805c16c98ac.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LgWg6SEju&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "泽连斯基愿同普京会面"
+      },
+      {
+        "title": "Bin vs Kiin！地表最强上单争夺！历史交手全数据 | S16决赛 BLG vs GEN 比赛前瞻",
+        "url": "https://www.bilibili.com/video/BV1ybWM6ZEhZ",
+        "desc": "",
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "Bin vs Kiin！地表最强上单争夺！历史交手全数据 | S16决赛 BLG vs GEN 比赛前瞻",
+        "content": "Bin vs Kiin！地表最强上单争夺！历史交手全数据 | S16决赛 BLG vs GEN 比赛前瞻",
+        "bvid": "BV1ybWM6ZEhZ",
+        "author": "_江之岛盾子_",
+        "duration": "1:35",
+        "cover": "//i2.hdslb.com/bfs/archive/c2b491e4193418855a2d0da36539215d24714941.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ybWM6ZEhZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Bin与Kiin历史交手数据对比"
+      },
+      {
+        "title": "这什么效率？文班亚马登场25分钟贡献40分11篮板9封盖🤯",
+        "url": "https://www.bilibili.com/video/BV1ukWT6cEgF",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1ukWT6cEgF",
+        "author": "NBA",
+        "duration": "2:44",
+        "cover": "//i0.hdslb.com/bfs/archive/e4bf7eede0e290b94e5ed30a70c10a1c7c3ad94d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ukWT6cEgF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "文班亚马40分11篮板"
+      },
+      {
+        "title": "友情比爱情更好品啊，厉娜！这么精彩的节目当然要和好朋友一起唠！【后会友期reaction 第三期（上）】",
+        "url": "https://www.bilibili.com/video/BV1isWt6AEj7",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1isWt6AEj7",
+        "author": "斑马酱锵锵锵",
+        "duration": "32:39",
+        "cover": "//i1.hdslb.com/bfs/archive/9786c0b99f4b6cd645f559689426f8abbc79b502.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1isWt6AEj7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "假装在后会友期观察室"
+      },
+      {
+        "title": "【梗百科】吴家村是啥梗？",
+        "url": "https://www.bilibili.com/video/BV1zjWt6BE1a",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "功夫世界观belike CV：吱毛 文案：灵念卿 后期：Matsukei 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
+        "content": "功夫世界观belike CV：吱毛 文案：灵念卿 后期：Matsukei 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
+        "bvid": "BV1zjWt6BE1a",
+        "author": "梗百科",
+        "duration": "2:10",
+        "cover": "//i2.hdslb.com/bfs/archive/e57fcdee770704180dd839556f9bbc18d5bde04a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zjWt6BE1a&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "吴家村是什么梗"
+      },
+      {
+        "title": "探访\"泸州花坛藏尸案\"现场 儿子：唯独这里没找",
+        "url": "https://www.bilibili.com/video/BV1VQWb6eE12",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "泸州“花坛藏尸案”将于明日（11月10日）一审宣判。2026年7月10日，四川省泸州市中级人民法院开庭审理了这起案件，被告人杨某根、陈某芬被控故意杀人罪。 受害人吴女士过去经营服装生意，在1997年2月1日距离春节还有6天的时候忽然失踪，下落不明，那年小黄刚满10岁。2025年6月7日，因为商城进行防水改造，工人在对楼顶施工时，从顶层花坛中发现了吴女士的遗骸，和遗骸一起被发现的还有她的衣服、鞋子等。 吴女士的儿子黄平告诉看看新闻Knews记者，藏尸的花坛和楼体一体浇筑，种着绿植。花坛只有小腿高、一米多",
+        "content": "泸州“花坛藏尸案”将于明日（11月10日）一审宣判。2026年7月10日，四川省泸州市中级人民法院开庭审理了这起案件，被告人杨某根、陈某芬被控故意杀人罪。 受害人吴女士过去经营服装生意，在1997年2月1日距离春节还有6天的时候忽然失踪，下落不明，那年小黄刚满10岁。2025年6月7日，因为商城进行防水改造，工人在对楼顶施工时，从顶层花坛中发现了吴女士的遗骸，和遗骸一起被发现的还有她的衣服、鞋子等。 吴女士的儿子黄平告诉看看新闻Knews记者，藏尸的花坛和楼体一体浇筑，种着绿植。花坛只有小腿高、一米多",
+        "bvid": "BV1VQWb6eE12",
+        "author": "看看新闻Knews",
+        "duration": "1:8",
+        "cover": "//i1.hdslb.com/bfs/archive/d17bf02eda014c4ca5e4b1f6abc211f2753b9b31.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VQWb6eE12&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "记者探访花坛藏尸案现场"
+      },
+      {
+        "title": "火柴人 VS 动画师 第十四集 黑暗时代（The Dark Age）",
+        "url": "https://www.bilibili.com/video/BV1Z24J6dEBk",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Z24J6dEBk",
+        "author": "火柴人AlanBecker",
+        "duration": "18:50",
+        "cover": "//i0.hdslb.com/bfs/archive/c510a20389cb9da2aa53db5a95ac7d2152ddaeb5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z24J6dEBk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "火柴人VS动画师更新"
+      },
+      {
+        "title": "你就不能一手抓保研，一手抓实习，一手抓竞赛，一手抓考公，一手抓考证，一手抓综测……",
+        "url": "https://www.bilibili.com/video/BV1j54H64ENc",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "喜欢这期的兄弟们，点赞三连关注，更重要的是留下你们的评论！转发！这对我很重要 谢谢各位谢谢各位谢谢各位谢谢各位谢谢各位 爱你们 另：评论区置顶为我投票！！！！",
+        "content": "喜欢这期的兄弟们，点赞三连关注，更重要的是留下你们的评论！转发！这对我很重要 谢谢各位谢谢各位谢谢各位谢谢各位谢谢各位 爱你们 另：评论区置顶为我投票！！！！",
+        "bvid": "BV1j54H64ENc",
+        "author": "个大活人",
+        "duration": "2:20",
+        "cover": "//i2.hdslb.com/bfs/archive/7f52d26cf5e1925762462baea85a02bdd4713123.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j54H64ENc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大学生如何就业学业两手抓"
+      },
+      {
+        "title": "地球人请勿模仿！文班亚马三分线外三步上篮😱",
+        "url": "https://www.bilibili.com/video/BV1UHWM6YEQE",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1UHWM6YEQE",
+        "author": "NBA",
+        "duration": "0:38",
+        "cover": "//i1.hdslb.com/bfs/archive/10ef719d9525840008e91f7494653c7a661a4cd2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UHWM6YEQE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "文班三分线外起步上篮"
       },
       {
         "title": "【自制LPL首胜T1宣传片】这座山，这条河，我们走了多久？",
         "url": "https://www.bilibili.com/video/BV1xcWt6SEhQ",
         "desc": "",
-        "rank": 10,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -289,7 +417,7 @@
         "title": "英雄调整情报 | 曜大招冷却时间减少！",
         "url": "https://www.bilibili.com/video/BV1hBWu6rEkZ",
         "desc": "",
-        "rank": 11,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "本周更新曜增强，暃平衡。 曜：降低三技能冷却时间，提升拉扯能力与刷野效率； 暃：新增效果，可对非英雄单位玉化斩杀。 *所有调整，请以官方公告为准，若对英雄调整有更多的想法和建议，也欢迎大家在评论区留言~",
@@ -302,138 +430,42 @@
         "hotTitle": "王者曜大招冷却时间减少"
       },
       {
-        "title": "Bin vs Kiin！地表最强上单争夺！历史交手全数据 | S16决赛 BLG vs GEN 比赛前瞻",
-        "url": "https://www.bilibili.com/video/BV1ybWM6ZEhZ",
+        "title": "《灭霸全家福》灭霸的爸爸是灭建国，被艾特的都是扎啤！",
+        "url": "https://www.bilibili.com/video/BV1vB4p6fEVX",
         "desc": "",
-        "rank": 12,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "Bin vs Kiin！地表最强上单争夺！历史交手全数据 | S16决赛 BLG vs GEN 比赛前瞻",
-        "content": "Bin vs Kiin！地表最强上单争夺！历史交手全数据 | S16决赛 BLG vs GEN 比赛前瞻",
-        "bvid": "BV1ybWM6ZEhZ",
-        "author": "_江之岛盾子_",
-        "duration": "1:35",
-        "cover": "//i2.hdslb.com/bfs/archive/c2b491e4193418855a2d0da36539215d24714941.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ybWM6ZEhZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Bin与Kiin历史交手数据对比"
+        "description": "《灭霸全家福》灭霸的爸爸是灭建国，被艾特的都是扎啤！ 小浣熊 音频：@DJ铁柱Remix 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
+        "content": "《灭霸全家福》灭霸的爸爸是灭建国，被艾特的都是扎啤！ 小浣熊 音频：@DJ铁柱Remix 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
+        "bvid": "BV1vB4p6fEVX",
+        "author": "音乐老友",
+        "duration": "1:57",
+        "cover": "//i1.hdslb.com/bfs/archive/b99979906d346700518fe4bf08bb894750d5f342.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vB4p6fEVX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "灭霸全家福"
       },
       {
-        "title": "友情比爱情更好品啊，厉娜！这么精彩的节目当然要和好朋友一起唠！【后会友期reaction 第三期（上）】",
-        "url": "https://www.bilibili.com/video/BV1isWt6AEj7",
+        "title": "【A2O】A2O SOUL 'Dancing in the Dark' Official Music Video",
+        "url": "https://www.bilibili.com/video/BV17cWb6BEZh",
         "desc": "",
-        "rank": 13,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1isWt6AEj7",
-        "author": "斑马酱锵锵锵",
-        "duration": "32:39",
-        "cover": "//i1.hdslb.com/bfs/archive/9786c0b99f4b6cd645f559689426f8abbc79b502.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1isWt6AEj7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "假装在后会友期观察室"
-      },
-      {
-        "title": "伟大！Faker赛后盛赞BLG：今天他们准备的更充分，遗憾落败虽然惋惜，但是能与BLG献上一场精彩对决，我个人还是比较满意的！会吸取这次失败的教训，感谢粉丝们！",
-        "url": "https://www.bilibili.com/video/BV13MWs67EL3",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV13MWs67EL3",
-        "author": "关于LPL",
-        "duration": "3:0",
-        "cover": "//i0.hdslb.com/bfs/archive/bb89dc0f9a437a3c7af1603b1b4ad00b014d1d7a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13MWs67EL3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Faker赛后盛赞BLG"
-      },
-      {
-        "title": "地球人请勿模仿！文班亚马三分线外三步上篮😱",
-        "url": "https://www.bilibili.com/video/BV1UHWM6YEQE",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1UHWM6YEQE",
-        "author": "NBA",
-        "duration": "0:38",
-        "cover": "//i1.hdslb.com/bfs/archive/10ef719d9525840008e91f7494653c7a661a4cd2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UHWM6YEQE&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "文班三分线外起步上篮"
-      },
-      {
-        "title": "锐评BLG打破T1对LPL的十三年来的百胜率神话！击碎梦魇！找回自己！这期不串直接夸！",
-        "url": "https://www.bilibili.com/video/BV1YxWx69Ens",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1YxWx69Ens",
-        "author": "去码头整点沙姜鸡",
-        "duration": "16:52",
-        "cover": "//i2.hdslb.com/bfs/archive/c511928fc97aecfcacb60332c526b4c4ce5d566a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YxWx69Ens&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "锐评BLG打破T1神话"
-      },
-      {
-        "title": "你就不能一手抓保研，一手抓实习，一手抓竞赛，一手抓考公，一手抓考证，一手抓综测……",
-        "url": "https://www.bilibili.com/video/BV1j54H64ENc",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "喜欢这期的兄弟们，点赞三连关注，更重要的是留下你们的评论！转发！这对我很重要 谢谢各位谢谢各位谢谢各位谢谢各位谢谢各位 爱你们 另：评论区置顶为我投票！！！！",
-        "content": "喜欢这期的兄弟们，点赞三连关注，更重要的是留下你们的评论！转发！这对我很重要 谢谢各位谢谢各位谢谢各位谢谢各位谢谢各位 爱你们 另：评论区置顶为我投票！！！！",
-        "bvid": "BV1j54H64ENc",
-        "author": "个大活人",
-        "duration": "2:20",
-        "cover": "//i2.hdslb.com/bfs/archive/7f52d26cf5e1925762462baea85a02bdd4713123.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j54H64ENc&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大学生如何就业学业两手抓"
-      },
-      {
-        "title": "火柴人 VS 动画师 第十四集 黑暗时代（The Dark Age）",
-        "url": "https://www.bilibili.com/video/BV1Z24J6dEBk",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Z24J6dEBk",
-        "author": "火柴人AlanBecker",
-        "duration": "18:50",
-        "cover": "//i0.hdslb.com/bfs/archive/c510a20389cb9da2aa53db5a95ac7d2152ddaeb5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z24J6dEBk&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "火柴人VS动画师更新"
-      },
-      {
-        "title": "【梗百科】吴家村是啥梗？",
-        "url": "https://www.bilibili.com/video/BV1zjWt6BE1a",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "功夫世界观belike CV：吱毛 文案：灵念卿 后期：Matsukei 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
-        "content": "功夫世界观belike CV：吱毛 文案：灵念卿 后期：Matsukei 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
-        "bvid": "BV1zjWt6BE1a",
-        "author": "梗百科",
-        "duration": "2:10",
-        "cover": "//i2.hdslb.com/bfs/archive/e57fcdee770704180dd839556f9bbc18d5bde04a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zjWt6BE1a&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "吴家村是什么梗"
+        "description": "A2O SOUL 'Dancing in the Dark' Official Music Video Zalpha Pop by A2O Produced by S.M. LEE Presented by A2O Entertainment - A2O SOUL - MOON TAI GAKU SEE-ONE SEOHA SONO LUCIEN ZAI AYDEN ALURE ZET SORA TEO JUNE HANSUNG - A2O 官方网站 - www.a2oentertainment.c",
+        "content": "A2O SOUL 'Dancing in the Dark' Official Music Video Zalpha Pop by A2O Produced by S.M. LEE Presented by A2O Entertainment - A2O SOUL - MOON TAI GAKU SEE-ONE SEOHA SONO LUCIEN ZAI AYDEN ALURE ZET SORA TEO JUNE HANSUNG - A2O 官方网站 - www.a2oentertainment.c",
+        "bvid": "BV17cWb6BEZh",
+        "author": "A2O_WORLD",
+        "duration": "3:4",
+        "cover": "//i0.hdslb.com/bfs/archive/ce486f26e0a94465e7a4d495aec2c145e110aa1a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17cWb6BEZh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "A2O SOUL出道主打曲"
       },
       {
         "title": "当我把九个ai请来玩贪官造桥....｜AI 算法对抗大赛 第 9 集 · 造桥",
         "url": "https://www.bilibili.com/video/BV1JkWH64ESy",
         "desc": "",
-        "rank": 20,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "游戏在这！：https://arena.meowllm.top/ep9/ 全系列的比赛都已经在github开源：https://github.com/chen-006/meow-ai-arena 人物素材主要参考自：@ZipZipPipe",
@@ -446,74 +478,26 @@
         "hotTitle": "让九个AI大模型玩造桥"
       },
       {
-        "title": "这什么效率？文班亚马登场25分钟贡献40分11篮板9封盖🤯",
-        "url": "https://www.bilibili.com/video/BV1ukWT6cEgF",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ukWT6cEgF",
-        "author": "NBA",
-        "duration": "2:44",
-        "cover": "//i0.hdslb.com/bfs/archive/e4bf7eede0e290b94e5ed30a70c10a1c7c3ad94d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ukWT6cEgF&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "文班亚马40分11篮板"
-      },
-      {
-        "title": "探访\"泸州花坛藏尸案\"现场 儿子：唯独这里没找",
-        "url": "https://www.bilibili.com/video/BV1VQWb6eE12",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "泸州“花坛藏尸案”将于明日（11月10日）一审宣判。2026年7月10日，四川省泸州市中级人民法院开庭审理了这起案件，被告人杨某根、陈某芬被控故意杀人罪。 受害人吴女士过去经营服装生意，在1997年2月1日距离春节还有6天的时候忽然失踪，下落不明，那年小黄刚满10岁。2025年6月7日，因为商城进行防水改造，工人在对楼顶施工时，从顶层花坛中发现了吴女士的遗骸，和遗骸一起被发现的还有她的衣服、鞋子等。 吴女士的儿子黄平告诉看看新闻Knews记者，藏尸的花坛和楼体一体浇筑，种着绿植。花坛只有小腿高、一米多",
-        "content": "泸州“花坛藏尸案”将于明日（11月10日）一审宣判。2026年7月10日，四川省泸州市中级人民法院开庭审理了这起案件，被告人杨某根、陈某芬被控故意杀人罪。 受害人吴女士过去经营服装生意，在1997年2月1日距离春节还有6天的时候忽然失踪，下落不明，那年小黄刚满10岁。2025年6月7日，因为商城进行防水改造，工人在对楼顶施工时，从顶层花坛中发现了吴女士的遗骸，和遗骸一起被发现的还有她的衣服、鞋子等。 吴女士的儿子黄平告诉看看新闻Knews记者，藏尸的花坛和楼体一体浇筑，种着绿植。花坛只有小腿高、一米多",
-        "bvid": "BV1VQWb6eE12",
-        "author": "看看新闻Knews",
-        "duration": "1:8",
-        "cover": "//i1.hdslb.com/bfs/archive/d17bf02eda014c4ca5e4b1f6abc211f2753b9b31.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VQWb6eE12&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "记者探访花坛藏尸案现场"
-      },
-      {
-        "title": "耗时5个月，5万元成本，我用AI拍了一部68分钟的原创中国科幻长片《南天门计划：灰蚀危机》【ai全民制作人】",
-        "url": "https://www.bilibili.com/video/BV18GW76hEdg",
+        "title": "78分钟硬科幻AI电影《孤鲸》，华语科幻星云奖最佳短篇小说改编",
+        "url": "https://www.bilibili.com/video/BV1B7xS6NEw2",
         "desc": "",
         "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "从海底异变、东海海战，到百米机甲在上海雨夜迎战巨兽。想拍出钢铁的重量，也想拍出驾驶舱里的人，以及那些靠为这座城市争取时间的普通人。",
-        "content": "从海底异变、东海海战，到百米机甲在上海雨夜迎战巨兽。想拍出钢铁的重量，也想拍出驾驶舱里的人，以及那些靠为这座城市争取时间的普通人。",
-        "bvid": "BV18GW76hEdg",
-        "author": "陶冶AI",
-        "duration": "69:22",
-        "cover": "//i1.hdslb.com/bfs/archive/2c420c95f96b645fe552cc088b92332bf91a996f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18GW76hEdg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "用AI原创68分钟科幻长片"
-      },
-      {
-        "title": "（内含新忍设定）末日规则怪谈？误入诡异校园的烧脑推理！",
-        "url": "https://www.bilibili.com/video/BV1QYWt6oEu8",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "奇怪的熄灯时间，巡查严格的校园，诡异的广播声？灰镇冬校的“新生”守则，越看越不对劲......",
-        "content": "奇怪的熄灯时间，巡查严格的校园，诡异的广播声？灰镇冬校的“新生”守则，越看越不对劲......",
-        "bvid": "BV1QYWt6oEu8",
-        "author": "火影忍者手游情报君",
-        "duration": "45:19",
-        "cover": "//i0.hdslb.com/bfs/archive/7003224b5ebb8001537aefb45bc4aa680abf3f62.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QYWt6oEu8&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "火影主播推理局爆料永夜扉间"
+        "description": "继刘慈欣《山》后，第2部硬科幻名著改编作品，同时这部也是华语科幻星云奖·全球AIGC 长片创作大赛的参赛作品。如果喜欢，请一定告诉我 #RunningHub #全球AIGC长片创作大赛",
+        "content": "继刘慈欣《山》后，第2部硬科幻名著改编作品，同时这部也是华语科幻星云奖·全球AIGC 长片创作大赛的参赛作品。如果喜欢，请一定告诉我 #RunningHub #全球AIGC长片创作大赛",
+        "bvid": "BV1B7xS6NEw2",
+        "author": "野生锅导演",
+        "duration": "78:7",
+        "cover": "//i2.hdslb.com/bfs/archive/de72a0e84b0223b5a255b36d5ec0e62b01f5a985.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1B7xS6NEw2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "一人打造78分钟硬科幻AI电影"
       },
       {
         "title": "当我死去，群山不会震颤，河水不会倒流｜AI长片《汤症》【AI全民制作人】【完整版合集】",
         "url": "https://www.bilibili.com/video/BV1vmWJ6LEmW",
         "desc": "",
-        "rank": 25,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "剧情简介：马周误把孟婆汤当成热水喝下，才被告知自己还没死。他坚信，人间还有一个人在等他。于是，在阴差马面的陪同下，他带着尚未消散的记忆，踏上了重返人间的旅程。然而，草原上的往事与陌生的城市不断交错，他越想回到熟悉的生活，眼前的一切就越难以辨认。关于死亡和遗忘的话题，始终萦绕着他…… 导演/编剧/制作：@SillyZ_Official 制作周期：60天（全片由即梦AI制作 ） 积分消耗：13w积分（按18积分/1s的720p seedance2.5计算） 灵感与素材来源： 电影《困在时间里的父亲》《我想",
@@ -526,68 +510,84 @@
         "hotTitle": "AI长片 汤症"
       },
       {
-        "title": "灭建国的爸爸叫什么",
-        "url": "https://www.bilibili.com/video/BV1orW46aEba",
+        "title": "影之刃零：斗地主Mod 和任意BOSS打牌",
+        "url": "https://www.bilibili.com/video/BV14pW769EXe",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "江湖不只有打打杀杀，还有...斗地主！ 前段时候搞来玩的，可以拉任意一个BOSS进来打都地主，也可以原地开打，打不过BOSS，只能通过这种方式来赢了....但好像打牌也打不过... 下载：www.modcraft.games/games/phantom-blade-zero/mods/76 ModCraft玩家交流群：1097037172 ModCraft创作者群：1059105094",
+        "content": "江湖不只有打打杀杀，还有...斗地主！ 前段时候搞来玩的，可以拉任意一个BOSS进来打都地主，也可以原地开打，打不过BOSS，只能通过这种方式来赢了....但好像打牌也打不过... 下载：www.modcraft.games/games/phantom-blade-zero/mods/76 ModCraft玩家交流群：1097037172 ModCraft创作者群：1059105094",
+        "bvid": "BV14pW769EXe",
+        "author": "迈克杰克逊",
+        "duration": "6:39",
+        "cover": "//i0.hdslb.com/bfs/archive/d70fa7fbd53aea38764eb71476c0281b6cebe7bc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14pW769EXe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "和影之刃零任意BOSS打斗地主"
+      },
+      {
+        "title": "韩网气疯了！BLG你要干什么！韩国人怎么评价BLG战胜T1 创造新的历史？英雄联盟 电子竞技 s16 多兰 bin",
+        "url": "https://www.bilibili.com/video/BV1rjW86jEbX",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "你们都欺负我，我不和你们玩了",
-        "content": "你们都欺负我，我不和你们玩了",
-        "bvid": "BV1orW46aEba",
-        "author": "小猪P_",
-        "duration": "1:39",
-        "cover": "//i0.hdslb.com/bfs/archive/a553f4b2636214d544e2d7de8654b6f3ed234d38.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1orW46aEba&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "灭建国的爸爸叫什么"
+        "description": "素材若有问题会修改/문제시 삭제",
+        "content": "素材若有问题会修改/문제시 삭제",
+        "bvid": "BV1rjW86jEbX",
+        "author": "辉锅_",
+        "duration": "5:4",
+        "cover": "//i1.hdslb.com/bfs/archive/20de85d9160ee291ae651bcfc0a71c085e9245fe.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rjW86jEbX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "韩国人如何评价BLG战胜T1"
       },
       {
-        "title": "BO5战胜Faker！ BLG战胜T1挺进决赛！BLG决赛加油！【2026英雄联盟全球总决赛】",
-        "url": "https://www.bilibili.com/video/BV1kkWW6NEDW",
+        "title": "中文要有魅力，真情不必美图！许飞厉娜、纯稚引发的时代感概",
+        "url": "https://www.bilibili.com/video/BV1qAWb6TEXY",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "视频来源：哔哩哔哩英雄联盟赛事",
-        "content": "视频来源：哔哩哔哩英雄联盟赛事",
-        "bvid": "BV1kkWW6NEDW",
-        "author": "新华社",
-        "duration": "4:56",
-        "cover": "//i1.hdslb.com/bfs/archive/bbfaf2b22392f5d63acb9707de452f1b4c96a696.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kkWW6NEDW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "新华社发文为BLG加油"
+        "description": "",
+        "content": "",
+        "bvid": "BV1qAWb6TEXY",
+        "author": "张志浩在剥柚",
+        "duration": "46:40",
+        "cover": "//i0.hdslb.com/bfs/archive/ec62985632f7e7640f1f7c477b0e92f18b8a5c89.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qAWb6TEXY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "读懂后会友期里成年人的友情"
       },
       {
-        "title": "2026全球总决赛半决赛第二日英雄麦克疯：“NICE！兄弟们~终于赢了T1”",
-        "url": "https://www.bilibili.com/video/BV1cSWN6mEYK",
+        "title": "《王者荣耀世界》S2赛季体验服抢先爆料",
+        "url": "https://www.bilibili.com/video/BV1xCWN6QEaS",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "BLG.Bin ：往前走别怕别怕别怕 BLG.Xun ：一波一波一波 BLG.Knight ：NICE，终于赢了 BLG.Viper ：卢锡安卢锡安 BLG.ON ：点塔点塔点塔",
-        "content": "BLG.Bin ：往前走别怕别怕别怕 BLG.Xun ：一波一波一波 BLG.Knight ：NICE，终于赢了 BLG.Viper ：卢锡安卢锡安 BLG.ON ：点塔点塔点塔",
-        "bvid": "BV1cSWN6mEYK",
-        "author": "英雄联盟赛事",
-        "duration": "6:55",
-        "cover": "//i2.hdslb.com/bfs/archive/1748be4b60d2ec4a7d3bacadb8734f9079efc6f3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cSWN6mEYK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG赛事语音 终于赢了T1"
+        "description": "新英雄共鸣·李白、新地图、新剧情、新玩法等多项内容现已悉数就绪。11月10日S2赛季体验服已开启，我们不见不散！",
+        "content": "新英雄共鸣·李白、新地图、新剧情、新玩法等多项内容现已悉数就绪。11月10日S2赛季体验服已开启，我们不见不散！",
+        "bvid": "BV1xCWN6QEaS",
+        "author": "王者荣耀世界",
+        "duration": "3:4",
+        "cover": "//i0.hdslb.com/bfs/archive/1b4ad9658e7abeb68f64c4103a30d17da7829104.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xCWN6QEaS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "王者荣耀世界S2赛季爆料"
       },
       {
-        "title": "【真实锐评】BLG战胜T1晋级决赛 BLG就是LPL外战天花板战队！bin虐爆多兰 交出你的偷来的皮肤！",
-        "url": "https://www.bilibili.com/video/BV1iLWx6hEzo",
+        "title": "近十几年的梗都在这里了",
+        "url": "https://www.bilibili.com/video/BV1mv4Y6rESW",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1iLWx6hEzo",
-        "author": "真实电竞",
-        "duration": "10:1",
-        "cover": "//i1.hdslb.com/bfs/archive/4f488793e9531d11b847ab02d089878df9c38dae.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iLWx6hEzo&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG为什么能够战胜T1"
+        "description": "全认识的把自己加进去",
+        "content": "全认识的把自己加进去",
+        "bvid": "BV1mv4Y6rESW",
+        "author": "怠惰的一休",
+        "duration": "1:6",
+        "cover": "//i1.hdslb.com/bfs/archive/7a8449a206881e89b3dac64b49f677e25d6160e0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mv4Y6rESW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "十二年鬼畜热梗合集"
       },
       {
         "title": "【IGN】《影之刃零》「黑暗之魂」相关Mod 22分钟实机演示",
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "机构今日买入冰山冷热等24股，卖出北化股份6940万元",
+        "url": "https://m.36kr.com/newsflashes/4063789558994053",
+        "desc": "盘后数据显示，11月10日龙虎榜中，共35只个股出现了机构的身影，有24只股票呈现机构净买入，11只股票呈现机构净卖出。当天机构净买入前三的股票分别是冰山冷热、富瀚微、龙迅股份，净买入金额分别是8999万元、7644万元、7072万元。当天机构净卖出前三的股票分别是北化股份、高争民爆、贝特利，净卖出金额分别是6940万元、5170万元、3597万元。（第一财经）",
+        "cover": "",
+        "date": 1794306030700,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "美联储理事沃勒：并非超级偏鹰，不会加息150或200个基点",
+        "url": "https://m.36kr.com/newsflashes/4063789030200192",
+        "desc": "据报道，美联储理事沃勒表示，我们至少需要收回此前三次预防性降息。并非超级偏鹰，只是不想重创经济。不会把利率提高150或200个基点。（第一财经）",
+        "cover": "",
+        "date": 1794305998425,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "圣农发展：10月实现销售收入18.48亿元，同比增长5.08%",
+        "url": "https://m.36kr.com/newsflashes/4063788131718017",
+        "desc": "36氪获悉，圣农发展公告，2026年10月实现销售收入18.48亿元，同比增长5.08%，环比变下降0.86%。其中，家禽饲养加工板块鸡肉销售收入为13.08亿元，同比增长4.47%，环比增长1.28%；深加工肉制品板块销售收入为10.04亿元，同比增长8.91%，环比下降2.86%。",
+        "cover": "",
+        "date": 1794305943586,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "美国国家公路交通安全管理局：本田申请召回约63.6万辆汽车",
         "url": "https://m.36kr.com/newsflashes/4063779609973632",
         "desc": "11月10日，美国国家公路交通安全管理局（NHTSA）在线提交的召回通知显示，美国本田汽车公司正在召回635808辆汽车。美国国家公路交通安全管理局表示，这些车辆的电动助力转向（EPS）辅助系统的软件可能导致EPS系统进入故障保护模式，从而导致动力转向辅助功能丧失，增加碰撞或受伤的风险。此次召回涵盖2021至2025款TLX、2022至2024款MDX以及2023至2025款Pilot车辆。（界面）",
@@ -937,7 +967,7 @@
         "date": 1794305423460,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "日盈电子：公司电子皮肤项目收入不足1万元",
@@ -947,7 +977,7 @@
         "date": 1794305035913,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "杰瑞股份：拟1亿元—2亿元回购公司股份",
@@ -957,7 +987,7 @@
         "date": 1794304473099,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "ST龙大：公司因涉嫌信息披露违法违规被证监会立案",
@@ -967,7 +997,7 @@
         "date": 1794304207855,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "南向资金今日净买入阿里巴巴8.68亿港元",
@@ -977,7 +1007,7 @@
         "date": 1794304117164,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "保险业前三季度原保费收入5.26万亿元，同比增长0.9%",
@@ -987,7 +1017,7 @@
         "date": 1794304092919,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "湖北能源：10月完成发电量29.53亿千瓦时，同比减少16.44%",
@@ -997,7 +1027,7 @@
         "date": 1794303519070,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "博思软件：拟5000万元—1亿元回购公司股份",
@@ -1007,7 +1037,7 @@
         "date": 1794303408197,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "上海：到2030年，海洋产业增加值不低于3500亿元",
@@ -1017,7 +1047,7 @@
         "date": 1794303167841,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "海南机场：取得金融机构股票回购专项贷款承诺函",
@@ -1027,7 +1057,7 @@
         "date": 1794302567000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "理想汽车：“理想i6团购返佣”活动与公司无关",
@@ -1037,7 +1067,7 @@
         "date": 1794302340238,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "宏达电子：董事长提议公司2000万元—4000万元回购股份",
@@ -1047,7 +1077,7 @@
         "date": 1794302081439,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "京东科技被曝架构调整，正式拆分“云科技”与“金融科技”两大板块",
@@ -1057,7 +1087,7 @@
         "date": 1794301922436,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "常山药业：肝素钠注射液获玻利维亚药品注册证书",
@@ -1067,7 +1097,7 @@
         "date": 1794301802279,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "金地集团：10月实现签约金额17.5亿元，同比下降8.85%",
@@ -1077,7 +1107,7 @@
         "date": 1794301475311,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "现货黄金日内跌幅扩大至1%",
@@ -1087,7 +1117,7 @@
         "date": 1794301409694,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "新开普：拟3000万元—6000万元回购公司股份",
@@ -1097,45 +1127,15 @@
         "date": 1794301220999,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "贵州茅台王莉：代售模式总体运行平稳，但运营仍处于探索之中",
-        "url": "https://m.36kr.com/newsflashes/4063707786073220",
-        "desc": "11月10日，贵州茅台召开2026年第三季度业绩说明会，公司董事王莉（代行总经理职责）表示，目前，代售模式总体运行平稳，销售符合预期。代售模式依托线下社会渠道商门店，与i茅台基本形成“线上管效率与触达、线下管转化与服务”的协同机制，但运营仍处于探索之中，需要进一步改进完善。截至目前，以自营和代售模式综合销售的贵州茅台酒（精品），计划执行有序，市场价格稳定，量价整体平衡。后续，贵州茅台将结合市场反馈，不断优化代售模式运营机制，强化与其他模式的协同，为消费者提供更优质的服务。（证券时报）",
-        "cover": "",
-        "date": 1794301039677,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "珍宝岛：玛巴洛沙韦化学原料药上市申请获批",
-        "url": "https://m.36kr.com/newsflashes/4063707203310722",
-        "desc": "36氪获悉，珍宝岛公告，公司鸡西分公司收到国家药监局颁发的玛巴洛沙韦《化学原料药上市申请批准通知书》，该原料药可在国内市场进行生产销售。玛巴洛沙韦片适用于成人和5岁及以上儿童单纯性甲型和乙型流感患者，包括既往健康的患者以及存在流感相关并发症高风险的患者。玛巴洛沙韦干混悬剂适用于1至12岁以下单纯性甲型和乙型流感儿童患者，包括既往健康的患者以及存在流感并发症高风险的患者。",
-        "cover": "",
-        "date": 1794301004108,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "水星家纺：拟1500万元—3000万元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4063701355910024",
-        "desc": "36氪获悉，水星家纺公告，拟1500万元—3000万元回购公司股份，回购的股份拟用于员工持股计划或股权激励，回购价格不超过24元/股（含）。",
-        "cover": "",
-        "date": 1794300647211,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794305463695,
-    "bilibili": 1794304471317,
-    "qbitai": 1794276694449,
-    "36kr": 1794276694886
+    "thepaper": 1794306362922,
+    "bilibili": 1794306372311,
+    "qbitai": 1794277593383,
+    "36kr": 1794277593831
   },
   "failures": {}
 }
