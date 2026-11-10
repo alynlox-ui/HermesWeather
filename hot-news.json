@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T02:26:33Z",
+  "updatedAt": "2026-11-10T02:41:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -82,44 +82,44 @@
         "rank": 13
       },
       {
-        "title": "赛诺菲进博首展儿童健康布局，中法合力共护儿童成长未来",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34438394",
-        "desc": "",
-        "rank": 14
-      },
-      {
         "title": "马上评丨梁家辉深夜独乘高铁，真正的明星从来不需要簇拥",
         "url": "https://www.thepaper.cn/newsDetail_forward_34439695",
         "desc": "",
-        "rank": 15
+        "rank": 14
       },
       {
         "title": "杭州临平警方：一店铺发生刑案2人死亡，嫌犯畏罪自杀身亡",
         "url": "https://www.thepaper.cn/newsDetail_forward_34440148",
         "desc": "",
-        "rank": 16
+        "rank": 15
       },
       {
         "title": "分析｜10月CPI同比涨幅回落至0.7%，下阶段走势如何？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34439524",
         "desc": "",
-        "rank": 17
-      },
-      {
-        "title": "祸不单行的英伟达，从1140万美元货物失踪说起｜907编辑室",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34439625",
-        "desc": "",
-        "rank": 18
+        "rank": 16
       },
       {
         "title": "“粮食、农业与健康日”领衔COP31首日，主席国呼吁兑现气候承诺",
         "url": "https://www.thepaper.cn/newsDetail_forward_34440145",
         "desc": "",
-        "rank": 19
+        "rank": 17
       },
       {
         "title": "马上评｜澳门，何以对话世界",
         "url": "https://www.thepaper.cn/newsDetail_forward_34440593",
+        "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "视频丨攻击-11首次实弹攻击，首发命中！细节揭秘",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34440282",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "进博之问｜“老友记”翻开新一页：签单之外，如何读懂中国？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34425990",
         "desc": "",
         "rank": 20
       }
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+        "url": "https://www.qbitai.com/2026/11/509032.html",
+        "desc": "",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/d5567baecd777343307d1d2bdb2de9b3.webp",
+        "date": "2026-11-10T18:35:38",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
         "url": "https://www.qbitai.com/2026/11/509017.html",
         "desc": "近亿元融资刚刚落袋",
@@ -615,7 +625,7 @@
         "date": "2026-11-10T16:33:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
@@ -625,7 +635,7 @@
         "date": "2026-11-10T15:57:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
@@ -635,7 +645,7 @@
         "date": "2026-11-10T15:56:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
@@ -645,7 +655,7 @@
         "date": "2026-11-10T15:50:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
@@ -655,7 +665,7 @@
         "date": "2026-11-10T15:33:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "Token卷到触觉了！机器人终于有了通用手感",
@@ -665,7 +675,7 @@
         "date": "2026-11-10T15:26:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
@@ -675,7 +685,7 @@
         "date": "2026-11-10T15:03:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
@@ -685,7 +695,7 @@
         "date": "2026-11-10T10:48:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
@@ -695,7 +705,7 @@
         "date": "2026-11-10T09:27:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
@@ -705,7 +715,7 @@
         "date": "2026-11-10T06:11:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "Fable 5.2深夜掀桌！从0造操作系统，性价比反超Opus 5.5",
@@ -715,7 +725,7 @@
         "date": "2026-11-10T06:08:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
@@ -725,7 +735,7 @@
         "date": "2026-11-09T18:23:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
@@ -735,7 +745,7 @@
         "date": "2026-11-09T17:58:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
@@ -745,7 +755,7 @@
         "date": "2026-11-09T17:48:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "具身智能出海，物流先行",
@@ -755,7 +765,7 @@
         "date": "2026-11-09T17:01:13",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "“AI毁了我的计算机学位”",
@@ -765,7 +775,7 @@
         "date": "2026-11-09T16:57:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
@@ -775,7 +785,7 @@
         "date": "2026-11-09T16:44:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
@@ -785,7 +795,7 @@
         "date": "2026-11-09T16:34:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
@@ -795,7 +805,7 @@
         "date": "2026-11-09T16:26:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
@@ -805,7 +815,7 @@
         "date": "2026-11-09T15:02:36",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
@@ -815,7 +825,7 @@
         "date": "2026-11-09T13:47:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
@@ -825,7 +835,7 @@
         "date": "2026-11-09T13:09:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
@@ -835,7 +845,7 @@
         "date": "2026-11-09T11:47:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
@@ -845,7 +855,7 @@
         "date": "2026-11-09T10:19:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
@@ -855,7 +865,7 @@
         "date": "2026-11-09T08:40:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "终端侧AI：从单点应用走向智能体体验",
@@ -865,7 +875,7 @@
         "date": "2026-11-08T19:05:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "资本正在撤离“世界模型”",
@@ -875,7 +885,7 @@
         "date": "2026-11-08T12:09:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
@@ -885,7 +895,7 @@
         "date": "2026-11-07T17:38:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "OpenAI新融资到账110亿美元，不及原计划一半",
@@ -893,16 +903,6 @@
         "desc": "融资缩水，硅谷投资人也谨慎了",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/3f63a2db3dbab2968fdfaf57c08a5ddb.jpeg",
         "date": "2026-11-07T16:11:25",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "为了去AI味，人类开始主动写烂文章了……",
-        "url": "https://www.qbitai.com/2026/11/508330.html",
-        "desc": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI…….",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/a693951187e5a0f7b51fb4e16b4b8c4a.jpeg",
-        "date": "2026-11-07T15:59:28",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,56 @@
         "rank": 2
       },
       {
+        "title": "显卡终于降价了，华强北RTX 5080价格直降4000元",
+        "url": "https://m.36kr.com/newsflashes/4063810003145603",
+        "desc": "深圳华强北电脑零配件批发商金硕利电脑负责人熊容容表示：“本轮高端显卡的价格变化较大，以RTX 5080为例，10月23日的价格大约为1.8万元，今天的价格是1.4万元左右，差距有些大。出货量最大的主流型号RTX 5060相对于上个月微调200元左右，整体而言，显卡都是微调。”（21财经）",
+        "cover": "",
+        "date": 1794307278512,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "消息称Anthropic IPO拟发行8.25亿股，指示性价格区间为每股70至78美元",
+        "url": "https://m.36kr.com/newsflashes/4063808405492616",
+        "desc": "媒体援引最新招股说明书草案报道，Anthropic计划在IPO中发行8.25亿股，指示性价格区间为每股70至78美元。AMD、博通、谷歌、美光、微软、英伟达及台积电合作伙伴等将作为基石投资者，参与一项独立私募配售，合计认购260亿美元公司普通股。（财联社）",
+        "cover": "",
+        "date": 1794307180999,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "马斯克披露Grok全新SI训练推理基建，复用星链工程能力",
+        "url": "https://m.36kr.com/newsflashes/4063807051011206",
+        "desc": "马斯克在X发文，披露Grok新一代SI训练与推理基础设施重大进展，星链的工程技术经验将支撑Grok迭代。SpaceX SI团队从零重写Grok强化学习与推理软件，自研系统替代JAX、SGLang，主体采用C语言开发，辅以少量C++。这套新算力栈，由打造星链复杂卫星网络的工程师团队落地。马斯克表示，SpaceX自主编写头文件、独立计算包含闰秒的时间，这项底层能力一般人难以理解，但业内专业人士清楚其价值。该底层工程积累，是Grok新AI栈的核心根基。（新浪财经）",
+        "cover": "",
+        "date": 1794307098328,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "亚马逊获英国批准扩大无人机送货服务",
+        "url": "https://m.36kr.com/newsflashes/4063802077123458",
+        "desc": "11月10日，亚马逊发表声明称，其Prime Air服务已成为全球首个获得英国民航局（CAA）颁发的SAIL 4运营授权和适航验证的服务。亚马逊表示，符合条件的客户数量从约600户增加到了8000户。（界面）",
+        "cover": "",
+        "date": 1794306794746,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "安杰思：控股股东、实控人等承诺未来6个月不减持股份",
+        "url": "https://m.36kr.com/newsflashes/4063800844883076",
+        "desc": "36氪获悉，安杰思公告，收到公司控股股东杭州一嘉投资管理有限公司、实际控制人张承及其控制的宁波嘉一投资管理合伙企业（有限合伙）、杭州鼎杰企业管理合伙企业（有限合伙）出具的承诺函，上述股东承诺自2026年11月19日起至2027年5月18日止，不以任何方式减持其直接持有的公司股份。",
+        "cover": "",
+        "date": 1794306719536,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "机构今日买入冰山冷热等24股，卖出北化股份6940万元",
         "url": "https://m.36kr.com/newsflashes/4063789558994053",
         "desc": "盘后数据显示，11月10日龙虎榜中，共35只个股出现了机构的身影，有24只股票呈现机构净买入，11只股票呈现机构净卖出。当天机构净买入前三的股票分别是冰山冷热、富瀚微、龙迅股份，净买入金额分别是8999万元、7644万元、7072万元。当天机构净卖出前三的股票分别是北化股份、高争民爆、贝特利，净卖出金额分别是6940万元、5170万元、3597万元。（第一财经）",
@@ -937,7 +987,7 @@
         "date": 1794306030700,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 8
       },
       {
         "title": "美联储理事沃勒：并非超级偏鹰，不会加息150或200个基点",
@@ -947,7 +997,7 @@
         "date": 1794305998425,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 9
       },
       {
         "title": "圣农发展：10月实现销售收入18.48亿元，同比增长5.08%",
@@ -957,7 +1007,7 @@
         "date": 1794305943586,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 10
       },
       {
         "title": "美国国家公路交通安全管理局：本田申请召回约63.6万辆汽车",
@@ -967,7 +1017,7 @@
         "date": 1794305423460,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 11
       },
       {
         "title": "日盈电子：公司电子皮肤项目收入不足1万元",
@@ -977,7 +1027,7 @@
         "date": 1794305035913,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 12
       },
       {
         "title": "杰瑞股份：拟1亿元—2亿元回购公司股份",
@@ -987,7 +1037,7 @@
         "date": 1794304473099,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 13
       },
       {
         "title": "ST龙大：公司因涉嫌信息披露违法违规被证监会立案",
@@ -997,7 +1047,7 @@
         "date": 1794304207855,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 14
       },
       {
         "title": "南向资金今日净买入阿里巴巴8.68亿港元",
@@ -1007,7 +1057,7 @@
         "date": 1794304117164,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 15
       },
       {
         "title": "保险业前三季度原保费收入5.26万亿元，同比增长0.9%",
@@ -1017,7 +1067,7 @@
         "date": 1794304092919,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 16
       },
       {
         "title": "湖北能源：10月完成发电量29.53亿千瓦时，同比减少16.44%",
@@ -1027,7 +1077,7 @@
         "date": 1794303519070,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 17
       },
       {
         "title": "博思软件：拟5000万元—1亿元回购公司股份",
@@ -1037,7 +1087,7 @@
         "date": 1794303408197,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 18
       },
       {
         "title": "上海：到2030年，海洋产业增加值不低于3500亿元",
@@ -1047,7 +1097,7 @@
         "date": 1794303167841,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 19
       },
       {
         "title": "海南机场：取得金融机构股票回购专项贷款承诺函",
@@ -1057,7 +1107,7 @@
         "date": 1794302567000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 20
       },
       {
         "title": "理想汽车：“理想i6团购返佣”活动与公司无关",
@@ -1067,7 +1117,7 @@
         "date": 1794302340238,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 21
       },
       {
         "title": "宏达电子：董事长提议公司2000万元—4000万元回购股份",
@@ -1077,65 +1127,15 @@
         "date": 1794302081439,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
-      },
-      {
-        "title": "京东科技被曝架构调整，正式拆分“云科技”与“金融科技”两大板块",
-        "url": "https://m.36kr.com/newsflashes/4063722249196672",
-        "desc": "据市场消息，京东科技上周内部官宣重大架构调整：公司正式拆分为“云科技”与“金融科技”两大板块，均与京东零售平级。其中，“云科技”一号位为徐丰。公开信息显示，徐丰是京东集团副总裁、原京东科技数字城市群总裁。2023年1月，京东科技进行组织架构调整，设立“一部三中心”，徐丰由原京东科技数字城市群总裁变动为京东科技销售中心负责人；2023年4月，徐丰升任京东科技总裁，向CEO李娅云汇报。2025年3月，时任京东集团副总裁、京东科技总裁的徐丰由M4-1晋升为M4-2。与此同时，京东探索研究院也被拆分，JoyAI、AI算法等核心部门整体并入云科技，并单列为一个C1部门。对于上述消息，向京东官方求证，截至发稿暂无回应。（新浪科技）",
-        "cover": "",
-        "date": 1794301922436,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "常山药业：肝素钠注射液获玻利维亚药品注册证书",
-        "url": "https://m.36kr.com/newsflashes/4063720280544136",
-        "desc": "36氪获悉，常山药业公告，公司药品肝素钠注射液获得玻利维亚药品监督管理部门签发的药品注册证书。肝素钠注射液主要用于防治血栓形成或栓塞性疾病（如心肌梗塞、血栓性静脉炎、肺栓塞等）；各种原因引起的弥漫性血管内凝血（DIC）；也用于血液透析、体外循环、导管术、微血管手术等操作过程及某些血液标本或器械的抗凝处理。",
-        "cover": "",
-        "date": 1794301802279,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "金地集团：10月实现签约金额17.5亿元，同比下降8.85%",
-        "url": "https://m.36kr.com/newsflashes/4063714923500677",
-        "desc": "36氪获悉，金地集团公告，2026年10月公司实现签约面积11万平方米，同比下降40.22%；实现签约金额17.5亿元，同比下降8.85%。2026年1—10月公司累计实现签约面积108.7万平方米，同比下降44.99%；累计实现签约金额153.5亿元，同比下降41.19%。",
-        "cover": "",
-        "date": 1794301475311,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "现货黄金日内跌幅扩大至1%",
-        "url": "https://m.36kr.com/newsflashes/4063713848431751",
-        "desc": "36氪获悉，现货黄金日内跌幅扩大至1%，报4099.33美元/盎司。",
-        "cover": "",
-        "date": 1794301409694,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "新开普：拟3000万元—6000万元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4063710756852610",
-        "desc": "36氪获悉，新开普公告，拟3000万元—6000万元回购公司股份，用于股权激励或员工持股计划，回购股份价格不超过12.37元/股。",
-        "cover": "",
-        "date": 1794301220999,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794306362922,
-    "bilibili": 1794306372311,
-    "qbitai": 1794277593383,
-    "36kr": 1794277593831
+    "thepaper": 1794307263044,
+    "bilibili": 1794306274168,
+    "qbitai": 1794278494170,
+    "36kr": 1794278494562
   },
   "failures": {}
 }
