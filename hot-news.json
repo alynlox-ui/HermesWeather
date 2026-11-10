@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T22:27:15Z",
+  "updatedAt": "2026-11-09T22:41:28Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -22,26 +22,26 @@
         "rank": 3
       },
       {
-        "title": "全国多所学校推迟到校时间，要解决什么问题",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34411425",
-        "desc": "",
-        "rank": 4
-      },
-      {
         "title": "四川泸州“花坛藏尸案”一审宣判：陈某芬被判死刑，其前夫被判死缓",
         "url": "https://www.thepaper.cn/newsDetail_forward_34443324",
         "desc": "",
-        "rank": 5
+        "rank": 4
       },
       {
         "title": "安踏品牌前CEO徐阳回应辞职出国：陪孩子读书并非退休，未来会回归“带兵打仗”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34438274",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "马上评｜便民电梯不能沦为中看不中用的“花瓶”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34438071",
+        "desc": "",
+        "rank": 6
+      },
+      {
+        "title": "多位车主投诉比亚迪大唐前后轮毂装反，比亚迪客服：收到相关反馈，可至附近4S店检查",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34440618",
         "desc": "",
         "rank": 7
       },
@@ -52,56 +52,56 @@
         "rank": 8
       },
       {
-        "title": "多位车主投诉比亚迪大唐前后轮毂装反，比亚迪客服：收到相关反馈，可至附近4S店检查",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34440618",
-        "desc": "",
-        "rank": 9
-      },
-      {
         "title": "人民锐评：环卫工电子工牌惹争议，网民在讨论什么？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34439984",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "杭州临平警方：一店铺发生刑案2人死亡，嫌犯畏罪自杀身亡",
         "url": "https://www.thepaper.cn/newsDetail_forward_34440148",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "分析｜10月CPI同比涨幅回落至0.7%，下阶段走势如何？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34439524",
         "desc": "",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "祸不单行的英伟达，从1140万美元货物失踪说起｜907编辑室",
         "url": "https://www.thepaper.cn/newsDetail_forward_34439625",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "“粮食、农业与健康日”领衔COP31首日，主席国呼吁兑现气候承诺",
         "url": "https://www.thepaper.cn/newsDetail_forward_34440145",
         "desc": "",
-        "rank": 14
+        "rank": 13
       },
       {
         "title": "视频丨攻击-11首次实弹攻击，首发命中！细节揭秘",
         "url": "https://www.thepaper.cn/newsDetail_forward_34440282",
         "desc": "",
-        "rank": 15
+        "rank": 14
       },
       {
         "title": "马上评｜澳门，何以对话世界",
         "url": "https://www.thepaper.cn/newsDetail_forward_34440593",
         "desc": "",
-        "rank": 16
+        "rank": 15
       },
       {
         "title": "进博之问｜“小叶子”一届接一届，青年一代在这里看见了什么？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34436744",
+        "desc": "",
+        "rank": 16
+      },
+      {
+        "title": "专访联合国减灾署负责人：历史经验已不再是“可靠指南”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34411944",
         "desc": "",
         "rank": 17
       },
@@ -112,14 +112,14 @@
         "rank": 18
       },
       {
-        "title": "专访联合国减灾署负责人：历史经验已不再是“可靠指南”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34411944",
+        "title": "菲律宾外交部罕见声明批“个别官员涉华言论”：勿自行主导外交政策",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34439288",
         "desc": "",
         "rank": 19
       },
       {
-        "title": "菲律宾外交部罕见声明批“个别官员涉华言论”：勿自行主导外交政策",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34439288",
+        "title": "王楚钦发文反思总结，此前0-3不敌队友无缘法兰克福冠军赛八强",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34439207",
         "desc": "",
         "rank": 20
       }
@@ -382,10 +382,20 @@
         "hotTitle": "十二年鬼畜热梗合集"
       },
       {
-        "title": "文班三分线外起步上篮",
-        "url": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%B8%89%E5%88%86%E7%BA%BF%E5%A4%96%E8%B5%B7%E6%AD%A5%E4%B8%8A%E7%AF%AE",
+        "title": "地球人请勿模仿！文班亚马三分线外三步上篮😱",
+        "url": "https://www.bilibili.com/video/BV1UHWM6YEQE",
         "desc": "",
-        "rank": 17
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1UHWM6YEQE",
+        "author": "NBA",
+        "duration": "0:38",
+        "cover": "//i1.hdslb.com/bfs/archive/10ef719d9525840008e91f7494653c7a661a4cd2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UHWM6YEQE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "文班三分线外起步上篮"
       },
       {
         "title": "灭建国的爸爸叫什么",
@@ -468,10 +478,20 @@
         "hotTitle": "BLG为什么能够战胜T1"
       },
       {
-        "title": "韩国人如何评价BLG战胜T1",
-        "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7BLG%E6%88%98%E8%83%9CT1",
+        "title": "韩网气疯了！BLG你要干什么！韩国人怎么评价BLG战胜T1 创造新的历史？英雄联盟 电子竞技 s16 多兰 bin",
+        "url": "https://www.bilibili.com/video/BV1rjW86jEbX",
         "desc": "",
-        "rank": 23
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "素材若有问题会修改/문제시 삭제",
+        "content": "素材若有问题会修改/문제시 삭제",
+        "bvid": "BV1rjW86jEbX",
+        "author": "辉锅_",
+        "duration": "5:4",
+        "cover": "//i1.hdslb.com/bfs/archive/20de85d9160ee291ae651bcfc0a71c085e9245fe.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rjW86jEbX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "韩国人如何评价BLG战胜T1"
       },
       {
         "title": "30岁的Faker，他只是输给了时间",
@@ -910,6 +930,76 @@
         "rank": 2
       },
       {
+        "title": "本田汽车预计本财年全球汽车销量316万辆，此前预测为339万辆",
+        "url": "https://m.36kr.com/newsflashes/4063572625970056",
+        "desc": "本田汽车表示，本财年亚洲汽车销量预计为58.5万辆，此前预测为81.5万辆；预计本财年全球汽车销量316万辆，此前预测为339万辆。（财联社）",
+        "cover": "",
+        "date": 1794292790159,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "本田上半财年净利润为5168亿日元，同比增长65.7%",
+        "url": "https://m.36kr.com/newsflashes/4063570622125191",
+        "desc": "11月10日，本田汽车公布截至2026年9月30日的2026财年上半年业绩。报告期内，公司销售收入为12.04万亿日元，同比增长13.2%；营业利润为6487亿日元，同比增长48.1%；税前利润为7409亿日元，同比增长40.5%；归属于母公司所有者的净利润为5168亿日元，同比增长65.7%。本田同时调整2026财年全年业绩预期，预计销售收入为24.4万亿日元，同比增长11.9%，高于此前预期；预计营业利润为7800亿日元，归属于母公司所有者的净利润为5000亿日元。公司预计全年每股收益为128.44日元。（界面）",
+        "cover": "",
+        "date": 1794292667854,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "英飞凌上调AI相关销售预期，受益于数据中心扩产计划",
+        "url": "https://m.36kr.com/newsflashes/4063570254435461",
+        "desc": "英飞凌科技股份公司上调2027财年数据中心业务销售额预期至约40亿欧元，表示看好该业务拉动增长。公司预计，依托数据中心与电动出行领域功率芯片，2027财年营收和盈利能力将大幅提升。英飞凌计划投入30亿至35亿欧元，主要用于德国德累斯顿基地扩产设备采购以及马来西亚碳化硅产能扩建。（新浪财经）",
+        "cover": "",
+        "date": 1794292645412,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "天猫双11迎来即时零售增长小高峰：淘宝闪购今年超50万商家参与，上千个零售品牌交易翻倍",
+        "url": "https://m.36kr.com/newsflashes/4063568177091463",
+        "desc": "随着近期全国各大城市陆续降温，生活类即时零售消费显著上升。天猫双11在近日也激发了即时零售增长小高峰。淘宝闪购数据显示，在立冬周末，935个零售品牌交易较天猫双11开启前翻倍，鲜食熟食、母婴、家用电器、居家日用品等多个品类爆发超去年、同比增长超过七成。据悉，今年天猫双11，淘宝闪购上有超50万零售品牌商家参与活动，覆盖全量业态。仅在上个周末，就有935个零售品牌成交额相比双11前增长超过100%。",
+        "cover": "",
+        "date": 1794292518621,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "广汽集团在遵义成立新销售服务公司，注册资本2000万",
+        "url": "https://m.36kr.com/newsflashes/4063567275283337",
+        "desc": "36氪获悉，天眼查App显示，近日，遵义长黔汽车销售服务有限公司成立，法定代表人为江思翊，注册资本2000万元人民币，经营范围包括汽车销售、新能源汽车整车销售、汽车零配件零售等。股东信息显示，该公司由广汽集团旗下广汽商贸有限公司全资持股。",
+        "cover": "",
+        "date": 1794292463579,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "我国已牵头制定25项医疗器械领域国际标准",
+        "url": "https://m.36kr.com/newsflashes/4063563787523200",
+        "desc": "从国家标准委了解到，今年以来，由我国提出的7项医疗器械领域国际标准提案获国际标准化组织（ISO）批准立项，数量创历史同期新高。截至目前，我国已牵头制定25项医疗器械领域国际标准，涵盖人工智能医疗器械、心血管植入物、组织工程医疗器械、基因测序等多个方面，不仅协调规范了全球相关技术内容，也进一步拓宽了我国生物医药产业的发展空间。其中11项标准已发布，14项正有序推进。（央视新闻）",
+        "cover": "",
+        "date": 1794292250703,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
+        "title": "京东京喜发布三周年成绩单：用户数超6亿",
+        "url": "https://m.36kr.com/newsflashes/4063561723827329",
+        "desc": "36氪获悉，京东旗下特价购物品牌京喜发布三周年成绩单，宣布累计成交用户数已达6.28亿，其中京喜自营累计成交用户数5.6亿。据了解，京喜2026年交易额同比去年增长50%，同时为京东带来1亿新用户，三年累计为京东带来超3亿新用户。",
+        "cover": "",
+        "date": 1794292124745,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 9
+      },
+      {
         "title": "铃木汽车下调全年税前利润预期",
         "url": "https://m.36kr.com/newsflashes/4063559322555527",
         "desc": "11月10日，日本汽车制造商铃木汽车宣布下调截至2027年3月财年的税前利润预测，主要由于原材料成本上涨预计将抵消汽车销量增长带来的收益。公司将全年税前利润预期从7200亿日元下调至6900亿日元，较上一财年下降5.6%。不过，铃木维持全年营业利润及净利润指引不变，分别预计为5400亿日元和4200亿日元，同比分别下降13.3%和4.4%。销量方面，公司将全年全球汽车销量预期上调至370万辆，较此前预测增加12.2万辆，同比增长11.5%，主要受印度市场需求增长推动。（新浪财经）",
@@ -917,7 +1007,7 @@
         "date": 1794291978183,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 10
       },
       {
         "title": "荷兰10月通胀率升至3.7%，天然气价格同比上涨11.7%",
@@ -927,7 +1017,7 @@
         "date": 1794291076558,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 11
       },
       {
         "title": "LV集团旗下路威凯腾等在上海成立新企业管理合伙企业，出资额约3.1亿",
@@ -937,7 +1027,7 @@
         "date": 1794290553820,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 12
       },
       {
         "title": "荣耀在深圳成立奇点智能科技公司，注册资本1亿",
@@ -947,7 +1037,7 @@
         "date": 1794290307000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 13
       },
       {
         "title": "三星电子称已支持1000家初创公司，助力吸引2.2万亿韩元投资",
@@ -957,7 +1047,7 @@
         "date": 1794289812000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 14
       },
       {
         "title": "贵金属价格波动，中国金币集团发布风险提示",
@@ -967,7 +1057,7 @@
         "date": 1794289360000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 15
       },
       {
         "title": "台交所加权股价指数收高2.52%",
@@ -977,7 +1067,7 @@
         "date": 1794289226600,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 16
       },
       {
         "title": "台积电：10月销售额5868.9亿元台币，同比增长59.7%",
@@ -987,7 +1077,7 @@
         "date": 1794288723915,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 17
       },
       {
         "title": "新加坡推出面向海外央行及官方机构的黄金托管服务",
@@ -997,7 +1087,7 @@
         "date": 1794288375000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 18
       },
       {
         "title": "四部门发文：加强创新药安全合理配备使用",
@@ -1007,7 +1097,7 @@
         "date": 1794287823000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 19
       },
       {
         "title": "沪深两市成交额突破1万亿，较上一日此时缩量超500亿",
@@ -1017,7 +1107,7 @@
         "date": 1794287488151,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 20
       },
       {
         "title": "Anthropic据报曾向银行家发送后撤回IPO申报文件定价信息",
@@ -1027,7 +1117,7 @@
         "date": 1794287383000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 21
       },
       {
         "title": "全球芯片LOF于今日下午开市起停牌至收市",
@@ -1037,85 +1127,15 @@
         "date": 1794287072664,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
-      },
-      {
-        "title": "俄外长称与美国柴油协议已推动价格下跌",
-        "url": "https://m.36kr.com/newsflashes/4063439283721345",
-        "desc": "俄罗斯外交部长谢尔盖·拉夫罗夫在周二发表的一篇文章中表示，俄罗斯向美国及全球市场供应柴油的相关协议已经开始发挥作用，并正在推动柴油价格下跌。“自2022年以来，我们已向欧洲供应了价值3200亿美元的能源资源，”拉夫罗夫写道。“俄美两国领导人就暂停对俄罗斯柴油出口的限制所达成的协议，为能源安全做出了重要贡献。我们已经开始落实该协议，这立即促使价格出现了回落。”（新浪财经）",
-        "cover": "",
-        "date": 1794286802000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 16
-      },
-      {
-        "title": "宁波舟山港年集装箱吞吐量再破4000万箱",
-        "url": "https://m.36kr.com/newsflashes/4063433972126856",
-        "desc": "11月10日，宁波舟山港年集装箱吞吐量突破4000万标箱，这是继2025年首次跨越“4000万箱”里程碑后，宁波舟山港连续第二年站上这一高度，较去年提前了22天。目前，宁波舟山港集装箱航线已超310条，连接全球200多个国家和地区的700多个港口，港口连通性指数位居全球第二。（央视新闻）",
-        "cover": "",
-        "date": 1794286477000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 17
-      },
-      {
-        "title": "日本芯片企业Rapidus或无法按期实现2纳米芯片量产目标",
-        "url": "https://m.36kr.com/newsflashes/4063435493856131",
-        "desc": "据报道，获得日本政府支持的芯片制造商Rapidus已落后于原定进度，可能无法按计划于2028年3月前实现先进芯片量产。据悉，该公司尚未成功制造出可正常运行的静态随机存取存储器（SRAM）单元，而这是生产2纳米芯片的关键环节，原计划应于今年夏季完成。受此影响，Rapidus至少已落后数月。报道称，若技术进展出现重大延误，可能影响政府对该公司的支持，并推迟其原定于2032年上市的计划。Rapidus发言人表示，公司仍在全力推进于2027财年下半年启动量产的目标，并称技术研发细节属于机密。（界面）",
-        "cover": "",
-        "date": 1794286144000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "百度在广州成立健康科技公司，注册资本2000万",
-        "url": "https://m.36kr.com/newsflashes/4063432846791815",
-        "desc": "36氪获悉，天眼查App显示，近日，广州百度健康科技有限公司成立，法定代表人为王俊峰，注册资本2000万元人民币，经营范围含软件开发、医学研究和试验发展、健康咨询服务等。股东信息显示，该公司由北京百度网讯科技有限公司全资持股。",
-        "cover": "",
-        "date": 1794285627000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "宁德时代董事长曾毓群淡化公司规模过大的担忧",
-        "url": "https://m.36kr.com/newsflashes/4063431525815428",
-        "desc": "宁德时代董事长曾毓群表示，客户需要“更多、更便宜的电池”，并淡化外界对于这家动力电池巨头规模过大的担忧。曾毓群在上海出席Benchmark Mineral Intelligence会议期间接受采访时表示，宁德时代变得过于庞大“并不令人担忧”。宁德时代正努力降低电池价格，以覆盖更多消费者。他表示，公司可以继续服务其所称的“高端”市场，同时其他细分市场将出现更多供应商。（新浪财经）",
-        "cover": "",
-        "date": 1794285129000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "厦金大桥（厦门段）海上主线桥贯通，预计今年底建成通车",
-        "url": "https://m.36kr.com/newsflashes/4063423088366729",
-        "desc": "今天（11月10日）凌晨，厦金大桥（厦门段）海上主线桥顺利合龙，标志着厦金大桥（厦门段）海上主线桥主体结构建设完成，项目进入通车前的收尾阶段。厦金大桥（厦门段）全长约19.6公里，包括海上主线桥、支线桥和陆地隧道等工程。其中主线全长17.34公里，跨海段为双向8车道，设计时速100公里。预计今年底海上主线桥建成通车后，厦门本岛至大嶝岛的通行时间将进一步缩短，实现本岛至翔安国际机场通行效率大幅提升。（央视新闻）",
-        "cover": "",
-        "date": 1794284794000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "Anthropic据悉计划为IPO举行直播活动，让公司CEO与摩根大通CEO对谈",
-        "url": "https://m.36kr.com/newsflashes/4063420263928967",
-        "desc": "据知情人士透露，Anthropic计划举行一场直播活动，让公司联合创始人兼首席执行官达里奥·阿莫代伊与摩根大通首席执行官杰米·戴蒙讨论这家Claude聊天机器人开发商的IPO。该安排是Anthropic为其可能创下纪录的IPO开展的推介活动之一。此前有报道称，这宗IPO预计最早于周二早上正式开始推介，然后在美国感恩节假期前定价并登陆纳斯达克。前述知情人士称，阿莫代伊与戴蒙的对谈料将于当地时间周五午餐时间前后在纽约举行，形式将类似于今年6月马斯克为862亿美元SpaceX上市交易举办的活动，但规模不会那么大。（新浪财经）",
-        "cover": "",
-        "date": 1794284383000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794291963368,
-    "bilibili": 1794291972390,
-    "qbitai": 1794263235018,
-    "36kr": 1794263235382
+    "thepaper": 1794292863192,
+    "bilibili": 1794291860068,
+    "qbitai": 1794264088168,
+    "36kr": 1794264088510
   },
   "failures": {}
 }
