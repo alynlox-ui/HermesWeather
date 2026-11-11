@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:57:16Z",
+  "updatedAt": "2026-11-11T05:11:37Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -142,10 +142,20 @@
         "hotTitle": "BLG赛事语音 我们去决赛吧"
       },
       {
-        "title": "人民空军发展史",
-        "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E5%8F%91%E5%B1%95%E5%8F%B2",
+        "title": "【装备研究所 Vol.004】人民空军发展史",
+        "url": "https://www.bilibili.com/video/BV1atWt6cEoB",
         "desc": "",
-        "rank": 2
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1atWt6cEoB",
+        "author": "极速军情",
+        "duration": "17:2",
+        "cover": "//i2.hdslb.com/bfs/archive/2cc5b5b21124346b0ef6f42e22526cce91e539c7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1atWt6cEoB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "人民空军发展史"
       },
       {
         "title": "一场信任危机是如何毁掉汉密尔顿巴西站比赛的",
@@ -228,10 +238,20 @@
         "hotTitle": "央视曝光MCN签约陷阱"
       },
       {
-        "title": "星铁4.7阿哈实况",
-        "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%814.7%E9%98%BF%E5%93%88%E5%AE%9E%E5%86%B5",
+        "title": "「玄学抽卡」阿哈 崩坏星穹铁道 抽卡仪式感 吉时：酉时",
+        "url": "https://www.bilibili.com/video/BV1nE4z6mEDu",
         "desc": "",
-        "rank": 8
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1nE4z6mEDu",
+        "author": "兔子你掉毛么",
+        "duration": "1:43",
+        "cover": "//i1.hdslb.com/bfs/archive/301fa125e85b924bbb6e4bacb2e3916d5f5df583.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nE4z6mEDu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "星铁4.7阿哈实况"
       },
       {
         "title": "我们找来了一些香水感受了一下…",
@@ -1112,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794401765378,
+    "thepaper": 1794402665167,
     "bilibili": 1794401119974,
-    "qbitai": 1794373036057,
-    "36kr": 1794373036509
+    "qbitai": 1794373896638,
+    "36kr": 1794373897156
   },
   "failures": {}
 }
