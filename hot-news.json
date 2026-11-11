@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T05:57:34Z",
+  "updatedAt": "2026-11-11T06:11:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,20 @@
     ],
     "bilibili": [
       {
-        "title": "BLG赛事语音 我们去决赛吧",
-        "url": "https://search.bilibili.com/all?keyword=BLG%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3%20%E6%88%91%E4%BB%AC%E5%8E%BB%E5%86%B3%E8%B5%9B%E5%90%A7",
+        "title": "BLG 赛事语音 | 击败心魔，我们去决赛吧！",
+        "url": "https://www.bilibili.com/video/BV1npW16tE1e",
         "desc": "",
-        "rank": 1
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "不为过往所困，今朝我必乘风！决赛见！(因素材原因，部分语音与游戏画面可能存在错位。)",
+        "content": "不为过往所困，今朝我必乘风！决赛见！(因素材原因，部分语音与游戏画面可能存在错位。)",
+        "bvid": "BV1npW16tE1e",
+        "author": "BLG电子竞技俱乐部",
+        "duration": "10:55",
+        "cover": "//i0.hdslb.com/bfs/archive/15d60940c98ee5cb17a64d3e3f2514132cc38ef0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1npW16tE1e&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG赛事语音 我们去决赛吧"
       },
       {
         "title": "【装备研究所 Vol.004】人民空军发展史",
@@ -148,10 +158,20 @@
         "hotTitle": "人民空军发展史"
       },
       {
-        "title": "号称抗癌食物能代替药物吗",
-        "url": "https://search.bilibili.com/all?keyword=%E5%8F%B7%E7%A7%B0%E6%8A%97%E7%99%8C%E9%A3%9F%E7%89%A9%E8%83%BD%E4%BB%A3%E6%9B%BF%E8%8D%AF%E7%89%A9%E5%90%97",
+        "title": "【真相来了】芹菜降压、苦瓜降糖、大蒜抗癌……这些食物真能代替药物吗？",
+        "url": "https://www.bilibili.com/video/BV11BW26KE95",
         "desc": "",
-        "rank": 3
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV11BW26KE95",
+        "author": "央视新闻",
+        "duration": "4:59",
+        "cover": "//i2.hdslb.com/bfs/archive/9871d78b36089be581ad0f731df2b9f51a930f53.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11BW26KE95&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "号称抗癌食物能代替药物吗"
       },
       {
         "title": "大家好，我是Smoggy！我入驻B站啦！",
@@ -170,26 +190,36 @@
         "hotTitle": "Smoggy入驻B站啦"
       },
       {
-        "title": "11月份AI行业洞察 | AI的狂欢，为什么是你的寒冬？",
-        "url": "https://www.bilibili.com/video/BV1EFWb6uE5C",
+        "title": "当岗位被AI和算法接管 你该何去何从？“失业缓冲期”首次写入国家文件 能否缓解AI时代的岗位焦虑",
+        "url": "https://www.bilibili.com/video/BV1GQW46dEca",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "AI正在狂欢，为什么越来越多的人却感到了寒意？ 微软裁员、岗位缩水、学历贬值、技术门槛提高……AI越强大，普通人就越有竞争力吗？ AI的春天，不等于你的春天。 本期从AI行业趋势、大厂裁员、人才分化、学历竞争到职业转型，深度剖析AI繁荣背后的就业寒冬，以及未来真正稀缺的能力。",
-        "content": "AI正在狂欢，为什么越来越多的人却感到了寒意？ 微软裁员、岗位缩水、学历贬值、技术门槛提高……AI越强大，普通人就越有竞争力吗？ AI的春天，不等于你的春天。 本期从AI行业趋势、大厂裁员、人才分化、学历竞争到职业转型，深度剖析AI繁荣背后的就业寒冬，以及未来真正稀缺的能力。",
-        "bvid": "BV1EFWb6uE5C",
-        "author": "梗直哥丶",
-        "duration": "33:11",
-        "cover": "//i2.hdslb.com/bfs/archive/74a6f3d9e5ecb91febf009c2c61f3cbdf13ef640.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EFWb6uE5C&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "当AI走入车间与办公室，你的岗位被算法接管，你该何去何从？近日，国办印发文件，“失业缓冲期”首次写入国家级政策。这份新规，直面一个愈发真切的拷问：AI上岗之后，劳动者该去往何处。 这标志着，面对人工智能带来的岗位冲击，治理思路正从个案维权，迈向制度化的前置安排。在此之前，杭州一起案例：一名AI质检主管，企业以人工智能可替代其工作为由，对他降薪、解除合同。法院明确裁判：仅为压缩成本引入AI，不属于法定的客观情况重大变化，企业构成违法解除，赔付26万元。 一纸判决，守住事后维权的底线；失业缓冲期，则向前探",
+        "content": "当AI走入车间与办公室，你的岗位被算法接管，你该何去何从？近日，国办印发文件，“失业缓冲期”首次写入国家级政策。这份新规，直面一个愈发真切的拷问：AI上岗之后，劳动者该去往何处。 这标志着，面对人工智能带来的岗位冲击，治理思路正从个案维权，迈向制度化的前置安排。在此之前，杭州一起案例：一名AI质检主管，企业以人工智能可替代其工作为由，对他降薪、解除合同。法院明确裁判：仅为压缩成本引入AI，不属于法定的客观情况重大变化，企业构成违法解除，赔付26万元。 一纸判决，守住事后维权的底线；失业缓冲期，则向前探",
+        "bvid": "BV1GQW46dEca",
+        "author": "看看新闻Knews",
+        "duration": "1:41",
+        "cover": "//i0.hdslb.com/bfs/archive/db2c32fa7fbf2c4ca07ab0c457fdd476b81d49c8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GQW46dEca&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "AI时代做科研为什么更累了"
       },
       {
-        "title": "8个场景实测Gemini 4 Carbon",
-        "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%204%20Carbon",
+        "title": "Gemini 4 Carbon 实测：Ultra 才能用，到底值不值？",
+        "url": "https://www.bilibili.com/video/BV1tjWm6gEtm",
         "desc": "",
-        "rank": 6
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1tjWm6gEtm",
+        "author": "神烦老狗",
+        "duration": "14:8",
+        "cover": "//i1.hdslb.com/bfs/archive/642f653f6ed985d95031aab53640fa59a9af2cee.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tjWm6gEtm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "8个场景实测Gemini 4 Carbon"
       },
       {
         "title": "不败金身破灭！战胜心魔！复盘BLG战胜T1晋级决赛！",
@@ -208,19 +238,19 @@
         "hotTitle": "BLG如何打乱T1节奏晋级决赛"
       },
       {
-        "title": "“加更很精彩”王楚然演出了刻薄,氛围感聊天传声筒游戏笑料十足,李昀锐向佐上身可爱搞笑|5期加更|",
-        "url": "https://www.bilibili.com/video/BV1PXWu6wEWt",
+        "title": "锐评折月亮：不要再把巨婴当内向了！舌头打结还碰瓷up主，既要一地鸡毛又要浪漫满屋",
+        "url": "https://www.bilibili.com/video/BV1WDWt6LEKD",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1PXWu6wEWt",
-        "author": "XIAODI剪",
-        "duration": "2:49",
-        "cover": "//i0.hdslb.com/bfs/archive/7935348e5eff60c4722df9aec641d44ffec451a2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PXWu6wEWt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "球球喜欢这期视频的朋友给浮生三连一波点点关注，谢谢大家么么么",
+        "content": "球球喜欢这期视频的朋友给浮生三连一波点点关注，谢谢大家么么么",
+        "bvid": "BV1WDWt6LEKD",
+        "author": "浮生若梦六事休",
+        "duration": "16:24",
+        "cover": "//i0.hdslb.com/bfs/archive/42c7aaf064e2bbb21dc6b09f1e09fc61689da616.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WDWt6LEKD&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "近期国产剧笑料盘点"
       },
       {
@@ -336,20 +366,10 @@
         "hotTitle": "狗尾草表情包是什么梗"
       },
       {
-        "title": "跨越3500公里探秘亚洲第一商场！居然在这个国家？",
-        "url": "https://www.bilibili.com/video/BV1ViW36DErN",
+        "title": "LKS探秘亚洲第一商场",
+        "url": "https://search.bilibili.com/all?keyword=LKS%E6%8E%A2%E7%A7%98%E4%BA%9A%E6%B4%B2%E7%AC%AC%E4%B8%80%E5%95%86%E5%9C%BA",
         "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "每次在网上刷到关于哪个商场好的讨论，总能看到有很多人说暹罗天地。但我一直很疑惑：为啥亚洲最好的商场会开在泰国？难道那么多大城市都比不过曼谷吗？所以这次我去拍了一期实测视频，发现确实有些出人意料的地方... ⚠本视频不含广告，且和任何机构均没有合作，所有差旅都是自费 ⚠本视频不构成旅游安利or出行建议，因为去的这几天我除了酒店和商场哪也没去，同时建议各位去任何国家前请仔细阅读当地大使馆的安全须知 Broll BGM： Black Prez _ Wake The Lion - Rise To The To",
-        "content": "每次在网上刷到关于哪个商场好的讨论，总能看到有很多人说暹罗天地。但我一直很疑惑：为啥亚洲最好的商场会开在泰国？难道那么多大城市都比不过曼谷吗？所以这次我去拍了一期实测视频，发现确实有些出人意料的地方... ⚠本视频不含广告，且和任何机构均没有合作，所有差旅都是自费 ⚠本视频不构成旅游安利or出行建议，因为去的这几天我除了酒店和商场哪也没去，同时建议各位去任何国家前请仔细阅读当地大使馆的安全须知 Broll BGM： Black Prez _ Wake The Lion - Rise To The To",
-        "bvid": "BV1ViW36DErN",
-        "author": "-LKs-",
-        "duration": "24:5",
-        "cover": "//i1.hdslb.com/bfs/archive/437e80096a537b8b8b63af5da0b80ad718da6f33.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ViW36DErN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "LKS探秘亚洲第一商场"
+        "rank": 16
       },
       {
         "title": "78分钟硬科幻AI电影《孤鲸》，华语科幻星云奖最佳短篇小说改编",
@@ -1102,10 +1122,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794405364275,
+    "thepaper": 1794406265486,
     "bilibili": 1794404722884,
-    "qbitai": 1794376654406,
-    "36kr": 1794376654818
+    "qbitai": 1794377496001,
+    "36kr": 1794377496421
   },
   "failures": {}
 }
