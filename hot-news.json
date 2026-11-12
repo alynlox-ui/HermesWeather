@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T05:12:39Z",
+  "updatedAt": "2026-11-12T05:26:41Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -10,50 +10,50 @@
         "rank": 1
       },
       {
-        "title": "见微知沪｜上海交警英语执法“走红”，值得点赞的不只是口语",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34453911",
-        "desc": "",
-        "rank": 2
-      },
-      {
         "title": "原四川长虹电子集团有限公司党委书记、董事局主席倪润峰逝世",
         "url": "https://www.thepaper.cn/newsDetail_forward_34455672",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "媒体：四年跑步570公里才能毕业？四川一高校回应",
         "url": "https://www.thepaper.cn/newsDetail_forward_34455512",
         "desc": "",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "“甲醛白菜”案等18起涉食品安全重大犯罪案件被挂牌督办",
         "url": "https://www.thepaper.cn/newsDetail_forward_34459136",
         "desc": "",
-        "rank": 5
+        "rank": 4
       },
       {
         "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
         "url": "https://www.thepaper.cn/newsDetail_forward_34458880",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "00后女作家被判定涉嫌洗稿，《人民文学》再度声明追回稿酬并向读者致歉",
         "url": "https://www.thepaper.cn/newsDetail_forward_34458009",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖",
         "url": "https://www.thepaper.cn/newsDetail_forward_34458622",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "财晓得｜“AI恶意使用”为何屡禁不止？34起判决里的治理账",
         "url": "https://www.thepaper.cn/newsDetail_forward_34395707",
+        "desc": "",
+        "rank": 8
+      },
+      {
+        "title": "马上评｜明星起诉短剧“偷脸”，AI用脸的边界在哪？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34459124",
         "desc": "",
         "rank": 9
       },
@@ -76,26 +76,26 @@
         "rank": 12
       },
       {
+        "title": "重庆梁平：“饭店老板为连吃7碗米饭母女放钱”视频系摆拍，已立案调查",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34459574",
+        "desc": "",
+        "rank": 13
+      },
+      {
         "title": "业内人士谈金鸡奖获奖名单：不能以一时的流量热度取代艺术判断",
         "url": "https://www.thepaper.cn/newsDetail_forward_34455070",
         "desc": "",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "U20中青赛决赛生乱：球迷看台冲突，球童拿走水瓶遭围堵",
         "url": "https://www.thepaper.cn/newsDetail_forward_34458119",
         "desc": "",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "美防长一行人在美国无名烈士墓前交谈大笑，哨兵高声训斥",
         "url": "https://www.thepaper.cn/newsDetail_forward_34458306",
-        "desc": "",
-        "rank": 15
-      },
-      {
-        "title": "重庆梁平：“饭店老板为连吃7碗米饭母女放钱”视频系摆拍，已立案调查",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34459574",
         "desc": "",
         "rank": 16
       },
@@ -126,54 +126,84 @@
     ],
     "bilibili": [
       {
-        "title": "曼联官宣主教练卡里克离任",
-        "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%AE%98%E5%AE%A3%E4%B8%BB%E6%95%99%E7%BB%83%E5%8D%A1%E9%87%8C%E5%85%8B%E7%A6%BB%E4%BB%BB",
+        "title": "快问快答:浅谈卡里克下课，波切蒂诺上任",
+        "url": "https://www.bilibili.com/video/BV1G4WU6pETG",
         "desc": "",
-        "rank": 1
-      },
-      {
-        "title": "圆脸连线日韩专家聊国际秩序转变",
-        "url": "https://www.bilibili.com/video/BV1XiWR6zEqs",
-        "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1XiWR6zEqs",
-        "author": "飞毛腿_摩根",
-        "duration": "4:22",
-        "cover": "//i0.hdslb.com/bfs/archive/2b09724862b7406499e0a87ac8fe89fd7a3b4396.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XiWR6zEqs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "圆脸连线日韩专家聊国际秩序转变"
+        "bvid": "BV1G4WU6pETG",
+        "author": "王楚淇解说",
+        "duration": "2:8",
+        "cover": "//i1.hdslb.com/bfs/archive/2d078de5b50db3cadca4b62c89676131b6fcab3b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1G4WU6pETG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "曼联官宣主教练卡里克离任"
       },
       {
-        "title": "郭本尼后会友期在线拉架",
-        "url": "https://search.bilibili.com/all?keyword=%E9%83%AD%E6%9C%AC%E5%B0%BC%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%9C%A8%E7%BA%BF%E6%8B%89%E6%9E%B6",
+        "title": "【BLG决赛应援曲】《海阔天空》⚡传奇亦能踏过~⚡我要高唱我歌~⚡",
+        "url": "https://www.bilibili.com/video/BV19aWX6eEAC",
         "desc": "",
-        "rank": 3
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV19aWX6eEAC",
+        "author": "往事在未来",
+        "duration": "6:5",
+        "cover": "//i0.hdslb.com/bfs/archive/b09c9826342cdfb79c519dbe31928f31b340a70f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19aWX6eEAC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG决赛应援曲海阔天空"
       },
       {
-        "title": "波切蒂诺会给曼联带来什么变化",
-        "url": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E4%BC%9A%E7%BB%99%E6%9B%BC%E8%81%94%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96",
+        "title": "学姐，毕业快乐！# 卡黄 # 郭本尼 # snh4",
+        "url": "https://www.bilibili.com/video/BV1aS4s6FEZT",
         "desc": "",
-        "rank": 4
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1aS4s6FEZT",
+        "author": "影视古装剪辑",
+        "duration": "0:32",
+        "cover": "//i1.hdslb.com/bfs/archive/485572904c7700e58af0a4c33a26336ea2a9fd79.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aS4s6FEZT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "郭本尼后会友期在线拉架"
       },
       {
-        "title": "什么叫买不到10米长的USB线？🤔️我拿延长线硬接过去不行吗？ 【柴知道】",
-        "url": "https://www.bilibili.com/video/BV1NEW16wEGN",
+        "title": "【玩机器】Spirit vs G2 BLAST Rivals 2026 Season 2 直播录像（弹幕版）",
+        "url": "https://www.bilibili.com/video/BV1U1WR6YEEY",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "欲渡黄河冰塞川 将登太行雪满山。6657upup！",
+        "content": "欲渡黄河冰塞川 将登太行雪满山。6657upup！",
+        "bvid": "BV1U1WR6YEEY",
+        "author": "这里是小天啊",
+        "duration": "85:40",
+        "cover": "//i0.hdslb.com/bfs/archive/dac1efb6a2991701948dea46ba018a4d8258ad1e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1U1WR6YEEY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Spirit vs G2 香港对抗赛"
+      },
+      {
+        "title": "曼联解雇卡里克很及时！波切蒂诺并不菜！这次换帅负负得正？",
+        "url": "https://www.bilibili.com/video/BV1cwWd6XEAR",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "很多朋友可能都遇到过这个问题：想要连接的设备太远，手里的线不够长，就只能接延长线。然后，你很快就会发现，即便是延长线，最长往往也只有 5 米……距离更远的话，可能就要一根串一根。但这就可能有问题了——USB 线一根串一根后，还能正常工作吗？为什么没有超长的 USB 线？",
-        "content": "很多朋友可能都遇到过这个问题：想要连接的设备太远，手里的线不够长，就只能接延长线。然后，你很快就会发现，即便是延长线，最长往往也只有 5 米……距离更远的话，可能就要一根串一根。但这就可能有问题了——USB 线一根串一根后，还能正常工作吗？为什么没有超长的 USB 线？",
-        "bvid": "BV1NEW16wEGN",
-        "author": "柴知道",
-        "duration": "10:54",
-        "cover": "//i0.hdslb.com/bfs/archive/11caacb80ab533b634178af70aae4db2371f283f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NEW16wEGN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "为什么买不到10米长的USB线"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1cwWd6XEAR",
+        "author": "爱足球的谢宇宁",
+        "duration": "8:50",
+        "cover": "//i2.hdslb.com/bfs/archive/46a41d28bbb407a96487e7b1686d19a38dcc7fc4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cwWd6XEAR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "波切蒂诺会给曼联带来什么变化"
       },
       {
         "title": "smoggy已到BLG训练室，在后排和大伙沉浸式聊天，一起外出笑嘻了！【nephh】",
@@ -192,10 +222,26 @@
         "hotTitle": "BLG Smoggy B站直播首秀"
       },
       {
+        "title": "奶龙：我上电视直播了",
+        "url": "https://www.bilibili.com/video/BV11RWR64EWu",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV11RWR64EWu",
+        "author": "央视新闻",
+        "duration": "5:52",
+        "cover": "//i1.hdslb.com/bfs/archive/fa3de4170403b2b13104c63ca953ed44f92f7d43.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11RWR64EWu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国首个开源鸿蒙智慧演播室亮相"
+      },
+      {
         "title": "底层博弈，上桌翻身！一声妈妈春江王，我是谷雨周海洋！万字细嗦《谷雨》第七期 包含；剧情、细节、镜头语言、隐喻等",
         "url": "https://www.bilibili.com/video/BV1YjWd6GEbd",
         "desc": "",
-        "rank": 7,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "底层博弈，上桌翻身！一声妈妈春江王，我是谷雨周海洋！万字细嗦《谷雨》第七期 包含；剧情、细节、镜头语言、隐喻等",
@@ -208,42 +254,10 @@
         "hotTitle": "如何看懂新剧谷雨中的底层博弈"
       },
       {
-        "title": "【玩机器】Spirit vs G2 BLAST Rivals 2026 Season 2 直播录像（弹幕版）",
-        "url": "https://www.bilibili.com/video/BV1U1WR6YEEY",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "欲渡黄河冰塞川 将登太行雪满山。6657upup！",
-        "content": "欲渡黄河冰塞川 将登太行雪满山。6657upup！",
-        "bvid": "BV1U1WR6YEEY",
-        "author": "这里是小天啊",
-        "duration": "85:40",
-        "cover": "//i0.hdslb.com/bfs/archive/dac1efb6a2991701948dea46ba018a4d8258ad1e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1U1WR6YEEY&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Spirit vs G2 香港对抗赛"
-      },
-      {
-        "title": "【BLG决赛应援曲】《海阔天空》⚡传奇亦能踏过~⚡我要高唱我歌~⚡",
-        "url": "https://www.bilibili.com/video/BV19aWX6eEAC",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV19aWX6eEAC",
-        "author": "往事在未来",
-        "duration": "6:5",
-        "cover": "//i0.hdslb.com/bfs/archive/b09c9826342cdfb79c519dbe31928f31b340a70f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19aWX6eEAC&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG决赛应援曲海阔天空"
-      },
-      {
         "title": "今天好好唠唠云龙，不是姓李的那位~",
         "url": "https://www.bilibili.com/video/BV1CDWD6CERq",
         "desc": "",
-        "rank": 10,
+        "rank": 9,
         "kind": "video",
         "platform": "bilibili",
         "description": "2024年11月12日，歼-35A正式公开亮相，中国空军“双隐身”时代震撼展开。作为新款隐身战机，歼-35A与歼-20如何搭配？未来又将进行哪些关键升级？（新闻直播间）",
@@ -256,52 +270,68 @@
         "hotTitle": "歼-35A与歼-20是如何分工的"
       },
       {
-        "title": "三年之期已到，恭迎世一上归位！【第17集】",
-        "url": "https://www.bilibili.com/video/BV12pWQ6QETV",
+        "title": "什么叫买不到10米长的USB线？🤔️我拿延长线硬接过去不行吗？ 【柴知道】",
+        "url": "https://www.bilibili.com/video/BV1NEW16wEGN",
+        "desc": "",
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "很多朋友可能都遇到过这个问题：想要连接的设备太远，手里的线不够长，就只能接延长线。然后，你很快就会发现，即便是延长线，最长往往也只有 5 米……距离更远的话，可能就要一根串一根。但这就可能有问题了——USB 线一根串一根后，还能正常工作吗？为什么没有超长的 USB 线？",
+        "content": "很多朋友可能都遇到过这个问题：想要连接的设备太远，手里的线不够长，就只能接延长线。然后，你很快就会发现，即便是延长线，最长往往也只有 5 米……距离更远的话，可能就要一根串一根。但这就可能有问题了——USB 线一根串一根后，还能正常工作吗？为什么没有超长的 USB 线？",
+        "bvid": "BV1NEW16wEGN",
+        "author": "柴知道",
+        "duration": "10:54",
+        "cover": "//i0.hdslb.com/bfs/archive/11caacb80ab533b634178af70aae4db2371f283f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NEW16wEGN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "为什么买不到10米长的USB线"
+      },
+      {
+        "title": "一顿海鲜烧烤 吃完没有烦恼#天津美食 #海鲜烧烤 #谁懂这一口的好吃程度 #烟火气",
+        "url": "https://www.bilibili.com/video/BV1zUWy6DE5t",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。",
-        "content": "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。",
-        "bvid": "BV12pWQ6QETV",
-        "author": "九夜听风",
-        "duration": "7:43",
-        "cover": "//i2.hdslb.com/bfs/archive/e87cb787f8e269a99e5831c04c1b91d1f2350e36.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12pWQ6QETV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "世一上短剧之最后一战"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1zUWy6DE5t",
+        "author": "明叔来了",
+        "duration": "3:50",
+        "cover": "//i1.hdslb.com/bfs/archive/3281381348f1aa289c15674cc4829d304130a3b7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zUWy6DE5t&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "天南海北猎奇烧烤大赏"
       },
       {
-        "title": "文明重启：耗时3年，我终于做出了我的第一件铁器",
-        "url": "https://www.bilibili.com/video/BV1z44n6bEpU",
+        "title": "【游戏众生相】传奇之战：我到底应该如何跟你讲述这个故事呢....",
+        "url": "https://www.bilibili.com/video/BV1m4WM6FEJN",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1z44n6bEpU",
-        "author": "萝卜巅疯户外",
-        "duration": "37:32",
-        "cover": "//i2.hdslb.com/bfs/archive/f7c0e81845476f7b40a24d544fff3f44000f9184.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z44n6bEpU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主回归原始手搓铁器"
+        "description": "感谢Niko 感谢海参 感谢ESL官方 感谢猎鹰管理层 感谢6657",
+        "content": "感谢Niko 感谢海参 感谢ESL官方 感谢猎鹰管理层 感谢6657",
+        "bvid": "BV1m4WM6FEJN",
+        "author": "尚在天国EX",
+        "duration": "61:5",
+        "cover": "//i2.hdslb.com/bfs/archive/03afd42fc2f13645ca81cee47f27ce5cb07461c1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1m4WM6FEJN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "CS2传奇之路群像回顾"
       },
       {
-        "title": "这才是《灭霸全家福》原版MV，灭霸的爸爸是灭建国【AIMV大赛】",
-        "url": "https://www.bilibili.com/video/BV1FcWg6dEpa",
+        "title": "谁点名要看我cos德穆兰的？英语总监莅临还不快来迎接！",
+        "url": "https://www.bilibili.com/video/BV1PKWj62ERK",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "这才是《灭霸全家福》原版MV，灭霸的爸爸是灭建国【AIMV大赛】 你们被艾特的都是扎啤 小浣熊 钢铁侠 音频：DJ铁柱 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
-        "content": "这才是《灭霸全家福》原版MV，灭霸的爸爸是灭建国【AIMV大赛】 你们被艾特的都是扎啤 小浣熊 钢铁侠 音频：DJ铁柱 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
-        "bvid": "BV1FcWg6dEpa",
-        "author": "音乐老友",
-        "duration": "1:4",
-        "cover": "//i1.hdslb.com/bfs/archive/5c780ecbddfda6b865a7b11acb3abf4035a67a7c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FcWg6dEpa&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "用AI制作灭霸全家福MV"
+        "description": "",
+        "content": "",
+        "bvid": "BV1PKWj62ERK",
+        "author": "考研英语晓燕",
+        "duration": "1:37",
+        "cover": "//i2.hdslb.com/bfs/archive/4a56552c21d7e495fc427abb835de4a830fcfb04.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PKWj62ERK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "刘晓艳 英语总监德穆兰"
       },
       {
         "title": "疑似《崩坏：星穹铁道》星神★阿哈★真人角色PV流出",
@@ -320,26 +350,42 @@
         "hotTitle": "疑似崩坏真人角色PV流出"
       },
       {
-        "title": "一顿海鲜烧烤 吃完没有烦恼#天津美食 #海鲜烧烤 #谁懂这一口的好吃程度 #烟火气",
-        "url": "https://www.bilibili.com/video/BV1zUWy6DE5t",
+        "title": "文明重启：耗时3年，我终于做出了我的第一件铁器",
+        "url": "https://www.bilibili.com/video/BV1z44n6bEpU",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1zUWy6DE5t",
-        "author": "明叔来了",
-        "duration": "3:50",
-        "cover": "//i1.hdslb.com/bfs/archive/3281381348f1aa289c15674cc4829d304130a3b7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zUWy6DE5t&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "天南海北猎奇烧烤大赏"
+        "description": "",
+        "content": "",
+        "bvid": "BV1z44n6bEpU",
+        "author": "萝卜巅疯户外",
+        "duration": "37:32",
+        "cover": "//i2.hdslb.com/bfs/archive/f7c0e81845476f7b40a24d544fff3f44000f9184.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z44n6bEpU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主回归原始手搓铁器"
+      },
+      {
+        "title": "这才是《灭霸全家福》原版MV，灭霸的爸爸是灭建国【AIMV大赛】",
+        "url": "https://www.bilibili.com/video/BV1FcWg6dEpa",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这才是《灭霸全家福》原版MV，灭霸的爸爸是灭建国【AIMV大赛】 你们被艾特的都是扎啤 小浣熊 钢铁侠 音频：DJ铁柱 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
+        "content": "这才是《灭霸全家福》原版MV，灭霸的爸爸是灭建国【AIMV大赛】 你们被艾特的都是扎啤 小浣熊 钢铁侠 音频：DJ铁柱 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
+        "bvid": "BV1FcWg6dEpa",
+        "author": "音乐老友",
+        "duration": "1:4",
+        "cover": "//i1.hdslb.com/bfs/archive/5c780ecbddfda6b865a7b11acb3abf4035a67a7c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FcWg6dEpa&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "用AI制作灭霸全家福MV"
       },
       {
         "title": "跨越3500公里探秘亚洲第一商场！居然在这个国家？",
         "url": "https://www.bilibili.com/video/BV1ViW36DErN",
         "desc": "",
-        "rank": 16,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "每次在网上刷到关于哪个商场好的讨论，总能看到有很多人说暹罗天地。但我一直很疑惑：为啥亚洲最好的商场会开在泰国？难道那么多大城市都比不过曼谷吗？所以这次我去拍了一期实测视频，发现确实有些出人意料的地方... ⚠本视频不含广告，且和任何机构均没有合作，所有差旅都是自费 ⚠本视频不构成旅游安利or出行建议，因为去的这几天我除了酒店和商场哪也没去，同时建议各位去任何国家前请仔细阅读当地大使馆的安全须知 Broll BGM： Black Prez _ Wake The Lion - Rise To The To",
@@ -355,7 +401,7 @@
         "title": "千 万 别 开 911 去 川 西 ！",
         "url": "https://www.bilibili.com/video/BV1kBWg68Ejf",
         "desc": "",
-        "rank": 17,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -368,36 +414,20 @@
         "hotTitle": "根本没有这种车去川西"
       },
       {
-        "title": "【卡里克离任】后弗格森时代，曼联历任主教练一览",
-        "url": "https://www.bilibili.com/video/BV1FNWd6DEHP",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1FNWd6DEHP",
-        "author": "英超联赛",
-        "duration": "0:22",
-        "cover": "//i1.hdslb.com/bfs/archive/265b0a046454aa31aa2d3cb6e613862a7ad6a7fb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FNWd6DEHP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "后弗格森时代曼联历任主帅一览"
-      },
-      {
-        "title": "《崩坏：星穹铁道》动画短片：「月下的欢快葬礼」",
-        "url": "https://www.bilibili.com/video/BV1gHWg6GEqj",
+        "title": "大学生食堂打饭教程",
+        "url": "https://www.bilibili.com/video/BV1Dj4B6FEnc",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "遥遥致意，远道而来的客人， 「何不尝试，再次开始一场游戏，再次品味其中痛苦，再次为其无情而颤动，再次在内心的地狱徘徊，往返多次，然后你终将会将这游戏玩得更好，也终将学会笑。」 不欢迎你的，阿哈 ※建议体验4.7版本开拓任务后观看本视频。 中文CV： 星神★阿哈——子音 另一个开拓者——秦且歌、陈婷婷 日文CV： 星神★阿哈——户松遥 另一个开拓者——榎木淳弥、石川由依 英文CV： 星神★阿哈——Amber Lee Connors 另一个开拓者——Shaun Mendum、Chloe",
-        "content": "遥遥致意，远道而来的客人， 「何不尝试，再次开始一场游戏，再次品味其中痛苦，再次为其无情而颤动，再次在内心的地狱徘徊，往返多次，然后你终将会将这游戏玩得更好，也终将学会笑。」 不欢迎你的，阿哈 ※建议体验4.7版本开拓任务后观看本视频。 中文CV： 星神★阿哈——子音 另一个开拓者——秦且歌、陈婷婷 日文CV： 星神★阿哈——户松遥 另一个开拓者——榎木淳弥、石川由依 英文CV： 星神★阿哈——Amber Lee Connors 另一个开拓者——Shaun Mendum、Chloe",
-        "bvid": "BV1gHWg6GEqj",
-        "author": "崩坏星穹铁道",
-        "duration": "25:0",
-        "cover": "//i2.hdslb.com/bfs/archive/c0a5a017af42394c23881e80777d9554d45de1fc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gHWg6GEqj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "星铁动画短片月下的欢快葬礼"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Dj4B6FEnc",
+        "author": "香蕉猫日记",
+        "duration": "0:40",
+        "cover": "//i2.hdslb.com/bfs/archive/d4b2a9cd40ea73a0d99c30735ad9b3bde5e5c319.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dj4B6FEnc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大学生食堂打饭教程"
       },
       {
         "title": "《再 试 一 次！》",
@@ -448,26 +478,10 @@
         "hotTitle": "papi酱热烈欢迎功夫巨星谢苗"
       },
       {
-        "title": "新英雄刀锋宝贝玩法介绍——精准锁定，冷静收割",
-        "url": "https://www.bilibili.com/video/BV12DWR6FEaR",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "全球英雄派对即将开启，新英雄【刀锋宝贝】正式上线，一起来看看她的玩法介绍吧~ 精准锁定，冷静收割，是王牌佣兵的职业素养。敏锐的判断力与凌厉的刀法，让她经手的委托从无败绩。 她以迅疾的刀影与凌厉的连击撕开敌人防线，凭护盾与加速灵活进退，让猎物难觅脱身之机； 更能利用被动刷新技能，快速打出爆发伤害收割敌人，一剑制敌。 她辗转大陆四处漂泊，只为追寻那个曾温暖过年少岁月的熟悉身影。 利刃已然出鞘，且看这位王牌佣兵如何在王者峡谷中斩断阻碍。再度并肩之时，剑锋同鸣！",
-        "content": "全球英雄派对即将开启，新英雄【刀锋宝贝】正式上线，一起来看看她的玩法介绍吧~ 精准锁定，冷静收割，是王牌佣兵的职业素养。敏锐的判断力与凌厉的刀法，让她经手的委托从无败绩。 她以迅疾的刀影与凌厉的连击撕开敌人防线，凭护盾与加速灵活进退，让猎物难觅脱身之机； 更能利用被动刷新技能，快速打出爆发伤害收割敌人，一剑制敌。 她辗转大陆四处漂泊，只为追寻那个曾温暖过年少岁月的熟悉身影。 利刃已然出鞘，且看这位王牌佣兵如何在王者峡谷中斩断阻碍。再度并肩之时，剑锋同鸣！",
-        "bvid": "BV12DWR6FEaR",
-        "author": "王者荣耀",
-        "duration": "5:0",
-        "cover": "//i1.hdslb.com/bfs/archive/2cfb3bc9e989cd257f756eab83d7586d50212d05.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12DWR6FEaR&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "王者新英雄刀锋宝贝玩法介绍"
-      },
-      {
         "title": "【真实锐评】BLG对战GEN前瞻：BP绝对不能让三叔舒服 然后猛攻GEN下路！",
         "url": "https://www.bilibili.com/video/BV128Wd6YEoN",
         "desc": "",
-        "rank": 24,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -480,26 +494,58 @@
         "hotTitle": "从BP策略看BLG如何应对GEN"
       },
       {
-        "title": "谁点名要看我cos德穆兰的？英语总监莅临还不快来迎接！",
-        "url": "https://www.bilibili.com/video/BV1PKWj62ERK",
+        "title": "新英雄刀锋宝贝玩法介绍——精准锁定，冷静收割",
+        "url": "https://www.bilibili.com/video/BV12DWR6FEaR",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "全球英雄派对即将开启，新英雄【刀锋宝贝】正式上线，一起来看看她的玩法介绍吧~ 精准锁定，冷静收割，是王牌佣兵的职业素养。敏锐的判断力与凌厉的刀法，让她经手的委托从无败绩。 她以迅疾的刀影与凌厉的连击撕开敌人防线，凭护盾与加速灵活进退，让猎物难觅脱身之机； 更能利用被动刷新技能，快速打出爆发伤害收割敌人，一剑制敌。 她辗转大陆四处漂泊，只为追寻那个曾温暖过年少岁月的熟悉身影。 利刃已然出鞘，且看这位王牌佣兵如何在王者峡谷中斩断阻碍。再度并肩之时，剑锋同鸣！",
+        "content": "全球英雄派对即将开启，新英雄【刀锋宝贝】正式上线，一起来看看她的玩法介绍吧~ 精准锁定，冷静收割，是王牌佣兵的职业素养。敏锐的判断力与凌厉的刀法，让她经手的委托从无败绩。 她以迅疾的刀影与凌厉的连击撕开敌人防线，凭护盾与加速灵活进退，让猎物难觅脱身之机； 更能利用被动刷新技能，快速打出爆发伤害收割敌人，一剑制敌。 她辗转大陆四处漂泊，只为追寻那个曾温暖过年少岁月的熟悉身影。 利刃已然出鞘，且看这位王牌佣兵如何在王者峡谷中斩断阻碍。再度并肩之时，剑锋同鸣！",
+        "bvid": "BV12DWR6FEaR",
+        "author": "王者荣耀",
+        "duration": "5:0",
+        "cover": "//i1.hdslb.com/bfs/archive/2cfb3bc9e989cd257f756eab83d7586d50212d05.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12DWR6FEaR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "王者新英雄刀锋宝贝玩法介绍"
+      },
+      {
+        "title": "《崩坏：星穹铁道》动画短片：「月下的欢快葬礼」",
+        "url": "https://www.bilibili.com/video/BV1gHWg6GEqj",
         "desc": "",
         "rank": 25,
         "kind": "video",
         "platform": "bilibili",
+        "description": "遥遥致意，远道而来的客人， 「何不尝试，再次开始一场游戏，再次品味其中痛苦，再次为其无情而颤动，再次在内心的地狱徘徊，往返多次，然后你终将会将这游戏玩得更好，也终将学会笑。」 不欢迎你的，阿哈 ※建议体验4.7版本开拓任务后观看本视频。 中文CV： 星神★阿哈——子音 另一个开拓者——秦且歌、陈婷婷 日文CV： 星神★阿哈——户松遥 另一个开拓者——榎木淳弥、石川由依 英文CV： 星神★阿哈——Amber Lee Connors 另一个开拓者——Shaun Mendum、Chloe",
+        "content": "遥遥致意，远道而来的客人， 「何不尝试，再次开始一场游戏，再次品味其中痛苦，再次为其无情而颤动，再次在内心的地狱徘徊，往返多次，然后你终将会将这游戏玩得更好，也终将学会笑。」 不欢迎你的，阿哈 ※建议体验4.7版本开拓任务后观看本视频。 中文CV： 星神★阿哈——子音 另一个开拓者——秦且歌、陈婷婷 日文CV： 星神★阿哈——户松遥 另一个开拓者——榎木淳弥、石川由依 英文CV： 星神★阿哈——Amber Lee Connors 另一个开拓者——Shaun Mendum、Chloe",
+        "bvid": "BV1gHWg6GEqj",
+        "author": "崩坏星穹铁道",
+        "duration": "25:0",
+        "cover": "//i2.hdslb.com/bfs/archive/c0a5a017af42394c23881e80777d9554d45de1fc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gHWg6GEqj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "星铁动画短片月下的欢快葬礼"
+      },
+      {
+        "title": "【卡里克离任】后弗格森时代，曼联历任主教练一览",
+        "url": "https://www.bilibili.com/video/BV1FNWd6DEHP",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1PKWj62ERK",
-        "author": "考研英语晓燕",
-        "duration": "1:37",
-        "cover": "//i2.hdslb.com/bfs/archive/4a56552c21d7e495fc427abb835de4a830fcfb04.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PKWj62ERK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "刘晓艳 英语总监德穆兰"
+        "bvid": "BV1FNWd6DEHP",
+        "author": "英超联赛",
+        "duration": "0:22",
+        "cover": "//i1.hdslb.com/bfs/archive/265b0a046454aa31aa2d3cb6e613862a7ad6a7fb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FNWd6DEHP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "后弗格森时代曼联历任主帅一览"
       },
       {
         "title": "《原神》过场动画-「岩与契约」",
         "url": "https://www.bilibili.com/video/BV1aTWm6jEL8",
         "desc": "",
-        "rank": 26,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "随着象征契约的摩拉在契约之神手中凝成，璃月的试炼已然通过。 以此为始，判罚之钉的符号消失了第一枚。 中文CV： 钟离——彭博 空——鹿喑 派蒙——多多 日文CV： 钟离——前野智昭 空——堀江瞬 派蒙——古贺葵 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
@@ -512,58 +558,26 @@
         "hotTitle": "原神过场动画岩与契约"
       },
       {
-        "title": "大学生食堂打饭教程",
-        "url": "https://www.bilibili.com/video/BV1Dj4B6FEnc",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Dj4B6FEnc",
-        "author": "香蕉猫日记",
-        "duration": "0:40",
-        "cover": "//i2.hdslb.com/bfs/archive/d4b2a9cd40ea73a0d99c30735ad9b3bde5e5c319.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dj4B6FEnc&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大学生食堂打饭教程"
-      },
-      {
-        "title": "【鸣潮】莉莉攻略！同奏&声骸双体系生存位 心锁莉鸣潮最高的山？！ 细节养成作业+进阶技巧",
-        "url": "https://www.bilibili.com/video/BV1nBWQ6rEvo",
+        "title": "【货币战争攻略】大洗牌后游戏节奏完全不同的货币战争S2究竟应该怎么玩？全网最详细最细节的货币战争S2运营教程与角色解析！看完直接领先同龄人一个大段",
+        "url": "https://www.bilibili.com/video/BV1LHWj6iEwU",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "本期视频和@金铃子攻略组 合作，为大家带来鸣潮莉莉攻略，感觉有帮助还请三连支持一下~",
-        "content": "本期视频和@金铃子攻略组 合作，为大家带来鸣潮莉莉攻略，感觉有帮助还请三连支持一下~",
-        "bvid": "BV1nBWQ6rEvo",
-        "author": "叫我棉被",
-        "duration": "12:47",
-        "cover": "//i1.hdslb.com/bfs/archive/28074532a6d18f287e1538273c683b50a7a4e693.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nBWQ6rEvo&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "鸣潮莉莉养成攻略"
-      },
-      {
-        "title": "Faker：我会观看BLG和GEN的决赛！不会因从未输给过LPL，就觉得这次也不会输！",
-        "url": "https://www.bilibili.com/video/BV1WtWQ6EEbX",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1WtWQ6EEbX",
-        "author": "Ymbky丶",
-        "duration": "2:9",
-        "cover": "//i1.hdslb.com/bfs/archive/8e55434dd5e308a7116de2723eb8755c47a42e32.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WtWQ6EEbX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Faker称会观看BLG和GEN的决赛"
+        "description": "那刻夏【4连击2小小巨人】横向展开直角坐标系 ##ukkDdQ/mVkQEP55gT3GvAjKTfjnOEzKjHpNUoGNolBI=## ->复制到游戏内【货币战争】-【攻略】中【输入攻略码】使用复制到游戏内【货币战争】-【攻略】中【输入攻略码】使用<- 克拉拉【1巡海游侠3追击】按E发射核弹 ##L8ibOIw7CWDSmwCmB4hB+",
+        "content": "那刻夏【4连击2小小巨人】横向展开直角坐标系 ##ukkDdQ/mVkQEP55gT3GvAjKTfjnOEzKjHpNUoGNolBI=## ->复制到游戏内【货币战争】-【攻略】中【输入攻略码】使用复制到游戏内【货币战争】-【攻略】中【输入攻略码】使用<- 克拉拉【1巡海游侠3追击】按E发射核弹 ##L8ibOIw7CWDSmwCmB4hB+",
+        "bvid": "BV1LHWj6iEwU",
+        "author": "甘泽成谣雨成诗",
+        "duration": "24:40",
+        "cover": "//i2.hdslb.com/bfs/archive/c8114a2ad53ee73c282006a36d094c1d0f5433b4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LHWj6iEwU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何适应货币战争S2游戏节奏"
       },
       {
         "title": "《崩坏：星穹铁道》EP：「无中生有」",
         "url": "https://www.bilibili.com/video/BV1nEWu6xEyq",
         "desc": "",
-        "rank": 30,
+        "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "当第一声「阿哈」响起，「欢愉」将再度诞生。 在虚与实的边缘起舞吧，今夜，奇迹将由众生缔造！",
@@ -574,6 +588,22 @@
         "cover": "//i0.hdslb.com/bfs/archive/e846ede98eb27b98a77c8746591e4be4b2a9b993.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nEWu6xEyq&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "星穹铁道最新EP无中生有"
+      },
+      {
+        "title": "【鸣潮】莉莉攻略！同奏&声骸双体系生存位 心锁莉鸣潮最高的山？！ 细节养成作业+进阶技巧",
+        "url": "https://www.bilibili.com/video/BV1nBWQ6rEvo",
+        "desc": "",
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本期视频和@金铃子攻略组 合作，为大家带来鸣潮莉莉攻略，感觉有帮助还请三连支持一下~",
+        "content": "本期视频和@金铃子攻略组 合作，为大家带来鸣潮莉莉攻略，感觉有帮助还请三连支持一下~",
+        "bvid": "BV1nBWQ6rEvo",
+        "author": "叫我棉被",
+        "duration": "12:47",
+        "cover": "//i1.hdslb.com/bfs/archive/28074532a6d18f287e1538273c683b50a7a4e693.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nBWQ6rEvo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "鸣潮莉莉养成攻略"
       }
     ],
     "qbitai": [
@@ -1102,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794489065803,
-    "bilibili": 1794487556704,
-    "qbitai": 1794460359329,
-    "36kr": 1794460359758
+    "thepaper": 1794489965208,
+    "bilibili": 1794489358258,
+    "qbitai": 1794461201407,
+    "36kr": 1794461201898
   },
   "failures": {}
 }
