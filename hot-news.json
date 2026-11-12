@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T05:56:31Z",
+  "updatedAt": "2026-11-12T06:11:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -942,8 +942,8 @@
       {
         "title": "英伟达首席执行官黄仁勋辞职",
         "url": "https://m.36kr.com/newsflashes/4066827553543043",
-        "desc": "英伟达任命首席财务官Colette Kress为临时首席执行官。",
-        "cover": "",
+        "desc": "36氪获悉，英伟达董事会今日宣布，黄仁勋（Jensen Huang）已辞去总裁、首席执行官以及董事职务，辞呈即刻生效。 公司现任执行副总裁兼首席财务官科莱特·克雷斯（Colette Kress）将出任临时首席执行官。在正式继任者确定前，克雷斯将同时兼任执行副总裁、首席财务官与临时CEO。董事会已启动常设首席执行官的遴选工作，内部、外部候选人都将纳入考量范围。董事会任命哈维·C·琼斯（Harvey C． Jones）担任英伟达史上首任董事会主席。",
+        "cover": "https://img.36krcdn.com/hsossms/20261112/v2_4ea1603a873e49d5b7c13e8b408edc12@5579416_oswg498861oswg1264oswg2545_img_jpg",
         "date": 1794491455172,
         "platform": "36kr",
         "kind": "article",
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794491765404,
+    "thepaper": 1794492665313,
     "bilibili": 1794491159987,
-    "qbitai": 1794462990766,
-    "36kr": 1794462991156
+    "qbitai": 1794463894163,
+    "36kr": 1794463894515
   },
   "failures": {}
 }
