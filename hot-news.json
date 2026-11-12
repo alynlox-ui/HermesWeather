@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T05:26:41Z",
+  "updatedAt": "2026-11-12T05:41:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -158,19 +158,19 @@
         "hotTitle": "BLG决赛应援曲海阔天空"
       },
       {
-        "title": "学姐，毕业快乐！# 卡黄 # 郭本尼 # snh4",
-        "url": "https://www.bilibili.com/video/BV1aS4s6FEZT",
+        "title": "卡子竟然把郭本尼的卡黄视频举报了",
+        "url": "https://www.bilibili.com/video/BV1xf4a6TEqc",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1aS4s6FEZT",
-        "author": "影视古装剪辑",
+        "bvid": "BV1xf4a6TEqc",
+        "author": "ci祈酱ovo",
         "duration": "0:32",
-        "cover": "//i1.hdslb.com/bfs/archive/485572904c7700e58af0a4c33a26336ea2a9fd79.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aS4s6FEZT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "cover": "//i0.hdslb.com/bfs/archive/c650833726319e83e3e5165804457c2b7bf971d4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xf4a6TEqc&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "郭本尼后会友期在线拉架"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794489965208,
+    "thepaper": 1794490865519,
     "bilibili": 1794489358258,
-    "qbitai": 1794461201407,
-    "36kr": 1794461201898
+    "qbitai": 1794462095097,
+    "36kr": 1794462095466
   },
   "failures": {}
 }
