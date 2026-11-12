@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:12:28Z",
+  "updatedAt": "2026-11-11T18:26:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -46,80 +46,80 @@
         "rank": 7
       },
       {
-        "title": "15分钟内限次免费停！时隔21年上海全面调整道路停车收费政策",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34450560",
-        "desc": "",
-        "rank": 8
-      },
-      {
         "title": "伊朗女性参加“为伊朗捐躯”培训：随时准备为国献身",
         "url": "https://www.thepaper.cn/newsDetail_forward_34453188",
         "desc": "",
-        "rank": 9
+        "rank": 8
       },
       {
         "title": "用英文丝滑执法的交警找到了，他说“中国警察在英语执法上是有能力的”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34452595",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "近5小时内打了356次110！男子恶意骚扰报警平台被合肥警方行拘",
         "url": "https://www.thepaper.cn/newsDetail_forward_34451151",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "2026年中央八项规定精神贯彻执行情况网络调查问卷正式开启",
         "url": "https://www.thepaper.cn/newsDetail_forward_34454123",
         "desc": "",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "泸州“花坛藏尸案”庭审画面公开：整容后的陈某芬五官僵硬，看不出表情",
         "url": "https://www.thepaper.cn/newsDetail_forward_34451524",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "中方领导人APEC期间是否会与日本首相举行会晤？外交部回应",
         "url": "https://www.thepaper.cn/newsDetail_forward_34452494",
         "desc": "",
-        "rank": 14
+        "rank": 13
       },
       {
         "title": "香港名媛蔡天凤碎尸案有重大进展：前夫被当庭指认为凶手",
         "url": "https://www.thepaper.cn/newsDetail_forward_34454757",
         "desc": "",
-        "rank": 15
+        "rank": 14
       },
       {
         "title": "伊朗公布新建地下“导弹城”，隧道内摆满各种导弹",
         "url": "https://www.thepaper.cn/newsDetail_forward_34452199",
         "desc": "",
-        "rank": 16
+        "rank": 15
       },
       {
         "title": "王毅同美国国务卿鲁比奥通电话",
         "url": "https://www.thepaper.cn/newsDetail_forward_34456152",
         "desc": "",
-        "rank": 17
+        "rank": 16
       },
       {
         "title": "旁白｜我们为何要关注农用薄膜安全？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34450952",
         "desc": "",
-        "rank": 18
+        "rank": 17
       },
       {
         "title": "华硕、宏碁将部分产能转回中国大陆，国台办：一如既往支持台商台企来大陆投资兴业",
         "url": "https://www.thepaper.cn/newsDetail_forward_34450991",
         "desc": "",
-        "rank": 19
+        "rank": 18
       },
       {
         "title": "俄方公布本轮俄美乌三方会谈成果",
         "url": "https://www.thepaper.cn/newsDetail_forward_34454411",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "多地最低工资标准加快上调：哪些群体受益、影响几何？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34453227",
         "desc": "",
         "rank": 20
       }
@@ -142,10 +142,20 @@
         "hotTitle": "金摇杆年度游戏生化危机9"
       },
       {
-        "title": "谷歌推出Gemini Decisions 1",
-        "url": "https://search.bilibili.com/all?keyword=Gemini%20Decisions",
+        "title": "AI圈大地震！Gemini Decisions API 深夜降临，免费 API 每天 10000 次，同行全员颤抖，价格底线仿佛被血洗一空！",
+        "url": "https://www.bilibili.com/video/BV1AGWX6EEwp",
         "desc": "",
-        "rank": 2
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1AGWX6EEwp",
+        "author": "黑鸦Heya",
+        "duration": "3:45",
+        "cover": "//i1.hdslb.com/bfs/archive/a29ea80a202493058f4427fb076c9d6a46a02134.png",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AGWX6EEwp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "谷歌推出Gemini Decisions 1"
       },
       {
         "title": "从“室友”到“敌人”？布朗与塔图姆之间，到底发生了什么？",
@@ -180,10 +190,20 @@
         "hotTitle": "回顾BLG战胜T1的突围之路"
       },
       {
-        "title": "陪看金摇杆年度游戏颁奖礼",
-        "url": "https://search.bilibili.com/all?keyword=%E9%99%AA%E7%9C%8B%E9%87%91%E6%91%87%E6%9D%86%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E9%A2%81%E5%A5%96%E7%A4%BC",
+        "title": "一起来看2026金摇杆年度游戏颁奖礼吧！",
+        "url": "https://www.bilibili.com/video/BV14FWD6UE6v",
         "desc": "",
-        "rank": 5
+        "rank": 5,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "魂大人，你又来晚了…… 啊！好不甘心啊！！！",
+        "content": "魂大人，你又来晚了…… 啊！好不甘心啊！！！",
+        "bvid": "BV14FWD6UE6v",
+        "author": "傲慢的小肉包",
+        "duration": "132:28",
+        "cover": "//i1.hdslb.com/bfs/archive/58b548e331df715f75668ec7fa8a475d3a427f6c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14FWD6UE6v&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "陪看金摇杆年度游戏颁奖礼"
       },
       {
         "title": "大结局！漫威8.6分神剧？绯红女巫复活！一口气看完《幻视任务》！",
@@ -890,6 +910,16 @@
     ],
     "36kr": [
       {
+        "title": "平台比人民还想“杀死”双十一",
+        "url": "https://m.36kr.com/p/4065387718185865",
+        "desc": "",
+        "cover": "https://img.36krcdn.com/hsossms/20261111/v2_c619f9666a5f40dbba969f325bec6898@000000@ai_oswg768685oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1794449895413,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "又一大厂杀入短剧，京东为何进场？",
         "url": "https://m.36kr.com/p/4065552034059138",
         "desc": "",
@@ -897,17 +927,37 @@
         "date": 1794447194080,
         "platform": "36kr",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
-        "title": "澎程放量、问界腰斩，增程车的出路在哪？",
-        "url": "https://m.36kr.com/p/4065145780441985",
-        "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261111/v2_a9e58af7debd40a590455cc3c30b9c0f@000000@ai_oswg909695oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1794393824856,
+        "title": "寒武纪涨超13%，收复1000元关口",
+        "url": "https://m.36kr.com/newsflashes/4066147409368192",
+        "desc": "36氪获悉，寒武纪扩大涨幅至13%，重新站上1000元整数关，总市值达6400亿元。",
+        "cover": "",
+        "date": 1794449942466,
         "platform": "36kr",
         "kind": "article",
-        "rank": 2
+        "rank": 3
+      },
+      {
+        "title": "纪念孙中山先生诞辰160周年大会在京举行，习近平出席大会并发表重要讲话",
+        "url": "https://m.36kr.com/newsflashes/4066141454291847",
+        "desc": "纪念孙中山先生诞辰160周年大会11月12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希出席大会。（新华社）",
+        "cover": "",
+        "date": 1794449578997,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "燧原科技涨超15%创上市新高",
+        "url": "https://m.36kr.com/newsflashes/4066140936311688",
+        "desc": "36氪获悉，算力芯片概念股燧原科技扩大涨幅至15%，创出上市以来新高，总市值超2400亿元，最近7个交易日累计上涨76%。",
+        "cover": "",
+        "date": 1794449547382,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
       },
       {
         "title": "日本最高外汇事务官员三村淳：近几日汇率波动过快",
@@ -917,7 +967,7 @@
         "date": 1794449516000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "创业板指拉升涨超1%，科创50指数涨近4%",
@@ -927,7 +977,7 @@
         "date": 1794449190324,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "“纬钛机器人”完成数亿元A轮融资",
@@ -937,7 +987,7 @@
         "date": 1794449061000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "美国ITC发布对用于电池电芯和电池的负极材料的337部分终裁",
@@ -947,7 +997,7 @@
         "date": 1794448756315,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "Alphabet启动亚洲债券发售，AI企业面临严格审查",
@@ -957,7 +1007,7 @@
         "date": 1794448693000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "梁钧出任华兴香港总裁",
@@ -967,7 +1017,7 @@
         "date": 1794448463000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "陆慷会见荷兰新任驻华大使魏耀普",
@@ -977,7 +1027,7 @@
         "date": 1794448455729,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "韩国计划出台措施改善金融机构治理",
@@ -987,7 +1037,7 @@
         "date": 1794447726000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "我国海上风电年发电量超千亿千瓦时",
@@ -997,7 +1047,7 @@
         "date": 1794447382000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "三大指数全线翻红",
@@ -1007,7 +1057,7 @@
         "date": 1794447362655,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "A股三大指数集体低开，通信设备板块领跌",
@@ -1017,7 +1067,7 @@
         "date": 1794446865773,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "央行今日开展3840亿元隔夜逆回购操作，操作利率为1.25%",
@@ -1027,7 +1077,7 @@
         "date": 1794446646409,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "恒指开盘跌0.8%，恒生科技指数跌0.8%",
@@ -1037,7 +1087,7 @@
         "date": 1794446629292,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "人民币兑美元中间价报6.7174，上调17点",
@@ -1047,7 +1097,7 @@
         "date": 1794446205955,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "中信建投：三重逻辑驱动下，相关战略金属商品价格有望持续受益",
@@ -1057,7 +1107,7 @@
         "date": 1794445707000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "APEC工商咨询理事会本周六起在深圳举办",
@@ -1067,7 +1117,7 @@
         "date": 1794445594863,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "麻六记宣布绵阳工厂正式投产",
@@ -1077,45 +1127,15 @@
         "date": 1794445314401,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "FOF发行频现募集延期，业绩震荡削弱投资者配置热情",
-        "url": "https://m.36kr.com/newsflashes/4066026353955976",
-        "desc": "近期，FOF发行因业绩承压短暂遇冷，不少产品一再延长募集期。从统计数据来看，下半年成立的FOF在平均募集规模、认购户数等方面，均较上半年出现显著下降。受访人士认为，7月以来权益市场持续震荡，FOF业绩承压直接抑制了资金认购热情。但从全年来看，FOF依然实现了逾800亿元的总规模增长，是为数不多规模实现大幅增长的品种。长期来看，FOF底层资产正加速向债券ETF、黄金ETF等多元品类演进，叠加ETF-FOF等创新工具品种的崛起，FOF仍有更大发展空间。（证券时报）",
-        "cover": "",
-        "date": 1794445247000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "美国预测市场平台Polymarket被曝重组并裁员，以应对Kalshi竞争",
-        "url": "https://m.36kr.com/newsflashes/4066025443464327",
-        "desc": "据报道，美国预测市场平台Polymarket最近进行了重组，裁减了部分员工并终止了若干承包商合同。该公司正寻求与发展迅速的竞争对手 Kalshi 展开角逐。上周起，一封来自该公司的内部邮件（内容涉及终止一份承包商合同）开始在社交媒体平台 X 上流传。“我们怀着沉重的心情告知您一个消息。作为公司整体裁员计划的一部分，我们决定终止您与Polymarket之间的承包合同，该决定自2026年11月4日起生效，”邮件写道。Polymarket于周三证实，这封邮件的截图属实。（新浪财经）",
-        "cover": "",
-        "date": 1794445008000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "百亿私募逆势加仓，称AI长期发展趋势未改",
-        "url": "https://m.36kr.com/newsflashes/4066024373932937",
-        "desc": "市场震荡之际，百亿私募仍在逆势加仓。截至10月底，百亿私募仓位指数升至83.10%，连续两周上升。值得关注的是，近期海外人工智能（AI）板块明显调整，市场对科技巨头资本开支、算力需求及未来盈利能力的担忧持续升温。但多家百亿私募认为，AI长期发展趋势并未改变，短期市场仍将以结构性机会为主。（证券时报）",
-        "cover": "",
-        "date": 1794444759000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794449465360,
-    "bilibili": 1794449474458,
-    "qbitai": 1794420748065,
-    "36kr": 1794420748394
+    "thepaper": 1794450364502,
+    "bilibili": 1794448909136,
+    "qbitai": 1794421594148,
+    "36kr": 1794421594480
   },
   "failures": {}
 }
