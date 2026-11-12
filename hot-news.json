@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T01:56:35Z",
+  "updatedAt": "2026-11-12T02:11:43Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,26 @@
     ],
     "qbitai": [
       {
+        "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+        "url": "https://www.qbitai.com/2026/11/509381.html",
+        "desc": "全世界都在踩刹车，达里奥一个人踩油门",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/1301376053d57039de00d07856b8c5e9.webp",
+        "date": "2026-11-12T18:11:29",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+        "url": "https://www.qbitai.com/2026/11/509355.html",
+        "desc": "Grok在让人破绷这件事上，从来不会让人失望。",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/3b0307d77e85434710797074354e2260.webp",
+        "date": "2026-11-12T18:08:24",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 2
+      },
+      {
         "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
         "url": "https://www.qbitai.com/2026/11/509349.html",
         "desc": "企业 AI 的难题，不只是模型够不够强",
@@ -615,7 +635,7 @@
         "date": "2026-11-12T17:34:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 3
       },
       {
         "title": "马斯克已准备好聘请黄仁勋",
@@ -625,7 +645,7 @@
         "date": "2026-11-12T16:16:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 4
       },
       {
         "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
@@ -635,7 +655,7 @@
         "date": "2026-11-12T15:55:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "百曜科技入选全球 The Information 50！",
@@ -645,7 +665,7 @@
         "date": "2026-11-12T14:13:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
@@ -655,7 +675,7 @@
         "date": "2026-11-12T09:45:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
@@ -665,7 +685,7 @@
         "date": "2026-11-11T20:43:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "上海造、香港连，中国AI加速走向全球",
@@ -675,7 +695,7 @@
         "date": "2026-11-11T20:22:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
@@ -685,7 +705,7 @@
         "date": "2026-11-11T17:58:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
@@ -695,7 +715,7 @@
         "date": "2026-11-11T14:41:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
@@ -705,7 +725,7 @@
         "date": "2026-11-11T14:27:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
@@ -715,7 +735,7 @@
         "date": "2026-11-11T14:18:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
@@ -725,7 +745,7 @@
         "date": "2026-11-11T11:43:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
@@ -735,7 +755,7 @@
         "date": "2026-11-10T18:35:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
@@ -745,7 +765,7 @@
         "date": "2026-11-10T16:33:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
@@ -755,7 +775,7 @@
         "date": "2026-11-10T15:57:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
@@ -765,7 +785,7 @@
         "date": "2026-11-10T15:56:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
@@ -775,7 +795,7 @@
         "date": "2026-11-10T15:50:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
@@ -785,7 +805,7 @@
         "date": "2026-11-10T15:33:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "Token卷到触觉了！机器人终于有了通用手感",
@@ -795,7 +815,7 @@
         "date": "2026-11-10T15:26:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
@@ -805,7 +825,7 @@
         "date": "2026-11-10T15:03:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
@@ -815,7 +835,7 @@
         "date": "2026-11-10T10:48:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 23
       },
       {
         "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
@@ -825,7 +845,7 @@
         "date": "2026-11-10T09:27:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 24
       },
       {
         "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
@@ -835,7 +855,7 @@
         "date": "2026-11-10T06:11:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 25
       },
       {
         "title": "Fable 5.2深夜掀桌！从0造操作系统，性价比反超Opus 5.5",
@@ -845,7 +865,7 @@
         "date": "2026-11-10T06:08:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 26
       },
       {
         "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
@@ -855,7 +875,7 @@
         "date": "2026-11-09T18:23:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 27
       },
       {
         "title": "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
@@ -865,7 +885,7 @@
         "date": "2026-11-09T17:58:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 28
       },
       {
         "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
@@ -875,7 +895,7 @@
         "date": "2026-11-09T17:48:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 29
       },
       {
         "title": "具身智能出海，物流先行",
@@ -883,26 +903,6 @@
         "desc": "全球练兵、全球交付",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/b41981042358beae78508d1d85383202.webp",
         "date": "2026-11-09T17:01:13",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 28
-      },
-      {
-        "title": "“AI毁了我的计算机学位”",
-        "url": "https://www.qbitai.com/2026/11/508706.html",
-        "desc": "教授也用Claude糊弄…",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/qbit-b6de9660-1213-4888-8eca-4b10c02da84d.png",
-        "date": "2026-11-09T16:57:20",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-        "url": "https://www.qbitai.com/2026/11/507843.html",
-        "desc": "",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/c90eeef4d9e9af342ab1cb91a3d1a781.png",
-        "date": "2026-11-09T16:44:00",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,46 @@
         "rank": 2
       },
       {
+        "title": "无人机初创企业Uforce获英国国家财富基金注资，估值达60亿美元",
+        "url": "https://m.36kr.com/newsflashes/4066595813774208",
+        "desc": "无人机初创企业Uforce完成7亿美元融资，英国国家财富基金借此完成其史上最大规模国防投资。 该无人机厂商周四称，这家英国公共投资机构与Valor Equity Partners联合领投本轮融资，Valor由马斯克的盟友Antonio Gracias管理。本轮融资里，英国国家财富基金出资1.5亿美元，让总部落户伦敦的Uforce估值达到60亿美元，成为英国估值最高的国防初创企业。（新浪财经）",
+        "cover": "",
+        "date": 1794478083000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "中央商场：法院裁定受理子公司苏州中商置地破产清算申请",
+        "url": "https://m.36kr.com/newsflashes/4066594508116864",
+        "desc": "36氪获悉，中央商场公告，公司于2026年11月12日收到法院送达的民事裁定书，裁定受理全资控制子公司苏州中商置地有限公司的破产清算申请。苏州中商置地长期无实际经营活动，已资不抵债且无继续经营能力。管理人接管后公司将丧失其实际控制权，其不再纳入合并财务报表范围。公司对其债务无担保或连带清偿责任，不会产生新的或有负债，本次事项预计将为公司当期合并报表带来利润贡献，具体金额以年度审计结果为准，破产清算后续进程存在不确定性。",
+        "cover": "",
+        "date": 1794477824000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "金发科技：拟3亿元~5亿元回购股份用于注销",
+        "url": "https://m.36kr.com/newsflashes/4066591605068934",
+        "desc": "36氪获悉，金发科技公告，公司拟以集中竞价交易方式回购股份，回购金额不低于3亿元且不超过5亿元，回购价格不超过19.57元/股，预计回购股份数量为1532.96万股-2554.93万股，占公司总股本的0.57%-0.96%。本次回购股份将全部用于注销并减少注册资本，回购期限自股东会审议通过之日起12个月内，资金来源为自有及自筹资金，已获工行广州分行最高4.5亿元回购专项贷款承诺。",
+        "cover": "",
+        "date": 1794477719050,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "海鸥住工：控股股东签股份转让补充协议，控制权拟变更",
+        "url": "https://m.36kr.com/newsflashes/4066593927910537",
+        "desc": "36氪获悉，海鸥住工公告，公司控股股东中馀投资拟协议转让合计1.62亿股公司股份（占总股本25.01%），其中向博泰车联转让1.29亿股（占比20.00%）、向福清曜鸿转让3236.74万股（占比5.01%），转让完成后公司控制权将变更。近日交易各方签署补充协议，调整价款支付为共管账户模式，未变更股份数量、价格等核心条款。目前博泰车联、福清曜鸿已分别支付诚意金2.00亿元、2000万元，交易已通过经营者集中反垄断审查，尚需履行博泰车联港股程序、深交所合规确认及股份过户等手续，控制权变更能否完成尚存不确定性。",
+        "cover": "",
+        "date": 1794477553000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "联合航空禁止Muse、Instinct等AI智能体预订航班",
         "url": "https://m.36kr.com/newsflashes/4066584261022849",
         "desc": "继银行、零售商出于隐私顾虑出台同类禁令之后，联合航空宣布将禁止各类AI智能体与AI助手预订本航空公司的航班。该禁令既适用于在联合航空App、官网直接发起的订票行为，也涵盖通过旅行社与旅游聚合平台完成的订票。航司称，正在更新订票、出票与分销相关政策，同时更新客户帮助页面，帮助用户保护个人信息。（新浪财经）",
@@ -937,7 +977,7 @@
         "date": 1794477163775,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 7
       },
       {
         "title": "5连板日出东方：主营业务未发生重大变动，存在明显的非理性炒作风险",
@@ -947,7 +987,7 @@
         "date": 1794476594000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 8
       },
       {
         "title": "龙芯中科：定增申请获上交所审核通过",
@@ -957,7 +997,7 @@
         "date": 1794476349000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "中芯国际：前三季度净利润73.14亿元，同比增长91.6%",
@@ -967,7 +1007,7 @@
         "date": 1794476216522,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "联瑞新材：拟10亿元投建半导体封装用高性能粉体材料项目",
@@ -977,7 +1017,7 @@
         "date": 1794476137000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "中国汽车工业协会：10月汽车产销环比增长，同比小幅下降",
@@ -987,7 +1027,7 @@
         "date": 1794475887000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "香港9月整体出口货量较去年同期上升36.1%",
@@ -997,7 +1037,7 @@
         "date": 1794475672000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "英伟达部分董事倾向于任命CFO为临时CEO，苹果高管是猎头候选人之一",
@@ -1007,7 +1047,7 @@
         "date": 1794475385000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "*ST瑞茂：股票收盘价首次低于1元，存在终止上市风险",
@@ -1017,7 +1057,7 @@
         "date": 1794475174000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "香港交易所：以人民币计价、挂钩人民币货币基金的衍生权证今日上市",
@@ -1027,7 +1067,7 @@
         "date": 1794475027172,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "美银：预计台积电2027年资本开支或达900亿美元，先进制程扩产加速",
@@ -1037,7 +1077,7 @@
         "date": 1794474951000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "崔东树：10月各类级别市场的新能源渗透率均超50%",
@@ -1047,7 +1087,7 @@
         "date": 1794474563000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "拓荆科技：发行股份购买资产并募集配套资金事项获上交所审核通过",
@@ -1057,7 +1097,7 @@
         "date": 1794474282000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "英伟达美股盘前下跌近7%",
@@ -1067,7 +1107,7 @@
         "date": 1794474159089,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "美科技监督项目呼吁民主党收紧科技监管，出台AI与数据中心新规",
@@ -1077,7 +1117,7 @@
         "date": 1794474054000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "钧达股份：终止阿曼5GW高效电池项目",
@@ -1087,55 +1127,15 @@
         "date": 1794473869000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "影石创新：拟用2.98亿元超募资金投建研发新项目",
-        "url": "https://m.36kr.com/newsflashes/4066524633781382",
-        "desc": "36氪获悉，影石创新公告，公司拟使用超募资金2.98亿元投资新建“端云一体化影像软件体系研发项目”。该议案已经公司第三届董事会第六次会议审议通过，将提交2026年第三次临时股东会审议，本次股东会采用现场投票与网络投票相结合的方式召开。",
-        "cover": "",
-        "date": 1794473670000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "昇辉科技：签署1.2亿元新能源换电站建设框架协议",
-        "url": "https://m.36kr.com/newsflashes/4066523657114504",
-        "desc": "36氪获悉，昇辉科技公告，公司于2026年11月12日与新源易程科技(北京)有限公司签署《换电站建设框架合作协议》，协议有效期3年，第一批换电站建设总规模约1.2亿元。该协议为框架性约定，不构成具体施工合同，实际建设规模及收入确认存在重大不确定性。公司表示，“智能换电”业务板块尚处初期阶段，预计本事项对本年度经营业绩不构成重大影响。",
-        "cover": "",
-        "date": 1794473502000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "必和必拓拟重组澳大利亚铁矿石业务，据悉涉及裁员和简化管理架构",
-        "url": "https://m.36kr.com/newsflashes/4066520666494081",
-        "desc": "据报道，作为集团成本削减计划的一部分，必和必拓计划重组澳大利亚铁矿石业务。据悉，必和必拓已在该部门裁减300名现场工作人员，预计将进一步缩减员工人数，主要涉及白领岗位。目前，必和必拓的西澳大利亚铁矿石业务部门拥有超过1.6万名员工及承包商。知情人士称，此次重组预计将简化管理架构，并将更多的支持职能直接划归至其所服务的矿产资产之下，而非由独立部门负责。（界面）",
-        "cover": "",
-        "date": 1794473260000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "知情人士：度小满支付获央行更名许可，启用“满易支付”为存量商标复用",
-        "url": "https://m.36kr.com/newsflashes/4066520287908999",
-        "desc": "11月12日消息，据中国人民银行北京市分行发布非银行支付机构重大事项变更许可信息公示，北京度小满支付科技有限公司获准变更公司名称为北京满易支付有限公司，变更监事为刘晖，变更财务负责人为李竹。对此，有知情人士透露，“满易”并非全新名称，相关商标此前已经完成注册，本次属于存量商标复用，并非临时新设。它此前已经出现在度小满相关的小贷公司和信贷产品中。（新浪科技）",
-        "cover": "",
-        "date": 1794473118398,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794477363543,
+    "thepaper": 1794478265812,
     "bilibili": 1794476496495,
-    "qbitai": 1794448595235,
-    "36kr": 1794448595633
+    "qbitai": 1794449503306,
+    "36kr": 1794449503660
   },
   "failures": {}
 }
