@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T22:11:36Z",
+  "updatedAt": "2026-11-11T22:26:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -34,38 +34,38 @@
         "rank": 5
       },
       {
-        "title": "马上评丨流量剧本背后怎么总有MCN机构的身影",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34451739",
-        "desc": "",
-        "rank": 6
-      },
-      {
         "title": "伊朗女性参加“为伊朗捐躯”培训：随时准备为国献身",
         "url": "https://www.thepaper.cn/newsDetail_forward_34453188",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "用英文丝滑执法的交警找到了，他说“中国警察在英语执法上是有能力的”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34452595",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "00后女作家被判定涉嫌洗稿，《人民文学》再度声明追回稿酬并向读者致歉",
         "url": "https://www.thepaper.cn/newsDetail_forward_34458009",
         "desc": "",
-        "rank": 9
+        "rank": 8
       },
       {
         "title": "泽连斯基：虽说可能不礼貌，但我的工作不是哄特朗普开心",
         "url": "https://www.thepaper.cn/newsDetail_forward_34453537",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "业内人士谈金鸡奖获奖名单：不能以一时的流量热度取代艺术判断",
         "url": "https://www.thepaper.cn/newsDetail_forward_34455070",
+        "desc": "",
+        "rank": 10
+      },
+      {
+        "title": "U20中青赛决赛生乱：球迷看台冲突，球童拿走水瓶遭围堵",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34458119",
         "desc": "",
         "rank": 11
       },
@@ -158,90 +158,26 @@
         "hotTitle": "在深圳看APEC和康辉的25年"
       },
       {
-        "title": "BLG打Gen决赛门票暴涨卖出天价！Gen老板发文吐槽太贵还一票难求，樊振东张靓颖发文为BLG加油！",
-        "url": "https://www.bilibili.com/video/BV1kDWj61EW6",
+        "title": "努力的Bin哥！世界赛排位164场！Bin美服排位雷达图 | BLG vs GEN S16决赛前瞻",
+        "url": "https://www.bilibili.com/video/BV1FdWD63EUZ",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1kDWj61EW6",
-        "author": "LPL电竞小卒",
-        "duration": "1:31",
-        "cover": "//i2.hdslb.com/bfs/archive/b290cc3b9d0ebdf523841fca4abb5ddeb7fb6ce2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kDWj61EW6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG打GEN决赛票价暴涨"
-      },
-      {
-        "title": "久等了！Fable 5.2 纯代码炫技短片《万物》| 狂烧16亿Token",
-        "url": "https://www.bilibili.com/video/BV1BxWu6SESe",
-        "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "震惊瘫坐在核弹上，仿佛看到椅子爆炸",
-        "content": "震惊瘫坐在核弹上，仿佛看到椅子爆炸",
-        "bvid": "BV1BxWu6SESe",
-        "author": "等二月花开",
-        "duration": "1:51",
-        "cover": "//i0.hdslb.com/bfs/archive/e8c274a9a7e49b3af0844a8633a0a44812ee2ac2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BxWu6SESe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "花费16亿Token制作的AI炫技短片"
-      },
-      {
-        "title": "王俊杰NCAA常规赛得分新高！28分9篮板带队取胜",
-        "url": "https://www.bilibili.com/video/BV1YGWQ6bEXJ",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1YGWQ6bEXJ",
-        "author": "北美篮球社",
-        "duration": "4:45",
-        "cover": "//i1.hdslb.com/bfs/archive/3b8d8b04eee3063bea84f79b3af4bf69a95f7f08.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YGWQ6bEXJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "王俊杰NCAA狂砍28分"
-      },
-      {
-        "title": "三年之期已到，恭迎世一上归位！【第17集】",
-        "url": "https://www.bilibili.com/video/BV12pWQ6QETV",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。",
-        "content": "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。",
-        "bvid": "BV12pWQ6QETV",
-        "author": "九夜听风",
-        "duration": "7:43",
-        "cover": "//i2.hdslb.com/bfs/archive/e87cb787f8e269a99e5831c04c1b91d1f2350e36.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12pWQ6QETV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "世一上短剧之最后一战"
-      },
-      {
-        "title": "谁点名要看我cos德穆兰的？英语总监莅临还不快来迎接！",
-        "url": "https://www.bilibili.com/video/BV1PKWj62ERK",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1PKWj62ERK",
-        "author": "考研英语晓燕",
-        "duration": "1:37",
-        "cover": "//i2.hdslb.com/bfs/archive/4a56552c21d7e495fc427abb835de4a830fcfb04.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PKWj62ERK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "刘晓艳 英语总监德穆兰"
+        "description": "努力的Bin哥！世界赛排位164场！Bin美服排位雷达图 | BLG vs GEN S16决赛前瞻",
+        "content": "努力的Bin哥！世界赛排位164场！Bin美服排位雷达图 | BLG vs GEN S16决赛前瞻",
+        "bvid": "BV1FdWD63EUZ",
+        "author": "_江之岛盾子_",
+        "duration": "19:11",
+        "cover": "//i1.hdslb.com/bfs/archive/b7330aa36387f67f61395e3c3ea3e374a35e9905.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FdWD63EUZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Bin美服排位数据雷达图"
       },
       {
         "title": "重磅跨界！C罗官宣进军影视圈",
         "url": "https://www.bilibili.com/video/BV1hVWQ6ZEEY",
         "desc": "",
-        "rank": 8,
+        "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -254,10 +190,58 @@
         "hotTitle": "C罗官宣进军影视圈"
       },
       {
+        "title": "久等了！Fable 5.2 纯代码炫技短片《万物》| 狂烧16亿Token",
+        "url": "https://www.bilibili.com/video/BV1BxWu6SESe",
+        "desc": "",
+        "rank": 5,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "震惊瘫坐在核弹上，仿佛看到椅子爆炸",
+        "content": "震惊瘫坐在核弹上，仿佛看到椅子爆炸",
+        "bvid": "BV1BxWu6SESe",
+        "author": "等二月花开",
+        "duration": "1:51",
+        "cover": "//i0.hdslb.com/bfs/archive/e8c274a9a7e49b3af0844a8633a0a44812ee2ac2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BxWu6SESe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "花费16亿Token制作的AI炫技短片"
+      },
+      {
+        "title": "谁点名要看我cos德穆兰的？英语总监莅临还不快来迎接！",
+        "url": "https://www.bilibili.com/video/BV1PKWj62ERK",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1PKWj62ERK",
+        "author": "考研英语晓燕",
+        "duration": "1:37",
+        "cover": "//i2.hdslb.com/bfs/archive/4a56552c21d7e495fc427abb835de4a830fcfb04.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PKWj62ERK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "刘晓艳 英语总监德穆兰"
+      },
+      {
+        "title": "【IGN】金摇杆奖2026年度游戏——《生化危机 安魂曲》",
+        "url": "https://www.bilibili.com/video/BV1WWWS6VEy1",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "2026年金摇杆奖年度游戏的获奖者是《生化危机 安魂曲》。《影之刃零》、《红色沙漠》分别获得第二和第三。《生化危机 安魂曲》由卡普空开发，已于2月27日登陆PS5、XBOX Series、Switch 2和PC。",
+        "content": "2026年金摇杆奖年度游戏的获奖者是《生化危机 安魂曲》。《影之刃零》、《红色沙漠》分别获得第二和第三。《生化危机 安魂曲》由卡普空开发，已于2月27日登陆PS5、XBOX Series、Switch 2和PC。",
+        "bvid": "BV1WWWS6VEy1",
+        "author": "IGN中国",
+        "duration": "4:6",
+        "cover": "//i2.hdslb.com/bfs/archive/c78f4529c8460e60c56633a7223985439715010b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WWWS6VEy1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "金摇杆年度游戏生化危机9"
+      },
+      {
         "title": "《再 试 一 次！》",
         "url": "https://www.bilibili.com/video/BV1FQWU6KErd",
         "desc": "",
-        "rank": 9,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "OK了家人们，四强BLGvsT1的内容，准备了点小巧思加油啊啊啊啊BLG",
@@ -270,20 +254,36 @@
         "hotTitle": "回顾BLG战胜T1的突围之路"
       },
       {
-        "title": "努力的Bin哥！世界赛排位164场！Bin美服排位雷达图 | BLG vs GEN S16决赛前瞻",
-        "url": "https://www.bilibili.com/video/BV1FdWD63EUZ",
+        "title": "盘点中国十大奇葩烧烤，全吃过的老铁，直接可以封神",
+        "url": "https://www.bilibili.com/video/BV1BY4y1D7mX",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "盘点中国十大奇葩烧烤，全吃过的老铁，直接可以封神",
+        "content": "盘点中国十大奇葩烧烤，全吃过的老铁，直接可以封神",
+        "bvid": "BV1BY4y1D7mX",
+        "author": "原点科普",
+        "duration": "6:14",
+        "cover": "//i2.hdslb.com/bfs/archive/6d1d50eba0017aec4fbd5d6ca0f1392530f3ab3b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BY4y1D7mX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "天南海北猎奇烧烤大赏"
+      },
+      {
+        "title": "大结局！漫威8.6分神剧？绯红女巫复活！一口气看完《幻视任务》！",
+        "url": "https://www.bilibili.com/video/BV17gWy6mEEq",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "努力的Bin哥！世界赛排位164场！Bin美服排位雷达图 | BLG vs GEN S16决赛前瞻",
-        "content": "努力的Bin哥！世界赛排位164场！Bin美服排位雷达图 | BLG vs GEN S16决赛前瞻",
-        "bvid": "BV1FdWD63EUZ",
-        "author": "_江之岛盾子_",
-        "duration": "19:11",
-        "cover": "//i1.hdslb.com/bfs/archive/b7330aa36387f67f61395e3c3ea3e374a35e9905.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FdWD63EUZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Bin美服排位数据雷达图"
+        "description": "",
+        "content": "",
+        "bvid": "BV17gWy6mEEq",
+        "author": "BuriedAlien",
+        "duration": "33:35",
+        "cover": "//i0.hdslb.com/bfs/archive/eb9d43c94b985d71647a42ba17d416cabe936763.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17gWy6mEEq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "旺达或将在复联5回归"
       },
       {
         "title": "《崩坏：星穹铁道》EP：「无中生有」",
@@ -302,26 +302,10 @@
         "hotTitle": "星穹铁道最新EP无中生有"
       },
       {
-        "title": "盘点中国十大奇葩烧烤，全吃过的老铁，直接可以封神",
-        "url": "https://www.bilibili.com/video/BV1BY4y1D7mX",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "盘点中国十大奇葩烧烤，全吃过的老铁，直接可以封神",
-        "content": "盘点中国十大奇葩烧烤，全吃过的老铁，直接可以封神",
-        "bvid": "BV1BY4y1D7mX",
-        "author": "原点科普",
-        "duration": "6:14",
-        "cover": "//i2.hdslb.com/bfs/archive/6d1d50eba0017aec4fbd5d6ca0f1392530f3ab3b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BY4y1D7mX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "天南海北猎奇烧烤大赏"
-      },
-      {
         "title": "香港育种、深圳落地，都市楼宇如何变身立体良田？",
         "url": "https://www.bilibili.com/video/BV1JkW962ESt",
         "desc": "",
-        "rank": 13,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -332,6 +316,22 @@
         "cover": "//i1.hdslb.com/bfs/archive/375ae78ad2cef9363b2c71bfe7a0c279125a7ae1.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JkW962ESt&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "都市楼宇如何变成立体良田"
+      },
+      {
+        "title": "《影之刃零》差1%票遗憾惜败！《生化危机 安魂曲》获金摇杆终极年度游戏大奖",
+        "url": "https://www.bilibili.com/video/BV1TwWD67EkV",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "2026年第44届金摇杆奖颁奖典礼于北京时间11月12日凌晨举行，卡普空旗下《生化危机：安魂曲》成功摘得最高荣誉“年度终极游戏”（Ultimate Game of the Year）。 根据现场公布的玩家投票结果，《生化危机：安魂曲》以17%的得票率夺冠，国产武侠动作游戏《影之刃零》以16%的得票率位居第二，仅以1个百分点之差遗憾落败。《红色沙漠》则以15%的得票率排名第三，前三名的竞争相当激烈。",
+        "content": "2026年第44届金摇杆奖颁奖典礼于北京时间11月12日凌晨举行，卡普空旗下《生化危机：安魂曲》成功摘得最高荣誉“年度终极游戏”（Ultimate Game of the Year）。 根据现场公布的玩家投票结果，《生化危机：安魂曲》以17%的得票率夺冠，国产武侠动作游戏《影之刃零》以16%的得票率位居第二，仅以1个百分点之差遗憾落败。《红色沙漠》则以15%的得票率排名第三，前三名的竞争相当激烈。",
+        "bvid": "BV1TwWD67EkV",
+        "author": "二柄APP",
+        "duration": "2:20",
+        "cover": "//i2.hdslb.com/bfs/archive/782cf182975dad4d8a76df89dd3d393d7191986e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TwWD67EkV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "影之刃零离年度游戏只差1%"
       },
       {
         "title": "神仙斗法，无间风云！一句话800个心眼的官场，细思极恐！万字细嗦《谷雨》第六期 包含；剧情、细节、镜头语言、人性解析等",
@@ -350,74 +350,26 @@
         "hotTitle": "新剧谷雨里的官场神仙斗法"
       },
       {
-        "title": "大结局！漫威8.6分神剧？绯红女巫复活！一口气看完《幻视任务》！",
-        "url": "https://www.bilibili.com/video/BV17gWy6mEEq",
+        "title": "BLG打Gen决赛门票暴涨卖出天价！Gen老板发文吐槽太贵还一票难求，樊振东张靓颖发文为BLG加油！",
+        "url": "https://www.bilibili.com/video/BV1kDWj61EW6",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV17gWy6mEEq",
-        "author": "BuriedAlien",
-        "duration": "33:35",
-        "cover": "//i0.hdslb.com/bfs/archive/eb9d43c94b985d71647a42ba17d416cabe936763.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17gWy6mEEq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "旺达或将在复联5回归"
-      },
-      {
-        "title": "用桃子给女明星做项链？还第一个听新歌！",
-        "url": "https://www.bilibili.com/video/BV1VzW36UEn6",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1VzW36UEn6",
-        "author": "小桑菜奈",
-        "duration": "3:14",
-        "cover": "//i0.hdslb.com/bfs/archive/376f4491503c7f7f7e4eace90952dadefded7de3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VzW36UEn6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主用桃子给ITZY彩领做项链"
-      },
-      {
-        "title": "胡皓康丨康康成年礼记录一则",
-        "url": "https://www.bilibili.com/video/BV1VvW36HEdP",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1VvW36HEdP",
-        "author": "演员胡军",
-        "duration": "6:56",
-        "cover": "//i1.hdslb.com/bfs/archive/fb62dc0f2f9208d20f4f9df787204a2cadf2ddda.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VvW36HEdP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "胡军分享康康成年礼Vlog"
-      },
-      {
-        "title": "【IGN】金摇杆奖2026年度游戏——《生化危机 安魂曲》",
-        "url": "https://www.bilibili.com/video/BV1WWWS6VEy1",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "2026年金摇杆奖年度游戏的获奖者是《生化危机 安魂曲》。《影之刃零》、《红色沙漠》分别获得第二和第三。《生化危机 安魂曲》由卡普空开发，已于2月27日登陆PS5、XBOX Series、Switch 2和PC。",
-        "content": "2026年金摇杆奖年度游戏的获奖者是《生化危机 安魂曲》。《影之刃零》、《红色沙漠》分别获得第二和第三。《生化危机 安魂曲》由卡普空开发，已于2月27日登陆PS5、XBOX Series、Switch 2和PC。",
-        "bvid": "BV1WWWS6VEy1",
-        "author": "IGN中国",
-        "duration": "4:6",
-        "cover": "//i2.hdslb.com/bfs/archive/c78f4529c8460e60c56633a7223985439715010b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WWWS6VEy1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "金摇杆年度游戏生化危机9"
+        "bvid": "BV1kDWj61EW6",
+        "author": "LPL电竞小卒",
+        "duration": "1:31",
+        "cover": "//i2.hdslb.com/bfs/archive/b290cc3b9d0ebdf523841fca4abb5ddeb7fb6ce2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kDWj61EW6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG打GEN决赛票价暴涨"
       },
       {
         "title": "国一步？英雄勺？Smoggy究竟是真枪男还是假团队？【瓦评#1】",
         "url": "https://www.bilibili.com/video/BV1xJWm6MEmA",
         "desc": "",
-        "rank": 19,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -430,90 +382,74 @@
         "hotTitle": "从历年发挥看Smoggy是真枪男吗"
       },
       {
-        "title": "S16决赛前瞻丨预祝BLG痛失亚军！Bin：GenG比T1好打~【赛事食报】",
-        "url": "https://www.bilibili.com/video/BV1MxWy6qEU2",
+        "title": "千 万 别 开 911 去 川 西 ！",
+        "url": "https://www.bilibili.com/video/BV1kBWg68Ejf",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1kBWg68Ejf",
+        "author": "极速拍档",
+        "duration": "25:43",
+        "cover": "//i1.hdslb.com/bfs/archive/47445378251c96a1875113e98a595d483b49e898.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kBWg68Ejf&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "根本没有这种车去川西"
+      },
+      {
+        "title": "我们找来了一些香水感受了一下…",
+        "url": "https://www.bilibili.com/video/BV1NRW36BEw1",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1NRW36BEw1",
+        "author": "摸鱼事务所",
+        "duration": "35:59",
+        "cover": "//i0.hdslb.com/bfs/archive/edd38d63a257b8f209b265af85a8dfe2d4c70be2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NRW36BEw1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "摸老师测评香水现神比喻"
+      },
+      {
+        "title": "黑客勒索，政企全沦陷，软盘仙人“日本”正在被黑客集中爆破？",
+        "url": "https://www.bilibili.com/video/BV1UWWM6wEEz",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "BLG牛逼 调查：约三成日本大企业承认曾泄露或疑似泄露数据 2026 10/19 21:03:51 来源：新华网 日本一软件企业逾2000万条客户记录或遭泄露 2026 10/16 13:44:12 来源：新华网 瑞士一家肉类制品商制冷系统遭黑客攻击 2026 11/06 10:30:18 来源：新华网 法国一银行被“黑” 涉案约1亿欧元 2026 11/05 16:43:25 来源：新华网",
+        "content": "BLG牛逼 调查：约三成日本大企业承认曾泄露或疑似泄露数据 2026 10/19 21:03:51 来源：新华网 日本一软件企业逾2000万条客户记录或遭泄露 2026 10/16 13:44:12 来源：新华网 瑞士一家肉类制品商制冷系统遭黑客攻击 2026 11/06 10:30:18 来源：新华网 法国一银行被“黑” 涉案约1亿欧元 2026 11/05 16:43:25 来源：新华网",
+        "bvid": "BV1UWWM6wEEz",
+        "author": "星辰趣味屋",
+        "duration": "17:22",
+        "cover": "//i2.hdslb.com/bfs/archive/faecc78a2f8a12ca045968c83c1731f7590309f1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UWWM6wEEz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "日本遭黑客爆破是怎么回事"
+      },
+      {
+        "title": "跨越3500公里探秘亚洲第一商场！居然在这个国家？",
+        "url": "https://www.bilibili.com/video/BV1ViW36DErN",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "感谢观众老爷们的三连和关注支持！~❀(๑╯◡╰๑)❀~",
-        "content": "感谢观众老爷们的三连和关注支持！~❀(๑╯◡╰๑)❀~",
-        "bvid": "BV1MxWy6qEU2",
-        "author": "小毒MomentD",
-        "duration": "8:18",
-        "cover": "//i0.hdslb.com/bfs/archive/ed81473adfc51e321587b23d9260b01de0740650.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MxWy6qEU2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S16决赛的胜负手在哪里"
-      },
-      {
-        "title": "神级彩蛋！直击《复联5》！《寻找幻视》第8集细节解析！幻红一家终于回归",
-        "url": "https://www.bilibili.com/video/BV1mDW16uEQz",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《寻找幻视》第8集",
-        "content": "《寻找幻视》第8集",
-        "bvid": "BV1mDW16uEQz",
-        "author": "超英队长",
-        "duration": "33:40",
-        "cover": "//i2.hdslb.com/bfs/archive/439a245b6f73b547af04743574e496c7c99ae5a6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mDW16uEQz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "绯红女巫在幻视任务中被唤醒"
-      },
-      {
-        "title": "市场预期美联储12月加息概率100%；Anthropic即将上市，2万亿美元估值大幅下降；美国CPI数据",
-        "url": "https://www.bilibili.com/video/BV11CWD6EEHs",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "美国10月CPI环比上涨0.4%，高于市场预期的0.3%； 受此影响，市场预期美联储12月9日加息的概率已经是100%； 另外，Anthropic本月即将上市，估值却出现剧烈变化。 具体本视频会来详细分析，感谢赞赏支持。",
-        "content": "美国10月CPI环比上涨0.4%，高于市场预期的0.3%； 受此影响，市场预期美联储12月9日加息的概率已经是100%； 另外，Anthropic本月即将上市，估值却出现剧烈变化。 具体本视频会来详细分析，感谢赞赏支持。",
-        "bvid": "BV11CWD6EEHs",
-        "author": "星话大白",
-        "duration": "6:52",
-        "cover": "//i2.hdslb.com/bfs/archive/656668cc79aacf6daf1816f13817096b1e98fd33.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11CWD6EEHs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "美联储12月加息概率升至100%"
-      },
-      {
-        "title": "从“室友”到“敌人”？布朗与塔图姆之间，到底发生了什么？",
-        "url": "https://www.bilibili.com/video/BV1RWWU6WEUV",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "今天，就让我们用一个视频看懂布朗与塔图姆的12年恩怨",
-        "content": "今天，就让我们用一个视频看懂布朗与塔图姆的12年恩怨",
-        "bvid": "BV1RWWU6WEUV",
-        "author": "Telfair童",
-        "duration": "18:53",
-        "cover": "//i2.hdslb.com/bfs/archive/6efd4c07f859b26357019bc968d12edd8d990fe0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RWWU6WEUV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "布朗与塔图姆之间的恩怨情仇"
-      },
-      {
-        "title": "热烈欢迎谢苗！听听新一代“功夫巨星”对自己的生活和工作什么评价？（有一说一，苗哥的夫人何彦霓女士做面包真的太好吃了！太好吃啦！！！",
-        "url": "https://www.bilibili.com/video/BV1NXWu6wE9P",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "加更在@papi热烈欢迎",
-        "content": "加更在@papi热烈欢迎",
-        "bvid": "BV1NXWu6wE9P",
-        "author": "papi酱",
-        "duration": "37:39",
-        "cover": "//i0.hdslb.com/bfs/archive/238d86380f6b5c4c74918892bea636d2c4b2d119.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NXWu6wE9P&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "papi酱热烈欢迎功夫巨星谢苗"
+        "description": "每次在网上刷到关于哪个商场好的讨论，总能看到有很多人说暹罗天地。但我一直很疑惑：为啥亚洲最好的商场会开在泰国？难道那么多大城市都比不过曼谷吗？所以这次我去拍了一期实测视频，发现确实有些出人意料的地方... ⚠本视频不含广告，且和任何机构均没有合作，所有差旅都是自费 ⚠本视频不构成旅游安利or出行建议，因为去的这几天我除了酒店和商场哪也没去，同时建议各位去任何国家前请仔细阅读当地大使馆的安全须知 Broll BGM： Black Prez _ Wake The Lion - Rise To The To",
+        "content": "每次在网上刷到关于哪个商场好的讨论，总能看到有很多人说暹罗天地。但我一直很疑惑：为啥亚洲最好的商场会开在泰国？难道那么多大城市都比不过曼谷吗？所以这次我去拍了一期实测视频，发现确实有些出人意料的地方... ⚠本视频不含广告，且和任何机构均没有合作，所有差旅都是自费 ⚠本视频不构成旅游安利or出行建议，因为去的这几天我除了酒店和商场哪也没去，同时建议各位去任何国家前请仔细阅读当地大使馆的安全须知 Broll BGM： Black Prez _ Wake The Lion - Rise To The To",
+        "bvid": "BV1ViW36DErN",
+        "author": "-LKs-",
+        "duration": "24:5",
+        "cover": "//i1.hdslb.com/bfs/archive/437e80096a537b8b8b63af5da0b80ad718da6f33.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ViW36DErN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "LKS探秘亚洲第一商场"
       },
       {
         "title": "无语！无脑单干！全场瞎打！布朗到底有多弱？",
         "url": "https://www.bilibili.com/video/BV1MQW16BEL6",
         "desc": "",
-        "rank": 25,
+        "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -529,7 +465,7 @@
         "title": "TLC闪存现货价大幅下跌：创今年最大单周跌幅｜显卡日报11月12日",
         "url": "https://www.bilibili.com/video/BV1AAW26cEiU",
         "desc": "",
-        "rank": 26,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "日报有用记得关注哦，你的鼓励真的很重要",
@@ -542,58 +478,74 @@
         "hotTitle": "TLC闪存现货价跌幅有多猛"
       },
       {
-        "title": "我们找来了一些香水感受了一下…",
-        "url": "https://www.bilibili.com/video/BV1NRW36BEw1",
+        "title": "详细讲解Henry Poston滑板博主被追杀事件以及背后的真相，你真的认为事情这么简单吗",
+        "url": "https://www.bilibili.com/video/BV14xWJ68E5x",
         "desc": "",
-        "rank": 27,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1NRW36BEw1",
-        "author": "摸鱼事务所",
-        "duration": "35:59",
-        "cover": "//i0.hdslb.com/bfs/archive/edd38d63a257b8f209b265af85a8dfe2d4c70be2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NRW36BEw1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "摸老师测评香水现神比喻"
+        "description": "参考引用文献或资料： Social media influencer says man threatened to kill him on Rhode Island bike path https://turnto10.com/news/local/social-media-influencer-says-man-threatened-to-kill-him-on-rhode-island-bike-pathblackstone-river-bikeway-lincoln-police-streamer-",
+        "content": "参考引用文献或资料： Social media influencer says man threatened to kill him on Rhode Island bike path https://turnto10.com/news/local/social-media-influencer-says-man-threatened-to-kill-him-on-rhode-island-bike-pathblackstone-river-bikeway-lincoln-police-streamer-",
+        "bvid": "BV14xWJ68E5x",
+        "author": "药厂人家",
+        "duration": "19:15",
+        "cover": "//i2.hdslb.com/bfs/archive/d1ab7c1f08d8272898561995ef7a0c23e40dafe7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14xWJ68E5x&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "海外滑板博主被追杀真相如何"
       },
       {
-        "title": "千 万 别 开 911 去 川 西 ！",
-        "url": "https://www.bilibili.com/video/BV1kBWg68Ejf",
+        "title": "理性简析后会友期：全嘉宾主要矛盾、和好预测",
+        "url": "https://www.bilibili.com/video/BV1gpWy6zEqY",
         "desc": "",
-        "rank": 28,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1kBWg68Ejf",
-        "author": "极速拍档",
-        "duration": "25:43",
-        "cover": "//i1.hdslb.com/bfs/archive/47445378251c96a1875113e98a595d483b49e898.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kBWg68Ejf&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "根本没有这种车去川西"
+        "bvid": "BV1gpWy6zEqY",
+        "author": "玉玉__",
+        "duration": "34:16",
+        "cover": "//i0.hdslb.com/bfs/archive/fa3b99ae7a3cb710eebdea2df56b7b51333a8cb0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gpWy6zEqY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "预测后会友期嘉宾哪些会和好"
       },
       {
-        "title": "Gemini 4 Carbon 实测：Ultra 才能用，到底值不值？",
-        "url": "https://www.bilibili.com/video/BV1tjWm6gEtm",
+        "title": "神级彩蛋！直击《复联5》！《寻找幻视》第8集细节解析！幻红一家终于回归",
+        "url": "https://www.bilibili.com/video/BV1mDW16uEQz",
         "desc": "",
-        "rank": 29,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1tjWm6gEtm",
-        "author": "神烦老狗",
-        "duration": "14:8",
-        "cover": "//i1.hdslb.com/bfs/archive/642f653f6ed985d95031aab53640fa59a9af2cee.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tjWm6gEtm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "8个场景实测Gemini 4 Carbon"
+        "description": "《寻找幻视》第8集",
+        "content": "《寻找幻视》第8集",
+        "bvid": "BV1mDW16uEQz",
+        "author": "超英队长",
+        "duration": "33:40",
+        "cover": "//i2.hdslb.com/bfs/archive/439a245b6f73b547af04743574e496c7c99ae5a6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mDW16uEQz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "绯红女巫在幻视任务中被唤醒"
+      },
+      {
+        "title": "热烈欢迎谢苗！听听新一代“功夫巨星”对自己的生活和工作什么评价？（有一说一，苗哥的夫人何彦霓女士做面包真的太好吃了！太好吃啦！！！",
+        "url": "https://www.bilibili.com/video/BV1NXWu6wE9P",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "加更在@papi热烈欢迎",
+        "content": "加更在@papi热烈欢迎",
+        "bvid": "BV1NXWu6wE9P",
+        "author": "papi酱",
+        "duration": "37:39",
+        "cover": "//i0.hdslb.com/bfs/archive/238d86380f6b5c4c74918892bea636d2c4b2d119.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NXWu6wE9P&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "papi酱热烈欢迎功夫巨星谢苗"
       },
       {
         "title": "大学生食堂打饭教程",
         "url": "https://www.bilibili.com/video/BV1Dj4B6FEnc",
         "desc": "",
-        "rank": 30,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -604,9 +556,67 @@
         "cover": "//i2.hdslb.com/bfs/archive/d4b2a9cd40ea73a0d99c30735ad9b3bde5e5c319.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dj4B6FEnc&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "大学生食堂打饭教程"
+      },
+      {
+        "title": "全球掀起抵制数据中心的浪潮",
+        "url": "https://www.bilibili.com/video/BV1PKWj62EWL",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "从孟菲斯、阿姆斯特丹和都柏林的抗议，到泰国和印尼的数据中心项目受阻，算力扩张遇到了电、水和土地上的难题。本期从弗吉尼亚的一场诉讼讲到乌兰察布如何给机房降温，再用美国稀土项目追问，补贴和投资宣布之后，谁能把配套、融资和生产组织起来，真正交付产能？",
+        "content": "从孟菲斯、阿姆斯特丹和都柏林的抗议，到泰国和印尼的数据中心项目受阻，算力扩张遇到了电、水和土地上的难题。本期从弗吉尼亚的一场诉讼讲到乌兰察布如何给机房降温，再用美国稀土项目追问，补贴和投资宣布之后，谁能把配套、融资和生产组织起来，真正交付产能？",
+        "bvid": "BV1PKWj62EWL",
+        "author": "内部看美国",
+        "duration": "14:52",
+        "cover": "//i0.hdslb.com/bfs/archive/adbec1c42767ba4118fcc389ba4549751e3e0dda.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PKWj62EWL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "欧美掀起抵制AI数据中心浪潮"
+      },
+      {
+        "title": "【S16】BLG GENG决赛前瞻。版本答案是什么？如何应对canyon琪亚娜",
+        "url": "https://www.bilibili.com/video/BV1KoW16NEHy",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1KoW16NEHy",
+        "author": "心语悦无言",
+        "duration": "14:33",
+        "cover": "//i2.hdslb.com/bfs/archive/075360a39a935feb2c46b3539960efad2d756e9a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KoW16NEHy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG vs GEN决赛前瞻"
+      },
+      {
+        "title": "大家好，我是Smoggy！我入驻B站啦！",
+        "url": "https://www.bilibili.com/video/BV1yBW26KEeQ",
+        "desc": "",
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1yBW26KEeQ",
+        "author": "BLG_Smoggy",
+        "duration": "0:22",
+        "cover": "//i1.hdslb.com/bfs/archive/92ee452d19f3c72a421f0adac8b320fe7d2a682b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yBW26KEeQ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Smoggy入驻B站啦"
       }
     ],
     "qbitai": [
+      {
+        "title": "百曜科技入选全球 The Information 50！",
+        "url": "https://www.qbitai.com/2026/11/509285.html",
+        "desc": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/b210d15417e0fbfc25a96b9dc8d82eeb.png",
+        "date": "2026-11-12T14:13:22",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
       {
         "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
         "url": "https://www.qbitai.com/2026/11/509281.html",
@@ -615,7 +625,7 @@
         "date": "2026-11-12T09:45:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
@@ -625,7 +635,7 @@
         "date": "2026-11-11T20:43:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "上海造、香港连，中国AI加速走向全球",
@@ -635,7 +645,7 @@
         "date": "2026-11-11T20:22:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
@@ -645,7 +655,7 @@
         "date": "2026-11-11T17:58:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
@@ -655,7 +665,7 @@
         "date": "2026-11-11T14:41:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
@@ -665,7 +675,7 @@
         "date": "2026-11-11T14:27:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
@@ -675,7 +685,7 @@
         "date": "2026-11-11T14:18:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
@@ -685,7 +695,7 @@
         "date": "2026-11-11T11:43:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
@@ -695,7 +705,7 @@
         "date": "2026-11-10T18:35:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
@@ -705,7 +715,7 @@
         "date": "2026-11-10T16:33:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
@@ -715,7 +725,7 @@
         "date": "2026-11-10T15:57:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
@@ -725,7 +735,7 @@
         "date": "2026-11-10T15:56:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
@@ -735,7 +745,7 @@
         "date": "2026-11-10T15:50:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
@@ -745,7 +755,7 @@
         "date": "2026-11-10T15:33:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "Token卷到触觉了！机器人终于有了通用手感",
@@ -755,7 +765,7 @@
         "date": "2026-11-10T15:26:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
@@ -765,7 +775,7 @@
         "date": "2026-11-10T15:03:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
@@ -775,7 +785,7 @@
         "date": "2026-11-10T10:48:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
@@ -785,7 +795,7 @@
         "date": "2026-11-10T09:27:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
@@ -795,7 +805,7 @@
         "date": "2026-11-10T06:11:49",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "Fable 5.2深夜掀桌！从0造操作系统，性价比反超Opus 5.5",
@@ -805,7 +815,7 @@
         "date": "2026-11-10T06:08:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
@@ -815,7 +825,7 @@
         "date": "2026-11-09T18:23:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
@@ -825,7 +835,7 @@
         "date": "2026-11-09T17:58:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
@@ -835,7 +845,7 @@
         "date": "2026-11-09T17:48:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "具身智能出海，物流先行",
@@ -845,7 +855,7 @@
         "date": "2026-11-09T17:01:13",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "“AI毁了我的计算机学位”",
@@ -855,7 +865,7 @@
         "date": "2026-11-09T16:57:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
@@ -865,7 +875,7 @@
         "date": "2026-11-09T16:44:00",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
@@ -875,7 +885,7 @@
         "date": "2026-11-09T16:34:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
@@ -885,7 +895,7 @@
         "date": "2026-11-09T16:26:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
@@ -893,16 +903,6 @@
         "desc": "最早量产的亲自泼冷水",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/b886b21a1cb7974b84638cebe77e9de8.png",
         "date": "2026-11-09T15:02:36",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
-        "url": "https://www.qbitai.com/2026/11/508607.html",
-        "desc": "Worker不够了主管Agent还能自己招！",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/3db19b191bb80d873747a8f2d1fa309b.webp",
-        "date": "2026-11-09T13:47:58",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "王文涛应约与英国商贸大臣雷诺兹举行视频通话",
+        "url": "https://m.36kr.com/newsflashes/4066388500927618",
+        "desc": "36氪获悉，据商务部消息，11月11日，商务部部长王文涛应约与英国商贸大臣雷诺兹举行视频通话，双方就电动汽车等双方关注的经贸议题交换意见。",
+        "cover": "",
+        "date": 1794464657527,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "机构：新单跟进不足，光伏产业链价格下行压力渐显",
+        "url": "https://m.36kr.com/newsflashes/4066383785710470",
+        "desc": "36氪获悉，据集邦咨询，当前多晶硅库存维持在57万吨以上，供需过剩压力依然较大。本月国内多晶硅企业继续减产，预计全月国内硅料产量降至9.5万吨左右，但对比下游拉晶需求略微过剩，累库趋势放缓。当前硅片库存维持在27GW左右，整体供给仍较为充裕，而下游电池片需求支撑不足，库存压力尚未缓解，部分企业已出现低价出货现象，整体价格延续弱稳运行态势。当前国内集中式光伏项目处于年底安装收尾阶段，210尺寸组件订单交付有所增加，但其他尺寸产品需求仍相对疲弱。终端多以刚需及前期中标订单交付为主，整体交投情绪平淡。",
+        "cover": "",
+        "date": 1794464369733,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "知名科技分析师艾夫斯：马斯克需要向德克萨斯州民主党人“抛出橄榄枝”",
         "url": "https://m.36kr.com/newsflashes/4066375812519048",
         "desc": "知名科技分析师丹·艾夫斯（Dan Ives）表示，在民主党赢得中期选举后，埃隆·马斯克必须寻求与德克萨斯州官员达成政治妥协，以维护SpaceX在人工智能数据中心方面的雄心。民主党人吉娜・伊诺霍萨赢得得克萨斯州州长选举后，各界对新建数据中心的审视力度明显加大。她主张在针对电力、水资源及社区建立更强有力的保护措施之前，暂停对相关项目的审批；不过，她也表示愿意与马斯克旗下的公司开展合作。（新浪财经）",
@@ -937,7 +957,7 @@
         "date": 1794463883088,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "徐工集团商业保理公司增资至10亿，增幅约67%",
@@ -947,7 +967,7 @@
         "date": 1794463106000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "恒生科技指数跌幅扩大至2%",
@@ -957,7 +977,7 @@
         "date": 1794462882677,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "美国家庭今冬取暖费预计平均上涨7.1%",
@@ -967,7 +987,7 @@
         "date": 1794462849000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "创业板指跌超2%",
@@ -977,7 +997,7 @@
         "date": 1794462656145,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "重庆：力争到2028年全市可调度智算规模超10万P",
@@ -987,7 +1007,7 @@
         "date": 1794462466000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "中国铁建、重庆高速等成立创业投资基金，出资额8亿",
@@ -997,7 +1017,7 @@
         "date": 1794462054000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "新易盛成交额达200亿元",
@@ -1007,7 +1027,7 @@
         "date": 1794461747484,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "中国证监会：汇聚各方合力，全力维护市场平稳运行",
@@ -1017,7 +1037,7 @@
         "date": 1794461470915,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "机构：第三季度中国平板电脑市场出货量同比下降22.3%",
@@ -1027,7 +1047,7 @@
         "date": 1794461355000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "融资成本高，越南搁置美元主权债发行计划",
@@ -1037,7 +1057,7 @@
         "date": 1794460813000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "创业板指跌超1%",
@@ -1047,7 +1067,7 @@
         "date": 1794460638131,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "金固股份、上纬新材等在杭州成立金启富元机器人公司，注册资本2亿",
@@ -1057,7 +1077,7 @@
         "date": 1794460284123,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "广州土拍收金13.05亿元，保利发展补仓荔湾东沙",
@@ -1067,7 +1087,7 @@
         "date": 1794460013000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "马斯克回应Anthropic或不续租算力：乐意收回",
@@ -1077,7 +1097,7 @@
         "date": 1794459636000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "飞猪双11履约GMV同比增长60%",
@@ -1087,7 +1107,7 @@
         "date": 1794459164000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "三星与SK海力士密切关注英伟达事态发展",
@@ -1097,7 +1117,7 @@
         "date": 1794458644000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "上交所理事长邱勇：截至三季度末中长期资金持仓沪市ETF超1.7万亿，较2025年底增长13%",
@@ -1107,35 +1127,15 @@
         "date": 1794458066246,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "李彦宏：推理将成AI芯片长期持续增长的主要推动力",
-        "url": "https://m.36kr.com/newsflashes/4066258760340615",
-        "desc": "36氪获悉，在百度世界2026开幕式上，百度创始人李彦宏在谈及AI芯片时表示，过去AI算力需求主要以训练为主，而现在是训练与推理并重的格局，尤其是智能体应用的规模化，带动了推理计算需求的大爆发。“我们相信，推理将成为AI芯片长期持续增长的主要推动力。”昆仑芯介绍了下一步产品计划，目前M100已如期上市，M300将于明年推出。",
-        "cover": "",
-        "date": 1794457867000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "“曦选创智”完成5亿元天使轮融资",
-        "url": "https://m.36kr.com/newsflashes/4066240518034311",
-        "desc": "36氪获悉，由优必选、沐曦股份、锋龙股份共同出资设立的具身智能端侧芯片企业“曦选创智”完成5亿元天使轮融资，投后估值40亿元。本轮融资由纪源资本、经纬创投联合领投，多家机构跟投。曦选创智聚焦打造自主可控的具身智能端侧芯片与计算平台，首颗自研芯片定位为面向机器人的“大小脑一体”SoC。公司计划2027年向产业伙伴提供开发验证平台，用于适配和测试，2028年推出首款SoC产品及配套的具身智能整体解决方案。",
-        "cover": "",
-        "date": 1794457471000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794463863841,
-    "bilibili": 1794462074765,
-    "qbitai": 1794435096138,
-    "36kr": 1794435096510
+    "thepaper": 1794464764281,
+    "bilibili": 1794463881183,
+    "qbitai": 1794435993276,
+    "36kr": 1794435993612
   },
   "failures": {}
 }
