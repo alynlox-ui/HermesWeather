@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T04:56:36Z",
+  "updatedAt": "2026-11-12T05:12:39Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,20 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "快问快答:浅谈卡里克下课，波切蒂诺上任",
-        "url": "https://www.bilibili.com/video/BV1G4WU6pETG",
+        "title": "曼联官宣主教练卡里克离任",
+        "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%AE%98%E5%AE%A3%E4%B8%BB%E6%95%99%E7%BB%83%E5%8D%A1%E9%87%8C%E5%85%8B%E7%A6%BB%E4%BB%BB",
         "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1G4WU6pETG",
-        "author": "王楚淇解说",
-        "duration": "2:8",
-        "cover": "//i1.hdslb.com/bfs/archive/2d078de5b50db3cadca4b62c89676131b6fcab3b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1G4WU6pETG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "曼联官宣主教练卡里克离任"
+        "rank": 1
       },
       {
         "title": "圆脸连线日韩专家聊国际秩序转变",
@@ -158,36 +148,16 @@
         "hotTitle": "圆脸连线日韩专家聊国际秩序转变"
       },
       {
-        "title": "学姐，毕业快乐！# 卡黄 # 郭本尼 # snh4",
-        "url": "https://www.bilibili.com/video/BV1aS4s6FEZT",
+        "title": "郭本尼后会友期在线拉架",
+        "url": "https://search.bilibili.com/all?keyword=%E9%83%AD%E6%9C%AC%E5%B0%BC%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%9C%A8%E7%BA%BF%E6%8B%89%E6%9E%B6",
         "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1aS4s6FEZT",
-        "author": "影视古装剪辑",
-        "duration": "0:32",
-        "cover": "//i1.hdslb.com/bfs/archive/485572904c7700e58af0a4c33a26336ea2a9fd79.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aS4s6FEZT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "郭本尼后会友期在线拉架"
+        "rank": 3
       },
       {
-        "title": "曼联解雇卡里克很及时！波切蒂诺并不菜！这次换帅负负得正？",
-        "url": "https://www.bilibili.com/video/BV1cwWd6XEAR",
+        "title": "波切蒂诺会给曼联带来什么变化",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E4%BC%9A%E7%BB%99%E6%9B%BC%E8%81%94%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96",
         "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1cwWd6XEAR",
-        "author": "爱足球的谢宇宁",
-        "duration": "8:50",
-        "cover": "//i2.hdslb.com/bfs/archive/46a41d28bbb407a96487e7b1686d19a38dcc7fc4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cwWd6XEAR&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "波切蒂诺会给曼联带来什么变化"
+        "rank": 4
       },
       {
         "title": "什么叫买不到10米长的USB线？🤔️我拿延长线硬接过去不行吗？ 【柴知道】",
@@ -930,6 +900,16 @@
         "rank": 2
       },
       {
+        "title": "热门中概股美股盘前普跌，阿里巴巴跌超4%",
+        "url": "https://m.36kr.com/newsflashes/4066776880731265",
+        "desc": "36氪获悉，热门中概股美股盘前普跌，截至发稿，阿里巴巴跌超4%，哔哩哔哩跌超2%，京东、拼多多、百度、小鹏集团、蔚来、理想汽车、爱奇艺跌超1%。",
+        "cover": "",
+        "date": 1794488362349,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
         "title": "美股大型科技股盘前多数下跌，英伟达跌超7%",
         "url": "https://m.36kr.com/newsflashes/4066771435345032",
         "desc": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，英伟达跌超7%，闪迪跌近6%，SK海力士、美光科技跌超4%，英特尔跌近3%，特斯拉跌0.83%，Meta跌0.68%，微软跌0.07%，苹果涨0.45%，亚马逊涨0.27%，谷歌涨0.02%。",
@@ -937,7 +917,7 @@
         "date": 1794488029989,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "萃华退：公司股票将于11月13日终止上市暨摘牌",
@@ -947,7 +927,7 @@
         "date": 1794487718287,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "抖音电商公布“双11”收官数据：超3万新商家成交额破百万",
@@ -957,7 +937,7 @@
         "date": 1794487566730,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "Nebius第三季度营收同比增长571%至9.81亿美元",
@@ -967,7 +947,7 @@
         "date": 1794487084000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "高盛：AI投资明年将继续推动美国经济增长，资本开支增速或达8%",
@@ -977,7 +957,7 @@
         "date": 1794487033844,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "何立峰会见美国景顺集团总裁兼首席执行官施洛斯伯格",
@@ -987,7 +967,7 @@
         "date": 1794486574344,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "厄尔尼诺冲击全球咖啡供应链",
@@ -997,7 +977,7 @@
         "date": 1794486455090,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "Meta与供应商签署长期采购协议，推动数据中心供应链低碳制造",
@@ -1007,7 +987,7 @@
         "date": 1794486040000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "本周26只新基开启认购，FOF发行占比显著抬升",
@@ -1017,7 +997,7 @@
         "date": 1794485792161,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "京东完成收购德国零售集团CECONOMY，斥资13.35亿欧元取得59.8%股权",
@@ -1027,7 +1007,7 @@
         "date": 1794485430311,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "华尔街监管机构针对上市公司的执法案件降至16年低点",
@@ -1037,7 +1017,7 @@
         "date": 1794485351000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "美银将2030年底美国服务器CPU潜在市场规模上调至2400亿美元",
@@ -1047,7 +1027,7 @@
         "date": 1794484929000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "李强主持国务院第二十二次专题学习",
@@ -1057,7 +1037,7 @@
         "date": 1794484820963,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "存储涨价潮仍将延续，产品需求现分化",
@@ -1067,7 +1047,7 @@
         "date": 1794484596000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "2连板中重科技：没有人形机器人本体相关销售收入",
@@ -1077,7 +1057,7 @@
         "date": 1794484248000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "宁波江丰电子材料股份有限公司递表港交所",
@@ -1087,7 +1067,7 @@
         "date": 1794483928000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "蓝盾光电：拟13.5亿元收购苏州岚创100％股权并配套募资",
@@ -1097,7 +1077,7 @@
         "date": 1794483520000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "恒逸石化：拟现金购买绍兴恒鸣51%股权，新增30亿元资金支持额度",
@@ -1107,7 +1087,7 @@
         "date": 1794483144000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "4连板东方环宇：股票交易异常波动，提示交易风险",
@@ -1117,25 +1097,15 @@
         "date": 1794482835000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "天赐材料：子公司拟投资不超50亿元建设年产50万吨电解液及配套材料项目",
-        "url": "https://m.36kr.com/newsflashes/4066668319445894",
-        "desc": "36氪获悉，天赐材料公告，公司子公司池州天赐高新材料有限公司或其子公司拟使用自筹资金投资建设“年产50万吨电解液及配套材料项目”，项目建设周期24个月，总投资不超过50亿元。项目主要产品包括锂离子电池电解液40万吨、钠离子电池电解液10万吨、液体六氟磷酸锂30万吨等。",
-        "cover": "",
-        "date": 1794482629000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794488165961,
+    "thepaper": 1794489065803,
     "bilibili": 1794487556704,
-    "qbitai": 1794459395752,
-    "36kr": 1794459396215
+    "qbitai": 1794460359329,
+    "36kr": 1794460359758
   },
   "failures": {}
 }
