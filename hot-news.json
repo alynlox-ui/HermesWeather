@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T18:41:38Z",
+  "updatedAt": "2026-11-12T18:56:55Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,19 +174,19 @@
         "hotTitle": "西班牙为何连发高铁事故"
       },
       {
-        "title": "iPhone 18 Pro Max不是苹果今年行 是乱世容易出枭雄",
-        "url": "https://www.bilibili.com/video/BV1ZMWd6mE77",
+        "title": "耐黑王！销量王！——iPhone18ProMax",
+        "url": "https://www.bilibili.com/video/BV1kY4B6EEBn",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "各位今年换手机了吗？换了什么呀，欢迎评论区分享一下。",
-        "content": "各位今年换手机了吗？换了什么呀，欢迎评论区分享一下。",
-        "bvid": "BV1ZMWd6mE77",
-        "author": "林捂捂",
-        "duration": "16:25",
-        "cover": "//i0.hdslb.com/bfs/archive/416942059821eeed6a7d8c0ffea7c55b2fda8ccd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZMWd6mE77&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "耐黑王！销量王！——iPhone18ProMax",
+        "content": "耐黑王！销量王！——iPhone18ProMax",
+        "bvid": "BV1kY4B6EEBn",
+        "author": "锐锋爱搞机",
+        "duration": "3:58",
+        "cover": "//i1.hdslb.com/bfs/archive/940f027b104939090c29878025fc1c0558ddb18d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kY4B6EEBn&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "iPhone18ProMax销量为何登顶"
       },
       {
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "恒生科技指数下跌1%",
+        "url": "https://m.36kr.com/newsflashes/4067598546588806",
+        "desc": "36氪获悉，恒生科技指数下跌1%。",
+        "cover": "",
+        "date": 1794538512853,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "比特币跌破70000美元，日内跌超2%",
+        "url": "https://m.36kr.com/newsflashes/4067598138495880",
+        "desc": "36氪获悉，比特币跌破70000美元，日内跌超2%。",
+        "cover": "",
+        "date": 1794538487945,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "10月高频数据折射中国经济稳中向好态势",
+        "url": "https://m.36kr.com/newsflashes/4067589034431366",
+        "desc": "13日从国家发展改革委国家信息中心了解到，10月份，消费、外贸、投资等领域多项高频数据显示，随着存量政策与增量政策的协同发力，中国经济发展的含金量、含新量不断提升，稳中向好态势进一步巩固。（新华社）",
+        "cover": "",
+        "date": 1794537932277,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "2026年APEC领导人会议将实现100%绿电供应",
         "url": "https://m.36kr.com/newsflashes/4067583786275969",
         "desc": "今天从南方电网了解到，2026年APEC领导人会议期间，会场等相关场所将实现100%绿电供应。目前，供电保障各项前置工作已落实到位。据介绍，为实现这一目标，南方电网提前统筹了8900万度的绿电资源，可确保会议期间全场景绿色用能全覆盖。届时，深圳会场使用的每一度电均具有清晰的绿电属性，来源可追溯。（央视新闻）",
@@ -937,7 +967,7 @@
         "date": 1794537611955,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "上海机电成立星铉航天科技公司，注册资本2.5亿",
@@ -947,7 +977,7 @@
         "date": 1794537065408,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "Sigmastar据悉计划在香港上市，融资3亿美元",
@@ -957,7 +987,7 @@
         "date": 1794536243546,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "“青葵智造”完成亿元A轮融资",
@@ -967,7 +997,7 @@
         "date": 1794535912922,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "央行：严格落实征信机构持牌经营要求，严厉打击无证经营非法征信活动",
@@ -977,7 +1007,7 @@
         "date": 1794535831865,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "阿里快乐虾米App上线",
@@ -987,7 +1017,7 @@
         "date": 1794535806077,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "央行：探索加强央行征信系统与社会化征信机构的多方位合作",
@@ -997,7 +1027,7 @@
         "date": 1794535688706,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "京东汽车：11.11期间，京东养车到店服务订单量同比增长近4倍",
@@ -1007,7 +1037,7 @@
         "date": 1794535177085,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "央行邹澜：信贷降速提质成宏观运行新常态，征信体系适配性有待提升",
@@ -1017,7 +1047,7 @@
         "date": 1794534865444,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "新世界发展据悉考虑供股融资至多32亿美元",
@@ -1027,7 +1057,7 @@
         "date": 1794534541689,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "IBM已最终确定发行总额为1088亿日元的日元债券条款",
@@ -1037,7 +1067,7 @@
         "date": 1794534076948,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "中芯国际赵海军：三季度毛利率提升主要是因为客户提拉要求紧迫",
@@ -1047,7 +1077,7 @@
         "date": 1794533474210,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "央行今日开展3000亿元7天期逆回购操作",
@@ -1057,7 +1087,7 @@
         "date": 1794533436963,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "A股三大指数集体高开，寒武纪涨超4%",
@@ -1067,7 +1097,7 @@
         "date": 1794533304009,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "恒指开盘跌0.57%，恒生科技指数跌0.35%",
@@ -1077,7 +1107,7 @@
         "date": 1794532945110,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "11月13日人民币对美元中间价调升22个基点",
@@ -1087,7 +1117,7 @@
         "date": 1794532791675,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "中芯国际赵海军：三季度平均晶圆单价环比提升1.8%",
@@ -1097,45 +1127,15 @@
         "date": 1794532571878,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "海联金汇：联动优势业务团队有做过AI漫剧方面的业务尝试，对公司经营业绩基本没有影响",
-        "url": "https://m.36kr.com/newsflashes/4067494870897537",
-        "desc": "36氪获悉，海联金汇在互动平台表示，联动优势业务团队有做过AI漫剧方面的业务尝试，试点制作少量漫剧并投放媒体，但目前投入的资源及相应的产出均很少，对公司经营业绩基本没有影响，亦不构成公司未来的重点业务方向。公司将在做大做强主业的基础上，积极关注并审慎推进创新业务发展机会。",
-        "cover": "",
-        "date": 1794532184991,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "润邦股份：正持续推进在手船舶订单的生产建造和交付",
-        "url": "https://m.36kr.com/newsflashes/4067493949625475",
-        "desc": "36氪获悉，润邦股份在互动平台表示，公司正持续推进在手船舶订单的生产建造和交付，预计今年全年可以交付各类船舶不少于五艘。目前公司环保业务整体发展较为平稳，2026年前三季度公司环保业务累计未出现亏损。",
-        "cover": "",
-        "date": 1794532128761,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "中芯国际：预计2026年收入超过120亿美元，全球设备交付周期拉长",
-        "url": "https://m.36kr.com/newsflashes/4067488049566600",
-        "desc": "中芯国际联合CEO赵海军表示，今年全年收入预计超过120亿美元，较去年同期增长接近三成。全球设备供应链整体紧张，交付周期拉长，部分设备交付时间仍存在不确定性，虽不会影响今年的扩产规划落地，但可能对（明年）全年的资本开支执行带来扰动。 （财联社）",
-        "cover": "",
-        "date": 1794531768650,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794537667342,
+    "thepaper": 1794538574868,
     "bilibili": 1794537063827,
-    "qbitai": 1794508898301,
-    "36kr": 1794508898717
+    "qbitai": 1794509815648,
+    "36kr": 1794509815964
   },
   "failures": {}
 }
