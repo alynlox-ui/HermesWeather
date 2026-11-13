@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T18:56:55Z",
+  "updatedAt": "2026-11-12T19:11:31Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,42 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "NBA新闻早报——11月13日库里确诊右侧腹斜肌撕裂",
-        "url": "https://www.bilibili.com/video/BV1DNWe6gEec",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1DNWe6gEec",
-        "author": "数说NBA",
-        "duration": "3:58",
-        "cover": "//i1.hdslb.com/bfs/archive/390f9b446475cf639247a1b5eb5924e72293b267.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DNWe6gEec&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "库里腹斜肌撕裂预计缺席4周"
-      },
-      {
-        "title": "臣妾要线上告发熹贵妃 2.0",
-        "url": "https://www.bilibili.com/video/BV1PZWR6xEqv",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1PZWR6xEqv",
-        "author": "岩罗Crv",
-        "duration": "4:3",
-        "cover": "//i0.hdslb.com/bfs/archive/307cf2c8253410ed08169aa98238f46c80419859.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PZWR6xEqv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "臣妾要线上告发熹贵妃2.0"
-      },
-      {
         "title": "【高见】西班牙高铁事故浅析",
         "url": "https://www.bilibili.com/video/BV1hCWo6CERW",
         "desc": "",
-        "rank": 3,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "同一条高铁干线，一年两起重大事故，西班牙究竟出了什么问题？从事故经过与故障数据出发，本期拆解人口地理、党争扩张、债务压力和市场化改革，追问庞大的高铁网络为何没能配上足够的运维能力，安全风险又是怎样积累的。",
@@ -174,74 +142,10 @@
         "hotTitle": "西班牙为何连发高铁事故"
       },
       {
-        "title": "耐黑王！销量王！——iPhone18ProMax",
-        "url": "https://www.bilibili.com/video/BV1kY4B6EEBn",
-        "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "耐黑王！销量王！——iPhone18ProMax",
-        "content": "耐黑王！销量王！——iPhone18ProMax",
-        "bvid": "BV1kY4B6EEBn",
-        "author": "锐锋爱搞机",
-        "duration": "3:58",
-        "cover": "//i1.hdslb.com/bfs/archive/940f027b104939090c29878025fc1c0558ddb18d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kY4B6EEBn&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "iPhone18ProMax销量为何登顶"
-      },
-      {
-        "title": "AI圈氢弹来袭！Gemini 4 Hydrogen 空降！官方称压过 GPT-6.1 Terra，Tibo 的用量重置又来，硅谷绞肉机全面开动！",
-        "url": "https://www.bilibili.com/video/BV15GWY62EfX",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV15GWY62EfX",
-        "author": "黑鸦Heya",
-        "duration": "3:27",
-        "cover": "//i2.hdslb.com/bfs/archive/006d1ff85d5b0229ede0a84fca5d9f15df7b699a.png",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15GWY62EfX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "谷歌发布Gemini 4 Hydrogen"
-      },
-      {
-        "title": "翻山覆海，以我之名｜2026全球总决赛冠亚军决赛宣传片",
-        "url": "https://www.bilibili.com/video/BV1V1Wm6nEJL",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "bgm：ticking away 喜欢三连哦",
-        "content": "bgm：ticking away 喜欢三连哦",
-        "bvid": "BV1V1Wm6nEJL",
-        "author": "无蓝矢",
-        "duration": "3:23",
-        "cover": "//i2.hdslb.com/bfs/archive/bf66a0c96f388d755996f8e149bdb5aebae304f2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1V1Wm6nEJL&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "自制S16总决赛宣传片"
-      },
-      {
-        "title": "出线晋级！凯恩点射 夸安萨乌龙助攻+造点 英格兰2比1克罗地亚",
-        "url": "https://www.bilibili.com/video/BV1SMWe6MEP5",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1SMWe6MEP5",
-        "author": "吉罗很快乐",
-        "duration": "16:21",
-        "cover": "//i1.hdslb.com/bfs/archive/c4b9eec40d22bad288752943fbe81affb0a5fb5f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SMWe6MEP5&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "英格兰2-1克罗地亚"
-      },
-      {
         "title": "“命运反复出题，直到你给出新的答案”",
         "url": "https://www.bilibili.com/video/BV1wPWZ6FE7W",
         "desc": "",
-        "rank": 8,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -254,10 +158,26 @@
         "hotTitle": "回顾BLG晋级决赛之路"
       },
       {
+        "title": "2026年中超联赛十佳球",
+        "url": "https://www.bilibili.com/video/BV1LiWo6EE4J",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "https://m.yangshipin.cn/portrait_video?vid=l000079r19e(央视频号：足球之夜）",
+        "content": "https://m.yangshipin.cn/portrait_video?vid=l000079r19e(央视频号：足球之夜）",
+        "bvid": "BV1LiWo6EE4J",
+        "author": "央视频",
+        "duration": "4:16",
+        "cover": "//i2.hdslb.com/bfs/archive/a8e4711dcaa8e368626d09fae04e8e9f50947d52.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LiWo6EE4J&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "2026年中超联赛十佳球"
+      },
+      {
         "title": "AI撞上美国“新世界”：暴跌、监管、政治博弈，数据中心何去何从？【101视频播客】",
         "url": "https://www.bilibili.com/video/BV1MDWR6cEGY",
         "desc": "",
-        "rank": 9,
+        "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "美国中期选举之后，美股AI板块突然遭遇暴跌。此前一路高歌猛进的数据中心建设，也开始面临监管、地方政治与社区反对带来的新阻力。 当数千亿美元的AI基础设施投资遇上政策变化，华尔街究竟在担心什么？这轮市场震荡，意味着AI需求开始退潮，还是算力供给正在遭遇新的瓶颈？ 这期视频，我们连线了能源策略、数据中心一线从业者，以及长期追踪AI硬件板块的华尔街投资人，从德州政治变局谈起，分析数据中心审批、建设成本与项目延期风险，以及这些变化可能如何传导至GPU、光模块、云计算等产业链环节。数据中心建设放缓，会让现有算力",
@@ -270,10 +190,74 @@
         "hotTitle": "美国AI发展要踩刹车了吗"
       },
       {
+        "title": "NBA新闻早报——11月13日库里确诊右侧腹斜肌撕裂",
+        "url": "https://www.bilibili.com/video/BV1DNWe6gEec",
+        "desc": "",
+        "rank": 5,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1DNWe6gEec",
+        "author": "数说NBA",
+        "duration": "3:58",
+        "cover": "//i1.hdslb.com/bfs/archive/390f9b446475cf639247a1b5eb5924e72293b267.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DNWe6gEec&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "库里腹斜肌撕裂预计缺席4周"
+      },
+      {
+        "title": "他真的太优雅了！灰太狼&红太狼【非凡之爱】",
+        "url": "https://www.bilibili.com/video/BV1aNWm6UEeC",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "参考自X的antrofrog的AI生成作品《No Ordinary Love-非凡之爱》",
+        "content": "参考自X的antrofrog的AI生成作品《No Ordinary Love-非凡之爱》",
+        "bvid": "BV1aNWm6UEeC",
+        "author": "可口的红糖",
+        "duration": "1:28",
+        "cover": "//i0.hdslb.com/bfs/archive/e7d552e4696e8d295df5f2a799384474c9595bc9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aNWm6UEeC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "灰太狼红太狼版非凡之爱"
+      },
+      {
+        "title": "iPhone 18 Pro Max不是苹果今年行 是乱世容易出枭雄",
+        "url": "https://www.bilibili.com/video/BV1ZMWd6mE77",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "各位今年换手机了吗？换了什么呀，欢迎评论区分享一下。",
+        "content": "各位今年换手机了吗？换了什么呀，欢迎评论区分享一下。",
+        "bvid": "BV1ZMWd6mE77",
+        "author": "林捂捂",
+        "duration": "16:25",
+        "cover": "//i0.hdslb.com/bfs/archive/416942059821eeed6a7d8c0ffea7c55b2fda8ccd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZMWd6mE77&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "iPhone销量为何能逆势领跑"
+      },
+      {
+        "title": "臣妾要线上告发熹贵妃 2.0",
+        "url": "https://www.bilibili.com/video/BV1PZWR6xEqv",
+        "desc": "",
+        "rank": 8,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1PZWR6xEqv",
+        "author": "岩罗Crv",
+        "duration": "4:3",
+        "cover": "//i0.hdslb.com/bfs/archive/307cf2c8253410ed08169aa98238f46c80419859.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PZWR6xEqv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "臣妾要线上告发熹贵妃2.0"
+      },
+      {
         "title": "底层博弈，上桌翻身！一声妈妈春江王，我是谷雨周海洋！万字细嗦《谷雨》第七期 包含；剧情、细节、镜头语言、隐喻等",
         "url": "https://www.bilibili.com/video/BV1YjWd6GEbd",
         "desc": "",
-        "rank": 10,
+        "rank": 9,
         "kind": "video",
         "platform": "bilibili",
         "description": "底层博弈，上桌翻身！一声妈妈春江王，我是谷雨周海洋！万字细嗦《谷雨》第七期 包含；剧情、细节、镜头语言、隐喻等",
@@ -284,6 +268,22 @@
         "cover": "//i2.hdslb.com/bfs/archive/6c338c96264fc6c4d4c3686184f0b4b2fdf29398.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YjWd6GEbd&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "如何看懂新剧谷雨中的底层博弈"
+      },
+      {
+        "title": "我愿称之为人类高质量灵魂对话的最佳范本！【后会友期第五期飞雪对话深度解析】",
+        "url": "https://www.bilibili.com/video/BV1LdWd61EYp",
+        "desc": "",
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1LdWd61EYp",
+        "author": "降B_大调",
+        "duration": "16:20",
+        "cover": "//i0.hdslb.com/bfs/archive/aa510b38f2086d451633b69b21da62f7bef6bc67.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LdWd61EYp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "细品许飞厉娜高质量对话"
       },
       {
         "title": "《白银之城》角色PV - 馨西亚二世：到月下的城邦去",
@@ -302,10 +302,26 @@
         "hotTitle": "白银之城馨西亚二世角色PV"
       },
       {
+        "title": "《再 试 一 次！》",
+        "url": "https://www.bilibili.com/video/BV1FQWU6KErd",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "OK了家人们，四强BLGvsT1的内容，准备了点小巧思加油啊啊啊啊BLG",
+        "content": "OK了家人们，四强BLGvsT1的内容，准备了点小巧思加油啊啊啊啊BLG",
+        "bvid": "BV1FQWU6KErd",
+        "author": "聒噪的山海君",
+        "duration": "7:2",
+        "cover": "//i2.hdslb.com/bfs/archive/21e5f35e1aae8d1355774940ef26473da3e1e37b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FQWU6KErd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "回顾BLG战胜T1的突围之路"
+      },
+      {
         "title": "三年之期已到，恭迎世一上归位！【第17集】",
         "url": "https://www.bilibili.com/video/BV12pWQ6QETV",
         "desc": "",
-        "rank": 12,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。",
@@ -318,42 +334,10 @@
         "hotTitle": "世一上短剧之最后一战"
       },
       {
-        "title": "疑似《崩坏：星穹铁道》星神★阿哈★真人角色PV流出",
-        "url": "https://www.bilibili.com/video/BV1CyW26wEad",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "阿哈：@六二二同学w 桑博：@乙帅 火花：@咕噜宝TAKA 银狼：@冥冥不困zzz 开拓者：@粽子淞 当年拍水神版本的时候就想过，等假面愚者多出几个角色的时候一定要安排一个完整的星铁小曲。没想到，先来到的是阿哈乐子神！这不得立马安排一下了~",
-        "content": "阿哈：@六二二同学w 桑博：@乙帅 火花：@咕噜宝TAKA 银狼：@冥冥不困zzz 开拓者：@粽子淞 当年拍水神版本的时候就想过，等假面愚者多出几个角色的时候一定要安排一个完整的星铁小曲。没想到，先来到的是阿哈乐子神！这不得立马安排一下了~",
-        "bvid": "BV1CyW26wEad",
-        "author": "六二二同学w",
-        "duration": "2:9",
-        "cover": "//i1.hdslb.com/bfs/archive/236a5ca1a9f07402caf533857f7d9b84091d5f7a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CyW26wEad&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "疑似崩坏真人角色PV流出"
-      },
-      {
-        "title": "🐊BLG vs T1🥷（世界赛篇）",
-        "url": "https://www.bilibili.com/video/BV15DWQ6YEkP",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "S3到S16，终于在S赛上看到LPL的队伍在BO5中击败faker了，感动！BLG决赛加油！",
-        "content": "S3到S16，终于在S赛上看到LPL的队伍在BO5中击败faker了，感动！BLG决赛加油！",
-        "bvid": "BV15DWQ6YEkP",
-        "author": "香蕉菠萝球球",
-        "duration": "1:22",
-        "cover": "//i1.hdslb.com/bfs/archive/e8d580f3c874dc791478cf15f5cb124e577cb00c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15DWQ6YEkP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI动画重演BLG战胜T1"
-      },
-      {
         "title": "《崩坏：星穹铁道》EP：「无中生有」",
         "url": "https://www.bilibili.com/video/BV1nEWu6xEyq",
         "desc": "",
-        "rank": 15,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "当第一声「阿哈」响起，「欢愉」将再度诞生。 在虚与实的边缘起舞吧，今夜，奇迹将由众生缔造！",
@@ -366,58 +350,42 @@
         "hotTitle": "星穹铁道最新EP无中生有"
       },
       {
-        "title": "谁点名要看我cos德穆兰的？英语总监莅临还不快来迎接！",
-        "url": "https://www.bilibili.com/video/BV1PKWj62ERK",
+        "title": "疑似《崩坏：星穹铁道》星神★阿哈★真人角色PV流出",
+        "url": "https://www.bilibili.com/video/BV1CyW26wEad",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "阿哈：@六二二同学w 桑博：@乙帅 火花：@咕噜宝TAKA 银狼：@冥冥不困zzz 开拓者：@粽子淞 当年拍水神版本的时候就想过，等假面愚者多出几个角色的时候一定要安排一个完整的星铁小曲。没想到，先来到的是阿哈乐子神！这不得立马安排一下了~",
+        "content": "阿哈：@六二二同学w 桑博：@乙帅 火花：@咕噜宝TAKA 银狼：@冥冥不困zzz 开拓者：@粽子淞 当年拍水神版本的时候就想过，等假面愚者多出几个角色的时候一定要安排一个完整的星铁小曲。没想到，先来到的是阿哈乐子神！这不得立马安排一下了~",
+        "bvid": "BV1CyW26wEad",
+        "author": "六二二同学w",
+        "duration": "2:9",
+        "cover": "//i1.hdslb.com/bfs/archive/236a5ca1a9f07402caf533857f7d9b84091d5f7a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CyW26wEad&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "疑似崩坏真人角色PV流出"
+      },
+      {
+        "title": "《崩坏：星穹铁道》动画短片：「月下的欢快葬礼」",
+        "url": "https://www.bilibili.com/video/BV1gHWg6GEqj",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1PKWj62ERK",
-        "author": "考研英语晓燕",
-        "duration": "1:37",
-        "cover": "//i2.hdslb.com/bfs/archive/4a56552c21d7e495fc427abb835de4a830fcfb04.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PKWj62ERK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "刘晓艳 英语总监德穆兰"
-      },
-      {
-        "title": "三角洲行动 好玩又好用，便宜有强度！燃烧弹暗鲨型M4A1优缺点介绍与改法教学！【A＋】",
-        "url": "https://www.bilibili.com/video/BV1DeWD6sE4T",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "5.56 突击步枪 小口径 M4A1 M4A1 强度：A+，稳定小口径步枪。 优点：稳定可靠，各方面属性均衡。新版本燃烧弹略微提升了输出且带来了干员技能组合玩法。，但是延迟伤害不会直接影响BTK。 缺点：综合输出一般，BTK差。 改枪mua M4A1标准枪管消音暗sa版（红点）38万-6LT6FRK0B1RRH96DI8AIT M4A1长枪管消音暗sa版（倍镜）38万-6LSQTDO0B1RRH96DI8AIT M4A1长枪管性价比版29万-6LSQTGC0B1RRH96DI8AIT M4A1标",
-        "content": "5.56 突击步枪 小口径 M4A1 M4A1 强度：A+，稳定小口径步枪。 优点：稳定可靠，各方面属性均衡。新版本燃烧弹略微提升了输出且带来了干员技能组合玩法。，但是延迟伤害不会直接影响BTK。 缺点：综合输出一般，BTK差。 改枪mua M4A1标准枪管消音暗sa版（红点）38万-6LT6FRK0B1RRH96DI8AIT M4A1长枪管消音暗sa版（倍镜）38万-6LSQTDO0B1RRH96DI8AIT M4A1长枪管性价比版29万-6LSQTGC0B1RRH96DI8AIT M4A1标",
-        "bvid": "BV1DeWD6sE4T",
-        "author": "Always聪聪",
-        "duration": "6:13",
-        "cover": "//i2.hdslb.com/bfs/archive/78eb4aa0fdef4d93d19d6abf6cb1552439481ace.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DeWD6sE4T&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "三角洲M4A1改法教学"
-      },
-      {
-        "title": "2026年中超联赛十佳球",
-        "url": "https://www.bilibili.com/video/BV1LiWo6EE4J",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "https://m.yangshipin.cn/portrait_video?vid=l000079r19e(央视频号：足球之夜）",
-        "content": "https://m.yangshipin.cn/portrait_video?vid=l000079r19e(央视频号：足球之夜）",
-        "bvid": "BV1LiWo6EE4J",
-        "author": "央视频",
-        "duration": "4:16",
-        "cover": "//i2.hdslb.com/bfs/archive/a8e4711dcaa8e368626d09fae04e8e9f50947d52.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LiWo6EE4J&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "2026年中超联赛十佳球"
+        "description": "遥遥致意，远道而来的客人， 「何不尝试，再次开始一场游戏，再次品味其中痛苦，再次为其无情而颤动，再次在内心的地狱徘徊，往返多次，然后你终将会将这游戏玩得更好，也终将学会笑。」 不欢迎你的，阿哈 ※建议体验4.7版本开拓任务后观看本视频。 中文CV： 星神★阿哈——子音 另一个开拓者——秦且歌、陈婷婷 日文CV： 星神★阿哈——户松遥 另一个开拓者——榎木淳弥、石川由依 英文CV： 星神★阿哈——Amber Lee Connors 另一个开拓者——Shaun Mendum、Chloe",
+        "content": "遥遥致意，远道而来的客人， 「何不尝试，再次开始一场游戏，再次品味其中痛苦，再次为其无情而颤动，再次在内心的地狱徘徊，往返多次，然后你终将会将这游戏玩得更好，也终将学会笑。」 不欢迎你的，阿哈 ※建议体验4.7版本开拓任务后观看本视频。 中文CV： 星神★阿哈——子音 另一个开拓者——秦且歌、陈婷婷 日文CV： 星神★阿哈——户松遥 另一个开拓者——榎木淳弥、石川由依 英文CV： 星神★阿哈——Amber Lee Connors 另一个开拓者——Shaun Mendum、Chloe",
+        "bvid": "BV1gHWg6GEqj",
+        "author": "崩坏星穹铁道",
+        "duration": "25:0",
+        "cover": "//i2.hdslb.com/bfs/archive/c0a5a017af42394c23881e80777d9554d45de1fc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gHWg6GEqj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "星铁动画短片月下的欢快葬礼"
       },
       {
         "title": "新英雄刀锋宝贝玩法介绍——精准锁定，冷静收割",
         "url": "https://www.bilibili.com/video/BV12DWR6FEaR",
         "desc": "",
-        "rank": 19,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "全球英雄派对即将开启，新英雄【刀锋宝贝】正式上线，一起来看看她的玩法介绍吧~ 精准锁定，冷静收割，是王牌佣兵的职业素养。敏锐的判断力与凌厉的刀法，让她经手的委托从无败绩。 她以迅疾的刀影与凌厉的连击撕开敌人防线，凭护盾与加速灵活进退，让猎物难觅脱身之机； 更能利用被动刷新技能，快速打出爆发伤害收割敌人，一剑制敌。 她辗转大陆四处漂泊，只为追寻那个曾温暖过年少岁月的熟悉身影。 利刃已然出鞘，且看这位王牌佣兵如何在王者峡谷中斩断阻碍。再度并肩之时，剑锋同鸣！",
@@ -430,26 +398,90 @@
         "hotTitle": "王者新英雄刀锋宝贝玩法介绍"
       },
       {
-        "title": "终于踏上梦想中的舞台 | 2026 全球总决赛淘汰赛4强幕后花絮",
-        "url": "https://www.bilibili.com/video/BV1tMWR6fEVt",
+        "title": "出线晋级！凯恩点射 夸安萨乌龙助攻+造点 英格兰2比1克罗地亚",
+        "url": "https://www.bilibili.com/video/BV1SMWe6MEP5",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1SMWe6MEP5",
+        "author": "吉罗很快乐",
+        "duration": "16:21",
+        "cover": "//i1.hdslb.com/bfs/archive/c4b9eec40d22bad288752943fbe81affb0a5fb5f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SMWe6MEP5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "英格兰2-1克罗地亚"
+      },
+      {
+        "title": "【货币战争攻略】大洗牌后游戏节奏完全不同的货币战争S2究竟应该怎么玩？全网最详细最细节的货币战争S2运营教程与角色解析！看完直接领先同龄人一个大段",
+        "url": "https://www.bilibili.com/video/BV1LHWj6iEwU",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "那刻夏【4连击2小小巨人】横向展开直角坐标系 ##ukkDdQ/mVkQEP55gT3GvAjKTfjnOEzKjHpNUoGNolBI=## ->复制到游戏内【货币战争】-【攻略】中【输入攻略码】使用复制到游戏内【货币战争】-【攻略】中【输入攻略码】使用<- 克拉拉【1巡海游侠3追击】按E发射核弹 ##L8ibOIw7CWDSmwCmB4hB+",
+        "content": "那刻夏【4连击2小小巨人】横向展开直角坐标系 ##ukkDdQ/mVkQEP55gT3GvAjKTfjnOEzKjHpNUoGNolBI=## ->复制到游戏内【货币战争】-【攻略】中【输入攻略码】使用复制到游戏内【货币战争】-【攻略】中【输入攻略码】使用<- 克拉拉【1巡海游侠3追击】按E发射核弹 ##L8ibOIw7CWDSmwCmB4hB+",
+        "bvid": "BV1LHWj6iEwU",
+        "author": "甘泽成谣雨成诗",
+        "duration": "24:40",
+        "cover": "//i2.hdslb.com/bfs/archive/c8114a2ad53ee73c282006a36d094c1d0f5433b4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LHWj6iEwU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何适应货币战争S2游戏节奏"
+      },
+      {
+        "title": "《原神》过场动画-「岩与契约」",
+        "url": "https://www.bilibili.com/video/BV1aTWm6jEL8",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "2026 全球总决赛半决赛 vs IG 幕后花絮 根据内部讨论结果，涉及战术信息泄露的相关内容已被排除。",
-        "content": "2026 全球总决赛半决赛 vs IG 幕后花絮 根据内部讨论结果，涉及战术信息泄露的相关内容已被排除。",
-        "bvid": "BV1tMWR6fEVt",
-        "author": "Gen_G",
-        "duration": "20:44",
-        "cover": "//i2.hdslb.com/bfs/archive/2b09d9e73156a38cec1ae46a834ef9dafff6f6d6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tMWR6fEVt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GEN四强幕后花絮"
+        "description": "随着象征契约的摩拉在契约之神手中凝成，璃月的试炼已然通过。 以此为始，判罚之钉的符号消失了第一枚。 中文CV： 钟离——彭博 空——鹿喑 派蒙——多多 日文CV： 钟离——前野智昭 空——堀江瞬 派蒙——古贺葵 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
+        "content": "随着象征契约的摩拉在契约之神手中凝成，璃月的试炼已然通过。 以此为始，判罚之钉的符号消失了第一枚。 中文CV： 钟离——彭博 空——鹿喑 派蒙——多多 日文CV： 钟离——前野智昭 空——堀江瞬 派蒙——古贺葵 《原神》bilibili服下载地址： https://www.biligame.com/detail/?id=103496",
+        "bvid": "BV1aTWm6jEL8",
+        "author": "原神",
+        "duration": "6:5",
+        "cover": "//i1.hdslb.com/bfs/archive/a54099d8519c96d6e506cfabe34c7773549ab0db.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aTWm6jEL8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "原神过场动画岩与契约"
+      },
+      {
+        "title": "AI圈氢弹来袭！Gemini 4 Hydrogen 空降！官方称压过 GPT-6.1 Terra，Tibo 的用量重置又来，硅谷绞肉机全面开动！",
+        "url": "https://www.bilibili.com/video/BV15GWY62EfX",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV15GWY62EfX",
+        "author": "黑鸦Heya",
+        "duration": "3:27",
+        "cover": "//i2.hdslb.com/bfs/archive/006d1ff85d5b0229ede0a84fca5d9f15df7b699a.png",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15GWY62EfX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "谷歌发布Gemini 4 Hydrogen"
+      },
+      {
+        "title": "“转发给你暗网的兄弟，并什么都不说！”",
+        "url": "https://www.bilibili.com/video/BV1QDPTzKE7t",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1QDPTzKE7t",
+        "author": "猫罗熙-",
+        "duration": "2:46",
+        "cover": "//i0.hdslb.com/bfs/archive/8b41e8fae482bb7d65612fc71491c44f45213c7d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QDPTzKE7t&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "天南海北猎奇烧烤大赏"
       },
       {
         "title": "【真实锐评】BLG对战GEN前瞻：BP绝对不能让三叔舒服 然后猛攻GEN下路！",
         "url": "https://www.bilibili.com/video/BV128Wd6YEoN",
         "desc": "",
-        "rank": 21,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -460,38 +492,6 @@
         "cover": "//i1.hdslb.com/bfs/archive/f9118e98eb586eb18663f758f6637a06f49fb9ad.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV128Wd6YEoN&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "从BP策略看BLG如何应对GEN"
-      },
-      {
-        "title": "大暴雨来了：南方将有暴雨和雨雨雨雨，暴雪和大范围降温也快了",
-        "url": "https://www.bilibili.com/video/BV1fGWZ6XEWQ",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "11月上旬寒潮带来的好天气，已经开始逆转了。11月11日晚上起，随着副热带高压和我国冬季水槽—南支槽的靠近，大量水汽正从孟加拉湾、南海涌向我国陆地。11月12日晚，南方已经形成了一条几千公里长的降雨云系，从江浙沪一直到云南广西都已经开始下雨。与此同时，副高控制下的广东福建台湾以及浙江南部，这两天又找回了温暖的感觉，广州最高气温重新回到27度以上，下午出门又可以换上短袖了。另外在冷涡主导下，一支大西洋水汽进入新疆，天山、阿尔泰山区开始下雪，乌鲁木齐开始大雾弥漫，显示这支水汽的力量也不容小觑。 而接下来，随着",
-        "content": "11月上旬寒潮带来的好天气，已经开始逆转了。11月11日晚上起，随着副热带高压和我国冬季水槽—南支槽的靠近，大量水汽正从孟加拉湾、南海涌向我国陆地。11月12日晚，南方已经形成了一条几千公里长的降雨云系，从江浙沪一直到云南广西都已经开始下雨。与此同时，副高控制下的广东福建台湾以及浙江南部，这两天又找回了温暖的感觉，广州最高气温重新回到27度以上，下午出门又可以换上短袖了。另外在冷涡主导下，一支大西洋水汽进入新疆，天山、阿尔泰山区开始下雪，乌鲁木齐开始大雾弥漫，显示这支水汽的力量也不容小觑。 而接下来，随着",
-        "bvid": "BV1fGWZ6XEWQ",
-        "author": "中气爱",
-        "duration": "3:22",
-        "cover": "//i1.hdslb.com/bfs/archive/5cefb6cab8a424c9fdb0c18b73430205bf2d452e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fGWZ6XEWQ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大暴雨来了"
-      },
-      {
-        "title": "【1酱赛评四强篇-下】14年！为什么Faker输给了LPL没有被剥夺冠军和讥讽，反而获得了LPL观众的尊重和体谅？",
-        "url": "https://www.bilibili.com/video/BV1taWd6wEJe",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "视频制作剪辑@闻人常安AreS",
-        "content": "视频制作剪辑@闻人常安AreS",
-        "bvid": "BV1taWd6wEJe",
-        "author": "你是想气死1酱么",
-        "duration": "9:53",
-        "cover": "//i0.hdslb.com/bfs/archive/ebcc4ddf134a572b609c61865d8189aab5618c5d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1taWd6wEJe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "为何Faker输给LPL仍获尊重"
       },
       {
         "title": "文明重启：耗时3年，我终于做出了我的第一件铁器",
@@ -510,100 +510,100 @@
         "hotTitle": "UP主回归原始手搓铁器"
       },
       {
-        "title": "我愿称之为人类高质量灵魂对话的最佳范本！【后会友期第五期飞雪对话深度解析】",
-        "url": "https://www.bilibili.com/video/BV1LdWd61EYp",
+        "title": "谁点名要看我cos德穆兰的？英语总监莅临还不快来迎接！",
+        "url": "https://www.bilibili.com/video/BV1PKWj62ERK",
         "desc": "",
         "rank": 25,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1LdWd61EYp",
-        "author": "降B_大调",
-        "duration": "16:20",
-        "cover": "//i0.hdslb.com/bfs/archive/aa510b38f2086d451633b69b21da62f7bef6bc67.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LdWd61EYp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "细品许飞厉娜高质量对话"
+        "description": "",
+        "content": "",
+        "bvid": "BV1PKWj62ERK",
+        "author": "考研英语晓燕",
+        "duration": "1:37",
+        "cover": "//i2.hdslb.com/bfs/archive/4a56552c21d7e495fc427abb835de4a830fcfb04.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PKWj62ERK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "刘晓艳 英语总监德穆兰"
       },
       {
-        "title": "大学生食堂打饭教程",
-        "url": "https://www.bilibili.com/video/BV1Dj4B6FEnc",
+        "title": "翻山覆海，以我之名｜2026全球总决赛冠亚军决赛宣传片",
+        "url": "https://www.bilibili.com/video/BV1V1Wm6nEJL",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Dj4B6FEnc",
-        "author": "香蕉猫日记",
-        "duration": "0:40",
-        "cover": "//i2.hdslb.com/bfs/archive/d4b2a9cd40ea73a0d99c30735ad9b3bde5e5c319.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dj4B6FEnc&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大学生食堂打饭教程"
+        "description": "bgm：ticking away 喜欢三连哦",
+        "content": "bgm：ticking away 喜欢三连哦",
+        "bvid": "BV1V1Wm6nEJL",
+        "author": "无蓝矢",
+        "duration": "3:23",
+        "cover": "//i2.hdslb.com/bfs/archive/bf66a0c96f388d755996f8e149bdb5aebae304f2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1V1Wm6nEJL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "自制S16总决赛宣传片"
       },
       {
-        "title": "这才是《灭霸全家福》原版MV，灭霸的爸爸是灭建国【AIMV大赛】",
-        "url": "https://www.bilibili.com/video/BV1FcWg6dEpa",
+        "title": "🐊BLG vs T1🥷（世界赛篇）",
+        "url": "https://www.bilibili.com/video/BV15DWQ6YEkP",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "这才是《灭霸全家福》原版MV，灭霸的爸爸是灭建国【AIMV大赛】 你们被艾特的都是扎啤 小浣熊 钢铁侠 音频：DJ铁柱 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
-        "content": "这才是《灭霸全家福》原版MV，灭霸的爸爸是灭建国【AIMV大赛】 你们被艾特的都是扎啤 小浣熊 钢铁侠 音频：DJ铁柱 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
-        "bvid": "BV1FcWg6dEpa",
-        "author": "音乐老友",
-        "duration": "1:4",
-        "cover": "//i1.hdslb.com/bfs/archive/5c780ecbddfda6b865a7b11acb3abf4035a67a7c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FcWg6dEpa&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "用AI制作灭霸全家福MV"
+        "description": "S3到S16，终于在S赛上看到LPL的队伍在BO5中击败faker了，感动！BLG决赛加油！",
+        "content": "S3到S16，终于在S赛上看到LPL的队伍在BO5中击败faker了，感动！BLG决赛加油！",
+        "bvid": "BV15DWQ6YEkP",
+        "author": "香蕉菠萝球球",
+        "duration": "1:22",
+        "cover": "//i1.hdslb.com/bfs/archive/e8d580f3c874dc791478cf15f5cb124e577cb00c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15DWQ6YEkP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AI动画重演BLG战胜T1"
       },
       {
-        "title": "2026斯诺克冠中冠：赵心童4-0横扫塔猜亚，小组决赛能否突围？",
-        "url": "https://www.bilibili.com/video/BV1Z8Wo6HE4g",
+        "title": "三角洲行动 好玩又好用，便宜有强度！燃烧弹暗鲨型M4A1优缺点介绍与改法教学！【A＋】",
+        "url": "https://www.bilibili.com/video/BV1DeWD6sE4T",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "2026斯诺克冠中冠：赵心童4-0横扫塔猜亚，小组决赛能否突围？",
-        "content": "2026斯诺克冠中冠：赵心童4-0横扫塔猜亚，小组决赛能否突围？",
-        "bvid": "BV1Z8Wo6HE4g",
-        "author": "-SNOOKER-",
-        "duration": "14:14",
-        "cover": "//i0.hdslb.com/bfs/archive/42555304f74378a59e8cd6ed7eb92a191efe3d4c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z8Wo6HE4g&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "赵心童4-0塔猜亚"
+        "description": "5.56 突击步枪 小口径 M4A1 M4A1 强度：A+，稳定小口径步枪。 优点：稳定可靠，各方面属性均衡。新版本燃烧弹略微提升了输出且带来了干员技能组合玩法。，但是延迟伤害不会直接影响BTK。 缺点：综合输出一般，BTK差。 改枪mua M4A1标准枪管消音暗sa版（红点）38万-6LT6FRK0B1RRH96DI8AIT M4A1长枪管消音暗sa版（倍镜）38万-6LSQTDO0B1RRH96DI8AIT M4A1长枪管性价比版29万-6LSQTGC0B1RRH96DI8AIT M4A1标",
+        "content": "5.56 突击步枪 小口径 M4A1 M4A1 强度：A+，稳定小口径步枪。 优点：稳定可靠，各方面属性均衡。新版本燃烧弹略微提升了输出且带来了干员技能组合玩法。，但是延迟伤害不会直接影响BTK。 缺点：综合输出一般，BTK差。 改枪mua M4A1标准枪管消音暗sa版（红点）38万-6LT6FRK0B1RRH96DI8AIT M4A1长枪管消音暗sa版（倍镜）38万-6LSQTDO0B1RRH96DI8AIT M4A1长枪管性价比版29万-6LSQTGC0B1RRH96DI8AIT M4A1标",
+        "bvid": "BV1DeWD6sE4T",
+        "author": "Always聪聪",
+        "duration": "6:13",
+        "cover": "//i2.hdslb.com/bfs/archive/78eb4aa0fdef4d93d19d6abf6cb1552439481ace.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DeWD6sE4T&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "三角洲M4A1改法教学"
       },
       {
-        "title": "“转发给你暗网的兄弟，并什么都不说！”",
-        "url": "https://www.bilibili.com/video/BV1QDPTzKE7t",
+        "title": "3天10亿 海外卖爆！《影之刃零》 凭什么玩着不烧心？",
+        "url": "https://www.bilibili.com/video/BV147Wm6zErM",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1QDPTzKE7t",
-        "author": "猫罗熙-",
-        "duration": "2:46",
-        "cover": "//i0.hdslb.com/bfs/archive/8b41e8fae482bb7d65612fc71491c44f45213c7d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QDPTzKE7t&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "天南海北猎奇烧烤大赏"
+        "description": "近40小时的游戏过程，感受到的满满的都是项目组的诚意和敢为人先。",
+        "content": "近40小时的游戏过程，感受到的满满的都是项目组的诚意和敢为人先。",
+        "bvid": "BV147Wm6zErM",
+        "author": "游戏X博士",
+        "duration": "9:19",
+        "cover": "//i1.hdslb.com/bfs/archive/755b229c7bc189ec7e9d37c380627a754f44e8ef.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV147Wm6zErM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "影之刃零为何会在海外卖爆"
       },
       {
-        "title": "意大利vs法国，奥利塞破门！皮奥罚点锁定胜局！意大利3-1法国！#欧国联 #意大利VS法国 #意大利 #法国",
-        "url": "https://www.bilibili.com/video/BV1BPWh65Eg4",
+        "title": "这都能还原！！？【MC阿哈篇】",
+        "url": "https://www.bilibili.com/video/BV1MdWL6WEiB",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1BPWh65Eg4",
-        "author": "小周侃球集锦",
-        "duration": "5:27",
-        "cover": "//i0.hdslb.com/bfs/archive/c5b16bd03a1efbe6448daa15e1d49b6dfaf25e27.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BPWh65Eg4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "意大利3-1逆转法国"
+        "description": "又双双双双是一季崩铁无敌联动MC！！极限一个月孩子们再次累瘫了= = 这次的游戏版本依旧是1.20.1！MC星神★阿哈模组可以私信获取~ 如果你觉得我们在做的事情非常有意思&有意义请务必三连支持一下孩子们pwq 大伙的每一个赞和硬币都是我们不断前进的动力！！ 如果可能未来还会有更多有能力的人参加到这个计划！！ 策划&整合视频：FoFTG 建模动效渲染：酒石酸菌 艾卡 Nico 咖啡鱼 祸御神 PS：部分素材来自创作体验服~",
+        "content": "又双双双双是一季崩铁无敌联动MC！！极限一个月孩子们再次累瘫了= = 这次的游戏版本依旧是1.20.1！MC星神★阿哈模组可以私信获取~ 如果你觉得我们在做的事情非常有意思&有意义请务必三连支持一下孩子们pwq 大伙的每一个赞和硬币都是我们不断前进的动力！！ 如果可能未来还会有更多有能力的人参加到这个计划！！ 策划&整合视频：FoFTG 建模动效渲染：酒石酸菌 艾卡 Nico 咖啡鱼 祸御神 PS：部分素材来自创作体验服~",
+        "bvid": "BV1MdWL6WEiB",
+        "author": "FoFTG",
+        "duration": "3:20",
+        "cover": "//i2.hdslb.com/bfs/archive/2165253eea685137d65635e4c778bbf363d82f65.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MdWL6WEiB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "在MC里还原星铁阿哈"
       }
     ],
     "qbitai": [
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "擎天租完成数亿元战略融资交割",
+        "url": "https://m.36kr.com/newsflashes/4067611378291590",
+        "desc": "36氪获悉，据擎天租官微，11月13日，擎天租宣布完成数亿元战略融资交割，和达投资、芒果产业投资方（厚为资本）、中联即送等产业与文娱力量共同参与。同期，擎天租正式完成品牌与商业模式升级，从“机器人租赁”迈向“机器人生产力服务”，从“出租设备”走向“交付工作”。本轮融资将全部聚焦机器人生产力服务核心能力建设，重点投向应用服务研发、Worken实训体系落地、全产业生态搭建与全国履约网络升级。",
+        "cover": "",
+        "date": 1794539296038,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "顺丰速运经营范围新增代驾服务",
+        "url": "https://m.36kr.com/newsflashes/4067606112572545",
+        "desc": "36氪获悉，天眼查App显示，近日，顺丰速运有限公司发生工商变更，经营范围新增代驾服务。顺丰速运有限公司成立于2013年7月，法定代表人为王书槐，注册资本10亿元，经营范围还包括国际货运代理、汽车租赁、装卸搬运等，由深圳顺丰泰森控股（集团）有限公司全资持股。",
+        "cover": "",
+        "date": 1794538974644,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "中国铝业在青海成立新能源公司，注册资本约7.34亿",
+        "url": "https://m.36kr.com/newsflashes/4067602358752393",
+        "desc": "36氪获悉，天眼查App显示，近日，中铝（青海）新能源有限公司成立，法定代表人为刘亚德，注册资本约7.34亿元人民币，经营范围包括发电技术服务、风力发电技术服务、太阳能发电技术服务等。股东信息显示，该公司由中国铝业股份有限公司全资持股。",
+        "cover": "",
+        "date": 1794538745529,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "恒生科技指数下跌1%",
         "url": "https://m.36kr.com/newsflashes/4067598546588806",
         "desc": "36氪获悉，恒生科技指数下跌1%。",
@@ -937,7 +967,7 @@
         "date": 1794538512853,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "比特币跌破70000美元，日内跌超2%",
@@ -947,7 +977,7 @@
         "date": 1794538487945,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "10月高频数据折射中国经济稳中向好态势",
@@ -957,7 +987,7 @@
         "date": 1794537932277,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "2026年APEC领导人会议将实现100%绿电供应",
@@ -967,7 +997,7 @@
         "date": 1794537611955,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "上海机电成立星铉航天科技公司，注册资本2.5亿",
@@ -977,7 +1007,7 @@
         "date": 1794537065408,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "Sigmastar据悉计划在香港上市，融资3亿美元",
@@ -987,7 +1017,7 @@
         "date": 1794536243546,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "“青葵智造”完成亿元A轮融资",
@@ -997,7 +1027,7 @@
         "date": 1794535912922,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "央行：严格落实征信机构持牌经营要求，严厉打击无证经营非法征信活动",
@@ -1007,7 +1037,7 @@
         "date": 1794535831865,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "阿里快乐虾米App上线",
@@ -1017,7 +1047,7 @@
         "date": 1794535806077,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "央行：探索加强央行征信系统与社会化征信机构的多方位合作",
@@ -1027,7 +1057,7 @@
         "date": 1794535688706,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "京东汽车：11.11期间，京东养车到店服务订单量同比增长近4倍",
@@ -1037,7 +1067,7 @@
         "date": 1794535177085,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "央行邹澜：信贷降速提质成宏观运行新常态，征信体系适配性有待提升",
@@ -1047,7 +1077,7 @@
         "date": 1794534865444,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "新世界发展据悉考虑供股融资至多32亿美元",
@@ -1057,7 +1087,7 @@
         "date": 1794534541689,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "IBM已最终确定发行总额为1088亿日元的日元债券条款",
@@ -1067,7 +1097,7 @@
         "date": 1794534076948,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "中芯国际赵海军：三季度毛利率提升主要是因为客户提拉要求紧迫",
@@ -1077,7 +1107,7 @@
         "date": 1794533474210,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "央行今日开展3000亿元7天期逆回购操作",
@@ -1087,7 +1117,7 @@
         "date": 1794533436963,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "A股三大指数集体高开，寒武纪涨超4%",
@@ -1097,45 +1127,15 @@
         "date": 1794533304009,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "恒指开盘跌0.57%，恒生科技指数跌0.35%",
-        "url": "https://m.36kr.com/newsflashes/4067507324687492",
-        "desc": "36氪获悉，恒指开盘跌0.57%，恒生科技指数跌0.35%；有色金属、软件服务板块跌幅居前，赤峰黄金跌超4%，腾讯控股、网易跌超1%；半导体、硬件设备板块领涨，江波龙涨超3%，华虹宏力、中芯国际涨超2%。",
-        "cover": "",
-        "date": 1794532945110,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "11月13日人民币对美元中间价调升22个基点",
-        "url": "https://m.36kr.com/newsflashes/4067504810808193",
-        "desc": "36氪获悉，11月13日，人民币对美元中间价调升22个基点，报6.7152，上一交易日中间价6.7174。",
-        "cover": "",
-        "date": 1794532791675,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "中芯国际赵海军：三季度平均晶圆单价环比提升1.8%",
-        "url": "https://m.36kr.com/newsflashes/4067501209654405",
-        "desc": "11月13日，中芯国际联合CEO赵海军在三季度业绩会上表示，三季度，公司整体销售收入再创新高，达到31.9亿美元，环比增长6.1%。比起三个月前，客户对诸如BCD、专用存储、Controller等人工智能配套芯片提拉需求的增量速度比原先预期更快，使得三季度收入超出指引上限。从价格的角度看，公司与客户协商的价格分批落地，产品组合持续优化，平均晶圆单价环比提升1.8%。（证券时报）",
-        "cover": "",
-        "date": 1794532571878,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794538574868,
-    "bilibili": 1794537063827,
-    "qbitai": 1794509815648,
-    "36kr": 1794509815964
+    "thepaper": 1794539465784,
+    "bilibili": 1794538865169,
+    "qbitai": 1794510690797,
+    "36kr": 1794510691167
   },
   "failures": {}
 }
