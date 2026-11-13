@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T02:42:33Z",
+  "updatedAt": "2026-11-13T02:56:31Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,16 +126,36 @@
     ],
     "bilibili": [
       {
-        "title": "哥斯拉正式入驻B站",
-        "url": "https://search.bilibili.com/all?keyword=%E5%93%A5%E6%96%AF%E6%8B%89%E6%AD%A3%E5%BC%8F%E5%85%A5%E9%A9%BBB%E7%AB%99",
+        "title": "哥斯拉中国官方正式入驻B站！",
+        "url": "https://www.bilibili.com/video/BV1z1Wy6XENr",
         "desc": "",
-        "rank": 1
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "✨怪兽之王空降 B 站✨ 快来一键三连关注哥斯拉中国官方账号吧！",
+        "content": "✨怪兽之王空降 B 站✨ 快来一键三连关注哥斯拉中国官方账号吧！",
+        "bvid": "BV1z1Wy6XENr",
+        "author": "哥斯拉中国官方",
+        "duration": "0:19",
+        "cover": "//i1.hdslb.com/bfs/archive/d740243fdbcd3643a5d94fa848c65494d49d7253.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1z1Wy6XENr&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "哥斯拉正式入驻B站"
       },
       {
-        "title": "复刻GTA的音乐电台",
-        "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E5%88%BBGTA%E7%9A%84%E9%9F%B3%E4%B9%90%E7%94%B5%E5%8F%B0",
+        "title": "如果把GTA里的音乐电台做成真的会是怎样?!丨HOPICO",
+        "url": "https://www.bilibili.com/video/BV1zVWq6aE5i",
         "desc": "",
-        "rank": 2
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "ver wa ver wa ver wa ~~~~",
+        "content": "ver wa ver wa ver wa ~~~~",
+        "bvid": "BV1zVWq6aE5i",
+        "author": "HOPICO",
+        "duration": "19:24",
+        "cover": "//i2.hdslb.com/bfs/archive/b821d37179dbc6716576b447edfde99cd7058086.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zVWq6aE5i&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "复刻GTA的音乐电台"
       },
       {
         "title": "星舰十五飞流程解析，挑战双捕获！如何接？难在哪？成败几何？",
@@ -186,10 +206,20 @@
         "hotTitle": "2027研究生报考人数347万"
       },
       {
-        "title": "APEC之约 读懂深圳的城市温度",
-        "url": "https://search.bilibili.com/all?keyword=APEC%E4%B9%8B%E7%BA%A6%20%E8%AF%BB%E6%87%82%E6%B7%B1%E5%9C%B3%E7%9A%84%E5%9F%8E%E5%B8%82%E6%B8%A9%E5%BA%A6",
+        "title": "有你“圳”好！",
+        "url": "https://www.bilibili.com/video/BV1vqWe6EEmZ",
         "desc": "",
-        "rank": 6
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1vqWe6EEmZ",
+        "author": "央视新闻",
+        "duration": "4:34",
+        "cover": "//i1.hdslb.com/bfs/archive/77b398433230c0a10b0a324eb86b1e9709420785.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vqWe6EEmZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "APEC之约 读懂深圳的城市温度"
       },
       {
         "title": "🔥S16决赛be like...🔥",
@@ -900,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "*ST闻泰：荷兰法院驳回NexperiaB.V.关于商标侵权临时禁令的请求",
+        "url": "https://m.36kr.com/newsflashes/4068042739668102",
+        "desc": "36氪获悉，*ST闻泰公告，公司境内子公司安世半导体(中国)有限公司收到荷兰海牙地方法院商事庭临时程序判决，驳回NexperiaB.V.关于商标侵权的请求，驳回在欧盟及比荷卢境内针对安世中国下发商标侵权临时禁令的请求；但安世中国不得在欧盟境内援引使用江苏省高级人民法院的裁定。该判决系临时程序判决，实体争议尚未启动，不影响公司依据中国法律在中国境内主张权利。",
+        "cover": "",
+        "date": 1794567350000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "欧元区经济显现韧性，为欧洲央行加息留出空间",
+        "url": "https://m.36kr.com/newsflashes/4068039710102402",
+        "desc": "欧元区经济展现出面对伊朗冲突等不利因素时的韧性，为欧洲央行进一步加息以遏制通胀留出了空间。欧盟统计局周五公布的数据显示，拥有21个成员国的欧元区第三季度国内生产总值增长0.4%，与10月公布的初步估算一致。当时分析师仅预计增速为这一水平的一半。自中东冲突推动能源价格大幅上涨以来，欧洲央行已两次提高借贷成本。随着通胀率目前达到2%目标的两倍，而地区经济又较好地承受住了加息影响，官员正暗示12月将再次采取行动。（财联社）",
+        "cover": "",
+        "date": 1794566930000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "中诚华隆铜陵基地产线竣工",
+        "url": "https://m.36kr.com/newsflashes/4068038051369862",
+        "desc": "36氪获悉，中诚华隆铜陵基地产线竣工。项目一期建成后，预计形成年产50000台计算设备的生产能力，涵盖通算服务器、智算服务器、桌面计算机，立足铜陵、辐射长三角，供给自主算力装备。",
+        "cover": "",
+        "date": 1794566528000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "南亚新材：拟1亿元至2亿元回购公司股份",
         "url": "https://m.36kr.com/newsflashes/4068030121726848",
         "desc": "36氪获悉，南亚新材公告，公司拟以自有资金或自筹资金通过集中竞价交易方式回购股份，回购金额不低于1亿元且不超过2亿元，回购价格不超过332.50元/股。本次回购股份将全部用于维护公司价值及股东权益，回购期限自股东会审议通过之日起不超过3个月。",
@@ -907,7 +967,7 @@
         "date": 1794566161000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "利扬芯片：拟3.06亿元收购众望达51%股权",
@@ -917,7 +977,7 @@
         "date": 1794565992972,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "机构今日买入亚玛顿等10股，抛售沪电股份1.21亿元",
@@ -927,7 +987,7 @@
         "date": 1794565778319,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "西贝CEO卸任贾国龙功夫菜销售公司职务",
@@ -937,7 +997,7 @@
         "date": 1794565609000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "海南橡胶：控股子公司合盛农业拟出售JFL新加坡公司100%股权",
@@ -947,7 +1007,7 @@
         "date": 1794565025000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "源杰科技：签订17.44亿元大功率激光器芯片销售订单",
@@ -957,7 +1017,7 @@
         "date": 1794564715055,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "天问四号有效载荷研制方案开展征集",
@@ -967,7 +1027,7 @@
         "date": 1794564683000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "上交所：对全球芯片LOF等溢价较高的基金进行重点监控",
@@ -977,7 +1037,7 @@
         "date": 1794564384861,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "杰瑞股份：拟1亿元-2亿元回购股份用于股权激励",
@@ -987,7 +1047,7 @@
         "date": 1794564377000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "广合科技：首次回购公司A股股份50万股",
@@ -997,7 +1057,7 @@
         "date": 1794563902000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "新宙邦：与亿纬锂能签订电解液长期供货协议",
@@ -1007,7 +1067,7 @@
         "date": 1794563861792,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "上交所终止江苏鑫华半导体科技股份有限公司科创板IPO审核",
@@ -1017,7 +1077,7 @@
         "date": 1794563635000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "国际能源署：全球石油供应逐步恢复，柴油供应仍紧张",
@@ -1027,7 +1087,7 @@
         "date": 1794563605999,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "崔东树：10月车市最突出的特征是“旺季不旺”，传统“银十”成色严重不足",
@@ -1037,7 +1097,7 @@
         "date": 1794563568000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "南向资金今日净买入23.33亿港元",
@@ -1047,7 +1107,7 @@
         "date": 1794563279387,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "西部黄金：子公司新疆美盛因极端天气继续停产",
@@ -1057,7 +1117,7 @@
         "date": 1794563164000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "兆丰股份：控股子公司签署3亿元机器人创新服务平台项目合同",
@@ -1067,45 +1127,15 @@
         "date": 1794563022527,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "联讯仪器：拟1亿元-1.5亿元回购股份用于员工持股",
-        "url": "https://m.36kr.com/newsflashes/4067995454198913",
-        "desc": "36氪获悉，联讯仪器公告，公司拟通过集中竞价交易方式回购股份，回购资金总额不低于1.00亿元、不高于1.50亿元，回购价格不超过1538.00元/股，预计回购股份数量为65020股至97529股，占公司总股本的0.04%至0.06%。回购股份将用于员工持股计划或股权激励，回购期限为董事会审议通过之日起12个月内。公司董事、高管、控股股东、实控人及持股5%以上股东未来3个月、6个月内无减持计划。本次回购存在股价超价格上限等无法顺利实施的风险。",
-        "cover": "",
-        "date": 1794562738171,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "芯联集成旗下绍兴制造公司增资至84.8亿，增幅约217%",
-        "url": "https://m.36kr.com/newsflashes/4067871750886537",
-        "desc": "36氪获悉，天眼查App显示，近日，芯联先进集成电路制造（绍兴）有限公司发生工商变更，新增招银金融资产投资有限公司、交银金融资产投资有限公司等为股东，同时，注册资本由约26.8亿元人民币增至约84.8亿元人民币，增幅约217%。该公司成立于2023年9月，法定代表人为陈志刚，经营范围包括集成电路制造、集成电路设计、集成电路芯片及产品制造等，现由芯联集成电路制造股份有限公司、绍兴柯桥芯合先进集成创业投资基金合伙企业（有限合伙）及上述新增股东等共同持股。",
-        "cover": "",
-        "date": 1794562682000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "财政部拟第一次续发行2026年记账式附息（二十一期）国债，招标面值总额250亿元",
-        "url": "https://m.36kr.com/newsflashes/4067992419914889",
-        "desc": "36氪获悉，财政部拟第一次续发行2026年记账式附息（二十一期）国债。本次续发行国债为30年期固定利率附息债。本次续发行国债竞争性招标面值总额250亿元，不进行甲类成员追加投标。本次续发行国债票面利率与之前发行的同期国债相同，为2.06%。本次续发行国债的起息日、兑付安排与之前发行的同期国债相同。自2026年10月25日开始计息，按半年付息，每年4月25日（节假日顺延，下同）、10月25日支付利息，2056年10月25日偿还本金并支付最后一次利息。招标时间为2026年11月20日上午10:35至11:35。",
-        "cover": "",
-        "date": 1794562552973,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794566464313,
+    "thepaper": 1794567364979,
     "bilibili": 1794565806884,
-    "qbitai": 1794537753421,
-    "36kr": 1794537753814
+    "qbitai": 1794538591365,
+    "36kr": 1794538591716
   },
   "failures": {}
 }
