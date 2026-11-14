@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:57:08Z",
+  "updatedAt": "2026-11-14T07:12:07Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -152,7 +152,7 @@
         "content": "【2026KPL年度总决赛】11月14日 总决赛 北京JDG VS 北京WB",
         "bvid": "BV1Kzs36kErx",
         "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "340:54",
+        "duration": "382:15",
         "cover": "//i0.hdslb.com/bfs/archive/43159a0488f9581948f0489c4fb638ebb278bee2.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Kzs36kErx&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "WB年总夺冠圆梦凤凰山"
@@ -190,10 +190,20 @@
         "hotTitle": "BLG 决赛我们来了"
       },
       {
-        "title": "热梗编年史",
-        "url": "https://search.bilibili.com/all?keyword=%E7%83%AD%E6%A2%97%E7%BC%96%E5%B9%B4%E5%8F%B2",
+        "title": "全看过的这辈子有了",
+        "url": "https://www.bilibili.com/video/BV1rpWe6ZEWn",
         "desc": "",
-        "rank": 5
+        "rank": 5,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1rpWe6ZEWn",
+        "author": "阿星and阿奇",
+        "duration": "3:51",
+        "cover": "//i2.hdslb.com/bfs/archive/1db4d6194b925a575f6bb3909ff9ab40ac42646f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rpWe6ZEWn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "热梗编年史"
       },
       {
         "title": "国足2-0马来西亚！王钰栋张玉宁破门，吴曦回归国家队，李昊神扑！",
@@ -260,19 +270,19 @@
         "hotTitle": "周深KPL总决赛开场秀太燃了"
       },
       {
-        "title": "【年总决赛B站弹幕版】11月14日 北京JDG vs 北京WB",
-        "url": "https://www.bilibili.com/video/BV1QLs56REYR",
+        "title": "爆了！JDG和WB决赛荣耀大话王，清融：梓墨是路边！",
+        "url": "https://www.bilibili.com/video/BV18fWk6KEdP",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1QLs56REYR",
-        "author": "kpl二路",
-        "duration": "180:6",
-        "cover": "//i0.hdslb.com/bfs/archive/8e5a5c79b824d0729abe2ba31cdd4152662cc2b4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QLs56REYR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV18fWk6KEdP",
+        "author": "王者荣耀苏景辰",
+        "duration": "3:14",
+        "cover": "//i2.hdslb.com/bfs/archive/389091db7f9faa79c1f6e7bb3fc4575b0e0148c5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18fWk6KEdP&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "梓墨获2026KPL年总FMVP"
       },
       {
@@ -324,20 +334,10 @@
         "hotTitle": "终末地有种杯S2 正赛"
       },
       {
-        "title": "【S16总决赛预热】15日凌晨3点：终极一战！",
-        "url": "https://www.bilibili.com/video/BV11nWB61EHV",
+        "title": "S16总决赛对阵预热片",
+        "url": "https://search.bilibili.com/all?keyword=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E9%A2%84%E7%83%AD%E7%89%87",
         "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【上B站，看S16】 11月15日3：00，英雄联盟S16全球总决赛正式开战！",
-        "content": "【上B站，看S16】 11月15日3：00，英雄联盟S16全球总决赛正式开战！",
-        "bvid": "BV11nWB61EHV",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "duration": "2:48",
-        "cover": "//i1.hdslb.com/bfs/archive/f7ece12e144d7b0cf6b8e77d4c27ae87d991d8b9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11nWB61EHV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S16总决赛对阵预热片"
+        "rank": 14
       },
       {
         "title": "「小白」2026 六大Pro Max影像专题：体验优化任重道远！",
@@ -1122,10 +1122,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794668165490,
-    "bilibili": 1794668174325,
-    "qbitai": 1794639428057,
-    "36kr": 1794639428473
+    "thepaper": 1794669066717,
+    "bilibili": 1794667620075,
+    "qbitai": 1794640327042,
+    "36kr": 1794640327389
   },
   "failures": {}
 }
