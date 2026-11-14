@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:56:34Z",
+  "updatedAt": "2026-11-14T04:11:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -424,7 +424,7 @@
         "content": "-",
         "bvid": "BV1Trs363EKE",
         "author": "kpl二路",
-        "duration": "1512:57",
+        "duration": "2462:5",
         "cover": "//i2.hdslb.com/bfs/archive/9d207b64e5d61bac02497b2f767fedb13700aecb.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Trs363EKE&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "时间解说KPL年总决赛"
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794657365046,
-    "bilibili": 1794657373773,
-    "qbitai": 1794628593888,
-    "36kr": 1794628594222
+    "thepaper": 1794658265888,
+    "bilibili": 1794657279539,
+    "qbitai": 1794629495388,
+    "36kr": 1794629495797
   },
   "failures": {}
 }
