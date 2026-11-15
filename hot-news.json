@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T05:41:31Z",
+  "updatedAt": "2026-11-15T05:56:37Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -910,20 +910,20 @@
     ],
     "36kr": [
       {
-        "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
-        "url": "https://m.36kr.com/p/4070420134728576",
+        "title": "黄仁勋吃了上市太早的亏",
+        "url": "https://m.36kr.com/p/4067755181003654",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261115/v2_d07173094b0a4a548cc840d12a03dd53@000000_oswg20441oswg1112oswg473_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
-        "date": 1794714126030,
+        "cover": "https://img.36krcdn.com/hsossms/20261113/v2_fbd93323ef40452d926211c2debab19d@5426566_oswg51583oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
+        "date": 1794750822899,
         "platform": "36kr",
         "kind": "article",
         "rank": 1
       },
       {
-        "title": "创造历史，中国BLG夺得S16冠军：一代人的青春没了遗憾",
-        "url": "https://m.36kr.com/p/4070295963964548",
+        "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
+        "url": "https://m.36kr.com/p/4070420134728576",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261115/v2_942de146b19246dfac574f09dd599943@6100851_oswg1102212oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
+        "cover": "https://img.36krcdn.com/hsossms/20261115/v2_d07173094b0a4a548cc840d12a03dd53@000000_oswg20441oswg1112oswg473_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
         "date": 1794714126030,
         "platform": "36kr",
         "kind": "article",
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794750065561,
+    "thepaper": 1794750965575,
     "bilibili": 1794749343318,
-    "qbitai": 1794721290890,
-    "36kr": 1794721291347
+    "qbitai": 1794722197018,
+    "36kr": 1794722197432
   },
   "failures": {}
 }
