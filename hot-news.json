@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:56:35Z",
+  "updatedAt": "2026-11-14T21:11:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -286,19 +286,19 @@
         "hotTitle": "欧洲多国为何开始军演造势"
       },
       {
-        "title": "1穿4连斩LCK战队！恭喜BLG，加冕为王！",
-        "url": "https://www.bilibili.com/video/BV1yvsj6SE6m",
+        "title": "1穿4战胜LCK赛区战队！祝贺BLG拿下2026英雄联盟全球总决赛冠军！",
+        "url": "https://www.bilibili.com/video/BV1yesj6nEAd",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1yvsj6SE6m",
-        "author": "央视新闻",
-        "duration": "4:40",
-        "cover": "//i2.hdslb.com/bfs/archive/e6bd1fb2162a8230f932ecb5a2c11529ce1ab375.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yvsj6SE6m&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "视频来源：哔哩哔哩英雄联盟赛事",
+        "content": "视频来源：哔哩哔哩英雄联盟赛事",
+        "bvid": "BV1yesj6nEAd",
+        "author": "新华社",
+        "duration": "3:6",
+        "cover": "//i2.hdslb.com/bfs/archive/7e7fdb88d8af7363e3404d7c122779b91360a09c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yesj6nEAd&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "央视新闻祝贺BLG夺冠"
       },
       {
@@ -558,19 +558,19 @@
         "hotTitle": "石家庄火流星陨石价值几何"
       },
       {
-        "title": "韩立再遇紫灵与梅凝，紫灵邀韩立共探坠魔谷《凡人修仙传》逐帧解析200集：",
-        "url": "https://www.bilibili.com/video/BV1BiWB6vE1s",
+        "title": "韩立你不是人！让梅凝宝宝暗自伤神！《凡人修仙传》200集逐帧解析",
+        "url": "https://www.bilibili.com/video/BV1MksV6EEYb",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1BiWB6vE1s",
-        "author": "一路同行YXTT",
-        "duration": "25:15",
-        "cover": "//i1.hdslb.com/bfs/archive/d322000e6574231f2a2c1a628c1c469f159d6364.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BiWB6vE1s&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "感谢本期视频的配音小哥@鲜氣菌",
+        "content": "感谢本期视频的配音小哥@鲜氣菌",
+        "bvid": "BV1MksV6EEYb",
+        "author": "白马侯子",
+        "duration": "10:27",
+        "cover": "//i0.hdslb.com/bfs/archive/34d0192f0b8b50f875ad5e91be8c8a9581440c5f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MksV6EEYb&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "紫灵邀请韩立前往坠魔谷"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794718565289,
-    "bilibili": 1794718574368,
-    "qbitai": 1794689794803,
-    "36kr": 1794689795104
+    "thepaper": 1794719465148,
+    "bilibili": 1794718203328,
+    "qbitai": 1794690694061,
+    "36kr": 1794690694376
   },
   "failures": {}
 }
