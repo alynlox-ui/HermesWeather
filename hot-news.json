@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T01:26:34Z",
+  "updatedAt": "2026-11-15T01:42:30Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -10,44 +10,44 @@
         "rank": 1
       },
       {
-        "title": "连休五天！多地公布雪假时间",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34479010",
-        "desc": "",
-        "rank": 2
-      },
-      {
         "title": "三问兴平牵手希望小学“卖惨骗捐”案：监管多次预警，为何骗局仍能持续",
         "url": "https://www.thepaper.cn/newsDetail_forward_34480667",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "美新型轰炸机B-21研制迎来重要里程碑，完成首次武器投放试验",
         "url": "https://www.thepaper.cn/newsDetail_forward_34475968",
         "desc": "",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "男子高速开“智驾”直接躺倒睡觉、还载着一家人，交警：批评教育+处罚",
         "url": "https://www.thepaper.cn/newsDetail_forward_34479556",
         "desc": "",
-        "rank": 5
+        "rank": 4
       },
       {
         "title": "央视曝光校园举报乱象：有家长问“能否保证新老师不怀孕”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34483809",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "时隔五年再捧杯，中国战队夺得英雄联盟全球总决赛冠军",
         "url": "https://www.thepaper.cn/newsDetail_forward_34483414",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "究竟｜机票是否应允许限时免费退改，航空公司有哪些考量？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34170699",
+        "desc": "",
+        "rank": 7
+      },
+      {
+        "title": "“两个特朗普”、辩论失利背后、“被迫”退选过程，拜登新回忆录披露白宫内幕",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34484528",
         "desc": "",
         "rank": 8
       },
@@ -58,38 +58,38 @@
         "rank": 9
       },
       {
-        "title": "观察｜特朗普又对伊朗打出经济封锁牌，但美国能说了算吗？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34479929",
+        "title": "央视曝低价团坑老购房陷阱：威海乳山市价8万多商品房卖老人41万",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34484821",
         "desc": "",
         "rank": 10
       },
       {
-        "title": "“零元面馆”内外众生相：一碗免费素面，真难住了一条街？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34478046",
+        "title": "观察｜特朗普又对伊朗打出经济封锁牌，但美国能说了算吗？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34479929",
         "desc": "",
         "rank": 11
-      },
-      {
-        "title": "“两个特朗普”、辩论失利背后、“被迫”退选过程，拜登新回忆录披露白宫内幕",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34484528",
-        "desc": "",
-        "rank": 12
       },
       {
         "title": "历史上的今天｜1952年11月15日，开展全国大扫盲",
         "url": "https://www.thepaper.cn/newsDetail_forward_34479715",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "“给留守男孩一百元”的残疾博主喊冤，男孩家人为她发声澄清：不是剧本，另外九百给了给姐姐",
         "url": "https://www.thepaper.cn/newsDetail_forward_34478684",
         "desc": "",
-        "rank": 14
+        "rank": 13
       },
       {
         "title": "创造历史！SpaceX星舰第15次试飞，首次成功实现“筷子夹飞船”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34483325",
+        "desc": "",
+        "rank": 14
+      },
+      {
+        "title": "刷新人造物体远行纪录：飞了近50年，“旅行者1号”将抵达“一光日”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34485015",
         "desc": "",
         "rank": 15
       },
@@ -118,8 +118,8 @@
         "rank": 19
       },
       {
-        "title": "自付金额有望降至10万以内！百万CAR-T如何谈进医保，药明巨诺董事会主席详述谈判过程",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34478422",
+        "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34483990",
         "desc": "",
         "rank": 20
       }
@@ -174,10 +174,26 @@
         "hotTitle": "BLG夺冠赞歌 仰望星空"
       },
       {
+        "title": "天呐！英雄联盟历史上含金量最高的冠军！BLG传奇1穿4LCK修成正果！【1酱短评】",
+        "url": "https://www.bilibili.com/video/BV1Gbsn63EcU",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "视频制作剪辑@闻人常安AreS",
+        "content": "视频制作剪辑@闻人常安AreS",
+        "bvid": "BV1Gbsn63EcU",
+        "author": "你是想气死1酱么",
+        "duration": "5:43",
+        "cover": "//i2.hdslb.com/bfs/archive/e7b937ef1ec2d468bc0f507c6971bedba2442595.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Gbsn63EcU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG一穿四LCK什么概念"
+      },
+      {
         "title": "我们是冠军🏆！！！",
         "url": "https://www.bilibili.com/video/BV1rysE6HEFZ",
         "desc": "",
-        "rank": 4,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -190,42 +206,32 @@
         "hotTitle": "Knight首位国产冠军中单"
       },
       {
-        "title": "我们把欢呼声送给BLG！他们是世界冠军！",
-        "url": "https://www.bilibili.com/video/BV1zmsE6JEuZ",
+        "title": "米勒泪撒BLG夺冠现场",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E6%B3%AA%E6%92%92BLG%E5%A4%BA%E5%86%A0%E7%8E%B0%E5%9C%BA",
         "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1zmsE6JEuZ",
-        "author": "解说米勒",
-        "duration": "1:29",
-        "cover": "//i1.hdslb.com/bfs/archive/26ef4782a8fb30c621c8872ec9a6d481dca2352d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zmsE6JEuZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "米勒泪撒BLG夺冠现场"
+        "rank": 6
       },
       {
-        "title": "BLG一穿四夺冠！BLG 3-1 GEN 赛后数据雷达图丨2026全球总决赛-决赛",
-        "url": "https://www.bilibili.com/video/BV1Nesj6HETj",
+        "title": "【中立】锐评BLG战胜GenG获得英雄联盟S16全球总决赛冠军 五年一剑",
+        "url": "https://www.bilibili.com/video/BV1fusE6LEuk",
         "desc": "",
-        "rank": 6,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Nesj6HETj",
-        "author": "苦练李香兰",
-        "duration": "4:39",
-        "cover": "//i1.hdslb.com/bfs/archive/cced011a97d6203bbcc3d0715780b7858251d2bc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nesj6HETj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG一穿四夺冠数据图"
+        "description": "失败多少次都不重要 重要的是你有多少次站了起来",
+        "content": "失败多少次都不重要 重要的是你有多少次站了起来",
+        "bvid": "BV1fusE6LEuk",
+        "author": "最中立的电竞",
+        "duration": "12:20",
+        "cover": "//i1.hdslb.com/bfs/archive/e65ba35b04e858a8c180b49a42621ccc8fa816b9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fusE6LEuk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "从夯到拉评BLG GEN各选手表现"
       },
       {
         "title": "BLG夺冠单曲《十年人间》——“旧时梦魇，今日高声唱！”",
         "url": "https://www.bilibili.com/video/BV1Cvsj6SENy",
         "desc": "",
-        "rank": 7,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "原曲：盗墓笔记·十年人间——李常超 填词、制作：鲤顺鱼 翻唱：AI 所有的认可和批评我都会记住，任何人都能大大方方发表观点。本人填词作品问询过我后可随意翻唱。 BLG牛逼！太攒劲了！熬通宵看这场比赛就是S16做的最棒的决定！ In NEW YORK you can be a new man！在纽约一切都会兑现！终于做到了！ 熬不动了视频发完我先睡觉了，这首为MSI准备的夺冠曲，却是在S赛发了出来。塞翁失马焉知非福？ 反正BLG牛逼！！！兄弟们别软脚了，硬起来！ 惊天一串四！我说这是有史以来含金量最高",
@@ -236,22 +242,6 @@
         "cover": "//i0.hdslb.com/bfs/archive/010f033111baab5f7752e9284d3e09b3632806ba.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Cvsj6SENy&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG夺冠单曲 十年人间"
-      },
-      {
-        "title": "【真实锐评】BLG1穿4LCK拿下S16 S赛冠军！国产中单可以夺冠！超级上单有中国人！",
-        "url": "https://www.bilibili.com/video/BV1YZsE6kEkG",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1YZsE6kEkG",
-        "author": "真实电竞",
-        "duration": "12:38",
-        "cover": "//i2.hdslb.com/bfs/archive/82260b373363a9ac1789db0b8d3bb354cc725a4d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YZsE6kEkG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "国产中单和超级上单有多强"
       },
       {
         "title": "BLG战胜GEN夺冠双方选手反应",
@@ -270,26 +260,54 @@
         "hotTitle": "BLG夺冠双方选手反应"
       },
       {
-        "title": "欧洲开心坏了",
-        "url": "https://www.bilibili.com/video/BV1pdsL67EKy",
+        "title": "【真实锐评】BLG1穿4LCK拿下S16 S赛冠军！国产中单可以夺冠！超级上单有中国人！",
+        "url": "https://www.bilibili.com/video/BV1YZsE6kEkG",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "本视频提及事件以及信息来源如下： 《国际观察丨俄美乌重启会谈，欧洲借军演“刷存在”》来自：新华网，2026-11-10 21:14发布 《欧洲议会投票批准欧美贸易协议》来自：新华网，2026-06-16 20:48:03发布 《排除美国参与，欧洲多国演练“出兵乌克兰”》来自：中国青年报，2026-11-09 15:29发布 《北约秘书长：叫特朗普“爸爸”是一个巨大的错误》来自：威海新闻网，2026-11-06 17:50发布 《谈判桌没有欧洲席位！俄美乌重启会谈，欧洲多国军演造势、“刷存在感”》来自：光明",
-        "content": "本视频提及事件以及信息来源如下： 《国际观察丨俄美乌重启会谈，欧洲借军演“刷存在”》来自：新华网，2026-11-10 21:14发布 《欧洲议会投票批准欧美贸易协议》来自：新华网，2026-06-16 20:48:03发布 《排除美国参与，欧洲多国演练“出兵乌克兰”》来自：中国青年报，2026-11-09 15:29发布 《北约秘书长：叫特朗普“爸爸”是一个巨大的错误》来自：威海新闻网，2026-11-06 17:50发布 《谈判桌没有欧洲席位！俄美乌重启会谈，欧洲多国军演造势、“刷存在感”》来自：光明",
-        "bvid": "BV1pdsL67EKy",
-        "author": "燕三嘤嘤嘤",
-        "duration": "20:11",
-        "cover": "//i0.hdslb.com/bfs/archive/9177ca68b6934fe0613d80bbceeb44e1277f51e2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pdsL67EKy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "欧洲多国为何开始军演造势"
+        "description": "",
+        "content": "",
+        "bvid": "BV1YZsE6kEkG",
+        "author": "真实电竞",
+        "duration": "12:38",
+        "cover": "//i2.hdslb.com/bfs/archive/82260b373363a9ac1789db0b8d3bb354cc725a4d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YZsE6kEkG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "国产中单和超级上单有多强"
+      },
+      {
+        "title": "秦牧重铸无忧剑",
+        "url": "https://search.bilibili.com/all?keyword=%E7%A7%A6%E7%89%A7%E9%87%8D%E9%93%B8%E6%97%A0%E5%BF%A7%E5%89%91",
+        "desc": "",
+        "rank": 11
+      },
+      {
+        "title": "欧洲多国为何开始军演造势",
+        "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E5%86%9B%E6%BC%94%E9%80%A0%E5%8A%BF",
+        "desc": "",
+        "rank": 12
+      },
+      {
+        "title": "BLG一穿四夺冠！BLG 3-1 GEN 赛后数据雷达图丨2026全球总决赛-决赛",
+        "url": "https://www.bilibili.com/video/BV1Nesj6HETj",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Nesj6HETj",
+        "author": "苦练李香兰",
+        "duration": "4:39",
+        "cover": "//i1.hdslb.com/bfs/archive/cced011a97d6203bbcc3d0715780b7858251d2bc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nesj6HETj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG一穿四夺冠数据图"
       },
       {
         "title": "【英雄联盟S16】BLG夺冠时刻",
         "url": "https://www.bilibili.com/video/BV1kqsj6EEVy",
         "desc": "",
-        "rank": 11,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "【英雄联盟S16】BLG夺冠时刻",
@@ -302,138 +320,10 @@
         "hotTitle": "BLG夺冠时刻"
       },
       {
-        "title": "爆了！BLG夺冠后左手直言碰到faker了：他说希望我夺冠，这就是神啊，前两把真的被ON的卡密尔吓尿了！",
-        "url": "https://www.bilibili.com/video/BV1rUsn64E7g",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1rUsn64E7g",
-        "author": "东海帝皇forgive7",
-        "duration": "4:27",
-        "cover": "//i2.hdslb.com/bfs/archive/5dd927a9fc8f35b124fa65caea8be7eb94109b5b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rUsn64E7g&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Knight赛后感谢Faker"
-      },
-      {
-        "title": "KPL发文：2026年度王者巅峰之夜暨KPL十周年庆典门票售罄！",
-        "url": "https://www.bilibili.com/video/BV1VT4i6bEWZ",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1VT4i6bEWZ",
-        "author": "王者信息站",
-        "duration": "1:12",
-        "cover": "//i0.hdslb.com/bfs/archive/a1993926623a42b793c87673571e90e589462bcb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VT4i6bEWZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "王者荣耀巅峰之夜暨十周年庆典"
-      },
-      {
-        "title": "【2026IVL秋季赛】 Week7 Day2 MRC vs GR",
-        "url": "https://www.bilibili.com/video/BV1p8sG6BEtq",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
-        "content": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
-        "bvid": "BV1p8sG6BEtq",
-        "author": "第五人格赛事",
-        "duration": "124:25",
-        "cover": "//i0.hdslb.com/bfs/archive/91600483486c820588f8cc0cc6f2c416f1690171.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1p8sG6BEtq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "FPX.ZQ vs GR IVL秋季赛"
-      },
-      {
-        "title": "合影！一人一句恭喜BLG！2026英雄联盟全球总决赛决战高光时刻",
-        "url": "https://www.bilibili.com/video/BV1qQsE62EiZ",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "视频来源：哔哩哔哩英雄联盟赛事",
-        "content": "视频来源：哔哩哔哩英雄联盟赛事",
-        "bvid": "BV1qQsE62EiZ",
-        "author": "新华社",
-        "duration": "8:0",
-        "cover": "//i1.hdslb.com/bfs/archive/00c37180cb6d9ec7e01d115d4736550278308927.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qQsE62EiZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "弹幕合影和新华社一起恭喜BLG"
-      },
-      {
-        "title": "牧神记第109集 秦牧铸造六合神兵无忧剑",
-        "url": "https://www.bilibili.com/video/BV1hmWi6JEJz",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "#SpookySeason #TrendingHunt #牧神记 #牧神记第109集",
-        "content": "#SpookySeason #TrendingHunt #牧神记 #牧神记第109集",
-        "bvid": "BV1hmWi6JEJz",
-        "author": "XiaoYanOfficial",
-        "duration": "19:56",
-        "cover": "//i1.hdslb.com/bfs/archive/8a3357dd0db0b65d53a909566fd2bbee844a2e85.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hmWi6JEJz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "秦牧重铸无忧剑"
-      },
-      {
-        "title": "【BLG夺冠精彩时刻】风起今朝，我们是世界冠军！",
-        "url": "https://www.bilibili.com/video/BV1DpsE6iEkP",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1DpsE6iEkP",
-        "author": "BLG电子竞技俱乐部",
-        "duration": "8:2",
-        "cover": "//i0.hdslb.com/bfs/archive/a71ba43843548c84342398f3ee6da7a123cde229.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DpsE6iEkP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG夺冠精彩时刻"
-      },
-      {
-        "title": "BLG一穿四夺冠单曲《春庭雪》",
-        "url": "https://www.bilibili.com/video/BV1bGsJ6AEFb",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "原曲：橙翼《春庭雪》 填词：@Dream丶暖风 制作：迟到的对白丶",
-        "content": "原曲：橙翼《春庭雪》 填词：@Dream丶暖风 制作：迟到的对白丶",
-        "bvid": "BV1bGsJ6AEFb",
-        "author": "迟到的对白丶",
-        "duration": "5:7",
-        "cover": "//i2.hdslb.com/bfs/archive/d3aa72a1c3db987938c7e0c23793b26dfd29e645.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bGsJ6AEFb&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG一穿四单曲 春庭雪"
-      },
-      {
-        "title": "韩立你不是人！让梅凝宝宝暗自伤神！《凡人修仙传》200集逐帧解析",
-        "url": "https://www.bilibili.com/video/BV1MksV6EEYb",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "感谢本期视频的配音小哥@鲜氣菌",
-        "content": "感谢本期视频的配音小哥@鲜氣菌",
-        "bvid": "BV1MksV6EEYb",
-        "author": "白马侯子",
-        "duration": "10:27",
-        "cover": "//i0.hdslb.com/bfs/archive/34d0192f0b8b50f875ad5e91be8c8a9581440c5f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MksV6EEYb&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "紫灵邀请韩立前往坠魔谷"
-      },
-      {
         "title": "【4K巨制】俄乌战争打了四年多，前线为什么几乎不动？｜3D 复原",
         "url": "https://www.bilibili.com/video/BV1qbWC61ENR",
         "desc": "",
-        "rank": 20,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "2023 年夏天，乌军计划第一天就拿下的罗博季内，打了十二个星期。此后三年，一千多公里的前线几乎没再动过。 这部片子用 3D 复原和地图，从整场战争讲到今天的前线，最后落到一个坑里的 165 天。没有实拍；画面里的数字都标了出处，完整来源见置顶评论。两名士兵是虚构的，他们遇到的事都有报道可查。两段配乐由 AI 生成。 愿有一天，天空重新只属于飞鸟。",
@@ -446,26 +336,202 @@
         "hotTitle": "3D复原俄乌战争前线情况"
       },
       {
-        "title": "1穿4战胜LCK赛区战队！祝贺BLG拿下2026英雄联盟全球总决赛冠军！",
-        "url": "https://www.bilibili.com/video/BV1yesj6nEAd",
+        "title": "【BLG夺冠时刻语音】这一刻，我们等了太久！",
+        "url": "https://www.bilibili.com/video/BV19psn65EJy",
         "desc": "",
-        "rank": 21,
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV19psn65EJy",
+        "author": "BLG电子竞技俱乐部",
+        "duration": "1:2",
+        "cover": "//i0.hdslb.com/bfs/archive/ecaf9b9df1d7c7f7add5ab0dd4b1820f42d62cc4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19psn65EJy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG夺冠时刻语音"
+      },
+      {
+        "title": "KPL发文：2026年度王者巅峰之夜暨KPL十周年庆典门票售罄！",
+        "url": "https://www.bilibili.com/video/BV1VT4i6bEWZ",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1VT4i6bEWZ",
+        "author": "王者信息站",
+        "duration": "1:12",
+        "cover": "//i0.hdslb.com/bfs/archive/a1993926623a42b793c87673571e90e589462bcb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VT4i6bEWZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "王者荣耀巅峰之夜暨十周年庆典"
+      },
+      {
+        "title": "合影！一人一句恭喜BLG！2026英雄联盟全球总决赛决战高光时刻",
+        "url": "https://www.bilibili.com/video/BV1qQsE62EiZ",
+        "desc": "",
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "视频来源：哔哩哔哩英雄联盟赛事",
         "content": "视频来源：哔哩哔哩英雄联盟赛事",
-        "bvid": "BV1yesj6nEAd",
+        "bvid": "BV1qQsE62EiZ",
         "author": "新华社",
-        "duration": "3:6",
-        "cover": "//i2.hdslb.com/bfs/archive/7e7fdb88d8af7363e3404d7c122779b91360a09c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yesj6nEAd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "新华社祝贺BLG夺冠"
+        "duration": "8:0",
+        "cover": "//i1.hdslb.com/bfs/archive/00c37180cb6d9ec7e01d115d4736550278308927.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qQsE62EiZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "弹幕合影和新华社一起恭喜BLG"
+      },
+      {
+        "title": "【2026IVL秋季赛】 Week7 Day2 MRC vs GR",
+        "url": "https://www.bilibili.com/video/BV1p8sG6BEtq",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
+        "content": "第五人格职业联赛，简称IVL（Identity V League）。是中国大陆地区最高级别的第五人格职业比赛，是每年中国大陆赛区通往第五人格深渊的呼唤COA（Call of the Abyss）全球赛的重要通道之一。同时，IVL还是国内首个非对称对抗竞技职业联赛。",
+        "bvid": "BV1p8sG6BEtq",
+        "author": "第五人格赛事",
+        "duration": "124:25",
+        "cover": "//i0.hdslb.com/bfs/archive/91600483486c820588f8cc0cc6f2c416f1690171.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1p8sG6BEtq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "FPX.ZQ vs GR IVL秋季赛"
+      },
+      {
+        "title": "【恭喜BLG战胜GEN夺冠S16】风起今朝，就在今天！轻舟已过万重山，史上最有含金量的冠军！",
+        "url": "https://www.bilibili.com/video/BV1S8sn6zEs9",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1S8sn6zEs9",
+        "author": "Super卧龙君",
+        "duration": "18:34",
+        "cover": "//i2.hdslb.com/bfs/archive/32a8b5a476a63486a800ed6e421730ad3c2b4654.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1S8sn6zEs9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG选手如何做到对位压制"
+      },
+      {
+        "title": "我们是冠军！BLG选手赛后感言",
+        "url": "https://www.bilibili.com/video/BV1YFsJ63EYS",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1YFsJ63EYS",
+        "author": "英雄联盟赛事",
+        "duration": "0:30",
+        "cover": "//i1.hdslb.com/bfs/archive/c9dc2897adc1a8a21e039a6a3cceb17ff0dd7aec.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YFsJ63EYS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG选手赛后感言合集"
+      },
+      {
+        "title": "在无限延伸的梦想背后",
+        "url": "https://www.bilibili.com/video/BV1tGsJ6AECg",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1tGsJ6AECg",
+        "author": "夏安与秋",
+        "duration": "0:13",
+        "cover": "//i0.hdslb.com/bfs/archive/1a19cfd43aca404c2bfc73381adac3b1a28d95f3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tGsJ6AECg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "夏安庆祝BLG夺冠"
+      },
+      {
+        "title": "LOL究极更新[大量新内容]!英雄模型优化?峡谷全面改动!全新视觉效果!英雄联盟曙光!",
+        "url": "https://www.bilibili.com/video/BV1CEs76nEYy",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "LOL究极更新[大量新内容]!英雄模型优化?峡谷全面改动!全新视觉效果!英雄联盟曙光! 大家想抽【DJ琴女/神话幻想阿卡丽/寡妇】可以看看绿毛的小店呀!小店有【40个圣堂花火的9折大礼包】平常40个花火售价880元,现在40个花火792元[星星眼]祝大家一发入魂!",
+        "content": "LOL究极更新[大量新内容]!英雄模型优化?峡谷全面改动!全新视觉效果!英雄联盟曙光! 大家想抽【DJ琴女/神话幻想阿卡丽/寡妇】可以看看绿毛的小店呀!小店有【40个圣堂花火的9折大礼包】平常40个花火售价880元,现在40个花火792元[星星眼]祝大家一发入魂!",
+        "bvid": "BV1CEs76nEYy",
+        "author": "LOL小绿毛资讯",
+        "duration": "1:36",
+        "cover": "//i1.hdslb.com/bfs/archive/8cef03222c491307360b369bb5d79c5db0e62efc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CEs76nEYy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "LOL峡谷全面改动"
+      },
+      {
+        "title": "BLG教练丹尼揭秘决赛BP：爆料队内曾失控 Bin其实内心柔软",
+        "url": "https://www.bilibili.com/video/BV1s7sJ6fEzX",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1s7sJ6fEzX",
+        "author": "真嗣个巴嘎",
+        "duration": "10:43",
+        "cover": "//i1.hdslb.com/bfs/archive/8029fc13f4c384d2abb3a1ffec98c2e811afc0f7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1s7sJ6fEzX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG教练Daeny揭秘决赛BP"
+      },
+      {
+        "title": "【BLG夺冠精彩时刻】风起今朝，我们是世界冠军！",
+        "url": "https://www.bilibili.com/video/BV1DpsE6iEkP",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1DpsE6iEkP",
+        "author": "BLG电子竞技俱乐部",
+        "duration": "8:2",
+        "cover": "//i0.hdslb.com/bfs/archive/a71ba43843548c84342398f3ee6da7a123cde229.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DpsE6iEkP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG夺冠精彩时刻"
+      },
+      {
+        "title": "韩立你不是人！让梅凝宝宝暗自伤神！《凡人修仙传》200集逐帧解析",
+        "url": "https://www.bilibili.com/video/BV1MksV6EEYb",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "感谢本期视频的配音小哥@鲜氣菌",
+        "content": "感谢本期视频的配音小哥@鲜氣菌",
+        "bvid": "BV1MksV6EEYb",
+        "author": "白马侯子",
+        "duration": "10:27",
+        "cover": "//i0.hdslb.com/bfs/archive/34d0192f0b8b50f875ad5e91be8c8a9581440c5f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MksV6EEYb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "紫灵邀请韩立前往坠魔谷"
+      },
+      {
+        "title": "BLG一穿四夺冠单曲《春庭雪》",
+        "url": "https://www.bilibili.com/video/BV1bGsJ6AEFb",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "原曲：橙翼《春庭雪》 填词：@Dream丶暖风 制作：迟到的对白丶",
+        "content": "原曲：橙翼《春庭雪》 填词：@Dream丶暖风 制作：迟到的对白丶",
+        "bvid": "BV1bGsJ6AEFb",
+        "author": "迟到的对白丶",
+        "duration": "5:7",
+        "cover": "//i2.hdslb.com/bfs/archive/d3aa72a1c3db987938c7e0c23793b26dfd29e645.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bGsJ6AEFb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG一穿四单曲 春庭雪"
       },
       {
         "title": "【S16】千言万语！感谢兄弟们的努力！开始狂欢！",
         "url": "https://www.bilibili.com/video/BV1CzsE6REZj",
         "desc": "",
-        "rank": 22,
+        "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -481,7 +547,7 @@
         "title": "2026全球总决赛：BLG夺冠之路",
         "url": "https://www.bilibili.com/video/BV1HcsE6QEYu",
         "desc": "",
-        "rank": 23,
+        "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "携手共进的信念会战胜一切！恭喜BLG勇夺2026英雄联盟全球总决赛冠军！ 让我们一起跟随视频，共同回顾这段精彩的夺冠之旅~",
@@ -494,116 +560,20 @@
         "hotTitle": "BLG夺冠之路有多精彩"
       },
       {
-        "title": "全位置数据雷达图【S16淘汰赛全部】",
-        "url": "https://www.bilibili.com/video/BV1K9s764ELh",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1K9s764ELh",
-        "author": "苦练李香兰",
-        "duration": "6:6",
-        "cover": "//i2.hdslb.com/bfs/archive/6a7a4920681ed0b58777b7767aaccf5f335bf42a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1K9s764ELh&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "S16淘汰赛全位置数据图"
-      },
-      {
-        "title": "我们是冠军！BLG选手赛后感言",
-        "url": "https://www.bilibili.com/video/BV1YFsJ63EYS",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1YFsJ63EYS",
-        "author": "英雄联盟赛事",
-        "duration": "0:30",
-        "cover": "//i1.hdslb.com/bfs/archive/c9dc2897adc1a8a21e039a6a3cceb17ff0dd7aec.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YFsJ63EYS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG选手赛后感言合集"
-      },
-      {
-        "title": "BLG夺冠瞬间影院反应实录",
-        "url": "https://www.bilibili.com/video/BV1kqsj6EEB3",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1kqsj6EEB3",
-        "author": "zzdrawyaw",
-        "duration": "2:13",
-        "cover": "//i0.hdslb.com/bfs/archive/c07e70348c88ec78f4f2a4642bb8360c37dffc87.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kqsj6EEB3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG夺冠瞬间影院全体欢呼"
-      },
-      {
-        "title": "BLG教练丹尼揭秘决赛BP：爆料队内曾失控 Bin其实内心柔软",
-        "url": "https://www.bilibili.com/video/BV1s7sJ6fEzX",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1s7sJ6fEzX",
-        "author": "真嗣个巴嘎",
-        "duration": "10:43",
-        "cover": "//i1.hdslb.com/bfs/archive/8029fc13f4c384d2abb3a1ffec98c2e811afc0f7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1s7sJ6fEzX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG教练Daeny揭秘决赛BP"
-      },
-      {
-        "title": "耗资上万！我把匠魂做进了网页版mc... 【B站AI创造公开赛】",
-        "url": "https://www.bilibili.com/video/BV1HTWq6iESp",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "全程使用Claude Opus 5.5开发~ 关注即可加入游戏内的股东名单~ 本次更新：修复了240多个bug、更新了匠魂、农夫乐事等模组、优化联机延迟 游玩链接：https://www.bilibili.com/toy/OpusMC 往期开发过程： BV1HkJ66vEk9 BV126Hw6uEgW BV1Nxxr6oES2 BV1ZH456BENv",
-        "content": "全程使用Claude Opus 5.5开发~ 关注即可加入游戏内的股东名单~ 本次更新：修复了240多个bug、更新了匠魂、农夫乐事等模组、优化联机延迟 游玩链接：https://www.bilibili.com/toy/OpusMC 往期开发过程： BV1HkJ66vEk9 BV126Hw6uEgW BV1Nxxr6oES2 BV1ZH456BENv",
-        "bvid": "BV1HTWq6iESp",
-        "author": "土豆味小哲",
-        "duration": "2:14",
-        "cover": "//i0.hdslb.com/bfs/archive/da222a33d8360a8ce63edd26bd9240c4b156e61d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HTWq6iESp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "耗资万元把匠魂做进MC"
-      },
-      {
-        "title": "在无限延伸的梦想背后",
-        "url": "https://www.bilibili.com/video/BV1tGsJ6AECg",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1tGsJ6AECg",
-        "author": "夏安与秋",
-        "duration": "0:13",
-        "cover": "//i0.hdslb.com/bfs/archive/1a19cfd43aca404c2bfc73381adac3b1a28d95f3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tGsJ6AECg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "夏安庆祝BLG夺冠"
-      },
-      {
-        "title": "臭肥鱼害我把情书交给辅导员了！【人和肥鱼03】",
-        "url": "https://www.bilibili.com/video/BV1MaWv6rEo3",
+        "title": "爆了！BLG夺冠后左手直言碰到faker了：他说希望我夺冠，这就是神啊，前两把真的被ON的卡密尔吓尿了！",
+        "url": "https://www.bilibili.com/video/BV1rUsn64E7g",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "依然是人和鱼的生活，依然是与室友们的梦幻共演！ 喜欢的话还请关注转发三连！ 角色形象@ZipZipPipe 大肥鱼配音@冬绫Ayako",
-        "content": "依然是人和鱼的生活，依然是与室友们的梦幻共演！ 喜欢的话还请关注转发三连！ 角色形象@ZipZipPipe 大肥鱼配音@冬绫Ayako",
-        "bvid": "BV1MaWv6rEo3",
-        "author": "双叶吸咖喱",
-        "duration": "2:12",
-        "cover": "//i1.hdslb.com/bfs/archive/7ccfd3d39f43c943a312c3a06ca79e07db190fe0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MaWv6rEo3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "当你让大肥鱼去送情书时"
+        "description": "",
+        "content": "",
+        "bvid": "BV1rUsn64E7g",
+        "author": "东海帝皇forgive7",
+        "duration": "4:27",
+        "cover": "//i2.hdslb.com/bfs/archive/5dd927a9fc8f35b124fa65caea8be7eb94109b5b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rUsn64E7g&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Knight赛后感谢Faker"
       }
     ],
     "qbitai": [
@@ -930,6 +900,16 @@
         "rank": 2
       },
       {
+        "title": "起亚汽车2026年韩国国内电动汽车销量超过30万辆",
+        "url": "https://m.36kr.com/newsflashes/4070734403654793",
+        "desc": "11月15日，据报道，现代汽车集团旗下汽车制造商起亚公司表示，截至11月9日，其包括纯电动汽车（EV）和混合动力车型在内的电动汽车销量达到300,048辆，同比增长41.9%。在今年的总销量中，纯电动汽车占120,360辆，较上年同期增长逾一倍；混合动力车型的销量增长16.9%，达到179,688辆。（界面新闻）",
+        "cover": "",
+        "date": 1794735204000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
         "title": "天孚通信：11月13日回购40万股耗资5096万元 成交价124.19元/股-134.53元/股",
         "url": "https://m.36kr.com/newsflashes/4070728133612423",
         "desc": "天孚通信公告称，公司于2026年11月13日通过集中竞价方式回购股份40万股，占公司总股本的0.0367%，最高成交价为人民币134.53元/股，最低成交价为人民币124.19元/股，成交总金额5095.74万元。截至2026年11月13日，公司累计回购股份50万股，占公司总股本的0.0458%，成交总金额6550.08万元。本次回购股份将用于注销并减少注册资本。（财联社）",
@@ -937,7 +917,7 @@
         "date": 1794733979000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "格林美：236.57万股限售股11月18日解禁，占总股本0.05%",
@@ -947,7 +927,7 @@
         "date": 1794732664000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "禾元生物：重组人白蛋白注射液（水稻）纳入2026年国家医保目录",
@@ -957,7 +937,7 @@
         "date": 1794731201000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "葛兰素史克：两款创新生物制剂纳入新版国家医保目录",
@@ -967,7 +947,7 @@
         "date": 1794729636000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "香港迪士尼报警，约1.7万个门票二维码被盗",
@@ -977,7 +957,7 @@
         "date": 1794728142000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "国际能源署署长：中国清洁能源发展助力全球能源转型",
@@ -987,7 +967,7 @@
         "date": 1794726591000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "意大利因照片隐私问题对元宇宙罚款超8亿欧元",
@@ -997,7 +977,7 @@
         "date": 1794725141000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "参天公司旗下青光眼创新药他氟噻吗滴眼液泰浦康®正式进入国家医保目录",
@@ -1007,7 +987,7 @@
         "date": 1794724585892,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "本周15股南向资金持股量环比增长超10%",
@@ -1017,7 +997,7 @@
         "date": 1794723451000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "韩国10月ICT产业出口额达703.5亿美元 芯片出口同比大增259.4%",
@@ -1027,7 +1007,7 @@
         "date": 1794721915000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "雄忻高铁山西段进入联调联试阶段 预计明年3月底开通",
@@ -1037,7 +1017,7 @@
         "date": 1794720229000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "余承东：大折叠已成为千万人的主力机",
@@ -1047,7 +1027,7 @@
         "date": 1794718506000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "中国代表倡议恢复互联互通工作组获广泛支持",
@@ -1057,7 +1037,7 @@
         "date": 1794716838000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "《2026年APEC工商领导人峰会深圳倡议》将发布",
@@ -1067,7 +1047,7 @@
         "date": 1794715516000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "重庆开通跨航司国际通程中转业务",
@@ -1077,7 +1057,7 @@
         "date": 1794714165000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "首份万卡级智算集群网络技术报告在北京正式发布",
@@ -1087,7 +1067,7 @@
         "date": 1794714093266,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "中国贸促会副会长李庆霜：美国参会企业占外方经济体20%",
@@ -1097,7 +1077,7 @@
         "date": 1794713453000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "金融机构外汇存款准备金率今起提高至6%",
@@ -1107,7 +1087,7 @@
         "date": 1794712856000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
@@ -1117,25 +1097,15 @@
         "date": 1794711319000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
-        "url": "https://m.36kr.com/newsflashes/4070393626711169",
-        "desc": "在11月15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，作为APEC领导人会议周的重要组成部分，2026年APEC工商领导人峰会将于11月17日至18日在深圳前海国际会议中心举办，习近平主席和澳大利亚、加拿大、智利、中国香港、印度尼西亚、韩国、马来西亚、墨西哥、俄罗斯、泰国、越南APEC经济体领导人将出席峰会并发表演讲、致辞或参与专题研讨。（新华社）",
-        "cover": "",
-        "date": 1794710828000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794734765070,
-    "bilibili": 1794733310634,
-    "qbitai": 1794705993729,
-    "36kr": 1794705994033
+    "thepaper": 1794735665111,
+    "bilibili": 1794734986963,
+    "qbitai": 1794706950120,
+    "36kr": 1794706950419
   },
   "failures": {}
 }
