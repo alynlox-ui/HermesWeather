@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T04:11:33Z",
+  "updatedAt": "2026-11-15T04:26:31Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -334,35 +334,35 @@
         "hotTitle": "用战歌银痕回顾BLG夺冠"
       },
       {
-        "title": "2026王者荣耀巅峰之夜全程（实时更新）|𝟏𝟎𝟖𝟎𝐏全高清𝟐𝟎𝟐𝟔𝟏𝟏𝟏𝟓",
-        "url": "https://www.bilibili.com/video/BV1G1sJ66Eq2",
+        "title": "王者荣耀巅峰之夜十八支战队出场仪式，AG最豪华",
+        "url": "https://www.bilibili.com/video/BV12zsp63Edc",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1G1sJ66Eq2",
-        "author": "okdataone",
-        "duration": "128:14",
-        "cover": "//i0.hdslb.com/bfs/archive/f82211521e9184c5113211a5a0a4016bed25146c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1G1sJ66Eq2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV12zsp63Edc",
+        "author": "迷尘ん",
+        "duration": "11:56",
+        "cover": "//i0.hdslb.com/bfs/archive/81e06456bd563ced6283555fb7880901963ea9cc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12zsp63Edc&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "王者荣耀巅峰之夜暨十周年庆典"
       },
       {
-        "title": "牧神记第109集 秦牧铸造六合神兵无忧剑",
-        "url": "https://www.bilibili.com/video/BV1hmWi6JEJz",
+        "title": "无忧剑来了！",
+        "url": "https://www.bilibili.com/video/BV1GHsE6METQ",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "#SpookySeason #TrendingHunt #牧神记 #牧神记第109集",
-        "content": "#SpookySeason #TrendingHunt #牧神记 #牧神记第109集",
-        "bvid": "BV1hmWi6JEJz",
-        "author": "XiaoYanOfficial",
-        "duration": "19:56",
-        "cover": "//i1.hdslb.com/bfs/archive/8a3357dd0db0b65d53a909566fd2bbee844a2e85.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hmWi6JEJz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1GHsE6METQ",
+        "author": "落日的橘6",
+        "duration": "1:37",
+        "cover": "//i0.hdslb.com/bfs/archive/676006572a3125e3e825f673e2482386b1e8fe1d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GHsE6METQ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "秦牧重铸无忧剑"
       },
       {
@@ -414,19 +414,19 @@
         "hotTitle": "Knight首位国产冠军中单"
       },
       {
-        "title": "BLG夺冠瞬间影院反应实录",
-        "url": "https://www.bilibili.com/video/BV1kqsj6EEB3",
+        "title": "BLG夺冠同时的B站总部！！BLG NB！",
+        "url": "https://www.bilibili.com/video/BV1WpsJ6xE5n",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1kqsj6EEB3",
-        "author": "zzdrawyaw",
-        "duration": "2:13",
-        "cover": "//i0.hdslb.com/bfs/archive/c07e70348c88ec78f4f2a4642bb8360c37dffc87.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kqsj6EEB3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "BLG牛逼，在线下喊爽了兄弟们！！！！！！！！",
+        "content": "BLG牛逼，在线下喊爽了兄弟们！！！！！！！！",
+        "bvid": "BV1WpsJ6xE5n",
+        "author": "啊豪rua",
+        "duration": "1:57",
+        "cover": "//i1.hdslb.com/bfs/archive/fdd51d005a4ed96f4bee17417bcb45f4700b43f7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WpsJ6xE5n&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG夺冠瞬间影院全体欢呼"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794744666550,
+    "thepaper": 1794745565604,
     "bilibili": 1794743931447,
-    "qbitai": 1794715893587,
-    "36kr": 1794715893998
+    "qbitai": 1794716790643,
+    "36kr": 1794716791020
   },
   "failures": {}
 }
