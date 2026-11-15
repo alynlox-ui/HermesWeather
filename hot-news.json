@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T06:41:37Z",
+  "updatedAt": "2026-11-15T06:56:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -334,19 +334,19 @@
         "hotTitle": "终末地有种杯S2 决赛"
       },
       {
-        "title": "王者荣耀巅峰之夜十八支战队出场仪式，AG最豪华",
-        "url": "https://www.bilibili.com/video/BV12zsp63Edc",
+        "title": "感谢一路偏爱，与我共赴星光",
+        "url": "https://www.bilibili.com/video/BV1ynsH6vEsr",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV12zsp63Edc",
-        "author": "迷尘ん",
-        "duration": "11:56",
-        "cover": "//i0.hdslb.com/bfs/archive/81e06456bd563ced6283555fb7880901963ea9cc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12zsp63Edc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1ynsH6vEsr",
+        "author": "时间只玩辅",
+        "duration": "1:21",
+        "cover": "//i0.hdslb.com/bfs/archive/28a63ef920fedd41f0590c55182bdba081c286a9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ynsH6vEsr&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "王者荣耀巅峰之夜暨十周年庆典"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794753665615,
+    "thepaper": 1794754565169,
     "bilibili": 1794752772005,
-    "qbitai": 1794724896815,
-    "36kr": 1794724897276
+    "qbitai": 1794725794628,
+    "36kr": 1794725795048
   },
   "failures": {}
 }
