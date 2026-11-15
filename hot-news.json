@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T01:42:30Z",
+  "updatedAt": "2026-11-15T01:56:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -206,10 +206,20 @@
         "hotTitle": "Knight首位国产冠军中单"
       },
       {
-        "title": "米勒泪撒BLG夺冠现场",
-        "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E6%B3%AA%E6%92%92BLG%E5%A4%BA%E5%86%A0%E7%8E%B0%E5%9C%BA",
+        "title": "我们把欢呼声送给BLG！他们是世界冠军！",
+        "url": "https://www.bilibili.com/video/BV1zmsE6JEuZ",
         "desc": "",
-        "rank": 6
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1zmsE6JEuZ",
+        "author": "解说米勒",
+        "duration": "1:29",
+        "cover": "//i1.hdslb.com/bfs/archive/26ef4782a8fb30c621c8872ec9a6d481dca2352d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zmsE6JEuZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "米勒泪撒BLG夺冠现场"
       },
       {
         "title": "【中立】锐评BLG战胜GenG获得英雄联盟S16全球总决赛冠军 五年一剑",
@@ -276,16 +286,36 @@
         "hotTitle": "国产中单和超级上单有多强"
       },
       {
-        "title": "秦牧重铸无忧剑",
-        "url": "https://search.bilibili.com/all?keyword=%E7%A7%A6%E7%89%A7%E9%87%8D%E9%93%B8%E6%97%A0%E5%BF%A7%E5%89%91",
+        "title": "无忧剑来了！",
+        "url": "https://www.bilibili.com/video/BV1GHsE6METQ",
         "desc": "",
-        "rank": 11
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1GHsE6METQ",
+        "author": "落日的橘6",
+        "duration": "1:37",
+        "cover": "//i0.hdslb.com/bfs/archive/676006572a3125e3e825f673e2482386b1e8fe1d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GHsE6METQ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "秦牧重铸无忧剑"
       },
       {
-        "title": "欧洲多国为何开始军演造势",
-        "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E5%86%9B%E6%BC%94%E9%80%A0%E5%8A%BF",
+        "title": "欧洲开心坏了",
+        "url": "https://www.bilibili.com/video/BV1pdsL67EKy",
         "desc": "",
-        "rank": 12
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本视频提及事件以及信息来源如下： 《国际观察丨俄美乌重启会谈，欧洲借军演“刷存在”》来自：新华网，2026-11-10 21:14发布 《欧洲议会投票批准欧美贸易协议》来自：新华网，2026-06-16 20:48:03发布 《排除美国参与，欧洲多国演练“出兵乌克兰”》来自：中国青年报，2026-11-09 15:29发布 《北约秘书长：叫特朗普“爸爸”是一个巨大的错误》来自：威海新闻网，2026-11-06 17:50发布 《谈判桌没有欧洲席位！俄美乌重启会谈，欧洲多国军演造势、“刷存在感”》来自：光明",
+        "content": "本视频提及事件以及信息来源如下： 《国际观察丨俄美乌重启会谈，欧洲借军演“刷存在”》来自：新华网，2026-11-10 21:14发布 《欧洲议会投票批准欧美贸易协议》来自：新华网，2026-06-16 20:48:03发布 《排除美国参与，欧洲多国演练“出兵乌克兰”》来自：中国青年报，2026-11-09 15:29发布 《北约秘书长：叫特朗普“爸爸”是一个巨大的错误》来自：威海新闻网，2026-11-06 17:50发布 《谈判桌没有欧洲席位！俄美乌重启会谈，欧洲多国军演造势、“刷存在感”》来自：光明",
+        "bvid": "BV1pdsL67EKy",
+        "author": "燕三嘤嘤嘤",
+        "duration": "20:11",
+        "cover": "//i0.hdslb.com/bfs/archive/9177ca68b6934fe0613d80bbceeb44e1277f51e2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pdsL67EKy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "欧洲多国为何开始军演造势"
       },
       {
         "title": "BLG一穿四夺冠！BLG 3-1 GEN 赛后数据雷达图丨2026全球总决赛-决赛",
@@ -352,19 +382,19 @@
         "hotTitle": "BLG夺冠时刻语音"
       },
       {
-        "title": "KPL发文：2026年度王者巅峰之夜暨KPL十周年庆典门票售罄！",
-        "url": "https://www.bilibili.com/video/BV1VT4i6bEWZ",
+        "title": "【巅峰之夜】王者万象棋表演赛 全场",
+        "url": "https://www.bilibili.com/video/BV15rsJ6VEwe",
         "desc": "",
         "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1VT4i6bEWZ",
-        "author": "王者信息站",
-        "duration": "1:12",
-        "cover": "//i0.hdslb.com/bfs/archive/a1993926623a42b793c87673571e90e589462bcb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VT4i6bEWZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV15rsJ6VEwe",
+        "author": "kpl二路",
+        "duration": "47:40",
+        "cover": "//i0.hdslb.com/bfs/archive/efcb8bed4e5b472d149f1f45b08e2bad30701959.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15rsJ6VEwe&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "王者荣耀巅峰之夜暨十周年庆典"
       },
       {
@@ -900,6 +930,16 @@
         "rank": 2
       },
       {
+        "title": "复星医药：多款药品新纳入国家医保目录",
+        "url": "https://m.36kr.com/newsflashes/4070736818819974",
+        "desc": "11月15日，复星医药公告称，根据2026年国家医保目录，公司及控股子公司多款产品获首次纳入、备注信息调整或转入常规目录管理。其中斯鲁利单抗注射液获首次纳入，枸橼酸伏维西利胶囊和芦沃美替尼片新增支付适应症，抗人T细胞兔免疫球蛋白放宽支付限定。（每经网）",
+        "cover": "",
+        "date": 1794736445000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
         "title": "起亚汽车2026年韩国国内电动汽车销量超过30万辆",
         "url": "https://m.36kr.com/newsflashes/4070734403654793",
         "desc": "11月15日，据报道，现代汽车集团旗下汽车制造商起亚公司表示，截至11月9日，其包括纯电动汽车（EV）和混合动力车型在内的电动汽车销量达到300,048辆，同比增长41.9%。在今年的总销量中，纯电动汽车占120,360辆，较上年同期增长逾一倍；混合动力车型的销量增长16.9%，达到179,688辆。（界面新闻）",
@@ -907,7 +947,7 @@
         "date": 1794735204000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "天孚通信：11月13日回购40万股耗资5096万元 成交价124.19元/股-134.53元/股",
@@ -917,7 +957,7 @@
         "date": 1794733979000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "格林美：236.57万股限售股11月18日解禁，占总股本0.05%",
@@ -927,7 +967,7 @@
         "date": 1794732664000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "禾元生物：重组人白蛋白注射液（水稻）纳入2026年国家医保目录",
@@ -937,7 +977,7 @@
         "date": 1794731201000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "葛兰素史克：两款创新生物制剂纳入新版国家医保目录",
@@ -947,7 +987,7 @@
         "date": 1794729636000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "香港迪士尼报警，约1.7万个门票二维码被盗",
@@ -957,7 +997,7 @@
         "date": 1794728142000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "国际能源署署长：中国清洁能源发展助力全球能源转型",
@@ -967,7 +1007,7 @@
         "date": 1794726591000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "意大利因照片隐私问题对元宇宙罚款超8亿欧元",
@@ -977,7 +1017,7 @@
         "date": 1794725141000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "参天公司旗下青光眼创新药他氟噻吗滴眼液泰浦康®正式进入国家医保目录",
@@ -987,7 +1027,7 @@
         "date": 1794724585892,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "本周15股南向资金持股量环比增长超10%",
@@ -997,7 +1037,7 @@
         "date": 1794723451000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "韩国10月ICT产业出口额达703.5亿美元 芯片出口同比大增259.4%",
@@ -1007,7 +1047,7 @@
         "date": 1794721915000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "雄忻高铁山西段进入联调联试阶段 预计明年3月底开通",
@@ -1017,7 +1057,7 @@
         "date": 1794720229000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "余承东：大折叠已成为千万人的主力机",
@@ -1027,7 +1067,7 @@
         "date": 1794718506000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "中国代表倡议恢复互联互通工作组获广泛支持",
@@ -1037,7 +1077,7 @@
         "date": 1794716838000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "《2026年APEC工商领导人峰会深圳倡议》将发布",
@@ -1047,7 +1087,7 @@
         "date": 1794715516000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "重庆开通跨航司国际通程中转业务",
@@ -1057,7 +1097,7 @@
         "date": 1794714165000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "首份万卡级智算集群网络技术报告在北京正式发布",
@@ -1067,7 +1107,7 @@
         "date": 1794714093266,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "中国贸促会副会长李庆霜：美国参会企业占外方经济体20%",
@@ -1077,7 +1117,7 @@
         "date": 1794713453000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "金融机构外汇存款准备金率今起提高至6%",
@@ -1087,25 +1127,15 @@
         "date": 1794712856000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
-        "url": "https://m.36kr.com/newsflashes/4070395583435657",
-        "desc": "在11月15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，115家世界500强企业代表将参加APEC工商领导人峰会。美国参会企业数量居外方经济体之首，占比近20%。此外，多位国际组织负责人及美国、俄罗斯、日本等经济体商协会负责人也将到场，共襄盛举。（央视新闻）",
-        "cover": "",
-        "date": 1794711319000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794735665111,
+    "thepaper": 1794736565221,
     "bilibili": 1794734986963,
-    "qbitai": 1794706950120,
-    "36kr": 1794706950419
+    "qbitai": 1794707794008,
+    "36kr": 1794707794297
   },
   "failures": {}
 }
