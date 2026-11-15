@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T21:26:36Z",
+  "updatedAt": "2026-11-14T21:41:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -46,32 +46,32 @@
         "rank": 7
       },
       {
+        "title": "央视曝光校园举报乱象：有家长问“能否保证新老师不怀孕”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34483809",
+        "desc": "",
+        "rank": 8
+      },
+      {
         "title": "究竟｜机票是否应允许限时免费退改，航空公司有哪些考量？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34170699",
         "desc": "",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "SpaceX星舰完成第15次试飞：首次实现“筷子夹飞船”，此前助推器回收未完全成功",
         "url": "https://www.thepaper.cn/newsDetail_forward_34482883",
         "desc": "",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "观察｜特朗普又对伊朗打出经济封锁牌，但美国能说了算吗？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34479929",
         "desc": "",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "“零元面馆”内外众生相：一碗免费素面，真难住了一条街？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34478046",
-        "desc": "",
-        "rank": 11
-      },
-      {
-        "title": "央视曝光校园举报乱象：有家长问“能否保证新老师不怀孕”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34483809",
         "desc": "",
         "rank": 12
       },
@@ -94,8 +94,8 @@
         "rank": 15
       },
       {
-        "title": "世界糖尿病日：早发现，早行动，健康未来，即刻开始",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34468239",
+        "title": "创造历史！SpaceX星舰第15次试飞，首次成功实现“筷子夹飞船”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34483325",
         "desc": "",
         "rank": 16
       },
@@ -564,12 +564,12 @@
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
+        "description": "-",
+        "content": "-",
         "bvid": "BV1jGsE65ED8",
         "author": "Yoming解说",
         "duration": "61:12",
-        "cover": "//i2.hdslb.com/bfs/archive/e3acd6c01b605e9df3ceb4e7230c0e1c1a5e6626.jpg",
+        "cover": "//i0.hdslb.com/bfs/archive/8e67263bca611c6aa75bf426d16600f322aa6afc.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jGsE65ED8&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "DZ vs FAZE 彩六Major决赛"
       },
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794720365792,
-    "bilibili": 1794720374583,
-    "qbitai": 1794691595942,
-    "36kr": 1794691596362
+    "thepaper": 1794721265214,
+    "bilibili": 1794720005958,
+    "qbitai": 1794692493809,
+    "36kr": 1794692494172
   },
   "failures": {}
 }
