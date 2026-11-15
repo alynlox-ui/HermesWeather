@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T00:11:33Z",
+  "updatedAt": "2026-11-15T00:26:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -446,19 +446,19 @@
         "hotTitle": "紫灵邀请韩立前往坠魔谷"
       },
       {
-        "title": "秦牧打造出无忧剑",
-        "url": "https://www.bilibili.com/video/BV1YHsE6MEBu",
+        "title": "牧神记第109集 秦牧铸造六合神兵无忧剑",
+        "url": "https://www.bilibili.com/video/BV1hmWi6JEJz",
         "desc": "",
         "rank": 21,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1YHsE6MEBu",
-        "author": "BE动漫",
-        "duration": "2:42",
-        "cover": "//i0.hdslb.com/bfs/archive/685cc0db3e15d08aa39778939c61bcb636d98565.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YHsE6MEBu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "#SpookySeason #TrendingHunt #牧神记 #牧神记第109集",
+        "content": "#SpookySeason #TrendingHunt #牧神记 #牧神记第109集",
+        "bvid": "BV1hmWi6JEJz",
+        "author": "XiaoYanOfficial",
+        "duration": "19:56",
+        "cover": "//i1.hdslb.com/bfs/archive/8a3357dd0db0b65d53a909566fd2bbee844a2e85.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hmWi6JEJz&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "秦牧重铸无忧剑"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794730265026,
-    "bilibili": 1794730273624,
-    "qbitai": 1794701493102,
-    "36kr": 1794701493386
+    "thepaper": 1794731165059,
+    "bilibili": 1794729704531,
+    "qbitai": 1794702393722,
+    "36kr": 1794702394016
   },
   "failures": {}
 }
