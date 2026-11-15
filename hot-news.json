@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-15T06:26:35Z",
+  "updatedAt": "2026-11-15T06:41:37Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
-        "title": "三问兴平牵手希望小学“卖惨骗捐”案：监管多次预警，为何骗局仍能持续",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34480667",
-        "desc": "",
-        "rank": 1
-      },
-      {
         "title": "央视曝光校园举报乱象：有家长问“能否保证新老师不怀孕”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34483809",
         "desc": "",
-        "rank": 2
+        "rank": 1
       },
       {
         "title": "时隔五年再捧杯，中国战队夺得英雄联盟全球总决赛冠军",
         "url": "https://www.thepaper.cn/newsDetail_forward_34483414",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "究竟｜机票是否应允许限时免费退改，航空公司有哪些考量？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34170699",
         "desc": "",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "“两个特朗普”、辩论失利背后、“被迫”退选过程，拜登新回忆录披露白宫内幕",
         "url": "https://www.thepaper.cn/newsDetail_forward_34484528",
+        "desc": "",
+        "rank": 4
+      },
+      {
+        "title": "中国战队再夺英雄联盟全球总冠军：2000万人在线力挺，谁接住了这泼天流量？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34485193",
         "desc": "",
         "rank": 5
       },
@@ -82,38 +82,38 @@
         "rank": 13
       },
       {
+        "title": "媒体观察：A级景区“有进有出”，评级动态管理释放哪些信号",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34483054",
+        "desc": "",
+        "rank": 14
+      },
+      {
         "title": "游客在杭州一处原侵华日军慰安所门口拍照引关注，街道回应：该处已是居民区，属自发行为不便介入",
         "url": "https://www.thepaper.cn/newsDetail_forward_34484422",
         "desc": "",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "战胜马来西亚止连败，国足主帅邵佳一：我们没有乐观的资本",
         "url": "https://www.thepaper.cn/newsDetail_forward_34480839",
         "desc": "",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
         "url": "https://www.thepaper.cn/newsDetail_forward_34483990",
         "desc": "",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "澎湃AI晚新闻丨2026年11月14日",
         "url": "https://www.thepaper.cn/newsDetail_forward_34480841",
         "desc": "",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "打破心魔跨越“恐韩”，BLG的S16冠军为何分量更重",
         "url": "https://www.thepaper.cn/newsDetail_forward_34484715",
-        "desc": "",
-        "rank": 18
-      },
-      {
-        "title": "中国战队再夺英雄联盟全球总冠军：2000万人在线力挺，谁接住了这泼天流量？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34485193",
         "desc": "",
         "rank": 19
       },
@@ -334,19 +334,19 @@
         "hotTitle": "终末地有种杯S2 决赛"
       },
       {
-        "title": "感谢一路偏爱，与我共赴星光",
-        "url": "https://www.bilibili.com/video/BV1ynsH6vEsr",
+        "title": "王者荣耀巅峰之夜十八支战队出场仪式，AG最豪华",
+        "url": "https://www.bilibili.com/video/BV12zsp63Edc",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ynsH6vEsr",
-        "author": "时间只玩辅",
-        "duration": "1:21",
-        "cover": "//i0.hdslb.com/bfs/archive/28a63ef920fedd41f0590c55182bdba081c286a9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ynsH6vEsr&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV12zsp63Edc",
+        "author": "迷尘ん",
+        "duration": "11:56",
+        "cover": "//i0.hdslb.com/bfs/archive/81e06456bd563ced6283555fb7880901963ea9cc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12zsp63Edc&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "王者荣耀巅峰之夜暨十周年庆典"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794752765368,
-    "bilibili": 1794752773812,
-    "qbitai": 1794723995348,
-    "36kr": 1794723995722
+    "thepaper": 1794753665615,
+    "bilibili": 1794752772005,
+    "qbitai": 1794724896815,
+    "36kr": 1794724897276
   },
   "failures": {}
 }
