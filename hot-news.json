@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T03:26:34Z",
+  "updatedAt": "2026-11-16T03:41:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -52,38 +52,38 @@
         "rank": 8
       },
       {
-        "title": "针对“低价游背后买房陷阱”问题，江苏无锡开展核查",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34486068",
-        "desc": "",
-        "rank": 9
-      },
-      {
         "title": "马上评｜老师，为何越来越“难做”了",
         "url": "https://www.thepaper.cn/newsDetail_forward_34489128",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "河北滦南通报“800万建污水处理厂4年未启用”：开展全面核查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34489676",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "媒体：“打包丢脸”被扣4分，孩子真话不该只换一个红叉",
         "url": "https://www.thepaper.cn/newsDetail_forward_34487337",
         "desc": "",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "早高峰撒酒疯！一男子往车道抛掷共享单车，已被警方行拘",
         "url": "https://www.thepaper.cn/newsDetail_forward_34486429",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "北大399元羽绒服走红，访问激增挤崩小程序，门店工作人员：仅线下有售，目前已断货",
         "url": "https://www.thepaper.cn/newsDetail_forward_34489554",
+        "desc": "",
+        "rank": 13
+      },
+      {
+        "title": "一图世界｜APEC离我们生活有多近？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34486278",
         "desc": "",
         "rank": 14
       },
@@ -174,42 +174,26 @@
         "hotTitle": "国产中单Knight的加冕之路"
       },
       {
-        "title": "被弃用！要交易？被主教练恶心？开拓者不想培养？杨瀚森是不是被开拓者耽误了？",
-        "url": "https://www.bilibili.com/video/BV1QZsA64E3W",
+        "title": "大牙|| 肖8选择题精讲带背（第一套卷），全网讲解最清晰，专治零基础！",
+        "url": "https://www.bilibili.com/video/BV1mdWf6GEnF",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "简单聊一聊杨瀚森在队内的现状和未来的发展方向。",
-        "content": "简单聊一聊杨瀚森在队内的现状和未来的发展方向。",
-        "bvid": "BV1QZsA64E3W",
-        "author": "大场面埃文",
-        "duration": "8:30",
-        "cover": "//i0.hdslb.com/bfs/archive/72578355bce324ccd58ae58ec4a6d928e775c358.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QZsA64E3W&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "杨瀚森两双后为何又遭弃用"
-      },
-      {
-        "title": "【C罗职业生涯20大点球!】",
-        "url": "https://www.bilibili.com/video/BV1aE411q7FN",
-        "desc": "",
-        "rank": 5,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1aE411q7FN",
-        "author": "可以请我吃饭吗",
-        "duration": "4:5",
-        "cover": "//i1.hdslb.com/bfs/archive/3f6642178abe3afe13f0d31e1f6e98ada4d0c902.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aE411q7FN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "C罗足球生涯回顾"
+        "description": "",
+        "content": "",
+        "bvid": "BV1mdWf6GEnF",
+        "author": "大牙考研",
+        "duration": "96:29",
+        "cover": "//i2.hdslb.com/bfs/archive/03074f7f156d9c4b9bf3f6860f1d4688014d4807.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mdWf6GEnF&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "考研区年更UP主大牙考研上线了"
       },
       {
         "title": "深圳 ＋ APEC = ？",
         "url": "https://www.bilibili.com/video/BV1dJsn6jEQh",
         "desc": "",
-        "rank": 6,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -225,7 +209,7 @@
         "title": "对话u17女足主帅马晓旭: 我把38年的耐心都给了队员",
         "url": "https://www.bilibili.com/video/BV1Xasw6xELk",
         "desc": "",
-        "rank": 7,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "中国 U17 女足首次闯入世界杯八强，刷新队史最佳战绩。38 岁的少帅马晓旭是如何带队的？而从球员到教练，这位曾以脾气火爆、个性鲜明闻名的亚洲足球小姐，又在完成一次怎样的转身？",
@@ -236,6 +220,22 @@
         "cover": "//i0.hdslb.com/bfs/archive/2f111d4304f9f5474f5d03a87fb8c7dbc1cc565a.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xasw6xELk&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "U17女足主帅如何带出队史最佳战绩"
+      },
+      {
+        "title": "被弃用！要交易？被主教练恶心？开拓者不想培养？杨瀚森是不是被开拓者耽误了？",
+        "url": "https://www.bilibili.com/video/BV1QZsA64E3W",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "简单聊一聊杨瀚森在队内的现状和未来的发展方向。",
+        "content": "简单聊一聊杨瀚森在队内的现状和未来的发展方向。",
+        "bvid": "BV1QZsA64E3W",
+        "author": "大场面埃文",
+        "duration": "8:30",
+        "cover": "//i0.hdslb.com/bfs/archive/72578355bce324ccd58ae58ec4a6d928e775c358.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QZsA64E3W&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "杨瀚森两双后为何又遭弃用"
       },
       {
         "title": "Knight直言打Faker压力太大了：Faker太会打世界赛了，他的走位和判断，是和任何中单完全不一样的！和Chovy对线了两分钟，就发现他状态不好了！",
@@ -254,20 +254,20 @@
         "hotTitle": "Knight直言打Faker压力太大了"
       },
       {
-        "title": "根本没有这样的夹子",
-        "url": "https://www.bilibili.com/video/BV12oWi6VEz7",
+        "title": "到哈萨克斯坦了，差点被困在无人区",
+        "url": "https://www.bilibili.com/video/BV11MsP6SEzt",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV12oWi6VEz7",
-        "author": "机夹小翔",
-        "duration": "1:10",
-        "cover": "//i2.hdslb.com/bfs/archive/893b483d60ce6eaa63d85a145981b79cb9dea43b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12oWi6VEz7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "根本没有这样的长尾夹"
+        "description": "",
+        "content": "",
+        "bvid": "BV11MsP6SEzt",
+        "author": "拉宏桑",
+        "duration": "10:38",
+        "cover": "//i0.hdslb.com/bfs/archive/c39f6ad990b45ee28e0f48ba9a000c08247c21a6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11MsP6SEzt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "拉宏桑在路上修好了炫粉凤凰"
       },
       {
         "title": "一穿四LCK捧杯夺冠，含金量最高的一集，我们是冠军！！！【火兰吐槽】",
@@ -302,20 +302,20 @@
         "hotTitle": "火影手游永夜扉间技能全爆料"
       },
       {
-        "title": "到哈萨克斯坦了，差点被困在无人区",
-        "url": "https://www.bilibili.com/video/BV11MsP6SEzt",
+        "title": "根本没有这样的夹子",
+        "url": "https://www.bilibili.com/video/BV12oWi6VEz7",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV11MsP6SEzt",
-        "author": "拉宏桑",
-        "duration": "10:38",
-        "cover": "//i0.hdslb.com/bfs/archive/c39f6ad990b45ee28e0f48ba9a000c08247c21a6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11MsP6SEzt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "拉宏桑在路上修好了炫粉凤凰"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV12oWi6VEz7",
+        "author": "机夹小翔",
+        "duration": "1:10",
+        "cover": "//i2.hdslb.com/bfs/archive/893b483d60ce6eaa63d85a145981b79cb9dea43b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12oWi6VEz7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "根本没有这样的长尾夹"
       },
       {
         "title": "BLG1穿4最终夺冠！纽约前方和Ming米勒一起回味S16决赛！【熬夜吧老头！07】",
@@ -334,26 +334,10 @@
         "hotTitle": "管泽元和Ming米勒一起回味S16决赛"
       },
       {
-        "title": "赚麻了！鬼叔S赛决赛收到两个B站游戏的红色SC！直接把叫炫神的串子禁言了！",
-        "url": "https://www.bilibili.com/video/BV1Lvs76zE8y",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Lvs76zE8y",
-        "author": "蜗牛-kc",
-        "duration": "2:47",
-        "cover": "//i2.hdslb.com/bfs/archive/25a094c843d1889dce7864bcca7a9c61294ab3cc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Lvs76zE8y&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "米勒给今年的S赛打100分"
-      },
-      {
         "title": "Viper是On的真爱！Viper哽咽发言：感谢妈妈感谢On，刚加入BLG时On就说带我夺冠，他说到做到！",
         "url": "https://www.bilibili.com/video/BV1vRsE6yEmM",
         "desc": "",
-        "rank": 15,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -366,26 +350,26 @@
         "hotTitle": "Viper赛后感谢妈妈和On"
       },
       {
-        "title": "【4K巨制】俄乌战争打了四年多，前线为什么几乎不动？｜3D 复原",
-        "url": "https://www.bilibili.com/video/BV1qbWC61ENR",
+        "title": "赚麻了！鬼叔S赛决赛收到两个B站游戏的红色SC！直接把叫炫神的串子禁言了！",
+        "url": "https://www.bilibili.com/video/BV1Lvs76zE8y",
         "desc": "",
-        "rank": 16,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "2023 年夏天，乌军计划第一天就拿下的罗博季内，打了十二个星期。此后三年，一千多公里的前线几乎没再动过。 这部片子用 3D 复原和地图，从整场战争讲到今天的前线，最后落到一个坑里的 165 天。没有实拍；画面里的数字都标了出处，完整来源见置顶评论。两名士兵是虚构的，他们遇到的事都有报道可查。两段配乐由 AI 生成。 愿有一天，天空重新只属于飞鸟。",
-        "content": "2023 年夏天，乌军计划第一天就拿下的罗博季内，打了十二个星期。此后三年，一千多公里的前线几乎没再动过。 这部片子用 3D 复原和地图，从整场战争讲到今天的前线，最后落到一个坑里的 165 天。没有实拍；画面里的数字都标了出处，完整来源见置顶评论。两名士兵是虚构的，他们遇到的事都有报道可查。两段配乐由 AI 生成。 愿有一天，天空重新只属于飞鸟。",
-        "bvid": "BV1qbWC61ENR",
-        "author": "世界的形状",
-        "duration": "12:22",
-        "cover": "//i1.hdslb.com/bfs/archive/9ea8d6da201c324b4e58d4a7cfc3ac8bc922fd63.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qbWC61ENR&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "3D复原俄乌战争前线情况"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Lvs76zE8y",
+        "author": "蜗牛-kc",
+        "duration": "2:47",
+        "cover": "//i2.hdslb.com/bfs/archive/25a094c843d1889dce7864bcca7a9c61294ab3cc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Lvs76zE8y&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "米勒给今年的S赛打100分"
       },
       {
         "title": "欧洲开心坏了",
         "url": "https://www.bilibili.com/video/BV1pdsL67EKy",
         "desc": "",
-        "rank": 17,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "本视频提及事件以及信息来源如下： 《国际观察丨俄美乌重启会谈，欧洲借军演“刷存在”》来自：新华网，2026-11-10 21:14发布 《欧洲议会投票批准欧美贸易协议》来自：新华网，2026-06-16 20:48:03发布 《排除美国参与，欧洲多国演练“出兵乌克兰”》来自：中国青年报，2026-11-09 15:29发布 《北约秘书长：叫特朗普“爸爸”是一个巨大的错误》来自：威海新闻网，2026-11-06 17:50发布 《谈判桌没有欧洲席位！俄美乌重启会谈，欧洲多国军演造势、“刷存在感”》来自：光明",
@@ -398,52 +382,68 @@
         "hotTitle": "欧洲多国为何开始军演造势"
       },
       {
-        "title": "全美航班停飞是输了还是赢了？是赚了。",
-        "url": "https://www.bilibili.com/video/BV17isH6sEnq",
+        "title": "GTA系列最佳！最沉重也最残酷的一场美国梦！万字拆解《GTA》全系列【第三期】",
+        "url": "https://www.bilibili.com/video/BV1yUsw6yE8u",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "一点关于《GTA4》的浅显观点...",
+        "content": "一点关于《GTA4》的浅显观点...",
+        "bvid": "BV1yUsw6yE8u",
+        "author": "迷影至下Filmlast",
+        "duration": "70:55",
+        "cover": "//i1.hdslb.com/bfs/archive/60d428bdb136ad76db4b43341188d0ed3f65b0bf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yUsw6yE8u&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "系列评分最高的GTA4好在哪"
+      },
+      {
+        "title": "为什么中国模型都在开源？",
+        "url": "https://www.bilibili.com/video/BV1dZWv6XEAp",
         "desc": "",
         "rank": 18,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV17isH6sEnq",
-        "author": "波士顿圆脸",
-        "duration": "13:45",
-        "cover": "//i1.hdslb.com/bfs/archive/bd15ef0d07ef5b0c1a887e6b6dc71fc833fa7e9a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17isH6sEnq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "怎么看全美航班停飞事件"
+        "description": "为什么不是最顶尖的中国大模型，却在海外悄然走红？今天咱们就来唠唠那些出海的中国模型，看看未来全世界的AI格局会是啥样！",
+        "content": "为什么不是最顶尖的中国大模型，却在海外悄然走红？今天咱们就来唠唠那些出海的中国模型，看看未来全世界的AI格局会是啥样！",
+        "bvid": "BV1dZWv6XEAp",
+        "author": "林亦LYi",
+        "duration": "8:21",
+        "cover": "//i2.hdslb.com/bfs/archive/d4e75cb32b93e075c385ac17c74c3ec34184c56b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dZWv6XEAp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "国产模型为何在海外悄然走红"
       },
       {
-        "title": "你可以在影之刃中玩音游【影之刃MOD】",
-        "url": "https://www.bilibili.com/video/BV1RJsn6jETJ",
+        "title": "【4K巨制】俄乌战争打了四年多，前线为什么几乎不动？｜3D 复原",
+        "url": "https://www.bilibili.com/video/BV1qbWC61ENR",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "《影之刃零》音游 MOD 来了！ 按下 F6，和 Boss 来一场真正的「舞林对决」！打准节奏就能扣除 Boss 的血量，错按、漏按则会扣除自己的血量。 长按F6可以进入菜单。 本次加入两种玩法： ♪ 节奏大师模式：四轨下落式音符，支持长按、多种键位预设，以及简单、普通、困难三种难度。 ♪ 劲舞团模式：先输入方向，再踩准节奏按空格确认；额外提供极难八向按键，欢迎老玩家挑战！ 支持键盘、手柄，现有九首舞曲、63 张内置谱。新增《科目三》《还是你的笑容最可爱》《热爱105℃的你》《广寒宫》，也可以邀请附近 N",
-        "content": "《影之刃零》音游 MOD 来了！ 按下 F6，和 Boss 来一场真正的「舞林对决」！打准节奏就能扣除 Boss 的血量，错按、漏按则会扣除自己的血量。 长按F6可以进入菜单。 本次加入两种玩法： ♪ 节奏大师模式：四轨下落式音符，支持长按、多种键位预设，以及简单、普通、困难三种难度。 ♪ 劲舞团模式：先输入方向，再踩准节奏按空格确认；额外提供极难八向按键，欢迎老玩家挑战！ 支持键盘、手柄，现有九首舞曲、63 张内置谱。新增《科目三》《还是你的笑容最可爱》《热爱105℃的你》《广寒宫》，也可以邀请附近 N",
-        "bvid": "BV1RJsn6jETJ",
-        "author": "鹿隐tranquil",
-        "duration": "1:17",
-        "cover": "//i2.hdslb.com/bfs/archive/8775dd87802d0f9c5cc434baa91d6dc7ea93c83f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RJsn6jETJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "在影之刃零里玩音游"
+        "description": "2023 年夏天，乌军计划第一天就拿下的罗博季内，打了十二个星期。此后三年，一千多公里的前线几乎没再动过。 这部片子用 3D 复原和地图，从整场战争讲到今天的前线，最后落到一个坑里的 165 天。没有实拍；画面里的数字都标了出处，完整来源见置顶评论。两名士兵是虚构的，他们遇到的事都有报道可查。两段配乐由 AI 生成。 愿有一天，天空重新只属于飞鸟。",
+        "content": "2023 年夏天，乌军计划第一天就拿下的罗博季内，打了十二个星期。此后三年，一千多公里的前线几乎没再动过。 这部片子用 3D 复原和地图，从整场战争讲到今天的前线，最后落到一个坑里的 165 天。没有实拍；画面里的数字都标了出处，完整来源见置顶评论。两名士兵是虚构的，他们遇到的事都有报道可查。两段配乐由 AI 生成。 愿有一天，天空重新只属于飞鸟。",
+        "bvid": "BV1qbWC61ENR",
+        "author": "世界的形状",
+        "duration": "12:22",
+        "cover": "//i1.hdslb.com/bfs/archive/9ea8d6da201c324b4e58d4a7cfc3ac8bc922fd63.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qbWC61ENR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "3D复原俄乌战争前线情况"
       },
       {
-        "title": "为什么必须得是贾克斯？！【Bin武器大师生涯全纪录】",
-        "url": "https://www.bilibili.com/video/BV1BYsJ6UEME",
+        "title": "合影！一人一句恭喜BLG！2026英雄联盟全球总决赛决战高光时刻",
+        "url": "https://www.bilibili.com/video/BV1qQsE62EiZ",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1BYsJ6UEME",
-        "author": "电竞小太阳_",
-        "duration": "2:3",
-        "cover": "//i1.hdslb.com/bfs/archive/4097eff62b6c95d30c3f8b916ba89416c991a1f9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BYsJ6UEME&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Bin贾克斯冠军皮肤为何呼声最高"
+        "description": "视频来源：哔哩哔哩英雄联盟赛事",
+        "content": "视频来源：哔哩哔哩英雄联盟赛事",
+        "bvid": "BV1qQsE62EiZ",
+        "author": "新华社",
+        "duration": "8:0",
+        "cover": "//i1.hdslb.com/bfs/archive/00c37180cb6d9ec7e01d115d4736550278308927.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qQsE62EiZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "弹幕合影和新华社一起恭喜BLG"
       },
       {
         "title": "金铲铲免费送宝库三抽～恭喜BLG夺冠！",
@@ -478,26 +478,42 @@
         "hotTitle": "BLG庆功宴Vlog"
       },
       {
-        "title": "【2026巅峰之夜】表演赛 易坦子融花 vs 钎九不清冰",
-        "url": "https://www.bilibili.com/video/BV13UsH6jE2R",
+        "title": "你可以在影之刃中玩音游【影之刃MOD】",
+        "url": "https://www.bilibili.com/video/BV1RJsn6jETJ",
         "desc": "",
         "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026巅峰之夜】表演赛 易坦子融花 vs 钎九不清冰",
-        "content": "【2026巅峰之夜】表演赛 易坦子融花 vs 钎九不清冰",
-        "bvid": "BV13UsH6jE2R",
-        "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "32:10",
-        "cover": "//i2.hdslb.com/bfs/archive/0a46680dda79774649265a8e370e627a967741f6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13UsH6jE2R&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "易坦子融花vs钎九不清冰"
+        "description": "《影之刃零》音游 MOD 来了！ 按下 F6，和 Boss 来一场真正的「舞林对决」！打准节奏就能扣除 Boss 的血量，错按、漏按则会扣除自己的血量。 长按F6可以进入菜单。 本次加入两种玩法： ♪ 节奏大师模式：四轨下落式音符，支持长按、多种键位预设，以及简单、普通、困难三种难度。 ♪ 劲舞团模式：先输入方向，再踩准节奏按空格确认；额外提供极难八向按键，欢迎老玩家挑战！ 支持键盘、手柄，现有九首舞曲、63 张内置谱。新增《科目三》《还是你的笑容最可爱》《热爱105℃的你》《广寒宫》，也可以邀请附近 N",
+        "content": "《影之刃零》音游 MOD 来了！ 按下 F6，和 Boss 来一场真正的「舞林对决」！打准节奏就能扣除 Boss 的血量，错按、漏按则会扣除自己的血量。 长按F6可以进入菜单。 本次加入两种玩法： ♪ 节奏大师模式：四轨下落式音符，支持长按、多种键位预设，以及简单、普通、困难三种难度。 ♪ 劲舞团模式：先输入方向，再踩准节奏按空格确认；额外提供极难八向按键，欢迎老玩家挑战！ 支持键盘、手柄，现有九首舞曲、63 张内置谱。新增《科目三》《还是你的笑容最可爱》《热爱105℃的你》《广寒宫》，也可以邀请附近 N",
+        "bvid": "BV1RJsn6jETJ",
+        "author": "鹿隐tranquil",
+        "duration": "1:17",
+        "cover": "//i2.hdslb.com/bfs/archive/8775dd87802d0f9c5cc434baa91d6dc7ea93c83f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RJsn6jETJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "在影之刃零里玩音游"
+      },
+      {
+        "title": "TXT (TOMORROW X TOGETHER) 'Angel Bite' Official MV",
+        "url": "https://www.bilibili.com/video/BV1UoWf6rELV",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "BIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.",
+        "content": "BIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.",
+        "bvid": "BV1UoWf6rELV",
+        "author": "TXT_OFFICIAL",
+        "duration": "2:54",
+        "cover": "//i2.hdslb.com/bfs/archive/5c77f5b4c861207951fec3b9fdd5ffbf17bf0149.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UoWf6rELV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TXT新歌MV"
       },
       {
         "title": "这支战队以一己之力扛起了整个LPL赛区，以此视频纪念BLG战队在S16全球总决赛一穿四LCK夺冠的伟大壮举！",
         "url": "https://www.bilibili.com/video/BV1qdsn6QEcy",
         "desc": "",
-        "rank": 24,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "发布此视频的目的：恭喜BLG一穿四LCK夺得S16全球总决赛的冠军！我要好好庆祝这一时刻，我要出整整十期BLG的视频！什么BLG赢了多少LCK的BO5合集，BIN为什么现在是世一上的视频 ON XUN Viper Knight选手的各种视频。对了，我以前发的视频随便清算我，我会永远保留这些视频，请随便清算！BIN大哥把之前决赛输的选手都复仇了个便。而且本届S赛BLG是战胜了LCK（包含OGN时代）成立以来所有国际赛冠军（包含MSI、S赛、洲际赛、EWC、亚运会）注：是这四支战队的成员分别参与了LCK成立以",
@@ -510,10 +526,42 @@
         "hotTitle": "高燃回顾BLG一穿四夺冠之路"
       },
       {
+        "title": "【2026巅峰之夜】表演赛 易坦子融花 vs 钎九不清冰",
+        "url": "https://www.bilibili.com/video/BV13UsH6jE2R",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【2026巅峰之夜】表演赛 易坦子融花 vs 钎九不清冰",
+        "content": "【2026巅峰之夜】表演赛 易坦子融花 vs 钎九不清冰",
+        "bvid": "BV13UsH6jE2R",
+        "author": "哔哩哔哩王者荣耀赛事",
+        "duration": "32:10",
+        "cover": "//i2.hdslb.com/bfs/archive/0a46680dda79774649265a8e370e627a967741f6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13UsH6jE2R&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "易坦子融花vs钎九不清冰"
+      },
+      {
+        "title": "大声告诉我，现在谁是世界第一中单!",
+        "url": "https://www.bilibili.com/video/BV1b3sH6rEzg",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1b3sH6rEzg",
+        "author": "BLGKnight",
+        "duration": "6:34",
+        "cover": "//i1.hdslb.com/bfs/archive/f2ae66211545be2d31b22e5c72d6887abe1996e7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1b3sH6rEzg&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Knight 告诉我谁是世界第一中单"
+      },
+      {
         "title": "【梗百科】NICE！这样我才能XX是啥梗？恭喜BLG！！！",
         "url": "https://www.bilibili.com/video/BV194sp6JEog",
         "desc": "",
-        "rank": 25,
+        "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "历史性的一天 CV：吱毛 文案：灵念卿 后期：谢华鑫 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
@@ -526,68 +574,20 @@
         "hotTitle": "BLG夺冠过程中的热梗"
       },
       {
-        "title": "合影！一人一句恭喜BLG！2026英雄联盟全球总决赛决战高光时刻",
-        "url": "https://www.bilibili.com/video/BV1qQsE62EiZ",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "视频来源：哔哩哔哩英雄联盟赛事",
-        "content": "视频来源：哔哩哔哩英雄联盟赛事",
-        "bvid": "BV1qQsE62EiZ",
-        "author": "新华社",
-        "duration": "8:0",
-        "cover": "//i1.hdslb.com/bfs/archive/00c37180cb6d9ec7e01d115d4736550278308927.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qQsE62EiZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "弹幕合影和新华社一起恭喜BLG"
-      },
-      {
-        "title": "【亚某爆料时间】参与活动免费得！【曹操-命定之王】全新皮肤爆料！",
-        "url": "https://www.bilibili.com/video/BV1HKWq6TET4",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "参与游戏内活动，可免费获取【曹操-命定之王】全新皮肤！这次曹操化身雄心勃勃的君主，披红氅，着金甲，持宝刀。锋刃所至，胜局尽在掌握！一起来看看爆料吧~ 【角色设计】 结合传统服饰与现代审美，我们为曹操塑造了征战四方的全新君主形象。 整体设计以沉黑修身劲装为底，搭配剪裁流畅的红色大氅，鎏金甲胄与精工细作的衣饰点缀其间，尽显威仪。工艺繁复的冠帽上，翠绿宝石熠熠生辉。略微凌乱的长发与尖锐发梢，展露曹操威严之下的不羁个性。深褐翎羽自肩头层叠展开，如猛禽张翼，蓄势欲扑。 武器设计上，宽刃长刀以黄金作柄，镶嵌象征财",
-        "content": "参与游戏内活动，可免费获取【曹操-命定之王】全新皮肤！这次曹操化身雄心勃勃的君主，披红氅，着金甲，持宝刀。锋刃所至，胜局尽在掌握！一起来看看爆料吧~ 【角色设计】 结合传统服饰与现代审美，我们为曹操塑造了征战四方的全新君主形象。 整体设计以沉黑修身劲装为底，搭配剪裁流畅的红色大氅，鎏金甲胄与精工细作的衣饰点缀其间，尽显威仪。工艺繁复的冠帽上，翠绿宝石熠熠生辉。略微凌乱的长发与尖锐发梢，展露曹操威严之下的不羁个性。深褐翎羽自肩头层叠展开，如猛禽张翼，蓄势欲扑。 武器设计上，宽刃长刀以黄金作柄，镶嵌象征财",
-        "bvid": "BV1HKWq6TET4",
-        "author": "王者荣耀",
-        "duration": "2:26",
-        "cover": "//i2.hdslb.com/bfs/archive/8325f9ff26965e7e6fa680f0e9c282b9ef9ae722.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HKWq6TET4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "曹操命定之王新皮肤"
-      },
-      {
-        "title": "Knight夺冠后开播谈冠军皮肤：我想选辛德拉，但是我没玩过很难受！狐狸是一定选的，还有一个从阿卡丽发条洛克里面选！",
-        "url": "https://www.bilibili.com/video/BV1BJsw6eEAw",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "Knight",
-        "content": "Knight",
-        "bvid": "BV1BJsw6eEAw",
-        "author": "火播君",
-        "duration": "1:19",
-        "cover": "//i2.hdslb.com/bfs/archive/c1c959573a05472a012081cc468758c58735b880.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BJsw6eEAw&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Knight说冠军皮肤必选狐狸"
-      },
-      {
-        "title": "BLG决战GEN！全4局2万字复盘!几年不玩也能看懂！恭喜BLG夺得S16冠军！",
-        "url": "https://www.bilibili.com/video/BV1i2sW6xEV9",
+        "title": "牧神记第109集 秦牧的无忧剑",
+        "url": "https://www.bilibili.com/video/BV1GBWC6zEiB",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1i2sW6xEV9",
-        "author": "白衣问道",
-        "duration": "49:39",
-        "cover": "//i0.hdslb.com/bfs/archive/a1a915f6b857afbc6e4c6385dd25b6d75a4b8623.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1i2sW6xEV9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "2万字逐局复盘BLG战胜GEN"
+        "description": "#SpookySeason #TrendingHunt #牧神记第109集 #牧神记第",
+        "content": "#SpookySeason #TrendingHunt #牧神记第109集 #牧神记第",
+        "bvid": "BV1GBWC6zEiB",
+        "author": "zhieling",
+        "duration": "21:34",
+        "cover": "//i2.hdslb.com/bfs/archive/6d6a6c951d6a9777c07de700d16cb89868e2be78.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GBWC6zEiB&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "秦牧重铸无忧剑"
       },
       {
         "title": "恭喜BLG夺冠！",
@@ -930,6 +930,16 @@
         "rank": 2
       },
       {
+        "title": "一鸣食品：拟定增募资不超2.2亿元，用于新型植乳基营养膳食食品生产线建设项目",
+        "url": "https://m.36kr.com/newsflashes/4072350727361411",
+        "desc": "36氪获悉，一鸣食品公告，公司拟以简易程序向特定对象发行股票募资不超过2.2亿元，扣除相关发行费用后用于新型植乳基营养膳食食品生产线建设项目。",
+        "cover": "",
+        "date": 1794828562949,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
         "title": "纳芯微：拟4.87亿元收购隔空智能78.152%股权",
         "url": "https://m.36kr.com/newsflashes/4072346028987272",
         "desc": "36氪获悉，纳芯微公告，公司拟以现金方式收购宁波隔空智能科技有限公司（简称“隔空智能”）合计78.1520%的股权（对应注册资本691.7196万元），收购对价合计4.87亿元。公司拟向银行申请不超过3.5亿元的并购贷款用于支付本次交易的部分股权转让价款。",
@@ -937,7 +947,7 @@
         "date": 1794828276183,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "兆龙互连：拟5000万元—1亿元回购股份",
@@ -947,7 +957,7 @@
         "date": 1794828176192,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "Apple TV应用将新增视频播客专区",
@@ -957,7 +967,7 @@
         "date": 1794828045180,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "美联储理事巴尔：AI智能体或加大未来银行挤兑风险",
@@ -967,7 +977,7 @@
         "date": 1794827779116,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "骏成科技：拟7.65亿元采购9000张GPU卡",
@@ -977,7 +987,7 @@
         "date": 1794827658923,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "晶盛机电：拟1亿元—2亿元回购股份",
@@ -987,7 +997,7 @@
         "date": 1794827373924,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "国家外汇管理局：10月银行结汇18162亿元人民币，售汇14465亿元人民币",
@@ -997,7 +1007,7 @@
         "date": 1794827326918,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "上大股份：特定股东因解除婚姻关系拟办理公司股份非交易过户",
@@ -1007,7 +1017,7 @@
         "date": 1794827145874,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "共达电声：控股股东一致行动人拟1.5亿元—2.5亿元增持公司股份",
@@ -1017,7 +1027,7 @@
         "date": 1794826733509,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "14家理财公司10月净流入超9000亿元，含权固收理财较年初增近2万亿元",
@@ -1027,7 +1037,7 @@
         "date": 1794826474100,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "山鹰国际：存在可能因股价低于1元而终止上市的风险",
@@ -1037,7 +1047,7 @@
         "date": 1794825952092,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "锦浪科技：董事长提议以2500万元—5000万元回购股份",
@@ -1047,7 +1057,7 @@
         "date": 1794825801106,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "ST东尼：拟申请撤销公司股票其他风险警示",
@@ -1057,7 +1067,7 @@
         "date": 1794825563485,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "欧盟委员会无条件批准了裕信银行拟收购德商银行的交易",
@@ -1067,7 +1077,7 @@
         "date": 1794825400342,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "一汽解放：发行不超10亿元科技创新公司债券获证监会同意注册批复",
@@ -1077,7 +1087,7 @@
         "date": 1794825105832,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "百济神州：拟1950万美元参与Bravera的A轮融资",
@@ -1087,7 +1097,7 @@
         "date": 1794824927591,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "协鑫集成：全资子公司拟3.15亿元转让不动产",
@@ -1097,7 +1107,7 @@
         "date": 1794824761463,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "盛屯矿业：拟4亿元—5亿元回购股份",
@@ -1107,7 +1117,7 @@
         "date": 1794824130191,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "捷捷微电：拟15亿元投建车规级高功率半导体器件芯片生产线项目",
@@ -1117,25 +1127,15 @@
         "date": 1794823986013,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "美国柴油零售价两个月来首次跌破6美元/加仑",
-        "url": "https://m.36kr.com/newsflashes/4072270446105731",
-        "desc": "据GasBuddy数据，截至11月15日，美国柴油零售均价降至5.998美元/加仑，为两个月来首次跌破6美元。此前，柴油价格于9月22日升至6.519美元/加仑的历史高位。另据美国汽车协会（AAA）数据，截至11月15日，美国柴油零售均价为6.0198美元/加仑。（财联社）",
-        "cover": "",
-        "date": 1794823662970,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794828365561,
-    "bilibili": 1794826924188,
-    "qbitai": 1794799594024,
-    "36kr": 1794799594417
+    "thepaper": 1794829265541,
+    "bilibili": 1794829274180,
+    "qbitai": 1794800493015,
+    "36kr": 1794800493436
   },
   "failures": {}
 }
