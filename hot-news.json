@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T23:11:34Z",
+  "updatedAt": "2026-11-15T23:26:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,26 +126,42 @@
     ],
     "bilibili": [
       {
-        "title": "【Knight】直播回放弹幕版-20261107",
-        "url": "https://www.bilibili.com/video/BV19L476gE8v",
+        "title": "Knight夺冠后开播谈冠军皮肤：我想选辛德拉，但是我没玩过很难受！狐狸是一定选的，还有一个从阿卡丽发条洛克里面选！",
+        "url": "https://www.bilibili.com/video/BV1BJsw6eEAw",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV19L476gE8v",
-        "author": "没错改名了",
-        "duration": "90:48",
-        "cover": "//i2.hdslb.com/bfs/archive/f94a126da430e3f8ce2b9aa11901c9ffc56085e8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19L476gE8v&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG Knight 开播"
+        "description": "Knight",
+        "content": "Knight",
+        "bvid": "BV1BJsw6eEAw",
+        "author": "火播君",
+        "duration": "1:19",
+        "cover": "//i2.hdslb.com/bfs/archive/c1c959573a05472a012081cc468758c58735b880.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BJsw6eEAw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Knight说冠军皮肤必选狐狸"
+      },
+      {
+        "title": "[Al晚报]悲报！DeepSeek手机端正式启用限额！Gemini 4登顶数学榜！阿里开源编程工具！",
+        "url": "https://www.bilibili.com/video/BV13msJ6uEuS",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "11月15日Al早知道〔晚报〕 坏了，怎么这个月过半了！ 网页端限额应该是腾算力吧！应该是打击反代网页端吧！",
+        "content": "11月15日Al早知道〔晚报〕 坏了，怎么这个月过半了！ 网页端限额应该是腾算力吧！应该是打击反代网页端吧！",
+        "bvid": "BV13msJ6uEuS",
+        "author": "Al早知道",
+        "duration": "4:34",
+        "cover": "//i1.hdslb.com/bfs/archive/4db8b2c0232410418c2b5fb3c42094a152654a11.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13msJ6uEuS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "DeepSeek因算力不足限额"
       },
       {
         "title": "深圳 ＋ APEC = ？",
         "url": "https://www.bilibili.com/video/BV1dJsn6jEQh",
         "desc": "",
-        "rank": 2,
+        "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -158,36 +174,20 @@
         "hotTitle": "深圳开启APEC时间"
       },
       {
-        "title": "空军“新家伙”：好不好看？厉不厉害？",
-        "url": "https://www.bilibili.com/video/BV1eksJ6kETy",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "攻击-11是我国自主研发的无尾飞翼布局无人机，它的隐身性能好、续航时间长、攻击精度高，可遂行空中打击、压制防空等作战任务。在攻击-11首次实弹攻击任务中，空军自主培养的首批女无人机机组操控员密切协同，实现了首发命中。攻击-11还能与有人驾驶的隐身战斗机相互配合，承担高风险的穿透式打击任务。（兵器面面观）",
-        "content": "攻击-11是我国自主研发的无尾飞翼布局无人机，它的隐身性能好、续航时间长、攻击精度高，可遂行空中打击、压制防空等作战任务。在攻击-11首次实弹攻击任务中，空军自主培养的首批女无人机机组操控员密切协同，实现了首发命中。攻击-11还能与有人驾驶的隐身战斗机相互配合，承担高风险的穿透式打击任务。（兵器面面观）",
-        "bvid": "BV1eksJ6kETy",
-        "author": "央视军事",
-        "duration": "4:46",
-        "cover": "//i2.hdslb.com/bfs/archive/49e0a289c41cfa4de7f2be0f563b5491c045c21c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eksJ6kETy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "攻击-11无人机新细节公布"
-      },
-      {
-        "title": "Knight夺冠后开播谈冠军皮肤：我想选辛德拉，但是我没玩过很难受！狐狸是一定选的，还有一个从阿卡丽发条洛克里面选！",
-        "url": "https://www.bilibili.com/video/BV1BJsw6eEAw",
+        "title": "【S16总决赛完整vlog】BLG庆功宴：“拿大结果了”",
+        "url": "https://www.bilibili.com/video/BV188WZ63Eqm",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "Knight",
-        "content": "Knight",
-        "bvid": "BV1BJsw6eEAw",
-        "author": "火播君",
-        "duration": "1:19",
-        "cover": "//i2.hdslb.com/bfs/archive/c1c959573a05472a012081cc468758c58735b880.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BJsw6eEAw&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Knight说冠军皮肤必选狐狸"
+        "description": "恭喜 BLG 拿下 2026 英雄联盟全球总决赛冠军！🏆 这期 vlog 记录了我在纽约布鲁克林 Barclays Center 总决赛现场的一整天，从白天进场到见证 BLG 夺冠，再到晚上的庆功宴。跟着我的镜头，一起重温这难忘的一天吧！",
+        "content": "恭喜 BLG 拿下 2026 英雄联盟全球总决赛冠军！🏆 这期 vlog 记录了我在纽约布鲁克林 Barclays Center 总决赛现场的一整天，从白天进场到见证 BLG 夺冠，再到晚上的庆功宴。跟着我的镜头，一起重温这难忘的一天吧！",
+        "bvid": "BV188WZ63Eqm",
+        "author": "Rofix",
+        "duration": "3:19",
+        "cover": "//i2.hdslb.com/bfs/archive/055f5173c9f2c62c5f046592e2bfdf086f351e30.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV188WZ63Eqm&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG庆功宴Vlog"
       },
       {
         "title": "从1+2到1+1.9，中国数学家再推进哥德巴赫猜想",
@@ -206,36 +206,36 @@
         "hotTitle": "中国数学家再推进哥德巴赫猜想"
       },
       {
-        "title": "B站送大会员庆祝BLG夺冠，活动链接我放评论区了",
-        "url": "https://www.bilibili.com/video/BV14asE6hEYK",
+        "title": "金铲铲免费送宝库三抽～恭喜BLG夺冠！",
+        "url": "https://www.bilibili.com/video/BV1gTsJ6qEPG",
         "desc": "",
         "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV14asE6hEYK",
-        "author": "哈鲁奥菲",
-        "duration": "0:48",
-        "cover": "//i1.hdslb.com/bfs/archive/bf208ff2ec2392ae00c4c8aee0e7361554be5072.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV14asE6hEYK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1gTsJ6qEPG",
+        "author": "小陈同学kg",
+        "duration": "0:22",
+        "cover": "//i1.hdslb.com/bfs/archive/165ee70b6d13086b9c346b91eca770038654a941.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gTsJ6qEPG&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "BLG夺冠UP主开启抽奖团建"
       },
       {
-        "title": "【S16总决赛完整vlog】BLG庆功宴：“拿大结果了”",
-        "url": "https://www.bilibili.com/video/BV188WZ63Eqm",
+        "title": "《美队全家福VS灭霸全家福》灭霸的爸爸叫灭建国！",
+        "url": "https://www.bilibili.com/video/BV1bzsV6nEM6",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "恭喜 BLG 拿下 2026 英雄联盟全球总决赛冠军！🏆 这期 vlog 记录了我在纽约布鲁克林 Barclays Center 总决赛现场的一整天，从白天进场到见证 BLG 夺冠，再到晚上的庆功宴。跟着我的镜头，一起重温这难忘的一天吧！",
-        "content": "恭喜 BLG 拿下 2026 英雄联盟全球总决赛冠军！🏆 这期 vlog 记录了我在纽约布鲁克林 Barclays Center 总决赛现场的一整天，从白天进场到见证 BLG 夺冠，再到晚上的庆功宴。跟着我的镜头，一起重温这难忘的一天吧！",
-        "bvid": "BV188WZ63Eqm",
-        "author": "Rofix",
-        "duration": "3:19",
-        "cover": "//i2.hdslb.com/bfs/archive/055f5173c9f2c62c5f046592e2bfdf086f351e30.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV188WZ63Eqm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG庆功宴Vlog"
+        "description": "《美队全家福VS灭霸全家福》灭霸的爸爸叫灭建国！ 音频：DJ铁柱、阿主 最强信息位 你们太过分了 我不跟你们玩了 攻防转换 钢志强 蜘秀英 奇博的爸爸奇卫兵 你们被艾特的都是扎啤 火箭浣熊 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
+        "content": "《美队全家福VS灭霸全家福》灭霸的爸爸叫灭建国！ 音频：DJ铁柱、阿主 最强信息位 你们太过分了 我不跟你们玩了 攻防转换 钢志强 蜘秀英 奇博的爸爸奇卫兵 你们被艾特的都是扎啤 火箭浣熊 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
+        "bvid": "BV1bzsV6nEM6",
+        "author": "音乐老友",
+        "duration": "3:7",
+        "cover": "//i2.hdslb.com/bfs/archive/6a8dfe091f57fdfcbbbef34588a8d09f02b53b8c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bzsV6nEM6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "复联全家福vs灭霸全家福"
       },
       {
         "title": "詹姆斯生涯总助攻数超越基德，来到历史第三！",
@@ -254,36 +254,36 @@
         "hotTitle": "詹姆斯生涯助攻数升至历史第三"
       },
       {
-        "title": "非凡之爱是什么梗，近期的ai渲染大赛又是怎么回事【梗指南】",
-        "url": "https://www.bilibili.com/video/BV1e9Wk6zEN1",
+        "title": "为什么中国模型都在开源？",
+        "url": "https://www.bilibili.com/video/BV1dZWv6XEAp",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1e9Wk6zEN1",
-        "author": "银白笙",
-        "duration": "2:34",
-        "cover": "//i0.hdslb.com/bfs/archive/f6a35ba353bb7a67d167664c1071ebb123622f70.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1e9Wk6zEN1&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "非凡之爱是什么梗"
+        "description": "为什么不是最顶尖的中国大模型，却在海外悄然走红？今天咱们就来唠唠那些出海的中国模型，看看未来全世界的AI格局会是啥样！",
+        "content": "为什么不是最顶尖的中国大模型，却在海外悄然走红？今天咱们就来唠唠那些出海的中国模型，看看未来全世界的AI格局会是啥样！",
+        "bvid": "BV1dZWv6XEAp",
+        "author": "林亦LYi",
+        "duration": "8:21",
+        "cover": "//i2.hdslb.com/bfs/archive/d4e75cb32b93e075c385ac17c74c3ec34184c56b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dZWv6XEAp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "国产模型为何在海外悄然走红"
       },
       {
-        "title": "杀疯了！毁灭宇宙的投射！为什么汤普森新赛季变强了？",
-        "url": "https://www.bilibili.com/video/BV1AGss6BETz",
+        "title": "2026APEC“中国年”为何聚焦于这三大“关键词”",
+        "url": "https://www.bilibili.com/video/BV1mrsw6JEdb",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1AGss6BETz",
-        "author": "业余球探刀先生",
-        "duration": "13:41",
-        "cover": "//i2.hdslb.com/bfs/archive/c588afc58e4ca9c126b61aa3f6fc9f8b10a7d571.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AGss6BETz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "汤普森新赛季为什么变强了"
+        "description": "",
+        "content": "",
+        "bvid": "BV1mrsw6JEdb",
+        "author": "央视新闻",
+        "duration": "9:27",
+        "cover": "//i1.hdslb.com/bfs/archive/71d6c657654ea5fabb0911b0924427c53c30154b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mrsw6JEdb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "APEC中国年为何聚焦这三大领域"
       },
       {
         "title": "BLG1穿4最终夺冠！纽约前方和Ming米勒一起回味S16决赛！【熬夜吧老头！07】",
@@ -302,26 +302,10 @@
         "hotTitle": "管泽元和Ming米勒一起回味S16决赛"
       },
       {
-        "title": "【花礼】我不能游戏区给我涨十几万粉、播完S赛扭头就走；游戏区对我有恩啊",
-        "url": "https://www.bilibili.com/video/BV19FsJ63EXh",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "一键三连谢谢哞！ 关注花礼谢哞！ 花礼主页：https://space.bilibili.com/1048135385",
-        "content": "一键三连谢谢哞！ 关注花礼谢哞！ 花礼主页：https://space.bilibili.com/1048135385",
-        "bvid": "BV19FsJ63EXh",
-        "author": "战略忽悠局对外宣传一处处长",
-        "duration": "2:37",
-        "cover": "//i1.hdslb.com/bfs/archive/5428de1ceabc37be102cc2abb40727d5d5f150f9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19FsJ63EXh&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "米勒给今年的S赛打100分"
-      },
-      {
         "title": "Viper是On的真爱！Viper哽咽发言：感谢妈妈感谢On，刚加入BLG时On就说带我夺冠，他说到做到！",
         "url": "https://www.bilibili.com/video/BV1vRsE6yEmM",
         "desc": "",
-        "rank": 13,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -334,26 +318,26 @@
         "hotTitle": "Viper赛后感谢妈妈和On"
       },
       {
-        "title": "一穿四LCK捧杯夺冠，含金量最高的一集，我们是冠军！！！【火兰吐槽】",
-        "url": "https://www.bilibili.com/video/BV1Q1sJ66EDq",
+        "title": "【花礼】我不能游戏区给我涨十几万粉、播完S赛扭头就走；游戏区对我有恩啊",
+        "url": "https://www.bilibili.com/video/BV19FsJ63EXh",
         "desc": "",
-        "rank": 14,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Q1sJ66EDq",
-        "author": "火兰朋克",
-        "duration": "7:19",
-        "cover": "//i0.hdslb.com/bfs/archive/1646c5fad46b91a0028bc28092c02542f3401f63.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Q1sJ66EDq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG一穿四LCK含金量有多高"
+        "description": "一键三连谢谢哞！ 关注花礼谢哞！ 花礼主页：https://space.bilibili.com/1048135385",
+        "content": "一键三连谢谢哞！ 关注花礼谢哞！ 花礼主页：https://space.bilibili.com/1048135385",
+        "bvid": "BV19FsJ63EXh",
+        "author": "战略忽悠局对外宣传一处处长",
+        "duration": "2:37",
+        "cover": "//i1.hdslb.com/bfs/archive/5428de1ceabc37be102cc2abb40727d5d5f150f9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19FsJ63EXh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "米勒给今年的S赛打100分"
       },
       {
         "title": "极限对抗！凯恩点射 安德森直红送点 西班牙2比3十人英格兰",
         "url": "https://www.bilibili.com/video/BV138Wq6DEra",
         "desc": "",
-        "rank": 15,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -366,26 +350,10 @@
         "hotTitle": "西班牙2-3十人英格兰"
       },
       {
-        "title": "全美航班停飞是输了还是赢了？是赚了。",
-        "url": "https://www.bilibili.com/video/BV17isH6sEnq",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV17isH6sEnq",
-        "author": "波士顿圆脸",
-        "duration": "13:45",
-        "cover": "//i1.hdslb.com/bfs/archive/bd15ef0d07ef5b0c1a887e6b6dc71fc833fa7e9a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17isH6sEnq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "怎么看全美航班停飞事件"
-      },
-      {
         "title": "欧洲开心坏了",
         "url": "https://www.bilibili.com/video/BV1pdsL67EKy",
         "desc": "",
-        "rank": 17,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "本视频提及事件以及信息来源如下： 《国际观察丨俄美乌重启会谈，欧洲借军演“刷存在”》来自：新华网，2026-11-10 21:14发布 《欧洲议会投票批准欧美贸易协议》来自：新华网，2026-06-16 20:48:03发布 《排除美国参与，欧洲多国演练“出兵乌克兰”》来自：中国青年报，2026-11-09 15:29发布 《北约秘书长：叫特朗普“爸爸”是一个巨大的错误》来自：威海新闻网，2026-11-06 17:50发布 《谈判桌没有欧洲席位！俄美乌重启会谈，欧洲多国军演造势、“刷存在感”》来自：光明",
@@ -396,6 +364,38 @@
         "cover": "//i0.hdslb.com/bfs/archive/9177ca68b6934fe0613d80bbceeb44e1277f51e2.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pdsL67EKy&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "欧洲多国为何开始军演造势"
+      },
+      {
+        "title": "BLG战胜GEN夺冠双方选手反应",
+        "url": "https://www.bilibili.com/video/BV1d9sE6LEE7",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1d9sE6LEE7",
+        "author": "英雄联盟赛事",
+        "duration": "0:36",
+        "cover": "//i1.hdslb.com/bfs/archive/acbaca2a45c7edcf9984d364a91cbf9f8dd8f3b1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d9sE6LEE7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG夺冠双方选手反应"
+      },
+      {
+        "title": "全美航班停飞是输了还是赢了？是赚了。",
+        "url": "https://www.bilibili.com/video/BV17isH6sEnq",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV17isH6sEnq",
+        "author": "波士顿圆脸",
+        "duration": "13:45",
+        "cover": "//i1.hdslb.com/bfs/archive/bd15ef0d07ef5b0c1a887e6b6dc71fc833fa7e9a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17isH6sEnq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "怎么看全美航班停飞事件"
       },
       {
         "title": "【4K巨制】俄乌战争打了四年多，前线为什么几乎不动？｜3D 复原",
@@ -414,122 +414,10 @@
         "hotTitle": "3D复原俄乌战争前线情况"
       },
       {
-        "title": "BLG战胜GEN夺冠双方选手反应",
-        "url": "https://www.bilibili.com/video/BV1d9sE6LEE7",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1d9sE6LEE7",
-        "author": "英雄联盟赛事",
-        "duration": "0:36",
-        "cover": "//i1.hdslb.com/bfs/archive/acbaca2a45c7edcf9984d364a91cbf9f8dd8f3b1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d9sE6LEE7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG夺冠双方选手反应"
-      },
-      {
-        "title": "宋大哥在国道上设宴招待华强，最自私的一集",
-        "url": "https://www.bilibili.com/video/BV17ZWq6aEe7",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV17ZWq6aEe7",
-        "author": "她们都叫我滚",
-        "duration": "5:24",
-        "cover": "//i0.hdslb.com/bfs/archive/4363ed38d4741d5c4a1661993efe1b82fc5c875e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17ZWq6aEe7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "宋老虎国道设宴招待刘华强"
-      },
-      {
-        "title": "韩网绝望！所有韩国队全被BLG淘汰，雷鸟究竟看到了多远！韩国人怎么评价BLG拿下世界冠军？乐评人在线读评论！英雄联盟 电子竞技 s16 Bin 左手 Viper",
-        "url": "https://www.bilibili.com/video/BV1xnsH6vEBW",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "素材若有问题会修改/문제시 삭제",
-        "content": "素材若有问题会修改/문제시 삭제",
-        "bvid": "BV1xnsH6vEBW",
-        "author": "辉锅_",
-        "duration": "10:59",
-        "cover": "//i1.hdslb.com/bfs/archive/c67313734bc1de5f2f703ecc45e77ffb50616fb4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xnsH6vEBW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "韩网绝望韩国人怎么看BLG夺冠"
-      },
-      {
-        "title": "【梗百科】NICE！这样我才能XX是啥梗？恭喜BLG！！！",
-        "url": "https://www.bilibili.com/video/BV194sp6JEog",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "历史性的一天 CV：吱毛 文案：灵念卿 后期：谢华鑫 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
-        "content": "历史性的一天 CV：吱毛 文案：灵念卿 后期：谢华鑫 若发现视频中存在问题，欢迎附上能证明问题的材料，发邮件到gengwiki@sina.com，一经查实会给予第一位抓虫的朋友纠错辛苦费，希望能和大家一起做出更好更全面的梗科普类节目",
-        "bvid": "BV194sp6JEog",
-        "author": "梗百科",
-        "duration": "3:16",
-        "cover": "//i1.hdslb.com/bfs/archive/1f61e0db6ad77a5bea68df558a10ffaf98f1864e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV194sp6JEog&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG夺冠过程中的热梗"
-      },
-      {
-        "title": "泪目！BLG夺冠王多多史上最牛逼的结束语，王多多和Rita哭到忘词，满屏弹幕哭了",
-        "url": "https://www.bilibili.com/video/BV1tGsJ6AEBz",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1tGsJ6AEBz",
-        "author": "默兔haha",
-        "duration": "4:57",
-        "cover": "//i0.hdslb.com/bfs/archive/29b32f094c37b61b1f57b89afb8ce122723ae389.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tGsJ6AEBz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "王多多赛后挥泪点评BLG夺冠"
-      },
-      {
-        "title": "这支战队以一己之力扛起了整个LPL赛区，以此视频纪念BLG战队在S16全球总决赛一穿四LCK夺冠的伟大壮举！",
-        "url": "https://www.bilibili.com/video/BV1qdsn6QEcy",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "发布此视频的目的：恭喜BLG一穿四LCK夺得S16全球总决赛的冠军！我要好好庆祝这一时刻，我要出整整十期BLG的视频！什么BLG赢了多少LCK的BO5合集，BIN为什么现在是世一上的视频 ON XUN Viper Knight选手的各种视频。对了，我以前发的视频随便清算我，我会永远保留这些视频，请随便清算！BIN大哥把之前决赛输的选手都复仇了个便。而且本届S赛BLG是战胜了LCK（包含OGN时代）成立以来所有国际赛冠军（包含MSI、S赛、洲际赛、EWC、亚运会）注：是这四支战队的成员分别参与了LCK成立以",
-        "content": "发布此视频的目的：恭喜BLG一穿四LCK夺得S16全球总决赛的冠军！我要好好庆祝这一时刻，我要出整整十期BLG的视频！什么BLG赢了多少LCK的BO5合集，BIN为什么现在是世一上的视频 ON XUN Viper Knight选手的各种视频。对了，我以前发的视频随便清算我，我会永远保留这些视频，请随便清算！BIN大哥把之前决赛输的选手都复仇了个便。而且本届S赛BLG是战胜了LCK（包含OGN时代）成立以来所有国际赛冠军（包含MSI、S赛、洲际赛、EWC、亚运会）注：是这四支战队的成员分别参与了LCK成立以",
-        "bvid": "BV1qdsn6QEcy",
-        "author": "槿梳podical",
-        "duration": "17:31",
-        "cover": "//i0.hdslb.com/bfs/archive/bcfba120130066f26ad6e5fb8502a5d8cf38aea8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qdsn6QEcy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "高燃回顾BLG一穿四夺冠之路"
-      },
-      {
-        "title": "我们是冠军🏆！！！",
-        "url": "https://www.bilibili.com/video/BV1rysE6HEFZ",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1rysE6HEFZ",
-        "author": "BLGKnight",
-        "duration": "0:15",
-        "cover": "//i1.hdslb.com/bfs/archive/60e7ac50e459d9f9479dd5b973433b1ae99baa47.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rysE6HEFZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Knight首位国产冠军中单"
-      },
-      {
         "title": "难道他真的改变了时间线？",
         "url": "https://www.bilibili.com/video/BV1iisJ62E6N",
         "desc": "",
-        "rank": 26,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -542,26 +430,90 @@
         "hotTitle": "难道NiKo真的改变了时间线"
       },
       {
-        "title": "【2026巅峰之夜】表演赛 易坦子融花 vs 钎九不清冰",
-        "url": "https://www.bilibili.com/video/BV13UsH6jE2R",
+        "title": "锐评S16 BLG战胜GEN夺冠：一穿四LCK夺冠！我们是冠军！！！",
+        "url": "https://www.bilibili.com/video/BV1BYsJ6UED9",
         "desc": "",
-        "rank": 27,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【2026巅峰之夜】表演赛 易坦子融花 vs 钎九不清冰",
-        "content": "【2026巅峰之夜】表演赛 易坦子融花 vs 钎九不清冰",
-        "bvid": "BV13UsH6jE2R",
-        "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "32:10",
-        "cover": "//i2.hdslb.com/bfs/archive/0a46680dda79774649265a8e370e627a967741f6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13UsH6jE2R&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "易坦子融花vs钎九不清冰"
+        "description": "求求你们给个3连吧！",
+        "content": "求求你们给个3连吧！",
+        "bvid": "BV1BYsJ6UED9",
+        "author": "喵仙人ovo",
+        "duration": "16:25",
+        "cover": "//i0.hdslb.com/bfs/archive/a9111150e0863888e172bbdc57f092865b29a91f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BYsJ6UED9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "复盘BLG战胜GEN夺冠之战"
+      },
+      {
+        "title": "非凡之爱是什么梗，近期的ai渲染大赛又是怎么回事【梗指南】",
+        "url": "https://www.bilibili.com/video/BV1e9Wk6zEN1",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1e9Wk6zEN1",
+        "author": "银白笙",
+        "duration": "2:34",
+        "cover": "//i0.hdslb.com/bfs/archive/f6a35ba353bb7a67d167664c1071ebb123622f70.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1e9Wk6zEN1&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "非凡之爱是什么梗"
+      },
+      {
+        "title": "宋大哥在国道上设宴招待华强，最自私的一集",
+        "url": "https://www.bilibili.com/video/BV17ZWq6aEe7",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV17ZWq6aEe7",
+        "author": "她们都叫我滚",
+        "duration": "5:24",
+        "cover": "//i0.hdslb.com/bfs/archive/4363ed38d4741d5c4a1661993efe1b82fc5c875e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17ZWq6aEe7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "宋老虎国道设宴招待刘华强"
+      },
+      {
+        "title": "我们是冠军🏆！！！",
+        "url": "https://www.bilibili.com/video/BV1rysE6HEFZ",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1rysE6HEFZ",
+        "author": "BLGKnight",
+        "duration": "0:15",
+        "cover": "//i1.hdslb.com/bfs/archive/60e7ac50e459d9f9479dd5b973433b1ae99baa47.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rysE6HEFZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Knight首位国产冠军中单"
+      },
+      {
+        "title": "为什么必须得是贾克斯？！【Bin武器大师生涯全纪录】",
+        "url": "https://www.bilibili.com/video/BV1BYsJ6UEME",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1BYsJ6UEME",
+        "author": "电竞小太阳_",
+        "duration": "2:3",
+        "cover": "//i1.hdslb.com/bfs/archive/4097eff62b6c95d30c3f8b916ba89416c991a1f9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BYsJ6UEME&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Bin贾克斯冠军皮肤为何呼声最高"
       },
       {
         "title": "三年之期已到，恭迎世一上归位！【第18集】",
         "url": "https://www.bilibili.com/video/BV1uUsJ6BES6",
         "desc": "",
-        "rank": 28,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "AI生成视频，非真实事件，台词和动作基于短剧模仿设计，并非针对选手，各位选手仅作为演员出场，请勿上纲上线。",
@@ -574,20 +526,68 @@
         "hotTitle": "恭迎世一上归位"
       },
       {
-        "title": "你可以在影之刃中玩音游【影之刃MOD】",
-        "url": "https://www.bilibili.com/video/BV1RJsn6jETJ",
+        "title": "泪目！BLG夺冠王多多史上最牛逼的结束语，王多多和Rita哭到忘词，满屏弹幕哭了",
+        "url": "https://www.bilibili.com/video/BV1tGsJ6AEBz",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1tGsJ6AEBz",
+        "author": "默兔haha",
+        "duration": "4:57",
+        "cover": "//i0.hdslb.com/bfs/archive/29b32f094c37b61b1f57b89afb8ce122723ae389.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tGsJ6AEBz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "王多多赛后挥泪点评BLG夺冠"
+      },
+      {
+        "title": "面娟在开幕式表演LPL就夺冠！【田小娟&赵美延】KD/A「KD/A名曲串烧+FIRESTARTER」2026英雄联盟全球总决赛决赛开幕式舞台！",
+        "url": "https://www.bilibili.com/video/BV1cis56GESa",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1cis56GESa",
+        "author": "IdolCrush",
+        "duration": "19:31",
+        "cover": "//i0.hdslb.com/bfs/archive/a67ccd4fcb81fb733de6e83a513d5346ebeaa301.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cis56GESa&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "K/DA决赛后台合照"
+      },
+      {
+        "title": "这支战队以一己之力扛起了整个LPL赛区，以此视频纪念BLG战队在S16全球总决赛一穿四LCK夺冠的伟大壮举！",
+        "url": "https://www.bilibili.com/video/BV1qdsn6QEcy",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "发布此视频的目的：恭喜BLG一穿四LCK夺得S16全球总决赛的冠军！我要好好庆祝这一时刻，我要出整整十期BLG的视频！什么BLG赢了多少LCK的BO5合集，BIN为什么现在是世一上的视频 ON XUN Viper Knight选手的各种视频。对了，我以前发的视频随便清算我，我会永远保留这些视频，请随便清算！BIN大哥把之前决赛输的选手都复仇了个便。而且本届S赛BLG是战胜了LCK（包含OGN时代）成立以来所有国际赛冠军（包含MSI、S赛、洲际赛、EWC、亚运会）注：是这四支战队的成员分别参与了LCK成立以",
+        "content": "发布此视频的目的：恭喜BLG一穿四LCK夺得S16全球总决赛的冠军！我要好好庆祝这一时刻，我要出整整十期BLG的视频！什么BLG赢了多少LCK的BO5合集，BIN为什么现在是世一上的视频 ON XUN Viper Knight选手的各种视频。对了，我以前发的视频随便清算我，我会永远保留这些视频，请随便清算！BIN大哥把之前决赛输的选手都复仇了个便。而且本届S赛BLG是战胜了LCK（包含OGN时代）成立以来所有国际赛冠军（包含MSI、S赛、洲际赛、EWC、亚运会）注：是这四支战队的成员分别参与了LCK成立以",
+        "bvid": "BV1qdsn6QEcy",
+        "author": "槿梳podical",
+        "duration": "17:31",
+        "cover": "//i0.hdslb.com/bfs/archive/bcfba120130066f26ad6e5fb8502a5d8cf38aea8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qdsn6QEcy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "高燃回顾BLG一穿四夺冠之路"
+      },
+      {
+        "title": "一穿四LCK捧杯夺冠，含金量最高的一集，我们是冠军！！！【火兰吐槽】",
+        "url": "https://www.bilibili.com/video/BV1Q1sJ66EDq",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "《影之刃零》音游 MOD 来了！ 按下 F6，和 Boss 来一场真正的「舞林对决」！打准节奏就能扣除 Boss 的血量，错按、漏按则会扣除自己的血量。 长按F6可以进入菜单。 本次加入两种玩法： ♪ 节奏大师模式：四轨下落式音符，支持长按、多种键位预设，以及简单、普通、困难三种难度。 ♪ 劲舞团模式：先输入方向，再踩准节奏按空格确认；额外提供极难八向按键，欢迎老玩家挑战！ 支持键盘、手柄，现有九首舞曲、63 张内置谱。新增《科目三》《还是你的笑容最可爱》《热爱105℃的你》《广寒宫》，也可以邀请附近 N",
-        "content": "《影之刃零》音游 MOD 来了！ 按下 F6，和 Boss 来一场真正的「舞林对决」！打准节奏就能扣除 Boss 的血量，错按、漏按则会扣除自己的血量。 长按F6可以进入菜单。 本次加入两种玩法： ♪ 节奏大师模式：四轨下落式音符，支持长按、多种键位预设，以及简单、普通、困难三种难度。 ♪ 劲舞团模式：先输入方向，再踩准节奏按空格确认；额外提供极难八向按键，欢迎老玩家挑战！ 支持键盘、手柄，现有九首舞曲、63 张内置谱。新增《科目三》《还是你的笑容最可爱》《热爱105℃的你》《广寒宫》，也可以邀请附近 N",
-        "bvid": "BV1RJsn6jETJ",
-        "author": "鹿隐tranquil",
-        "duration": "1:17",
-        "cover": "//i2.hdslb.com/bfs/archive/8775dd87802d0f9c5cc434baa91d6dc7ea93c83f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RJsn6jETJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "在影之刃零里玩音游"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Q1sJ66EDq",
+        "author": "火兰朋克",
+        "duration": "7:19",
+        "cover": "//i0.hdslb.com/bfs/archive/1646c5fad46b91a0028bc28092c02542f3401f63.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Q1sJ66EDq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG一穿四LCK含金量有多高"
       },
       {
         "title": "恭喜BLG夺冠！",
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+        "url": "https://www.qbitai.com/2026/11/510436.html",
+        "desc": "余承东重新明确分工",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/eb12658dc847c1c07fe71962c1379c4f.png",
+        "date": "2026-11-16T15:26:33",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
         "url": "https://www.qbitai.com/2026/11/510416.html",
         "desc": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
@@ -615,7 +625,7 @@
         "date": "2026-11-16T13:05:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
@@ -625,7 +635,7 @@
         "date": "2026-11-16T11:54:30",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "今天截止！2026年度AI表彰，错过再等一年！",
@@ -635,7 +645,7 @@
         "date": "2026-11-16T11:19:53",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
@@ -645,7 +655,7 @@
         "date": "2026-11-16T11:07:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "黄仁勋筹备重返英伟达",
@@ -655,7 +665,7 @@
         "date": "2026-11-16T08:12:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "谷歌奇袭英伟达：整柜TPU外售加速交付，推理每美元性能领先GB200五成",
@@ -665,7 +675,7 @@
         "date": "2026-11-16T08:00:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "全球AI音乐榜第一易主！中国黑马首次上榜就干翻Suno",
@@ -675,7 +685,7 @@
         "date": "2026-11-16T07:56:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
@@ -685,7 +695,7 @@
         "date": "2026-11-14T18:08:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
@@ -695,7 +705,7 @@
         "date": "2026-11-14T17:58:22",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
@@ -705,7 +715,7 @@
         "date": "2026-11-14T17:48:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "绿电进Token出！联想重新定义词元工厂",
@@ -715,7 +725,7 @@
         "date": "2026-11-14T17:41:02",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
@@ -725,7 +735,7 @@
         "date": "2026-11-14T10:59:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "突发！DeepSeek开放全家桶API",
@@ -735,7 +745,7 @@
         "date": "2026-11-14T10:39:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
@@ -745,7 +755,7 @@
         "date": "2026-11-13T17:02:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
@@ -755,7 +765,7 @@
         "date": "2026-11-13T15:51:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
@@ -765,7 +775,7 @@
         "date": "2026-11-13T15:43:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
@@ -775,7 +785,7 @@
         "date": "2026-11-13T15:17:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
@@ -785,7 +795,7 @@
         "date": "2026-11-13T15:12:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
@@ -795,7 +805,7 @@
         "date": "2026-11-13T15:09:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
@@ -805,7 +815,7 @@
         "date": "2026-11-13T15:06:32",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
@@ -815,7 +825,7 @@
         "date": "2026-11-13T14:54:44",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "特斯拉和SpaceX最快下月合并",
@@ -825,7 +835,7 @@
         "date": "2026-11-13T14:43:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
@@ -835,7 +845,7 @@
         "date": "2026-11-13T14:29:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "国产大模型又杀出一匹黑马，引发硅谷关注！",
@@ -845,7 +855,7 @@
         "date": "2026-11-13T12:47:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "突发，马斯克裁掉了整个多模态团队",
@@ -855,7 +865,7 @@
         "date": "2026-11-13T12:13:41",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "大模型都能控机器人，Human Data还得怎么卷？",
@@ -865,7 +875,7 @@
         "date": "2026-11-13T11:31:25",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
@@ -875,7 +885,7 @@
         "date": "2026-11-12T19:36:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
@@ -885,7 +895,7 @@
         "date": "2026-11-12T18:45:33",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
@@ -893,16 +903,6 @@
         "desc": "全世界都在踩刹车，达里奥一个人踩油门",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/1301376053d57039de00d07856b8c5e9.webp",
         "date": "2026-11-12T18:11:29",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
-        "url": "https://www.qbitai.com/2026/11/509355.html",
-        "desc": "Grok在让人破绷这件事上，从来不会让人失望。",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/3b0307d77e85434710797074354e2260.webp",
-        "date": "2026-11-12T18:08:24",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,46 @@
         "rank": 2
       },
       {
+        "title": "阳光电源在东营成立新公司，注册资本1000万",
+        "url": "https://m.36kr.com/newsflashes/4072106813641604",
+        "desc": "36氪获悉，天眼查App显示，近日，东营阳光电源有限公司成立，法定代表人为邹步新，注册资本1000万元人民币，经营范围包括变压器、整流器和电感器制造、新能源原动设备制造、新能源原动设备销售等。股东信息显示，该公司由阳光电源股份有限公司全资持股。",
+        "cover": "",
+        "date": 1794813675637,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "聚焦轻工业焕新，《以标准提升引领轻工业优化升级实施方案》发布",
+        "url": "https://m.36kr.com/newsflashes/4072104409601157",
+        "desc": "从工业和信息化部了解到，今天（11月16日），《以标准提升引领轻工业优化升级实施方案》正式发布，从立足标准化赋能到充分释放标准牵引作用，统筹加快推进轻工业向智能化、绿色化、融合化全面转型。《实施方案》明确分阶段发展目标：到2027年，轻工业标准化工作机制进一步完善，计划制修订产品标准、方法标准等200项左右，开展100项左右标准实施情况评估分析和复审，译制轻工标准外文版30项左右，我国牵头制修订的国际轻工标准比例提升至8%左右；到2030年，基本建成全球领先的轻工业标准体系，实现标准供给提质增效，有力引领我国轻工业高质量发展。（央视新闻）",
+        "cover": "",
+        "date": 1794813528906,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "诺基亚等五家公司组建AI超级工厂联盟，拟在北欧和波罗的海地区建设跨国AI基础设施",
+        "url": "https://m.36kr.com/newsflashes/4072100588950659",
+        "desc": "诺基亚、Nscale、Skeleton、Telia和Verda于11月16日宣布组建AI Gigafactory Northern（AIGF Northern）联盟，计划在北欧和波罗的海地区建设分布式AI超级工厂，为欧洲企业、研究机构及公共部门提供大规模AI计算、主权云、高速网络连接和低碳能源服务。（财联社）",
+        "cover": "",
+        "date": 1794813295712,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "途牛：10月底以来，秋假游中跨省出游人次占比超55%",
+        "url": "https://m.36kr.com/newsflashes/4072097591841924",
+        "desc": "36氪获悉，途牛最新预订数据显示，10月底以来，秋假、冰雪、避寒、温泉等主题并行。秋假游中，跨省出游人次占比超55%，携带7至13岁孩子的亲子家庭占比超80%，行程多拉长至4至5天。冰雪游方面，南方用户占比超70%，小团、私家团及“冰雪+温泉”等深度玩法升温。避寒游则以50岁以上客群为主，占比超50%，需求从短途游玩转向一周以上旅居。",
+        "cover": "",
+        "date": 1794813112783,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "巨人网络调整AI实验室组织架构，深化AI与游戏业务融合",
         "url": "https://m.36kr.com/newsflashes/4072096536449927",
         "desc": "巨人网络已调整AI实验室组织架构，相关团队与技术能力整合至公司技术中台。据悉，此次调整旨在进一步将AI技术与游戏业务场景深度结合，公司将继续加大AI战略投入。公司进一步明确，现阶段AI布局的重点在于将前沿技术与自身业务场景、研发经验相结合，集中资源推动研发升级与玩法创新。（界面）",
@@ -937,7 +977,7 @@
         "date": 1794813048367,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 7
       },
       {
         "title": "“途深智合”完成Pre-A及Pre-A+轮数亿元融资，凯乘资本担任长期独家财务顾问",
@@ -947,7 +987,7 @@
         "date": 1794812936276,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 8
       },
       {
         "title": "炎症疾病生物技术公司Rezera推迟在美2亿美元IPO",
@@ -957,7 +997,7 @@
         "date": 1794812850343,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "A股三大指数集体收跌，算力硬件板块下挫",
@@ -967,7 +1007,7 @@
         "date": 1794812523703,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "江苏新智未来产业天使投资基金登记成立，出资额5亿",
@@ -977,7 +1017,7 @@
         "date": 1794811934268,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "沪电股份触及跌停",
@@ -987,7 +1027,7 @@
         "date": 1794811313942,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "韩国今年前10个月新能源汽车出口量超去年全年",
@@ -997,7 +1037,7 @@
         "date": 1794811048507,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "快手旗下北京云掣科技公司增资至32.55亿，增幅约44%",
@@ -1007,7 +1047,7 @@
         "date": 1794810423079,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "华为云发布并开源昇腾原生具身世界模型",
@@ -1017,7 +1057,7 @@
         "date": 1794810178645,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "腾远钴业旗下赣州新材料公司增资至5亿，增幅约67%",
@@ -1027,7 +1067,7 @@
         "date": 1794809636459,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "创业板指跌超4%",
@@ -1037,7 +1077,7 @@
         "date": 1794809187763,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "亨通光电等在苏州成立股权投资基金，出资额2亿",
@@ -1047,7 +1087,7 @@
         "date": 1794809128144,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "科创50午后跌幅扩大至5%",
@@ -1057,7 +1097,7 @@
         "date": 1794808630292,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "瑞银预测金价将在2027年第四季度触及每盎司5000美元",
@@ -1067,7 +1107,7 @@
         "date": 1794807965689,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "沪深两市成交额突破1万亿",
@@ -1077,7 +1117,7 @@
         "date": 1794807224026,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "CPO概念持续走弱，中际旭创跌近10%创年内新低",
@@ -1087,55 +1127,15 @@
         "date": 1794807150786,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "腾讯混元Hy4 flash发布，任务速度大幅提升",
-        "url": "https://m.36kr.com/newsflashes/4071987913610116",
-        "desc": "36氪获悉，11月16日，腾讯混元最新语言模型Hy4 flash发布，模型总参数量为224B（其中64B Engram参数），激活参数仅为12B，支持多模态和1M上下文长度。Hy4 flash每百万Token输入0.5元、输出2元，命中缓存时仅需0.02元，价格相比Hy4大幅降低。",
-        "cover": "",
-        "date": 1794806418555,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "丰田汽车将于12月启动劳资薪资谈判",
-        "url": "https://m.36kr.com/newsflashes/4071979732226953",
-        "desc": "据媒体援引一位知情人士的消息报道，丰田汽车将提前至12月与工会启动薪资谈判，这早于其通常在2月进行的常规谈判。管理层与工会将利用额外的时间来审视这家汽车制造商所面临的商业环境，工会在2月正式提出加薪诉求时也将把该因素纳入考量。（新浪财经）",
-        "cover": "",
-        "date": 1794805919203,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "美国航班取消量超1.7万架次，创下最严重技术故障纪录",
-        "url": "https://m.36kr.com/newsflashes/4071945301283969",
-        "desc": "据旅行应用程序Flighty称，周末美国发生的航空交通瘫痪事件，是35年来因技术问题导致航班取消数量最多的一次，超过了西南航空2022年的系统崩溃事件。据Flighty和Cirium等航空数据提供商称，周五长达四小时的全国性停飞令波及了美国所有航空公司，截至周日，航班取消数量已超过1.7万架次。这一数字超过了2022年冬季假期期间因西南航空技术故障导致的16900架次航班取消纪录。（新浪财经）",
-        "cover": "",
-        "date": 1794805313000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "小马智行与丰田合作的第七代铂智4X Robotaxi启动示范运营",
-        "url": "https://m.36kr.com/newsflashes/4071936425153413",
-        "desc": "36氪获悉，11月16日，小马智行与丰田合作研发并量产的第七代铂智4X Robotaxi在广州正式投入示范运营，面向公众开放L4级自动驾驶服务，成为双方七年自动驾驶合作的重要里程碑。该车搭载小马智行第七代车规级自动驾驶系统，采用丰田面向L4级自动驾驶设计的车辆平台与冗余化控制系统，可应对暴雨、夜间、拥堵等复杂场景。",
-        "cover": "",
-        "date": 1794804828000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794813066613,
-    "bilibili": 1794813075491,
-    "qbitai": 1794784294589,
-    "36kr": 1794784294999
+    "thepaper": 1794813968749,
+    "bilibili": 1794813977491,
+    "qbitai": 1794785195447,
+    "36kr": 1794785195793
   },
   "failures": {}
 }
