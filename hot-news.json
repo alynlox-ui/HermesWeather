@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T01:11:34Z",
+  "updatedAt": "2026-11-16T01:26:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -334,19 +334,19 @@
         "hotTitle": "Viper赛后感谢妈妈和On"
       },
       {
-        "title": "【花礼】我不能游戏区给我涨十几万粉、播完S赛扭头就走；游戏区对我有恩啊",
-        "url": "https://www.bilibili.com/video/BV19FsJ63EXh",
+        "title": "拳头真all in了！ 2027先锋赛，规模超越S赛！仅此一届！",
+        "url": "https://www.bilibili.com/video/BV1FPWy6QE4P",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "一键三连谢谢哞！ 关注花礼谢哞！ 花礼主页：https://space.bilibili.com/1048135385",
-        "content": "一键三连谢谢哞！ 关注花礼谢哞！ 花礼主页：https://space.bilibili.com/1048135385",
-        "bvid": "BV19FsJ63EXh",
-        "author": "战略忽悠局对外宣传一处处长",
-        "duration": "2:37",
-        "cover": "//i1.hdslb.com/bfs/archive/5428de1ceabc37be102cc2abb40727d5d5f150f9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19FsJ63EXh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1FPWy6QE4P",
+        "author": "有一点电竞",
+        "duration": "0:42",
+        "cover": "//i2.hdslb.com/bfs/archive/d97015b306269c3cab9617cda31cfb719e7987d1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FPWy6QE4P&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "米勒给今年的S赛打100分"
       },
       {
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "瑞晟智能：拟定增募资不超9600万元，用于智能物流搬运机器人及系统产业化项目",
+        "url": "https://m.36kr.com/newsflashes/4072228587295618",
+        "desc": "36氪获悉，瑞晟智能公告，公司拟以简易程序向特定对象发行股票募资不超过9600万元，扣除相关发行费用后用于智能物流搬运机器人及系统产业化项目。",
+        "cover": "",
+        "date": 1794821108111,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "中国东航：10月旅客周转量同比上升3.87%",
+        "url": "https://m.36kr.com/newsflashes/4072225169167240",
+        "desc": "36氪获悉，中国东航公告，公司2026年10月客运运力投入（按可用座公里计）同比上升2.45%；旅客周转量（按客运人公里计）同比上升3.87%；客座率为88.74%，同比上升1.22个百分点；货邮周转量（按货邮载运吨公里计）同比上升2.96%。",
+        "cover": "",
+        "date": 1794820899485,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "中国国航：10月旅客周转量同比下降0.2%",
+        "url": "https://m.36kr.com/newsflashes/4072218144019329",
+        "desc": "36氪获悉，中国国航公告，2026年10月，公司及所属子公司合并客运运力投入同比下降2.2%，旅客周转量同比下降0.2%。平均客座率87.0%，同比上升1.7个百分点。",
+        "cover": "",
+        "date": 1794820470704,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "工信部：对应付账款规模大、故意拉长账期或投诉较多的汽车企业，工业和信息化部将联合相关部门开展约谈并督促整改",
         "url": "https://m.36kr.com/newsflashes/4072212582126467",
         "desc": "36氪获悉，工业和信息化部相关负责人就《关于开展汽车企业供应商账款支付调研评估工作的通知》作出回应。这位负责人说，按照要求，工业和信息化部将每年开展一次系统调研评估并公布评估结果，晒晒“成绩单”，鼓励先进典型，督促后进整改，推动塑造良好产业生态。对应付账款规模大、故意拉长账期或投诉较多的汽车企业，工业和信息化部将联合相关部门开展约谈并督促整改。希望通过上述举措，充分激发各方的积极性，共促产业高质量发展，不断提升产业链供应链韧性和安全水平，加快构建公平公正、诚实守信、互利共赢产业生态。",
@@ -937,7 +967,7 @@
         "date": 1794820131233,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "爱奇艺：第三季度总收入60.1亿元，Non-GAAP运营利润2500万元",
@@ -947,7 +977,7 @@
         "date": 1794820034227,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "百度：第三季度营收308亿元，AI云基础设施收入同比增长94%",
@@ -957,7 +987,7 @@
         "date": 1794819811470,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "吉祥航空：10月旅客周转量同比上升10.03%",
@@ -967,7 +997,7 @@
         "date": 1794819587822,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "华兴源创：拟1500万元—3000万元回购股份",
@@ -977,7 +1007,7 @@
         "date": 1794819130919,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "大麦娱乐：因专注发展个人事业，樊路远辞任董事会主席及首席执行官",
@@ -987,7 +1017,7 @@
         "date": 1794818863857,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "白云山：子公司拟3.5亿港元认缴亚洲大健康基金有限合伙份额",
@@ -997,7 +1027,7 @@
         "date": 1794818571884,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "顶固集创独家战投企业星途氦能关键进展：国内首个全驱控制商业月球探测器“星途一号”总体方案通过评审，2028年底拟发射",
@@ -1007,7 +1037,7 @@
         "date": 1794818022656,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "调查显示欧元区第四季度通胀率预计将升至4%",
@@ -1017,7 +1047,7 @@
         "date": 1794817951530,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "财政部决定开展2026年11月份国债做市支持操作",
@@ -1027,7 +1057,7 @@
         "date": 1794817880389,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "创维数字旗下惠州技术公司增资至14.2亿，增幅约18%",
@@ -1037,7 +1067,7 @@
         "date": 1794817776608,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "建投能源增资至20.3亿，增幅约13%",
@@ -1047,7 +1077,7 @@
         "date": 1794816939470,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "恒指收涨0.49%，恒生科技指数跌0.3%",
@@ -1057,7 +1087,7 @@
         "date": 1794816647267,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "南向资金净卖出额达40亿港元",
@@ -1067,7 +1097,7 @@
         "date": 1794816030759,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "四只香港ETF将于12月在马来西亚互挂上市",
@@ -1077,7 +1107,7 @@
         "date": 1794815824805,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "金饰克价较年内高点跌去530元",
@@ -1087,7 +1117,7 @@
         "date": 1794815509747,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "津药药业：盐酸苯海拉明化学原料药上市申请获批准",
@@ -1097,45 +1127,15 @@
         "date": 1794815397542,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "南京证券：副总裁张兴旭离任",
-        "url": "https://m.36kr.com/newsflashes/4072131210744964",
-        "desc": "36氪获悉，南京证券公告，张兴旭因工作调动不再担任公司副总裁职务，其离任后不在公司及子公司任职。",
-        "cover": "",
-        "date": 1794815164718,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "力拓将出资2.5亿美元设立基金，处理巴布亚新几内亚潘古纳矿相关问题",
-        "url": "https://m.36kr.com/newsflashes/4072123354240128",
-        "desc": "11月16日，力拓、布干维尔铜业有限公司（BCL）及布干维尔自治区政府（ABG）与当地社区代表达成协议，将共同设立基金，用于处理潘古纳矿历史遗留影响。力拓将自愿出资2.5亿美元，用于支持环境修复及社区社会项目，具体资金用途将与当地社区协商确定。（界面）",
-        "cover": "",
-        "date": 1794814685195,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "2026年APEC工商界活动形成14份成果文件",
-        "url": "https://m.36kr.com/newsflashes/4072122150081408",
-        "desc": "在16日举行的2026年亚太经合组织工商咨询理事会（ABAC）第四次会议新闻发布会上，2026年ABAC主席、中国中化集团董事长李凡荣说，今年四次会议先后在雅加达、墨西哥城、曼谷和深圳举行，形成致领导人信函、政策建议报告等共14份成果文件，其中ABAC《关于支持亚太自贸区的声明》和《关于支持互联互通的声明》受到各方高度关注，为领导人非正式会议贡献了高含金量的工商界成果。（央视新闻）",
-        "cover": "",
-        "date": 1794814611699,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794820265542,
-    "bilibili": 1794820275118,
-    "qbitai": 1794791493953,
-    "36kr": 1794791494346
+    "thepaper": 1794821166187,
+    "bilibili": 1794819717571,
+    "qbitai": 1794792393647,
+    "36kr": 1794792394045
   },
   "failures": {}
 }
