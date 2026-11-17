@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T06:57:30Z",
+  "updatedAt": "2026-11-17T07:11:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -174,10 +174,20 @@
         "hotTitle": "BLG夺冠赛事语音"
       },
       {
-        "title": "国足2-2巴林",
-        "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B32-2%E5%B7%B4%E6%9E%97",
+        "title": "连扳两球！国足2-2巴林，拜合拉木头球破门，王钰栋个人能力造点，张玉宁点射扳平比分",
+        "url": "https://www.bilibili.com/video/BV1E3sr6VEjY",
         "desc": "",
-        "rank": 4
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1E3sr6VEjY",
+        "author": "中国足球日志",
+        "duration": "3:11",
+        "cover": "//i1.hdslb.com/bfs/archive/5d1a462ac7feb5b3d94ad2786249eaa604b509ef.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1E3sr6VEjY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "国足2-2巴林"
       },
       {
         "title": "留学用的成绩单如何翻译？",
@@ -244,10 +254,20 @@
         "hotTitle": "白小纯青稚各有哪些痛点"
       },
       {
-        "title": "解说逐局回看BLG夺冠之路",
-        "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E9%80%90%E5%B1%80%E5%9B%9E%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF",
+        "title": "这就是我等待了一生的巨浪！BLG夺冠再锐评！说点心里话！雷鸟你到底看到了多远的未来！",
+        "url": "https://www.bilibili.com/video/BV1LVsz6PEru",
         "desc": "",
-        "rank": 9
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "求求你给个3连吧！",
+        "content": "求求你给个3连吧！",
+        "bvid": "BV1LVsz6PEru",
+        "author": "喵仙人ovo",
+        "duration": "16:4",
+        "cover": "//i0.hdslb.com/bfs/archive/2558ec0da2c90bc2553a8161e7ce296420747888.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LVsz6PEru&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "解说逐局回看BLG夺冠之路"
       },
       {
         "title": "7天大会员怎么看不浪费？",
@@ -282,10 +302,20 @@
         "hotTitle": "U19国足熊猫杯夺冠"
       },
       {
-        "title": "根本没有这样的长尾夹",
-        "url": "https://search.bilibili.com/all?keyword=%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E9%95%BF%E5%B0%BE%E5%A4%B9",
+        "title": "根本没有这样的夹子",
+        "url": "https://www.bilibili.com/video/BV12oWi6VEz7",
         "desc": "",
-        "rank": 12
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV12oWi6VEz7",
+        "author": "机夹小翔",
+        "duration": "1:10",
+        "cover": "//i2.hdslb.com/bfs/archive/893b483d60ce6eaa63d85a145981b79cb9dea43b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12oWi6VEz7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "根本没有这样的长尾夹"
       },
       {
         "title": "物理意义上湿答答的一集 | 骑有此理环海南岛篇EP02",
@@ -1102,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794927363985,
+    "thepaper": 1794928264174,
     "bilibili": 1794926745784,
-    "qbitai": 1794898650569,
-    "36kr": 1794898650907
+    "qbitai": 1794899494652,
+    "36kr": 1794899494985
   },
   "failures": {}
 }
