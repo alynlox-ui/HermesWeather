@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T05:11:39Z",
+  "updatedAt": "2026-11-17T05:26:31Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -382,19 +382,19 @@
         "hotTitle": "根本没有这样的长尾夹"
       },
       {
-        "title": "到云南了咸鱼梦想家vlog",
-        "url": "https://www.bilibili.com/video/BV1qvYt6ZEzT",
+        "title": "拉货路上捡到两只小狗，怎么办啊？",
+        "url": "https://www.bilibili.com/video/BV18usJ6NEw3",
         "desc": "",
         "rank": 17,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1qvYt6ZEzT",
-        "author": "阿__风",
-        "duration": "28:40",
-        "cover": "//i1.hdslb.com/bfs/archive/d1de2459d0675999fec632c51a967eff904c7dff.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qvYt6ZEzT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV18usJ6NEw3",
+        "author": "咸鱼梦想家vlog",
+        "duration": "6:9",
+        "cover": "//i2.hdslb.com/bfs/archive/94b4c311d4e4adc964e81c8d60dfda25160966d7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18usJ6NEw3&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "咸鱼梦想家拉货路上捡到狗"
       },
       {
@@ -910,21 +910,21 @@
     ],
     "36kr": [
       {
-        "title": "三大厂内存涨价7倍的锅，AI不背了",
-        "url": "https://m.36kr.com/p/4073691017499523",
+        "title": "好未来的「生死反转」：优化员工，买入智谱",
+        "url": "https://m.36kr.com/p/4073822871147394",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261117/v2_5155e883eba842329d90b7b55877bcd9@000000@ai_oswg893588oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1794911547545,
+        "cover": "https://img.36krcdn.com/hsossms/20261117/v2_c04eb618515848feb1cbcda54ae486d0@000000_oswg47219oswg900oswg382_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
+        "date": 1794921219444,
         "platform": "36kr",
         "kind": "article",
         "rank": 1
       },
       {
-        "title": "AI正在杀死游戏行业吗？| 游戏风向标",
-        "url": "https://m.36kr.com/p/4073486195332226",
+        "title": "三大厂内存涨价7倍的锅，AI不背了",
+        "url": "https://m.36kr.com/p/4073691017499523",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261117/v2_dbdb1788c4e14d95bffde025bc75db20@000000_oswg182830oswg1280oswg546_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
-        "date": 1794906422184,
+        "cover": "https://img.36krcdn.com/hsossms/20261117/v2_5155e883eba842329d90b7b55877bcd9@000000@ai_oswg893588oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1794911547545,
         "platform": "36kr",
         "kind": "article",
         "rank": 2
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794921064538,
+    "thepaper": 1794921964681,
     "bilibili": 1794920307782,
-    "qbitai": 1794892298881,
-    "36kr": 1794892299431
+    "qbitai": 1794893191488,
+    "36kr": 1794893191901
   },
   "failures": {}
 }
