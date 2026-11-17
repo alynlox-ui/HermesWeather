@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T04:44:05Z",
-  "liveSourceCount": 1,
+  "updatedAt": "2026-11-17T04:56:35Z",
+  "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
@@ -28,26 +28,26 @@
         "rank": 4
       },
       {
-        "title": "分析｜怎么看10月消费、投资数据有所波动？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34490327",
-        "desc": "",
-        "rank": 5
-      },
-      {
         "title": "作家余华、程永新与《巴黎评论》副主编对谈：中国作家如何被世界看见",
         "url": "https://www.thepaper.cn/newsDetail_forward_34490477",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "网络招聘帖假招聘、真卖课？记者实测被推荐先买课，12家单位均称是虚假招聘信息",
         "url": "https://www.thepaper.cn/newsDetail_forward_34490252",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "冷门“顶流”｜研究满语40年，一位七旬学者的紧迫感",
         "url": "https://www.thepaper.cn/newsDetail_forward_34490375",
+        "desc": "",
+        "rank": 7
+      },
+      {
+        "title": "澎湃回声｜唐山涉嫌“虚假住院骗保”医院被取消工伤定点资格，省级监管部门已参与调查",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34489900",
         "desc": "",
         "rank": 8
       },
@@ -58,68 +58,68 @@
         "rank": 9
       },
       {
-        "title": "澎湃回声｜唐山涉嫌“虚假住院骗保”医院被取消工伤定点资格，省级监管部门已参与调查",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34489900",
-        "desc": "",
-        "rank": 10
-      },
-      {
         "title": "张升民人民日报撰文：保持惩治腐败高压态势",
         "url": "https://www.thepaper.cn/newsDetail_forward_34491101",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "结婚9年3个孩子非亲生！男子索赔，法院一审判女方赔偿55.75万",
         "url": "https://www.thepaper.cn/newsDetail_forward_34491998",
         "desc": "",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "人民锐评：“维修刺客”背后，是变了味的“业绩考核”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34490382",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "余华：英语编辑熟悉的中国作家不超过5个",
         "url": "https://www.thepaper.cn/newsDetail_forward_34491303",
         "desc": "",
-        "rank": 14
-      },
-      {
-        "title": "浙江一企业在厕所设置信号屏蔽器防员工上班时刷手机，被罚",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34490365",
-        "desc": "",
-        "rank": 15
+        "rank": 13
       },
       {
         "title": "蝙蝠侠出演007，安全但太没新意了",
         "url": "https://www.thepaper.cn/newsDetail_forward_34491192",
         "desc": "",
-        "rank": 16
+        "rank": 14
       },
       {
         "title": "年内回撤30%！现货黄金价格创逾一年新低，为何跌跌不休？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34490446",
         "desc": "",
-        "rank": 17
+        "rank": 15
       },
       {
         "title": "11月旅游“淡季”变“旺季”：冰雪亲子研学游需求预计增长30%以上",
         "url": "https://www.thepaper.cn/newsDetail_forward_34490431",
         "desc": "",
-        "rank": 18
+        "rank": 16
       },
       {
         "title": "官宣了！罗伯特・帕丁森成为新一任007",
         "url": "https://www.thepaper.cn/newsDetail_forward_34490635",
         "desc": "",
-        "rank": 19
+        "rank": 17
       },
       {
         "title": "360回应“市场部负责人被查”：发现该员工涉嫌经济问题，已向公安机关报案，正在调查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34491576",
+        "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "地标是如何炼成的｜黄鹤楼：不仅在诗词里，更在生活日常中",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34490224",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "TOP500、HPCG双榜第一！国家超级计算深圳中心“灵晟”蝉联全球超算榜首",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34491261",
         "desc": "",
         "rank": 20
       }
@@ -142,42 +142,26 @@
         "hotTitle": "外交部谈中俄美元首会晤"
       },
       {
-        "title": "【大国外交最前线】相约深圳！APEC伙伴提前见",
-        "url": "https://www.bilibili.com/video/BV1srsu6YEM9",
+        "title": "Xun得知GEN被自己打解散当场愣住：真的假的？",
+        "url": "https://www.bilibili.com/video/BV1WTs36eEVZ",
         "desc": "",
         "rank": 2,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1srsu6YEM9",
-        "author": "央视新闻",
-        "duration": "2:47",
-        "cover": "//i1.hdslb.com/bfs/archive/cd7ed0d7b43a1d0eda4a45ec2f2bdc4b14558e7e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1srsu6YEM9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "多国元首相聚APEC"
-      },
-      {
-        "title": "这就是我等待了一生的巨浪！BLG夺冠再锐评！说点心里话！雷鸟你到底看到了多远的未来！",
-        "url": "https://www.bilibili.com/video/BV1LVsz6PEru",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "求求你给个3连吧！",
-        "content": "求求你给个3连吧！",
-        "bvid": "BV1LVsz6PEru",
-        "author": "喵仙人ovo",
-        "duration": "16:4",
-        "cover": "//i0.hdslb.com/bfs/archive/2558ec0da2c90bc2553a8161e7ce296420747888.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LVsz6PEru&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "解说逐局回看BLG夺冠之路"
+        "description": "Xun直播间：https://live.bilibili.com/26808302 大家点赞收藏三连，欢迎加入BBQ粉丝群197463898，偶尔不定时掉落小惊喜哦！",
+        "content": "Xun直播间：https://live.bilibili.com/26808302 大家点赞收藏三连，欢迎加入BBQ粉丝群197463898，偶尔不定时掉落小惊喜哦！",
+        "bvid": "BV1WTs36eEVZ",
+        "author": "游戏BBQ",
+        "duration": "0:42",
+        "cover": "//i1.hdslb.com/bfs/archive/1c16741ffdb38b834acc8b3d97525e4520d3602d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WTs36eEVZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Xun回应GEN四人离队"
       },
       {
         "title": "3分钟看懂：APEC与你我有什么关系？",
         "url": "https://www.bilibili.com/video/BV1YTsH65Ej7",
         "desc": "",
-        "rank": 4,
+        "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "SourceURL:file:///home/wjb/Desktop/APEC短视频/高清英文版.docx APEC深圳会议马上就要拉开帷幕了。 这个国际大会，跟我们老百姓有什么关系吗？ 其实它离我们一点都不远。 牛奶、车厘子、榴莲、护肤品、羊绒衫……你购物车里的各国好物，背后或许都有APEC的影子。还有农户手里的海外订单、工厂里的工作岗位、方便的跨境出行，也跟它有关。 亚太合作看着宏大，其实早就悄悄融入大家每一天的生活里。 我们专门做了这条3分钟短视频，有空可以看看哈。",
@@ -188,6 +172,22 @@
         "cover": "//i0.hdslb.com/bfs/archive/b0bd32b1f70e651c13afc30489ddd0f91b744dc1.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YTsH65Ej7&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "3分钟看懂APEC与你我的关系"
+      },
+      {
+        "title": "【万字精读】B站大肥鱼泛滥：纸片人，到底是不是人？",
+        "url": "https://www.bilibili.com/video/BV1Svs36LEdr",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Svs36LEdr",
+        "author": "唯一讲述者",
+        "duration": "36:7",
+        "cover": "//i1.hdslb.com/bfs/archive/cdc9e8713bf402d4cd064878d333a03feaa3bdc7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Svs36LEdr&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "拟人化的大肥鱼为何受欢迎"
       },
       {
         "title": "BLG夺冠米勒记得泪洒解说席：我们做到了！我们是冠军！",
@@ -238,26 +238,42 @@
         "hotTitle": "Bin 冠军皮肤选什么好"
       },
       {
-        "title": "Xun得知GEN被自己打解散当场愣住：真的假的？",
-        "url": "https://www.bilibili.com/video/BV1WTs36eEVZ",
+        "title": "这就是我等待了一生的巨浪！BLG夺冠再锐评！说点心里话！雷鸟你到底看到了多远的未来！",
+        "url": "https://www.bilibili.com/video/BV1LVsz6PEru",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "Xun直播间：https://live.bilibili.com/26808302 大家点赞收藏三连，欢迎加入BBQ粉丝群197463898，偶尔不定时掉落小惊喜哦！",
-        "content": "Xun直播间：https://live.bilibili.com/26808302 大家点赞收藏三连，欢迎加入BBQ粉丝群197463898，偶尔不定时掉落小惊喜哦！",
-        "bvid": "BV1WTs36eEVZ",
-        "author": "游戏BBQ",
-        "duration": "0:42",
-        "cover": "//i1.hdslb.com/bfs/archive/1c16741ffdb38b834acc8b3d97525e4520d3602d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WTs36eEVZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Xun回应GEN四人离队"
+        "description": "求求你给个3连吧！",
+        "content": "求求你给个3连吧！",
+        "bvid": "BV1LVsz6PEru",
+        "author": "喵仙人ovo",
+        "duration": "16:4",
+        "cover": "//i0.hdslb.com/bfs/archive/2558ec0da2c90bc2553a8161e7ce296420747888.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LVsz6PEru&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "解说逐局回看BLG夺冠之路"
+      },
+      {
+        "title": "马斯克确认：将前往中国",
+        "url": "https://www.bilibili.com/video/BV1u4sz6xEYX",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1u4sz6xEYX",
+        "author": "环球网",
+        "duration": "0:10",
+        "cover": "//i2.hdslb.com/bfs/archive/146576140209b971a73b8922c908e94efca44b3c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1u4sz6xEYX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "马斯克确认将前往中国"
       },
       {
         "title": "从此，一切都不一样了：星舰被筷子接住，到底改变了什么？｜言选科普",
         "url": "https://www.bilibili.com/video/BV1oysA6KE32",
         "desc": "",
-        "rank": 9,
+        "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "「We caught a Starship. And now everything changes.」 2026 年 11 月 14 日，星舰的飞船 S42 绕地球 14 圈、在太空待了 22 个半小时以后，飞回德州星际基地，被发射塔的两根机械臂——SpaceX 叫它「筷子」——在半空中一把接住。这是人类第一次接住从太空飞回来的飞船。 这支视频讲三件事： 去一次太空，为什么这么贵？从土星五号、航天飞机到猎鹰 9 号 2. 星舰为什么不装脚，而要让发射塔用筷子接？ 3. 两截都接得住以后，什么变了，接下来",
@@ -270,42 +286,42 @@
         "hotTitle": "星舰实现筷子回收改变了什么"
       },
       {
-        "title": "夺冠之后全队小采访堂堂来袭",
-        "url": "https://www.bilibili.com/video/BV1k6sz61Eqr",
-        "desc": "",
-        "rank": 10,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1k6sz61Eqr",
-        "author": "夏安与秋",
-        "duration": "3:37",
-        "cover": "//i2.hdslb.com/bfs/archive/9d867c362667ce965f1d6a05dfdd2d72fa700c77.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1k6sz61Eqr&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG夺冠后Bin哭了"
-      },
-      {
-        "title": "「数码编年史」大国崛起·中国手机品牌如何一步一步走向世界？",
-        "url": "https://www.bilibili.com/video/BV1wDs36NE2o",
+        "title": "开局王炸、细节拉满？剧版《哈利·波特》全新开学晚宴片段解析！",
+        "url": "https://www.bilibili.com/video/BV15asP6NEh4",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "「数码编年史」大国崛起·中国手机品牌如何一步一步走向世界？ *科技美学自制内容 无任何商务推广",
-        "content": "「数码编年史」大国崛起·中国手机品牌如何一步一步走向世界？ *科技美学自制内容 无任何商务推广",
-        "bvid": "BV1wDs36NE2o",
-        "author": "科技美学",
-        "duration": "32:25",
-        "cover": "//i0.hdslb.com/bfs/archive/786749c8ffb91c06815841ea2049818cccfdf74c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wDs36NE2o&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中国手机品牌如何走向世界的"
+        "description": "11月15日 剧版哈利·波特放出了全新的开学晚宴片段 今天我们就来逐段拆解 这段视频里忠于原著的细节 以及值得讨论的改编设计",
+        "content": "11月15日 剧版哈利·波特放出了全新的开学晚宴片段 今天我们就来逐段拆解 这段视频里忠于原著的细节 以及值得讨论的改编设计",
+        "bvid": "BV15asP6NEh4",
+        "author": "拖菲",
+        "duration": "7:22",
+        "cover": "//i0.hdslb.com/bfs/archive/1dcf39599b67f2abdfdfcf3d845b85f4464ef039.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15asP6NEh4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "哈利波特剧版开局即王炸吗"
+      },
+      {
+        "title": "【世界纪录】45分27秒通关泰拉瑞亚！运气与实力的完美绑定！",
+        "url": "https://www.bilibili.com/video/BV1Gfsz6YEfZ",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "R3c0rdMak3r 下播前的最后一把发力了 四柱新路线，依旧肾上腺素拉满 紫药也发力了，教徒能再快点就好了，星云的空岛也很难受",
+        "content": "R3c0rdMak3r 下播前的最后一把发力了 四柱新路线，依旧肾上腺素拉满 紫药也发力了，教徒能再快点就好了，星云的空岛也很难受",
+        "bvid": "BV1Gfsz6YEfZ",
+        "author": "Sn0wMak3r",
+        "duration": "46:37",
+        "cover": "//i0.hdslb.com/bfs/archive/c5a5a48623a021566eed0acfd95dcee7cba5aadb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Gfsz6YEfZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国玩家破纪录速通泰拉瑞亚"
       },
       {
         "title": "C罗国家队全景纪录片 孤勇者",
         "url": "https://www.bilibili.com/video/BV1y3sP6mE9j",
         "desc": "",
-        "rank": 12,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -318,26 +334,26 @@
         "hotTitle": "天下足球回顾C罗国家队生涯"
       },
       {
-        "title": "这才是真正的吃商高！",
-        "url": "https://www.bilibili.com/video/BV1B1sN65E1Y",
+        "title": "拉货路上捡到两只小狗，怎么办啊？",
+        "url": "https://www.bilibili.com/video/BV18usJ6NEw3",
         "desc": "",
-        "rank": 13,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "原视频dy@UU",
-        "content": "原视频dy@UU",
-        "bvid": "BV1B1sN65E1Y",
-        "author": "华南有志弹涂鱼",
-        "duration": "2:1",
-        "cover": "//i1.hdslb.com/bfs/archive/15f133c0a1e262b029144828fdad2fbd09d1ea44.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1B1sN65E1Y&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "老吃家才能懂的猪刨花拌面"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV18usJ6NEw3",
+        "author": "咸鱼梦想家vlog",
+        "duration": "6:9",
+        "cover": "//i2.hdslb.com/bfs/archive/94b4c311d4e4adc964e81c8d60dfda25160966d7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18usJ6NEw3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "咸鱼梦想家拉货路上捡到狗"
       },
       {
         "title": "2026最佳科幻片！56万人打高分，票房45亿！你永远可以相信观众眼光【科幻Fans 布玛】电影《挽救计划》",
         "url": "https://www.bilibili.com/video/BV1zJsP6GEkL",
         "desc": "",
-        "rank": 14,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "科幻Fans 电影《挽救计划》",
@@ -350,58 +366,10 @@
         "hotTitle": "电影挽救计划为何口碑票房双爆"
       },
       {
-        "title": "根本没有这样的夹子",
-        "url": "https://www.bilibili.com/video/BV12oWi6VEz7",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV12oWi6VEz7",
-        "author": "机夹小翔",
-        "duration": "1:10",
-        "cover": "//i2.hdslb.com/bfs/archive/893b483d60ce6eaa63d85a145981b79cb9dea43b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV12oWi6VEz7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "根本没有这样的长尾夹"
-      },
-      {
-        "title": "接人事变时间线bug?网友找到飞雪预告里的本子？白小纯青稚餐桌吵架后续!【后会友期第五期03】",
-        "url": "https://www.bilibili.com/video/BV1BqsH69EuV",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这一期补一些还没有讲到的第五期节目内容～以及在剪视频的时候发现一些接人事件小Bug，一起讨论一下！",
-        "content": "这一期补一些还没有讲到的第五期节目内容～以及在剪视频的时候发现一些接人事件小Bug，一起讨论一下！",
-        "bvid": "BV1BqsH69EuV",
-        "author": "T酱哟",
-        "duration": "23:36",
-        "cover": "//i2.hdslb.com/bfs/archive/c14eea8f56a306988723acd141338f5d27a55468.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BqsH69EuV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "网友找到了许飞厉娜写的本子"
-      },
-      {
-        "title": "《美队全家福VS灭霸全家福》灭霸的爸爸叫灭建国！",
-        "url": "https://www.bilibili.com/video/BV1bzsV6nEM6",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《美队全家福VS灭霸全家福》灭霸的爸爸叫灭建国！ 音频：DJ铁柱、阿主 最强信息位 你们太过分了 我不跟你们玩了 攻防转换 钢志强 蜘秀英 奇博的爸爸奇卫兵 你们被艾特的都是扎啤 火箭浣熊 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
-        "content": "《美队全家福VS灭霸全家福》灭霸的爸爸叫灭建国！ 音频：DJ铁柱、阿主 最强信息位 你们太过分了 我不跟你们玩了 攻防转换 钢志强 蜘秀英 奇博的爸爸奇卫兵 你们被艾特的都是扎啤 火箭浣熊 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
-        "bvid": "BV1bzsV6nEM6",
-        "author": "音乐老友",
-        "duration": "3:7",
-        "cover": "//i2.hdslb.com/bfs/archive/6a8dfe091f57fdfcbbbef34588a8d09f02b53b8c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bzsV6nEM6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "复联全家福vs灭霸全家福"
-      },
-      {
         "title": "从吸血鬼到007，帕丁森凭什么赢了这场选角大战？复盘5年选角风波！",
         "url": "https://www.bilibili.com/video/BV1HKsu64EeV",
         "desc": "",
-        "rank": 18,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "啥都不说了！先让我们恭喜这位小伙儿！趁着新007人选刚刚揭晓，咱们赶紧来复盘一下，这场持续了整整五年的选角风波，看看帕丁森究竟是怎么赢下这个角色的！",
@@ -414,10 +382,58 @@
         "hotTitle": "新任007为何是帕丁森"
       },
       {
+        "title": "【卜劳恩《父与子》/非凡父爱】“如果没有那一场残酷的战争，父与子的结局或许会是这样……”",
+        "url": "https://www.bilibili.com/video/BV1Zos36FEZz",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "觉得风格很搭就做了 参考自X的antrofrog的AI生成作品《No Ordinary Love-非凡之爱》 本视频是非凡之爱的渲染大赛二创，不是自己单独做的画面",
+        "content": "觉得风格很搭就做了 参考自X的antrofrog的AI生成作品《No Ordinary Love-非凡之爱》 本视频是非凡之爱的渲染大赛二创，不是自己单独做的画面",
+        "bvid": "BV1Zos36FEZz",
+        "author": "绿化锂",
+        "duration": "1:1",
+        "cover": "//i0.hdslb.com/bfs/archive/a5233624f6ae34ec7c248fe19a6d78d38809f9fe.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Zos36FEZz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "非凡之爱演绎经典漫画父与子"
+      },
+      {
+        "title": "【白给梗科普】根本没有这样的xx是什么梗？",
+        "url": "https://www.bilibili.com/video/BV1KhaE62EGz",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "*本视频仅作为了解该梗的辅助，不能仅靠该视频作为对该梗的全面了解，真正深入了解可以观看原出处以及更多方面~",
+        "content": "*本视频仅作为了解该梗的辅助，不能仅靠该视频作为对该梗的全面了解，真正深入了解可以观看原出处以及更多方面~",
+        "bvid": "BV1KhaE62EGz",
+        "author": "baigei梗科普",
+        "duration": "2:45",
+        "cover": "//i2.hdslb.com/bfs/archive/6a65fba5b54dd4e1b18d2a7a701638ceca6d2d78.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KhaE62EGz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "根本没有这样的长尾夹"
+      },
+      {
+        "title": "这才是真正的吃商高！",
+        "url": "https://www.bilibili.com/video/BV1B1sN65E1Y",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "原视频dy@UU",
+        "content": "原视频dy@UU",
+        "bvid": "BV1B1sN65E1Y",
+        "author": "华南有志弹涂鱼",
+        "duration": "2:1",
+        "cover": "//i1.hdslb.com/bfs/archive/15f133c0a1e262b029144828fdad2fbd09d1ea44.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1B1sN65E1Y&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "老吃家才能懂的猪刨花拌面"
+      },
+      {
         "title": "坐船去大连，差点忘了这是东北",
         "url": "https://www.bilibili.com/video/BV1P3sP6UENP",
         "desc": "",
-        "rank": 19,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "大家看过电视剧《闯关东》吗？今天咱们就一起坐船横跨渤海湾，重走当年闯关东的海上路线。如果你喜欢这期视频，麻烦一键三连和多多转发，这对我们真的很重要，感谢！",
@@ -430,36 +446,20 @@
         "hotTitle": "食贫道闯关东吃饭故事上新"
       },
       {
-        "title": "胰岛素：一场从头错到尾的实验，凭什么拿下诺贝尔奖？",
-        "url": "https://www.bilibili.com/video/BV15asP6NEuw",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "人类史上第一针胰岛素，差点要了一个少年的命。为救瘦成骷髅的糖尿病孩子，落魄军医班廷赌了一把：在动物胰腺里提取能降血糖的物质。可第一针杂质太多，反倒险些害了少年。班廷只得联手生理学家麦克劳德返工提纯，十几天后的第二针，终于让少年重新站了起来。 1923年，诺贝尔生理学或医学奖授予班廷与麦克劳德，表彰二人发现胰岛素，让儿童糖尿病不再是绝症。 参考文献 [1] 朱石生. 大成若缺（医学大神13）：班廷与胰岛素[M/OL]. 新星出版社, 2020. [2] ATKINSON M A, EISENBARTH G",
-        "content": "人类史上第一针胰岛素，差点要了一个少年的命。为救瘦成骷髅的糖尿病孩子，落魄军医班廷赌了一把：在动物胰腺里提取能降血糖的物质。可第一针杂质太多，反倒险些害了少年。班廷只得联手生理学家麦克劳德返工提纯，十几天后的第二针，终于让少年重新站了起来。 1923年，诺贝尔生理学或医学奖授予班廷与麦克劳德，表彰二人发现胰岛素，让儿童糖尿病不再是绝症。 参考文献 [1] 朱石生. 大成若缺（医学大神13）：班廷与胰岛素[M/OL]. 新星出版社, 2020. [2] ATKINSON M A, EISENBARTH G",
-        "bvid": "BV15asP6NEuw",
-        "author": "大圆镜科普",
-        "duration": "7:38",
-        "cover": "//i0.hdslb.com/bfs/archive/9e4fea04f3a854b50d9e5f731b95704d9f3f1626.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15asP6NEuw&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Vibe知识拆解胰岛素实验为何获诺奖"
-      },
-      {
-        "title": "许飞厉娜的时光机！白小纯的笑傲江湖！真人秀节目的真相思考",
-        "url": "https://www.bilibili.com/video/BV1SMsM6KEZG",
+        "title": "物理意义上湿答答的一集 | 骑有此理环海南岛篇EP02",
+        "url": "https://www.bilibili.com/video/BV1tnsA6XEqn",
         "desc": "",
         "rank": 21,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1SMsM6KEZG",
-        "author": "张志浩在剥柚",
-        "duration": "42:47",
-        "cover": "//i2.hdslb.com/bfs/archive/053ccdd526344d05a467d0575f76b32ab5225a7d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SMsM6KEZG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "后会友期 谁在按剧本演戏"
+        "bvid": "BV1tnsA6XEqn",
+        "author": "吴磊LEO",
+        "duration": "30:32",
+        "cover": "//i0.hdslb.com/bfs/archive/d31746d24a64f94e2fb7c7c4feb0e4900459d90f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tnsA6XEqn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "别人看骑行我在吴磊小课堂听课"
       },
       {
         "title": "冠军之队重返巴克莱中心！BLG成员们体验球星卡制作&获赠专属篮网球衣",
@@ -478,90 +478,42 @@
         "hotTitle": "BLG成员获赠专属篮网球衣"
       },
       {
-        "title": "马斯克确认：将前往中国",
-        "url": "https://www.bilibili.com/video/BV1u4sz6xEYX",
+        "title": "冠军降临！2026英雄联盟世界冠军BLG现场观战76人vs篮网比赛",
+        "url": "https://www.bilibili.com/video/BV1bDsM6qEfJ",
         "desc": "",
         "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1u4sz6xEYX",
-        "author": "环球网",
-        "duration": "0:10",
-        "cover": "//i2.hdslb.com/bfs/archive/146576140209b971a73b8922c908e94efca44b3c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1u4sz6xEYX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "马斯克确认将前往中国"
+        "bvid": "BV1bDsM6qEfJ",
+        "author": "NBA",
+        "duration": "0:15",
+        "cover": "//i2.hdslb.com/bfs/archive/d65f243996c10bd2a3f6ff881fd01c06695a2d2e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bDsM6qEfJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG现场观战76人vs篮网"
       },
       {
-        "title": "【卜劳恩《父与子》/非凡父爱】“如果没有那一场残酷的战争，父与子的结局或许会是这样……”",
-        "url": "https://www.bilibili.com/video/BV1Zos36FEZz",
+        "title": "《美队全家福VS灭霸全家福》灭霸的爸爸叫灭建国！",
+        "url": "https://www.bilibili.com/video/BV1bzsV6nEM6",
         "desc": "",
         "rank": 24,
         "kind": "video",
         "platform": "bilibili",
-        "description": "觉得风格很搭就做了 参考自X的antrofrog的AI生成作品《No Ordinary Love-非凡之爱》 本视频是非凡之爱的渲染大赛二创，不是自己单独做的画面",
-        "content": "觉得风格很搭就做了 参考自X的antrofrog的AI生成作品《No Ordinary Love-非凡之爱》 本视频是非凡之爱的渲染大赛二创，不是自己单独做的画面",
-        "bvid": "BV1Zos36FEZz",
-        "author": "绿化锂",
-        "duration": "1:1",
-        "cover": "//i0.hdslb.com/bfs/archive/a5233624f6ae34ec7c248fe19a6d78d38809f9fe.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Zos36FEZz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "非凡之爱演绎经典漫画父与子"
-      },
-      {
-        "title": "这么贵的AirPods Max，为什么街头人手一个？【X.PIN】",
-        "url": "https://www.bilibili.com/video/BV1zEsw6NE5T",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "不想当时尚单品的耳机不是好苹果，苹果在 AirPods Max2 上，卖的到底是什么？",
-        "content": "不想当时尚单品的耳机不是好苹果，苹果在 AirPods Max2 上，卖的到底是什么？",
-        "bvid": "BV1zEsw6NE5T",
-        "author": "差评硬件部",
-        "duration": "8:10",
-        "cover": "//i0.hdslb.com/bfs/archive/914dcef2057febf23ee35af92794b6e52d6d888a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zEsw6NE5T&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "苹果头戴式耳机为什么这么火"
-      },
-      {
-        "title": "看懂《饥饿游戏:收获日出》你必须知道的事！ 48人只活一人！最残忍一界！",
-        "url": "https://www.bilibili.com/video/BV1SNsK68ENb",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "看懂《饥饿游戏:收获日出》你必须知道的事！ 48人只活一人！最残忍一界！",
-        "content": "看懂《饥饿游戏:收获日出》你必须知道的事！ 48人只活一人！最残忍一界！",
-        "bvid": "BV1SNsK68ENb",
-        "author": "大聪看电影",
-        "duration": "22:17",
-        "cover": "//i1.hdslb.com/bfs/archive/5434573c4f9d68ed88859fd99d8387f2f8da5567.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SNsK68ENb&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如何无缝看懂饥饿游戏新作"
-      },
-      {
-        "title": "从夯到拉！锐评四十款2026年发售的精品游戏大作！全网最肝最全的2026年游戏大锐评！",
-        "url": "https://www.bilibili.com/video/BV1JbsJ6HEi5",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "2026年的游戏大锐评给您端上来了！真的燃尽了！ 还是和往年一年，排除了价格，优化等因素，专注于评价游戏内容。 视频无任何形式的广告，只为追求一个最好的观看体验，可放心收藏~ 单机主机游戏交流群：1085661398 群里老资历很多，核心玩家也很多，欢迎热爱各类游戏的玩家一起交流！ ———————————————————————————————————————————————— 往年系列视频： 2025年游戏大锐评：BV18FSJBZEVa 2024年游戏大锐评：BV15UfJBtExM 2023年",
-        "content": "2026年的游戏大锐评给您端上来了！真的燃尽了！ 还是和往年一年，排除了价格，优化等因素，专注于评价游戏内容。 视频无任何形式的广告，只为追求一个最好的观看体验，可放心收藏~ 单机主机游戏交流群：1085661398 群里老资历很多，核心玩家也很多，欢迎热爱各类游戏的玩家一起交流！ ———————————————————————————————————————————————— 往年系列视频： 2025年游戏大锐评：BV18FSJBZEVa 2024年游戏大锐评：BV15UfJBtExM 2023年",
-        "bvid": "BV1JbsJ6HEi5",
-        "author": "星辰的金小条",
-        "duration": "62:33",
-        "cover": "//i2.hdslb.com/bfs/archive/4eb1f090ebf0929eb0a13bb5d24ec0162cc866aa.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JbsJ6HEi5&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "40款2026新游大锐评"
+        "description": "《美队全家福VS灭霸全家福》灭霸的爸爸叫灭建国！ 音频：DJ铁柱、阿主 最强信息位 你们太过分了 我不跟你们玩了 攻防转换 钢志强 蜘秀英 奇博的爸爸奇卫兵 你们被艾特的都是扎啤 火箭浣熊 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
+        "content": "《美队全家福VS灭霸全家福》灭霸的爸爸叫灭建国！ 音频：DJ铁柱、阿主 最强信息位 你们太过分了 我不跟你们玩了 攻防转换 钢志强 蜘秀英 奇博的爸爸奇卫兵 你们被艾特的都是扎啤 火箭浣熊 灭建国 灭大春 灭霸的妈妈灭桂芬 灭霸的爷爷灭国栋 灭霸的堂哥灭狗剩",
+        "bvid": "BV1bzsV6nEM6",
+        "author": "音乐老友",
+        "duration": "3:7",
+        "cover": "//i2.hdslb.com/bfs/archive/6a8dfe091f57fdfcbbbef34588a8d09f02b53b8c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bzsV6nEM6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "复联全家福vs灭霸全家福"
       },
       {
         "title": "“成华大道没有「烂奇迹」”",
         "url": "https://www.bilibili.com/video/BV1BDsE67Eom",
         "desc": "",
-        "rank": 28,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "原曲：《烂奇迹》- 杨羊烊 翻填/调音/混音/视频：@Dieorite",
@@ -574,20 +526,68 @@
         "hotTitle": "谭乔二仙桥大爷单曲"
       },
       {
-        "title": "【1V7剪成小白花】火车撵人住单人间，拼接电话给她遮掩，一群人饿肚子等她梳洗打扮，如此移花接木地洗白头一次见!",
-        "url": "https://www.bilibili.com/video/BV1bCsP6dE6e",
+        "title": "从夯到拉！锐评四十款2026年发售的精品游戏大作！全网最肝最全的2026年游戏大锐评！",
+        "url": "https://www.bilibili.com/video/BV1JbsJ6HEi5",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "2026年的游戏大锐评给您端上来了！真的燃尽了！ 还是和往年一年，排除了价格，优化等因素，专注于评价游戏内容。 视频无任何形式的广告，只为追求一个最好的观看体验，可放心收藏~ 单机主机游戏交流群：1085661398 群里老资历很多，核心玩家也很多，欢迎热爱各类游戏的玩家一起交流！ ———————————————————————————————————————————————— 往年系列视频： 2025年游戏大锐评：BV18FSJBZEVa 2024年游戏大锐评：BV15UfJBtExM 2023年",
+        "content": "2026年的游戏大锐评给您端上来了！真的燃尽了！ 还是和往年一年，排除了价格，优化等因素，专注于评价游戏内容。 视频无任何形式的广告，只为追求一个最好的观看体验，可放心收藏~ 单机主机游戏交流群：1085661398 群里老资历很多，核心玩家也很多，欢迎热爱各类游戏的玩家一起交流！ ———————————————————————————————————————————————— 往年系列视频： 2025年游戏大锐评：BV18FSJBZEVa 2024年游戏大锐评：BV15UfJBtExM 2023年",
+        "bvid": "BV1JbsJ6HEi5",
+        "author": "星辰的金小条",
+        "duration": "62:33",
+        "cover": "//i2.hdslb.com/bfs/archive/4eb1f090ebf0929eb0a13bb5d24ec0162cc866aa.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JbsJ6HEi5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "40款2026新游大锐评"
+      },
+      {
+        "title": "BIN冠军格温！看了第一视角才明白职业和路人的差距（直播回放剪辑）",
+        "url": "https://www.bilibili.com/video/BV1LJsu6mEuh",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这是条格温应援视频，武器fans禁止观看！！！！！",
+        "content": "这是条格温应援视频，武器fans禁止观看！！！！！",
+        "bvid": "BV1LJsu6mEuh",
+        "author": "杰斯汪解析",
+        "duration": "45:2",
+        "cover": "//i0.hdslb.com/bfs/archive/e26420a715d900eadd809b9e9b9d36ac1277aafb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LJsu6mEuh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "第一视角看Bin冠军格温有多强"
+      },
+      {
+        "title": "【万字复盘】年度最佳 刑天稳老林妖 WB的版本理解有多夸张？",
+        "url": "https://www.bilibili.com/video/BV1NYsz6nEnL",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "燃尽了",
+        "content": "燃尽了",
+        "bvid": "BV1NYsz6nEnL",
+        "author": "可温破大防",
+        "duration": "19:15",
+        "cover": "//i2.hdslb.com/bfs/archive/40546d4471abca53f5da48ea96eb365ef9cee76c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NYsz6nEnL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "万字复盘KPL年总决赛"
+      },
+      {
+        "title": "大瓜！GEN官宣Canyon四人离队，HLE官宣Homme离队，Zeus关注T1官号确认回归，Nuguri被曝复出",
+        "url": "https://www.bilibili.com/video/BV1sPs36iEEU",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1bCsP6dE6e",
-        "author": "七月的小鹿吖",
-        "duration": "8:28",
-        "cover": "//i0.hdslb.com/bfs/archive/7e77b6ed4034b81e4509241d032a6f0b344b9857.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bCsP6dE6e&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "文吉儿是否被移花接木式洗白"
+        "description": "转会动态汇总",
+        "content": "转会动态汇总",
+        "bvid": "BV1sPs36iEEU",
+        "author": "无畏镜中人",
+        "duration": "1:33",
+        "cover": "//i2.hdslb.com/bfs/archive/b71f0522e8213a1e07f8c020ffc36d9cae111395.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sPs36iEEU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Zeus关注T1官号确认回归"
       },
       {
         "title": "恭喜BLG夺冠！大会员7天领取方式",
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "日本电动汽车购车补贴预计本月底提前结束",
+        "url": "https://m.36kr.com/newsflashes/4073849843668100",
+        "desc": "据日本共同社报道，日本经济产业省17日表示，受电动汽车购车补贴申请量增长超出预期影响，面向电动汽车（EV）、燃料电池汽车（FCV）等车型的购车补贴预计将于本月内停止受理申请，较此前预计的12月左右提前。（新华财经）",
+        "cover": "",
+        "date": 1794920061747,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "热门中概股美股盘前多数下跌，京东跌超4%",
+        "url": "https://m.36kr.com/newsflashes/4073848730817668",
+        "desc": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，微博、腾讯音乐、京东跌超4%，哔哩哔哩、阿里巴巴跌超2%，百度跌超1%；蔚来涨超3%，理想汽车、爱奇艺涨超1%。",
+        "cover": "",
+        "date": 1794919993824,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "美股大型科技股盘前涨跌不一，英伟达涨超1%",
+        "url": "https://m.36kr.com/newsflashes/4073846673282183",
+        "desc": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，闪迪涨超2%，SK海力士、英伟达涨超1%，亚马逊涨0.5%，特斯拉涨0.36%；Meta跌0.46%，英特尔跌0.45%，微软跌0.39%，苹果跌0.28%，奈飞跌0.2%，谷歌跌0.03%。",
+        "cover": "",
+        "date": 1794919868242,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "TCL董事长李东生：近三年TCL相关AI应用累计创造约25亿元综合效益",
         "url": "https://m.36kr.com/newsflashes/4073837350311044",
         "desc": "36氪获悉，11月17日，2026年亚太经合组织（APEC）工商领导人峰会在深圳前海国际会议中心举行。TCL创始人、董事长李东生受邀出席峰会。李东生表示，据测算，近三年TCL相关AI应用累计创造约25亿元综合效益。目前，TCL海外营收约70%来自APEC经济体，海外产业和供应链也主要集中在亚太地区。2026年前三季度，TCL海外营收约1400亿元，占整体营收比重超过50%。",
@@ -937,7 +967,7 @@
         "date": 1794919299213,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "迪士尼计划到2029财年削减30亿美元成本",
@@ -947,7 +977,7 @@
         "date": 1794918982279,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "商务部新闻发言人就美商务部发布限制远程获取先进半导体相关措施答记者问",
@@ -957,7 +987,7 @@
         "date": 1794918847178,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "特朗普：泰国将取消所有对美国出口商品的关税",
@@ -967,7 +997,7 @@
         "date": 1794918778862,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "长鑫科技：4F²架构将为公司未来市场拓展和营收作出贡献",
@@ -977,7 +1007,7 @@
         "date": 1794918617888,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "荣盛发展：股票收盘价首次低于1元，存在可能被终止上市风险",
@@ -987,7 +1017,7 @@
         "date": 1794917897224,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "正泰电源：拟8.21亿元投建年产2GWh高功率UPS电源项目",
@@ -997,7 +1027,7 @@
         "date": 1794917418235,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "Gucci在法国降价，一款经典手袋价格下调约7700元",
@@ -1007,7 +1037,7 @@
         "date": 1794916956037,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "华电能源：煤价是现阶段对公司盈利影响最直接的变量",
@@ -1017,7 +1047,7 @@
         "date": 1794916427000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "Anthropic最新招股文件：IPO发行价区间维持不变",
@@ -1027,7 +1057,7 @@
         "date": 1794916422696,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "飞凯材料：拟5000万元—1亿元回购股份",
@@ -1037,7 +1067,7 @@
         "date": 1794915915287,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "通用汽车考虑到2028年将北美工厂机器人等使用比例提高20%",
@@ -1047,7 +1077,7 @@
         "date": 1794915586058,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "商务部新闻发言人就中加经贸磋商成果答记者问",
@@ -1057,7 +1087,7 @@
         "date": 1794915553996,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "迪士尼第四财季营收259.5亿美元超预期，同比增长16%",
@@ -1067,7 +1097,7 @@
         "date": 1794915474148,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "Anthropic获准在纳斯达克全球精选市场上市A类普通股",
@@ -1077,7 +1107,7 @@
         "date": 1794915414321,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "谷歌与Quaise Energy签署电力协议，布局地热技术",
@@ -1087,7 +1117,7 @@
         "date": 1794915374950,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "百利天恒：子公司收到BMS第二笔2.5亿美元里程碑付款",
@@ -1097,46 +1127,15 @@
         "date": 1794915130115,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "贝索斯向非营利组织捐赠近2亿美元亚马逊股票",
-        "url": "https://m.36kr.com/newsflashes/4073760135337097",
-        "desc": "据周一提交的监管文件显示，亿万富豪杰夫·贝索斯上周向多家非营利机构捐赠了价值约1.989亿美元的亚马逊股票，这是这位全球第二富豪一系列股票慈善捐赠中的最新一笔。（新浪财经）",
-        "cover": "",
-        "date": 1794914586385,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "欧科亿：拟定增募资不超9.5亿元，用于AI PCB钻针用超细硬质合金棒材研发与工程化平台等项目",
-        "url": "https://m.36kr.com/newsflashes/4073757672100742",
-        "desc": "36氪获悉，欧科亿公告，公司拟向特定对象发行股票募资不超过9.5亿元，扣除发行费用后用于数控刀具产业园产能提升及技术升级项目、年产1000万片高精密磨制刀片升级项目、AI PCB钻针用超细硬质合金棒材研发与工程化平台项目、补充流动资金。",
-        "cover": "",
-        "date": 1794914436041,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "6天4板瀛通通讯：截至目前智能眼镜相关收入占公司营收比例不足1%",
-        "url": "https://m.36kr.com/newsflashes/4073754732270464",
-        "desc": "36氪获悉，6天4板瀛通通讯发布股票交易异常波动公告，公司关注到部分媒体、股吧等平台对公司业务相关讨论涉及AI眼镜等相关热点概念，经公司自查，截至目前，公司在智能眼镜领域仅涉及少量代工业务，未形成量产，相关收入占公司营业收入的比例不足1%。未来相关市场拓展仍具有较大不确定性。",
-        "cover": "",
-        "date": 1794914256608,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "36kr": 1794890645916
+    "thepaper": 1794920165795,
+    "bilibili": 1794918505331,
+    "qbitai": 1794891394817,
+    "36kr": 1794891395190
   },
-  "failures": {
-    "thepaper": "RuntimeError('NewsNow JSON not found')",
-    "bilibili": "RuntimeError('NewsNow JSON not found')",
-    "qbitai": "RuntimeError('QbitAI JSON not found')"
-  }
+  "failures": {}
 }
