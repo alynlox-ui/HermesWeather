@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T00:56:41Z",
+  "updatedAt": "2026-11-17T01:11:42Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -10,38 +10,38 @@
         "rank": 1
       },
       {
-        "title": "APEC中国时间｜对话俄罗斯学者：中俄美元首会晤传递什么新信号？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34489422",
+        "title": "圆桌｜中俄美元首历史性首次会晤在即，三国权威学者谈大国关系新契机",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34490498",
         "desc": "",
         "rank": 2
+      },
+      {
+        "title": "APEC每日观察｜忙碌与从容之间，深圳静待历史时刻",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34490260",
+        "desc": "",
+        "rank": 3
       },
       {
         "title": "马上评｜“方桃子”被罚，再次给AI商业化划出边界",
         "url": "https://www.thepaper.cn/newsDetail_forward_34490388",
         "desc": "",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "华为“天才少年”何馥君加盟西南交通大学，担任教授、博导",
         "url": "https://www.thepaper.cn/newsDetail_forward_34490402",
         "desc": "",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "分析｜怎么看10月消费、投资数据有所波动？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34490327",
         "desc": "",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "作家余华、程永新与《巴黎评论》副主编对谈：中国作家如何被世界看见",
         "url": "https://www.thepaper.cn/newsDetail_forward_34490477",
-        "desc": "",
-        "rank": 6
-      },
-      {
-        "title": "圆桌｜中俄美元首历史性首次会晤在即，三国权威学者谈大国关系新契机",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34490498",
         "desc": "",
         "rank": 7
       },
@@ -112,14 +112,14 @@
         "rank": 18
       },
       {
-        "title": "APEC每日观察｜忙碌与从容之间，深圳静待历史时刻",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34490260",
+        "title": "年内回撤30%！现货黄金价格创逾一年新低，为何跌跌不休？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34490446",
         "desc": "",
         "rank": 19
       },
       {
-        "title": "年内回撤30%！现货黄金价格创逾一年新低，为何跌跌不休？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34490446",
+        "title": "中俄美三国元首将在深圳会晤，外交部：有开创性意义",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34490067",
         "desc": "",
         "rank": 20
       }
@@ -910,6 +910,16 @@
     ],
     "36kr": [
       {
+        "title": "AI正在杀死游戏行业吗？| 游戏风向标",
+        "url": "https://m.36kr.com/p/4073486195332226",
+        "desc": "",
+        "cover": "https://img.36krcdn.com/hsossms/20261117/v2_dbdb1788c4e14d95bffde025bc75db20@000000_oswg182830oswg1280oswg546_img_000?x-oss-process=image/resize,m_mfit,w_960,h_400,limit_0/crop,w_960,h_400,g_center",
+        "date": 1794906422184,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "GPT-6.2 Astra难产真相曝光，OpenAI突然彻查迄今最大RL训练",
         "url": "https://m.36kr.com/p/4073249958777989",
         "desc": "",
@@ -917,17 +927,37 @@
         "date": 1794889477926,
         "platform": "36kr",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
-        "title": "今年最火的“过冬战袍”，把冲锋衣挤下桌",
-        "url": "https://m.36kr.com/p/4073321151386502",
-        "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261117/v2_74e08102e84646cfb2ad8e0ad9a616f4@5091053@ai_oswg856670oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1794889456252,
+        "title": "京东物流：第三季度营收639.5亿元，同比增长16.1%",
+        "url": "https://m.36kr.com/newsflashes/4073626700747910",
+        "desc": "36氪获悉，京东物流公告，第三季度营收639.5亿元，同比增长16.1%；经调整经营利润21亿元，同比增长37.9%。第三季度，京东物流一体化供应链客户收入达301.9亿元，来自外部的一体化供应链客户的收入同比增长17.3%；京东物流包含快递、快运、即时配送等在内来自其他客户的收入达337.6亿元，同比增长35.3%。",
+        "cover": "",
+        "date": 1794906442184,
         "platform": "36kr",
         "kind": "article",
-        "rank": 2
+        "rank": 3
+      },
+      {
+        "title": "微博：三季度总营收4.102亿美元",
+        "url": "https://m.36kr.com/newsflashes/4073623157871488",
+        "desc": "36氪获悉，微博发布2026年第三季度财报。三季度微博总营收4.102亿美元（约合人民币27.58亿元），其中广告营收3.441亿美元（约合人民币23.13亿元），三季度调整后运营利润0.709亿美元（约合人民币4.73亿元）。用户方面，截至三季度末，微博的月活跃用户达到5.51亿，日活跃用户达到2.54亿。",
+        "cover": "",
+        "date": 1794906225944,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "复星医药：董事长提议以2.5亿元—5亿元回购A股",
+        "url": "https://m.36kr.com/newsflashes/4073617798124673",
+        "desc": "36氪获悉，复星医药公告，公司董事长陈玉卿提议公司以集中竞价交易方式回购A股，用于发行可转债的转股、实施股权激励计划及/或员工持股计划等，回购金额不低于2.5亿元且不超过5亿元。",
+        "cover": "",
+        "date": 1794905898811,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
       },
       {
         "title": "亚马逊：目标到2030年将全球运营所用电力碳排放强度较2019年水平降低65%",
@@ -937,7 +967,7 @@
         "date": 1794905704342,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "《智能计算集群效能指标与测试方法》指导性技术文件发布",
@@ -947,7 +977,7 @@
         "date": 1794905684650,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "亚马逊计划到2030年在印度投资70亿美元，用于可再生能源项目",
@@ -957,7 +987,7 @@
         "date": 1794905653799,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "传小红书内测“搭搭”App，官方暂无回应",
@@ -967,7 +997,7 @@
         "date": 1794905592684,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "比利时微电子研究中心将在日本设基地，推进下一代半导体研发",
@@ -977,7 +1007,7 @@
         "date": 1794905161912,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "名创优品：前三季度总营收181.2亿元，同比增长19.3%",
@@ -987,7 +1017,7 @@
         "date": 1794905142234,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "长江证券：发行不超300亿元公司债券获得证监会同意注册批复",
@@ -997,7 +1027,7 @@
         "date": 1794904548515,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "因需求疲软，日本考虑推迟发行新型浮息国债",
@@ -1007,7 +1037,7 @@
         "date": 1794904320754,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "Dar Global计划拓展沙特项目，将于近期公布更多土地收购",
@@ -1017,7 +1047,7 @@
         "date": 1794904252925,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "数据基模公司“稳准智能”连续完成数亿元A轮及A+轮融资",
@@ -1027,7 +1057,7 @@
         "date": 1794904184435,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "CVC出售汽车玻璃维修商Cary股权，交易对后者估值据悉超30亿欧元",
@@ -1037,7 +1067,7 @@
         "date": 1794903929829,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "谷歌DeepMind战略主管Jasjeet Sekhon跳槽加入Anthropic",
@@ -1047,7 +1077,7 @@
         "date": 1794903903551,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "马斯克确认将前往中国",
@@ -1057,7 +1087,7 @@
         "date": 1794903819407,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "三星电子与苹果接近达成长期DRAM供应协议，或于明年上半年生效",
@@ -1067,7 +1097,7 @@
         "date": 1794903459679,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "恒工精密等在上海成立新智能科技公司，注册资本1000万",
@@ -1077,7 +1107,7 @@
         "date": 1794903318000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "恒指收跌1.03%，恒生科技指数跌1.14%",
@@ -1087,7 +1117,7 @@
         "date": 1794903031357,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "小米CEO雷军：智能机器人产业未来发展潜力将超过汽车产业",
@@ -1097,45 +1127,15 @@
         "date": 1794902624914,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "新华网：副总裁王震杰离任",
-        "url": "https://m.36kr.com/newsflashes/4073559667233927",
-        "desc": "36氪获悉，新华网公告，王震杰因工作调动，申请辞去公司副总裁职务。辞职后，王震杰不再担任公司其他任何职务。",
-        "cover": "",
-        "date": 1794902350783,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "汇丰人寿增资至37.04亿，增幅约15%",
-        "url": "https://m.36kr.com/newsflashes/4073555901076609",
-        "desc": "36氪获悉，天眼查App显示，近日，汇丰人寿保险有限公司发生工商变更，注册资本由32.32亿元人民币增至37.04亿元人民币，增幅约15%。该公司成立于2009年6月，法定代表人为胡敏，经营范围为人寿保险、健康保险和意外伤害保险等保险业务、上述业务的再保险业务，由汇丰保险（亚洲）有限公司全资持股。",
-        "cover": "",
-        "date": 1794902120915,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "曹操出行在天津成立新科技公司，注册资本5000万",
-        "url": "https://m.36kr.com/newsflashes/4073553870050179",
-        "desc": "36氪获悉，天眼查App显示，近日，曹操智行科技（天津）有限公司成立，法定代表人为宣捷，注册资本5000万元人民币，经营范围包括人工智能基础软件开发、人工智能应用软件开发、软件开发等。股东信息显示，该公司由杭州优行科技有限公司全资持股。",
-        "cover": "",
-        "date": 1794901996951,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1794905767388,
+    "thepaper": 1794906673371,
     "bilibili": 1794904966874,
-    "qbitai": 1794877000702,
-    "36kr": 1794877001097
+    "qbitai": 1794877902462,
+    "36kr": 1794877902857
   },
   "failures": {}
 }
