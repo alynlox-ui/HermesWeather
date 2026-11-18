@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T03:11:38Z",
+  "updatedAt": "2026-11-18T03:26:42Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,20 @@
     ],
     "bilibili": [
       {
-        "title": "习近平和彭丽媛将为来宾举行欢迎宴会",
-        "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E5%B0%86%E4%B8%BA%E6%9D%A5%E5%AE%BE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A",
+        "title": "【独家视频】习近平会见韩国总统李在明",
+        "url": "https://www.bilibili.com/video/BV1wRsm6MEfZ",
         "desc": "",
-        "rank": 1
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1wRsm6MEfZ",
+        "author": "央视新闻",
+        "duration": "2:58",
+        "cover": "//i1.hdslb.com/bfs/archive/134ae56788d54a36e234a55d18a46ed1fad9f942.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wRsm6MEfZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "习近平和彭丽媛将为来宾举行欢迎宴会"
       },
       {
         "title": "【独家视频】习近平：“十五五”规划是中国面向全球工商界发出的合作邀约",
@@ -180,10 +190,26 @@
         "hotTitle": "国创发布会官宣嘉宾"
       },
       {
+        "title": "THANK YOU ZmjjKK",
+        "url": "https://www.bilibili.com/video/BV1YWsr6NEs7",
+        "desc": "",
+        "rank": 5,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "从东京赛场的锋芒初露，到首尔巅峰对决的振臂高呼， 在那些我们共同创造的辉煌时刻中，你是最耀眼的宝石。 如今你决定背上行囊再次远行，纵有万般不舍， 我们依然选择支持你的每一次勇敢启程。 过往一起走过的路、一起流过的汗、一起捧起的奖杯， 我们都将彼此珍藏，成为岁月里最厚重、最温柔的注脚。 山高路远，我们顶峰再见。",
+        "content": "从东京赛场的锋芒初露，到首尔巅峰对决的振臂高呼， 在那些我们共同创造的辉煌时刻中，你是最耀眼的宝石。 如今你决定背上行囊再次远行，纵有万般不舍， 我们依然选择支持你的每一次勇敢启程。 过往一起走过的路、一起流过的汗、一起捧起的奖杯， 我们都将彼此珍藏，成为岁月里最厚重、最温柔的注脚。 山高路远，我们顶峰再见。",
+        "bvid": "BV1YWsr6NEs7",
+        "author": "EDG电子竞技俱乐部",
+        "duration": "5:46",
+        "cover": "//i2.hdslb.com/bfs/archive/68a7ae0f2741c4d21520326c7036ef6f024fb28f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YWsr6NEs7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "EDG官宣zmjjkk离队"
+      },
+      {
         "title": "【大国外交进行时】战机飞越致敬 欢迎特朗普总统",
         "url": "https://www.bilibili.com/video/BV1Scsm65ELH",
         "desc": "",
-        "rank": 5,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -199,7 +225,7 @@
         "title": "一镜到底 记录特朗普专机抵达深圳",
         "url": "https://www.bilibili.com/video/BV1bcsm65Eyx",
         "desc": "",
-        "rank": 6,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -215,7 +241,7 @@
         "title": "普京：APEC为建设性交流提供广阔空间 期待俄中美领导人三边会晤",
         "url": "https://www.bilibili.com/video/BV1gfs262Eh3",
         "desc": "",
-        "rank": 7,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -228,36 +254,20 @@
         "hotTitle": "普京称APEC为建设性交流提供广阔空间"
       },
       {
-        "title": "【BLG战队凯旋】世界冠军BLG接机快剪🏆",
-        "url": "https://www.bilibili.com/video/BV1YUs26pEfe",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这一次的见面，因为世界冠军的身份而更加特别。 感谢小电视的用心准备，我们带着冠军回来啦！",
-        "content": "这一次的见面，因为世界冠军的身份而更加特别。 感谢小电视的用心准备，我们带着冠军回来啦！",
-        "bvid": "BV1YUs26pEfe",
-        "author": "BLG电子竞技俱乐部",
-        "duration": "2:3",
-        "cover": "//i2.hdslb.com/bfs/archive/2bfb7f660397eb7a6377d5eb7860a2652a2abbf7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YUs26pEfe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "世界冠军BLG接机快剪"
-      },
-      {
-        "title": "BLG凯旋回国！Bin哥回应皮肤选项都没鳄鱼！鳄鱼不好看肯定不选！楚钧艾克爽飞狂问Knight！",
-        "url": "https://www.bilibili.com/video/BV1pUs16eERp",
+        "title": "《BLG夺冠编年史》一部关于友情、梦想与救赎的故事",
+        "url": "https://www.bilibili.com/video/BV1pmsC64E54",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1pUs16eERp",
-        "author": "GoodGame电竞",
-        "duration": "1:30",
-        "cover": "//i1.hdslb.com/bfs/archive/702ead9764898aa953dec21811de0bdb9f96f739.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pUs16eERp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Bin谈冠军皮肤为何不选鳄鱼"
+        "description": "不知所言",
+        "content": "不知所言",
+        "bvid": "BV1pmsC64E54",
+        "author": "卡洛Calo",
+        "duration": "17:10",
+        "cover": "//i2.hdslb.com/bfs/archive/5df6795e6f1aafdc87288e01292104d60fac662b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pmsC64E54&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG夺冠编年史"
       },
       {
         "title": "带外星人土改，在大宋建根据地？国产短剧可能是中国影视圈最进步的地方【毒舌的南瓜】",
@@ -276,58 +286,10 @@
         "hotTitle": "短剧是中国影视的文化输出吗"
       },
       {
-        "title": "【IGN】《黄金矿工：派对狂欢》22分钟实机演示",
-        "url": "https://www.bilibili.com/video/BV1Nxs26uE46",
-        "desc": "",
-        "rank": 11,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《黄金矿工：派对狂欢》是一款 2–6 人在线多人派对游戏，将经典黄金矿工的抓钩玩法带入正面对决的全新舞台。一台电脑还能同屏游玩，一个人也照样能挖。游戏现已登陆PC平台。",
-        "content": "《黄金矿工：派对狂欢》是一款 2–6 人在线多人派对游戏，将经典黄金矿工的抓钩玩法带入正面对决的全新舞台。一台电脑还能同屏游玩，一个人也照样能挖。游戏现已登陆PC平台。",
-        "bvid": "BV1Nxs26uE46",
-        "author": "IGN中国",
-        "duration": "22:44",
-        "cover": "//i0.hdslb.com/bfs/archive/68e79198fad133a566852f1470777ed3b2bd925b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nxs26uE46&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "黄金矿工派对狂欢实机演示"
-      },
-      {
-        "title": "蓝色星原新人开荒攻略！开服保送养老，入坑抄我就好！大量细节带你全程避坑！【蓝色星原：旅谣】流程规划.开荒配队.家园奇波工种推荐.牧场摆放.养成规划.自选建议",
-        "url": "https://www.bilibili.com/video/BV1Nbs26TEtj",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "现在能当故事听，也能作为前瞻了解游戏，开服后还能回来抄我作业，胎教级教学祝你从创号开始一条龙推到家园毕业结束，【只要照抄】就能最高效获取挂机资源，同时没有任何额外跑图，跟着攻略做好规划即可开摆烂！ 本视频涵盖蓝色星原开服的流程规划、开荒配队、家园奇波工种推荐、牧场摆放、养成规划、自选建议，以及开荒途中的注意事项、每日每周每月必做、科技树加点、体力规划、装备养成、奇波抓取、奇波养成、商店兑换，全部安排明白！ *注：内容基于三测进行制作，公测若有改动会及时发布动态或视频更新，后续我还会发布一系列的蓝色星原开服",
-        "content": "现在能当故事听，也能作为前瞻了解游戏，开服后还能回来抄我作业，胎教级教学祝你从创号开始一条龙推到家园毕业结束，【只要照抄】就能最高效获取挂机资源，同时没有任何额外跑图，跟着攻略做好规划即可开摆烂！ 本视频涵盖蓝色星原开服的流程规划、开荒配队、家园奇波工种推荐、牧场摆放、养成规划、自选建议，以及开荒途中的注意事项、每日每周每月必做、科技树加点、体力规划、装备养成、奇波抓取、奇波养成、商店兑换，全部安排明白！ *注：内容基于三测进行制作，公测若有改动会及时发布动态或视频更新，后续我还会发布一系列的蓝色星原开服",
-        "bvid": "BV1Nbs26TEtj",
-        "author": "丸子",
-        "duration": "15:26",
-        "cover": "//i2.hdslb.com/bfs/archive/3faeb67658203ebe0deef038f94fe5762daec257.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nbs26TEtj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "蓝色星原旅谣新人开荒攻略"
-      },
-      {
-        "title": "《哈利波特与死亡火器》",
-        "url": "https://www.bilibili.com/video/BV1v8sP6vEiq",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "哈利波特在三角洲行动",
-        "content": "哈利波特在三角洲行动",
-        "bvid": "BV1v8sP6vEiq",
-        "author": "推背兔の",
-        "duration": "8:41",
-        "cover": "//i2.hdslb.com/bfs/archive/e6acec036d699eb75de8270a5222ea466bca46a8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1v8sP6vEiq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "哈利波特与死亡火器"
-      },
-      {
         "title": "【蜘蛛侠/MJ】非凡之爱真人版",
         "url": "https://www.bilibili.com/video/BV1xFs36uEvE",
         "desc": "",
-        "rank": 14,
+        "rank": 11,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -340,42 +302,74 @@
         "hotTitle": "非凡之爱蜘蛛侠真人版"
       },
       {
-        "title": "我们熟悉的那个3A游戏时代，可能真的结束了。【游戏之外】",
-        "url": "https://www.bilibili.com/video/BV1cUsu6ZEYp",
+        "title": "《哈利波特与死亡火器》",
+        "url": "https://www.bilibili.com/video/BV1v8sP6vEiq",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "哈利波特在三角洲行动",
+        "content": "哈利波特在三角洲行动",
+        "bvid": "BV1v8sP6vEiq",
+        "author": "推背兔の",
+        "duration": "8:41",
+        "cover": "//i2.hdslb.com/bfs/archive/e6acec036d699eb75de8270a5222ea466bca46a8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1v8sP6vEiq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "哈利波特与死亡火器"
+      },
+      {
+        "title": "【IGN】《黄金矿工：派对狂欢》22分钟实机演示",
+        "url": "https://www.bilibili.com/video/BV1Nxs26uE46",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《黄金矿工：派对狂欢》是一款 2–6 人在线多人派对游戏，将经典黄金矿工的抓钩玩法带入正面对决的全新舞台。一台电脑还能同屏游玩，一个人也照样能挖。游戏现已登陆PC平台。",
+        "content": "《黄金矿工：派对狂欢》是一款 2–6 人在线多人派对游戏，将经典黄金矿工的抓钩玩法带入正面对决的全新舞台。一台电脑还能同屏游玩，一个人也照样能挖。游戏现已登陆PC平台。",
+        "bvid": "BV1Nxs26uE46",
+        "author": "IGN中国",
+        "duration": "22:44",
+        "cover": "//i0.hdslb.com/bfs/archive/68e79198fad133a566852f1470777ed3b2bd925b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nxs26uE46&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "黄金矿工派对狂欢实机演示"
+      },
+      {
+        "title": "鸣潮莉莉原创曲PV│飞舞吧 ，白百合",
+        "url": "https://www.bilibili.com/video/BV1Qcs66cE9B",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "风吹散过硝烟，也吹来了列车的汽笛。 她曾把车票攥在手里，追一个叫 \"家\" 的地方； 直到月灯摇落星河，有人朝她伸出手 —— 白花轻吻过伤疤，蝴蝶终于停在肩头。 Danse, lys blanc， 这一次，归途有人陪你走。 —— 献给战场上所有没能回家的人，和终于回家的她。 作曲：@LunaSafari神仙姐姐 演唱：@妮莉安Lily 混音后期：@碰碰秃 视频制作：@仓鼠想要变成球",
+        "content": "风吹散过硝烟，也吹来了列车的汽笛。 她曾把车票攥在手里，追一个叫 \"家\" 的地方； 直到月灯摇落星河，有人朝她伸出手 —— 白花轻吻过伤疤，蝴蝶终于停在肩头。 Danse, lys blanc， 这一次，归途有人陪你走。 —— 献给战场上所有没能回家的人，和终于回家的她。 作曲：@LunaSafari神仙姐姐 演唱：@妮莉安Lily 混音后期：@碰碰秃 视频制作：@仓鼠想要变成球",
+        "bvid": "BV1Qcs66cE9B",
+        "author": "仓鼠想要变成球",
+        "duration": "3:43",
+        "cover": "//i2.hdslb.com/bfs/archive/5516f9a8d3a73b1f204f89c1b9fbbbd127eb0ae8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qcs66cE9B&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "UP主自制鸣潮莉莉PV"
+      },
+      {
+        "title": "俄宇航院士锐评：再不出铁拳太空垃圾要无法无天了",
+        "url": "https://www.bilibili.com/video/BV1uksB6xE3U",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1cUsu6ZEYp",
-        "author": "智能路障",
-        "duration": "40:14",
-        "cover": "//i2.hdslb.com/bfs/archive/ea1b2d0405489bb1d2800f0d7d492515d4433d6c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cUsu6ZEYp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "3A游戏行业会崩溃吗"
-      },
-      {
-        "title": "【IGN】TGA 2026全提名名单公布",
-        "url": "https://www.bilibili.com/video/BV189sy63E56",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "TGA 2026各奖项提名已于今日凌晨1点公布，获得年度游戏奖项提名的作品有《007 初露锋芒》《控制：共振》《GTA6》《影之刃零》《生化危机 安魂曲》以及《塞尔达传说 时之笛》。颁奖活动将于北京时间12月11日早上8点30分开始。",
-        "content": "TGA 2026各奖项提名已于今日凌晨1点公布，获得年度游戏奖项提名的作品有《007 初露锋芒》《控制：共振》《GTA6》《影之刃零》《生化危机 安魂曲》以及《塞尔达传说 时之笛》。颁奖活动将于北京时间12月11日早上8点30分开始。",
-        "bvid": "BV189sy63E56",
-        "author": "IGN中国",
-        "duration": "11:23",
-        "cover": "//i2.hdslb.com/bfs/archive/405f63ddb88ac05213a42f83361518d689bfa7fd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV189sy63E56&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "TGA2026全提名名单公布"
+        "description": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
+        "content": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
+        "bvid": "BV1uksB6xE3U",
+        "author": "波士顿圆脸",
+        "duration": "134:35",
+        "cover": "//i2.hdslb.com/bfs/archive/ec39c3f4c875bdb7817b53f1a78970a4d4f0a30f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uksB6xE3U&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何避免太空垃圾变成宇宙暗器"
       },
       {
         "title": "故意画错的图纸：芯片的掩模为什么长得像一团虫子",
         "url": "https://www.bilibili.com/video/BV1LAWS6ZEfo",
         "desc": "",
-        "rank": 17,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "想让硅片上出现一个规规矩矩的长方形，掩模上却得画成一团“虫子”。一套先进芯片的掩模，要算大约三千万个 CPU 小时；只用一个核心算，得从商朝一直算到今天。这期从影子雕塑讲起：光会拐弯，手里的光比要画的线还粗，工程师只能先定好结果，再倒推掩模该画什么。从一百五十年前的显微镜，到比太阳表面还热几十倍的等离子体，再到训练人工智能的那套数学。",
@@ -391,7 +385,7 @@
         "title": "史诗级翻车？OpenAI砸出GPT-6.2 Astra与Sol，成本砍到不足三分之一，却遭差评海啸，Sam Altman 紧急回应！",
         "url": "https://www.bilibili.com/video/BV1KqsC6PESn",
         "desc": "",
-        "rank": 18,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -404,36 +398,52 @@
         "hotTitle": "OpenAI新模型遭差评海啸"
       },
       {
-        "title": "GenG被BLG打解散了？决赛打完仅两天就四人离队，LCK大变天！",
-        "url": "https://www.bilibili.com/video/BV13as16LEup",
+        "title": "2026最佳科幻片！56万人打高分，票房45亿！你永远可以相信观众眼光【科幻Fans 布玛】电影《挽救计划》",
+        "url": "https://www.bilibili.com/video/BV1zJsP6GEkL",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "科幻Fans 电影《挽救计划》",
+        "content": "科幻Fans 电影《挽救计划》",
+        "bvid": "BV1zJsP6GEkL",
+        "author": "科幻Fans布玛",
+        "duration": "28:5",
+        "cover": "//i1.hdslb.com/bfs/archive/4371de4a152b48da2697899740a887fa3e3aeb23.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zJsP6GEkL&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "电影挽救计划为何口碑票房双爆"
+      },
+      {
+        "title": "蓝色星原新人开荒攻略！开服保送养老，入坑抄我就好！大量细节带你全程避坑！【蓝色星原：旅谣】流程规划.开荒配队.家园奇波工种推荐.牧场摆放.养成规划.自选建议",
+        "url": "https://www.bilibili.com/video/BV1Nbs26TEtj",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV13as16LEup",
-        "author": "燃烧的显卡菌",
-        "duration": "1:6",
-        "cover": "//i0.hdslb.com/bfs/archive/f62fa098e24873e009706f7f2c5812cdbdaac762.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13as16LEup&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GEN不敌BLG后要拆队重组吗"
+        "description": "现在能当故事听，也能作为前瞻了解游戏，开服后还能回来抄我作业，胎教级教学祝你从创号开始一条龙推到家园毕业结束，【只要照抄】就能最高效获取挂机资源，同时没有任何额外跑图，跟着攻略做好规划即可开摆烂！ 本视频涵盖蓝色星原开服的流程规划、开荒配队、家园奇波工种推荐、牧场摆放、养成规划、自选建议，以及开荒途中的注意事项、每日每周每月必做、科技树加点、体力规划、装备养成、奇波抓取、奇波养成、商店兑换，全部安排明白！ *注：内容基于三测进行制作，公测若有改动会及时发布动态或视频更新，后续我还会发布一系列的蓝色星原开服",
+        "content": "现在能当故事听，也能作为前瞻了解游戏，开服后还能回来抄我作业，胎教级教学祝你从创号开始一条龙推到家园毕业结束，【只要照抄】就能最高效获取挂机资源，同时没有任何额外跑图，跟着攻略做好规划即可开摆烂！ 本视频涵盖蓝色星原开服的流程规划、开荒配队、家园奇波工种推荐、牧场摆放、养成规划、自选建议，以及开荒途中的注意事项、每日每周每月必做、科技树加点、体力规划、装备养成、奇波抓取、奇波养成、商店兑换，全部安排明白！ *注：内容基于三测进行制作，公测若有改动会及时发布动态或视频更新，后续我还会发布一系列的蓝色星原开服",
+        "bvid": "BV1Nbs26TEtj",
+        "author": "丸子",
+        "duration": "15:26",
+        "cover": "//i2.hdslb.com/bfs/archive/3faeb67658203ebe0deef038f94fe5762daec257.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nbs26TEtj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "蓝色星原旅谣新人开荒攻略"
       },
       {
-        "title": "许飞厉娜的时光机！白小纯的笑傲江湖！真人秀节目的真相思考",
-        "url": "https://www.bilibili.com/video/BV1SMsM6KEZG",
+        "title": "我们熟悉的那个3A游戏时代，可能真的结束了。【游戏之外】",
+        "url": "https://www.bilibili.com/video/BV1cUsu6ZEYp",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1SMsM6KEZG",
-        "author": "张志浩在剥柚",
-        "duration": "42:47",
-        "cover": "//i2.hdslb.com/bfs/archive/053ccdd526344d05a467d0575f76b32ab5225a7d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SMsM6KEZG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "后会友期 谁在按剧本演戏"
+        "bvid": "BV1cUsu6ZEYp",
+        "author": "智能路障",
+        "duration": "40:14",
+        "cover": "//i2.hdslb.com/bfs/archive/ea1b2d0405489bb1d2800f0d7d492515d4433d6c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cUsu6ZEYp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "3A游戏行业会崩溃吗"
       },
       {
         "title": "Viper在B站开启了冠军皮肤投票！里面竟然有蛇女！这下不会真让Beryl说中了吧！你们会投票给谁呢？",
@@ -452,26 +462,10 @@
         "hotTitle": "Viper发起冠军皮肤投票"
       },
       {
-        "title": "在普罗米厄的怀抱下",
-        "url": "https://www.bilibili.com/video/BV16Bs26FEAM",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《鸣潮：永明的烬焰》年度篇章12月22日即将开启，敬请期待！",
-        "content": "《鸣潮：永明的烬焰》年度篇章12月22日即将开启，敬请期待！",
-        "bvid": "BV16Bs26FEAM",
-        "author": "鸣潮",
-        "duration": "8:36",
-        "cover": "//i2.hdslb.com/bfs/archive/e19e758df352936f5581473cd5c7536e9ce088b2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16Bs26FEAM&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "鸣潮新联邦角色首曝PV"
-      },
-      {
         "title": "全球最火的电竞比赛！2W一张票！直接看哭了！",
         "url": "https://www.bilibili.com/video/BV1fvsy6WEuC",
         "desc": "",
-        "rank": 23,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "2017年的退出lol解说，我一直在给自己找借口，韩国人太厉害，我们赛区环境不好，lol要凉了。pubg才是未来。 然而我现在才反应过来， 当年的我只是单纯的不信任lpl了，不信任这个陪伴了多年的老朋友了。 我不信任他，但他却一直信任我，他一直在坚持，一直在挑战，在等待着我回来，在等待所有当年转头离开的人回来！ 21年离开电竞圈后，现场看一次lpl夺冠，仿佛成了我心中一个执念，没法在解说台，那么我好歹要在观众席。这执念里寄托着好多说不清的滋味——有当年没能把LOL解说坚持做下去的遗憾，有次次奔赴现场都没",
@@ -484,74 +478,26 @@
         "hotTitle": "2万一张的S16门票体验如何"
       },
       {
-        "title": "BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！",
-        "url": "https://www.bilibili.com/video/BV158sm6sEwd",
+        "title": "【IGN】TGA 2026全提名名单公布",
+        "url": "https://www.bilibili.com/video/BV189sy63E56",
         "desc": "",
-        "rank": 24,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV158sm6sEwd",
-        "author": "分析师蓝宝石",
-        "duration": "33:13",
-        "cover": "//i1.hdslb.com/bfs/archive/56c7796416165b5c41895562e7352061465a583d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV158sm6sEwd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG如何一穿四LCK夺冠"
-      },
-      {
-        "title": "《BLG夺冠编年史》一部关于友情、梦想与救赎的故事",
-        "url": "https://www.bilibili.com/video/BV1pmsC64E54",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "不知所言",
-        "content": "不知所言",
-        "bvid": "BV1pmsC64E54",
-        "author": "卡洛Calo",
-        "duration": "17:10",
-        "cover": "//i2.hdslb.com/bfs/archive/5df6795e6f1aafdc87288e01292104d60fac662b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pmsC64E54&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG夺冠编年史"
-      },
-      {
-        "title": "【CS2更新】熟悉的旋律加入CS2音乐盒~主菜单&MVP试听",
-        "url": "https://www.bilibili.com/video/BV1besC6KE6N",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1besC6KE6N",
-        "author": "AYCS2",
-        "duration": "9:24",
-        "cover": "//i0.hdslb.com/bfs/archive/72e927169e6c422301e23cca11991a0dbd040260.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1besC6KE6N&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "CS2新音乐盒试听"
-      },
-      {
-        "title": "俄宇航院士锐评：再不出铁拳太空垃圾要无法无天了",
-        "url": "https://www.bilibili.com/video/BV1uksB6xE3U",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
-        "content": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
-        "bvid": "BV1uksB6xE3U",
-        "author": "波士顿圆脸",
-        "duration": "134:35",
-        "cover": "//i2.hdslb.com/bfs/archive/ec39c3f4c875bdb7817b53f1a78970a4d4f0a30f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uksB6xE3U&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如何避免太空垃圾变成宇宙暗器"
+        "description": "TGA 2026各奖项提名已于今日凌晨1点公布，获得年度游戏奖项提名的作品有《007 初露锋芒》《控制：共振》《GTA6》《影之刃零》《生化危机 安魂曲》以及《塞尔达传说 时之笛》。颁奖活动将于北京时间12月11日早上8点30分开始。",
+        "content": "TGA 2026各奖项提名已于今日凌晨1点公布，获得年度游戏奖项提名的作品有《007 初露锋芒》《控制：共振》《GTA6》《影之刃零》《生化危机 安魂曲》以及《塞尔达传说 时之笛》。颁奖活动将于北京时间12月11日早上8点30分开始。",
+        "bvid": "BV189sy63E56",
+        "author": "IGN中国",
+        "duration": "11:23",
+        "cover": "//i2.hdslb.com/bfs/archive/405f63ddb88ac05213a42f83361518d689bfa7fd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV189sy63E56&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TGA2026全提名名单公布"
       },
       {
         "title": "在现场见证BLG夺冠！是什么体验？太爽了！",
         "url": "https://www.bilibili.com/video/BV15hsm69Ej8",
         "desc": "",
-        "rank": 28,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "爽！！！！！！！！！！！！！！！！！！！！！！",
@@ -564,36 +510,100 @@
         "hotTitle": "UP主现场见证BLG夺冠"
       },
       {
-        "title": "FIA正式确认V8引擎2030年回归 | 梅奔涡轮升级虽迟但到，设定双重目标 | 阿隆索重返达喀尔【11.18 F1资讯】",
-        "url": "https://www.bilibili.com/video/BV1hism6nE9q",
+        "title": "国家一级演奏员钢琴奶奶听《无中生有》：越嗨的歌，越藏着痛",
+        "url": "https://www.bilibili.com/video/BV1wzsz6jEsq",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "钢琴奶奶 尹松：76岁，古典音乐家，国家一级演奏员，交响乐团钢琴家，上海音乐学院硕士。曾作为钢琴家参加了多次政府举办的重大演出-如国庆晚会、香港回归庆典晚会等 自2023年底才开始正式接触流行音乐。",
+        "content": "钢琴奶奶 尹松：76岁，古典音乐家，国家一级演奏员，交响乐团钢琴家，上海音乐学院硕士。曾作为钢琴家参加了多次政府举办的重大演出-如国庆晚会、香港回归庆典晚会等 自2023年底才开始正式接触流行音乐。",
+        "bvid": "BV1wzsz6jEsq",
+        "author": "钢琴奶奶-尹松",
+        "duration": "9:55",
+        "cover": "//i1.hdslb.com/bfs/archive/c5981bc1afd685c657e839a167c1c6dcba02add2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wzsz6jEsq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "钢琴奶奶听星铁EP无中生有"
+      },
+      {
+        "title": "在普罗米厄的怀抱下",
+        "url": "https://www.bilibili.com/video/BV16Bs26FEAM",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《鸣潮：永明的烬焰》年度篇章12月22日即将开启，敬请期待！",
+        "content": "《鸣潮：永明的烬焰》年度篇章12月22日即将开启，敬请期待！",
+        "bvid": "BV16Bs26FEAM",
+        "author": "鸣潮",
+        "duration": "8:36",
+        "cover": "//i2.hdslb.com/bfs/archive/e19e758df352936f5581473cd5c7536e9ce088b2.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16Bs26FEAM&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "鸣潮新联邦角色首曝PV"
+      },
+      {
+        "title": "闯入《寻梦环游记》的世界，墓地蹦迪，亡灵大游行，跨越生死的重逢…",
+        "url": "https://www.bilibili.com/video/BV1Aqsz6mEX6",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "视频的最后，我想把这个问题留给大家：如果你有机会再见到一位已经离开的人，你最想跟他说些什么？欢迎在评论区和我分享你的故事。也许我们每个人，都有一个一直记在心里、从未真正告别的人。墨西哥也不仅仅有亡灵节，还有很特别的美食！！点赞过20万，我们墨西哥第二期见～",
+        "content": "视频的最后，我想把这个问题留给大家：如果你有机会再见到一位已经离开的人，你最想跟他说些什么？欢迎在评论区和我分享你的故事。也许我们每个人，都有一个一直记在心里、从未真正告别的人。墨西哥也不仅仅有亡灵节，还有很特别的美食！！点赞过20万，我们墨西哥第二期见～",
+        "bvid": "BV1Aqsz6mEX6",
+        "author": "-欣小萌-",
+        "duration": "27:44",
+        "cover": "//i2.hdslb.com/bfs/archive/21c0a6529e2980c131ab5cb2fd3c87e3877a5b2c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Aqsz6mEX6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "欣小萌现实版寻梦环游记"
+      },
+      {
+        "title": "【CS2更新】熟悉的旋律加入CS2音乐盒~主菜单&MVP试听",
+        "url": "https://www.bilibili.com/video/BV1besC6KE6N",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1besC6KE6N",
+        "author": "AYCS2",
+        "duration": "9:24",
+        "cover": "//i0.hdslb.com/bfs/archive/72e927169e6c422301e23cca11991a0dbd040260.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1besC6KE6N&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "CS2新音乐盒试听"
+      },
+      {
+        "title": "BLG凯旋回国！Bin哥回应皮肤选项都没鳄鱼！鳄鱼不好看肯定不选！楚钧艾克爽飞狂问Knight！",
+        "url": "https://www.bilibili.com/video/BV1pUs16eERp",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "FIA正式确认V8引擎2030年回归 | 梅奔涡轮升级虽迟但到，设定双重目标 | 阿隆索重返达喀尔【11.18 F1资讯】",
-        "content": "FIA正式确认V8引擎2030年回归 | 梅奔涡轮升级虽迟但到，设定双重目标 | 阿隆索重返达喀尔【11.18 F1资讯】",
-        "bvid": "BV1hism6nE9q",
-        "author": "F1赛事资讯",
-        "duration": "5:39",
-        "cover": "//i1.hdslb.com/bfs/archive/37fb5dd1f1a265f25d6a6815d2b1415ff06bc4d0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hism6nE9q&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "FIA确认V8引擎2030年回归"
+        "description": "",
+        "content": "",
+        "bvid": "BV1pUs16eERp",
+        "author": "GoodGame电竞",
+        "duration": "1:30",
+        "cover": "//i1.hdslb.com/bfs/archive/702ead9764898aa953dec21811de0bdb9f96f739.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pUs16eERp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Bin谈冠军皮肤为何不选鳄鱼"
       },
       {
-        "title": "非凡魔丸",
-        "url": "https://www.bilibili.com/video/BV1LLsr66EC6",
+        "title": "【BLG战队凯旋】世界冠军BLG接机快剪🏆",
+        "url": "https://www.bilibili.com/video/BV1YUs26pEfe",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "最魔丸的一集",
-        "content": "最魔丸的一集",
-        "bvid": "BV1LLsr66EC6",
-        "author": "伊介书生",
-        "duration": "1:28",
-        "cover": "//i0.hdslb.com/bfs/archive/2f070870d516dc6eef35513d53160e883e525db8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LLsr66EC6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "魔丸版非凡之爱"
+        "description": "这一次的见面，因为世界冠军的身份而更加特别。 感谢小电视的用心准备，我们带着冠军回来啦！",
+        "content": "这一次的见面，因为世界冠军的身份而更加特别。 感谢小电视的用心准备，我们带着冠军回来啦！",
+        "bvid": "BV1YUs26pEfe",
+        "author": "BLG电子竞技俱乐部",
+        "duration": "2:3",
+        "cover": "//i2.hdslb.com/bfs/archive/2bfb7f660397eb7a6377d5eb7860a2652a2abbf7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YUs26pEfe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "世界冠军BLG接机快剪"
       }
     ],
     "qbitai": [
@@ -920,6 +930,86 @@
         "rank": 2
       },
       {
+        "title": "国务院国资委：新一轮国资国企改革工作台账基本编制完成",
+        "url": "https://m.36kr.com/newsflashes/4075176332972929",
+        "desc": "国务院国资委党委委员、副主任李镇在进一步深化国资国企改革专题研讨班上表示，近期，各地、各中央企业工作台账基本编制完成，这标志着各单位已完成新一轮改革的谋篇布局，下一步要重点抓好全面实施。（证券时报）",
+        "cover": "",
+        "date": 1795001024230,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "德国联盟政府达成电价减负协议，并设燃油价格上限",
+        "url": "https://m.36kr.com/newsflashes/4075144779568264",
+        "desc": "德国总理默茨领导的联盟政府达成协议，削减家庭和小型企业电力税，以应对能源价格飙升及联盟内部日益加剧的不满。德国政府周三表示，由基民盟主导的执政联盟与社民党同意在2027年降低电力税。为期一年的减税将使家庭用电税每千瓦时减少约2欧分，降至0.1欧分，并覆盖此前未享受减税的小型企业。联盟还同意自1月1日起对汽油设置价格上限。（新浪财经）",
+        "cover": "",
+        "date": 1795000988964,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "国务院国资委：央企改革成效将继续纳入经营业绩考核加减分项",
+        "url": "https://m.36kr.com/newsflashes/4075175157716100",
+        "desc": "国务院国资委党委委员、副主任李镇在进一步深化国资国企改革专题研讨班上表示，要强化改革问效，对于中央企业的改革成效，将继续纳入中央企业经营业绩考核加减分项。各单位要把改革相关情况纳入巡视巡察、审计、考核等范围，倒逼改革落实落地。（证券时报）",
+        "cover": "",
+        "date": 1795000952497,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "国务院国资委：国有企业优化布局结构要更加突出针对性、有效性",
+        "url": "https://m.36kr.com/newsflashes/4075174529307521",
+        "desc": "国务院国资委党委委员、副主任李镇在进一步深化国资国企改革专题研讨班上表示，国有企业优化布局结构要更加突出针对性、有效性。李镇表示，新一轮改革方案对国有资本“三个集中”、调整产业结构、推进重组整合等提出了明确要求，这些要求是对全国层面的整体部署。各地、各中央企业在产业领域选择、布局调整方式上都要结合实际，注重因地制宜。一是发展战略性新兴产业、未来产业要切实防止“一哄而上”，形成新的“内卷”。传统产业转型升级中也要避免“内卷”。二是专业化整合要聚焦重点、强化创新。三是整治无关多元要严禁增量、有序退出存量。（证券时报）",
+        "cover": "",
+        "date": 1795000914142,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "君实生物：11月18日回购17.04万股H股股份",
+        "url": "https://m.36kr.com/newsflashes/4075143463867521",
+        "desc": "36氪获悉，君实生物公告，公司于2026年11月18日通过香港联交所回购17.04万股H股股份，每股回购价格区间为13.83港元-13.99港元，回购总金额为236.88万港元，所回购股份拟用于注销。本次回购股份占公司现有已发行股份（不含库存股）的0.0655%。截至2026年11月18日，公司已发行股份总数为260295700股，库存股数量为0。",
+        "cover": "",
+        "date": 1795000688000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "习近平和彭丽媛欢迎与会嘉宾并集体合影",
+        "url": "https://m.36kr.com/newsflashes/4075168270898052",
+        "desc": "11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾并集体合影。（央视新闻）",
+        "cover": "",
+        "date": 1795000532159,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
+      },
+      {
+        "title": "澜起科技：完成5亿元股份回购，累计回购331.39万股",
+        "url": "https://m.36kr.com/newsflashes/4075166269313924",
+        "desc": "36氪获悉，澜起科技公告，公司完成2026年第二次回购A股股份方案，实际回购331.39万股，占总股本0.27%，回购金额5亿元，回购价格区间128.58元/股至169.94元/股。回购股份将用于员工持股计划或股权激励。",
+        "cover": "",
+        "date": 1795000409992,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 9
+      },
+      {
+        "title": "西门子推出Simatic AX运动控制工程产品",
+        "url": "https://m.36kr.com/newsflashes/4075141538501504",
+        "desc": "西门子宣布扩展Simatic AX软件定义自动化工程产品组合，推出Simatic AX运动控制工程（MCE），支持通过文本化环境配置运动控制技术对象，并集成PLCopen支持和Git版本管理。同时，Simatic AX逻辑控制工程（LCE）正式在全球范围内推出。西门子表示，新产品将运动控制与逻辑控制整合至统一工程环境，帮助简化自动化项目开发流程。（财联社）",
+        "cover": "",
+        "date": 1795000329000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 10
+      },
+      {
         "title": "中国信达等在广西成立新股权投资合伙企业，出资额6.02亿",
         "url": "https://m.36kr.com/newsflashes/4075140528116871",
         "desc": "36氪获悉，天眼查App显示，近日，广西信桂农股权投资合伙企业（有限合伙）成立，执行事务合伙人为信达资本管理有限公司，出资额6.02亿元人民币，经营范围包括以私募基金从事股权投资、投资管理、资产管理等活动等。合伙人信息显示，该合伙企业由中国信达资产管理股份有限公司、广西农投乡村振兴私募基金管理有限公司、广西兴桂现代设施农业产业基金合伙企业（有限合伙）、信达资本管理有限公司共同出资。",
@@ -927,7 +1017,7 @@
         "date": 1794999791000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 11
       },
       {
         "title": "劳氏第三季度调整后每股收益3.10美元，高于预期",
@@ -937,7 +1027,7 @@
         "date": 1794999729492,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 12
       },
       {
         "title": "英国央行预计通胀将在2027年年中进一步上升",
@@ -947,7 +1037,7 @@
         "date": 1794999440000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 13
       },
       {
         "title": "用友HR SaaS发布YonWork企业智能体",
@@ -957,7 +1047,7 @@
         "date": 1794998540000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 14
       },
       {
         "title": "2026年APEC工商领导人峰会发布深圳倡议",
@@ -967,7 +1057,7 @@
         "date": 1794998507184,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 15
       },
       {
         "title": "天孚通信：截至2026年11月18日累计回购88万股",
@@ -977,7 +1067,7 @@
         "date": 1794998480198,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 16
       },
       {
         "title": "美国民主党筹备数据中心电力改革方案，运营商10年内或需多付350亿美元",
@@ -987,7 +1077,7 @@
         "date": 1794997910471,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 17
       },
       {
         "title": "联讯仪器：拟1亿元-1.5亿元回购股份用于员工持股或股权激励",
@@ -997,7 +1087,7 @@
         "date": 1794997767000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 18
       },
       {
         "title": "天普股份：股票将于明日开市起复牌",
@@ -1007,7 +1097,7 @@
         "date": 1794997721143,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 19
       },
       {
         "title": "新易盛：目前不存在需求预期下修或砍单情形，1.6T光模块已进入大规模放量阶段",
@@ -1017,7 +1107,7 @@
         "date": 1794997696489,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 20
       },
       {
         "title": "马斯克：预计SpaceX不会向OpenAI出售任何算力",
@@ -1027,7 +1117,7 @@
         "date": 1794997690000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 21
       },
       {
         "title": "大麦娱乐：上半财年收入同比下降7.8%",
@@ -1037,95 +1127,15 @@
         "date": 1794997404000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
-      },
-      {
-        "title": "国家能源局：积极推动具备条件的水风光一体化项目整体参与市场交易",
-        "url": "https://m.36kr.com/newsflashes/4075115966452615",
-        "desc": "36氪获悉，国家能源局印发《关于加快推动流域水风光一体化发展的指导意见》。其中提到，促进一体化市场消纳。健全水风光一体化市场消纳体制机制，积极推动具备条件的水风光一体化项目整体参与市场交易。支持跨省跨区外送的水风光一体化项目不区分电源类型，整体与受端协商形成统一送电曲线和交易结算机制。逐步推动具备条件的省内消纳水风光一体化项目，整体参与省内中长期、现货及辅助服务市场交易。",
-        "cover": "",
-        "date": 1794997339749,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 15
-      },
-      {
-        "title": "帝奥微：拟向全资子公司增资2亿元用于光通信芯片研发",
-        "url": "https://m.36kr.com/newsflashes/4075093724206214",
-        "desc": "36氪获悉，帝奥微公告，公司拟以自有资金向全资子公司帝奥微(上海)增资2亿元，用于迭代升级并开展多项光电融合芯片研发项目，重点完成多种OCS交换机方案配套全模拟芯片布局。本次增资已获董事会审议通过，无需提交股东会审议，不构成关联交易及重大资产重组。增资完成后，帝奥微(上海)仍为全资子公司，不会导致合并报表范围变动。",
-        "cover": "",
-        "date": 1794997053000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 16
-      },
-      {
-        "title": "国家能源局：到2030年 雅砻江、金沙江上游、澜沧江上游、藏东南（玉察）等流域水风光一体化基地建设取得积极进展",
-        "url": "https://m.36kr.com/newsflashes/4075109996500097",
-        "desc": "36氪获悉，国家能源局印发《关于加快推动流域水风光一体化发展的指导意见》，其中指出，到2030年，雅砻江、金沙江上游、澜沧江上游、藏东南（玉察）等流域水风光一体化基地建设取得积极进展，形成一批促进新能源就近就地消纳的“水风光+”新业态新模式。到2035年，水风光一体化发展成为我国水电高质量升级发展的重要方式，流域水风光资源得到更高效能协同开发、更大范围优化配置、更高价值消纳利用，为经济社会高质量发展注入强劲绿色动能。",
-        "cover": "",
-        "date": 1794996975372,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 17
-      },
-      {
-        "title": "行云科技：签署AI词元跨境销售服务合同，累计结算上限20亿元、首期订单2亿元",
-        "url": "https://m.36kr.com/newsflashes/4075107954398343",
-        "desc": "36氪获悉，行云科技公告，公司近日与新丝路控股集团签署《AI词元跨境销售服务合同》及《销售订单》，公司向新丝路控股集团提供AI词元服务，合同累计结算金额上限为20亿元，其中首期采购金额为2亿元，合同期限60个月。公司向甲方提供AI词元服务，用于支持其在食品研发、AI育种、数字内容生成、全球贸易等业务场景中的发展。本合同预计对公司经营成果产生一定影响，但受履约进度、毛利率波动等因素影响，合同实际贡献的收入、利润存在不确定性。",
-        "cover": "",
-        "date": 1794996850732,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "中际旭创：董事长提议回购20亿至40亿元股份",
-        "url": "https://m.36kr.com/newsflashes/4075105830081417",
-        "desc": "36氪获悉，中际旭创公告，董事长兼总裁刘圣提议公司使用自有或自筹资金以集中竞价交易方式回购公司A股股份，回购资金总额不低于20亿元且不超过40亿元，回购价格不高于董事会审议通过回购方案前30个交易日股票交易均价的150%，回购股份用于股权激励或员工持股计划及维护公司价值及股东权益。",
-        "cover": "",
-        "date": 1794996721074,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "商汤：2026前三季度营收同比增长30.4%至37.9亿，毛利率提升至43.4%",
-        "url": "https://m.36kr.com/newsflashes/4075103427335043",
-        "desc": "11月18日，商汤集团发布截至2026年9月30日止九个月业务进展。集团收入同比增长30.4%至人民币37.9亿元，增速较2026年上半年进一步加快；毛利率提升4.3个百分点至43.4%，毛利增加45.0%至人民币16.5亿元，毛利增速快于收入增速，收入质量持续改善。业务结构方面，生成式AI持续成为增长核心，增速持续高于集团整体收入增速，其中第三季度同比增长超过一倍。集团前期战略投入回报正逐步显现，AI业务商业化进程进一步提速。",
-        "cover": "",
-        "date": 1794996574422,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "欧元区10月CPI同比增长4%，符合预期",
-        "url": "https://m.36kr.com/newsflashes/4075098130338690",
-        "desc": "欧元区10月CPI同比增长4%，预期4%，前值4%；10月CPI环比增长0.5%，预期0.4%，前值0.4%。核心CPI同比增长2.6%，预期2.5%。（界面）",
-        "cover": "",
-        "date": 1794996251119,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "中汽工程中标民用航空无人旋翼机数智化产线项目",
-        "url": "https://m.36kr.com/newsflashes/4075090233938818",
-        "desc": "36氪获悉，中汽工程消息，近日，中汽工程成功中标安徽通域航空科技有限公司通域民用航空旋翼机数智化产线建设项目，全面负责该民用旋翼机整机数智化产线的集成建设。",
-        "cover": "",
-        "date": 1794996241000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795000266310,
-    "bilibili": 1794998803578,
-    "qbitai": 1794971497635,
-    "36kr": 1794971498177
+    "thepaper": 1795001164758,
+    "bilibili": 1795001173973,
+    "qbitai": 1794972402133,
+    "36kr": 1794972402454
   },
   "failures": {}
 }
