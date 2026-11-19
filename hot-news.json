@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T23:41:41Z",
+  "updatedAt": "2026-11-18T23:56:47Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -132,10 +132,32 @@
         "rank": 1
       },
       {
+        "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+        "url": "https://www.bilibili.com/video/BV143sb6REBG",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV143sb6REBG",
+        "author": "央视新闻",
+        "duration": "7:40",
+        "cover": "//i2.hdslb.com/bfs/archive/c79257fb80b694d0e05356f63f8d844dbbf546b5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV143sb6REBG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "APEC领导人宣言"
+      },
+      {
+        "title": "习近平将主持中俄美元首会晤",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E4%B8%BB%E6%8C%81%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+        "desc": "",
+        "rank": 3
+      },
+      {
         "title": "现场视频！习近平会见美国总统特朗普",
         "url": "https://www.bilibili.com/video/BV1oYsb6zET4",
         "desc": "",
-        "rank": 2,
+        "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -148,42 +170,26 @@
         "hotTitle": "习近平会见美国总统特朗普"
       },
       {
-        "title": "【独家视频】习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-        "url": "https://www.bilibili.com/video/BV1M1s469E6S",
+        "title": "关键时刻两度得分两度助攻，詹姆斯率残阵76人逆转魔术",
+        "url": "https://www.bilibili.com/video/BV1sVs461E5p",
         "desc": "",
-        "rank": 3,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1M1s469E6S",
-        "author": "央视新闻",
-        "duration": "0:18",
-        "cover": "//i2.hdslb.com/bfs/archive/d516b7f8510d555b3b04913ae67bffb23a14413f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1M1s469E6S&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "亚太大家庭的成员同在一条船上"
-      },
-      {
-        "title": "APEC欢迎宴会高清大图，中俄美元首同框",
-        "url": "https://www.bilibili.com/video/BV1sjsQ6SEaR",
-        "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。宴会开始前，习近平主席夫妇同各经济体领导人、代表及配偶集体合影。（来源：中国新闻网）",
-        "content": "11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。宴会开始前，习近平主席夫妇同各经济体领导人、代表及配偶集体合影。（来源：中国新闻网）",
-        "bvid": "BV1sjsQ6SEaR",
-        "author": "腾讯新闻",
-        "duration": "0:13",
-        "cover": "//i2.hdslb.com/bfs/archive/3e71a4f77d49d81c5dbced29aeff18fa77486142.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sjsQ6SEaR&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "中俄美元首同框"
+        "bvid": "BV1sVs461E5p",
+        "author": "咪咕篮球",
+        "duration": "1:18",
+        "cover": "//i2.hdslb.com/bfs/archive/3da88841f431334224404ec2af5157f022b00e9b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sVs461E5p&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "詹姆斯率残阵76人逆转魔术"
       },
       {
         "title": "当有云南人来火锅店吃菌菇",
         "url": "https://www.bilibili.com/video/BV1TDs66ZEBa",
         "desc": "",
-        "rank": 5,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -196,74 +202,26 @@
         "hotTitle": "云南人早上6点起来吃烧烤"
       },
       {
-        "title": "【大国外交最前线】中美元首深圳会晤 参加会见的美方代表有哪些？",
-        "url": "https://www.bilibili.com/video/BV1Ndsb6REo9",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Ndsb6REo9",
-        "author": "央视新闻",
-        "duration": "1:56",
-        "cover": "//i1.hdslb.com/bfs/archive/3a6902d561e6d1da590befc0d294cdc15c24ffda.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ndsb6REo9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "参加中美元首会晤的美方代表有哪些"
-      },
-      {
-        "title": "【大国外交最前线】现场见证！深圳APEC的首张“全家福”",
-        "url": "https://www.bilibili.com/video/BV1DEsU6DE14",
+        "title": "S16总决赛Vlog｜从幕后视角揭开不一样的夺冠花絮!",
+        "url": "https://www.bilibili.com/video/BV1Whsx65EMR",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1DEsU6DE14",
-        "author": "央视新闻",
-        "duration": "3:10",
-        "cover": "//i2.hdslb.com/bfs/archive/8a1bc695c4aec62c7849a7693f4eb22660e89c8f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DEsU6DE14&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "深圳APEC的首张全家福"
-      },
-      {
-        "title": "“我来帮您整理围巾” APEC领导人休息室内的温馨一幕",
-        "url": "https://www.bilibili.com/video/BV1wPs86JExX",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1wPs86JExX",
-        "author": "央视新闻",
-        "duration": "0:44",
-        "cover": "//i2.hdslb.com/bfs/archive/243087eb5e6f4cffc0c53fb4267a121eb4ae972c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wPs86JExX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "秘鲁总统帮智利总统整理围巾"
-      },
-      {
-        "title": "客场收获MVP呼声！关键时刻詹姆斯一攻一传杀死比赛！",
-        "url": "https://www.bilibili.com/video/BV1M1s469EXz",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1M1s469EXz",
-        "author": "NBA",
-        "duration": "0:57",
-        "cover": "//i2.hdslb.com/bfs/archive/6cb47c49d7858a9268ad7ec2b8d198aeb97687ca.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1M1s469EXz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "詹姆斯最后一攻一传终结比赛"
+        "description": "S16 Vlog最终篇来交作业啦！带大家看看普通镜头外、不一样的总决赛后台视角📹✨ 真的感慨超多，时隔五年，我们LPL终于再次拿回了属于自己的冠军奖杯！ 全程蹲在赛场后台，记录了超多细碎又珍贵的幕后碎片，希望马上分享给屏幕前的你们！一起感受鲜活有趣、情感交融的后台故事～ 亲眼见证BLG一穿四的奇迹之路，真的全程鸡皮疙瘩！ 台前是热血赛场，幕后是选手们的努力和细碎日常。 很幸运亲手记录下这段超棒的夺冠故事，和大家一起分享这份狂喜🏆",
+        "content": "S16 Vlog最终篇来交作业啦！带大家看看普通镜头外、不一样的总决赛后台视角📹✨ 真的感慨超多，时隔五年，我们LPL终于再次拿回了属于自己的冠军奖杯！ 全程蹲在赛场后台，记录了超多细碎又珍贵的幕后碎片，希望马上分享给屏幕前的你们！一起感受鲜活有趣、情感交融的后台故事～ 亲眼见证BLG一穿四的奇迹之路，真的全程鸡皮疙瘩！ 台前是热血赛场，幕后是选手们的努力和细碎日常。 很幸运亲手记录下这段超棒的夺冠故事，和大家一起分享这份狂喜🏆",
+        "bvid": "BV1Whsx65EMR",
+        "author": "余霜Candice",
+        "duration": "8:6",
+        "cover": "//i1.hdslb.com/bfs/archive/e43184bdd260faba2d1731b1e7594d14869bbc01.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Whsx65EMR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "从幕后视角看BLG夺冠"
       },
       {
         "title": "马斯克：我是中国的超级粉丝！",
         "url": "https://www.bilibili.com/video/BV1kfsb6QEBu",
         "desc": "",
-        "rank": 10,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "美国特斯拉公司首席执行官埃隆·马斯克19日在深圳说：“我是中国的超级粉丝。” 他说：“中国很酷。我一直鼓励世界各地的人们来中国走走，亲眼看看中国这些了不起的地方。这里有不可思议的城市、不可思议的自然风光，还有像兵马俑这样的世界奇迹。” 马斯克说：“美中合作越多，各自也会越好。” 中国贸促会会长任鸿斌当天在深圳会见马斯克。 视频来源：央视财经",
@@ -276,10 +234,90 @@
         "hotTitle": "马斯克说自己是中国的超级粉丝"
       },
       {
+        "title": "【大国外交最前线】中美元首深圳会晤 参加会见的美方代表有哪些？",
+        "url": "https://www.bilibili.com/video/BV1Ndsb6REo9",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Ndsb6REo9",
+        "author": "央视新闻",
+        "duration": "1:56",
+        "cover": "//i1.hdslb.com/bfs/archive/3a6902d561e6d1da590befc0d294cdc15c24ffda.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ndsb6REo9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "参加中美元首会晤的美方代表有哪些"
+      },
+      {
+        "title": "【高端访谈】外国人在深圳坐地铁，刷银行卡一秒进站？",
+        "url": "https://www.bilibili.com/video/BV1NGs46jEns",
+        "desc": "",
+        "rank": 10,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1NGs46jEns",
+        "author": "央视新闻",
+        "duration": "2:48",
+        "cover": "//i2.hdslb.com/bfs/archive/93d707d3137cfd494b0a0939f3a34d79a23ee7d5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NGs46jEns&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "万事达CEO感受深圳刷卡进站便利"
+      },
+      {
+        "title": "是身份错位还是商人利益！芒，《后会友期2》我想看到这些人！",
+        "url": "https://www.bilibili.com/video/BV1dts46NEjo",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "怎么连明星都在追《后会友期》啊，招人的时候一个个干嘛去了？你们不主动我们就要主动了！ （●'◡'●)点赞~硬币~收藏~转发~一条龙 微博关注@话很多的小姐姐们，来和我们吹夸夸鸭~",
+        "content": "怎么连明星都在追《后会友期》啊，招人的时候一个个干嘛去了？你们不主动我们就要主动了！ （●'◡'●)点赞~硬币~收藏~转发~一条龙 微博关注@话很多的小姐姐们，来和我们吹夸夸鸭~",
+        "bvid": "BV1dts46NEjo",
+        "author": "话很多的小姐姐们",
+        "duration": "9:3",
+        "cover": "//i1.hdslb.com/bfs/archive/b42c8db744e058a241aeb816c5a570e3b0ca3af1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dts46NEjo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "后会友期2你最想看到哪一对"
+      },
+      {
+        "title": "客场收获MVP呼声！关键时刻詹姆斯一攻一传杀死比赛！",
+        "url": "https://www.bilibili.com/video/BV1M1s469EXz",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1M1s469EXz",
+        "author": "NBA",
+        "duration": "0:57",
+        "cover": "//i2.hdslb.com/bfs/archive/6cb47c49d7858a9268ad7ec2b8d198aeb97687ca.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1M1s469EXz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "詹姆斯最后一攻一传终结比赛"
+      },
+      {
+        "title": "我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】",
+        "url": "https://www.bilibili.com/video/BV18jsA6xEft",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
+        "content": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
+        "bvid": "BV18jsA6xEft",
+        "author": "LING不道",
+        "duration": "1:4",
+        "cover": "//i2.hdslb.com/bfs/archive/c014dba1c54cfcad62c30c18dfe7b0da97e45528.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18jsA6xEft&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "把Win10装进哔哩哔哩"
+      },
+      {
         "title": "地表最强，绝对的数值，大象这个版本怎么样？",
         "url": "https://www.bilibili.com/video/BV1mPsP6pEez",
         "desc": "",
-        "rank": 11,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -295,7 +333,7 @@
         "title": "【CS2更新】熟悉的旋律加入CS2音乐盒~主菜单&MVP试听",
         "url": "https://www.bilibili.com/video/BV1besC6KE6N",
         "desc": "",
-        "rank": 12,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -311,7 +349,7 @@
         "title": "闪存价格两周下跌20%：数据中心大砍单｜显卡日报11月19日",
         "url": "https://www.bilibili.com/video/BV1SHsU6UECz",
         "desc": "",
-        "rank": 13,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "日报有用记得关注哦，你的鼓励真的很重要",
@@ -324,42 +362,26 @@
         "hotTitle": "闪存价格两周下跌20%"
       },
       {
-        "title": "我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】",
-        "url": "https://www.bilibili.com/video/BV18jsA6xEft",
+        "title": "【一个人的独游】当我给2D像素游戏加入离谱的物理引擎！那么你将玩到一个万物皆可交互的涌现式世界！",
+        "url": "https://www.bilibili.com/video/BV1iBsg6WEhq",
         "desc": "",
-        "rank": 14,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
-        "description": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
-        "content": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
-        "bvid": "BV18jsA6xEft",
-        "author": "LING不道",
-        "duration": "1:4",
-        "cover": "//i2.hdslb.com/bfs/archive/c014dba1c54cfcad62c30c18dfe7b0da97e45528.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18jsA6xEft&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "把Win10装进哔哩哔哩"
-      },
-      {
-        "title": "【IGN】《黄金矿工：派对狂欢》22分钟实机演示",
-        "url": "https://www.bilibili.com/video/BV1Nxs26uE46",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《黄金矿工：派对狂欢》是一款 2–6 人在线多人派对游戏，将经典黄金矿工的抓钩玩法带入正面对决的全新舞台。一台电脑还能同屏游玩，一个人也照样能挖。游戏现已登陆PC平台。",
-        "content": "《黄金矿工：派对狂欢》是一款 2–6 人在线多人派对游戏，将经典黄金矿工的抓钩玩法带入正面对决的全新舞台。一台电脑还能同屏游玩，一个人也照样能挖。游戏现已登陆PC平台。",
-        "bvid": "BV1Nxs26uE46",
-        "author": "IGN中国",
-        "duration": "22:44",
-        "cover": "//i0.hdslb.com/bfs/archive/68e79198fad133a566852f1470777ed3b2bd925b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nxs26uE46&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "黄金矿工派对狂欢实机演示"
+        "description": "各位股东们，你们的三连和关注就是我最大的动力！游戏动作帧学习的不死鸟传说！我鼓起勇气向不死鸟制作组发送了邮件，没想到得到了他们制作人的回复！并进行了交流，对方觉得我的游戏很有意思！也同意了我暂时学习使用盖尔的动画！不过后续游戏中有争议的美术素材我依然会进行修改！因为我想做的是一款真正属于自己的游戏！",
+        "content": "各位股东们，你们的三连和关注就是我最大的动力！游戏动作帧学习的不死鸟传说！我鼓起勇气向不死鸟制作组发送了邮件，没想到得到了他们制作人的回复！并进行了交流，对方觉得我的游戏很有意思！也同意了我暂时学习使用盖尔的动画！不过后续游戏中有争议的美术素材我依然会进行修改！因为我想做的是一款真正属于自己的游戏！",
+        "bvid": "BV1iBsg6WEhq",
+        "author": "波克楠楠",
+        "duration": "3:15",
+        "cover": "//i1.hdslb.com/bfs/archive/05ea495f64a0eeca4d0e79539128253c623d03f4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iBsg6WEhq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "万物皆可交互的2D像素游戏"
       },
       {
         "title": "《哈利波特与死亡火器》",
         "url": "https://www.bilibili.com/video/BV1v8sP6vEiq",
         "desc": "",
-        "rank": 16,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "哈利波特在三角洲行动",
@@ -372,68 +394,36 @@
         "hotTitle": "哈利波特与死亡火器"
       },
       {
-        "title": "我们熟悉的那个3A游戏时代，可能真的结束了。【游戏之外】",
-        "url": "https://www.bilibili.com/video/BV1cUsu6ZEYp",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1cUsu6ZEYp",
-        "author": "智能路障",
-        "duration": "40:14",
-        "cover": "//i2.hdslb.com/bfs/archive/ea1b2d0405489bb1d2800f0d7d492515d4433d6c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cUsu6ZEYp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "3A游戏行业会崩溃吗"
-      },
-      {
-        "title": "【IGN】TGA 2026全提名名单公布",
-        "url": "https://www.bilibili.com/video/BV189sy63E56",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "TGA 2026各奖项提名已于今日凌晨1点公布，获得年度游戏奖项提名的作品有《007 初露锋芒》《控制：共振》《GTA6》《影之刃零》《生化危机 安魂曲》以及《塞尔达传说 时之笛》。颁奖活动将于北京时间12月11日早上8点30分开始。",
-        "content": "TGA 2026各奖项提名已于今日凌晨1点公布，获得年度游戏奖项提名的作品有《007 初露锋芒》《控制：共振》《GTA6》《影之刃零》《生化危机 安魂曲》以及《塞尔达传说 时之笛》。颁奖活动将于北京时间12月11日早上8点30分开始。",
-        "bvid": "BV189sy63E56",
-        "author": "IGN中国",
-        "duration": "11:23",
-        "cover": "//i2.hdslb.com/bfs/archive/405f63ddb88ac05213a42f83361518d689bfa7fd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV189sy63E56&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "TGA2026全提名名单公布"
-      },
-      {
-        "title": "缅怀！叶连平老师去世，享年98岁",
-        "url": "https://www.bilibili.com/video/BV1kos46LENq",
+        "title": "这是我们2027年的正式阵容名单！",
+        "url": "https://www.bilibili.com/video/BV1Xrsb6PEap",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "11月18日，“中国好人”、全国道德模范、乡村退休教师叶连平去世，享年98岁。缅怀叶老师！ 记者：刘军喜、黄博涵",
-        "content": "11月18日，“中国好人”、全国道德模范、乡村退休教师叶连平去世，享年98岁。缅怀叶老师！ 记者：刘军喜、黄博涵",
-        "bvid": "BV1kos46LENq",
-        "author": "新华社",
-        "duration": "0:17",
-        "cover": "//i0.hdslb.com/bfs/archive/05c8a1f5badcd76bbb23b1231fb9807870d81db9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kos46LENq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "最美奋斗者叶连平老师逝世"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Xrsb6PEap",
+        "author": "pprxteam",
+        "duration": "0:57",
+        "cover": "//i0.hdslb.com/bfs/archive/0b3b20e6a3dcc8d256931acd1b5fb4c13bd91069.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xrsb6PEap&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "PRX官宣2027新阵容"
       },
       {
-        "title": "俄宇航院士锐评：再不出铁拳太空垃圾要无法无天了",
-        "url": "https://www.bilibili.com/video/BV1uksB6xE3U",
+        "title": "失败公司的成功产品？GoPro相机评测…",
+        "url": "https://www.bilibili.com/video/BV17osu6pEP9",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
-        "content": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
-        "bvid": "BV1uksB6xE3U",
-        "author": "波士顿圆脸",
-        "duration": "134:35",
-        "cover": "//i2.hdslb.com/bfs/archive/ec39c3f4c875bdb7817b53f1a78970a4d4f0a30f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uksB6xE3U&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如何避免太空垃圾变成宇宙暗器"
+        "description": "距离我们上一次评测GoPro的产品，真的已经过去很久了。我们想和你一起看看，曾是运动相机领域佼佼者之一的GoPro，推出的Mission 1 Pro，以及它的ILS版本，到底怎么样？如果这期视频对你有帮助，请多多支持我们，也分享视频给你的朋友们一起看看～",
+        "content": "距离我们上一次评测GoPro的产品，真的已经过去很久了。我们想和你一起看看，曾是运动相机领域佼佼者之一的GoPro，推出的Mission 1 Pro，以及它的ILS版本，到底怎么样？如果这期视频对你有帮助，请多多支持我们，也分享视频给你的朋友们一起看看～",
+        "bvid": "BV17osu6pEP9",
+        "author": "影视飓风",
+        "duration": "15:18",
+        "cover": "//i1.hdslb.com/bfs/archive/8e82bf530745c14aac1f54c848b2c9da1491d27e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17osu6pEP9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "影视飓风GoPro相机评测"
       },
       {
         "title": "【4K】全网首发《GTA6》主线全流程实况解说",
@@ -468,26 +458,10 @@
         "hotTitle": "Viper发起冠军皮肤投票"
       },
       {
-        "title": "寒潮深入南下:广东等将下半年来最强湿冷,极度干燥后大范围雨雪将来",
-        "url": "https://www.bilibili.com/video/BV1m4sU6LEJC",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这次寒潮依然是不容小觑的。第一，这次寒潮的风力不小。在没怎么下雪的京津冀，这次寒潮吹起了5-7级大风，北京市区最大阵风达到8级，山顶最大阵风超过12级。第二，这次寒潮的冷源很强。11月18日850百帕0度线已经跨过长江，寒潮过后，长江以北的苏北、皖北、湖北北部平原地区，以及长江沿线地区将降到0度上下。第三，也是非常重要的一点，就是寒潮一定会翻过南岭和武夷山，而且翻过南岭和武夷山之后，一定会遇到充沛的暖湿气流，而且一定会和暖湿气流结合，造成降雨和湿冷天气。这是因为，目前除了南支槽给我国南方带来水汽外，孟加拉",
-        "content": "这次寒潮依然是不容小觑的。第一，这次寒潮的风力不小。在没怎么下雪的京津冀，这次寒潮吹起了5-7级大风，北京市区最大阵风达到8级，山顶最大阵风超过12级。第二，这次寒潮的冷源很强。11月18日850百帕0度线已经跨过长江，寒潮过后，长江以北的苏北、皖北、湖北北部平原地区，以及长江沿线地区将降到0度上下。第三，也是非常重要的一点，就是寒潮一定会翻过南岭和武夷山，而且翻过南岭和武夷山之后，一定会遇到充沛的暖湿气流，而且一定会和暖湿气流结合，造成降雨和湿冷天气。这是因为，目前除了南支槽给我国南方带来水汽外，孟加拉",
-        "bvid": "BV1m4sU6LEJC",
-        "author": "中气爱",
-        "duration": "4:51",
-        "cover": "//i0.hdslb.com/bfs/archive/6d5f4bba120f1d0d9e88ea9d5e4fae5b8ce2607e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1m4sU6LEJC&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "寒潮深入南下"
-      },
-      {
         "title": "全球最火的电竞比赛！2W一张票！直接看哭了！",
         "url": "https://www.bilibili.com/video/BV1fvsy6WEuC",
         "desc": "",
-        "rank": 24,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "2017年的退出lol解说，我一直在给自己找借口，韩国人太厉害，我们赛区环境不好，lol要凉了。pubg才是未来。 然而我现在才反应过来， 当年的我只是单纯的不信任lpl了，不信任这个陪伴了多年的老朋友了。 我不信任他，但他却一直信任我，他一直在坚持，一直在挑战，在等待着我回来，在等待所有当年转头离开的人回来！ 21年离开电竞圈后，现场看一次lpl夺冠，仿佛成了我心中一个执念，没法在解说台，那么我好歹要在观众席。这执念里寄托着好多说不清的滋味——有当年没能把LOL解说坚持做下去的遗憾，有次次奔赴现场都没",
@@ -500,10 +474,58 @@
         "hotTitle": "2万一张的S16门票体验如何"
       },
       {
+        "title": "我们熟悉的那个3A游戏时代，可能真的结束了。【游戏之外】",
+        "url": "https://www.bilibili.com/video/BV1cUsu6ZEYp",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1cUsu6ZEYp",
+        "author": "智能路障",
+        "duration": "40:14",
+        "cover": "//i2.hdslb.com/bfs/archive/ea1b2d0405489bb1d2800f0d7d492515d4433d6c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cUsu6ZEYp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "3A游戏行业会崩溃吗"
+      },
+      {
+        "title": "缅怀！叶连平老师去世，享年98岁",
+        "url": "https://www.bilibili.com/video/BV1kos46LENq",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "11月18日，“中国好人”、全国道德模范、乡村退休教师叶连平去世，享年98岁。缅怀叶老师！ 记者：刘军喜、黄博涵",
+        "content": "11月18日，“中国好人”、全国道德模范、乡村退休教师叶连平去世，享年98岁。缅怀叶老师！ 记者：刘军喜、黄博涵",
+        "bvid": "BV1kos46LENq",
+        "author": "新华社",
+        "duration": "0:17",
+        "cover": "//i0.hdslb.com/bfs/archive/05c8a1f5badcd76bbb23b1231fb9807870d81db9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kos46LENq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "最美奋斗者叶连平老师逝世"
+      },
+      {
+        "title": "【IGN】《黄金矿工：派对狂欢》22分钟实机演示",
+        "url": "https://www.bilibili.com/video/BV1Nxs26uE46",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《黄金矿工：派对狂欢》是一款 2–6 人在线多人派对游戏，将经典黄金矿工的抓钩玩法带入正面对决的全新舞台。一台电脑还能同屏游玩，一个人也照样能挖。游戏现已登陆PC平台。",
+        "content": "《黄金矿工：派对狂欢》是一款 2–6 人在线多人派对游戏，将经典黄金矿工的抓钩玩法带入正面对决的全新舞台。一台电脑还能同屏游玩，一个人也照样能挖。游戏现已登陆PC平台。",
+        "bvid": "BV1Nxs26uE46",
+        "author": "IGN中国",
+        "duration": "22:44",
+        "cover": "//i0.hdslb.com/bfs/archive/68e79198fad133a566852f1470777ed3b2bd925b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Nxs26uE46&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "黄金矿工派对狂欢实机演示"
+      },
+      {
         "title": "GenG被BLG打解散了？决赛打完仅两天就四人离队，LCK大变天！",
         "url": "https://www.bilibili.com/video/BV13as16LEup",
         "desc": "",
-        "rank": 25,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -516,84 +538,52 @@
         "hotTitle": "GEN不敌BLG后要拆队重组吗"
       },
       {
-        "title": "这才是真正的“一串四”！",
-        "url": "https://www.bilibili.com/video/BV1HHsQ6jEif",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "模仿一下美食纪录片的风格，尝试新东西",
-        "content": "模仿一下美食纪录片的风格，尝试新东西",
-        "bvid": "BV1HHsQ6jEif",
-        "author": "九夜听风",
-        "duration": "4:37",
-        "cover": "//i0.hdslb.com/bfs/archive/cdbaa3b389a1d919080e7eed4915bcae93a12be9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HHsQ6jEif&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "这才是真正的一串四"
-      },
-      {
-        "title": "《GTA6》游民评测10分：GOAT，毫无疑问【国内独家】",
-        "url": "https://www.bilibili.com/video/BV1Szsm6EEan",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《GTA VI》依然延续了Rockstar一贯的登峰造极，再一次从内容量、视觉、叙事等角度突破了电子游戏的极限，从情感故事到神经刺激，都给游戏玩家带来了前所未有的极致体验。 本篇评测所使用的画面均为我们在评测过程中使用PS5 Pro实机录制（除了少量为了防剧透使用的过去公开素材外），在试玩的过程中基本全程能保证稳定无跳帧的30帧体验，受平台码率限制，你们实际玩到的画面会更加惊艳！",
-        "content": "《GTA VI》依然延续了Rockstar一贯的登峰造极，再一次从内容量、视觉、叙事等角度突破了电子游戏的极限，从情感故事到神经刺激，都给游戏玩家带来了前所未有的极致体验。 本篇评测所使用的画面均为我们在评测过程中使用PS5 Pro实机录制（除了少量为了防剧透使用的过去公开素材外），在试玩的过程中基本全程能保证稳定无跳帧的30帧体验，受平台码率限制，你们实际玩到的画面会更加惊艳！",
-        "bvid": "BV1Szsm6EEan",
-        "author": "游民星空官方",
-        "duration": "18:4",
-        "cover": "//i1.hdslb.com/bfs/archive/b348db3bb48f719aa439278b18d69655ff16813c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Szsm6EEan&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GTA6游民评测10分"
-      },
-      {
-        "title": "带外星人土改，在大宋建根据地？国产短剧可能是中国影视圈最进步的地方【毒舌的南瓜】",
-        "url": "https://www.bilibili.com/video/BV1dosu6HE3Q",
+        "title": "寒潮深入南下:广东等将下半年来最强湿冷,极度干燥后大范围雨雪将来",
+        "url": "https://www.bilibili.com/video/BV1m4sU6LEJC",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1dosu6HE3Q",
-        "author": "毒舌的南瓜",
-        "duration": "22:23",
-        "cover": "//i0.hdslb.com/bfs/archive/53b04549f22d902abdee1ad21f611effa9322795.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dosu6HE3Q&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "短剧是中国影视的文化输出吗"
+        "description": "这次寒潮依然是不容小觑的。第一，这次寒潮的风力不小。在没怎么下雪的京津冀，这次寒潮吹起了5-7级大风，北京市区最大阵风达到8级，山顶最大阵风超过12级。第二，这次寒潮的冷源很强。11月18日850百帕0度线已经跨过长江，寒潮过后，长江以北的苏北、皖北、湖北北部平原地区，以及长江沿线地区将降到0度上下。第三，也是非常重要的一点，就是寒潮一定会翻过南岭和武夷山，而且翻过南岭和武夷山之后，一定会遇到充沛的暖湿气流，而且一定会和暖湿气流结合，造成降雨和湿冷天气。这是因为，目前除了南支槽给我国南方带来水汽外，孟加拉",
+        "content": "这次寒潮依然是不容小觑的。第一，这次寒潮的风力不小。在没怎么下雪的京津冀，这次寒潮吹起了5-7级大风，北京市区最大阵风达到8级，山顶最大阵风超过12级。第二，这次寒潮的冷源很强。11月18日850百帕0度线已经跨过长江，寒潮过后，长江以北的苏北、皖北、湖北北部平原地区，以及长江沿线地区将降到0度上下。第三，也是非常重要的一点，就是寒潮一定会翻过南岭和武夷山，而且翻过南岭和武夷山之后，一定会遇到充沛的暖湿气流，而且一定会和暖湿气流结合，造成降雨和湿冷天气。这是因为，目前除了南支槽给我国南方带来水汽外，孟加拉",
+        "bvid": "BV1m4sU6LEJC",
+        "author": "中气爱",
+        "duration": "4:51",
+        "cover": "//i0.hdslb.com/bfs/archive/6d5f4bba120f1d0d9e88ea9d5e4fae5b8ce2607e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1m4sU6LEJC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "寒潮深入南下"
       },
       {
-        "title": "时政Vlog丨集体合影前外宾在做什么？",
-        "url": "https://www.bilibili.com/video/BV1Kgs46mEKU",
+        "title": "【大国外交最前线】现场见证！深圳APEC的首张“全家福”",
+        "url": "https://www.bilibili.com/video/BV1DEsU6DE14",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Kgs46mEKU",
+        "bvid": "BV1DEsU6DE14",
         "author": "央视新闻",
-        "duration": "1:18",
-        "cover": "//i0.hdslb.com/bfs/archive/f5621abab368e0775c0778c1501bbaa842568826.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Kgs46mEKU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "APEC集体合影前外宾在做什么"
+        "duration": "3:10",
+        "cover": "//i2.hdslb.com/bfs/archive/8a1bc695c4aec62c7849a7693f4eb22660e89c8f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DEsU6DE14&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "深圳APEC的首张全家福"
       },
       {
-        "title": "《GTA6》已通关，无剧透聊聊R星有多无敌【视频播客 EP.81】",
-        "url": "https://www.bilibili.com/video/BV1NSsm6rEGE",
+        "title": "俄宇航院士锐评：再不出铁拳太空垃圾要无法无天了",
+        "url": "https://www.bilibili.com/video/BV1uksB6xE3U",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "欢迎回到“核电波”！感谢Rockstar Games，我们已经体验了《GTA6》，今天就来聊聊感受究竟如何！ 本期主播：Nadya / 雪豆 / 西蒙",
-        "content": "欢迎回到“核电波”！感谢Rockstar Games，我们已经体验了《GTA6》，今天就来聊聊感受究竟如何！ 本期主播：Nadya / 雪豆 / 西蒙",
-        "bvid": "BV1NSsm6rEGE",
-        "author": "核电波",
-        "duration": "77:12",
-        "cover": "//i2.hdslb.com/bfs/archive/85f63f3f0d2e90765e77d5b6d61518800d2dde03.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NSsm6rEGE&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "无剧透GTA6评测"
+        "description": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
+        "content": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
+        "bvid": "BV1uksB6xE3U",
+        "author": "波士顿圆脸",
+        "duration": "134:35",
+        "cover": "//i2.hdslb.com/bfs/archive/ec39c3f4c875bdb7817b53f1a78970a4d4f0a30f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uksB6xE3U&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何避免太空垃圾变成宇宙暗器"
       }
     ],
     "qbitai": [
@@ -920,6 +910,26 @@
         "rank": 2
       },
       {
+        "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+        "url": "https://m.36kr.com/newsflashes/4076387247838088",
+        "desc": "AI设计评测平台Design Arena今日发布图片榜单更新。商汤科技日日新 SenseNova U1 Pro 在图片生成（Image）与图片编辑（Image Editing）两大榜单中均登顶中国第一；全球位居第六，仅次于OpenAI的GPT Image 2.x系列不同模型。",
+        "cover": "",
+        "date": 1795074932607,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "是否接到台积电不给公司供应12nm以下流片的通知？翱捷科技回应",
+        "url": "https://m.36kr.com/newsflashes/4076380024345480",
+        "desc": "36氪获悉，11月19日，针对投资者关于“你们是否有接到台积电的通知，不给你们供应12nm以下流片了？”的提问，翱捷科技在互动平台回应称，该言论并不属实。凡是取得BIS的ECCN分类编码，确认不属于限制范围的合规芯片可以正常流片。此机制在本次新规出来之前就存在，现在也没有变。无论公司自身产品还是客户项目产品，均沿合规流片和封测路径进行项目推进和管控，这也是公司一直以来坚持的原则。不存在BIS新规出来后台积电不给公司12nm以下流片的情况。",
+        "cover": "https://img.36krcdn.com/hsossms/20261119/v2_0d010667564e4c548314a8a18294dcf1@5579416_oswg13295oswg789oswg188_img_png",
+        "date": 1795074491720,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "立昂微增资至7.72亿，增幅约15%",
         "url": "https://m.36kr.com/newsflashes/4076364775887745",
         "desc": "36氪获悉，天眼查App显示，近日，杭州立昂微电子股份有限公司发生工商变更，注册资本由约6.71亿元人民币增至约7.72亿元人民币，增幅约15%。该公司成立于2002年3月，法定代表人为王敏文，经营范围包括集成电路芯片及产品制造、集成电路制造、半导体器件专用设备制造等，由王敏文、宁波泓祥和创业投资合伙企业（有限合伙）、香港中央结算有限公司等共同持股。",
@@ -927,7 +937,7 @@
         "date": 1795074038000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "Meta因面临法律挑战暂停新股发行计划",
@@ -937,7 +947,7 @@
         "date": 1795073730000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "欧盟达成协议，延长针对进口商的甲烷法规实施期限",
@@ -947,7 +957,7 @@
         "date": 1795073481000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "诺华预计2031年前销售额年均增长5%，2029年核心营业利润率恢复至40%以上",
@@ -957,7 +967,7 @@
         "date": 1795073325000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "欢聚集团：第三季度总营收同环比双增达6.246亿美元",
@@ -967,7 +977,7 @@
         "date": 1795073120203,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "中信金石、瑞众保险等在江苏成立股权投资合伙企业，出资额12亿",
@@ -977,7 +987,7 @@
         "date": 1795072989000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "商务部：今年“双十一”整体平稳",
@@ -987,7 +997,7 @@
         "date": 1795072882436,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "今年前三季度上海实际使用外资同比增长9.4%",
@@ -997,7 +1007,7 @@
         "date": 1795072700117,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "机构：2027年第一季起整体NAND Flash合约价格将转向下跌趋势",
@@ -1007,7 +1017,7 @@
         "date": 1795072610599,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "OpenAI总裁称其模型助力AMD在5个月内实现相当于一年的芯片研发进展",
@@ -1017,7 +1027,7 @@
         "date": 1795072175000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
@@ -1027,7 +1037,7 @@
         "date": 1795072081628,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "习近平将主持中俄美元首会晤",
@@ -1037,7 +1047,7 @@
         "date": 1795072014350,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "10月国内动力电池装车量环比增长14.0%，同比增长18.2%",
@@ -1047,7 +1057,7 @@
         "date": 1795071915000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "A股三大指数集体收跌，全市场超4800股飘绿",
@@ -1057,7 +1067,7 @@
         "date": 1795071713432,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "微软高管：英伟达风波或促使客户考虑采用其他公司AI芯片",
@@ -1067,7 +1077,7 @@
         "date": 1795071118342,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "火山引擎上线豆包实时音视频通话模型API服务",
@@ -1077,7 +1087,7 @@
         "date": 1795071020639,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "欧盟委员会遭网络攻击，情况已持续超过10天",
@@ -1087,7 +1097,7 @@
         "date": 1795070640179,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "中美元首会见结束",
@@ -1097,35 +1107,15 @@
         "date": 1795070148155,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "上海社保科创股权投资基金登记成立，出资额200亿",
-        "url": "https://m.36kr.com/newsflashes/4076308386714496",
-        "desc": "36氪获悉，天眼查App显示，近日，上海社保科创股权投资基金合伙企业（有限合伙）成立，执行事务合伙人为工银资本管理有限公司、国泰海通开元投资有限公司，出资额200亿元人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由全国社会保障基金理事会、工银金融资产投资有限公司、上海国际集团资产管理有限公司、上海浦东引领区投资中心（有限合伙）、上海汇资投资有限公司、上海静安资本投资运营有限公司、工银资本管理有限公司、国泰海通开元投资有限公司共同出资。",
-        "cover": "",
-        "date": 1795070119306,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "Anthropic灰市交易显示股价开盘预计上涨约20%",
-        "url": "https://m.36kr.com/newsflashes/4076290301645704",
-        "desc": "Anthropic PBC完成扩容后的IPO与私募配售，总募资达1073亿美元，打破SpaceX纪录。灰市交易显示，Anthropic PBC股价开盘预计上涨20%至26%。在线券商IG International提供的衍生品报价显示，周四早间香港时段，公司对应市值1.35万亿美元，较83美元的发行价溢价超24%。该估值基于本次发售股份口径；若按完全稀释股本计算，公司总估值约1.5万亿美元。（新浪财经）",
-        "cover": "",
-        "date": 1795069015481,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795074067962,
-    "bilibili": 1795072347612,
-    "qbitai": 1795045301181,
-    "36kr": 1795045301572
+    "thepaper": 1795074975997,
+    "bilibili": 1795074122556,
+    "qbitai": 1795046206938,
+    "36kr": 1795046207269
   },
   "failures": {}
 }
