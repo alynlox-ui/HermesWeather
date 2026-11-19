@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T03:41:33Z",
+  "updatedAt": "2026-11-19T03:56:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -34,62 +34,62 @@
         "rank": 5
       },
       {
-        "title": "官方通报烤全羊被指剥不出1两肉：已对涉事民宿立案调查",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34504099",
-        "desc": "",
-        "rank": 6
-      },
-      {
         "title": "马上测丨知网、万方、维普三平台同文实测：AI生成率检测结果悬殊，原创内容遭冤",
         "url": "https://www.thepaper.cn/newsDetail_forward_34503761",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "言短意长｜一个土生土长的中国概念，为什么深圳翻译出来就是不一样",
         "url": "https://www.thepaper.cn/newsDetail_forward_34508425",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "APEC现场｜深圳市民街头偶遇多国政要：逛超市、尝车厘子、练八段锦……",
         "url": "https://www.thepaper.cn/newsDetail_forward_34509387",
         "desc": "",
-        "rank": 9
+        "rank": 8
       },
       {
         "title": "地标是如何炼成的｜从“南京长江大桥”认识南京这座城",
         "url": "https://www.thepaper.cn/newsDetail_forward_34491581",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​",
         "url": "https://www.thepaper.cn/newsDetail_forward_34509594",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步",
         "url": "https://www.thepaper.cn/newsDetail_forward_34505131",
         "desc": "",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "马上评｜“老人拆墙让路”事件的三重舆论启示",
         "url": "https://www.thepaper.cn/newsDetail_forward_34509394",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "刘金国人民日报撰文：常态化整治群众身边不正之风和腐败问题",
         "url": "https://www.thepaper.cn/newsDetail_forward_34507872",
         "desc": "",
+        "rank": 13
+      },
+      {
+        "title": "腾讯三季度资本开支同比增超五倍，马化腾：按Token消耗计算，WorkBuddy已成国内规模最大的AI应用",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34504027",
+        "desc": "",
         "rank": 14
       },
       {
-        "title": "四川平武县市监局通报“烤全羊分量不足”：疑似存在缺斤少两问题，立案调查",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34504101",
+        "title": "腾讯总裁刘炽平回应AI“烧钱”：就像建工厂，不指望几周内就看到回报，预计2028年将好转",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34505653",
         "desc": "",
         "rank": 15
       },
@@ -142,20 +142,20 @@
         "hotTitle": "习近平主持中俄美元首会晤"
       },
       {
-        "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-        "url": "https://www.bilibili.com/video/BV143sb6REBG",
+        "title": "APEC世纪晚宴菜单曝光！11月18日晚，亚太经合组织（APEC）第33次领导人非正式会议欢迎晚宴在深圳国际交流中心举行",
+        "url": "https://www.bilibili.com/video/BV1CRs462E3j",
         "desc": "",
         "rank": 2,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV143sb6REBG",
-        "author": "央视新闻",
-        "duration": "7:40",
-        "cover": "//i2.hdslb.com/bfs/archive/c79257fb80b694d0e05356f63f8d844dbbf546b5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV143sb6REBG&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "APEC领导人宣言"
+        "description": "APEC世纪晚宴菜单曝光！11月18日晚，亚太经合组织（APEC）第33次领导人非正式会议欢迎晚宴在深圳国际交流中心举行",
+        "content": "APEC世纪晚宴菜单曝光！11月18日晚，亚太经合组织（APEC）第33次领导人非正式会议欢迎晚宴在深圳国际交流中心举行",
+        "bvid": "BV1CRs462E3j",
+        "author": "极目新闻",
+        "duration": "0:8",
+        "cover": "//i0.hdslb.com/bfs/archive/96957549812d22ad38f00984602bbb195a9d7947.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CRs462E3j&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "APEC声音 绘就亚太新图景"
       },
       {
         "title": "中俄美元首有史以来首次聚首！开场白说了什么？",
@@ -174,26 +174,42 @@
         "hotTitle": "中俄美元首开场白说了什么"
       },
       {
-        "title": "习近平会见美国总统特朗普",
-        "url": "https://www.bilibili.com/video/BV1VZst6eEW6",
+        "title": "特朗普：中国一直很强大，未来中国也将继续保持强大",
+        "url": "https://www.bilibili.com/video/BV1Cssh69EFn",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1VZst6eEW6",
+        "bvid": "BV1Cssh69EFn",
         "author": "央视新闻",
-        "duration": "3:45",
-        "cover": "//i1.hdslb.com/bfs/archive/cb26d77c5f44ea6a263c53aa1f0738199f38d1ec.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VZst6eEW6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "习近平会见美国总统特朗普"
+        "duration": "0:23",
+        "cover": "//i2.hdslb.com/bfs/archive/eb2cb18c9b47c20b103632a739a684a602269c6b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Cssh69EFn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "特朗普说未来中国也将继续保持强大"
+      },
+      {
+        "title": "骗税天王，最终伏法！十年狂飙，走到头了！万字细嗦《谷雨》第十四期 大结局 包含；剧情、细节、伏笔回收、人物结局等",
+        "url": "https://www.bilibili.com/video/BV1SUsh6TEuN",
+        "desc": "",
+        "rank": 5,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "骗税天王，最终伏法！十年狂飙，走到头了！万字细嗦《谷雨》第十四期 大结局 包含；剧情、细节、伏笔回收、人物结局等",
+        "content": "骗税天王，最终伏法！十年狂飙，走到头了！万字细嗦《谷雨》第十四期 大结局 包含；剧情、细节、伏笔回收、人物结局等",
+        "bvid": "BV1SUsh6TEuN",
+        "author": "不善言辞的秃秃",
+        "duration": "34:48",
+        "cover": "//i0.hdslb.com/bfs/archive/d01703f241a98a64b30994b145c7968fd700932c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SUsh6TEuN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "万字速通谷雨大结局"
       },
       {
         "title": "NS官宣Deft选手加盟｜我的心仍未动摇",
         "url": "https://www.bilibili.com/video/BV14Rsh6PEYf",
         "desc": "",
-        "rank": 5,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -209,7 +225,7 @@
         "title": "【GRIMES】B站你好，我是Grimes！",
         "url": "https://www.bilibili.com/video/BV1T3sb6REPa",
         "desc": "",
-        "rank": 6,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "来自未来的信号已成功接收~ 音乐人、制作人、视觉艺术家、未来主义探索者——Grimes 正式登陆 Bilibili！ 音乐、艺术、科技、脑洞与各种奇妙想法，即将在这里与你分享 - Welcome to the GRIMES universe ☆.*･｡₊‧⁺˖⋆₊",
@@ -222,36 +238,20 @@
         "hotTitle": "赛博先锋音乐人Grimes入驻B站"
       },
       {
-        "title": "大牙|| 肖8选择题精讲带背（第二套卷），全网讲解最清晰，专治零基础！",
-        "url": "https://www.bilibili.com/video/BV142sS6HEyv",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV142sS6HEyv",
-        "author": "大牙考研",
-        "duration": "102:47",
-        "cover": "//i1.hdslb.com/bfs/archive/b1e342949085854749adb9f30993b052a9365082.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV142sS6HEyv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "考研倒计时30天政治提分冲刺"
-      },
-      {
-        "title": "【LPL群星合唱单曲】|《明年会更好》",
-        "url": "https://www.bilibili.com/video/BV1bxst6xEfv",
+        "title": "传国玉玺风波 ——【AI全民制作人】",
+        "url": "https://www.bilibili.com/video/BV1risA6kEfV",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "今年世界赛结束了，一切都是最好的安排。 原曲：群星《明天会更好》 改编词视频制作：词元菌",
-        "content": "今年世界赛结束了，一切都是最好的安排。 原曲：群星《明天会更好》 改编词视频制作：词元菌",
-        "bvid": "BV1bxst6xEfv",
-        "author": "词元菌",
-        "duration": "3:39",
-        "cover": "//i1.hdslb.com/bfs/archive/7aed998bb72663f33e1bd6a237c13435af68f689.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bxst6xEfv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "LPL群星合唱单曲 明年会更好"
+        "description": "个大博物馆的国宝争相奔赴，北魏姐妹花守护的竟然是……",
+        "content": "个大博物馆的国宝争相奔赴，北魏姐妹花守护的竟然是……",
+        "bvid": "BV1risA6kEfV",
+        "author": "林溪Lynsey",
+        "duration": "2:22",
+        "cover": "//i1.hdslb.com/bfs/archive/e105c507949a1bf369893882c749f0edbcd16295.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1risA6kEfV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "博物馆奇妙夜之传国玉玺风波"
       },
       {
         "title": "GTA背后的千亿豪赌",
@@ -270,26 +270,42 @@
         "hotTitle": "小Lin说拆解GTA背后的千亿豪赌"
       },
       {
-        "title": "【判断推理】2018国考",
-        "url": "https://www.bilibili.com/video/BV1y54y1B7gd",
+        "title": "【LPL群星合唱单曲】|《明年会更好》",
+        "url": "https://www.bilibili.com/video/BV1bxst6xEfv",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1y54y1B7gd",
-        "author": "公考齐麟",
-        "duration": "141:22",
-        "cover": "//i1.hdslb.com/bfs/archive/e83144bdc599c6373a489021f31bb3e1975a7f86.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1y54y1B7gd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "国考判断推理名师独家直播"
+        "description": "今年世界赛结束了，一切都是最好的安排。 原曲：群星《明天会更好》 改编词视频制作：词元菌",
+        "content": "今年世界赛结束了，一切都是最好的安排。 原曲：群星《明天会更好》 改编词视频制作：词元菌",
+        "bvid": "BV1bxst6xEfv",
+        "author": "词元菌",
+        "duration": "3:39",
+        "cover": "//i1.hdslb.com/bfs/archive/7aed998bb72663f33e1bd6a237c13435af68f689.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bxst6xEfv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "LPL群星合唱单曲 明年会更好"
+      },
+      {
+        "title": "CS2海克斯大乱go来了！肺泡都给我笑炸了",
+        "url": "https://www.bilibili.com/video/BV1eYsB6hE5G",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "创意工坊： 海克斯大乱 GO · Dust II 好友试玩版（作者：海马非马） 海克斯大乱斗 GO mr12版 总帖（沙二）V1.7.8（作者：永雏古夫大帝） 非常非常有意思的创意工坊 大家可以尝试一下！",
+        "content": "创意工坊： 海克斯大乱 GO · Dust II 好友试玩版（作者：海马非马） 海克斯大乱斗 GO mr12版 总帖（沙二）V1.7.8（作者：永雏古夫大帝） 非常非常有意思的创意工坊 大家可以尝试一下！",
+        "bvid": "BV1eYsB6hE5G",
+        "author": "是橘长呀",
+        "duration": "8:11",
+        "cover": "//i2.hdslb.com/bfs/archive/ede0593a568f5270cd92eac6dc6a9b41f526071b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eYsB6hE5G&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "CS2海克斯大乱GO"
       },
       {
         "title": "我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】",
         "url": "https://www.bilibili.com/video/BV18jsA6xEft",
         "desc": "",
-        "rank": 11,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
@@ -305,7 +321,7 @@
         "title": "吃烧烤看消化",
         "url": "https://www.bilibili.com/video/BV11NHL66EzJ",
         "desc": "",
-        "rank": 12,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -321,7 +337,7 @@
         "title": "AI自制《我爱我家》续集，故事在2026年，还是那个味",
         "url": "https://www.bilibili.com/video/BV1N9sS62ERs",
         "desc": "",
-        "rank": 13,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "国产情景喜剧开山之作《我爱我家》，应该是后续《武林外传》、《家有儿女》和《炊事班故事》的前辈。如果《我爱我家》在2026年拍摄，会发生什么样的故事？吐嚎AI自制《我爱我家》续集，还是那个味。",
@@ -337,7 +353,7 @@
         "title": "地表最强，绝对的数值，大象这个版本怎么样？",
         "url": "https://www.bilibili.com/video/BV1mPsP6pEez",
         "desc": "",
-        "rank": 14,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -350,10 +366,26 @@
         "hotTitle": "地表最强数值怪竟然是大象"
       },
       {
+        "title": "大牙|| 肖8选择题精讲带背（第二套卷），全网讲解最清晰，专治零基础！",
+        "url": "https://www.bilibili.com/video/BV142sS6HEyv",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV142sS6HEyv",
+        "author": "大牙考研",
+        "duration": "102:47",
+        "cover": "//i1.hdslb.com/bfs/archive/b1e342949085854749adb9f30993b052a9365082.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV142sS6HEyv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "考研倒计时30天政治提分冲刺"
+      },
+      {
         "title": "美国总统特朗普：美国不支持“台独”",
         "url": "https://www.bilibili.com/video/BV1jQst6BEf2",
         "desc": "",
-        "rank": 15,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -366,26 +398,10 @@
         "hotTitle": "特朗普称美国不支持台独"
       },
       {
-        "title": "困难靶27/30 donk首次打瓦试玩狐狸套",
-        "url": "https://www.bilibili.com/video/BV1jUsU6wEHa",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1jUsU6wEHa",
-        "author": "无畏契约",
-        "duration": "0:48",
-        "cover": "//i2.hdslb.com/bfs/archive/e9bf89a79bf9c99ae49ac5cefe29300e6c577746.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jUsU6wEHa&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "donk首次打瓦试玩"
-      },
-      {
         "title": "《哈利波特与死亡火器》",
         "url": "https://www.bilibili.com/video/BV1v8sP6vEiq",
         "desc": "",
-        "rank": 17,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "哈利波特在三角洲行动",
@@ -398,52 +414,36 @@
         "hotTitle": "哈利波特与死亡火器"
       },
       {
-        "title": "玩刀锋宝贝后再玩阿珂以为自己开挂了。",
-        "url": "https://www.bilibili.com/video/BV11mss6CE6J",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV11mss6CE6J",
-        "author": "流夜一动不动",
-        "duration": "3:54",
-        "cover": "//i1.hdslb.com/bfs/archive/91499034069772755d64226232df54fc78707be7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11mss6CE6J&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主体验新英雄刀锋宝贝"
-      },
-      {
-        "title": "客场收获MVP呼声！关键时刻詹姆斯一攻一传杀死比赛！",
-        "url": "https://www.bilibili.com/video/BV1M1s469EXz",
+        "title": "【判断推理】2018国考",
+        "url": "https://www.bilibili.com/video/BV1y54y1B7gd",
         "desc": "",
         "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1M1s469EXz",
-        "author": "NBA",
-        "duration": "0:57",
-        "cover": "//i2.hdslb.com/bfs/archive/6cb47c49d7858a9268ad7ec2b8d198aeb97687ca.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1M1s469EXz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "詹姆斯最后一攻一传终结比赛"
+        "bvid": "BV1y54y1B7gd",
+        "author": "公考齐麟",
+        "duration": "141:22",
+        "cover": "//i1.hdslb.com/bfs/archive/e83144bdc599c6373a489021f31bb3e1975a7f86.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1y54y1B7gd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "国考判断推理名师独家直播"
       },
       {
-        "title": "【F1拉斯维加斯站】新闻发布会 | 凯迪拉克确认博塔斯征战2027赛季，贝尔曼对还未续约感到失望 | 维斯塔潘支持V8引擎回归，更支持V10",
-        "url": "https://www.bilibili.com/video/BV1Zbsb6GE7d",
+        "title": "为了好好背单词，我把刘晓艳做到了游戏里！【B站AI创造公开赛】",
+        "url": "https://www.bilibili.com/video/BV1bNsb6fENp",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【F1拉斯维加斯站】新闻发布会 | 凯迪拉克确认博塔斯征战2027赛季，贝尔曼对还未续约感到失望 | 维斯塔潘支持V8引擎回归，更支持V10",
-        "content": "【F1拉斯维加斯站】新闻发布会 | 凯迪拉克确认博塔斯征战2027赛季，贝尔曼对还未续约感到失望 | 维斯塔潘支持V8引擎回归，更支持V10",
-        "bvid": "BV1Zbsb6GE7d",
-        "author": "F1赛事资讯",
-        "duration": "7:14",
-        "cover": "//i1.hdslb.com/bfs/archive/f5dc487776a82f645789dac9d7b759bfbf7f0a27.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Zbsb6GE7d&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "凯迪拉克官宣博塔斯续约"
+        "description": "考试倒计时！ 背单词背到犯困？我们做了个《刘晓艳行动》！ 交战搜索搞定就撤！ 拼对单词就能开火，还能赚取哈弗币解锁干员，更有英语总监刘晓艳等你来挑战。 看看你能不能在她出手前拼对 100 个单词！ 试玩链接：https://www.bilibili.com/toy/liuxiaoyan-action/index.html",
+        "content": "考试倒计时！ 背单词背到犯困？我们做了个《刘晓艳行动》！ 交战搜索搞定就撤！ 拼对单词就能开火，还能赚取哈弗币解锁干员，更有英语总监刘晓艳等你来挑战。 看看你能不能在她出手前拼对 100 个单词！ 试玩链接：https://www.bilibili.com/toy/liuxiaoyan-action/index.html",
+        "bvid": "BV1bNsb6fENp",
+        "author": "Git源宝",
+        "duration": "4:57",
+        "cover": "//i0.hdslb.com/bfs/archive/f7aea93786a980a0607bd2e00ed9ec6c00c80a4a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bNsb6fENp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "为了备考我把刘晓艳做进了游戏"
       },
       {
         "title": "Thank you, Choi 'Doran' Hyeon-Jun",
@@ -510,10 +510,26 @@
         "hotTitle": "2万一张的S16门票体验如何"
       },
       {
+        "title": "困难靶27/30 donk首次打瓦试玩狐狸套",
+        "url": "https://www.bilibili.com/video/BV1jUsU6wEHa",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1jUsU6wEHa",
+        "author": "无畏契约",
+        "duration": "0:48",
+        "cover": "//i2.hdslb.com/bfs/archive/e9bf89a79bf9c99ae49ac5cefe29300e6c577746.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jUsU6wEHa&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "donk首次打瓦试玩"
+      },
+      {
         "title": "这才是真正的“一串四”！",
         "url": "https://www.bilibili.com/video/BV1HHsQ6jEif",
         "desc": "",
-        "rank": 25,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "模仿一下美食纪录片的风格，尝试新东西",
@@ -526,10 +542,26 @@
         "hotTitle": "这才是真正的一串四"
       },
       {
+        "title": "THANK YOU ZmjjKK",
+        "url": "https://www.bilibili.com/video/BV1YWsr6NEs7",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "从东京赛场的锋芒初露，到首尔巅峰对决的振臂高呼， 在那些我们共同创造的辉煌时刻中，你是最耀眼的宝石。 如今你决定背上行囊再次远行，纵有万般不舍， 我们依然选择支持你的每一次勇敢启程。 过往一起走过的路、一起流过的汗、一起捧起的奖杯， 我们都将彼此珍藏，成为岁月里最厚重、最温柔的注脚。 山高路远，我们顶峰再见。",
+        "content": "从东京赛场的锋芒初露，到首尔巅峰对决的振臂高呼， 在那些我们共同创造的辉煌时刻中，你是最耀眼的宝石。 如今你决定背上行囊再次远行，纵有万般不舍， 我们依然选择支持你的每一次勇敢启程。 过往一起走过的路、一起流过的汗、一起捧起的奖杯， 我们都将彼此珍藏，成为岁月里最厚重、最温柔的注脚。 山高路远，我们顶峰再见。",
+        "bvid": "BV1YWsr6NEs7",
+        "author": "EDG电子竞技俱乐部",
+        "duration": "5:46",
+        "cover": "//i2.hdslb.com/bfs/archive/68a7ae0f2741c4d21520326c7036ef6f024fb28f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YWsr6NEs7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "ZmjjKK离队EDG"
+      },
+      {
         "title": "传统白事 VS 遗像吧唧：二次元 x 殡葬？白事谷子震惊于谦！【多新鲜呐ep34｜于谦的视频播客】",
         "url": "https://www.bilibili.com/video/BV1WLsK69EzG",
         "desc": "",
-        "rank": 26,
+        "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "本期迎来首位00后嘉宾——﻿@汤木檀泽 ﻿ 。虽然年纪不大，职业却相当冷门：入殓师。今天就跟着她的视角，看看殡葬行业都发展成啥样了。 本来以为聊殡葬得挺沉重，没想到汤汤一上来就给我展示了各种新鲜玩意儿：手搓骨灰盒、纸扎数位板和鱼竿、超长蛋挞，还有一大堆二次元殡葬周边，看得我一愣一愣的。 汤汤也分享了入殓师的工作日常，认真工作之余还有不少稀奇事儿。聊到给自己设计的告别，才发现告别也能聊得体面——原来面对死亡，不只有沉重一种姿态。 就像电影里说的那样：\"死亡不是终点，遗忘才是。\"被记住的人，就永远都在。",
@@ -542,68 +574,36 @@
         "hotTitle": "于谦汤木檀泽聊告别"
       },
       {
-        "title": "【文吉儿】全网最细！深扒天才美女作家的来时路（上）",
-        "url": "https://www.bilibili.com/video/BV1oSsU68EcD",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "注意发言，点赞投币收藏！",
-        "content": "注意发言，点赞投币收藏！",
-        "bvid": "BV1oSsU68EcD",
-        "author": "流浪豹豹",
-        "duration": "14:24",
-        "cover": "//i0.hdslb.com/bfs/archive/c739dc16093438e3356d7cab8cad147cf0078659.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oSsU68EcD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "天才美女作家文吉儿来时路"
-      },
-      {
-        "title": "对话《人民的名义》《人世间》《谷雨》导演李路：不论拍哪种剧，都是拍人的故事！【主创有话说EP23|视频播客】",
-        "url": "https://www.bilibili.com/video/BV1aqsB6ZEu7",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "在《人民的名义》成为显学的时代，观众们会热烈讨论祁同伟该不该胜天半子，分析侯亮平是不是伪君子，却很少有人注意到这部剧的导演：李路。 他精品率高且风格多样。 8.2分的《老大的幸福》曾在央视创下收视纪录；年代剧《人世间》让无数观众落泪，拿下中国电视剧三大奖“大满贯”。 最近他又将真实发生过的税务大案搬上了荧屏，让我们一起来和导演聊聊创作幕后。",
-        "content": "在《人民的名义》成为显学的时代，观众们会热烈讨论祁同伟该不该胜天半子，分析侯亮平是不是伪君子，却很少有人注意到这部剧的导演：李路。 他精品率高且风格多样。 8.2分的《老大的幸福》曾在央视创下收视纪录；年代剧《人世间》让无数观众落泪，拿下中国电视剧三大奖“大满贯”。 最近他又将真实发生过的税务大案搬上了荧屏，让我们一起来和导演聊聊创作幕后。",
-        "bvid": "BV1aqsB6ZEu7",
-        "author": "小片片说大片",
-        "duration": "38:18",
-        "cover": "//i2.hdslb.com/bfs/archive/336e63f79f349553f457c94d08d9241d35af9b7a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aqsB6ZEu7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "李路回应张颂文新角色像高启强"
-      },
-      {
-        "title": "非凡魔丸",
-        "url": "https://www.bilibili.com/video/BV1LLsr66EC6",
+        "title": "全员吃瓜？不是来算账的？《后会友期》（第六期）",
+        "url": "https://www.bilibili.com/video/BV15Rst6iEgn",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "最魔丸的一集",
-        "content": "最魔丸的一集",
-        "bvid": "BV1LLsr66EC6",
-        "author": "伊介书生",
-        "duration": "1:28",
-        "cover": "//i0.hdslb.com/bfs/archive/2f070870d516dc6eef35513d53160e883e525db8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LLsr66EC6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "魔丸版非凡之爱"
+        "description": "",
+        "content": "",
+        "bvid": "BV15Rst6iEgn",
+        "author": "黄花梨罐头",
+        "duration": "5:37",
+        "cover": "//i0.hdslb.com/bfs/archive/de04970cf257405244b595f3192d9927dec9d792.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Rst6iEgn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "后会友期吃瓜局又开始了"
       },
       {
-        "title": "【真实锐评】宙斯回归T1 再不回LCK都要被BLG打解散了！只有他和faker能救LCK！",
-        "url": "https://www.bilibili.com/video/BV1ZUst66EwJ",
+        "title": "客场收获MVP呼声！关键时刻詹姆斯一攻一传杀死比赛！",
+        "url": "https://www.bilibili.com/video/BV1M1s469EXz",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1ZUst66EwJ",
-        "author": "真实电竞",
-        "duration": "8:25",
-        "cover": "//i1.hdslb.com/bfs/archive/65b286ab74fb80d223d7e7e25976b2f208933aa1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZUst66EwJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Zeus真的会回归T1吗"
+        "bvid": "BV1M1s469EXz",
+        "author": "NBA",
+        "duration": "0:57",
+        "cover": "//i2.hdslb.com/bfs/archive/6cb47c49d7858a9268ad7ec2b8d198aeb97687ca.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1M1s469EXz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "詹姆斯最后一攻一传终结比赛"
       }
     ],
     "qbitai": [
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795088465009,
-    "bilibili": 1795087559783,
-    "qbitai": 1795059692636,
-    "36kr": 1795059693031
+    "thepaper": 1795089364792,
+    "bilibili": 1795089373489,
+    "qbitai": 1795060592335,
+    "36kr": 1795060592723
   },
   "failures": {}
 }
