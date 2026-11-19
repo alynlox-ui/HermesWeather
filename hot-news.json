@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T23:11:30Z",
+  "updatedAt": "2026-11-18T23:26:31Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,16 @@
     ],
     "bilibili": [
       {
+        "title": "习近平谈建设亚太共同体",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E5%BB%BA%E8%AE%BE%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E4%BD%93",
+        "desc": "",
+        "rank": 1
+      },
+      {
         "title": "现场视频！习近平会见美国总统特朗普",
         "url": "https://www.bilibili.com/video/BV1oYsb6zET4",
         "desc": "",
-        "rank": 1,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -145,7 +151,7 @@
         "title": "【独家视频】习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
         "url": "https://www.bilibili.com/video/BV1M1s469E6S",
         "desc": "",
-        "rank": 2,
+        "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -156,22 +162,6 @@
         "cover": "//i2.hdslb.com/bfs/archive/d516b7f8510d555b3b04913ae67bffb23a14413f.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1M1s469E6S&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "亚太大家庭的成员同在一条船上"
-      },
-      {
-        "title": "现场视频！我国成功发射实践二十四号卫星",
-        "url": "https://www.bilibili.com/video/BV122ss65E9d",
-        "desc": "",
-        "rank": 3,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV122ss65E9d",
-        "author": "央视网",
-        "duration": "0:19",
-        "cover": "//i0.hdslb.com/bfs/archive/6ce6d30bb7bdb9e2c5321803b5a51040a78fc30c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV122ss65E9d&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "我国成功发射实践二十四号卫星"
       },
       {
         "title": "APEC欢迎宴会高清大图，中俄美元首同框",
@@ -270,90 +260,26 @@
         "hotTitle": "詹姆斯最后一攻一传终结比赛"
       },
       {
-        "title": "缅怀！叶连平老师去世，享年98岁",
-        "url": "https://www.bilibili.com/video/BV1kos46LENq",
+        "title": "马斯克：我是中国的超级粉丝！",
+        "url": "https://www.bilibili.com/video/BV1kfsb6QEBu",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "11月18日，“中国好人”、全国道德模范、乡村退休教师叶连平去世，享年98岁。缅怀叶老师！ 记者：刘军喜、黄博涵",
-        "content": "11月18日，“中国好人”、全国道德模范、乡村退休教师叶连平去世，享年98岁。缅怀叶老师！ 记者：刘军喜、黄博涵",
-        "bvid": "BV1kos46LENq",
+        "description": "美国特斯拉公司首席执行官埃隆·马斯克19日在深圳说：“我是中国的超级粉丝。” 他说：“中国很酷。我一直鼓励世界各地的人们来中国走走，亲眼看看中国这些了不起的地方。这里有不可思议的城市、不可思议的自然风光，还有像兵马俑这样的世界奇迹。” 马斯克说：“美中合作越多，各自也会越好。” 中国贸促会会长任鸿斌当天在深圳会见马斯克。 视频来源：央视财经",
+        "content": "美国特斯拉公司首席执行官埃隆·马斯克19日在深圳说：“我是中国的超级粉丝。” 他说：“中国很酷。我一直鼓励世界各地的人们来中国走走，亲眼看看中国这些了不起的地方。这里有不可思议的城市、不可思议的自然风光，还有像兵马俑这样的世界奇迹。” 马斯克说：“美中合作越多，各自也会越好。” 中国贸促会会长任鸿斌当天在深圳会见马斯克。 视频来源：央视财经",
+        "bvid": "BV1kfsb6QEBu",
         "author": "新华社",
-        "duration": "0:17",
-        "cover": "//i0.hdslb.com/bfs/archive/05c8a1f5badcd76bbb23b1231fb9807870d81db9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kos46LENq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "最美奋斗者叶连平老师逝世"
-      },
-      {
-        "title": "【CS2更新】熟悉的旋律加入CS2音乐盒~主菜单&MVP试听",
-        "url": "https://www.bilibili.com/video/BV1besC6KE6N",
-        "desc": "",
-        "rank": 11,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1besC6KE6N",
-        "author": "AYCS2",
-        "duration": "9:24",
-        "cover": "//i0.hdslb.com/bfs/archive/72e927169e6c422301e23cca11991a0dbd040260.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1besC6KE6N&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "CS2新音乐盒试听"
-      },
-      {
-        "title": "《哈利波特与死亡火器》",
-        "url": "https://www.bilibili.com/video/BV1v8sP6vEiq",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "哈利波特在三角洲行动",
-        "content": "哈利波特在三角洲行动",
-        "bvid": "BV1v8sP6vEiq",
-        "author": "推背兔の",
-        "duration": "8:41",
-        "cover": "//i2.hdslb.com/bfs/archive/e6acec036d699eb75de8270a5222ea466bca46a8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1v8sP6vEiq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "哈利波特与死亡火器"
-      },
-      {
-        "title": "我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】",
-        "url": "https://www.bilibili.com/video/BV18jsA6xEft",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
-        "content": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
-        "bvid": "BV18jsA6xEft",
-        "author": "LING不道",
-        "duration": "1:4",
-        "cover": "//i2.hdslb.com/bfs/archive/c014dba1c54cfcad62c30c18dfe7b0da97e45528.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18jsA6xEft&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "把Win10装进哔哩哔哩"
-      },
-      {
-        "title": "闪存价格两周下跌20%：数据中心大砍单｜显卡日报11月19日",
-        "url": "https://www.bilibili.com/video/BV1SHsU6UECz",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "日报有用记得关注哦，你的鼓励真的很重要",
-        "content": "日报有用记得关注哦，你的鼓励真的很重要",
-        "bvid": "BV1SHsU6UECz",
-        "author": "芝士华莱士",
-        "duration": "2:1",
-        "cover": "//i1.hdslb.com/bfs/archive/c4ef7ba07ef6bf93f1961690e00477f26a13b425.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SHsU6UECz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "闪存价格两周下跌20%"
+        "duration": "0:52",
+        "cover": "//i1.hdslb.com/bfs/archive/c44445bad15216a48aafc940309d09657c924fb4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kfsb6QEBu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "马斯克说自己是中国的超级粉丝"
       },
       {
         "title": "地表最强，绝对的数值，大象这个版本怎么样？",
         "url": "https://www.bilibili.com/video/BV1mPsP6pEez",
         "desc": "",
-        "rank": 15,
+        "rank": 11,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -366,10 +292,58 @@
         "hotTitle": "地表最强数值怪竟然是大象"
       },
       {
+        "title": "【CS2更新】熟悉的旋律加入CS2音乐盒~主菜单&MVP试听",
+        "url": "https://www.bilibili.com/video/BV1besC6KE6N",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1besC6KE6N",
+        "author": "AYCS2",
+        "duration": "9:24",
+        "cover": "//i0.hdslb.com/bfs/archive/72e927169e6c422301e23cca11991a0dbd040260.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1besC6KE6N&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "CS2新音乐盒试听"
+      },
+      {
+        "title": "闪存价格两周下跌20%：数据中心大砍单｜显卡日报11月19日",
+        "url": "https://www.bilibili.com/video/BV1SHsU6UECz",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "日报有用记得关注哦，你的鼓励真的很重要",
+        "content": "日报有用记得关注哦，你的鼓励真的很重要",
+        "bvid": "BV1SHsU6UECz",
+        "author": "芝士华莱士",
+        "duration": "2:1",
+        "cover": "//i1.hdslb.com/bfs/archive/c4ef7ba07ef6bf93f1961690e00477f26a13b425.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SHsU6UECz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "闪存价格两周下跌20%"
+      },
+      {
+        "title": "我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】",
+        "url": "https://www.bilibili.com/video/BV18jsA6xEft",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
+        "content": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
+        "bvid": "BV18jsA6xEft",
+        "author": "LING不道",
+        "duration": "1:4",
+        "cover": "//i2.hdslb.com/bfs/archive/c014dba1c54cfcad62c30c18dfe7b0da97e45528.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18jsA6xEft&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "把Win10装进哔哩哔哩"
+      },
+      {
         "title": "【IGN】《黄金矿工：派对狂欢》22分钟实机演示",
         "url": "https://www.bilibili.com/video/BV1Nxs26uE46",
         "desc": "",
-        "rank": 16,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "《黄金矿工：派对狂欢》是一款 2–6 人在线多人派对游戏，将经典黄金矿工的抓钩玩法带入正面对决的全新舞台。一台电脑还能同屏游玩，一个人也照样能挖。游戏现已登陆PC平台。",
@@ -382,26 +356,26 @@
         "hotTitle": "黄金矿工派对狂欢实机演示"
       },
       {
-        "title": "俄宇航院士锐评：再不出铁拳太空垃圾要无法无天了",
-        "url": "https://www.bilibili.com/video/BV1uksB6xE3U",
+        "title": "《哈利波特与死亡火器》",
+        "url": "https://www.bilibili.com/video/BV1v8sP6vEiq",
         "desc": "",
-        "rank": 17,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
-        "content": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
-        "bvid": "BV1uksB6xE3U",
-        "author": "波士顿圆脸",
-        "duration": "134:35",
-        "cover": "//i2.hdslb.com/bfs/archive/ec39c3f4c875bdb7817b53f1a78970a4d4f0a30f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uksB6xE3U&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如何避免太空垃圾变成宇宙暗器"
+        "description": "哈利波特在三角洲行动",
+        "content": "哈利波特在三角洲行动",
+        "bvid": "BV1v8sP6vEiq",
+        "author": "推背兔の",
+        "duration": "8:41",
+        "cover": "//i2.hdslb.com/bfs/archive/e6acec036d699eb75de8270a5222ea466bca46a8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1v8sP6vEiq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "哈利波特与死亡火器"
       },
       {
         "title": "我们熟悉的那个3A游戏时代，可能真的结束了。【游戏之外】",
         "url": "https://www.bilibili.com/video/BV1cUsu6ZEYp",
         "desc": "",
-        "rank": 18,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -417,7 +391,7 @@
         "title": "【IGN】TGA 2026全提名名单公布",
         "url": "https://www.bilibili.com/video/BV189sy63E56",
         "desc": "",
-        "rank": 19,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "TGA 2026各奖项提名已于今日凌晨1点公布，获得年度游戏奖项提名的作品有《007 初露锋芒》《控制：共振》《GTA6》《影之刃零》《生化危机 安魂曲》以及《塞尔达传说 时之笛》。颁奖活动将于北京时间12月11日早上8点30分开始。",
@@ -430,20 +404,36 @@
         "hotTitle": "TGA2026全提名名单公布"
       },
       {
-        "title": "GenG被BLG打解散了？决赛打完仅两天就四人离队，LCK大变天！",
-        "url": "https://www.bilibili.com/video/BV13as16LEup",
+        "title": "缅怀！叶连平老师去世，享年98岁",
+        "url": "https://www.bilibili.com/video/BV1kos46LENq",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "11月18日，“中国好人”、全国道德模范、乡村退休教师叶连平去世，享年98岁。缅怀叶老师！ 记者：刘军喜、黄博涵",
+        "content": "11月18日，“中国好人”、全国道德模范、乡村退休教师叶连平去世，享年98岁。缅怀叶老师！ 记者：刘军喜、黄博涵",
+        "bvid": "BV1kos46LENq",
+        "author": "新华社",
+        "duration": "0:17",
+        "cover": "//i0.hdslb.com/bfs/archive/05c8a1f5badcd76bbb23b1231fb9807870d81db9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kos46LENq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "最美奋斗者叶连平老师逝世"
+      },
+      {
+        "title": "俄宇航院士锐评：再不出铁拳太空垃圾要无法无天了",
+        "url": "https://www.bilibili.com/video/BV1uksB6xE3U",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV13as16LEup",
-        "author": "燃烧的显卡菌",
-        "duration": "1:6",
-        "cover": "//i0.hdslb.com/bfs/archive/f62fa098e24873e009706f7f2c5812cdbdaac762.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13as16LEup&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GEN不敌BLG后要拆队重组吗"
+        "description": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
+        "content": "波士顿圆脸独家对话俄罗斯宇航科学院院士、俄罗斯无人机与卫星制造商Geoscan集团总经理顾问、俄罗斯技术主权出口协会战略副主席安德烈·伊奥宁",
+        "bvid": "BV1uksB6xE3U",
+        "author": "波士顿圆脸",
+        "duration": "134:35",
+        "cover": "//i2.hdslb.com/bfs/archive/ec39c3f4c875bdb7817b53f1a78970a4d4f0a30f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uksB6xE3U&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何避免太空垃圾变成宇宙暗器"
       },
       {
         "title": "【4K】全网首发《GTA6》主线全流程实况解说",
@@ -462,26 +452,10 @@
         "hotTitle": "GTA6实况"
       },
       {
-        "title": "这才是真正的“一串四”！",
-        "url": "https://www.bilibili.com/video/BV1HHsQ6jEif",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "模仿一下美食纪录片的风格，尝试新东西",
-        "content": "模仿一下美食纪录片的风格，尝试新东西",
-        "bvid": "BV1HHsQ6jEif",
-        "author": "九夜听风",
-        "duration": "4:37",
-        "cover": "//i0.hdslb.com/bfs/archive/cdbaa3b389a1d919080e7eed4915bcae93a12be9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HHsQ6jEif&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "这才是真正的一串四"
-      },
-      {
         "title": "贴吧热议Viper冠军皮肤投票选蛇女，吧友玩梗“我的毒没有解药”，支持选蛇女的人多于选EZ！",
         "url": "https://www.bilibili.com/video/BV1xLsQ6nEVo",
         "desc": "",
-        "rank": 23,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -497,7 +471,7 @@
         "title": "寒潮深入南下:广东等将下半年来最强湿冷,极度干燥后大范围雨雪将来",
         "url": "https://www.bilibili.com/video/BV1m4sU6LEJC",
         "desc": "",
-        "rank": 24,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "这次寒潮依然是不容小觑的。第一，这次寒潮的风力不小。在没怎么下雪的京津冀，这次寒潮吹起了5-7级大风，北京市区最大阵风达到8级，山顶最大阵风超过12级。第二，这次寒潮的冷源很强。11月18日850百帕0度线已经跨过长江，寒潮过后，长江以北的苏北、皖北、湖北北部平原地区，以及长江沿线地区将降到0度上下。第三，也是非常重要的一点，就是寒潮一定会翻过南岭和武夷山，而且翻过南岭和武夷山之后，一定会遇到充沛的暖湿气流，而且一定会和暖湿气流结合，造成降雨和湿冷天气。这是因为，目前除了南支槽给我国南方带来水汽外，孟加拉",
@@ -513,7 +487,7 @@
         "title": "全球最火的电竞比赛！2W一张票！直接看哭了！",
         "url": "https://www.bilibili.com/video/BV1fvsy6WEuC",
         "desc": "",
-        "rank": 25,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "2017年的退出lol解说，我一直在给自己找借口，韩国人太厉害，我们赛区环境不好，lol要凉了。pubg才是未来。 然而我现在才反应过来， 当年的我只是单纯的不信任lpl了，不信任这个陪伴了多年的老朋友了。 我不信任他，但他却一直信任我，他一直在坚持，一直在挑战，在等待着我回来，在等待所有当年转头离开的人回来！ 21年离开电竞圈后，现场看一次lpl夺冠，仿佛成了我心中一个执念，没法在解说台，那么我好歹要在观众席。这执念里寄托着好多说不清的滋味——有当年没能把LOL解说坚持做下去的遗憾，有次次奔赴现场都没",
@@ -526,20 +500,36 @@
         "hotTitle": "2万一张的S16门票体验如何"
       },
       {
-        "title": "马斯克：我是中国的超级粉丝！",
-        "url": "https://www.bilibili.com/video/BV1kfsb6QEBu",
+        "title": "GenG被BLG打解散了？决赛打完仅两天就四人离队，LCK大变天！",
+        "url": "https://www.bilibili.com/video/BV13as16LEup",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV13as16LEup",
+        "author": "燃烧的显卡菌",
+        "duration": "1:6",
+        "cover": "//i0.hdslb.com/bfs/archive/f62fa098e24873e009706f7f2c5812cdbdaac762.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13as16LEup&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GEN不敌BLG后要拆队重组吗"
+      },
+      {
+        "title": "这才是真正的“一串四”！",
+        "url": "https://www.bilibili.com/video/BV1HHsQ6jEif",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "美国特斯拉公司首席执行官埃隆·马斯克19日在深圳说：“我是中国的超级粉丝。” 他说：“中国很酷。我一直鼓励世界各地的人们来中国走走，亲眼看看中国这些了不起的地方。这里有不可思议的城市、不可思议的自然风光，还有像兵马俑这样的世界奇迹。” 马斯克说：“美中合作越多，各自也会越好。” 中国贸促会会长任鸿斌当天在深圳会见马斯克。 视频来源：央视财经",
-        "content": "美国特斯拉公司首席执行官埃隆·马斯克19日在深圳说：“我是中国的超级粉丝。” 他说：“中国很酷。我一直鼓励世界各地的人们来中国走走，亲眼看看中国这些了不起的地方。这里有不可思议的城市、不可思议的自然风光，还有像兵马俑这样的世界奇迹。” 马斯克说：“美中合作越多，各自也会越好。” 中国贸促会会长任鸿斌当天在深圳会见马斯克。 视频来源：央视财经",
-        "bvid": "BV1kfsb6QEBu",
-        "author": "新华社",
-        "duration": "0:52",
-        "cover": "//i1.hdslb.com/bfs/archive/c44445bad15216a48aafc940309d09657c924fb4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kfsb6QEBu&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "马斯克说自己是中国的超级粉丝"
+        "description": "模仿一下美食纪录片的风格，尝试新东西",
+        "content": "模仿一下美食纪录片的风格，尝试新东西",
+        "bvid": "BV1HHsQ6jEif",
+        "author": "九夜听风",
+        "duration": "4:37",
+        "cover": "//i0.hdslb.com/bfs/archive/cdbaa3b389a1d919080e7eed4915bcae93a12be9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HHsQ6jEif&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "这才是真正的一串四"
       },
       {
         "title": "《GTA6》游民评测10分：GOAT，毫无疑问【国内独家】",
@@ -558,26 +548,10 @@
         "hotTitle": "GTA6游民评测10分"
       },
       {
-        "title": "时政Vlog丨集体合影前外宾在做什么？",
-        "url": "https://www.bilibili.com/video/BV1Kgs46mEKU",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Kgs46mEKU",
-        "author": "央视新闻",
-        "duration": "1:18",
-        "cover": "//i0.hdslb.com/bfs/archive/f5621abab368e0775c0778c1501bbaa842568826.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Kgs46mEKU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "APEC集体合影前外宾在做什么"
-      },
-      {
         "title": "带外星人土改，在大宋建根据地？国产短剧可能是中国影视圈最进步的地方【毒舌的南瓜】",
         "url": "https://www.bilibili.com/video/BV1dosu6HE3Q",
         "desc": "",
-        "rank": 29,
+        "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -590,20 +564,36 @@
         "hotTitle": "短剧是中国影视的文化输出吗"
       },
       {
-        "title": "BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！",
-        "url": "https://www.bilibili.com/video/BV158sm6sEwd",
+        "title": "时政Vlog丨集体合影前外宾在做什么？",
+        "url": "https://www.bilibili.com/video/BV1Kgs46mEKU",
         "desc": "",
-        "rank": 30,
+        "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV158sm6sEwd",
-        "author": "分析师蓝宝石",
-        "duration": "33:13",
-        "cover": "//i1.hdslb.com/bfs/archive/56c7796416165b5c41895562e7352061465a583d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV158sm6sEwd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG如何一穿四LCK夺冠"
+        "bvid": "BV1Kgs46mEKU",
+        "author": "央视新闻",
+        "duration": "1:18",
+        "cover": "//i0.hdslb.com/bfs/archive/f5621abab368e0775c0778c1501bbaa842568826.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Kgs46mEKU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "APEC集体合影前外宾在做什么"
+      },
+      {
+        "title": "《GTA6》已通关，无剧透聊聊R星有多无敌【视频播客 EP.81】",
+        "url": "https://www.bilibili.com/video/BV1NSsm6rEGE",
+        "desc": "",
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "欢迎回到“核电波”！感谢Rockstar Games，我们已经体验了《GTA6》，今天就来聊聊感受究竟如何！ 本期主播：Nadya / 雪豆 / 西蒙",
+        "content": "欢迎回到“核电波”！感谢Rockstar Games，我们已经体验了《GTA6》，今天就来聊聊感受究竟如何！ 本期主播：Nadya / 雪豆 / 西蒙",
+        "bvid": "BV1NSsm6rEGE",
+        "author": "核电波",
+        "duration": "77:12",
+        "cover": "//i2.hdslb.com/bfs/archive/85f63f3f0d2e90765e77d5b6d61518800d2dde03.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NSsm6rEGE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "无剧透GTA6评测"
       }
     ],
     "qbitai": [
@@ -930,6 +920,56 @@
         "rank": 2
       },
       {
+        "title": "欢聚集团：第三季度总营收同环比双增达6.246亿美元",
+        "url": "https://m.36kr.com/newsflashes/4076357553411207",
+        "desc": "36氪获悉，欢聚集团发布2026年第三季度财报。本季度，欢聚集团总收入高于市场预期，达6.246亿美元，同比增长15.6%，环比增长5.7%。其中，社交娱乐业务收入4.41亿美元，同比增8.8%；BIGO Ads（包含一方及三方业务）收入1.457亿美元，同比增39.6%；SHOPLINE收入达3780万美元，同比增24.7%。在非美国通用会计准则下，欢聚集团第三季度经营利润4660万美元，同比增长14.6%，EBITDA（息税折旧摊销前利润）达5570万美元，同比增长10.1%",
+        "cover": "",
+        "date": 1795073120203,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "中信金石、瑞众保险等在江苏成立股权投资合伙企业，出资额12亿",
+        "url": "https://m.36kr.com/newsflashes/4076347621217413",
+        "desc": "36氪获悉，天眼查App显示，近日，瑞众金石紫金（江苏）股权投资合伙企业（有限合伙）成立，执行事务合伙人为中信金石投资有限公司，出资额12亿元人民币，经营范围为股权投资。合伙人信息显示，该合伙企业由瑞众人寿保险有限责任公司、紫金财产保险股份有限公司、中信金石投资有限公司、金石润泽（淄博）投资咨询合伙企业（有限合伙）共同出资。",
+        "cover": "",
+        "date": 1795072989000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "商务部：今年“双十一”整体平稳",
+        "url": "https://m.36kr.com/newsflashes/4076353657836419",
+        "desc": "11月19日，商务部新闻发言人何亚东在例行新闻发布会上表示，今年“双十一”整体平稳。在服务方面，线上下单、线下体验新模式广受欢迎，到店餐饮消费需求加速释放；在场景方面，“词元+终端”创新消费体验，人工智能与消费深度融合，主要电商平台上线词元专区，让买算力像充话费一样简单。总的来看，“双十一”购物车扩容向新，消费边界不断拓展，勾勒出消费多元图景。（证券时报）",
+        "cover": "",
+        "date": 1795072882436,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "今年前三季度上海实际使用外资同比增长9.4%",
+        "url": "https://m.36kr.com/newsflashes/4076350670721924",
+        "desc": "从18日在上海举行的第四十三批跨国公司地区总部和研发中心颁证仪式上获悉，今年1月到9月，上海新设外资企业4720家，实际使用外资达到132亿美元，同比增长9.4%。上海市商务委最新数据显示，今年前三季度，上海新认定跨国公司地区总部48家、外资研发中心44家，截至9月底，累计分别达到1124家、680家。上海是外商投资的首选地之一、是跨国公司全球产业链和供应链布局的首选地之一。面向“十五五”新征程，上海将加快塑造吸引外资新优势，持续优化国际一流营商环境，支持外资扩大在沪投资，提升跨国公司地区总部和外资研发中心能级，拓展投资决策、财资管理、供应链管理等功能，进一步立足上海、布局全球，深度融入本地创新生态，实现更好更优发展。（新华社）",
+        "cover": "",
+        "date": 1795072700117,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "机构：2027年第一季起整体NAND Flash合约价格将转向下跌趋势",
+        "url": "https://m.36kr.com/newsflashes/4076349204059269",
+        "desc": "36氪获悉，根据TrendForce集邦咨询最新存储器产业研究，2027年全球NAND Flash产业将迎来供需反转；在整体供给量将高速成长的情况下，因部分云端服务供应商（CSP）大幅下修Enterprise SSD订单，而且来自消费性电子产品的需求可能进一步放缓，市场供过于求情势将加剧，TrendForce集邦咨询预估，2027年第一季起整体NAND Flash合约价格将转向下跌趋势，跌幅可能逐季扩大。",
+        "cover": "",
+        "date": 1795072610599,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "OpenAI总裁称其模型助力AMD在5个月内实现相当于一年的芯片研发进展",
         "url": "https://m.36kr.com/newsflashes/4076332280845193",
         "desc": "OpenAI总裁格雷格·布罗克曼表示，该公司的人工智能模型帮助AMD在不到五个月的时间里，在芯片研发方面实现了“相当于额外一年”的进展；部分优化成果已经落实到可以投产的芯片设计方案中。在周三发布的一份研究报告中，OpenAI披露，通过其模型优化，AMD旗舰级GPU设计在功耗、性能和面积（PPA）方面均实现了最高14%的提升。（新浪财经）",
@@ -937,7 +977,7 @@
         "date": 1795072175000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 8
       },
       {
         "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
@@ -947,7 +987,7 @@
         "date": 1795072081628,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 9
       },
       {
         "title": "习近平将主持中俄美元首会晤",
@@ -957,7 +997,7 @@
         "date": 1795072014350,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 10
       },
       {
         "title": "10月国内动力电池装车量环比增长14.0%，同比增长18.2%",
@@ -967,7 +1007,7 @@
         "date": 1795071915000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 11
       },
       {
         "title": "A股三大指数集体收跌，全市场超4800股飘绿",
@@ -977,7 +1017,7 @@
         "date": 1795071713432,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 12
       },
       {
         "title": "微软高管：英伟达风波或促使客户考虑采用其他公司AI芯片",
@@ -987,7 +1027,7 @@
         "date": 1795071118342,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 13
       },
       {
         "title": "火山引擎上线豆包实时音视频通话模型API服务",
@@ -997,7 +1037,7 @@
         "date": 1795071020639,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 14
       },
       {
         "title": "欧盟委员会遭网络攻击，情况已持续超过10天",
@@ -1007,7 +1047,7 @@
         "date": 1795070640179,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 15
       },
       {
         "title": "中美元首会见结束",
@@ -1017,7 +1057,7 @@
         "date": 1795070148155,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 16
       },
       {
         "title": "上海社保科创股权投资基金登记成立，出资额200亿",
@@ -1027,7 +1067,7 @@
         "date": 1795070119306,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 17
       },
       {
         "title": "Anthropic灰市交易显示股价开盘预计上涨约20%",
@@ -1037,7 +1077,7 @@
         "date": 1795069015481,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 18
       },
       {
         "title": "美国亚利桑那州对OpenAI等展开刑事调查，因失控智能体入侵银行系统",
@@ -1047,7 +1087,7 @@
         "date": 1795068421515,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 19
       },
       {
         "title": "沪深两市成交额突破1万亿元",
@@ -1057,7 +1097,7 @@
         "date": 1795067633255,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 20
       },
       {
         "title": "宇树科技、索辰科技等在杭州成立具身智能实验基地公司，注册资本1000万",
@@ -1067,7 +1107,7 @@
         "date": 1795067599000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 21
       },
       {
         "title": "英国金融业10月份发生网络安全事件数量为五年来第二高",
@@ -1077,65 +1117,15 @@
         "date": 1795067110000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
-      },
-      {
-        "title": "中国印尼两国深化金融服务合作，助力双方经贸往来",
-        "url": "https://m.36kr.com/newsflashes/4076246615200905",
-        "desc": "今年是APEC“中国年”，服务业开放与合作成为推动亚太经济增长的重要议题。近年来，中国和印度尼西亚持续深化金融服务合作，从企业贸易中的人民币直接结算，到普通消费者日常使用的跨境二维码支付，金融互联互通不断拓展，为两国经贸往来和人员交流提供更多便利，也为亚太区域经济合作注入新动力。今年5月，中印尼跨境二维码支付合作正式启动。这意味着，中国游客来到印尼或者印尼游客去到中国，不必专门下载新的支付软件，商家也不需要额外安装一套收款设备。通过现有的支付应用和二维码受理网络，就可以完成跨境支付。这一合作也为两国商品贸易和人员往来提供了更多便利。（央视新闻）",
-        "cover": "",
-        "date": 1795066349072,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "三友医疗：公司孵化的8i Robotics手术机器人已在六家医院完成科研和临床装机",
-        "url": "https://m.36kr.com/newsflashes/4076203232121728",
-        "desc": "从三友医疗获悉，由该公司孵化并投资的春风化雨8i Robotics手术机器人亮相第十八届COA学术大会。据公司相关负责人介绍，截至目前，该手术机器人已在北美、亚洲和欧洲的六家医院完成科研和临床装机，并进入GCP注册临床，欧盟CE认证也正在推进，国际化临床布局持续拓展。（证券时报）",
-        "cover": "",
-        "date": 1795066318201,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "习近平会见美国总统特朗普",
-        "url": "https://m.36kr.com/newsflashes/4076245767181192",
-        "desc": "11月19日中午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的美国总统特朗普。（央视新闻）",
-        "cover": "",
-        "date": 1795066297313,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "美国总统特朗普抵达会见现场",
-        "url": "https://m.36kr.com/newsflashes/4076244003066759",
-        "desc": "11月19日中午，国家主席习近平将在深圳会见美国总统特朗普。特朗普一行抵达会见现场。（央视新闻）",
-        "cover": "",
-        "date": 1795066189640,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "奇瑞控股集团增资至63.9亿，增幅约10%",
-        "url": "https://m.36kr.com/newsflashes/4076199016502153",
-        "desc": "36氪获悉，天眼查App显示，近日，奇瑞控股集团有限公司发生工商变更，新增工融金投二号（北京）新兴产业股权投资基金合伙企业（有限合伙）为股东，同时，注册资本由约58.2亿元人民币增至约63.9亿元人民币，增幅约10%。该公司成立于2010年10月，法定代表人为尹同跃，经营范围包括汽车及汽车零部件生产与研发、汽车修理、机械加工、造船、房地产开发与建设的投资管理等，现由芜湖市投资控股集团有限公司、芜湖瑞创投资股份有限公司及上述新增股东等共同持股。",
-        "cover": "",
-        "date": 1795066127000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795072264528,
-    "bilibili": 1795071513241,
-    "qbitai": 1795043490660,
-    "36kr": 1795043490989
+    "thepaper": 1795073164384,
+    "bilibili": 1795072347612,
+    "qbitai": 1795044390671,
+    "36kr": 1795044391019
   },
   "failures": {}
 }
