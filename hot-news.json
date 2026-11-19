@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T04:26:49Z",
+  "updatedAt": "2026-11-19T04:41:55Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -318,19 +318,19 @@
         "hotTitle": "把Win10装进哔哩哔哩"
       },
       {
-        "title": "云南人 你们真的太牛了",
-        "url": "https://www.bilibili.com/video/BV1rZ42117uE",
+        "title": "吃烧烤看消化",
+        "url": "https://www.bilibili.com/video/BV11NHL66EzJ",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1rZ42117uE",
-        "author": "i_纪录",
-        "duration": "0:44",
-        "cover": "//i1.hdslb.com/bfs/archive/9138a9ecef96f6b20bd1cc76d012448775d09fa1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rZ42117uE&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV11NHL66EzJ",
+        "author": "bili_80609335897",
+        "duration": "0:8",
+        "cover": "//i2.hdslb.com/bfs/archive/82067599bdbab75f966d334b5fcb28dd6fba7a13.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11NHL66EzJ&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "云南人早上6点起来吃烧烤"
       },
       {
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "双良节能：子公司签订2.27亿元日常经营合同",
+        "url": "https://m.36kr.com/newsflashes/4076658236544130",
+        "desc": "36氪获悉，双良节能公告，公司全资子公司江苏双良冷却系统有限公司与中国电力工程有限公司签订了《阿尔及利亚特贝萨联合循环电厂项目直接空冷系统采购合同》，买方为阿尔及利亚特贝萨联合循环电站项目的总承包人，合同标的包括直接空气冷却系统设备及其附属设备、专用工具、技术服务等，合同金额为人民币22690万元，占公司2025年度经审计营业收入比重为3.00%。",
+        "cover": "",
+        "date": 1795091472445,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "沃尔玛第三财季营收1888.35亿美元，同比增长5.2%",
+        "url": "https://m.36kr.com/newsflashes/4076655338132358",
+        "desc": "沃尔玛11月19日公布2027财年第三财季业绩。截至10月31日的三个月，公司实现营收1888.35亿美元，同比增长5.2%；经营利润77.7亿美元，同比增长16%；归属于沃尔玛的净利润为49.45亿美元，同比下降19.5%。调整后每股收益为0.65美元，高于上年同期的0.62美元。沃尔玛将2027财年净销售额增幅预期上调至4.9%至5.2%（固定汇率），调整后经营利润增幅预期上调至8%至8.6%，调整后每股收益预期上调至2.84至2.89美元。（界面）",
+        "cover": "",
+        "date": 1795091295541,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "吴泳铭：阿里巴巴2031财年（2030自然年）云外部收入1000亿美元、利润率超过20%的目标不变",
         "url": "https://m.36kr.com/newsflashes/4076644027290761",
         "desc": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，综合各因素影响，阿里巴巴2031财年（2030自然年）云外部收入1000亿美元、利润率超过20%的目标不变。本季度，阿里云外部经常性收入同比增长67%，经调整EBITA同比增长121%，EBITA利润率提升至14.5%。AI相关产品季度收入179.18亿元人民币，在阿里云外部经常性收入中的占比达到49%，AI相关产品年化收入超100亿美元。收入的强劲增长反映了各行业领域客户的强劲需求，包括大型国央企、智能制造、汽车行业、具身智能和生物科技等行业的企业。",
@@ -937,7 +957,7 @@
         "date": 1795090605181,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
@@ -947,7 +967,7 @@
         "date": 1795090545192,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "程一笑：将把AI短剧作为丰富平台内容生态的重要方向",
@@ -957,7 +977,7 @@
         "date": 1795090170421,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "快手业绩电话会：公司可利用资金达人民币1272亿元，前三季度股东回报超58亿港元",
@@ -967,7 +987,7 @@
         "date": 1795090134236,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "Kling 4.0上线后可灵AI流水实现提升，用户规模与ARPPU同步增长",
@@ -977,7 +997,7 @@
         "date": 1795090112679,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "英国10月柴油价格创历史新高",
@@ -987,7 +1007,7 @@
         "date": 1795089942710,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "美股存储板块盘前走强，SK海力士涨超6%",
@@ -997,7 +1017,7 @@
         "date": 1795089492159,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "摩根大通预计美联储将加息三次",
@@ -1007,7 +1027,7 @@
         "date": 1795088188201,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "赣锋锂业：拟以2亿元—4亿元回购公司股份",
@@ -1017,7 +1037,7 @@
         "date": 1795088073000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "拼多多：三季度营收1083亿元，同比持平",
@@ -1027,7 +1047,7 @@
         "date": 1795087957818,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "京蓝科技：公司靶材产线尚未量产，亦未产生相关营业收入及利润",
@@ -1037,7 +1057,7 @@
         "date": 1795087705019,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "傲拓科技：科创板IPO发行价确定为18.18元/股",
@@ -1047,7 +1067,7 @@
         "date": 1795086958554,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "燧原科技：在手订单充沛，并正在与多家国内半导体产业伙伴进行合作",
@@ -1057,7 +1077,7 @@
         "date": 1795086476694,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
@@ -1067,7 +1087,7 @@
         "date": 1795086212892,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "全国首条超百公里纯氢长输管道正式启运",
@@ -1077,7 +1097,7 @@
         "date": 1795085985000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "欧洲央行管委穆兰称，油价导致通胀仍然过高",
@@ -1087,7 +1107,7 @@
         "date": 1795085628000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "中俄美元首和平宣言",
@@ -1097,7 +1117,7 @@
         "date": 1795085423088,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "天阳科技：签订航空互联网项目建设与运营合同",
@@ -1107,35 +1127,15 @@
         "date": 1795085323000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "慈文传媒：公司AIGC平台尚未形成相关收入",
-        "url": "https://m.36kr.com/newsflashes/4076554744304769",
-        "desc": "36氪获悉，慈文传媒公告，公司股票连续三个交易日收盘价格跌幅偏离值累计超过20%，属于股票交易异常波动情形。经自查并向控股股东、实际控制人核实，截至公告披露日，不存在应披露而未披露的重大信息；公司近期生产经营情况正常，控股股东、实际控制人在本次股票交易异常波动期间未买卖公司股票。截至公告披露日，公司AIGC平台尚未形成相关收入，预计在未来一段时间内对公司生产经营与财务状况不构成重大影响。",
-        "cover": "",
-        "date": 1795085155780,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "顺丰控股：10月速运物流业务收入194.08亿元，同比下降3.40%",
-        "url": "https://m.36kr.com/newsflashes/4076527066223747",
-        "desc": "36氪获悉，顺丰控股公告，2026年10月速运物流业务营业收入194.08亿元，同比下降3.40%；业务量13.76亿票，同比下降9.71%；单票收入14.1元，同比增长6.98%。供应链及国际业务营业收入80.24亿元，同比增长26.10%。速运物流业务与供应链及国际业务合计收入274.32亿元，同比增长3.70%。",
-        "cover": "",
-        "date": 1795084841000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795091171501,
-    "bilibili": 1795091183729,
-    "qbitai": 1795062409443,
-    "36kr": 1795062409874
+    "thepaper": 1795092069525,
+    "bilibili": 1795090673120,
+    "qbitai": 1795063314967,
+    "36kr": 1795063315294
   },
   "failures": {}
 }
