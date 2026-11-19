@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T22:11:34Z",
+  "updatedAt": "2026-11-18T22:27:23Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,20 @@
     ],
     "bilibili": [
       {
-        "title": "习近平会见美国总统特朗普",
-        "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE",
+        "title": "习近平会见随同美国总统特朗普访华的美国企业家",
+        "url": "https://www.bilibili.com/video/BV1yj5Q6WEAJ",
         "desc": "",
-        "rank": 1
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "习近平会见随同美国总统特朗普访华的美国企业家",
+        "content": "习近平会见随同美国总统特朗普访华的美国企业家",
+        "bvid": "BV1yj5Q6WEAJ",
+        "author": "贵州2频道百姓关注",
+        "duration": "0:13",
+        "cover": "//i0.hdslb.com/bfs/archive/4c925086e677fa180dc5584ff11bffe8bcaf6a07.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1yj5Q6WEAJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "习近平会见美国总统特朗普"
       },
       {
         "title": "【独家视频】习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
@@ -282,20 +292,10 @@
         "hotTitle": "GTA6实况"
       },
       {
-        "title": "闪存价格两周下跌20%：数据中心大砍单｜显卡日报11月19日",
-        "url": "https://www.bilibili.com/video/BV1SHsU6UECz",
+        "title": "闪存价格两周下跌20%",
+        "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E5%AD%98%E4%BB%B7%E6%A0%BC%E4%B8%A4%E5%91%A8%E4%B8%8B%E8%B7%8C20%25",
         "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "日报有用记得关注哦，你的鼓励真的很重要",
-        "content": "日报有用记得关注哦，你的鼓励真的很重要",
-        "bvid": "BV1SHsU6UECz",
-        "author": "芝士华莱士",
-        "duration": "2:1",
-        "cover": "//i1.hdslb.com/bfs/archive/c4ef7ba07ef6bf93f1961690e00477f26a13b425.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SHsU6UECz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "闪存价格两周下跌20%"
+        "rank": 12
       },
       {
         "title": "地表最强，绝对的数值，大象这个版本怎么样？",
@@ -426,19 +426,19 @@
         "hotTitle": "中南大学通报附属医院AI论文争议"
       },
       {
-        "title": "贴吧热议Viper冠军皮肤投票选蛇女，吧友玩梗“我的毒没有解药”，支持选蛇女的人多于选EZ！",
-        "url": "https://www.bilibili.com/video/BV1xLsQ6nEVo",
+        "title": "[W8]难绷！Viper冠军皮肤投票蛇女真比ez高啊！",
+        "url": "https://www.bilibili.com/video/BV1gKsQ6tErC",
         "desc": "",
         "rank": 21,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1xLsQ6nEVo",
-        "author": "热议联盟",
-        "duration": "2:13",
-        "cover": "//i1.hdslb.com/bfs/archive/4602b826cef88d45768004321055140d53f934e3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xLsQ6nEVo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1gKsQ6tErC",
+        "author": "芝士草莓丶",
+        "duration": "1:9",
+        "cover": "//i2.hdslb.com/bfs/archive/9b45bbd9e38987ef766a2df99e38efb23b797434.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gKsQ6tErC&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Viper发起冠军皮肤投票"
       },
       {
@@ -490,20 +490,10 @@
         "hotTitle": "TGA2026全提名名单公布"
       },
       {
-        "title": "非凡魔丸",
-        "url": "https://www.bilibili.com/video/BV1LLsr66EC6",
+        "title": "魔丸版非凡之爱",
+        "url": "https://search.bilibili.com/all?keyword=%E9%AD%94%E4%B8%B8%E7%89%88%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1",
         "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "最魔丸的一集",
-        "content": "最魔丸的一集",
-        "bvid": "BV1LLsr66EC6",
-        "author": "伊介书生",
-        "duration": "1:28",
-        "cover": "//i0.hdslb.com/bfs/archive/2f070870d516dc6eef35513d53160e883e525db8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LLsr66EC6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "魔丸版非凡之爱"
+        "rank": 25
       },
       {
         "title": "《GTA6》已通关，无剧透聊聊R星有多无敌【视频播客 EP.81】",
@@ -910,6 +900,16 @@
         "rank": 2
       },
       {
+        "title": "Anthropic灰市交易显示股价开盘预计上涨约20%",
+        "url": "https://m.36kr.com/newsflashes/4076290301645704",
+        "desc": "Anthropic PBC完成扩容后的IPO与私募配售，总募资达1073亿美元，打破SpaceX纪录。灰市交易显示，Anthropic PBC股价开盘预计上涨20%至26%。在线券商IG International提供的衍生品报价显示，周四早间香港时段，公司对应市值1.35万亿美元，较83美元的发行价溢价超24%。该估值基于本次发售股份口径；若按完全稀释股本计算，公司总估值约1.5万亿美元。（新浪财经）",
+        "cover": "",
+        "date": 1795069015481,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
         "title": "美国亚利桑那州对OpenAI等展开刑事调查，因失控智能体入侵银行系统",
         "url": "https://m.36kr.com/newsflashes/4076280570107016",
         "desc": "美国亚利桑那州总检察长克里斯·梅斯（Kris Mayes）周三表示，该州已针对 OpenAI 及其他人工智能公司展开刑事调查，调查事由是“有失控AI智能体疑似侵入多家银行系统”。刑事调查并不一定意味着最终会提起指控。梅斯表示，其办公室正在调查这些公司是否持续违反了亚利桑那州的法律。（新浪财经）",
@@ -917,7 +917,7 @@
         "date": 1795068421515,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "沪深两市成交额突破1万亿元",
@@ -927,7 +927,7 @@
         "date": 1795067633255,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "宇树科技、索辰科技等在杭州成立具身智能实验基地公司，注册资本1000万",
@@ -937,7 +937,7 @@
         "date": 1795067599000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "英国金融业10月份发生网络安全事件数量为五年来第二高",
@@ -947,7 +947,7 @@
         "date": 1795067110000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "中国印尼两国深化金融服务合作，助力双方经贸往来",
@@ -957,7 +957,7 @@
         "date": 1795066349072,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "三友医疗：公司孵化的8i Robotics手术机器人已在六家医院完成科研和临床装机",
@@ -967,7 +967,7 @@
         "date": 1795066318201,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "习近平会见美国总统特朗普",
@@ -977,7 +977,7 @@
         "date": 1795066297313,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "美国总统特朗普抵达会见现场",
@@ -987,7 +987,7 @@
         "date": 1795066189640,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "奇瑞控股集团增资至63.9亿，增幅约10%",
@@ -997,7 +997,7 @@
         "date": 1795066127000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "马斯克：我是中国的超级粉丝",
@@ -1007,7 +1007,7 @@
         "date": 1795065955893,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "美国总统特朗普：非常期待同习近平主席、普京总统会晤",
@@ -1017,7 +1017,7 @@
         "date": 1795065850159,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "徐工集团与必和必拓签署合作意向书",
@@ -1027,7 +1027,7 @@
         "date": 1795065616000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "创业板指翻红，科创50涨近2%",
@@ -1037,7 +1037,7 @@
         "date": 1795065146037,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "我国已建成工业5G专网2.7万个",
@@ -1047,7 +1047,7 @@
         "date": 1795065078000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "字节拟追加5亿美元微软云服务合同",
@@ -1057,7 +1057,7 @@
         "date": 1795064614000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "魏少军：2026年中国芯片行业销售预计实现1.58万亿元",
@@ -1067,7 +1067,7 @@
         "date": 1795064086000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "美亚利桑那州称已对OpenAI及其他公司展开刑事调查",
@@ -1077,7 +1077,7 @@
         "date": 1795063475000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "紫金矿业在福建成立稀贵金属科技公司，注册资本1亿",
@@ -1087,7 +1087,7 @@
         "date": 1795063061000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "中上协：市值管理走向常态化、制度化、专业化",
@@ -1097,25 +1097,15 @@
         "date": 1795062514000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-        "url": "https://m.36kr.com/newsflashes/4076181279380360",
-        "desc": "11月19日上午，国家主席习近平在深圳国际交流中心主持亚太经合组织第三十三次领导人非正式会议，并发表题为《建设亚太共同体，续写“亚太奇迹”新篇章》的重要讲话。习近平指出，一要坚持和衷共济，拉紧共同利益纽带，携手应对困难和挑战，持续培育共同体意识。二要坚持开放融通，稳步推进经济一体化进程，构建开放而不排他、融合而不分割的合作格局，倡导自由开放的贸易和投资，为亚太经济增长开拓更广阔空间。三要坚持开拓创新，鼓励科技交流合作，促进创新成果转化，营造开放、公平、公正、非歧视的合作环境，推动机制理念创新和结构性改革，不断释放亚太经济的活力和潜力。四要坚持包容发展，让发展成果普惠共享，增加民众获得感，照顾各方舒适度，为实现亚太共同体目标积累有利条件。（央视新闻）",
-        "cover": "",
-        "date": 1795062361290,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795068666568,
+    "thepaper": 1795069566620,
     "bilibili": 1795067897599,
-    "qbitai": 1795039894210,
-    "36kr": 1795039894574
+    "qbitai": 1795040843498,
+    "36kr": 1795040843783
   },
   "failures": {}
 }
