@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T05:26:34Z",
+  "updatedAt": "2026-11-20T05:41:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -190,35 +190,35 @@
         "hotTitle": "AI御三家模型屎山代码论剑"
       },
       {
-        "title": "这是巴西马拉卡纳球场内的现场画面，弗拉门戈球迷高举毛主席旗帜，是该旗帜首次在此球场飘扬，表达了与人民站在一起、为人民而战的理念，评论区也引来很多外国网友点赞",
-        "url": "https://www.bilibili.com/video/BV1Xkxq6bEAU",
+        "title": "大满贯，4场巴西甲全好评，11月20日足球解析，巴西甲：科里蒂巴VS桑托斯",
+        "url": "https://www.bilibili.com/video/BV1aqs46FECv",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Xkxq6bEAU",
-        "author": "吃瓜冷小姐",
-        "duration": "1:5",
-        "cover": "//i1.hdslb.com/bfs/archive/54a4cb94870bb04894868fc3beebe1ae1292f318.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xkxq6bEAU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1aqs46FECv",
+        "author": "解说员广智1",
+        "duration": "10:38",
+        "cover": "//i2.hdslb.com/bfs/archive/36ca049a4f94989d39e61bc3329d678fc65d2416.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aqs46FECv&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "圆脸连线巴西议员聊巴西大选"
       },
       {
-        "title": "任贤齐《伤心太平洋》声生不息·天涯共此时",
-        "url": "https://www.bilibili.com/video/BV1pYsq6kEQU",
+        "title": "时隔18年再回到拍摄场地 任贤齐回忆录《北京欢迎你》心情",
+        "url": "https://www.bilibili.com/video/BV15csh6gEVe",
         "desc": "",
         "rank": 6,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1pYsq6kEQU",
-        "author": "羊的留声机",
-        "duration": "4:15",
-        "cover": "//i2.hdslb.com/bfs/archive/47b839cb868187d540dd9f5a2638f61e1c87a00d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pYsq6kEQU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV15csh6gEVe",
+        "author": "芒果TV",
+        "duration": "1:36",
+        "cover": "//i0.hdslb.com/bfs/archive/046e807dc90bd36e63e346f8abcf969e7af148c8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15csh6gEVe&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "任贤齐入驻B站"
       },
       {
@@ -472,7 +472,7 @@
         "content": "游戏名:GTA6（Grand Theft Auto VI）本应轻松得手的行动，却将杰森和露西娅卷入一场横跨雷奥奈达的犯罪阴谋。这对亡命鸳鸯将在美国阳光最灿烂的地方，见识到它最阴暗的一面。若想活着逃出生天，他们比以往任何时候都更需要彼此依靠。本作将带玩家前往雷奥奈达州，围绕罪恶城五光十色的霓虹街道和其他地方开启探索之旅，体验《GTA》系列迄今为止规模最大、最具沉浸感的演化。",
         "bvid": "BV1t9sk6YE23",
         "author": "友利奈绪大魔王丶",
-        "duration": "1009:28",
+        "duration": "1023:41",
         "cover": "//i1.hdslb.com/bfs/archive/4766e76facdf91312a7ebd7b5cbf97be2d66edd5.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1t9sk6YE23&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "GTA6实况"
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795181165242,
+    "thepaper": 1795182065716,
     "bilibili": 1795180551527,
-    "qbitai": 1795152393919,
-    "36kr": 1795152394281
+    "qbitai": 1795153294087,
+    "36kr": 1795153294589
   },
   "failures": {}
 }
