@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T19:11:35Z",
+  "updatedAt": "2026-11-19T19:26:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -28,32 +28,32 @@
         "rank": 4
       },
       {
-        "title": "言短意长｜一个土生土长的中国概念，为什么深圳翻译出来就是不一样",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34508425",
-        "desc": "",
-        "rank": 5
-      },
-      {
         "title": "APEC现场｜深圳市民街头偶遇多国政要：逛超市、尝车厘子、练八段锦……",
         "url": "https://www.thepaper.cn/newsDetail_forward_34509387",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​",
         "url": "https://www.thepaper.cn/newsDetail_forward_34509594",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "马上评｜“老人拆墙让路”事件的三重舆论启示",
         "url": "https://www.thepaper.cn/newsDetail_forward_34509394",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "“知网AI检出率暴涨”背后：存疑的算法、困惑的作者与AI辅助思考的边界",
         "url": "https://www.thepaper.cn/newsDetail_forward_34513875",
+        "desc": "",
+        "rank": 8
+      },
+      {
+        "title": "从“双头虾”到一万张鸟类贴纸，“AI泔水”正在污染知识",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34511494",
         "desc": "",
         "rank": 9
       },
@@ -70,56 +70,56 @@
         "rank": 11
       },
       {
-        "title": "从“双头虾”到一万张鸟类贴纸，“AI泔水”正在污染知识",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34511494",
-        "desc": "",
-        "rank": 12
-      },
-      {
         "title": "《谷雨》：一部主创阵容很强的作品，为何没能换来认可？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34514219",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "言短意长丨为何看五十年的中国，就来深圳？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34512474",
         "desc": "",
-        "rank": 14
+        "rank": 13
       },
       {
         "title": "亚太经合组织互联互通蓝图",
         "url": "https://www.thepaper.cn/newsDetail_forward_34514381",
         "desc": "",
-        "rank": 15
+        "rank": 14
       },
       {
         "title": "视频丨特朗普：今天我们创造了历史",
         "url": "https://www.thepaper.cn/newsDetail_forward_34514041",
         "desc": "",
-        "rank": 16
+        "rank": 15
       },
       {
         "title": "视频丨普京：感谢中方和习主席组织今天的俄中美元首会晤",
         "url": "https://www.thepaper.cn/newsDetail_forward_34514087",
         "desc": "",
-        "rank": 17
+        "rank": 16
       },
       {
         "title": "和合共生｜APEC“全家福”来了，2分钟揭秘红蓝围巾背后故事",
         "url": "https://www.thepaper.cn/newsDetail_forward_34510341",
         "desc": "",
-        "rank": 18
+        "rank": 17
       },
       {
         "title": "中国担任2026年亚太经合组织东道主成果清单",
         "url": "https://www.thepaper.cn/newsDetail_forward_34514532",
         "desc": "",
-        "rank": 19
+        "rank": 18
       },
       {
         "title": "王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果",
         "url": "https://www.thepaper.cn/newsDetail_forward_34515595",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "中俄美元首深圳首聚：台前四点宣言与幕后外交细节｜907编辑部",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34515368",
         "desc": "",
         "rank": 20
       }
@@ -206,20 +206,20 @@
         "hotTitle": "中俄美元首会晤传递哪些信息"
       },
       {
-        "title": "一口气看懂AI大模型之王， Anthropic在垄断什么？又会改变什么？",
-        "url": "https://www.bilibili.com/video/BV19msv6WE4E",
+        "title": "朱雀三号回收火箭，9台发动机再次点火全过！",
+        "url": "https://www.bilibili.com/video/BV1XQsv6DEBe",
         "desc": "",
         "rank": 6,
         "kind": "video",
         "platform": "bilibili",
-        "description": "一口气看懂AI大模型之王， Anthropic在垄断什么？又会改变什么？",
-        "content": "一口气看懂AI大模型之王， Anthropic在垄断什么？又会改变什么？",
-        "bvid": "BV19msv6WE4E",
-        "author": "直男Talk",
-        "duration": "12:49",
-        "cover": "//i1.hdslb.com/bfs/archive/24f202ec2145c7e050abe0eb97600aabfc7ae73a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19msv6WE4E&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI泔水正在污染知识"
+        "description": "蓝箭航天今天（20日）发布消息：此前首次陆地成功回收的朱雀三号遥二火箭的9台发动机已全部完成点火试车，具备再次使用的条件。近日，总台记者走进浙江湖州的火箭发动机试车台，独家记录了回收发动机再次点火的全过程。（总台央视记者：崔霞 陶嘉树）",
+        "content": "蓝箭航天今天（20日）发布消息：此前首次陆地成功回收的朱雀三号遥二火箭的9台发动机已全部完成点火试车，具备再次使用的条件。近日，总台记者走进浙江湖州的火箭发动机试车台，独家记录了回收发动机再次点火的全过程。（总台央视记者：崔霞 陶嘉树）",
+        "bvid": "BV1XQsv6DEBe",
+        "author": "央视军事",
+        "duration": "3:34",
+        "cover": "//i2.hdslb.com/bfs/archive/8cd707efd2fa3973b1cd59f83fbbc2155670383e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XQsv6DEBe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "朱雀三号回收火箭传来好消息"
       },
       {
         "title": "【更新Gemini 4 neon】28款主流AI大模型强度排行！",
@@ -238,26 +238,10 @@
         "hotTitle": "28款主流AI大模型强度排行"
       },
       {
-        "title": "英国最讲究的特工，却选了个最随性的演员！",
-        "url": "https://www.bilibili.com/video/BV13rsS6REhU",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV13rsS6REhU",
-        "author": "MrDandy胡榛",
-        "duration": "3:26",
-        "cover": "//i1.hdslb.com/bfs/archive/40b04c3e088a6577540d2b305e02407e301c5486.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13rsS6REhU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "007电影其实是穿搭指南"
-      },
-      {
         "title": "专门收割学生！曝光打包二手手机的奸商完整套路",
         "url": "https://www.bilibili.com/video/BV1jPs26WEJA",
         "desc": "",
-        "rank": 9,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "漂亮的打包礼盒之下，到底藏着多少陷阱？这个打包手机的骗局到底是怎么样的……",
@@ -270,26 +254,106 @@
         "hotTitle": "揭秘打包二手手机骗局"
       },
       {
-        "title": "特朗普乘机离开深圳 登机时转身挥手告别",
-        "url": "https://www.bilibili.com/video/BV1Zhsh6UEXS",
+        "title": "波尔津吉斯一场不打只排第五？谁才是新赛季最差签约？",
+        "url": "https://www.bilibili.com/video/BV1ans86qE9n",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1ans86qE9n",
+        "author": "太吾车神",
+        "duration": "11:12",
+        "cover": "//i1.hdslb.com/bfs/archive/e78a1b14bf555154347f383f5efb33bf35827cec.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ans86qE9n&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "NBA新赛季有哪些交易拖累球队"
+      },
+      {
+        "title": "英国最讲究的特工，却选了个最随性的演员！",
+        "url": "https://www.bilibili.com/video/BV13rsS6REhU",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Zhsh6UEXS",
-        "author": "青蜂侠-Bee",
-        "duration": "0:17",
-        "cover": "//i2.hdslb.com/bfs/archive/a5642c975f8841e52ca22e8a4c8883ab7c46d40b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Zhsh6UEXS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "特朗普登上空军一号挥手告别"
+        "bvid": "BV13rsS6REhU",
+        "author": "MrDandy胡榛",
+        "duration": "3:26",
+        "cover": "//i1.hdslb.com/bfs/archive/40b04c3e088a6577540d2b305e02407e301c5486.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13rsS6REhU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "007电影其实是穿搭指南"
+      },
+      {
+        "title": "普京与特朗普在深圳会面，一见面特朗普就打趣“他是谁”",
+        "url": "https://www.bilibili.com/video/BV1rnsb6UEZp",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "视频：董亚雷、赵嫣、李溪岩",
+        "content": "视频：董亚雷、赵嫣、李溪岩",
+        "bvid": "BV1rnsb6UEZp",
+        "author": "新华社",
+        "duration": "0:36",
+        "cover": "//i0.hdslb.com/bfs/archive/df591e9d5ce4aed9419e5ba24d60c3f7d67bb10e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rnsb6UEZp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "特朗普现场打趣普京"
+      },
+      {
+        "title": "一口气看懂AI大模型之王， Anthropic在垄断什么？又会改变什么？",
+        "url": "https://www.bilibili.com/video/BV19msv6WE4E",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "一口气看懂AI大模型之王， Anthropic在垄断什么？又会改变什么？",
+        "content": "一口气看懂AI大模型之王， Anthropic在垄断什么？又会改变什么？",
+        "bvid": "BV19msv6WE4E",
+        "author": "直男Talk",
+        "duration": "12:49",
+        "cover": "//i1.hdslb.com/bfs/archive/24f202ec2145c7e050abe0eb97600aabfc7ae73a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19msv6WE4E&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AI泔水正在污染知识"
+      },
+      {
+        "title": "速报！Anthropic上市，首席执行官达里奥·阿莫迪在纳斯达克的演讲！（信息量极大，需要时间消化）",
+        "url": "https://www.bilibili.com/video/BV1QYsi6XEiQ",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "速报！Anthropic上市，首席执行官达里奥·阿莫迪在纳斯达克的演讲！（信息量极大，需要时间消化）",
+        "content": "速报！Anthropic上市，首席执行官达里奥·阿莫迪在纳斯达克的演讲！（信息量极大，需要时间消化）",
+        "bvid": "BV1QYsi6XEiQ",
+        "author": "外星人点看",
+        "duration": "5:15",
+        "cover": "//i0.hdslb.com/bfs/archive/89ecef8d275f68277f228eaf8c995cb503129a2b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QYsi6XEiQ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Anthropic公开上市致辞"
+      },
+      {
+        "title": "大牙|| 肖8选择题精讲带背（第二套卷），全网讲解最清晰，专治零基础！",
+        "url": "https://www.bilibili.com/video/BV142sS6HEyv",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV142sS6HEyv",
+        "author": "大牙考研",
+        "duration": "102:47",
+        "cover": "//i1.hdslb.com/bfs/archive/b1e342949085854749adb9f30993b052a9365082.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV142sS6HEyv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "考研倒计时30天政治提分冲刺"
       },
       {
         "title": "困难靶27/30 donk首次打瓦试玩狐狸套",
         "url": "https://www.bilibili.com/video/BV1jUsU6wEHa",
         "desc": "",
-        "rank": 11,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -302,26 +366,10 @@
         "hotTitle": "donk首次打瓦试玩"
       },
       {
-        "title": "CS2海克斯大乱go来了！肺泡都给我笑炸了",
-        "url": "https://www.bilibili.com/video/BV1eYsB6hE5G",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "创意工坊： 海克斯大乱 GO · Dust II 好友试玩版（作者：海马非马） 海克斯大乱斗 GO mr12版 总帖（沙二）V1.7.8（作者：永雏古夫大帝） 非常非常有意思的创意工坊 大家可以尝试一下！",
-        "content": "创意工坊： 海克斯大乱 GO · Dust II 好友试玩版（作者：海马非马） 海克斯大乱斗 GO mr12版 总帖（沙二）V1.7.8（作者：永雏古夫大帝） 非常非常有意思的创意工坊 大家可以尝试一下！",
-        "bvid": "BV1eYsB6hE5G",
-        "author": "是橘长呀",
-        "duration": "8:11",
-        "cover": "//i2.hdslb.com/bfs/archive/ede0593a568f5270cd92eac6dc6a9b41f526071b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eYsB6hE5G&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "CS2海克斯大乱GO"
-      },
-      {
         "title": "【LPL群星合唱单曲】|《明年会更好》",
         "url": "https://www.bilibili.com/video/BV1bxst6xEfv",
         "desc": "",
-        "rank": 13,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "今年世界赛结束了，一切都是最好的安排。 原曲：群星《明天会更好》 改编词视频制作：词元菌",
@@ -332,54 +380,6 @@
         "cover": "//i1.hdslb.com/bfs/archive/7aed998bb72663f33e1bd6a237c13435af68f689.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bxst6xEfv&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "LPL群星合唱单曲 明年会更好"
-      },
-      {
-        "title": "带你一起看刀塔7.42版本更新！改天换地，大的真的来了！",
-        "url": "https://www.bilibili.com/video/BV1m8s86hEEe",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "原创视频制作不容易，拜托大家一定要多多点赞三连支持呀！ 感谢大家！！！！！！",
-        "content": "原创视频制作不容易，拜托大家一定要多多点赞三连支持呀！ 感谢大家！！！！！！",
-        "bvid": "BV1m8s86hEEe",
-        "author": "辉耀计划",
-        "duration": "15:7",
-        "cover": "//i0.hdslb.com/bfs/archive/382f4541b51fe3110293b728c437c7d54012f802.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1m8s86hEEe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "DOTA新版本空降BLAST如何应对"
-      },
-      {
-        "title": "我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】",
-        "url": "https://www.bilibili.com/video/BV18jsA6xEft",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
-        "content": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
-        "bvid": "BV18jsA6xEft",
-        "author": "LING不道",
-        "duration": "1:4",
-        "cover": "//i2.hdslb.com/bfs/archive/c014dba1c54cfcad62c30c18dfe7b0da97e45528.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18jsA6xEft&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "把Win10装进哔哩哔哩"
-      },
-      {
-        "title": "Thank you, Choi 'Doran' Hyeon-Jun",
-        "url": "https://www.bilibili.com/video/BV1hAsb6cEUp",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1hAsb6cEUp",
-        "author": "T1电子竞技俱乐部",
-        "duration": "3:20",
-        "cover": "//i2.hdslb.com/bfs/archive/b3293cb7070411e56099f86f7a58c3dfa817d1e8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hAsb6cEUp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "T1官宣Doran离队"
       },
       {
         "title": "晚安，梦里啥都有",
@@ -398,10 +398,26 @@
         "hotTitle": "莉莉来帮你圆梦了"
       },
       {
+        "title": "我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】",
+        "url": "https://www.bilibili.com/video/BV18jsA6xEft",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
+        "content": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
+        "bvid": "BV18jsA6xEft",
+        "author": "LING不道",
+        "duration": "1:4",
+        "cover": "//i2.hdslb.com/bfs/archive/c014dba1c54cfcad62c30c18dfe7b0da97e45528.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18jsA6xEft&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "把Win10装进哔哩哔哩"
+      },
+      {
         "title": "Viper之终极难题！Viper在韩国发起冠军皮肤投票，结果蛇女和EZ五五开到底该选谁？Knight：选蛇女我就多一个皮肤！大家这次都投给了谁？",
         "url": "https://www.bilibili.com/video/BV1Hist6UERX",
         "desc": "",
-        "rank": 18,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -414,26 +430,42 @@
         "hotTitle": "Viper发起冠军皮肤投票"
       },
       {
-        "title": "地表最强，绝对的数值，大象这个版本怎么样？",
-        "url": "https://www.bilibili.com/video/BV1mPsP6pEez",
+        "title": "Thank you, Choi 'Doran' Hyeon-Jun",
+        "url": "https://www.bilibili.com/video/BV1hAsb6cEUp",
         "desc": "",
-        "rank": 19,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1mPsP6pEez",
-        "author": "黄土豆袋鼠",
-        "duration": "3:31",
-        "cover": "//i0.hdslb.com/bfs/archive/791ce46d77f30b3bac8bd1c5858562fc623e37a7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mPsP6pEez&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "地表最强数值怪竟然是大象"
+        "description": "",
+        "content": "",
+        "bvid": "BV1hAsb6cEUp",
+        "author": "T1电子竞技俱乐部",
+        "duration": "3:20",
+        "cover": "//i2.hdslb.com/bfs/archive/b3293cb7070411e56099f86f7a58c3dfa817d1e8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hAsb6cEUp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "T1官宣Doran离队"
+      },
+      {
+        "title": "CS2海克斯大乱go来了！肺泡都给我笑炸了",
+        "url": "https://www.bilibili.com/video/BV1eYsB6hE5G",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "创意工坊： 海克斯大乱 GO · Dust II 好友试玩版（作者：海马非马） 海克斯大乱斗 GO mr12版 总帖（沙二）V1.7.8（作者：永雏古夫大帝） 非常非常有意思的创意工坊 大家可以尝试一下！",
+        "content": "创意工坊： 海克斯大乱 GO · Dust II 好友试玩版（作者：海马非马） 海克斯大乱斗 GO mr12版 总帖（沙二）V1.7.8（作者：永雏古夫大帝） 非常非常有意思的创意工坊 大家可以尝试一下！",
+        "bvid": "BV1eYsB6hE5G",
+        "author": "是橘长呀",
+        "duration": "8:11",
+        "cover": "//i2.hdslb.com/bfs/archive/ede0593a568f5270cd92eac6dc6a9b41f526071b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eYsB6hE5G&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "CS2海克斯大乱GO"
       },
       {
         "title": "传国玉玺风波 ——【AI全民制作人】",
         "url": "https://www.bilibili.com/video/BV1risA6kEfV",
         "desc": "",
-        "rank": 20,
+        "rank": 22,
         "kind": "video",
         "platform": "bilibili",
         "description": "个大博物馆的国宝争相奔赴，北魏姐妹花守护的竟然是……",
@@ -446,68 +478,36 @@
         "hotTitle": "博物馆奇妙夜之传国玉玺风波"
       },
       {
-        "title": "Deft确认复出加入NS",
-        "url": "https://www.bilibili.com/video/BV1MMsh6vEU2",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1MMsh6vEU2",
-        "author": "英雄联盟赛事",
-        "duration": "0:26",
-        "cover": "//i2.hdslb.com/bfs/archive/4db72be73a7b37f8f68e6147b399c343b70cd70a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MMsh6vEU2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Deft复出再度并肩Scout"
-      },
-      {
-        "title": "【IGN】10分，《GTA 6》评测：这个时代最伟大的游戏",
-        "url": "https://www.bilibili.com/video/BV1WMsm6zEfn",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《GTA 6》没有缺点吗？那当然不是，例如它仅有30帧的画面。但玩家们等待了十三年，对游戏的预期已经无形中被拔到一个无以伦比的高度。我只想让你知道的是，在这个游戏行业里，它就是独一无二断档式的存在。",
-        "content": "《GTA 6》没有缺点吗？那当然不是，例如它仅有30帧的画面。但玩家们等待了十三年，对游戏的预期已经无形中被拔到一个无以伦比的高度。我只想让你知道的是，在这个游戏行业里，它就是独一无二断档式的存在。",
-        "bvid": "BV1WMsm6zEfn",
-        "author": "IGN中国",
-        "duration": "10:0",
-        "cover": "//i1.hdslb.com/bfs/archive/a017dabc198aeaa22efc2622abe52ee4ff1bbf1c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WMsm6zEfn&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "IGN测评GTA6满分"
-      },
-      {
-        "title": "大牙|| 肖8选择题精讲带背（第二套卷），全网讲解最清晰，专治零基础！",
-        "url": "https://www.bilibili.com/video/BV142sS6HEyv",
+        "title": "地表最强，绝对的数值，大象这个版本怎么样？",
+        "url": "https://www.bilibili.com/video/BV1mPsP6pEez",
         "desc": "",
         "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV142sS6HEyv",
-        "author": "大牙考研",
-        "duration": "102:47",
-        "cover": "//i1.hdslb.com/bfs/archive/b1e342949085854749adb9f30993b052a9365082.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV142sS6HEyv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "考研倒计时30天政治提分冲刺"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1mPsP6pEez",
+        "author": "黄土豆袋鼠",
+        "duration": "3:31",
+        "cover": "//i0.hdslb.com/bfs/archive/791ce46d77f30b3bac8bd1c5858562fc623e37a7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mPsP6pEez&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "地表最强数值怪竟然是大象"
       },
       {
-        "title": "这才是真正的“一串四”！",
-        "url": "https://www.bilibili.com/video/BV1HHsQ6jEif",
+        "title": "骗税天王，最终伏法！十年狂飙，走到头了！万字细嗦《谷雨》第十四期 大结局 包含；剧情、细节、伏笔回收、人物结局等",
+        "url": "https://www.bilibili.com/video/BV1SUsh6TEuN",
         "desc": "",
         "rank": 24,
         "kind": "video",
         "platform": "bilibili",
-        "description": "模仿一下美食纪录片的风格，尝试新东西",
-        "content": "模仿一下美食纪录片的风格，尝试新东西",
-        "bvid": "BV1HHsQ6jEif",
-        "author": "九夜听风",
-        "duration": "4:37",
-        "cover": "//i0.hdslb.com/bfs/archive/cdbaa3b389a1d919080e7eed4915bcae93a12be9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HHsQ6jEif&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "这才是真正的一串四"
+        "description": "骗税天王，最终伏法！十年狂飙，走到头了！万字细嗦《谷雨》第十四期 大结局 包含；剧情、细节、伏笔回收、人物结局等",
+        "content": "骗税天王，最终伏法！十年狂飙，走到头了！万字细嗦《谷雨》第十四期 大结局 包含；剧情、细节、伏笔回收、人物结局等",
+        "bvid": "BV1SUsh6TEuN",
+        "author": "不善言辞的秃秃",
+        "duration": "34:48",
+        "cover": "//i0.hdslb.com/bfs/archive/d01703f241a98a64b30994b145c7968fd700932c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SUsh6TEuN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "万字速通谷雨大结局"
       },
       {
         "title": "狐主任唠幕后：《生命奇观 2》为什么这么好看？",
@@ -526,26 +526,58 @@
         "hotTitle": "狐主任唠生命奇观2幕后"
       },
       {
-        "title": "【4K】全网首发《GTA6》主线全流程实况解说",
-        "url": "https://www.bilibili.com/video/BV1t9sk6YE23",
+        "title": "【IGN】10分，《GTA 6》评测：这个时代最伟大的游戏",
+        "url": "https://www.bilibili.com/video/BV1WMsm6zEfn",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "游戏名:GTA6（Grand Theft Auto VI）本应轻松得手的行动，却将杰森和露西娅卷入一场横跨雷奥奈达的犯罪阴谋。这对亡命鸳鸯将在美国阳光最灿烂的地方，见识到它最阴暗的一面。若想活着逃出生天，他们比以往任何时候都更需要彼此依靠。本作将带玩家前往雷奥奈达州，围绕罪恶城五光十色的霓虹街道和其他地方开启探索之旅，体验《GTA》系列迄今为止规模最大、最具沉浸感的演化。",
-        "content": "游戏名:GTA6（Grand Theft Auto VI）本应轻松得手的行动，却将杰森和露西娅卷入一场横跨雷奥奈达的犯罪阴谋。这对亡命鸳鸯将在美国阳光最灿烂的地方，见识到它最阴暗的一面。若想活着逃出生天，他们比以往任何时候都更需要彼此依靠。本作将带玩家前往雷奥奈达州，围绕罪恶城五光十色的霓虹街道和其他地方开启探索之旅，体验《GTA》系列迄今为止规模最大、最具沉浸感的演化。",
-        "bvid": "BV1t9sk6YE23",
-        "author": "友利奈绪大魔王丶",
-        "duration": "988:56",
-        "cover": "//i1.hdslb.com/bfs/archive/4766e76facdf91312a7ebd7b5cbf97be2d66edd5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1t9sk6YE23&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GTA6实况"
+        "description": "《GTA 6》没有缺点吗？那当然不是，例如它仅有30帧的画面。但玩家们等待了十三年，对游戏的预期已经无形中被拔到一个无以伦比的高度。我只想让你知道的是，在这个游戏行业里，它就是独一无二断档式的存在。",
+        "content": "《GTA 6》没有缺点吗？那当然不是，例如它仅有30帧的画面。但玩家们等待了十三年，对游戏的预期已经无形中被拔到一个无以伦比的高度。我只想让你知道的是，在这个游戏行业里，它就是独一无二断档式的存在。",
+        "bvid": "BV1WMsm6zEfn",
+        "author": "IGN中国",
+        "duration": "10:0",
+        "cover": "//i1.hdslb.com/bfs/archive/a017dabc198aeaa22efc2622abe52ee4ff1bbf1c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WMsm6zEfn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "IGN测评GTA6满分"
+      },
+      {
+        "title": "这才是真正的“一串四”！",
+        "url": "https://www.bilibili.com/video/BV1HHsQ6jEif",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "模仿一下美食纪录片的风格，尝试新东西",
+        "content": "模仿一下美食纪录片的风格，尝试新东西",
+        "bvid": "BV1HHsQ6jEif",
+        "author": "九夜听风",
+        "duration": "4:37",
+        "cover": "//i0.hdslb.com/bfs/archive/cdbaa3b389a1d919080e7eed4915bcae93a12be9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HHsQ6jEif&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "这才是真正的一串四"
+      },
+      {
+        "title": "用最有梗的剪辑回顾BLG的夺冠历程",
+        "url": "https://www.bilibili.com/video/BV1RusU6ZE44",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "我就是世一剪！",
+        "content": "我就是世一剪！",
+        "bvid": "BV1RusU6ZE44",
+        "author": "平家bboy",
+        "duration": "4:8",
+        "cover": "//i2.hdslb.com/bfs/archive/d065a745b5ea5a31e8f9bc358e0ede03f7a331cb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RusU6ZE44&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "用最有梗的剪辑回顾BLG夺冠"
       },
       {
         "title": "非凡魔丸",
         "url": "https://www.bilibili.com/video/BV1LLsr66EC6",
         "desc": "",
-        "rank": 27,
+        "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "最魔丸的一集",
@@ -558,52 +590,20 @@
         "hotTitle": "魔丸版非凡之爱"
       },
       {
-        "title": "一觉睡醒能看见队友头上的数字了...",
-        "url": "https://www.bilibili.com/video/BV1DUsh6TEd2",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "你看不清的缘分在我眼里一目了然 人这一生相遇的概率是0.003185 既然相遇的次数会减少，就让我成为你的队友吧 这里怎么会有两个张起灵",
-        "content": "你看不清的缘分在我眼里一目了然 人这一生相遇的概率是0.003185 既然相遇的次数会减少，就让我成为你的队友吧 这里怎么会有两个张起灵",
-        "bvid": "BV1DUsh6TEd2",
-        "author": "广州花都BLG无畏契约",
-        "duration": "1:27",
-        "cover": "//i0.hdslb.com/bfs/archive/97f03bcd114b4f1e367e96741a6ad88dfdc506f4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DUsh6TEd2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Smoggy和whzy的3185次相遇"
-      },
-      {
-        "title": "《哈利波特与死亡火器》",
-        "url": "https://www.bilibili.com/video/BV1v8sP6vEiq",
-        "desc": "",
-        "rank": 29,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "哈利波特在三角洲行动",
-        "content": "哈利波特在三角洲行动",
-        "bvid": "BV1v8sP6vEiq",
-        "author": "推背兔の",
-        "duration": "8:41",
-        "cover": "//i2.hdslb.com/bfs/archive/e6acec036d699eb75de8270a5222ea466bca46a8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1v8sP6vEiq&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "哈利波特与死亡火器"
-      },
-      {
-        "title": "热度和争议拉满！玩家失望？全网最诚实GTA6锐评！",
-        "url": "https://www.bilibili.com/video/BV1Qvss6QEx2",
+        "title": "T1官宣Doran离队！数据回顾Doran | 2026全年赛事表现",
+        "url": "https://www.bilibili.com/video/BV1vqsh61Ev2",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Qvss6QEx2",
-        "author": "张子zi",
-        "duration": "8:13",
-        "cover": "//i2.hdslb.com/bfs/archive/10223f801b68a37bedbdaf913195955164b1a016.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qvss6QEx2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GTA6评论为何两极分化"
+        "description": "T1官宣Doran离队！数据回顾Doran | 2026全年赛事表现",
+        "content": "T1官宣Doran离队！数据回顾Doran | 2026全年赛事表现",
+        "bvid": "BV1vqsh61Ev2",
+        "author": "_江之岛盾子_",
+        "duration": "4:24",
+        "cover": "//i0.hdslb.com/bfs/archive/f56f09f9611b15d73a95b1b95b43abc4fcc754f8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vqsh61Ev2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "数据回顾Doran 26年赛事表现"
       }
     ],
     "qbitai": [
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "传原抖音CEO张楠、原飞书CEO谢欣将离职，字节回应：信息不准确",
+        "url": "https://m.36kr.com/newsflashes/4077534744826758",
+        "desc": "据媒体报道，原抖音CEO张楠、原飞书CEO谢欣将从字节跳动离职。张楠离职后，剪映和即梦AI将由两位高管接管。其中，支颖接管剪映，朱骏接管即梦AI。对此，字节相关负责人回应称，该信息不准确。（新浪科技）",
+        "cover": "",
+        "date": 1795144970265,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "截至10月底，我国电动汽车充电基础设施（枪）总数达到2539.1万个",
+        "url": "https://m.36kr.com/newsflashes/4077527423505283",
+        "desc": "11月20日，国家能源局发布2026年10月全国电动汽车充电设施数据。根据国家充电设施监测服务平台数据，截至2026年10月底，我国电动汽车充电基础设施（枪）总数达到2539.1万个，同比增长36.2%。其中，公共充电设施（枪）528.3万个，同比增长16.5%，额定总功率达到2.71亿千瓦，单枪平均功率约为51.37千瓦；私人充电设施（枪）2010.8万个，同比增长42.5%，私人充电设施报装用电容量达到1.71亿千伏安。（央视新闻）",
+        "cover": "",
+        "date": 1795144523407,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "中国超六成可持续发展指标接近或实现2030年目标",
+        "url": "https://m.36kr.com/newsflashes/4077524739199879",
+        "desc": "今天（20日），由可持续发展大数据国际研究中心牵头撰写的《地球大数据支撑可持续发展目标报告（2026）》在联合国网站发布。这是自2019年起，我国第八次发布该报告。《报告》中特别指出，十年来，中国的可持续发展进展显著。截至2025年年底，在纳入评估的234个联合国可持续发展目标指标中，中国已有147项接近或实现2030年目标，占比62.8%，比2015年提升23.9%；2025年相比2024年，提升2.3%，在教育、新能源、应对气候变化、水质改善等方面进展显著。（央视新闻）",
+        "cover": "",
+        "date": 1795144359570,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "OPPO与携程达成合作，首批12家门店接入入境游客购机场景",
         "url": "https://m.36kr.com/newsflashes/4077523328078977",
         "desc": "36氪获悉，近日，OPPO宣布与携程达成合作，依托携程覆盖全球的旅行服务资源，将OPPO线下门店接入入境游客的旅程之中，为入境游客提供购机优惠场景。首批合作共落地12家门店。",
@@ -937,7 +967,7 @@
         "date": 1795144273442,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "Mistral计划在新加坡开设区域中心，将亚洲员工人数增加一倍",
@@ -947,7 +977,7 @@
         "date": 1795143686371,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "拓日新能在喀什成立新能源公司，注册资本1000万",
@@ -957,7 +987,7 @@
         "date": 1795143467279,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "国内金饰克价跌破1100元",
@@ -967,7 +997,7 @@
         "date": 1795143418126,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "韩国交易所启动SIDECAR机制，暂停KOSPI程序化卖盘",
@@ -977,7 +1007,7 @@
         "date": 1795143402709,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "22家私募现身15只首批主动ETF，合计持有5.24亿份",
@@ -987,7 +1017,7 @@
         "date": 1795143141531,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "中国重汽集团济南商用车公司增资至24.2亿，增幅约16%",
@@ -997,7 +1027,7 @@
         "date": 1795142748555,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "我国海洋药物和功能制品业发展提速，规模近千亿",
@@ -1007,7 +1037,7 @@
         "date": 1795142545808,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "五部门印发2026版海洋产业投融资《指导目录》",
@@ -1017,7 +1047,7 @@
         "date": 1795142524711,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "现货白银日内跌幅扩大至3%",
@@ -1027,7 +1057,7 @@
         "date": 1795141877944,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "国家能源集团在鄂尔多斯成立氢能科技公司，注册资本约3.5亿",
@@ -1037,7 +1067,7 @@
         "date": 1795141864993,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "闲鱼：2027财年Q2日活同比增长23%，订单量同比增长29%",
@@ -1047,7 +1077,7 @@
         "date": 1795141836678,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "沪指跌幅扩大至2%",
@@ -1057,7 +1087,7 @@
         "date": 1795141726346,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "中海壳牌石油化工公司增资至331.76亿",
@@ -1067,7 +1097,7 @@
         "date": 1795140959339,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "恒生科技指数日内跌4%",
@@ -1077,7 +1107,7 @@
         "date": 1795140477638,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "SK海力士考虑将持有的铠侠相关可转债转换为股票",
@@ -1087,7 +1117,7 @@
         "date": 1795140408272,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "蓝思科技创始人等在无锡成立股权投资基金，出资额1.2亿",
@@ -1097,45 +1127,15 @@
         "date": 1795140190809,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "创业板指跌超3%",
-        "url": "https://m.36kr.com/newsflashes/4077449266156672",
-        "desc": "36氪获悉，创业板指跌超3%。",
-        "cover": "",
-        "date": 1795139753061,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "财政部在香港成功发行美元主权债券",
-        "url": "https://m.36kr.com/newsflashes/4077445992584065",
-        "desc": "36氪获悉，据财政部，11月19日，中华人民共和国财政部代表中央政府在香港特别行政区成功发行了20亿美元主权债券，发行期限为3年期，发行利率为4.821%。此次美元主权债券受到市场热烈欢迎，国际投资者认购踊跃，总认购金额723亿美元，是发行金额的36倍。 此次美元主权债券投资者类型丰富，地域分布广泛。亚洲、欧洲和中东、美洲投资者分别占比52%、34%、14%，主权类、基金资管、银行和保险、交易商等类型投资者分别占比59%、29%、11%、1%。此次发行的债券将全部在香港联合交易所上市。",
-        "cover": "",
-        "date": 1795139553258,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "全国首个独立运行的兆瓦级海岛微电网投运",
-        "url": "https://m.36kr.com/newsflashes/4077435729449861",
-        "desc": "记者从国家电网了解到，昨天（19日），全国首个独立运行的兆瓦级海岛微电网在福建福鼎台山岛投运，台山岛彻底告别柴油发电时代，实现百分之百绿电不间断供电。（央视新闻）",
-        "cover": "",
-        "date": 1795138926846,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795144267334,
-    "bilibili": 1795142967533,
-    "qbitai": 1795115494988,
-    "36kr": 1795115495391
+    "thepaper": 1795145165896,
+    "bilibili": 1795145175720,
+    "qbitai": 1795116392409,
+    "36kr": 1795116392879
   },
   "failures": {}
 }
