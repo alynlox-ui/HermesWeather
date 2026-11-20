@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T06:26:37Z",
+  "updatedAt": "2026-11-20T06:41:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -286,19 +286,19 @@
         "hotTitle": "AI御三家模型屎山代码论剑"
       },
       {
-        "title": "疑似《罗小黑》44集被删减片段",
-        "url": "https://www.bilibili.com/video/BV1qbsB6PEbV",
+        "title": "谁教罗小黑这么做动漫的，治愈番秒变搞笑番",
+        "url": "https://www.bilibili.com/video/BV11Us46DEvv",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1qbsB6PEbV",
-        "author": "zeroooo--",
-        "duration": "0:13",
-        "cover": "//i0.hdslb.com/bfs/archive/8fc6179ef04bdc724e6e946bbcf65dddaad90014.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qbsB6PEbV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV11Us46DEvv",
+        "author": "暗屿动漫剧场",
+        "duration": "3:13",
+        "cover": "//i2.hdslb.com/bfs/archive/d4c929d1a0c7da5b2043888a0ca7cf04b4c67212.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11Us46DEvv&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "罗小黑史上最长单集"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795184765358,
+    "thepaper": 1795185665274,
     "bilibili": 1795184156670,
-    "qbitai": 1795155996577,
-    "36kr": 1795155997003
+    "qbitai": 1795156894997,
+    "36kr": 1795156895364
   },
   "failures": {}
 }
