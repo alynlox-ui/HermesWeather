@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T04:56:30Z",
+  "updatedAt": "2026-11-20T05:11:28Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -334,19 +334,19 @@
         "hotTitle": "我们天下第一好S16版"
       },
       {
-        "title": "小豪试玩迪鲁达！终于能试玩了，二技能先手有点慢啊，咋起手呢这忍者？！",
-        "url": "https://www.bilibili.com/video/BV1sbsA67Ebp",
+        "title": "笑嘻了！棉花看树叶碰上2级传送吸血貂蝉红温下播",
+        "url": "https://www.bilibili.com/video/BV1HAyWzeE9w",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1sbsA67Ebp",
-        "author": "小果叮official",
-        "duration": "12:28",
-        "cover": "//i2.hdslb.com/bfs/archive/b5a942db3a4f49eb1eded4cd4eff9129aab2364c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sbsA67Ebp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1HAyWzeE9w",
+        "author": "乌拉乌",
+        "duration": "1:30",
+        "cover": "//i0.hdslb.com/bfs/archive/166a0236bce57a168c27f851ac2e7563a22b7297.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HAyWzeE9w&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "棉花 火影新忍者实战"
       },
       {
@@ -930,6 +930,16 @@
         "rank": 2
       },
       {
+        "title": "热门中概股美股盘前多数下跌，网易跌超6%",
+        "url": "https://m.36kr.com/newsflashes/4078099126621059",
+        "desc": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，网易跌超6%，京东、百度、小鹏集团跌超2%，拼多多、哔哩哔哩、理想汽车跌超1%，蔚来跌0.76%，阿里巴巴涨0.36%。",
+        "cover": "",
+        "date": 1795179417396,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
         "title": "美股大型科技股盘前普跌，Anthropic跌超9%",
         "url": "https://m.36kr.com/newsflashes/4078096790525063",
         "desc": "36氪获悉，美股大型科技股盘前普跌，截至发稿，Anthropic跌超9%，闪迪跌超6%，Meta跌超3%，英伟达、亚马逊、微软跌超2%，特斯拉跌超1%，谷歌跌0.57%，苹果涨0.15%。",
@@ -937,7 +947,7 @@
         "date": 1795179274812,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "法兴银行预计2027年美联储将再加息两次，每次25个基点",
@@ -947,7 +957,7 @@
         "date": 1795179202000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "Anthropic IPO募集资金总额约为935亿美元",
@@ -957,7 +967,7 @@
         "date": 1795178914221,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "库什纳旗下Affinity投资的英国银行拿到美国银行业牌照",
@@ -967,7 +977,7 @@
         "date": 1795178814000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "多家PCB概念股涨停，上市公司回应",
@@ -977,7 +987,7 @@
         "date": 1795178390532,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "易天股份：拟收购艾晨数字能源37%股权",
@@ -987,7 +997,7 @@
         "date": 1795178285000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "建设银行发布贵金属业务市场风险提示",
@@ -997,7 +1007,7 @@
         "date": 1795178047121,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "Coinbase计划于2027年上半年推出自有预测市场合约",
@@ -1007,7 +1017,7 @@
         "date": 1795177914000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "图灵量子先进封测中心在长沙启用",
@@ -1017,7 +1027,7 @@
         "date": 1795177665000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "Anthropic美股盘前跌超10%",
@@ -1027,7 +1037,7 @@
         "date": 1795177465247,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "汉莎航空旗下主力航司将裁员1000人",
@@ -1037,7 +1047,7 @@
         "date": 1795177451000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "弘信电子：控股子公司签署7.45亿元算力技术服务协议",
@@ -1047,7 +1057,7 @@
         "date": 1795177188000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "士兰微：拟变更16亿元募资投向收购士兰集科股权并增资扩产",
@@ -1057,7 +1067,7 @@
         "date": 1795177100000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "摩尔线程：实控人提议回购5亿至10亿元股份",
@@ -1067,7 +1077,7 @@
         "date": 1795176747206,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "意大利能源公司埃尼拟收购美国317兆瓦太阳能项目",
@@ -1077,7 +1087,7 @@
         "date": 1795176159000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "ST天圣：撤销其他风险警示，11月24日起证券简称变更为“天圣制药”",
@@ -1087,7 +1097,7 @@
         "date": 1795176081114,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "拓荆科技：董事长提议回购2亿元至3亿元股份",
@@ -1097,7 +1107,7 @@
         "date": 1795176042675,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "深交所：本周共对80起证券异常交易行为采取了自律监管措施",
@@ -1107,7 +1117,7 @@
         "date": 1795175849664,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "欢瑞世纪：2022年年报存在虚假记载，股票被实施其他风险警示11月24日起简称变更为ST欢瑞",
@@ -1117,25 +1127,15 @@
         "date": 1795175782256,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "兴森科技：拟4亿元至5亿元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4077980306560134",
-        "desc": "36氪获悉，兴森科技公告，公司拟使用自筹资金或其他合法资金，通过集中竞价交易方式回购股份，回购资金总额不低于4亿元且不超过5亿元，回购价格不超过42元/股。回购股份将用于后续股权激励或员工持股计划，回购期限为董事会审议通过之日起12个月内。",
-        "cover": "",
-        "date": 1795175696000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795179365505,
+    "thepaper": 1795180265379,
     "bilibili": 1795178750089,
-    "qbitai": 1795150589843,
-    "36kr": 1795150590231
+    "qbitai": 1795151488084,
+    "36kr": 1795151488447
   },
   "failures": {}
 }
