@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T21:56:37Z",
+  "updatedAt": "2026-11-19T22:11:31Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,16 @@
     ],
     "bilibili": [
       {
+        "title": "习近平主席会见多国领导人",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E4%BC%9A%E8%A7%81%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA",
+        "desc": "",
+        "rank": 1
+      },
+      {
         "title": "【时政微纪录】习主席的深圳APEC时间——和平之约",
         "url": "https://www.bilibili.com/video/BV1P5sB6yEDY",
         "desc": "",
-        "rank": 1,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -140,22 +146,6 @@
         "cover": "//i0.hdslb.com/bfs/archive/59740ddf0a0112c798c65ce2f198dc0cbb21d3bb.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1P5sB6yEDY&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "习主席的深圳APEC时间"
-      },
-      {
-        "title": "特朗普：今天我们创造了历史",
-        "url": "https://www.bilibili.com/video/BV1KHsY6eEi6",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1KHsY6eEi6",
-        "author": "央视新闻",
-        "duration": "0:42",
-        "cover": "//i1.hdslb.com/bfs/archive/1bdeba200c7b1a6823801ac78de3d59f2ea67acb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KHsY6eEi6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "特朗普称三国元首会晤创造了历史"
       },
       {
         "title": "APEC与会领导人感谢习近平主席 感谢中国 感谢深圳",
@@ -190,20 +180,20 @@
         "hotTitle": "中俄美元首会晤传递哪些信息"
       },
       {
-        "title": "Anthropic上市，融资千亿美元，吞噬全球金融流动性，全球股市下跌，黄金下跌，Anthropic发行估值1.5万亿美元",
-        "url": "https://www.bilibili.com/video/BV1Pxsv6zE8q",
+        "title": "朱雀三号回收火箭，9台发动机再次点火全过！",
+        "url": "https://www.bilibili.com/video/BV1XQsv6DEBe",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
-        "description": "Anthropic上市，首日成交金额达到874亿美元。 发行价是83美元，开盘价是111.5美元，开盘涨幅达到34.34%； 但Anthropic开盘后的走势并不好。 只有开盘那一下，冲高到115.1美元，随后就一路回落，盘中最低跌到92.7美元。 收盘价格是97.17美元，低于开盘价，所以K线是一个大阴线，收盘涨幅是17%； 具体本视频会来详细分析，感谢赞赏支持。",
-        "content": "Anthropic上市，首日成交金额达到874亿美元。 发行价是83美元，开盘价是111.5美元，开盘涨幅达到34.34%； 但Anthropic开盘后的走势并不好。 只有开盘那一下，冲高到115.1美元，随后就一路回落，盘中最低跌到92.7美元。 收盘价格是97.17美元，低于开盘价，所以K线是一个大阴线，收盘涨幅是17%； 具体本视频会来详细分析，感谢赞赏支持。",
-        "bvid": "BV1Pxsv6zE8q",
-        "author": "星话大白",
-        "duration": "8:42",
-        "cover": "//i1.hdslb.com/bfs/archive/09c97566d7c28da27089fce58ea793b301907858.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Pxsv6zE8q&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Anthropic上市首日市场表现"
+        "description": "蓝箭航天今天（20日）发布消息：此前首次陆地成功回收的朱雀三号遥二火箭的9台发动机已全部完成点火试车，具备再次使用的条件。近日，总台记者走进浙江湖州的火箭发动机试车台，独家记录了回收发动机再次点火的全过程。（总台央视记者：崔霞 陶嘉树）",
+        "content": "蓝箭航天今天（20日）发布消息：此前首次陆地成功回收的朱雀三号遥二火箭的9台发动机已全部完成点火试车，具备再次使用的条件。近日，总台记者走进浙江湖州的火箭发动机试车台，独家记录了回收发动机再次点火的全过程。（总台央视记者：崔霞 陶嘉树）",
+        "bvid": "BV1XQsv6DEBe",
+        "author": "央视军事",
+        "duration": "3:34",
+        "cover": "//i2.hdslb.com/bfs/archive/8cd707efd2fa3973b1cd59f83fbbc2155670383e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XQsv6DEBe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "朱雀三号回收火箭传来好消息"
       },
       {
         "title": "罗小黑战记番外 蓝溪镇",
@@ -222,154 +212,58 @@
         "hotTitle": "罗小黑史上最长单集"
       },
       {
-        "title": "【非凡之爱】⚡️但都是正常人⚡️",
-        "url": "https://www.bilibili.com/video/BV1wLs465EWe",
+        "title": "史上最高分的《GTA6》，救不了一个行业【绅批】",
+        "url": "https://www.bilibili.com/video/BV1Xksh63ESC",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "仅供娱乐",
-        "content": "仅供娱乐",
-        "bvid": "BV1wLs465EWe",
-        "author": "酸奶煎个蛋",
-        "duration": "1:17",
-        "cover": "//i1.hdslb.com/bfs/archive/d97ab94d22c685ae8d612d650c81e8fce59b0e37.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wLs465EWe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "非凡之爱最正常的一集"
+        "description": "行业特殊事件，不具有普适性和可复制性",
+        "content": "行业特殊事件，不具有普适性和可复制性",
+        "bvid": "BV1Xksh63ESC",
+        "author": "老绅video",
+        "duration": "10:12",
+        "cover": "//i1.hdslb.com/bfs/archive/c1a8983224695adae834439914e9548add92f496.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xksh63ESC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "好评如潮的GTA6有哪些不足"
       },
       {
-        "title": "朱雀三号回收火箭，9台发动机再次点火全过！",
-        "url": "https://www.bilibili.com/video/BV1XQsv6DEBe",
+        "title": "Anthropic上市，融资千亿美元，吞噬全球金融流动性，全球股市下跌，黄金下跌，Anthropic发行估值1.5万亿美元",
+        "url": "https://www.bilibili.com/video/BV1Pxsv6zE8q",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "蓝箭航天今天（20日）发布消息：此前首次陆地成功回收的朱雀三号遥二火箭的9台发动机已全部完成点火试车，具备再次使用的条件。近日，总台记者走进浙江湖州的火箭发动机试车台，独家记录了回收发动机再次点火的全过程。（总台央视记者：崔霞 陶嘉树）",
-        "content": "蓝箭航天今天（20日）发布消息：此前首次陆地成功回收的朱雀三号遥二火箭的9台发动机已全部完成点火试车，具备再次使用的条件。近日，总台记者走进浙江湖州的火箭发动机试车台，独家记录了回收发动机再次点火的全过程。（总台央视记者：崔霞 陶嘉树）",
-        "bvid": "BV1XQsv6DEBe",
-        "author": "央视军事",
-        "duration": "3:34",
-        "cover": "//i2.hdslb.com/bfs/archive/8cd707efd2fa3973b1cd59f83fbbc2155670383e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XQsv6DEBe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "朱雀三号回收火箭传来好消息"
+        "description": "Anthropic上市，首日成交金额达到874亿美元。 发行价是83美元，开盘价是111.5美元，开盘涨幅达到34.34%； 但Anthropic开盘后的走势并不好。 只有开盘那一下，冲高到115.1美元，随后就一路回落，盘中最低跌到92.7美元。 收盘价格是97.17美元，低于开盘价，所以K线是一个大阴线，收盘涨幅是17%； 具体本视频会来详细分析，感谢赞赏支持。",
+        "content": "Anthropic上市，首日成交金额达到874亿美元。 发行价是83美元，开盘价是111.5美元，开盘涨幅达到34.34%； 但Anthropic开盘后的走势并不好。 只有开盘那一下，冲高到115.1美元，随后就一路回落，盘中最低跌到92.7美元。 收盘价格是97.17美元，低于开盘价，所以K线是一个大阴线，收盘涨幅是17%； 具体本视频会来详细分析，感谢赞赏支持。",
+        "bvid": "BV1Pxsv6zE8q",
+        "author": "星话大白",
+        "duration": "8:42",
+        "cover": "//i1.hdslb.com/bfs/archive/09c97566d7c28da27089fce58ea793b301907858.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Pxsv6zE8q&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Anthropic上市首日市场表现"
       },
       {
-        "title": "朝鲜豆包：智慧之泉1.0问世（AI服务体系）",
-        "url": "https://www.bilibili.com/video/BV1qxsB6KEoo",
+        "title": "一雪前耻：国际法院法官换届，英法联袂当选，俄罗斯形单影只",
+        "url": "https://www.bilibili.com/video/BV1tKs46nEYH",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1qxsB6KEoo",
-        "author": "平壤小朋友",
-        "duration": "0:19",
-        "cover": "//i0.hdslb.com/bfs/archive/732174264fa020a6c879e3e0a6653032bf231153.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qxsB6KEoo&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI泔水正在污染知识"
-      },
-      {
-        "title": "一路向东去赶烤，横跨三省1300公里，4天吃8家烤串，洛阳徐州淄博都好吃",
-        "url": "https://www.bilibili.com/video/BV1qxsB6KE9d",
-        "desc": "",
-        "rank": 10,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1qxsB6KE9d",
-        "author": "君在西安",
-        "duration": "12:55",
-        "cover": "//i0.hdslb.com/bfs/archive/05beda4206eae179b516dbaf6765dbaf1ca63de4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qxsB6KE9d&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "横跨三省1300公里吃烧烤"
-      },
-      {
-        "title": "困难靶27/30 donk首次打瓦试玩狐狸套",
-        "url": "https://www.bilibili.com/video/BV1jUsU6wEHa",
-        "desc": "",
-        "rank": 11,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1jUsU6wEHa",
-        "author": "无畏契约",
-        "duration": "0:48",
-        "cover": "//i2.hdslb.com/bfs/archive/e9bf89a79bf9c99ae49ac5cefe29300e6c577746.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jUsU6wEHa&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "donk首次打瓦试玩"
-      },
-      {
-        "title": "叔叔赢麻了！BLG五人冠军皮肤投票全部延长，bin基本确定格温，viper蛇女ez难解难分，xun奇亚娜在全力追猴子，on妮蔻杀死比赛，knight纠结发条洛克",
-        "url": "https://www.bilibili.com/video/BV1xYs86bEBe",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1xYs86bEBe",
-        "author": "白武b",
-        "duration": "2:31",
-        "cover": "//i1.hdslb.com/bfs/archive/584783824bd2b303a6833b0a2c4a8c2e983dc7df.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xYs86bEBe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG冠军皮肤投票"
-      },
-      {
-        "title": "CS2海克斯大乱go来了！肺泡都给我笑炸了",
-        "url": "https://www.bilibili.com/video/BV1eYsB6hE5G",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "创意工坊： 海克斯大乱 GO · Dust II 好友试玩版（作者：海马非马） 海克斯大乱斗 GO mr12版 总帖（沙二）V1.7.8（作者：永雏古夫大帝） 非常非常有意思的创意工坊 大家可以尝试一下！",
-        "content": "创意工坊： 海克斯大乱 GO · Dust II 好友试玩版（作者：海马非马） 海克斯大乱斗 GO mr12版 总帖（沙二）V1.7.8（作者：永雏古夫大帝） 非常非常有意思的创意工坊 大家可以尝试一下！",
-        "bvid": "BV1eYsB6hE5G",
-        "author": "是橘长呀",
-        "duration": "8:11",
-        "cover": "//i2.hdslb.com/bfs/archive/ede0593a568f5270cd92eac6dc6a9b41f526071b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eYsB6hE5G&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "CS2海克斯大乱GO"
-      },
-      {
-        "title": "传国玉玺风波 ——【AI全民制作人】",
-        "url": "https://www.bilibili.com/video/BV1risA6kEfV",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "个大博物馆的国宝争相奔赴，北魏姐妹花守护的竟然是……",
-        "content": "个大博物馆的国宝争相奔赴，北魏姐妹花守护的竟然是……",
-        "bvid": "BV1risA6kEfV",
-        "author": "林溪Lynsey",
-        "duration": "2:22",
-        "cover": "//i1.hdslb.com/bfs/archive/e105c507949a1bf369893882c749f0edbcd16295.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1risA6kEfV&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "博物馆奇妙夜之传国玉玺风波"
-      },
-      {
-        "title": "【访谈解析】王子璇回怼，文吉公主逃避，访谈不得已中止；锐评文王对谈：把老师都问成工伤了【后会友期 19】",
-        "url": "https://www.bilibili.com/video/BV1jqsh61ELw",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1jqsh61ELw",
-        "author": "冷眼炒冷饭",
-        "duration": "22:49",
-        "cover": "//i2.hdslb.com/bfs/archive/82f1fa5a0c8cec809d0d920157d869a303bdd819.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jqsh61ELw&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "文吉儿王子璇对谈老师遭工伤"
+        "description": "联大安理各开场， 一席悬空两头忙。 三家退选重投票， 几处争权费思量。 —— 2026国际法院法官选举实况解说",
+        "content": "联大安理各开场， 一席悬空两头忙。 三家退选重投票， 几处争权费思量。 —— 2026国际法院法官选举实况解说",
+        "bvid": "BV1tKs46nEYH",
+        "author": "小Q不是导盲犬",
+        "duration": "16:50",
+        "cover": "//i2.hdslb.com/bfs/archive/e310cba6b3f86e18f1795b149c4f41c46a3b375c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tKs46nEYH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "国际法院法官换届有何看点"
       },
       {
         "title": "柔和手感！西索科篮下妙传瀚森小抛投得分！",
         "url": "https://www.bilibili.com/video/BV1UNsB6SEpt",
         "desc": "",
-        "rank": 16,
+        "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -382,10 +276,74 @@
         "hotTitle": "杨瀚森对阵雄鹿首节登场"
       },
       {
+        "title": "【侠盗猎车手6】4K 最高画质 全网首发 全任务 全剧情流程通关攻略 开放世界冒险游戏 GTA6 - Grand Theft Auto VI",
+        "url": "https://www.bilibili.com/video/BV1NDsS6UE8D",
+        "desc": "",
+        "rank": 11,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "游戏名：《Grand Theft Auto VI》- GTA6 是由Rockstar Games发行的一款开放世界游戏，是系列游戏《Grand Theft Auto》（GTA）的第六部正统续作该作的地点设定在以美国佛罗里达州为原型的雷奥奈达州，剧情围绕双主角犯罪搭档展开，两人因失败的银行抢劫行动卷入全州级阴谋，在犯罪势力与执法机构间周旋冒险杰森和露西娅一直清晰，命运对他们不公。本应简单的行动产生了差错，美国阳光最灿烂的地方向相反展现了它最阴暗的一面，将他们卷入一场窒息雷奥奈达的犯罪阴谋。若想逃离出生天他们",
+        "content": "游戏名：《Grand Theft Auto VI》- GTA6 是由Rockstar Games发行的一款开放世界游戏，是系列游戏《Grand Theft Auto》（GTA）的第六部正统续作该作的地点设定在以美国佛罗里达州为原型的雷奥奈达州，剧情围绕双主角犯罪搭档展开，两人因失败的银行抢劫行动卷入全州级阴谋，在犯罪势力与执法机构间周旋冒险杰森和露西娅一直清晰，命运对他们不公。本应简单的行动产生了差错，美国阳光最灿烂的地方向相反展现了它最阴暗的一面，将他们卷入一场窒息雷奥奈达的犯罪阴谋。若想逃离出生天他们",
+        "bvid": "BV1NDsS6UE8D",
+        "author": "11的游戏世界",
+        "duration": "928:12",
+        "cover": "//i1.hdslb.com/bfs/archive/6cd6c6227ccc69a7b7ded004f646d1e2d4913646.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NDsS6UE8D&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GTA全剧情全任务通关攻略"
+      },
+      {
+        "title": "【非凡之爱】⚡️但都是正常人⚡️",
+        "url": "https://www.bilibili.com/video/BV1wLs465EWe",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "仅供娱乐",
+        "content": "仅供娱乐",
+        "bvid": "BV1wLs465EWe",
+        "author": "酸奶煎个蛋",
+        "duration": "1:17",
+        "cover": "//i1.hdslb.com/bfs/archive/d97ab94d22c685ae8d612d650c81e8fce59b0e37.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wLs465EWe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "非凡之爱最正常的一集"
+      },
+      {
+        "title": "S16世界赛最经典最惊艳的十个镜头已收录完成",
+        "url": "https://www.bilibili.com/video/BV1Y1sg6UEqc",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1Y1sg6UEqc",
+        "author": "呦吼是安仔呀",
+        "duration": "7:19",
+        "cover": "//i2.hdslb.com/bfs/archive/7d8c1450f1f6efa93118c29c83acb2ee00f7bcf6.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Y1sg6UEqc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "S16最惊艳的十个镜头"
+      },
+      {
+        "title": "这个可以帮我剪视频的AI，正在变得越来越诡异",
+        "url": "https://www.bilibili.com/video/BV1ans86BEdU",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "视频为伪纪录片【裁缝】，所有内容均为虚构，并非专业科普或真实事件。抱歉，我为了追求沉浸感没有在正片中说明。",
+        "content": "视频为伪纪录片【裁缝】，所有内容均为虚构，并非专业科普或真实事件。抱歉，我为了追求沉浸感没有在正片中说明。",
+        "bvid": "BV1ans86BEdU",
+        "author": "真难人杨几个",
+        "duration": "6:21",
+        "cover": "//i1.hdslb.com/bfs/archive/2777ab5f17b105fc7988d17b8ea273ac44663fa5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ans86BEdU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AI泔水正在污染知识"
+      },
+      {
         "title": "大牙|| 肖8选择题精讲带背（第二套卷），全网讲解最清晰，专治零基础！",
         "url": "https://www.bilibili.com/video/BV142sS6HEyv",
         "desc": "",
-        "rank": 17,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -398,26 +356,42 @@
         "hotTitle": "考研倒计时30天政治提分冲刺"
       },
       {
-        "title": "我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】",
-        "url": "https://www.bilibili.com/video/BV18jsA6xEft",
+        "title": "CS2海克斯大乱go来了！肺泡都给我笑炸了",
+        "url": "https://www.bilibili.com/video/BV1eYsB6hE5G",
         "desc": "",
-        "rank": 18,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
-        "content": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
-        "bvid": "BV18jsA6xEft",
-        "author": "LING不道",
-        "duration": "1:4",
-        "cover": "//i2.hdslb.com/bfs/archive/c014dba1c54cfcad62c30c18dfe7b0da97e45528.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18jsA6xEft&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "把Win10装进哔哩哔哩"
+        "description": "创意工坊： 海克斯大乱 GO · Dust II 好友试玩版（作者：海马非马） 海克斯大乱斗 GO mr12版 总帖（沙二）V1.7.8（作者：永雏古夫大帝） 非常非常有意思的创意工坊 大家可以尝试一下！",
+        "content": "创意工坊： 海克斯大乱 GO · Dust II 好友试玩版（作者：海马非马） 海克斯大乱斗 GO mr12版 总帖（沙二）V1.7.8（作者：永雏古夫大帝） 非常非常有意思的创意工坊 大家可以尝试一下！",
+        "bvid": "BV1eYsB6hE5G",
+        "author": "是橘长呀",
+        "duration": "8:11",
+        "cover": "//i2.hdslb.com/bfs/archive/ede0593a568f5270cd92eac6dc6a9b41f526071b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eYsB6hE5G&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "CS2海克斯大乱GO"
+      },
+      {
+        "title": "【访谈解析】王子璇回怼，文吉公主逃避，访谈不得已中止；锐评文王对谈：把老师都问成工伤了【后会友期 19】",
+        "url": "https://www.bilibili.com/video/BV1jqsh61ELw",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1jqsh61ELw",
+        "author": "冷眼炒冷饭",
+        "duration": "22:49",
+        "cover": "//i2.hdslb.com/bfs/archive/82f1fa5a0c8cec809d0d920157d869a303bdd819.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jqsh61ELw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "文吉儿王子璇对谈老师遭工伤"
       },
       {
         "title": "【JUMP】《哈利波特：魔法觉醒》停服，网易不爆金币才怪了",
         "url": "https://www.bilibili.com/video/BV1W6s869Eny",
         "desc": "",
-        "rank": 19,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "也不是一天两天了",
@@ -430,26 +404,90 @@
         "hotTitle": "哈利波特魔法觉醒为何停服"
       },
       {
-        "title": "40年后的罪恶都市，古巴帮和海地帮现在去哪了？【百国千城】",
-        "url": "https://www.bilibili.com/video/BV1CVsB65E5i",
+        "title": "困难靶27/30 donk首次打瓦试玩狐狸套",
+        "url": "https://www.bilibili.com/video/BV1jUsU6wEHa",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1jUsU6wEHa",
+        "author": "无畏契约",
+        "duration": "0:48",
+        "cover": "//i2.hdslb.com/bfs/archive/e9bf89a79bf9c99ae49ac5cefe29300e6c577746.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jUsU6wEHa&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "donk首次打瓦试玩"
+      },
+      {
+        "title": "传国玉玺风波 ——【AI全民制作人】",
+        "url": "https://www.bilibili.com/video/BV1risA6kEfV",
         "desc": "",
         "rank": 20,
         "kind": "video",
         "platform": "bilibili",
-        "description": "出品：地缘志工作室 主编：胖鼠 监制：木石 策划：胖鼠 文案：胖鼠 配音：胖鼠 后期：拉莫斯 编辑：拉莫斯",
-        "content": "出品：地缘志工作室 主编：胖鼠 监制：木石 策划：胖鼠 文案：胖鼠 配音：胖鼠 后期：拉莫斯 编辑：拉莫斯",
-        "bvid": "BV1CVsB65E5i",
-        "author": "地缘志",
-        "duration": "17:23",
-        "cover": "//i0.hdslb.com/bfs/archive/b790f5c8f62d0465023780ba4022ec4652820bbc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CVsB65E5i&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GTA的罪恶都市真实存在吗"
+        "description": "个大博物馆的国宝争相奔赴，北魏姐妹花守护的竟然是……",
+        "content": "个大博物馆的国宝争相奔赴，北魏姐妹花守护的竟然是……",
+        "bvid": "BV1risA6kEfV",
+        "author": "林溪Lynsey",
+        "duration": "2:22",
+        "cover": "//i1.hdslb.com/bfs/archive/e105c507949a1bf369893882c749f0edbcd16295.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1risA6kEfV&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "博物馆奇妙夜之传国玉玺风波"
+      },
+      {
+        "title": "Thank you, Choi 'Doran' Hyeon-Jun",
+        "url": "https://www.bilibili.com/video/BV1hAsb6cEUp",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1hAsb6cEUp",
+        "author": "T1电子竞技俱乐部",
+        "duration": "3:20",
+        "cover": "//i2.hdslb.com/bfs/archive/b3293cb7070411e56099f86f7a58c3dfa817d1e8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1hAsb6cEUp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "T1官宣Doran离队"
+      },
+      {
+        "title": "我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】",
+        "url": "https://www.bilibili.com/video/BV18jsA6xEft",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
+        "content": "这是模拟器项目，仅供娱乐，不是真实的操作系统～ 点击即玩，欢迎转发! https://b23.tv/OunDakP",
+        "bvid": "BV18jsA6xEft",
+        "author": "LING不道",
+        "duration": "1:4",
+        "cover": "//i2.hdslb.com/bfs/archive/c014dba1c54cfcad62c30c18dfe7b0da97e45528.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18jsA6xEft&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "把Win10装进哔哩哔哩"
+      },
+      {
+        "title": "一路向东去赶烤，横跨三省1300公里，4天吃8家烤串，洛阳徐州淄博都好吃",
+        "url": "https://www.bilibili.com/video/BV1qxsB6KE9d",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1qxsB6KE9d",
+        "author": "君在西安",
+        "duration": "12:55",
+        "cover": "//i0.hdslb.com/bfs/archive/05beda4206eae179b516dbaf6765dbaf1ca63de4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qxsB6KE9d&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "横跨三省1300公里吃烧烤"
       },
       {
         "title": "Viper之终极难题！Viper在韩国发起冠军皮肤投票，结果蛇女和EZ五五开到底该选谁？Knight：选蛇女我就多一个皮肤！大家这次都投给了谁？",
         "url": "https://www.bilibili.com/video/BV1Hist6UERX",
         "desc": "",
-        "rank": 21,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -462,90 +500,26 @@
         "hotTitle": "Viper发起冠军皮肤投票"
       },
       {
-        "title": "DDR6规范发布：内存带宽翻四倍 牙膏挤爆 ｜显卡日报11月20日",
-        "url": "https://www.bilibili.com/video/BV1nesY6xEu3",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "日报有用记得关注哦，你的鼓励真的很重要～",
-        "content": "日报有用记得关注哦，你的鼓励真的很重要～",
-        "bvid": "BV1nesY6xEu3",
-        "author": "芝士华莱士",
-        "duration": "2:1",
-        "cover": "//i1.hdslb.com/bfs/archive/4eeddc375569c26dcccbf1c59a3547e6579ffddb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nesY6xEu3&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "RTX5090D涨幅有多猛"
-      },
-      {
-        "title": "【IGN】10分，《GTA 6》评测：这个时代最伟大的游戏",
-        "url": "https://www.bilibili.com/video/BV1WMsm6zEfn",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《GTA 6》没有缺点吗？那当然不是，例如它仅有30帧的画面。但玩家们等待了十三年，对游戏的预期已经无形中被拔到一个无以伦比的高度。我只想让你知道的是，在这个游戏行业里，它就是独一无二断档式的存在。",
-        "content": "《GTA 6》没有缺点吗？那当然不是，例如它仅有30帧的画面。但玩家们等待了十三年，对游戏的预期已经无形中被拔到一个无以伦比的高度。我只想让你知道的是，在这个游戏行业里，它就是独一无二断档式的存在。",
-        "bvid": "BV1WMsm6zEfn",
-        "author": "IGN中国",
-        "duration": "10:0",
-        "cover": "//i1.hdslb.com/bfs/archive/a017dabc198aeaa22efc2622abe52ee4ff1bbf1c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1WMsm6zEfn&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "IGN测评GTA6满分"
-      },
-      {
-        "title": "这才是真正的“一串四”！",
-        "url": "https://www.bilibili.com/video/BV1HHsQ6jEif",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "模仿一下美食纪录片的风格，尝试新东西",
-        "content": "模仿一下美食纪录片的风格，尝试新东西",
-        "bvid": "BV1HHsQ6jEif",
-        "author": "九夜听风",
-        "duration": "4:37",
-        "cover": "//i0.hdslb.com/bfs/archive/cdbaa3b389a1d919080e7eed4915bcae93a12be9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1HHsQ6jEif&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "这才是真正的一串四"
-      },
-      {
-        "title": "Deft确认复出加入NS",
-        "url": "https://www.bilibili.com/video/BV1MMsh6vEU2",
+        "title": "“没了烟火气，人生就是一段孤独的旅程”",
+        "url": "https://www.bilibili.com/video/BV1Vost6NEKQ",
         "desc": "",
         "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1MMsh6vEU2",
-        "author": "英雄联盟赛事",
-        "duration": "0:26",
-        "cover": "//i2.hdslb.com/bfs/archive/4db72be73a7b37f8f68e6147b399c343b70cd70a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MMsh6vEU2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Deft复出再度并肩Scout"
-      },
-      {
-        "title": "骗税天王，最终伏法！十年狂飙，走到头了！万字细嗦《谷雨》第十四期 大结局 包含；剧情、细节、伏笔回收、人物结局等",
-        "url": "https://www.bilibili.com/video/BV1SUsh6TEuN",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "骗税天王，最终伏法！十年狂飙，走到头了！万字细嗦《谷雨》第十四期 大结局 包含；剧情、细节、伏笔回收、人物结局等",
-        "content": "骗税天王，最终伏法！十年狂飙，走到头了！万字细嗦《谷雨》第十四期 大结局 包含；剧情、细节、伏笔回收、人物结局等",
-        "bvid": "BV1SUsh6TEuN",
-        "author": "不善言辞的秃秃",
-        "duration": "34:48",
-        "cover": "//i0.hdslb.com/bfs/archive/d01703f241a98a64b30994b145c7968fd700932c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SUsh6TEuN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "万字速通谷雨大结局"
+        "bvid": "BV1Vost6NEKQ",
+        "author": "wrizedm",
+        "duration": "2:10",
+        "cover": "//i1.hdslb.com/bfs/archive/901bb04d3f58701cd35ad69ec8877d7ec8264a2c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vost6NEKQ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "这是不是你在找的烟火气"
       },
       {
         "title": "非凡魔丸",
         "url": "https://www.bilibili.com/video/BV1LLsr66EC6",
         "desc": "",
-        "rank": 27,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "最魔丸的一集",
@@ -558,52 +532,68 @@
         "hotTitle": "魔丸版非凡之爱"
       },
       {
-        "title": "GTA背后的千亿豪赌",
-        "url": "https://www.bilibili.com/video/BV1ZDst6uEwJ",
+        "title": "灵笼粉丝圆梦现场！首个官方年度盛典12月在成都开办，AR噬极兽全息白月魁，马克冉冰婚礼四手联弹都有，现在抢票还送神秘主创亲签先到先得",
+        "url": "https://www.bilibili.com/video/BV1qMs861EQs",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "灵笼首个官方年度盛典来了！12月5日周六19:00，成都东安湖体育公园多功能体育馆。 《灵笼：落子无悔》前瞻PV现场超前释出，AR噬极兽、白月魁全息互动，马克冉冰婚礼、查尔斯镜南四手联弹首度呈现，20+曲目全新编曲，25+节目轮番登场。 全票档赠送手提袋、婚礼请柬、节目单、文件夹、应援棒、纪念票根6种周边，S至B席另有四手联弹定制钢琴谱、小雏菊胸针等附加赠礼（以官方页面为准）。 现在下单的灵笼粉丝，还有80个神秘主创亲签名额赠送，数量有限，先到先得（以官方说明为准）。 票档：E席198（已售罄）/ D席3",
+        "content": "灵笼首个官方年度盛典来了！12月5日周六19:00，成都东安湖体育公园多功能体育馆。 《灵笼：落子无悔》前瞻PV现场超前释出，AR噬极兽、白月魁全息互动，马克冉冰婚礼、查尔斯镜南四手联弹首度呈现，20+曲目全新编曲，25+节目轮番登场。 全票档赠送手提袋、婚礼请柬、节目单、文件夹、应援棒、纪念票根6种周边，S至B席另有四手联弹定制钢琴谱、小雏菊胸针等附加赠礼（以官方页面为准）。 现在下单的灵笼粉丝，还有80个神秘主创亲签名额赠送，数量有限，先到先得（以官方说明为准）。 票档：E席198（已售罄）/ D席3",
+        "bvid": "BV1qMs861EQs",
+        "author": "哈基米潮玩",
+        "duration": "1:43",
+        "cover": "//i1.hdslb.com/bfs/archive/516d40e70aa5ad1e11bad16581897a39157ac093.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qMs861EQs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "灵笼最新前瞻PV12月5日释出"
+      },
+      {
+        "title": "地表最强，绝对的数值，大象这个版本怎么样？",
+        "url": "https://www.bilibili.com/video/BV1mPsP6pEez",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "朋友们，GTA6，终于千呼万唤始出来了。 GTA，这个可以说是3A游戏的集大成者，它的资本游戏是怎么玩的？ 它背后的R星、TakeTwo，又遇到了什么样的商业困境？ 咱今天就借着GTA来一起聊聊，3A大作背后的豪赌。",
-        "content": "朋友们，GTA6，终于千呼万唤始出来了。 GTA，这个可以说是3A游戏的集大成者，它的资本游戏是怎么玩的？ 它背后的R星、TakeTwo，又遇到了什么样的商业困境？ 咱今天就借着GTA来一起聊聊，3A大作背后的豪赌。",
-        "bvid": "BV1ZDst6uEwJ",
-        "author": "小Lin说",
-        "duration": "12:45",
-        "cover": "//i1.hdslb.com/bfs/archive/715865b1b3fcc8af6ac3d8718deee02296acf0f1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ZDst6uEwJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "小Lin说拆解GTA背后的千亿豪赌"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1mPsP6pEez",
+        "author": "黄土豆袋鼠",
+        "duration": "3:31",
+        "cover": "//i0.hdslb.com/bfs/archive/791ce46d77f30b3bac8bd1c5858562fc623e37a7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mPsP6pEez&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "地表最强数值怪竟然是大象"
       },
       {
-        "title": "【4K】全网首发《GTA6》主线全流程实况解说",
-        "url": "https://www.bilibili.com/video/BV1t9sk6YE23",
+        "title": "一口气看懂AI大模型之王， Anthropic在垄断什么？又会改变什么？",
+        "url": "https://www.bilibili.com/video/BV19msv6WE4E",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "游戏名:GTA6（Grand Theft Auto VI）本应轻松得手的行动，却将杰森和露西娅卷入一场横跨雷奥奈达的犯罪阴谋。这对亡命鸳鸯将在美国阳光最灿烂的地方，见识到它最阴暗的一面。若想活着逃出生天，他们比以往任何时候都更需要彼此依靠。本作将带玩家前往雷奥奈达州，围绕罪恶城五光十色的霓虹街道和其他地方开启探索之旅，体验《GTA》系列迄今为止规模最大、最具沉浸感的演化。",
-        "content": "游戏名:GTA6（Grand Theft Auto VI）本应轻松得手的行动，却将杰森和露西娅卷入一场横跨雷奥奈达的犯罪阴谋。这对亡命鸳鸯将在美国阳光最灿烂的地方，见识到它最阴暗的一面。若想活着逃出生天，他们比以往任何时候都更需要彼此依靠。本作将带玩家前往雷奥奈达州，围绕罪恶城五光十色的霓虹街道和其他地方开启探索之旅，体验《GTA》系列迄今为止规模最大、最具沉浸感的演化。",
-        "bvid": "BV1t9sk6YE23",
-        "author": "友利奈绪大魔王丶",
-        "duration": "988:56",
-        "cover": "//i1.hdslb.com/bfs/archive/4766e76facdf91312a7ebd7b5cbf97be2d66edd5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1t9sk6YE23&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GTA6实况"
+        "description": "一口气看懂AI大模型之王， Anthropic在垄断什么？又会改变什么？",
+        "content": "一口气看懂AI大模型之王， Anthropic在垄断什么？又会改变什么？",
+        "bvid": "BV19msv6WE4E",
+        "author": "直男Talk",
+        "duration": "12:49",
+        "cover": "//i1.hdslb.com/bfs/archive/24f202ec2145c7e050abe0eb97600aabfc7ae73a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV19msv6WE4E&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Anthropic为何5年市值破万亿"
       },
       {
-        "title": "GTA6 首发尝鲜：真实到疯狂！真·工业奇迹！真·艺术品！",
-        "url": "https://www.bilibili.com/video/BV1MLsY6BEfH",
+        "title": "用最有梗的剪辑回顾BLG的夺冠历程",
+        "url": "https://www.bilibili.com/video/BV1RusU6ZE44",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1MLsY6BEfH",
-        "author": "贪玩歌姬小宁子",
-        "duration": "9:44",
-        "cover": "//i2.hdslb.com/bfs/archive/1b9229b95d75ecd5104caeb1b5f265083886079f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1MLsY6BEfH&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GTA6仅30帧画面为何依然真实"
+        "description": "我就是世一剪！",
+        "content": "我就是世一剪！",
+        "bvid": "BV1RusU6ZE44",
+        "author": "平家bboy",
+        "duration": "4:8",
+        "cover": "//i2.hdslb.com/bfs/archive/d065a745b5ea5a31e8f9bc358e0ede03f7a331cb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RusU6ZE44&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "用最有梗的剪辑回顾BLG夺冠"
       }
     ],
     "qbitai": [
@@ -930,6 +920,16 @@
         "rank": 2
       },
       {
+        "title": "海光信息：公司供应链体系稳定，CPU与DCU产品市场需求持续放量",
+        "url": "https://m.36kr.com/newsflashes/4077695396991877",
+        "desc": "海光信息表示，当前公司供应链体系稳定，公司CPU与DCU产品的市场需求持续放量。目前，公司新一代CPU与DCU产品研发按既定路线稳步推进。（财联社）",
+        "cover": "",
+        "date": 1795154775695,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
         "title": "新加坡数据中心运营商DAYONE据悉暂停美国IPO计划",
         "url": "https://m.36kr.com/newsflashes/4077674199258240",
         "desc": "新加坡数据中心运营商DAYONE据悉暂停美国IPO计划，因数据中心和市场担忧。（财联社）",
@@ -937,7 +937,7 @@
         "date": 1795153481888,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "智元机器人等入股海纳智冷科技公司",
@@ -947,7 +947,7 @@
         "date": 1795153130488,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "沐曦股份：国产算力市场份额提升是长期趋势",
@@ -957,7 +957,7 @@
         "date": 1795152823632,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "现货黄金日内大跌3%",
@@ -967,7 +967,7 @@
         "date": 1795151928387,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "工业和信息化部脑机接口标委会工作组即将成立",
@@ -977,7 +977,7 @@
         "date": 1795151909599,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "10月瑞士钟表对中国内地出口额下降12.1%",
@@ -987,7 +987,7 @@
         "date": 1795150732285,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "新加坡升级与巴西和土耳其的航空服务协议",
@@ -997,7 +997,7 @@
         "date": 1795150040031,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "越南通过中小企业法案，以推动私营经济增长",
@@ -1007,7 +1007,7 @@
         "date": 1795150008170,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "印度据悉计划于年底前推出新的债券衍生品交易平台",
@@ -1017,7 +1017,7 @@
         "date": 1795149120000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "字节跳动在北京成立星节科技公司，注册资本1000万",
@@ -1027,7 +1027,7 @@
         "date": 1795148822000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "铜价跌至3月份以来最低，AI交易抛售潮殃及金属市场",
@@ -1037,7 +1037,7 @@
         "date": 1795148522212,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "宁德时代旗下福鼎新能源科技公司增资至55亿，增幅约22%",
@@ -1047,7 +1047,7 @@
         "date": 1795148201000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "四川发展科创股权投资母基金登记成立，出资额约25.3亿",
@@ -1057,7 +1057,7 @@
         "date": 1795147614808,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "恒指午间休盘跌1.71%，恒生科技指数跌3.14%",
@@ -1067,7 +1067,7 @@
         "date": 1795147316800,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "腾讯混元正式开源Hy4",
@@ -1077,7 +1077,7 @@
         "date": 1795146793165,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "半日主力资金加仓农林牧渔板块，抛售非银金融板块",
@@ -1087,7 +1087,7 @@
         "date": 1795146397965,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "刷新纪录，我国实现6G频段最高码速率无线通信验证",
@@ -1097,7 +1097,7 @@
         "date": 1795145748140,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "A股三大指数午间休盘集体下跌，黄金股领跌",
@@ -1107,7 +1107,7 @@
         "date": 1795145493663,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "传原抖音CEO张楠、原飞书CEO谢欣将离职，字节回应：信息不准确",
@@ -1117,25 +1117,15 @@
         "date": 1795144970265,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "截至10月底，我国电动汽车充电基础设施（枪）总数达到2539.1万个",
-        "url": "https://m.36kr.com/newsflashes/4077527423505283",
-        "desc": "11月20日，国家能源局发布2026年10月全国电动汽车充电设施数据。根据国家充电设施监测服务平台数据，截至2026年10月底，我国电动汽车充电基础设施（枪）总数达到2539.1万个，同比增长36.2%。其中，公共充电设施（枪）528.3万个，同比增长16.5%，额定总功率达到2.71亿千瓦，单枪平均功率约为51.37千瓦；私人充电设施（枪）2010.8万个，同比增长42.5%，私人充电设施报装用电容量达到1.71亿千伏安。（央视新闻）",
-        "cover": "",
-        "date": 1795144523407,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795154168449,
-    "bilibili": 1795154177745,
-    "qbitai": 1795125396901,
-    "36kr": 1795125397203
+    "thepaper": 1795155065369,
+    "bilibili": 1795155074345,
+    "qbitai": 1795126291146,
+    "36kr": 1795126291484
   },
   "failures": {}
 }
