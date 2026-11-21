@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T05:41:31Z",
+  "updatedAt": "2026-11-21T05:56:53Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -590,19 +590,19 @@
         "hotTitle": "你们不要再天下第一好了"
       },
       {
-        "title": "【守护解放西·传承季】第2集预告：星城“奇幻夜”",
-        "url": "https://www.bilibili.com/video/BV1bDypzkEKs",
+        "title": "【守护解放西2】看点4-2：半夜男子行为诡异，一杯开水往头上浇...",
+        "url": "https://www.bilibili.com/video/BV1Jp4y1r71c",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1bDypzkEKs",
+        "description": "每周五20:00更新",
+        "content": "每周五20:00更新",
+        "bvid": "BV1Jp4y1r71c",
         "author": "哔哩哔哩纪录片",
-        "duration": "0:45",
-        "cover": "//i0.hdslb.com/bfs/archive/becb0d78a6f2c43e2bf16b5cb368cf08bc281311.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bDypzkEKs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "3:3",
+        "cover": "//i1.hdslb.com/bfs/archive/91bfba039a2c5831faba14da2b12f34948860b4c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Jp4y1r71c&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "守护解放西传承季开播"
       }
     ],
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795268467660,
+    "thepaper": 1795269383610,
     "bilibili": 1795267872633,
-    "qbitai": 1795239691148,
-    "36kr": 1795239691524
+    "qbitai": 1795240612952,
+    "36kr": 1795240613305
   },
   "failures": {}
 }
