@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T20:41:34Z",
+  "updatedAt": "2026-11-20T20:56:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -249,7 +249,7 @@
         "bvid": "BV1u1y8zFEvi",
         "author": "央视新闻",
         "duration": "2:7",
-        "cover": "//i2.hdslb.com/bfs/archive/756afdc0d181ad6ddb8ee11085ac9fa5022d547e.jpg",
+        "cover": "//i0.hdslb.com/bfs/archive/eb2de0f3e0f66cbf56f6189f5a0881de4e4f3cc6.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1u1y8zFEvi&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "普京称赞中国发挥决定性作用"
       },
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795236066729,
-    "bilibili": 1795236075479,
-    "qbitai": 1795207293792,
-    "36kr": 1795207294152
+    "thepaper": 1795236966910,
+    "bilibili": 1795236009421,
+    "qbitai": 1795208194403,
+    "36kr": 1795208194820
   },
   "failures": {}
 }
