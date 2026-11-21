@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T00:41:37Z",
+  "updatedAt": "2026-11-21T00:56:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -350,19 +350,19 @@
         "hotTitle": "非凡之爱最正常的一集"
       },
       {
-        "title": "【守护解放西·传承季】总预告：守护第七年，我们再次出发！",
-        "url": "https://www.bilibili.com/video/BV1QmWi6JEE6",
+        "title": "【守护解放西·传承季】创意视频：闪身步变装",
+        "url": "https://www.bilibili.com/video/BV1Vjsz6wEjq",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1QmWi6JEE6",
+        "bvid": "BV1Vjsz6wEjq",
         "author": "哔哩哔哩纪录片",
-        "duration": "4:35",
-        "cover": "//i0.hdslb.com/bfs/archive/1c8c4b74edf3fc565a9a30368791354895814b31.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QmWi6JEE6&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "duration": "0:45",
+        "cover": "//i1.hdslb.com/bfs/archive/aad8527fd39aed2a17ede313343f2a3a4f421460.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vjsz6wEjq&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "守护解放西传承季开播"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795250469258,
-    "bilibili": 1795250478335,
-    "qbitai": 1795221696906,
-    "36kr": 1795221697289
+    "thepaper": 1795251366582,
+    "bilibili": 1795250431480,
+    "qbitai": 1795222593564,
+    "36kr": 1795222594065
   },
   "failures": {}
 }
