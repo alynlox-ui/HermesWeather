@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T21:41:34Z",
+  "updatedAt": "2026-11-20T21:56:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -286,19 +286,19 @@
         "hotTitle": "GTA6里NPC的生活有多真实"
       },
       {
-        "title": "罗小黑战记学前篇最新一集解析第一部分：这集神了",
-        "url": "https://www.bilibili.com/video/BV1EAyhzmEXk",
+        "title": "罗小黑战记学前篇最新一集解析第二部分：这集神了",
+        "url": "https://www.bilibili.com/video/BV1Hoy8zQEDL",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1EAyhzmEXk",
+        "bvid": "BV1Hoy8zQEDL",
         "author": "四不像永远的皮皮",
-        "duration": "13:54",
+        "duration": "16:56",
         "cover": "//i2.hdslb.com/bfs/archive/ae33a2c2c28495b68ce2274d69b27c00b958297c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EAyhzmEXk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Hoy8zQEDL&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "罗小黑史上最长单集"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795239666283,
-    "bilibili": 1795239675009,
-    "qbitai": 1795210893668,
-    "36kr": 1795210894065
+    "thepaper": 1795240566139,
+    "bilibili": 1795239611959,
+    "qbitai": 1795211794622,
+    "36kr": 1795211794983
   },
   "failures": {}
 }
