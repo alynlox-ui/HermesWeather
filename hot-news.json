@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T03:41:37Z",
+  "updatedAt": "2026-11-21T03:57:13Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,20 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "多国领导人明确表态：坚定恪守一个中国原则",
-        "url": "https://www.bilibili.com/video/BV1bMyazAEap",
+        "title": "多国领导人就一个中国原则明确表态",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%B1%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%88%99%E6%98%8E%E7%A1%AE%E8%A1%A8%E6%80%81",
         "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1bMyazAEap",
-        "author": "央视新闻",
-        "duration": "1:15",
-        "cover": "//i1.hdslb.com/bfs/archive/658a5de1a90b9739d542d96ba301ef55fb703d92.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bMyazAEap&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "多国领导人就一个中国原则明确表态"
+        "rank": 1
       },
       {
         "title": "特朗普：“史无前例”“意义非常重大”“气氛极其热烈”“令人难以置信”“关系非常融洽”",
@@ -1142,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795261268027,
-    "bilibili": 1795261276840,
-    "qbitai": 1795232497243,
-    "36kr": 1795232497637
+    "thepaper": 1795262167999,
+    "bilibili": 1795261246056,
+    "qbitai": 1795233432632,
+    "36kr": 1795233433055
   },
   "failures": {}
 }
