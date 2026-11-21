@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T03:11:36Z",
+  "updatedAt": "2026-11-21T03:26:44Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -34,56 +34,56 @@
         "rank": 5
       },
       {
-        "title": "马上评｜AI证明黎曼猜想，数学家该恐慌吗？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34527175",
+        "title": "波兰称两枚俄罗斯导弹击中波领土：在欧洲军演期间“蓄意挑衅”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34528112",
         "desc": "",
         "rank": 6
       },
       {
-        "title": "波兰称两枚俄罗斯导弹击中波领土：在欧洲军演期间“蓄意挑衅”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34528112",
+        "title": "马上评｜AI证明黎曼猜想，数学家该恐慌吗？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34527175",
         "desc": "",
         "rank": 7
+      },
+      {
+        "title": "官方核实为假！“北京教师飞贵阳”背后是AI造谣流水线",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34528498",
+        "desc": "",
+        "rank": 8
       },
       {
         "title": "马上评｜星二代扎堆出道，观众在担心什么？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34518684",
         "desc": "",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "父亲生前把房子留给妹妹，哥哥搬离前喷涂打砸房子被罚款",
         "url": "https://www.thepaper.cn/newsDetail_forward_34521392",
         "desc": "",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "饭店88元红烧“小鸡”竟是候鸟，官方通报：相关涉案人员、餐饮店被查处",
         "url": "https://www.thepaper.cn/newsDetail_forward_34522444",
         "desc": "",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "刘诗诗解读《醉梦》：沈乐水不是英雄，是勇于直面真相的普通人",
         "url": "https://www.thepaper.cn/newsDetail_forward_34520224",
         "desc": "",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "人民锐评：老人拆墙让路，善意不该被流言“拆”掉",
         "url": "https://www.thepaper.cn/newsDetail_forward_34525996",
         "desc": "",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "安徽六安一群众网购100克黄金邮寄给陌生网友，民警上门劝阻并联动外地警方成功拦截",
         "url": "https://www.thepaper.cn/newsDetail_forward_34521475",
-        "desc": "",
-        "rank": 13
-      },
-      {
-        "title": "多名美联储官员继续释放加息信号，幅度和节奏存分歧",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34520495",
         "desc": "",
         "rank": 14
       },
@@ -106,14 +106,14 @@
         "rank": 17
       },
       {
-        "title": "中国摄影著作权协会撤销447个首席代表处：不得再以协会名义开展活动",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34522680",
+        "title": "倒计时两天！《奔流》第三季从哈德逊河回到苏州河畔",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34510418",
         "desc": "",
         "rank": 18
       },
       {
-        "title": "倒计时两天！《奔流》第三季从哈德逊河回到苏州河畔",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34510418",
+        "title": "中国摄影著作权协会撤销447个首席代表处：不得再以协会名义开展活动",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34522680",
         "desc": "",
         "rank": 19
       },
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+        "url": "https://www.qbitai.com/2026/11/511791.html",
+        "desc": "",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/955ee05b127917e7ddad4fc813509c96.webp",
+        "date": "2026-11-21T19:24:29",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
         "url": "https://www.qbitai.com/2026/11/511779.html",
         "desc": "还实现可变形物体操控全球首通",
@@ -615,7 +625,7 @@
         "date": "2026-11-21T14:35:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
@@ -625,7 +635,7 @@
         "date": "2026-11-21T14:32:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
@@ -635,7 +645,7 @@
         "date": "2026-11-21T14:30:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "米哈游发了个VLA论文",
@@ -645,7 +655,7 @@
         "date": "2026-11-21T00:25:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
@@ -655,7 +665,7 @@
         "date": "2026-11-21T00:07:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
@@ -665,7 +675,7 @@
         "date": "2026-11-20T20:18:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
@@ -675,7 +685,7 @@
         "date": "2026-11-20T16:59:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
@@ -685,7 +695,7 @@
         "date": "2026-11-20T16:04:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
@@ -695,7 +705,7 @@
         "date": "2026-11-20T14:16:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
@@ -705,7 +715,7 @@
         "date": "2026-11-20T13:24:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
@@ -715,7 +725,7 @@
         "date": "2026-11-20T09:07:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
@@ -725,7 +735,7 @@
         "date": "2026-11-19T16:43:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
@@ -735,7 +745,7 @@
         "date": "2026-11-19T16:18:30",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
@@ -745,7 +755,7 @@
         "date": "2026-11-19T16:10:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
@@ -755,7 +765,7 @@
         "date": "2026-11-19T15:01:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
@@ -765,7 +775,7 @@
         "date": "2026-11-19T12:51:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
@@ -775,7 +785,7 @@
         "date": "2026-11-19T12:02:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
@@ -785,7 +795,7 @@
         "date": "2026-11-19T11:01:45",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
@@ -795,7 +805,7 @@
         "date": "2026-11-19T08:26:40",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
@@ -805,7 +815,7 @@
         "date": "2026-11-18T17:41:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "GPT-6.2难产！OpenAI怕了",
@@ -815,7 +825,7 @@
         "date": "2026-11-18T15:53:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
@@ -825,7 +835,7 @@
         "date": "2026-11-18T15:24:50",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
@@ -835,7 +845,7 @@
         "date": "2026-11-18T12:49:51",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
@@ -845,7 +855,7 @@
         "date": "2026-11-18T12:28:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
@@ -855,7 +865,7 @@
         "date": "2026-11-18T10:49:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
@@ -865,7 +875,7 @@
         "date": "2026-11-18T09:03:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
@@ -875,7 +885,7 @@
         "date": "2026-11-18T08:49:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
@@ -885,7 +895,7 @@
         "date": "2026-11-17T22:15:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -893,16 +903,6 @@
         "desc": "瞄准「产业级世界模型」",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/a935d6b91129b85ed7c518944d4aa2f1.webp",
         "date": "2026-11-17T19:40:37",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-        "url": "https://www.qbitai.com/2026/11/510652.html",
-        "desc": "筛材料、找配方、开发新模型…拿下多项科研任务",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/7b23e31cada830556c3c17c1d958d102.webp",
-        "date": "2026-11-17T14:09:40",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795259467526,
-    "bilibili": 1795259477073,
-    "qbitai": 1795230696445,
-    "36kr": 1795230696920
+    "thepaper": 1795260368056,
+    "bilibili": 1795259441748,
+    "qbitai": 1795231603779,
+    "36kr": 1795231604180
   },
   "failures": {}
 }
