@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T21:11:29Z",
+  "updatedAt": "2026-11-21T21:26:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -76,50 +76,50 @@
         "rank": 12
       },
       {
+        "title": "郎平获国际排联最高荣誉“排球勋章”：全球排球偶像，成就激励几代人",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34533102",
+        "desc": "",
+        "rank": 13
+      },
+      {
+        "title": "霍尔木兹危机冲击马六甲海峡，印度洋国家担忧：下一个会是谁？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34532890",
+        "desc": "",
+        "rank": 14
+      },
+      {
         "title": "媒体：WTT总决赛混双外卡归属引争议，王楚钦孙颖莎兼项背后的国乒选择题",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529382",
         "desc": "",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "洗澡先看广告、做作业切换三个App，央媒：哪里还是“智慧校园”？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529376",
         "desc": "",
-        "rank": 14
-      },
-      {
-        "title": "郎平获国际排联最高荣誉“排球勋章”：全球排球偶像，成就激励几代人",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34533102",
-        "desc": "",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "神舟二十四号任务完成最后一次全区合练，发射场做好发射前各项准备",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529078",
         "desc": "",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "经济日报：“温差”待消弭，信心不可失",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529714",
         "desc": "",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "海上贸易连起亚太与印度洋，从海上航线谈起：亚太为何看重APEC？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529379",
         "desc": "",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "生物类似药集采迎进展：11月24号开始信息申报，涉及7个品种15个规格",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529994",
-        "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "玉渊谭天丨大国的历史主动，落笔即成新章",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34529880",
         "desc": "",
         "rank": 20
       }
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "小鹏汇天首款全尺寸全倾转电动飞行汽车倾转过渡试飞成功",
+        "url": "https://m.36kr.com/newsflashes/4080469303268486",
+        "desc": "11月22日，小鹏汇天宣布，全尺寸全倾转电动飞行汽车A868倾转过渡试飞成功。“倾转过渡成功”是指飞行汽车能够从垂直起降状态完整转换为高速平飞状态，这也是这款飞行汽车自去年11月完成首次起降试飞以来，正式从起降验证迈向全倾转等飞行能力。",
+        "cover": "",
+        "date": 1795324554000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "AI新方法或有助优化败血症急诊救治流程",
         "url": "https://m.36kr.com/newsflashes/4080468643320705",
         "desc": "英国伦敦国王学院日前发布消息说，该校研究人员开发出一种新方法，可通过分析败血症患者的就诊记录，找出对人工智能（AI）模型预测影响较大的环节，有望帮助医院查找败血症急诊救治延误的可能原因。",
@@ -947,7 +957,7 @@
         "date": 1795324041218,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "脑机接口报告：全球企业增至1175家 中国三大城市群集聚190余家",
@@ -957,7 +967,7 @@
         "date": 1795320045000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "利比亚输油管道遭武装组织封锁 损失超3070万美元",
@@ -967,7 +977,7 @@
         "date": 1795319113000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源 商务部回应",
@@ -977,7 +987,7 @@
         "date": 1795318241000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "Claude宣称攻克黎曼猜想数小时后，斯坦福数学家公布纯人类证明",
@@ -987,7 +997,7 @@
         "date": 1795317354000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "特斯拉在美推出FSDv 15",
@@ -997,7 +1007,7 @@
         "date": 1795316452000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "国家中医药管理局认证中心：未与任何大模型企业合作 亦未开展测评",
@@ -1007,7 +1017,7 @@
         "date": 1795315523000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "2026年度领航级智能工厂培育名单公布 陕西1家工厂入选",
@@ -1017,7 +1027,7 @@
         "date": 1795314634000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "全国秋冬种进入尾声 主产区积极应对超强厄尔尼诺影响",
@@ -1027,7 +1037,7 @@
         "date": 1795313701000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "澳大利亚房屋拍卖数量减少，清盘率小幅上升",
@@ -1037,7 +1047,7 @@
         "date": 1795312833000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "韩国悬赏重金查处高考作弊者",
@@ -1047,7 +1057,7 @@
         "date": 1795311901000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "上海电气与中国重燃签署合资合作框架协议",
@@ -1057,7 +1067,7 @@
         "date": 1795311028000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "美股遭遇恐慌性抛售 多家华尔街机构认为或只是牛市调整",
@@ -1067,7 +1077,7 @@
         "date": 1795310125000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "加拿大正式加入北约创新基金",
@@ -1077,7 +1087,7 @@
         "date": 1795309234000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "中国通号：国内首款4.9GHz无蜂窝基站获证商用",
@@ -1087,7 +1097,7 @@
         "date": 1795248419997,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "近期贵金属价格波动加剧，多家银行发布风险提示",
@@ -1097,7 +1107,7 @@
         "date": 1795248386560,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "马斯克称FSD V15下个月将全面推送",
@@ -1107,7 +1117,7 @@
         "date": 1795247402532,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "《GTA6》带动PS5价格持续上涨，Pro版本涨至1.6万元",
@@ -1117,7 +1127,7 @@
         "date": 1795244999992,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "中信建投食品饮料2027年投资策略：周期底部范式重构 红利守正成长出奇",
@@ -1127,25 +1137,15 @@
         "date": 1795243846573,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "问界M9车主被曝开启辅助驾驶时睡觉，官方暂无回应",
-        "url": "https://m.36kr.com/newsflashes/4079153796354949",
-        "desc": "近日，一位武汉问界M9车主在社交媒体上发布视频，炫耀自己出差返程时全程开启辅助驾驶，直接在驾驶位熟睡，引发关注。网络上流传的视频显示，该车主表示，“科技改变生活，全程智驾！出差回程太累了，倒头就睡。华为问界 M9全程智驾开回武汉。”他还称车子一共行驶6.3万公里，其中4万多公里都是全程智驾。目前，该车主的账号和视频已经无法搜索到。针对此事，截至发稿前，鸿蒙智行方面暂无回应。（新浪科技）",
-        "cover": "",
-        "date": 1795243789328,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795324268768,
-    "bilibili": 1795324272087,
-    "qbitai": 1795295488822,
-    "36kr": 1795295489238
+    "thepaper": 1795325167799,
+    "bilibili": 1795323738165,
+    "qbitai": 1795296393233,
+    "36kr": 1795296393627
   },
   "failures": {}
 }
