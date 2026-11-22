@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T19:11:36Z",
+  "updatedAt": "2026-11-21T19:26:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -52,14 +52,14 @@
         "rank": 8
       },
       {
-        "title": "安徽六安一群众网购100克黄金邮寄给陌生网友，民警上门劝阻并联动外地警方成功拦截",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34521475",
+        "title": "影子调查｜清理入侵物种“加拿大一枝黄花”10年，仍在蔓延",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34491597",
         "desc": "",
         "rank": 9
       },
       {
-        "title": "郑州市一小区发生火灾致5死1伤，调查报告：电动摩托车非法改装，违规进楼入户充电，锂电池热失控后爆燃",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34529076",
+        "title": "安徽六安一群众网购100克黄金邮寄给陌生网友，民警上门劝阻并联动外地警方成功拦截",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34521475",
         "desc": "",
         "rank": 10
       },
@@ -70,56 +70,56 @@
         "rank": 11
       },
       {
+        "title": "郑州市一小区发生火灾致5死1伤，调查报告：电动摩托车非法改装，违规进楼入户充电，锂电池热失控后爆燃",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34529076",
+        "desc": "",
+        "rank": 12
+      },
+      {
         "title": "泽连斯基质疑美国对乌方区别对待：能帮以色列，那也可以支持乌克兰",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529113",
         "desc": "",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "媒体：WTT总决赛混双外卡归属引争议，王楚钦孙颖莎兼项背后的国乒选择题",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529382",
         "desc": "",
-        "rank": 13
+        "rank": 14
+      },
+      {
+        "title": "洗澡先看广告、做作业切换三个App，央媒：哪里还是“智慧校园”？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34529376",
+        "desc": "",
+        "rank": 15
       },
       {
         "title": "神舟二十四号任务完成最后一次全区合练，发射场做好发射前各项准备",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529078",
         "desc": "",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "经济日报：“温差”待消弭，信心不可失",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529714",
         "desc": "",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "海上贸易连起亚太与印度洋，从海上航线谈起：亚太为何看重APEC？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529379",
         "desc": "",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "生物类似药集采迎进展：11月24号开始信息申报，涉及7个品种15个规格",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529994",
         "desc": "",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "玉渊谭天丨大国的历史主动，落笔即成新章",
         "url": "https://www.thepaper.cn/newsDetail_forward_34529880",
-        "desc": "",
-        "rank": 18
-      },
-      {
-        "title": "众声｜放下“两难处境”的话术，破题高峰时段共享单车停车难",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34527878",
-        "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "广西通报打击非法架网捕鸟和猎捕食用鸟类情况",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34528136",
         "desc": "",
         "rank": 20
       }
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "Claude宣称攻克黎曼猜想数小时后，斯坦福数学家公布纯人类证明",
+        "url": "https://m.36kr.com/newsflashes/4080260946875269",
+        "desc": "北京时间11月22日，据科技媒体The Decoder报道，围绕数学界最著名的未解难题之一——黎曼猜想，一场人工智能与人类数学家的“证明竞赛”正在上演。Anthropic数学家莱文特·阿尔佩格（Levent Alpge）宣布，他与Claude合作找到了广义黎曼猜想的证明。仅数小时后，斯坦福大学研究人员也公开了一份完全由人类独立完成的竞争性证明草稿。 不过，两项成果目前均有待数学界进一步验证。",
+        "cover": "",
+        "date": 1795317354000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "特斯拉在美推出FSDv 15",
         "url": "https://m.36kr.com/newsflashes/4080259882324871",
         "desc": "特斯拉宣布在美国市场推出FSD v15，目前已向早期体验计划（EAP）成员推送首批版本。官方宣称，本次更新对安全关键场景的处理能力提升了 25 倍。本次更新还带来了“Tesla Reality View”全新可视化界面，车机屏幕上可显示摄像头画面叠加 FSD 行驶规划，支持全屏显示、地图或分屏视图，也可以选择使用安静模式。",
@@ -947,7 +957,7 @@
         "date": 1795316452000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "国家中医药管理局认证中心：未与任何大模型企业合作 亦未开展测评",
@@ -957,7 +967,7 @@
         "date": 1795315523000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "2026年度领航级智能工厂培育名单公布 陕西1家工厂入选",
@@ -967,7 +977,7 @@
         "date": 1795314634000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "全国秋冬种进入尾声 主产区积极应对超强厄尔尼诺影响",
@@ -977,7 +987,7 @@
         "date": 1795313701000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "澳大利亚房屋拍卖数量减少，清盘率小幅上升",
@@ -987,7 +997,7 @@
         "date": 1795312833000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "韩国悬赏重金查处高考作弊者",
@@ -997,7 +1007,7 @@
         "date": 1795311901000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "上海电气与中国重燃签署合资合作框架协议",
@@ -1007,7 +1017,7 @@
         "date": 1795311028000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "美股遭遇恐慌性抛售 多家华尔街机构认为或只是牛市调整",
@@ -1017,7 +1027,7 @@
         "date": 1795310125000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "加拿大正式加入北约创新基金",
@@ -1027,7 +1037,7 @@
         "date": 1795309234000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "中国通号：国内首款4.9GHz无蜂窝基站获证商用",
@@ -1037,7 +1047,7 @@
         "date": 1795248419997,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "近期贵金属价格波动加剧，多家银行发布风险提示",
@@ -1047,7 +1057,7 @@
         "date": 1795248386560,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "马斯克称FSD V15下个月将全面推送",
@@ -1057,7 +1067,7 @@
         "date": 1795247402532,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "《GTA6》带动PS5价格持续上涨，Pro版本涨至1.6万元",
@@ -1067,7 +1077,7 @@
         "date": 1795244999992,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "中信建投食品饮料2027年投资策略：周期底部范式重构 红利守正成长出奇",
@@ -1077,7 +1087,7 @@
         "date": 1795243846573,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "问界M9车主被曝开启辅助驾驶时睡觉，官方暂无回应",
@@ -1087,7 +1097,7 @@
         "date": 1795243789328,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "沐曦股份曦云C系列GPU率先完成腾讯混元Hy4 Day 0适配",
@@ -1097,7 +1107,7 @@
         "date": 1795243449717,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "美新科技：子公司星曜宇航已启动4米级舱段生产",
@@ -1107,7 +1117,7 @@
         "date": 1795242278543,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "美国证券交易委员会据悉正对英伟达潜在会计问题展开调查",
@@ -1117,7 +1127,7 @@
         "date": 1795242034573,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "中信证券：预计全国性机制电价政策有望在2027年推出",
@@ -1127,25 +1137,15 @@
         "date": 1795235954330,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "源杰科技独家直投芯钬量子A++轮融资",
-        "url": "https://m.36kr.com/newsflashes/4079020257924233",
-        "desc": "11月20日晚，上海芯钬量子科技有限公司宣布完成A++轮融资，由源杰科技独家直投。此前，公司天使轮、A轮及A+轮分别由慧眼资本、京东方显智链和交银资本投资。本轮融资后，芯钬量子将围绕工业AI与多物理场仿真能力的深度融合持续加大投入。芯钬量子表示，未来还将探索量子计算、超导、光子芯片、自旋电子及拓扑物态等前沿领域的应用需求。（界面新闻）",
-        "cover": "",
-        "date": 1795235638789,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795317068132,
-    "bilibili": 1795317077451,
-    "qbitai": 1795288295979,
-    "36kr": 1795288296326
+    "thepaper": 1795317967709,
+    "bilibili": 1795316527044,
+    "qbitai": 1795289192919,
+    "36kr": 1795289193279
   },
   "failures": {}
 }
