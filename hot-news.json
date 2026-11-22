@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T23:11:32Z",
+  "updatedAt": "2026-11-21T23:26:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -22,32 +22,32 @@
         "rank": 3
       },
       {
-        "title": "多家校友会提醒警惕“假校友”欺诈：有的刻意包装“毕业几年收入高”人设",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34528217",
+        "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34532695",
         "desc": "",
         "rank": 4
-      },
-      {
-        "title": "官方核实为假！“北京教师飞贵阳”背后是AI造谣流水线",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34528498",
-        "desc": "",
-        "rank": 5
       },
       {
         "title": "影子调查｜清理入侵物种“加拿大一枝黄花”10年，仍在蔓延",
         "url": "https://www.thepaper.cn/newsDetail_forward_34491597",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
-        "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34532695",
+        "title": "中国石油天然气集团有限公司党组成员、副总经理谢军被查",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34533075",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "郎平获国际排联最高荣誉“排球勋章”：全球排球偶像，成就激励几代人",
         "url": "https://www.thepaper.cn/newsDetail_forward_34533102",
+        "desc": "",
+        "rank": 7
+      },
+      {
+        "title": "《学习时报》刊文梳理“伪史论”传播路径：算法机制放大高冲突、高争议内容",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34533204",
         "desc": "",
         "rank": 8
       },
@@ -574,19 +574,19 @@
         "hotTitle": "切尔西1-4利兹联跌第八"
       },
       {
-        "title": "【F1】谁第一次拿分时最年轻｜趣味发车格",
-        "url": "https://www.bilibili.com/video/BV1zDyYzpETW",
+        "title": "维斯塔潘一整场的冠军保卫战！今年最激烈的比赛，第75胜！",
+        "url": "https://www.bilibili.com/video/BV1NAy5zCEX9",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1zDyYzpETW",
-        "author": "随便看看围场",
-        "duration": "1:24",
-        "cover": "//i1.hdslb.com/bfs/archive/32cbc2d91290f8d6f7169bc3aec9231b96b8a506.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zDyYzpETW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1NAy5zCEX9",
+        "author": "VER会遇到哥斯拉吗",
+        "duration": "7:1",
+        "cover": "//i2.hdslb.com/bfs/archive/c88471386a630d613677988f5f55be02cd9181fc.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NAy5zCEX9&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "维斯塔潘生涯第75胜"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795331467775,
-    "bilibili": 1795331476577,
-    "qbitai": 1795302692655,
-    "36kr": 1795302692980
+    "thepaper": 1795332367819,
+    "bilibili": 1795331105843,
+    "qbitai": 1795303593824,
+    "36kr": 1795303594168
   },
   "failures": {}
 }
