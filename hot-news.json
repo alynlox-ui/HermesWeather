@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T12:41:39Z",
+  "updatedAt": "2026-11-22T12:56:42Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -254,19 +254,19 @@
         "hotTitle": "仙剑奇侠传四动画曝新PV"
       },
       {
-        "title": "《三体短篇集：平行之境》定档12月23日！原著衍生独立短片，记得追番！",
-        "url": "https://www.bilibili.com/video/BV1c8yVzKEDk",
+        "title": "《三体短篇集：平行之境》首发pv，定档12月23日！",
+        "url": "https://www.bilibili.com/video/BV1Boy5ziEud",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "一起感受三体宇宙的魅力。",
-        "content": "一起感受三体宇宙的魅力。",
-        "bvid": "BV1c8yVzKEDk",
-        "author": "哔哩哔哩国创",
-        "duration": "3:30",
-        "cover": "//i1.hdslb.com/bfs/archive/1057e234c5a44f3918b959185bfd51c120d4d77c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c8yVzKEDk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1Boy5ziEud",
+        "author": "国漫资讯",
+        "duration": "1:35",
+        "cover": "//i0.hdslb.com/bfs/archive/3a8977a91caef26926d02fc742360924182cbd46.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Boy5ziEud&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "三体短篇集定档12月23日"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795351274164,
+    "thepaper": 1795352182616,
     "bilibili": 1795350473690,
-    "qbitai": 1795351299261,
-    "36kr": 1795351299616
+    "qbitai": 1795352202136,
+    "36kr": 1795352202636
   },
   "failures": {}
 }
