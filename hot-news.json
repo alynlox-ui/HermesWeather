@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T22:41:28Z",
+  "updatedAt": "2026-11-21T22:56:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -478,19 +478,19 @@
         "hotTitle": "美国女孩眼里的中国秋天"
       },
       {
-        "title": "我 们 天 下 第 一 好",
-        "url": "https://www.bilibili.com/video/BV1vEsa62EBy",
+        "title": "欢欢拓拓天下第一好~",
+        "url": "https://www.bilibili.com/video/BV1DZybzwEZ1",
         "desc": "",
         "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "AI生成视频，非真实事件，无不良导向",
-        "content": "AI生成视频，非真实事件，无不良导向",
-        "bvid": "BV1vEsa62EBy",
-        "author": "九夜听风",
-        "duration": "1:25",
-        "cover": "//i1.hdslb.com/bfs/archive/85498ed5050c631bb0958a539e82c5b37a0ce9a1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vEsa62EBy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1DZybzwEZ1",
+        "author": "清水煮油条",
+        "duration": "2:20",
+        "cover": "//i2.hdslb.com/bfs/archive/e1f8d215fb62485b46e4f2a018ddcf27ba1e33f8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DZybzwEZ1&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "我们天下第一好S16版"
       },
       {
@@ -940,6 +940,16 @@
         "rank": 3
       },
       {
+        "title": "各方核心症结待解 COP31大会继续延期",
+        "url": "https://m.36kr.com/newsflashes/4080472756032641",
+        "desc": "原定20日闭幕的《联合国气候变化框架公约》第三十一次缔约方大会（COP31），由于各方未能就部分核心议题达成一致，当晚进入加时阶段。截至当地时间21日晚，大会仍然继续进行，暂无具体的闭幕时间。据美国方面21日消息，本次气候变化大会延期闭幕的最大症结在于，大会的最终成果文件是否应该提及化石燃料使用问题，以及成果文件是否应该包含对较贫穷国家应对气候变化的支持。近年来，“拖堂”已经成为联合国气候变化大会历次会议的常态。分析认为，造成这一现象的深层原因包括核心利益分歧、程序规则短板等。这也说明各方需要更强有力的政治意愿来推动气候治理行动稳步向前。不过，“拖堂”并不意味着气候变化大会的失败。相反，每次大会最终都会取得阶段性成果，折射出多边主义依然前行的韧性。",
+        "cover": "",
+        "date": 1795329922000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "澳大利亚情报主管警示数据中心与AI潜藏风险",
         "url": "https://m.36kr.com/newsflashes/4080472194175876",
         "desc": "澳大利亚情报机构负责人表示，数据中心与人工智能可能让该国遭到外国势力干预，面临境外恶意主体的威胁。报道援引澳大利亚安全情报组织局长迈克・伯吉斯的说法，他提出数据中心存在隐性所有权的隐患，他国掌控这类基础设施，能够从物理或虚拟层面接触相关技术。伯吉斯称，AI与数据中心行业“热度、机遇和威胁并存”。这位安全主管此前已经警告过境外政府发起的网络威胁持续上升。",
@@ -947,7 +957,7 @@
         "date": 1795329050000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "AI芯片拉动出口破万亿，韩国出口冲刺全球第四，高度依赖半导体暗藏风险",
@@ -957,7 +967,7 @@
         "date": 1795328120000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "零跑汽车回应A10后备厢下层储物盒受损：超过设计承重上限所致",
@@ -967,7 +977,7 @@
         "date": 1795327250000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "韩国金融委员会与欧洲央行敲定银行监管合作谅解备忘录条款",
@@ -977,7 +987,7 @@
         "date": 1795326316000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "丘成桐回应AI辅助证明黎曼猜想",
@@ -987,7 +997,7 @@
         "date": 1795325448000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "小鹏汇天首款全尺寸全倾转电动飞行汽车倾转过渡试飞成功",
@@ -997,7 +1007,7 @@
         "date": 1795324554000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "AI新方法或有助优化败血症急诊救治流程",
@@ -1007,7 +1017,7 @@
         "date": 1795324041218,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "脑机接口报告：全球企业增至1175家 中国三大城市群集聚190余家",
@@ -1017,7 +1027,7 @@
         "date": 1795320045000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "利比亚输油管道遭武装组织封锁 损失超3070万美元",
@@ -1027,7 +1037,7 @@
         "date": 1795319113000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源 商务部回应",
@@ -1037,7 +1047,7 @@
         "date": 1795318241000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "Claude宣称攻克黎曼猜想数小时后，斯坦福数学家公布纯人类证明",
@@ -1047,7 +1057,7 @@
         "date": 1795317354000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "特斯拉在美推出FSDv 15",
@@ -1057,7 +1067,7 @@
         "date": 1795316452000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "国家中医药管理局认证中心：未与任何大模型企业合作 亦未开展测评",
@@ -1067,7 +1077,7 @@
         "date": 1795315523000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "2026年度领航级智能工厂培育名单公布 陕西1家工厂入选",
@@ -1077,7 +1087,7 @@
         "date": 1795314634000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "全国秋冬种进入尾声 主产区积极应对超强厄尔尼诺影响",
@@ -1087,7 +1097,7 @@
         "date": 1795313701000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "澳大利亚房屋拍卖数量减少，清盘率小幅上升",
@@ -1097,7 +1107,7 @@
         "date": 1795312833000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "韩国悬赏重金查处高考作弊者",
@@ -1107,7 +1117,7 @@
         "date": 1795311901000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "上海电气与中国重燃签署合资合作框架协议",
@@ -1117,7 +1127,7 @@
         "date": 1795311028000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "美股遭遇恐慌性抛售 多家华尔街机构认为或只是牛市调整",
@@ -1127,25 +1137,15 @@
         "date": 1795310125000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "加拿大正式加入北约创新基金",
-        "url": "https://m.36kr.com/newsflashes/4080206499861377",
-        "desc": "加拿大国防部长戴维·麦金蒂21日宣布，加拿大正式加入北约创新基金，成为第25个加入该基金的北约成员国，也是北美地区首个加入该基金的成员国。",
-        "cover": "",
-        "date": 1795309234000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795329667852,
-    "bilibili": 1795329677284,
-    "qbitai": 1795300887906,
-    "36kr": 1795300888280
+    "thepaper": 1795330568216,
+    "bilibili": 1795329304946,
+    "qbitai": 1795301793592,
+    "36kr": 1795301793917
   },
   "failures": {}
 }
