@@ -1,77 +1,77 @@
 {
-  "updatedAt": "2026-11-23T11:26:33Z",
+  "updatedAt": "2026-11-23T11:41:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
-        "title": "100%降至80%！融资保证金比例下调，预计4000亿增量资金在路上",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34534889",
-        "desc": "",
-        "rank": 1
-      },
-      {
         "title": "创业板将引入做市商制度：有哪些亮点安排，市场影响几何？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34535483",
         "desc": "",
-        "rank": 2
+        "rank": 1
       },
       {
         "title": "花五六十万连麦越聊越焦虑？“测测”被指诱导消费，平台坚称计费已明示",
         "url": "https://www.thepaper.cn/newsDetail_forward_34534267",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "用事实回击！唱空中国经济者终会落空",
         "url": "https://www.thepaper.cn/newsDetail_forward_34535694",
         "desc": "",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "北京朝阳警方：对“恒昌系”相关公司涉嫌违法犯罪立案侦查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34535484",
         "desc": "",
-        "rank": 5
+        "rank": 4
       },
       {
         "title": "大学应有的模样｜我们为什么怀念“曾经的大学”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34510207",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "“数学进入了一个新纪元”：丘成桐等三位数学家回应AI辅助证明黎曼猜想",
         "url": "https://www.thepaper.cn/newsDetail_forward_34537212",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "视频丨055大驱、歼-35等海军多型舰机将亮相中国航展",
         "url": "https://www.thepaper.cn/newsDetail_forward_34537823",
         "desc": "",
-        "rank": 8
+        "rank": 7
       },
       {
         "title": "“稳股市”组合拳来了，三项新政发布",
         "url": "https://www.thepaper.cn/newsDetail_forward_34535221",
         "desc": "",
-        "rank": 9
+        "rank": 8
       },
       {
         "title": "央视曝光南迁候鸟遭围猎，广西金秀开展专项整治抓获涉案人员12人",
         "url": "https://www.thepaper.cn/newsDetail_forward_34535841",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "口述｜《我不是药神》原型陆勇的停药倒计时",
         "url": "https://www.thepaper.cn/newsDetail_forward_34527745",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "某部委机关干部被境外势力“俘获”，窃取我国百余份情报被判死刑",
         "url": "https://www.thepaper.cn/newsDetail_forward_34537269",
+        "desc": "",
+        "rank": 11
+      },
+      {
+        "title": "时隔21年上海地铁票价调整：12月起实施，乘客支出怎么变？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34540094",
         "desc": "",
         "rank": 12
       },
@@ -142,26 +142,10 @@
         "hotTitle": "陶哲轩再评价AI攻破黎曼猜想"
       },
       {
-        "title": "大家好，我是狂哥yekindar，我今天正式入驻B站啦！爱你们❤️",
-        "url": "https://www.bilibili.com/video/BV1VbyxzsEFZ",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "THIS is my first VIDEO on my Bilibili official account . I want to thanks everyone who made it possible and i will do my best to improve my Chinese ( Mandarin) in the future. Let's GO to prep's on the Singapore Major. 记得 一键三连 ！",
-        "content": "THIS is my first VIDEO on my Bilibili official account . I want to thanks everyone who made it possible and i will do my best to improve my Chinese ( Mandarin) in the future. Let's GO to prep's on the Singapore Major. 记得 一键三连 ！",
-        "bvid": "BV1VbyxzsEFZ",
-        "author": "Yek1ndarCS2",
-        "duration": "0:56",
-        "cover": "//i2.hdslb.com/bfs/archive/125ff1aacc57bb5e2542a8c8be38058c47d6b2f4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VbyxzsEFZ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "狂哥Yekindar来B站秀中文"
-      },
-      {
         "title": "黎曼猜想被AI证明后，哥德巴赫猜想或许也快了",
         "url": "https://www.bilibili.com/video/BV148yHzMESR",
         "desc": "",
-        "rank": 3,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -172,6 +156,22 @@
         "cover": "//i1.hdslb.com/bfs/archive/6bc40546600aed974b996669b4c8b48ffa1eba65.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV148yHzMESR&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "广义黎曼猜想也被证明了"
+      },
+      {
+        "title": "大家好，我是狂哥yekindar，我今天正式入驻B站啦！爱你们❤️",
+        "url": "https://www.bilibili.com/video/BV1VbyxzsEFZ",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "THIS is my first VIDEO on my Bilibili official account . I want to thanks everyone who made it possible and i will do my best to improve my Chinese ( Mandarin) in the future. Let's GO to prep's on the Singapore Major. 记得 一键三连 ！",
+        "content": "THIS is my first VIDEO on my Bilibili official account . I want to thanks everyone who made it possible and i will do my best to improve my Chinese ( Mandarin) in the future. Let's GO to prep's on the Singapore Major. 记得 一键三连 ！",
+        "bvid": "BV1VbyxzsEFZ",
+        "author": "Yek1ndarCS2",
+        "duration": "0:56",
+        "cover": "//i2.hdslb.com/bfs/archive/125ff1aacc57bb5e2542a8c8be38058c47d6b2f4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VbyxzsEFZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "狂哥Yekindar来B站秀中文"
       },
       {
         "title": "千夫所指，百炼成王！Bin全英雄高燃操作集锦TOP400！以此视频致敬LPL传奇上单陈泽彬！",
@@ -190,10 +190,42 @@
         "hotTitle": "Bin高燃操作集锦TOP400"
       },
       {
+        "title": "2027年国考行测粉笔终极模考复盘（资料分析）",
+        "url": "https://www.bilibili.com/video/BV1GfygzUEmv",
+        "desc": "",
+        "rank": 5,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "加油加油！这次必上岸！",
+        "content": "加油加油！这次必上岸！",
+        "bvid": "BV1GfygzUEmv",
+        "author": "陈怀安_Aaa",
+        "duration": "46:6",
+        "cover": "//i1.hdslb.com/bfs/archive/b971d5218017a24b0718ae635c369d70b85892d5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GfygzUEmv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "陈怀安公考数资考前划重点"
+      },
+      {
+        "title": "玛雅消失案：谁杀死了一个失落的文明？",
+        "url": "https://www.bilibili.com/video/BV11QyuzeETK",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "末日预言是假的，但满池的王族尸骨，却是真的。公元9世纪，几十座玛雅王城接连沦为死地。千年后，科学家在最大王城的水库黑泥里，测出了超标水银。是谁在给全城下毒？几百万玛雅人，又去了哪？ 参考文献： [1] INOMATA T, TRIADAN D, PONCIANO E, et al., In the Palace of the Fallen king: The Royal Residential Complex at Aguateca, Guatemala[J]. Journal of Field Arch",
+        "content": "末日预言是假的，但满池的王族尸骨，却是真的。公元9世纪，几十座玛雅王城接连沦为死地。千年后，科学家在最大王城的水库黑泥里，测出了超标水银。是谁在给全城下毒？几百万玛雅人，又去了哪？ 参考文献： [1] INOMATA T, TRIADAN D, PONCIANO E, et al., In the Palace of the Fallen king: The Royal Residential Complex at Aguateca, Guatemala[J]. Journal of Field Arch",
+        "bvid": "BV11QyuzeETK",
+        "author": "大圆镜科普",
+        "duration": "7:2",
+        "cover": "//i1.hdslb.com/bfs/archive/cd1712e4b205af068b9e03a57f8272bc8fb0c0b3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11QyuzeETK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Vibe知识拆解玛雅古城衰落之谜"
+      },
+      {
         "title": "刚刚已确定是什么梗【梗指南】",
         "url": "https://www.bilibili.com/video/BV1BJyDzqE1t",
         "desc": "",
-        "rank": 5,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "刚刚已确定是什么梗 引用素材： BV1QosU6RENn *本视频仅作为了解该梗的辅助，不能仅靠该视频作为对该梗的全面了解，真正深入了解可以观看原出处以及更多方面~",
@@ -206,42 +238,42 @@
         "hotTitle": "刚刚已确定是什么梗"
       },
       {
-        "title": "监狱常客成状元？考试现场变死亡证据，是幕后灭口还是另有隐情！",
-        "url": "https://www.bilibili.com/video/BV1xUyDzmEbz",
+        "title": "AI证明黎曼猜想，数学界为何四分五裂？",
+        "url": "https://www.bilibili.com/video/BV15FypzmEtX",
         "desc": "",
-        "rank": 6,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1xUyDzmEbz",
-        "author": "是都酱呀",
-        "duration": "17:12",
-        "cover": "//i0.hdslb.com/bfs/archive/7c61f4950674557560fd624f2c1c459a3fb2fd6e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xUyDzmEbz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "诈骗犯为何能成韩国高考状元"
+        "description": "",
+        "content": "",
+        "bvid": "BV15FypzmEtX",
+        "author": "钰子一",
+        "duration": "3:33",
+        "cover": "//i1.hdslb.com/bfs/archive/7b75cd999494c5154dd85f910dd69e21e97e5e0f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15FypzmEtX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "学界是否认可黎曼猜想被证明"
       },
       {
-        "title": "鲁豫对话蔡琴：不要抱歉，不要告别，我们的一生已经满溢 | 陈鲁豫·慢谈EP29【视频播客】",
-        "url": "https://www.bilibili.com/video/BV1XDsv6HEbJ",
+        "title": "\"小县城\"靠AI拿到\"大结果\"，它凭什么？",
+        "url": "https://www.bilibili.com/video/BV1fCyJzSEL7",
         "desc": "",
-        "rank": 7,
+        "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "她是穿越岁月的丝绒歌后，从《恰似你的温柔》开启演唱生涯，用近半个世纪的时间，陪伴了四代听众；她也是跨界多元的全能艺术家，曾入围金像奖最佳女配角、金钟奖最佳广播、电视综艺节目主持人奖。 今年10月她宣布，2027年12月31日之后，自己将不再在舞台上唱歌。而在此之前，她想要好好说再见。 本期《陈鲁豫·慢谈》，鲁豫对话蔡琴，她们聊48年歌声里的高峰与低谷，聊被误解23年的传闻往事，也聊一个人如何回望过去、面对告别。",
-        "content": "她是穿越岁月的丝绒歌后，从《恰似你的温柔》开启演唱生涯，用近半个世纪的时间，陪伴了四代听众；她也是跨界多元的全能艺术家，曾入围金像奖最佳女配角、金钟奖最佳广播、电视综艺节目主持人奖。 今年10月她宣布，2027年12月31日之后，自己将不再在舞台上唱歌。而在此之前，她想要好好说再见。 本期《陈鲁豫·慢谈》，鲁豫对话蔡琴，她们聊48年歌声里的高峰与低谷，聊被误解23年的传闻往事，也聊一个人如何回望过去、面对告别。",
-        "bvid": "BV1XDsv6HEbJ",
-        "author": "陈鲁豫-慢谈",
-        "duration": "126:16",
-        "cover": "//i2.hdslb.com/bfs/archive/1646fcf23da7f4cab8cace56bd696f755e8c1f36.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XDsv6HEbJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "蔡琴和鲁豫聊告别演出"
+        "description": "",
+        "content": "",
+        "bvid": "BV1fCyJzSEL7",
+        "author": "小Lin竖着说",
+        "duration": "7:15",
+        "cover": "//i1.hdslb.com/bfs/archive/e4712aab4e17cb4dcdb0fae83981339ba5633ddf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fCyJzSEL7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "小县城如何靠AI拿到大结果"
       },
       {
         "title": "【高战士】文王对话补录？火锅疑云？黄焖鸡事件新线索？马天宇饭桌怒怼文吉儿？【一周“友”学课件大赏】",
         "url": "https://www.bilibili.com/video/BV1CdynzhEdq",
         "desc": "",
-        "rank": 8,
+        "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -252,38 +284,6 @@
         "cover": "//i1.hdslb.com/bfs/archive/7cf50e3c7686f55d51d65332cdcea695f555d995.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CdynzhEdq&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "后会友期一周新课件大赏"
-      },
-      {
-        "title": "【AI十项全能】GLM 5.4：或许需要更多思考时间？国模，隐忍，战未来等待5.5中",
-        "url": "https://www.bilibili.com/video/BV1FmyHzdE5V",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "本挑战赛网站：https://octathlon.wendystars.com/decathlon/ 排行总榜，题目类别榜，模型得分详情，题目详情都在网站里，也可以手动调整各题权重对比分数。 完整题面及评分标准：https://github.com/Wendystar0628/AI-All-Round-Bench 喜欢的朋友麻烦帮忙点个star，非常感谢！",
-        "content": "本挑战赛网站：https://octathlon.wendystars.com/decathlon/ 排行总榜，题目类别榜，模型得分详情，题目详情都在网站里，也可以手动调整各题权重对比分数。 完整题面及评分标准：https://github.com/Wendystar0628/AI-All-Round-Bench 喜欢的朋友麻烦帮忙点个star，非常感谢！",
-        "bvid": "BV1FmyHzdE5V",
-        "author": "望月星逸",
-        "duration": "18:59",
-        "cover": "//i1.hdslb.com/bfs/archive/507c9b9ccf6f1253f84c6003164d09378af49641.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FmyHzdE5V&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GLM 5.4十项全能测评"
-      },
-      {
-        "title": "比赛最后时刻要素拉满，塔图姆绝杀不中，勇士险胜凯尔特人",
-        "url": "https://www.bilibili.com/video/BV1G7yJzBEU9",
-        "desc": "",
-        "rank": 10,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1G7yJzBEU9",
-        "author": "咪咕篮球",
-        "duration": "0:55",
-        "cover": "//i0.hdslb.com/bfs/archive/fc31e5cd05d7a35e560e241f8d267da8f55b5f9f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1G7yJzBEU9&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "勇士险胜凯尔特人"
       },
       {
         "title": "【世界周刊】APEC全球时刻",
@@ -318,106 +318,10 @@
         "hotTitle": "27国考今起可打印准考证"
       },
       {
-        "title": "DDR4 DDR5 CPU性能对比｜显卡日报",
-        "url": "https://www.bilibili.com/video/BV1igyJzVEoS",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "日报有用记得三连哦，你的鼓励真的很重要",
-        "content": "日报有用记得三连哦，你的鼓励真的很重要",
-        "bvid": "BV1igyJzVEoS",
-        "author": "芝士华莱士",
-        "duration": "6:26",
-        "cover": "//i0.hdslb.com/bfs/archive/115df045a193a3c4c6bb9f3450c52680b0b4879b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1igyJzVEoS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "市面主流CPU性能对比"
-      },
-      {
-        "title": "十分钟搞懂黎曼猜想，证明之后意味着什么？",
-        "url": "https://www.bilibili.com/video/BV1Z3yvzoE95",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "希望能帮助大家！",
-        "content": "希望能帮助大家！",
-        "bvid": "BV1Z3yvzoE95",
-        "author": "觀元-",
-        "duration": "9:7",
-        "cover": "//i0.hdslb.com/bfs/archive/9621efdcc2b9a5258c656856b8db24b761a41d56.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z3yvzoE95&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "黎曼猜想究竟是什么"
-      },
-      {
-        "title": "真相不重要？重看悬崖小屋对谈，谁是受害者，谁是加害者？《后会友期》的叙事诡计",
-        "url": "https://www.bilibili.com/video/BV1omyhz2EZk",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "毁掉我两周的睡眠，我好恨",
-        "content": "毁掉我两周的睡眠，我好恨",
-        "bvid": "BV1omyhz2EZk",
-        "author": "进击的空空",
-        "duration": "21:23",
-        "cover": "//i2.hdslb.com/bfs/archive/06ff0fbc337842becfba6258d06ba2157b2b04ac.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1omyhz2EZk&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "悬崖对谈里厉娜许飞谁是受害者"
-      },
-      {
-        "title": "\"小县城\"靠AI拿到\"大结果\"，它凭什么？",
-        "url": "https://www.bilibili.com/video/BV1fCyJzSEL7",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1fCyJzSEL7",
-        "author": "小Lin竖着说",
-        "duration": "7:15",
-        "cover": "//i1.hdslb.com/bfs/archive/e4712aab4e17cb4dcdb0fae83981339ba5633ddf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fCyJzSEL7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "小县城如何靠AI拿到大结果"
-      },
-      {
-        "title": "今天来衡阳盘个鱼塘，塘主奶奶年纪大了，打理不动，过来帮老人家清清塘里的鱼。",
-        "url": "https://www.bilibili.com/video/BV1ywyGzvELR",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ywyGzvELR",
-        "author": "李维刚的日常",
-        "duration": "5:39",
-        "cover": "//i1.hdslb.com/bfs/archive/a48cb8e12be764e3b68f3801d0d80909b89a617b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ywyGzvELR&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "挑战1000元盘下老奶奶家鱼塘"
-      },
-      {
-        "title": "AI证明黎曼猜想之后，请多关爱数学系的学生！",
-        "url": "https://www.bilibili.com/video/BV1mgynzwE1m",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1mgynzwE1m",
-        "author": "钰子一",
-        "duration": "8:50",
-        "cover": "//i2.hdslb.com/bfs/archive/43cd8bd91d850acd62e0f0764a439f89aa1dd4e3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mgynzwE1m&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如何理解数学系学生的处境"
-      },
-      {
         "title": "盘点《芒果十大名梗》：出处、含义、用法，一次性全扒透！",
         "url": "https://www.bilibili.com/video/BV1jvypz9EPr",
         "desc": "",
-        "rank": 19,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -430,10 +334,90 @@
         "hotTitle": "芒果台造梗方面有多权威"
       },
       {
+        "title": "今天来衡阳盘个鱼塘，塘主奶奶年纪大了，打理不动，过来帮老人家清清塘里的鱼。",
+        "url": "https://www.bilibili.com/video/BV1ywyGzvELR",
+        "desc": "",
+        "rank": 14,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1ywyGzvELR",
+        "author": "李维刚的日常",
+        "duration": "5:39",
+        "cover": "//i1.hdslb.com/bfs/archive/a48cb8e12be764e3b68f3801d0d80909b89a617b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ywyGzvELR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "挑战1000元盘下老奶奶家鱼塘"
+      },
+      {
+        "title": "十分钟搞懂黎曼猜想，证明之后意味着什么？",
+        "url": "https://www.bilibili.com/video/BV1Z3yvzoE95",
+        "desc": "",
+        "rank": 15,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "希望能帮助大家！",
+        "content": "希望能帮助大家！",
+        "bvid": "BV1Z3yvzoE95",
+        "author": "觀元-",
+        "duration": "9:7",
+        "cover": "//i0.hdslb.com/bfs/archive/9621efdcc2b9a5258c656856b8db24b761a41d56.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z3yvzoE95&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "黎曼猜想究竟是什么"
+      },
+      {
+        "title": "AI证明黎曼猜想之后，请多关爱数学系的学生！",
+        "url": "https://www.bilibili.com/video/BV1mgynzwE1m",
+        "desc": "",
+        "rank": 16,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1mgynzwE1m",
+        "author": "钰子一",
+        "duration": "8:50",
+        "cover": "//i2.hdslb.com/bfs/archive/43cd8bd91d850acd62e0f0764a439f89aa1dd4e3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mgynzwE1m&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何理解数学系学生的处境"
+      },
+      {
+        "title": "鲁豫对话蔡琴：不要抱歉，不要告别，我们的一生已经满溢 | 陈鲁豫·慢谈EP29【视频播客】",
+        "url": "https://www.bilibili.com/video/BV1XDsv6HEbJ",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "她是穿越岁月的丝绒歌后，从《恰似你的温柔》开启演唱生涯，用近半个世纪的时间，陪伴了四代听众；她也是跨界多元的全能艺术家，曾入围金像奖最佳女配角、金钟奖最佳广播、电视综艺节目主持人奖。 今年10月她宣布，2027年12月31日之后，自己将不再在舞台上唱歌。而在此之前，她想要好好说再见。 本期《陈鲁豫·慢谈》，鲁豫对话蔡琴，她们聊48年歌声里的高峰与低谷，聊被误解23年的传闻往事，也聊一个人如何回望过去、面对告别。",
+        "content": "她是穿越岁月的丝绒歌后，从《恰似你的温柔》开启演唱生涯，用近半个世纪的时间，陪伴了四代听众；她也是跨界多元的全能艺术家，曾入围金像奖最佳女配角、金钟奖最佳广播、电视综艺节目主持人奖。 今年10月她宣布，2027年12月31日之后，自己将不再在舞台上唱歌。而在此之前，她想要好好说再见。 本期《陈鲁豫·慢谈》，鲁豫对话蔡琴，她们聊48年歌声里的高峰与低谷，聊被误解23年的传闻往事，也聊一个人如何回望过去、面对告别。",
+        "bvid": "BV1XDsv6HEbJ",
+        "author": "陈鲁豫-慢谈",
+        "duration": "126:16",
+        "cover": "//i2.hdslb.com/bfs/archive/1646fcf23da7f4cab8cace56bd696f755e8c1f36.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XDsv6HEbJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "蔡琴和鲁豫聊告别演出"
+      },
+      {
+        "title": "没开玩笑！超乔丹！高阶数据打爆银河系！文班到底有多逆天？",
+        "url": "https://www.bilibili.com/video/BV1QvyjzbELs",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1QvyjzbELs",
+        "author": "业余球探刀先生",
+        "duration": "15:48",
+        "cover": "//i0.hdslb.com/bfs/archive/feeb4cf3f8fd9c35e33af137c9086b2f973e7c7b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QvyjzbELs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "文班亚马是NBA新GOAT吗"
+      },
+      {
         "title": "竟然吃得起！人民大会堂吃一顿多少钱？",
         "url": "https://www.bilibili.com/video/BV1XFyazBEvL",
         "desc": "",
-        "rank": 20,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -449,7 +433,7 @@
         "title": "秦牧偶遇大雷音宗上代侞莱!",
         "url": "https://www.bilibili.com/video/BV1b8yGzjEMo",
         "desc": "",
-        "rank": 21,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -462,42 +446,42 @@
         "hotTitle": "秦牧灵兵初露锋芒"
       },
       {
-        "title": "没开玩笑！超乔丹！高阶数据打爆银河系！文班到底有多逆天？",
-        "url": "https://www.bilibili.com/video/BV1QvyjzbELs",
+        "title": "【AI十项全能】GLM 5.4：或许需要更多思考时间？国模，隐忍，战未来等待5.5中",
+        "url": "https://www.bilibili.com/video/BV1FmyHzdE5V",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本挑战赛网站：https://octathlon.wendystars.com/decathlon/ 排行总榜，题目类别榜，模型得分详情，题目详情都在网站里，也可以手动调整各题权重对比分数。 完整题面及评分标准：https://github.com/Wendystar0628/AI-All-Round-Bench 喜欢的朋友麻烦帮忙点个star，非常感谢！",
+        "content": "本挑战赛网站：https://octathlon.wendystars.com/decathlon/ 排行总榜，题目类别榜，模型得分详情，题目详情都在网站里，也可以手动调整各题权重对比分数。 完整题面及评分标准：https://github.com/Wendystar0628/AI-All-Round-Bench 喜欢的朋友麻烦帮忙点个star，非常感谢！",
+        "bvid": "BV1FmyHzdE5V",
+        "author": "望月星逸",
+        "duration": "18:59",
+        "cover": "//i1.hdslb.com/bfs/archive/507c9b9ccf6f1253f84c6003164d09378af49641.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FmyHzdE5V&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GLM 5.4十项全能测评"
+      },
+      {
+        "title": "DDR4 DDR5 CPU性能对比｜显卡日报",
+        "url": "https://www.bilibili.com/video/BV1igyJzVEoS",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1QvyjzbELs",
-        "author": "业余球探刀先生",
-        "duration": "15:48",
-        "cover": "//i0.hdslb.com/bfs/archive/feeb4cf3f8fd9c35e33af137c9086b2f973e7c7b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QvyjzbELs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "文班亚马是NBA新GOAT吗"
-      },
-      {
-        "title": "AI证明黎曼猜想，数学界为何四分五裂？",
-        "url": "https://www.bilibili.com/video/BV15FypzmEtX",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV15FypzmEtX",
-        "author": "钰子一",
-        "duration": "3:33",
-        "cover": "//i1.hdslb.com/bfs/archive/7b75cd999494c5154dd85f910dd69e21e97e5e0f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15FypzmEtX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "学界是否认可黎曼猜想被证明"
+        "description": "日报有用记得三连哦，你的鼓励真的很重要",
+        "content": "日报有用记得三连哦，你的鼓励真的很重要",
+        "bvid": "BV1igyJzVEoS",
+        "author": "芝士华莱士",
+        "duration": "6:26",
+        "cover": "//i0.hdslb.com/bfs/archive/115df045a193a3c4c6bb9f3450c52680b0b4879b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1igyJzVEoS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "市面主流CPU性能对比"
       },
       {
         "title": "挑战用第三人称逛商场",
         "url": "https://www.bilibili.com/video/BV1GxyWzUEsn",
         "desc": "",
-        "rank": 24,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -510,74 +494,58 @@
         "hotTitle": "挑战用GTA视角逛商场"
       },
       {
-        "title": "《明日方舟：终末地》干员战斗演示 - 小刻",
-        "url": "https://www.bilibili.com/video/BV1aty5zxEYc",
+        "title": "三角洲行动 24万近战S级强度！版本隐藏性价比玩法，混装弹炎魂MCX优缺点介绍与改法教学！【S】",
+        "url": "https://www.bilibili.com/video/BV1Hkygz8Egu",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "MCX .300 小口径 突击步枪 优点：4弹打3甲下是全游戏秒人最快武器之一。高射速低后坐，高操控高腰射，上手跟枪也简单。爆炸弹提升了弥补了一定甲伤缺点，BTK更稳定。 缺点：近战特性化导致射程和子弹初速稍差，有效交战距离较低。过低的甲伤消耗战也较弱。 改枪mua 炎魂MCX性价比版25万-6M0F4JS0EU90O684D8QL5 炎魂MCX腰射双修版34万-6M0F50K0EU90O684D8QL5 炎魂MCX大弹匣版36万-6M0F4TO0EU90O684D8QL5",
+        "content": "MCX .300 小口径 突击步枪 优点：4弹打3甲下是全游戏秒人最快武器之一。高射速低后坐，高操控高腰射，上手跟枪也简单。爆炸弹提升了弥补了一定甲伤缺点，BTK更稳定。 缺点：近战特性化导致射程和子弹初速稍差，有效交战距离较低。过低的甲伤消耗战也较弱。 改枪mua 炎魂MCX性价比版25万-6M0F4JS0EU90O684D8QL5 炎魂MCX腰射双修版34万-6M0F50K0EU90O684D8QL5 炎魂MCX大弹匣版36万-6M0F4TO0EU90O684D8QL5",
+        "bvid": "BV1Hkygz8Egu",
+        "author": "Always聪聪",
+        "duration": "6:14",
+        "cover": "//i1.hdslb.com/bfs/archive/eae7d57bf7e1553a833bfffb6d2c2b1db3673252.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Hkygz8Egu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "三角洲混装弹炎魂MCX改法教学"
+      },
+      {
+        "title": "真事！在法国赶海可以抓到世界上最贵的龙虾。。",
+        "url": "https://www.bilibili.com/video/BV1PHyVzrEPW",
         "desc": "",
         "rank": 25,
         "kind": "video",
         "platform": "bilibili",
-        "description": "准备出发啦，干粮不够的话，小刻可以分点给你！",
-        "content": "准备出发啦，干粮不够的话，小刻可以分点给你！",
-        "bvid": "BV1aty5zxEYc",
-        "author": "明日方舟终末地",
-        "duration": "0:55",
-        "cover": "//i2.hdslb.com/bfs/archive/524ab24e12399b635abbe3c57a80dbb55c8de6cd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aty5zxEYc&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "终末地小刻干员战斗演示"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1PHyVzrEPW",
+        "author": "大豪夫妇",
+        "duration": "14:37",
+        "cover": "//i2.hdslb.com/bfs/archive/073a0bd8cc8d519b538a8e13f3c807b58afa283b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PHyVzrEPW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "在法国赶海抓最贵的龙虾"
       },
       {
-        "title": "【BLG夺冠VLOG】这是属于我们的冠军记忆",
-        "url": "https://www.bilibili.com/video/BV1zGy5ziEnd",
+        "title": "《雾山五行》院线电影开发中！",
+        "url": "https://www.bilibili.com/video/BV1fiyVzcEnd",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "未来某天，无论我们身在何处，当这段记忆突然涌现，最美好的，莫过于此刻。 ——这是属于BLG的冠军记忆，也是属于我们的此刻。",
-        "content": "未来某天，无论我们身在何处，当这段记忆突然涌现，最美好的，莫过于此刻。 ——这是属于BLG的冠军记忆，也是属于我们的此刻。",
-        "bvid": "BV1zGy5ziEnd",
-        "author": "BLG电子竞技俱乐部",
-        "duration": "36:15",
-        "cover": "//i2.hdslb.com/bfs/archive/f8434bb8aa19e8495cc7c9aa32fa6f187f7d3376.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zGy5ziEnd&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "BLG 属于我们的冠军记忆"
-      },
-      {
-        "title": "开局崩盘！约罗8分钟直红 曼联9轮不胜 利物浦4比0十人曼联",
-        "url": "https://www.bilibili.com/video/BV1uvWq67EME",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1uvWq67EME",
-        "author": "吉罗很快乐",
-        "duration": "23:59",
-        "cover": "//i0.hdslb.com/bfs/archive/87aefe48c40e9f69dc9fc704ecb48fa86f680db0.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uvWq67EME&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "利物浦4-0曼联"
-      },
-      {
-        "title": "【寅子】全网最窝囊GTA6主角🤡！被保安圈踢！报复行动就是骑自行车撞人家😋",
-        "url": "https://www.bilibili.com/video/BV1YfyhzuEia",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "好播！好看！我仿佛回到了我做账号弟三年，边剪视频边看《直播中71415。。。》的时光",
-        "content": "好播！好看！我仿佛回到了我做账号弟三年，边剪视频边看《直播中71415。。。》的时光",
-        "bvid": "BV1YfyhzuEia",
-        "author": "寅子",
-        "duration": "8:20",
-        "cover": "//i1.hdslb.com/bfs/archive/da22decc7dc1a7a411731f86f9ab2641f815fbeb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YfyhzuEia&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "全网最窝囊GTA6主角"
+        "description": "《雾山五行》导演林魂公开全新大电影情报。",
+        "content": "《雾山五行》导演林魂公开全新大电影情报。",
+        "bvid": "BV1fiyVzcEnd",
+        "author": "哔哩哔哩国创",
+        "duration": "3:2",
+        "cover": "//i2.hdslb.com/bfs/archive/28682f0d514095eb7c3194c593bbd93e2fa937d4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fiyVzcEnd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "雾山五行新企划画面公开"
       },
       {
         "title": "战争8个月，伊朗变成了什么样?冒死拍到真实的伊朗！",
         "url": "https://www.bilibili.com/video/BV1chyVzvEpp",
         "desc": "",
-        "rank": 29,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "美伊战争期间独自在伊朗旅行，拍到了真实的伊朗人的生活",
@@ -590,20 +558,52 @@
         "hotTitle": "战争中伊朗究竟是什么样子"
       },
       {
-        "title": "Claude 证明了黎曼猜想？11分钟讲清它到底证明了什么、还差哪几步",
-        "url": "https://www.bilibili.com/video/BV15aytzcENP",
+        "title": "开局崩盘！约罗8分钟直红 曼联9轮不胜 利物浦4比0十人曼联",
+        "url": "https://www.bilibili.com/video/BV1uvWq67EME",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1uvWq67EME",
+        "author": "吉罗很快乐",
+        "duration": "23:59",
+        "cover": "//i0.hdslb.com/bfs/archive/87aefe48c40e9f69dc9fc704ecb48fa86f680db0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uvWq67EME&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "利物浦4-0曼联"
+      },
+      {
+        "title": "真相不重要？重看悬崖小屋对谈，谁是受害者，谁是加害者？《后会友期》的叙事诡计",
+        "url": "https://www.bilibili.com/video/BV1omyhz2EZk",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "毁掉我两周的睡眠，我好恨",
+        "content": "毁掉我两周的睡眠，我好恨",
+        "bvid": "BV1omyhz2EZk",
+        "author": "进击的空空",
+        "duration": "21:23",
+        "cover": "//i2.hdslb.com/bfs/archive/06ff0fbc337842becfba6258d06ba2157b2b04ac.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1omyhz2EZk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "悬崖对谈里厉娜许飞谁是受害者"
+      },
+      {
+        "title": "【BLG夺冠VLOG】这是属于我们的冠军记忆",
+        "url": "https://www.bilibili.com/video/BV1zGy5ziEnd",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "只要在那条窄带里找到一个偏离中线的零点，黎曼猜想就会被推翻。1950 年，图灵用曼彻斯特的一台早期计算机，想找的就是那一个。 2026 年 11 月 20 日，数学家阿尔波格与 Claude 公开了一份 Lean 证明，随后通过了多项独立机器检查。同一天公开的另一份广义黎曼猜想草稿仍在修订。 这部片从一个小问题讲起：数到一百万，素数的估算只差约 130 个。再往远处数，误差能有多大？我们把零点的波一层层叠起来，再跟着图灵的思路数一遍，看看怎样知道这一段一个都没漏，以及一份证明怎样回答「所有」。 旁白",
-        "content": "只要在那条窄带里找到一个偏离中线的零点，黎曼猜想就会被推翻。1950 年，图灵用曼彻斯特的一台早期计算机，想找的就是那一个。 2026 年 11 月 20 日，数学家阿尔波格与 Claude 公开了一份 Lean 证明，随后通过了多项独立机器检查。同一天公开的另一份广义黎曼猜想草稿仍在修订。 这部片从一个小问题讲起：数到一百万，素数的估算只差约 130 个。再往远处数，误差能有多大？我们把零点的波一层层叠起来，再跟着图灵的思路数一遍，看看怎样知道这一段一个都没漏，以及一份证明怎样回答「所有」。 旁白",
-        "bvid": "BV15aytzcENP",
-        "author": "频谱之外",
-        "duration": "11:41",
-        "cover": "//i0.hdslb.com/bfs/archive/d4cd0919b3d365f5443b59c9167c459b84b799ab.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15aytzcENP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI证明黎曼猜想到底得出什么结论"
+        "description": "未来某天，无论我们身在何处，当这段记忆突然涌现，最美好的，莫过于此刻。 ——这是属于BLG的冠军记忆，也是属于我们的此刻。",
+        "content": "未来某天，无论我们身在何处，当这段记忆突然涌现，最美好的，莫过于此刻。 ——这是属于BLG的冠军记忆，也是属于我们的此刻。",
+        "bvid": "BV1zGy5ziEnd",
+        "author": "BLG电子竞技俱乐部",
+        "duration": "36:15",
+        "cover": "//i2.hdslb.com/bfs/archive/f8434bb8aa19e8495cc7c9aa32fa6f187f7d3376.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zGy5ziEnd&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "BLG 属于我们的冠军记忆"
       }
     ],
     "qbitai": [
@@ -910,6 +910,26 @@
     ],
     "36kr": [
       {
+        "title": "大厂Personal Agent，到底来不来？",
+        "url": "https://m.36kr.com/p/4082207223075718",
+        "desc": "",
+        "cover": "https://img.36krcdn.com/hsossms/20261123/v2_28a4b03e3437462bbaaac0a03ad7bedd@5888275@ai_oswg883102oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1795433759661,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 1
+      },
+      {
+        "title": "定投纳斯达克的人，被狠狠上了一课",
+        "url": "https://m.36kr.com/p/4082131148198788",
+        "desc": "",
+        "cover": "https://img.36krcdn.com/hsossms/20261123/v2_c7783c61af4d4aeaae0d8e254b64eb72@5888275@ai_oswg805816oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1795433322975,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 2
+      },
+      {
         "title": "Babycare李阔：亲历一场风暴，许多模糊的理解变具体了｜专访",
         "url": "https://m.36kr.com/p/4079471785186184",
         "desc": "",
@@ -917,27 +937,57 @@
         "date": 1795408428880,
         "platform": "36kr",
         "kind": "article",
-        "rank": 1
-      },
-      {
-        "title": "揭秘Anthropic的“暴利”真相",
-        "url": "https://m.36kr.com/p/4081737353270405",
-        "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261123/v2_54e7ac031a2645c4bc3c17afa8c308e7@1743780481@ai_oswg854372oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1795408387072,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 2
-      },
-      {
-        "title": "林俊旸追上李飞飞",
-        "url": "https://m.36kr.com/p/4080757699958660",
-        "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261122/v2_42b7b8a8e10b47bc83020ae5a27c921e@1743780481@ai_oswg782023oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1795394970073,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 3
+      },
+      {
+        "title": "涪陵榨菜：拟约5亿元投建乌江涪陵榨菜绿色智能化生产基地（二期）项目",
+        "url": "https://m.36kr.com/newsflashes/4082268179207047",
+        "desc": "36氪获悉，涪陵榨菜公告，拟约5亿元投建乌江涪陵榨菜绿色智能化生产基地（二期）项目。",
+        "cover": "",
+        "date": 1795433876172,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "上海获批我国首个生物合成食用蛋白新食品原料",
+        "url": "https://m.36kr.com/newsflashes/4082265343218819",
+        "desc": "36氪获悉，据上海科技，近日，国家卫生健康委发布“三新食品”公告，上海昌进生物科技有限公司研发的“β-乳球蛋白（发酵法）”获批作为新食品原料，这是我国首次批准以精准发酵方式生产的食用蛋白作为新食品原料。",
+        "cover": "",
+        "date": 1795433703077,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "广田集团：拟3000万元—6000万元回购公司股份",
+        "url": "https://m.36kr.com/newsflashes/4082261772424320",
+        "desc": "36氪获悉，广田集团公告，拟3000万元—6000万元回购公司股份，用于股权激励或员工持股计划，回购价格不超过1.7元/股。",
+        "cover": "",
+        "date": 1795433485133,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "唯捷创芯：拟5000万元—6000万元回购公司股份",
+        "url": "https://m.36kr.com/newsflashes/4082257318220933",
+        "desc": "36氪获悉，唯捷创芯公告，拟5000万元—6000万元回购公司股份，用于减少注册资本，回购价格不超过32.94元/股（含）。",
+        "cover": "",
+        "date": 1795433213270,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
+        "title": "维尔利：拟2000万元—4000万元回购公司股份",
+        "url": "https://m.36kr.com/newsflashes/4082256161624968",
+        "desc": "36氪获悉，维尔利公告，拟2000万元—4000万元回购公司股份，用于股权激励或员工持股计划，回购价格不超过4.85元/股。",
+        "cover": "",
+        "date": 1795433142677,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 8
       },
       {
         "title": "珂玛科技：拟7000万元—1.2亿元回购公司股份",
@@ -947,7 +997,7 @@
         "date": 1795432786499,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 9
       },
       {
         "title": "奥拓电子：董事长提议1000万元—2000万元回购公司股份",
@@ -957,7 +1007,7 @@
         "date": 1795432637303,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 10
       },
       {
         "title": "一品红：拟2亿元—3亿元回购公司股份",
@@ -967,7 +1017,7 @@
         "date": 1795432370428,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 11
       },
       {
         "title": "摩尔线程：拟5亿元-10亿元回购公司股份",
@@ -977,7 +1027,7 @@
         "date": 1795432034226,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 12
       },
       {
         "title": "CrowdStrike将以全股票交易收购Zscaler，估值约439亿美元",
@@ -987,7 +1037,7 @@
         "date": 1795431702205,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 13
       },
       {
         "title": "致远互联：拟1000万元—2000万元回购公司股份",
@@ -997,7 +1047,7 @@
         "date": 1795431362961,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 14
       },
       {
         "title": "豪美新材：拟1亿元—2亿元回购公司股份",
@@ -1007,7 +1057,7 @@
         "date": 1795431231460,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 15
       },
       {
         "title": "行云科技：签署2.99亿元《算力服务合同》",
@@ -1017,7 +1067,7 @@
         "date": 1795431050967,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 16
       },
       {
         "title": "科博达：拟1.5亿元—2.5亿元回购公司股份",
@@ -1027,7 +1077,7 @@
         "date": 1795430939214,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 17
       },
       {
         "title": "兴业银锡：拟3亿元—5亿元回购公司股份",
@@ -1037,7 +1087,7 @@
         "date": 1795430820756,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 18
       },
       {
         "title": "恺英网络：拟1亿元—2亿元回购公司股份",
@@ -1047,7 +1097,7 @@
         "date": 1795430750048,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 19
       },
       {
         "title": "冰山冷热：公司2026年截至目前冰雪场馆业务尚未确认收入",
@@ -1057,7 +1107,7 @@
         "date": 1795430607109,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 20
       },
       {
         "title": "蜂助手：签署16.64亿元算力服务器采购合同",
@@ -1067,7 +1117,7 @@
         "date": 1795430496484,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 21
       },
       {
         "title": "华立科技：拟1500万元—3000万元回购公司股份",
@@ -1077,7 +1127,7 @@
         "date": 1795430283925,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 22
       },
       {
         "title": "上交所向盛剑科技下发监管工作函",
@@ -1087,65 +1137,15 @@
         "date": 1795430053753,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "新华文轩：控股股东等拟增持1234万股—2467万股公司H股股份",
-        "url": "https://m.36kr.com/newsflashes/4082202691982473",
-        "desc": "36氪获悉，新华文轩公告，控股股东四川新华出版发行集团有限公司及其全资子公司蜀典投资有限公司拟自本公告披露之日起12个月内通过上海证券交易所港股通交易系统、香港联合交易所有限公司交易系统以集中竞价交易方式增持公司H股股份，增持数量不低于1234万股、不超过2467万股。",
-        "cover": "",
-        "date": 1795429879149,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "瑞丰新材：拟2.5亿元—5亿元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4082197007176579",
-        "desc": "36氪获悉，瑞丰新材公告，拟2.5亿元—5亿元回购公司股份，用于股权激励或员工持股计划，回购价格不超过35.11元/股（含）。",
-        "cover": "",
-        "date": 1795429532176,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "阳光诺和：董事长提议3000万元—5000万元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4082191506150273",
-        "desc": "36氪获悉，阳光诺和公告，公司董事长、控股股东、实际控制人利虔提议3000万元—5000万元回购公司股份，用于员工持股计划或股权激励计划。",
-        "cover": "",
-        "date": 1795429196420,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "“杉数科技”完成数亿元人民币D轮融资",
-        "url": "https://m.36kr.com/newsflashes/4082182799250307",
-        "desc": "36氪获悉，决策式AI厂商“杉数科技”宣布完成数亿元人民币D轮融资，投资方包括国家绿色发展基金、上海集成电路产业投资基金、普陀资本等。本次融资将用于决策式AI技术与产品的持续研发及规模化应用落地。",
-        "cover": "",
-        "date": 1795428664993,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "迪拜据悉考虑合并Dubai Islamic Bank和Emirates Islamic Bank",
-        "url": "https://m.36kr.com/newsflashes/4082178589725577",
-        "desc": "据报道，迪拜官员已就可能合并Dubai Islamic Bank和Emirates Islamic Bank进行初步讨论，以打造一家更有能力参与全球竞争的银行。这一交易如果推行，可能跻身该地区近年来规模最大的银行交易之列。由Emirates NBD Bank全资拥有的Emirates Islamic Bank资产超过1580亿迪拉姆（430亿美元），而Dubai Islamic Bank规模更大，资产为4270亿迪拉姆。（界面）",
-        "cover": "",
-        "date": 1795428408064,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795433163730,
-    "bilibili": 1795432127104,
-    "qbitai": 1795433193603,
-    "36kr": 1795433193978
+    "thepaper": 1795434063745,
+    "bilibili": 1795434072532,
+    "qbitai": 1795434093308,
+    "36kr": 1795434093774
   },
   "failures": {}
 }
