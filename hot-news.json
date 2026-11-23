@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-11-23T14:26:37Z",
+  "updatedAt": "2026-11-23T14:41:38Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
       {
-        "title": "用事实回击！唱空中国经济者终会落空",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34535694",
-        "desc": "",
-        "rank": 1
-      },
-      {
         "title": "大学应有的模样｜我们为什么怀念“曾经的大学”",
         "url": "https://www.thepaper.cn/newsDetail_forward_34510207",
         "desc": "",
-        "rank": 2
+        "rank": 1
       },
       {
         "title": "“数学进入了一个新纪元”：丘成桐等三位数学家回应AI辅助证明黎曼猜想",
         "url": "https://www.thepaper.cn/newsDetail_forward_34537212",
         "desc": "",
-        "rank": 3
+        "rank": 2
       },
       {
         "title": "视频丨055大驱、歼-35等海军多型舰机将亮相中国航展",
         "url": "https://www.thepaper.cn/newsDetail_forward_34537823",
         "desc": "",
-        "rank": 4
+        "rank": 3
       },
       {
         "title": "央视曝光南迁候鸟遭围猎，广西金秀开展专项整治抓获涉案人员12人",
         "url": "https://www.thepaper.cn/newsDetail_forward_34535841",
         "desc": "",
-        "rank": 5
+        "rank": 4
       },
       {
         "title": "口述｜《我不是药神》原型陆勇的停药倒计时",
         "url": "https://www.thepaper.cn/newsDetail_forward_34527745",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "某部委机关干部被境外势力“俘获”，窃取我国百余份情报被判死刑",
         "url": "https://www.thepaper.cn/newsDetail_forward_34537269",
+        "desc": "",
+        "rank": 6
+      },
+      {
+        "title": "《教材管理条例（征求意见稿）》面向社会公开征求意见",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34539431",
         "desc": "",
         "rank": 7
       },
@@ -52,84 +52,100 @@
         "rank": 8
       },
       {
-        "title": "《教材管理条例（征求意见稿）》面向社会公开征求意见",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34539431",
-        "desc": "",
-        "rank": 9
-      },
-      {
-        "title": "央视曝光：部分网红褪黑素产品，剂量超标两到三倍",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34535474",
-        "desc": "",
-        "rank": 10
-      },
-      {
         "title": "媒体：“刘邦”写成“刘帮”，珍藏版古籍咋成了错别字大合集",
         "url": "https://www.thepaper.cn/newsDetail_forward_34536521",
         "desc": "",
-        "rank": 11
+        "rank": 9
       },
       {
         "title": "成都一34米人行横道绿灯仅12秒：4级残疾男子加速通过被撞亡，法院判双方同责",
         "url": "https://www.thepaper.cn/newsDetail_forward_34509916",
         "desc": "",
-        "rank": 12
+        "rank": 10
       },
       {
         "title": "《甄嬛传》陪伴我们15年，一闹剧荒就刷一遍",
         "url": "https://www.thepaper.cn/newsDetail_forward_34535640",
         "desc": "",
-        "rank": 13
+        "rank": 11
       },
       {
         "title": "派出所副所长被举报借钱剩3万元未还，湖南凤凰县公安局：已约谈提醒，建议向法院申请恢复执行",
         "url": "https://www.thepaper.cn/newsDetail_forward_34535648",
         "desc": "",
-        "rank": 14
+        "rank": 12
+      },
+      {
+        "title": "美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34537819",
+        "desc": "",
+        "rank": 13
       },
       {
         "title": "刘诗诗：她为什么不跑",
         "url": "https://www.thepaper.cn/newsDetail_forward_34538312",
         "desc": "",
-        "rank": 15
-      },
-      {
-        "title": "福建省人大常委会许可对林科闯采取刑事强制措施：涉职务侵占和挪用资金",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34535635",
-        "desc": "",
-        "rank": 16
-      },
-      {
-        "title": "纪念｜与赵无极同窗的张功慤，看他七十年的探索与隐身",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34535293",
-        "desc": "",
-        "rank": 17
-      },
-      {
-        "title": "《“一老一小”服务体系建设实施方案》发布，提出哪些目标？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34537826",
-        "desc": "",
-        "rank": 18
+        "rank": 14
       },
       {
         "title": "史上最长气候大会未就政治决定达成共识，中方：失望但不弃多边信心",
         "url": "https://www.thepaper.cn/newsDetail_forward_34536509",
         "desc": "",
-        "rank": 19
+        "rank": 15
+      },
+      {
+        "title": "《“一老一小”服务体系建设实施方案》发布，提出哪些目标？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34537826",
+        "desc": "",
+        "rank": 16
       },
       {
         "title": "上海出台科技成果转化条例：破除先有成果后转化的惯性思维，以法律形式明确权益分配",
         "url": "https://www.thepaper.cn/newsDetail_forward_34537359",
+        "desc": "",
+        "rank": 17
+      },
+      {
+        "title": "独家专访｜丘成桐：期待人类找出黎曼猜想的不同证明方法，数学没有困境只会更好",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34540112",
+        "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "“神秘万吨大驱”将亮相航展，专家解读：大概率是最新入列055",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34539149",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "受贿1.93亿余元，浙江省人大常委会原副主任高兴夫一审被判死缓",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34539998",
         "desc": "",
         "rank": 20
       }
     ],
     "bilibili": [
       {
+        "title": "英伟达董事会恢复黄仁勋总裁、首席执行官及董事职务",
+        "url": "https://www.bilibili.com/video/BV1vvyXzNEVu",
+        "desc": "",
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1vvyXzNEVu",
+        "author": "央视新闻",
+        "duration": "0:7",
+        "cover": "//i1.hdslb.com/bfs/archive/20f5b279478a3922dd417a8e486595270e3daf8e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vvyXzNEVu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "英伟达恢复黄仁勋CEO职务"
+      },
+      {
         "title": "扎堆产卵 同类相食！蝗虫诡异行为原理被中国科学家破解！【主播说三农】",
         "url": "https://www.bilibili.com/video/BV121yjzQEWf",
         "desc": "",
-        "rank": 1,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -142,36 +158,20 @@
         "hotTitle": "中国科学家破解蝗虫诡异行为"
       },
       {
-        "title": "陶哲轩称黎曼猜想或被AI在25年内攻克，结果是40天",
-        "url": "https://www.bilibili.com/video/BV1bByDzsEqz",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1bByDzsEqz",
-        "author": "分析学爱好者",
-        "duration": "5:44",
-        "cover": "//i2.hdslb.com/bfs/archive/47050c0aca7f718508cd5063c3f88ff0beda5082.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bByDzsEqz&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "陶哲轩再评价AI攻破黎曼猜想"
-      },
-      {
-        "title": "【完整版】英雄联盟史上播放最高的比赛",
-        "url": "https://www.bilibili.com/video/BV1cqySzTELm",
+        "title": "绿龙哪里需要提升？《老九观赛》第九期",
+        "url": "https://www.bilibili.com/video/BV1JNyHzsEzb",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "英雄联盟史上播放最高的比赛",
-        "content": "英雄联盟史上播放最高的比赛",
-        "bvid": "BV1cqySzTELm",
-        "author": "风泽州",
-        "duration": "8:24",
-        "cover": "//i2.hdslb.com/bfs/archive/c1735dc9f9c59ca5d7183288a1efb5d3e99df67e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cqySzTELm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "英雄联盟史上播放最高的比赛"
+        "description": "Hello！好久不见！最近一直没有充沛的精力来更新观赛，不过今天来了！ 这期带大家一起看看绿龙那些地方打的比较好，以及那些地方还可以提升的。 本期视频仅代表我个人的观点，希望大家理性讨论！！ 如果还有想看的队伍也可以评论区给我留言~",
+        "content": "Hello！好久不见！最近一直没有充沛的精力来更新观赛，不过今天来了！ 这期带大家一起看看绿龙那些地方打的比较好，以及那些地方还可以提升的。 本期视频仅代表我个人的观点，希望大家理性讨论！！ 如果还有想看的队伍也可以评论区给我留言~",
+        "bvid": "BV1JNyHzsEzb",
+        "author": "CS-advent",
+        "duration": "11:17",
+        "cover": "//i1.hdslb.com/bfs/archive/ca2c11e7affb0ca84728fe97ea620381748236a4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JNyHzsEzb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "绿龙在BLAST暴露了哪些问题"
       },
       {
         "title": "【合集】人类消失后，深度思考三百年的大肥鱼",
@@ -222,68 +222,68 @@
         "hotTitle": "美军就地引爆5吨有毒物质"
       },
       {
-        "title": "GTA6销售破纪录，为何欧美游戏行业却上演史上最大裁员潮？【侦查冰】",
-        "url": "https://www.bilibili.com/video/BV1ETyJzLEPv",
+        "title": "世界正在形成麻辣烫元宇宙。。麻辣烫在国外火的无法无天",
+        "url": "https://www.bilibili.com/video/BV1tYyGz5EG7",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1ETyJzLEPv",
-        "author": "芒果冰OL",
-        "duration": "25:8",
-        "cover": "//i1.hdslb.com/bfs/archive/2d0ce41e3515a254913cb980e68ab57306d170f8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ETyJzLEPv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "欧美哪些3A游戏面临危机"
+        "description": "世界正在形成麻辣烫元宇宙。。 麻辣烫在国外火的无法无天 【美妆聊天室】",
+        "content": "世界正在形成麻辣烫元宇宙。。 麻辣烫在国外火的无法无天 【美妆聊天室】",
+        "bvid": "BV1tYyGz5EG7",
+        "author": "知名相声演员BBBBB大王",
+        "duration": "10:25",
+        "cover": "//i1.hdslb.com/bfs/archive/c3a01b2a964257cf09569678ca2a1e200dce8c79.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tYyGz5EG7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "麻辣烫出海成为韩国顶流"
       },
       {
-        "title": "2027年国考行测粉笔终极模考复盘（资料分析）",
-        "url": "https://www.bilibili.com/video/BV1GfygzUEmv",
+        "title": "“给她爱6”既不懂她也不懂爱，但它很懂美国【毒舌的南瓜】",
+        "url": "https://www.bilibili.com/video/BV16jyDzzEhn",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "加油加油！这次必上岸！",
-        "content": "加油加油！这次必上岸！",
-        "bvid": "BV1GfygzUEmv",
-        "author": "陈怀安_Aaa",
-        "duration": "46:6",
-        "cover": "//i1.hdslb.com/bfs/archive/b971d5218017a24b0718ae635c369d70b85892d5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GfygzUEmv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "陈怀安公考数资考前划重点"
+        "description": "",
+        "content": "",
+        "bvid": "BV16jyDzzEhn",
+        "author": "毒舌的南瓜",
+        "duration": "20:16",
+        "cover": "//i2.hdslb.com/bfs/archive/e7760720003c75026b54b5ce1a48a932fb4d945c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16jyDzzEhn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "罪恶都市有多少美国真实梗"
       },
       {
-        "title": "韩国演艺圈悲惨事件，女星五年间被迫进行数百次服务，令人发指！",
-        "url": "https://www.bilibili.com/video/BV15P4y1D7wc",
+        "title": "陶哲轩称黎曼猜想或被AI在25年内攻克，结果是40天",
+        "url": "https://www.bilibili.com/video/BV1bByDzsEqz",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "韩国演艺圈悲惨事件，女星五年间被迫进行数百次服务，令人发指！",
-        "content": "韩国演艺圈悲惨事件，女星五年间被迫进行数百次服务，令人发指！",
-        "bvid": "BV15P4y1D7wc",
-        "author": "鱼饼説漫画",
-        "duration": "6:30",
-        "cover": "//i0.hdslb.com/bfs/archive/9054acdba94229bcda53e567b37cee1d79ab1d90.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15P4y1D7wc&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "麻辣烫出海成为韩国顶流"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1bByDzsEqz",
+        "author": "分析学爱好者",
+        "duration": "5:44",
+        "cover": "//i2.hdslb.com/bfs/archive/47050c0aca7f718508cd5063c3f88ff0beda5082.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bByDzsEqz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "陶哲轩再评价AI攻破黎曼猜想"
       },
       {
-        "title": "\"小县城\"靠AI拿到\"大结果\"，它凭什么？",
-        "url": "https://www.bilibili.com/video/BV1fCyJzSEL7",
+        "title": "KPL外战首败！AUR 3-1 济南RW侠 赛后数据雷达图丨2026洲际赛",
+        "url": "https://www.bilibili.com/video/BV1caySz6EDw",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1fCyJzSEL7",
-        "author": "小Lin竖着说",
-        "duration": "7:15",
-        "cover": "//i1.hdslb.com/bfs/archive/e4712aab4e17cb4dcdb0fae83981339ba5633ddf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fCyJzSEL7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "小县城如何靠AI拿到大结果"
+        "bvid": "BV1caySz6EDw",
+        "author": "捕快云缨",
+        "duration": "3:28",
+        "cover": "//i0.hdslb.com/bfs/archive/6ba12f43b120f619fb553008652a6cb15e9cec44.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1caySz6EDw&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "济南RW侠不敌AUR赛后数据"
       },
       {
         "title": "【世界周刊】APEC全球时刻",
@@ -302,26 +302,10 @@
         "hotTitle": "世界周刊APEC全球时刻"
       },
       {
-        "title": "2026.11.22|X-H小豪直播回放【弹幕版】-小豪：已顿悟扉间 学",
-        "url": "https://www.bilibili.com/video/BV1rXy5zuEHv",
-        "desc": "",
-        "rank": 12,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "感谢支持",
-        "content": "感谢支持",
-        "bvid": "BV1rXy5zuEHv",
-        "author": "看海实况",
-        "duration": "260:26",
-        "cover": "//i0.hdslb.com/bfs/archive/e2c179ebd9e772567a2cf3e6253a0435d5c1ea79.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rXy5zuEHv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "火影 永逐塔扉来了"
-      },
-      {
         "title": "手把手教你打印国考准考证！！！保姆级教程直接抄！！",
         "url": "https://www.bilibili.com/video/BV1Y4Wq6XEgy",
         "desc": "",
-        "rank": 13,
+        "rank": 12,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -334,20 +318,36 @@
         "hotTitle": "27国考今起可打印准考证"
       },
       {
-        "title": "盘点《芒果十大名梗》：出处、含义、用法，一次性全扒透！",
-        "url": "https://www.bilibili.com/video/BV1jvypz9EPr",
+        "title": "超凡之爱【格温/蜘蛛侠】真人版",
+        "url": "https://www.bilibili.com/video/BV16esv6PEdW",
+        "desc": "",
+        "rank": 13,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "必须做一下超凡蜘蛛侠，还一下格温遗憾",
+        "content": "必须做一下超凡蜘蛛侠，还一下格温遗憾",
+        "bvid": "BV16esv6PEdW",
+        "author": "Crazy-face",
+        "duration": "1:29",
+        "cover": "//i1.hdslb.com/bfs/archive/085dad047c04778a834ae4e47be40357ef20ba21.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16esv6PEdW&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "超凡之爱蜘蛛侠格温版"
+      },
+      {
+        "title": "黎曼猜想被AI证明后，哥德巴赫猜想或许也快了",
+        "url": "https://www.bilibili.com/video/BV148yHzMESR",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1jvypz9EPr",
-        "author": "low君热剧",
-        "duration": "20:58",
-        "cover": "//i1.hdslb.com/bfs/archive/3f4d13c46a0829e9a7a553d41527a8577e00a8f5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jvypz9EPr&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "芒果台造梗方面有多权威"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV148yHzMESR",
+        "author": "分析学爱好者",
+        "duration": "3:38",
+        "cover": "//i1.hdslb.com/bfs/archive/6bc40546600aed974b996669b4c8b48ffa1eba65.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV148yHzMESR&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "广义黎曼猜想也被证明了"
       },
       {
         "title": "竟然吃得起！人民大会堂吃一顿多少钱？",
@@ -366,58 +366,74 @@
         "hotTitle": "人民大会堂吃一顿多少钱"
       },
       {
-        "title": "超凡之爱【格温/蜘蛛侠】真人版",
-        "url": "https://www.bilibili.com/video/BV16esv6PEdW",
+        "title": "DDR4 DDR5 CPU性能对比｜显卡日报",
+        "url": "https://www.bilibili.com/video/BV1igyJzVEoS",
         "desc": "",
         "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "必须做一下超凡蜘蛛侠，还一下格温遗憾",
-        "content": "必须做一下超凡蜘蛛侠，还一下格温遗憾",
-        "bvid": "BV16esv6PEdW",
-        "author": "Crazy-face",
-        "duration": "1:29",
-        "cover": "//i1.hdslb.com/bfs/archive/085dad047c04778a834ae4e47be40357ef20ba21.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16esv6PEdW&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "超凡之爱蜘蛛侠格温版"
+        "description": "日报有用记得三连哦，你的鼓励真的很重要",
+        "content": "日报有用记得三连哦，你的鼓励真的很重要",
+        "bvid": "BV1igyJzVEoS",
+        "author": "芝士华莱士",
+        "duration": "6:26",
+        "cover": "//i0.hdslb.com/bfs/archive/115df045a193a3c4c6bb9f3450c52680b0b4879b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1igyJzVEoS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "市面主流CPU性能对比"
       },
       {
-        "title": "【AI十项全能】GLM 5.4：或许需要更多思考时间？国模，隐忍，战未来等待5.5中",
-        "url": "https://www.bilibili.com/video/BV1FmyHzdE5V",
+        "title": "盘点《芒果十大名梗》：出处、含义、用法，一次性全扒透！",
+        "url": "https://www.bilibili.com/video/BV1jvypz9EPr",
         "desc": "",
         "rank": 17,
         "kind": "video",
         "platform": "bilibili",
-        "description": "本挑战赛网站：https://octathlon.wendystars.com/decathlon/ 排行总榜，题目类别榜，模型得分详情，题目详情都在网站里，也可以手动调整各题权重对比分数。 完整题面及评分标准：https://github.com/Wendystar0628/AI-All-Round-Bench 喜欢的朋友麻烦帮忙点个star，非常感谢！",
-        "content": "本挑战赛网站：https://octathlon.wendystars.com/decathlon/ 排行总榜，题目类别榜，模型得分详情，题目详情都在网站里，也可以手动调整各题权重对比分数。 完整题面及评分标准：https://github.com/Wendystar0628/AI-All-Round-Bench 喜欢的朋友麻烦帮忙点个star，非常感谢！",
-        "bvid": "BV1FmyHzdE5V",
-        "author": "望月星逸",
-        "duration": "18:59",
-        "cover": "//i1.hdslb.com/bfs/archive/507c9b9ccf6f1253f84c6003164d09378af49641.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FmyHzdE5V&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GLM 5.4十项全能测评"
+        "description": "",
+        "content": "",
+        "bvid": "BV1jvypz9EPr",
+        "author": "low君热剧",
+        "duration": "20:58",
+        "cover": "//i1.hdslb.com/bfs/archive/3f4d13c46a0829e9a7a553d41527a8577e00a8f5.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1jvypz9EPr&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "芒果台造梗方面有多权威"
       },
       {
-        "title": "Claude 证明了黎曼猜想？11分钟讲清它到底证明了什么、还差哪几步",
-        "url": "https://www.bilibili.com/video/BV15aytzcENP",
+        "title": "\"小县城\"靠AI拿到\"大结果\"，它凭什么？",
+        "url": "https://www.bilibili.com/video/BV1fCyJzSEL7",
         "desc": "",
         "rank": 18,
         "kind": "video",
         "platform": "bilibili",
-        "description": "只要在那条窄带里找到一个偏离中线的零点，黎曼猜想就会被推翻。1950 年，图灵用曼彻斯特的一台早期计算机，想找的就是那一个。 2026 年 11 月 20 日，数学家阿尔波格与 Claude 公开了一份 Lean 证明，随后通过了多项独立机器检查。同一天公开的另一份广义黎曼猜想草稿仍在修订。 这部片从一个小问题讲起：数到一百万，素数的估算只差约 130 个。再往远处数，误差能有多大？我们把零点的波一层层叠起来，再跟着图灵的思路数一遍，看看怎样知道这一段一个都没漏，以及一份证明怎样回答「所有」。 旁白",
-        "content": "只要在那条窄带里找到一个偏离中线的零点，黎曼猜想就会被推翻。1950 年，图灵用曼彻斯特的一台早期计算机，想找的就是那一个。 2026 年 11 月 20 日，数学家阿尔波格与 Claude 公开了一份 Lean 证明，随后通过了多项独立机器检查。同一天公开的另一份广义黎曼猜想草稿仍在修订。 这部片从一个小问题讲起：数到一百万，素数的估算只差约 130 个。再往远处数，误差能有多大？我们把零点的波一层层叠起来，再跟着图灵的思路数一遍，看看怎样知道这一段一个都没漏，以及一份证明怎样回答「所有」。 旁白",
-        "bvid": "BV15aytzcENP",
-        "author": "频谱之外",
-        "duration": "11:41",
-        "cover": "//i0.hdslb.com/bfs/archive/d4cd0919b3d365f5443b59c9167c459b84b799ab.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15aytzcENP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "广义黎曼猜想也被证明了"
+        "description": "",
+        "content": "",
+        "bvid": "BV1fCyJzSEL7",
+        "author": "小Lin竖着说",
+        "duration": "7:15",
+        "cover": "//i1.hdslb.com/bfs/archive/e4712aab4e17cb4dcdb0fae83981339ba5633ddf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fCyJzSEL7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "小县城如何靠AI拿到大结果"
+      },
+      {
+        "title": "【11月23日】墨西哥抓获FBI十大通缉犯之一--“矮子伊西德罗”，完整复盘经过；俄护卫舰在利比亚被击沉；印度士兵遭坦克碾压身亡；胡塞这次真发财了",
+        "url": "https://www.bilibili.com/video/BV1eEyHz1ES7",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1eEyHz1ES7",
+        "author": "军情D7处",
+        "duration": "20:38",
+        "cover": "//i2.hdslb.com/bfs/archive/f71c519ead37ee441f6239502526569ba1840e86.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eEyHz1ES7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "墨西哥抓获FBI十大通缉犯之一"
       },
       {
         "title": "战争8个月，伊朗变成了什么样?冒死拍到真实的伊朗！",
         "url": "https://www.bilibili.com/video/BV1chyVzvEpp",
         "desc": "",
-        "rank": 19,
+        "rank": 20,
         "kind": "video",
         "platform": "bilibili",
         "description": "美伊战争期间独自在伊朗旅行，拍到了真实的伊朗人的生活",
@@ -428,22 +444,6 @@
         "cover": "//i1.hdslb.com/bfs/archive/c864e5141903ea4b8789e0f6bb064422950d88bb.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1chyVzvEpp&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "战争中伊朗究竟是什么样子"
-      },
-      {
-        "title": "千夫所指，百炼成王！Bin全英雄高燃操作集锦TOP400！以此视频致敬LPL传奇上单陈泽彬！",
-        "url": "https://www.bilibili.com/video/BV1SwynzqEm6",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1SwynzqEm6",
-        "author": "公瑾Gem",
-        "duration": "155:32",
-        "cover": "//i1.hdslb.com/bfs/archive/8a1e08f1e1fac167c53dfb5c0201b2beb17c93e2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1SwynzqEm6&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Bin高燃操作集锦TOP400"
       },
       {
         "title": "以防你不知道GTA6路人是如何暴富的💰",
@@ -462,58 +462,26 @@
         "hotTitle": "GTA6路人是如何暴富的"
       },
       {
-        "title": "KPL十周年系列故事《我们的时代·黄金时代》",
-        "url": "https://www.bilibili.com/video/BV1wGyjzLEAr",
+        "title": "真相不重要？重看悬崖小屋对谈，谁是受害者，谁是加害者？《后会友期》的叙事诡计",
+        "url": "https://www.bilibili.com/video/BV1omyhz2EZk",
         "desc": "",
         "rank": 22,
         "kind": "video",
         "platform": "bilibili",
-        "description": "KPL十周年系列故事《我们的时代·黄金时代》",
-        "content": "KPL十周年系列故事《我们的时代·黄金时代》",
-        "bvid": "BV1wGyjzLEAr",
-        "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "90:22",
-        "cover": "//i0.hdslb.com/bfs/archive/20c764b3eb15b935900e2856b67d9fe6fe8c730b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wGyjzLEAr&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "KPL十周年系列故事"
-      },
-      {
-        "title": "FBI 10大通缉犯，冬奥选手变大毒枭，牛津法学博士搞诈骗，各种狠人的人生故事和犯罪学分析 | Eric长安万年",
-        "url": "https://www.bilibili.com/video/BV1Vb5KzZEnb",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "今天给大家看看现在FBI的10大通缉犯榜单，各种大神，各种狠人，各种急转直下的人生变化，各种偏远地区的凄惨生活。榜单以外，也跟大家顺便聊聊犯罪和通缉犯的进化史。",
-        "content": "今天给大家看看现在FBI的10大通缉犯榜单，各种大神，各种狠人，各种急转直下的人生变化，各种偏远地区的凄惨生活。榜单以外，也跟大家顺便聊聊犯罪和通缉犯的进化史。",
-        "bvid": "BV1Vb5KzZEnb",
-        "author": "eric长安万年",
-        "duration": "38:32",
-        "cover": "//i1.hdslb.com/bfs/archive/682bc9523b6d49fdc0f3779d560980d72d62a087.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Vb5KzZEnb&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "墨西哥抓获FBI十大通缉犯之一"
-      },
-      {
-        "title": "【蓝色星原入坑指南】第一期：零基础开始的全面介绍：卡池氪金介绍+发展思路+玩法演示+战斗机制，全面了解蓝色星原！",
-        "url": "https://www.bilibili.com/video/BV1x2yEzfERT",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "蓝色星原入坑指南来啦ヽ(°▽°)ノ今天是第一期，零基础开始的全面介绍，系统位各位介绍了星原的全部内容，从卡池到角色到家园再到养成战斗全都有包括，希望各位能给个三连Thanks♪(･ω･)ﾉ 明天后天还会发布： 第二期：四星角色全面介绍 第三期：五星角色全面介绍 加上昨日发布的序篇，共计4期",
-        "content": "蓝色星原入坑指南来啦ヽ(°▽°)ノ今天是第一期，零基础开始的全面介绍，系统位各位介绍了星原的全部内容，从卡池到角色到家园再到养成战斗全都有包括，希望各位能给个三连Thanks♪(･ω･)ﾉ 明天后天还会发布： 第二期：四星角色全面介绍 第三期：五星角色全面介绍 加上昨日发布的序篇，共计4期",
-        "bvid": "BV1x2yEzfERT",
-        "author": "卡特亚",
-        "duration": "28:47",
-        "cover": "//i0.hdslb.com/bfs/archive/1913706ceebe87a14aefe19fbb6a0896f5a53b2d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1x2yEzfERT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "蓝色星原入坑指南"
+        "description": "毁掉我两周的睡眠，我好恨",
+        "content": "毁掉我两周的睡眠，我好恨",
+        "bvid": "BV1omyhz2EZk",
+        "author": "进击的空空",
+        "duration": "21:23",
+        "cover": "//i2.hdslb.com/bfs/archive/06ff0fbc337842becfba6258d06ba2157b2b04ac.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1omyhz2EZk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "悬崖对谈里厉娜许飞谁是受害者"
       },
       {
         "title": "《GTA 6》：完美劫案（没惊动警察，也没触发警报）",
         "url": "https://www.bilibili.com/video/BV1A9y8z9Ehb",
         "desc": "",
-        "rank": 25,
+        "rank": 23,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -526,42 +494,26 @@
         "hotTitle": "挑战在GTA6制造完美劫案"
       },
       {
-        "title": "“给她爱6”既不懂她也不懂爱，但它很懂美国【毒舌的南瓜】",
-        "url": "https://www.bilibili.com/video/BV16jyDzzEhn",
+        "title": "GTA6销售破纪录，为何欧美游戏行业却上演史上最大裁员潮？【侦查冰】",
+        "url": "https://www.bilibili.com/video/BV1ETyJzLEPv",
         "desc": "",
-        "rank": 26,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV16jyDzzEhn",
-        "author": "毒舌的南瓜",
-        "duration": "20:16",
-        "cover": "//i2.hdslb.com/bfs/archive/e7760720003c75026b54b5ce1a48a932fb4d945c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16jyDzzEhn&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "罪恶都市有多少美国真实梗"
-      },
-      {
-        "title": "KPL外战首败！AUR 3-1 济南RW侠 赛后数据雷达图丨2026洲际赛",
-        "url": "https://www.bilibili.com/video/BV1caySz6EDw",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1caySz6EDw",
-        "author": "捕快云缨",
-        "duration": "3:28",
-        "cover": "//i0.hdslb.com/bfs/archive/6ba12f43b120f619fb553008652a6cb15e9cec44.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1caySz6EDw&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "济南RW侠不敌AUR赛后数据"
+        "bvid": "BV1ETyJzLEPv",
+        "author": "芒果冰OL",
+        "duration": "25:8",
+        "cover": "//i1.hdslb.com/bfs/archive/2d0ce41e3515a254913cb980e68ab57306d170f8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ETyJzLEPv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "欧美哪些3A游戏面临危机"
       },
       {
         "title": "“我只是死在了讨厌的生活里”「烂奇迹·章鱼哥」",
         "url": "https://www.bilibili.com/video/BV18mypzyEAV",
         "desc": "",
-        "rank": 28,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "章鱼哥系列持续更新，欢迎关注！ ————————————— 章鱼哥鬼畜系列（持续更新）： 第一部:BV1C13bzeEFq 第二部:BV1TQMTzgED2 第三部:BV1bi421e7v8 第四部:BV1uW4y1y7SU 第五部:BV1tM4m1a7xk 第六部:BV1yr421T76b 第七部:本视频 ————————————— 于是我 来到埋梦的墓地 挖出腐朽的希冀 擦净落灰的竖笛 即使跑调也不停地练习 把油污粘满画笔 拼尽全力描摹奇迹 就算失败是我命 我也要亲手雕刻我自己 ——————————",
@@ -574,35 +526,83 @@
         "hotTitle": "章鱼哥版烂奇迹"
       },
       {
-        "title": "《大学生体测现状》《没人疼就去体测，测完浑身都疼》",
-        "url": "https://www.bilibili.com/video/BV1YryezEEqJ",
+        "title": "【AI十项全能】GLM 5.4：或许需要更多思考时间？国模，隐忍，战未来等待5.5中",
+        "url": "https://www.bilibili.com/video/BV1FmyHzdE5V",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "本挑战赛网站：https://octathlon.wendystars.com/decathlon/ 排行总榜，题目类别榜，模型得分详情，题目详情都在网站里，也可以手动调整各题权重对比分数。 完整题面及评分标准：https://github.com/Wendystar0628/AI-All-Round-Bench 喜欢的朋友麻烦帮忙点个star，非常感谢！",
+        "content": "本挑战赛网站：https://octathlon.wendystars.com/decathlon/ 排行总榜，题目类别榜，模型得分详情，题目详情都在网站里，也可以手动调整各题权重对比分数。 完整题面及评分标准：https://github.com/Wendystar0628/AI-All-Round-Bench 喜欢的朋友麻烦帮忙点个star，非常感谢！",
+        "bvid": "BV1FmyHzdE5V",
+        "author": "望月星逸",
+        "duration": "18:59",
+        "cover": "//i1.hdslb.com/bfs/archive/507c9b9ccf6f1253f84c6003164d09378af49641.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FmyHzdE5V&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GLM 5.4十项全能测评"
+      },
+      {
+        "title": "GTA6性能要求高吗？哪台主机表现好？解锁30帧后能跑多少帧？",
+        "url": "https://www.bilibili.com/video/BV1pDyjzEEsJ",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "GTA6来啦！我们今天要好好测一测，这款今年最期待的游戏大作在四款游戏主机上各自是什么性能、画质如何、结合主机价格聊聊建议，以及预测一下PC版的配置要求。最后甚至会尝试解锁30帧限制，测一测以主机的性能，游戏能跑到的极限是多少帧！一起来看看吧……",
+        "content": "GTA6来啦！我们今天要好好测一测，这款今年最期待的游戏大作在四款游戏主机上各自是什么性能、画质如何、结合主机价格聊聊建议，以及预测一下PC版的配置要求。最后甚至会尝试解锁30帧限制，测一测以主机的性能，游戏能跑到的极限是多少帧！一起来看看吧……",
+        "bvid": "BV1pDyjzEEsJ",
+        "author": "极客湾Geekerwan",
+        "duration": "15:57",
+        "cover": "//i1.hdslb.com/bfs/archive/008f1230a45b94e33a69d0ce11432c9dc131a77c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pDyjzEEsJ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GTA6哪台主机表现好"
+      },
+      {
+        "title": "《蓝溪镇》官宣动画化！",
+        "url": "https://www.bilibili.com/video/BV1KnyVzGEAj",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《蓝溪镇》导演小榕带来动画最新消息。",
+        "content": "《蓝溪镇》导演小榕带来动画最新消息。",
+        "bvid": "BV1KnyVzGEAj",
+        "author": "哔哩哔哩国创",
+        "duration": "0:47",
+        "cover": "//i2.hdslb.com/bfs/archive/0a937f49b152a51a6069dc357e38e29f7e0fcd80.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KnyVzGEAj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "罗小黑蓝溪镇动画化官宣"
+      },
+      {
+        "title": "【TOP评选】英雄联盟历史荣誉top50",
+        "url": "https://www.bilibili.com/video/BV1aby5zREXz",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "关注UP主，观看更多沙雕脑洞纪录片！ 吴彦祖，刘亦菲，你们怎么都来点赞了呀~",
-        "content": "关注UP主，观看更多沙雕脑洞纪录片！ 吴彦祖，刘亦菲，你们怎么都来点赞了呀~",
-        "bvid": "BV1YryezEEqJ",
-        "author": "人类早期纪录片",
-        "duration": "3:49",
-        "cover": "//i2.hdslb.com/bfs/archive/df64aeae58ea420e6a97f6663689986b6c484436.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YryezEEqJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大学生体测现状"
+        "description": "纯属野榜，仅供娱乐 省流版可以直接拉到进度条最后 视频有使用chatgpt辅助制作 数据口径：Leaguepedia 已收录的一级、二级正式赛事，按实际出场小局统计；荣誉统计截至 2026 年 11 月 22 日。早期比赛缺少完整记分板的部分已排除或单独标注。 排名和分值一定带有主观取舍。如果这份五十人和你心里的不一样，欢迎把你的前十留在评论区。建议全屏、戴耳机观看。",
+        "content": "纯属野榜，仅供娱乐 省流版可以直接拉到进度条最后 视频有使用chatgpt辅助制作 数据口径：Leaguepedia 已收录的一级、二级正式赛事，按实际出场小局统计；荣誉统计截至 2026 年 11 月 22 日。早期比赛缺少完整记分板的部分已排除或单独标注。 排名和分值一定带有主观取舍。如果这份五十人和你心里的不一样，欢迎把你的前十留在评论区。建议全屏、戴耳机观看。",
+        "bvid": "BV1aby5zREXz",
+        "author": "白丝の甜妻",
+        "duration": "17:51",
+        "cover": "//i1.hdslb.com/bfs/archive/f8ee218fea0bf3d112992db4755eb3d03cd8d344.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aby5zREXz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "英雄联盟历史荣誉TOP50都有谁"
       },
       {
-        "title": "秦牧偶遇大雷音宗上代侞莱!",
-        "url": "https://www.bilibili.com/video/BV1b8yGzjEMo",
+        "title": "秦牧教主身份被发现了啊",
+        "url": "https://www.bilibili.com/video/BV1Apy3zAEJW",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1b8yGzjEMo",
-        "author": "一颗新云星",
-        "duration": "2:24",
-        "cover": "//i1.hdslb.com/bfs/archive/223f954c091b53c92b6ca33da01775dcf617b914.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1b8yGzjEMo&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1Apy3zAEJW",
+        "author": "小星漫馆",
+        "duration": "4:22",
+        "cover": "//i2.hdslb.com/bfs/archive/1dd966b04aaba58a762867dd6ce7552731e2c7ed.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Apy3zAEJW&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "秦牧灵兵初露锋芒"
       }
     ],
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795443967586,
-    "bilibili": 1795442655735,
-    "qbitai": 1795443997050,
-    "36kr": 1795443997462
+    "thepaper": 1795444865218,
+    "bilibili": 1795444874565,
+    "qbitai": 1795444897669,
+    "36kr": 1795444898136
   },
   "failures": {}
 }
