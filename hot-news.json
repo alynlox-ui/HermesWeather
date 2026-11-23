@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:41:33Z",
+  "updatedAt": "2026-11-23T07:56:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+        "url": "https://www.qbitai.com/2026/11/512017.html",
+        "desc": "阿福大升级：让模型像医生一样思考",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/截屏2026-11-23-11.00.40-e1795420005968.png",
+        "date": "2026-11-23T15:42:01",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
         "url": "https://www.qbitai.com/2026/11/512004.html",
         "desc": "一个完全由AI组成的科学家社会，是什么样？",
@@ -615,7 +625,7 @@
         "date": "2026-11-23T14:59:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
@@ -625,7 +635,7 @@
         "date": "2026-11-23T11:56:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
@@ -635,7 +645,7 @@
         "date": "2026-11-23T11:47:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
@@ -645,7 +655,7 @@
         "date": "2026-11-23T11:13:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
@@ -655,7 +665,7 @@
         "date": "2026-11-23T10:29:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
@@ -665,7 +675,7 @@
         "date": "2026-11-23T10:09:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
@@ -675,7 +685,7 @@
         "date": "2026-11-22T14:21:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
@@ -685,7 +695,7 @@
         "date": "2026-11-22T14:03:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
@@ -695,7 +705,7 @@
         "date": "2026-11-21T22:14:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "中国计算，走出新的登峰之路",
@@ -705,7 +715,7 @@
         "date": "2026-11-21T22:09:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
@@ -715,7 +725,7 @@
         "date": "2026-11-21T19:40:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
@@ -725,7 +735,7 @@
         "date": "2026-11-21T19:34:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
@@ -735,7 +745,7 @@
         "date": "2026-11-21T19:24:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
@@ -745,7 +755,7 @@
         "date": "2026-11-21T14:35:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
@@ -755,7 +765,7 @@
         "date": "2026-11-21T14:32:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
@@ -765,7 +775,7 @@
         "date": "2026-11-21T14:30:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "米哈游发了个VLA论文",
@@ -775,7 +785,7 @@
         "date": "2026-11-21T00:25:26",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
@@ -785,7 +795,7 @@
         "date": "2026-11-21T00:07:39",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
@@ -795,7 +805,7 @@
         "date": "2026-11-20T20:18:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
@@ -805,7 +815,7 @@
         "date": "2026-11-20T16:59:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
@@ -815,7 +825,7 @@
         "date": "2026-11-20T16:04:58",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
@@ -825,7 +835,7 @@
         "date": "2026-11-20T14:16:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
@@ -835,7 +845,7 @@
         "date": "2026-11-20T13:24:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
@@ -845,7 +855,7 @@
         "date": "2026-11-20T09:07:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
@@ -855,7 +865,7 @@
         "date": "2026-11-19T16:43:10",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
@@ -865,7 +875,7 @@
         "date": "2026-11-19T16:18:30",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
@@ -875,7 +885,7 @@
         "date": "2026-11-19T16:10:19",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
@@ -885,7 +895,7 @@
         "date": "2026-11-19T15:01:05",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
@@ -893,16 +903,6 @@
         "desc": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/图虫创意-2492231000593137705-1-e1795063876192.jpeg",
         "date": "2026-11-19T12:51:31",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-        "url": "https://www.qbitai.com/2026/11/511079.html",
-        "desc": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/824a37f4c161eefaa010a852a15dc19f.jpeg",
-        "date": "2026-11-19T12:02:39",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -940,6 +940,26 @@
         "rank": 3
       },
       {
+        "title": "奥特维：实控人提议1亿元—1.2亿元回购公司股份",
+        "url": "https://m.36kr.com/newsflashes/4082045715403648",
+        "desc": "36氪获悉，奥特维公告，公司实际控制人、董事长、总经理葛志勇与实际控制人、董事、副总经理李文提议1亿元—1.2亿元回购公司股份，用于维护公司价值及股东权益、员工持股计划或股权激励。",
+        "cover": "",
+        "date": 1795420298059,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "特变电工集团更名为中丝路能源装备集团",
+        "url": "https://m.36kr.com/newsflashes/4082037526254468",
+        "desc": "36氪获悉，天眼查App显示，近日，新疆特变电工集团有限公司发生工商变更，企业名称变更为中丝路能源装备集团有限公司。该公司成立于2003年1月，法定代表人为胡述军，注册资本7500万元人民币，经营范围包括输配电及控制设备制造、机械电气设备制造、机械电气设备销售等。股东信息显示，该公司由张新、新疆兴则企业管理有限合伙企业、天津宏远创新企业管理有限公司等共同持股。",
+        "cover": "",
+        "date": 1795419798233,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "智谱GLM-5.4上线",
         "url": "https://m.36kr.com/newsflashes/4082029922636930",
         "desc": "智谱GLM-5.4于今日中午上线Coding Plan订阅体系，官方尚未正式发布。另据智谱官方社群消息，GLM-5.4采用Loop Transformer架构，是国内首款基于该架构的旗舰模型。内测用户反馈其综合表现优于3万亿级别参数的Kimi K3.1 Pro，官方跑分暂未公布。据了解，智谱管理层预计四季度推出约3万亿参数的旗舰模型，市场普遍预期是GLM-5.5于12月接力发布。（澎湃）",
@@ -947,7 +967,7 @@
         "date": 1795419334145,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "东方港湾风控被质疑，但斌回应",
@@ -957,7 +977,7 @@
         "date": 1795419071683,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "博枫宣布收购黑石旗下PGP Glass，预计2027年第一季度完成交易",
@@ -967,7 +987,7 @@
         "date": 1795418812936,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "上周111家公募机构调研超410次",
@@ -977,7 +997,7 @@
         "date": 1795418147779,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "A股三大指数集体收涨，机器人概念股走强",
@@ -987,7 +1007,7 @@
         "date": 1795417311838,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "江苏徐工交融工程机械产业基金登记成立，出资额15亿",
@@ -997,7 +1017,7 @@
         "date": 1795416443683,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "康菲石油拟以44.25亿美元出售挪威业务及英国蒂赛德油码头权益",
@@ -1007,7 +1027,7 @@
         "date": 1795416004155,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "必和必拓计划2040年前将南澳铜产量翻倍至65万吨",
@@ -1017,7 +1037,7 @@
         "date": 1795415795128,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "华为哈勃入股陶智万象科技公司",
@@ -1027,7 +1047,7 @@
         "date": 1795415328580,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "马斯克称车用AI4芯片成本翻番，下一代AI5芯片不会应用于特斯拉车辆",
@@ -1037,7 +1057,7 @@
         "date": 1795415202233,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "精测电子在武汉成立显芯产业投资公司，注册资本5000万",
@@ -1047,7 +1067,7 @@
         "date": 1795414716684,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "阿里云旗下公司入股艾捷科芯",
@@ -1057,7 +1077,7 @@
         "date": 1795414373165,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "东方雨虹在北京成立华砂石晶装饰科技公司，注册资本300万",
@@ -1067,7 +1087,7 @@
         "date": 1795414275324,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "ABB拟以26.5亿美元企业价值收购德国风机制造商Ziehl-Abegg",
@@ -1077,7 +1097,7 @@
         "date": 1795414065801,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "中器无量打通低延时QPU-GPU数据通道",
@@ -1087,7 +1107,7 @@
         "date": 1795413643169,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "七匹狼集团等在厦门成立新投资合伙企业，出资额5101万",
@@ -1097,7 +1117,7 @@
         "date": 1795413484551,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "人形机器人板块冲高，宇树科技20cm涨停",
@@ -1107,7 +1127,7 @@
         "date": 1795413066280,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
+        "rank": 22
       },
       {
         "title": "兴发集团、万华化学在湖北成立新矿业公司，注册资本40亿",
@@ -1117,35 +1137,15 @@
         "date": 1795412982357,
         "platform": "36kr",
         "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "A股三大指数悉数翻红，创业板指涨超3%",
-        "url": "https://m.36kr.com/newsflashes/4081921990513796",
-        "desc": "36氪获悉，A股三大指数悉数翻红，创业板指涨超3%，AI漫剧、机器人、CPO领涨，全市场超4500股上涨。",
-        "cover": "",
-        "date": 1795412746491,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "日本电价持续走高，受寒冷天气预期影响触及四年新高",
-        "url": "https://m.36kr.com/newsflashes/4081918598321287",
-        "desc": "受日本部分地区预计迎来降雪降温天气、高价天然气消耗或将增加的影响，日本现货电价攀升至四年多以来高点。日本电力交易所数据显示，周一全国次日电价较上周上涨6%，达到每千瓦时37.5日元（折合24美分），为2022年8月以来最高，本轮上涨主要由中部和北海道地区拉动。寒潮来袭之际，霍尔木兹海峡航运受阻，液化天然气与煤炭价格维持在近年高位。同时欧洲寒潮预警，或将加剧全球对富余液化天然气资源的争夺，LNG多用于冬季供暖。天然气需求上升可能迫使日本加大液化天然气采购量，目前日本LNG采购规模不及去年同期。彭博船舶追踪数据显示，日本LNG到港量30日移动均值较2025年同期下滑约10%。（新浪财经）",
-        "cover": "",
-        "date": 1795412539448,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795419673221,
+    "thepaper": 1795420575978,
     "bilibili": 1795418874543,
-    "qbitai": 1795419693026,
-    "36kr": 1795419693454
+    "qbitai": 1795420594509,
+    "36kr": 1795420594907
   },
   "failures": {}
 }
