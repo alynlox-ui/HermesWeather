@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T13:11:31Z",
+  "updatedAt": "2026-11-23T13:26:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -158,19 +158,19 @@
         "hotTitle": "陶哲轩再评价AI攻破黎曼猜想"
       },
       {
-        "title": "国内不转播！2026 全球总决赛 决赛开幕式！KDA女团热舞开场！BLG vs GEN",
-        "url": "https://www.bilibili.com/video/BV16zs56uEHc",
+        "title": "【完整版】英雄联盟史上播放最高的比赛",
+        "url": "https://www.bilibili.com/video/BV1cqySzTELm",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV16zs56uEHc",
-        "author": "最新联盟",
-        "duration": "13:0",
-        "cover": "//i2.hdslb.com/bfs/archive/faad1fbb5cc20300e3a723b402fd1dd2cf04ccbf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16zs56uEHc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "英雄联盟史上播放最高的比赛",
+        "content": "英雄联盟史上播放最高的比赛",
+        "bvid": "BV1cqySzTELm",
+        "author": "风泽州",
+        "duration": "8:24",
+        "cover": "//i2.hdslb.com/bfs/archive/c1735dc9f9c59ca5d7183288a1efb5d3e99df67e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cqySzTELm&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "英雄联盟史上播放最高的比赛"
       },
       {
@@ -222,19 +222,19 @@
         "hotTitle": "陈怀安公考数资考前划重点"
       },
       {
-        "title": "波切蒂诺曼联首秀在安菲尔德遭遇开门黑。",
-        "url": "https://www.bilibili.com/video/BV1sUyDzmEH9",
+        "title": "波切蒂诺不血洗更衣室，曼联没希望",
+        "url": "https://www.bilibili.com/video/BV11ZynzFEuF",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1sUyDzmEH9",
-        "author": "绿茵留白",
-        "duration": "0:43",
-        "cover": "//i1.hdslb.com/bfs/archive/d490ae87df1577edda8b5cd08899c3b1120312c3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1sUyDzmEH9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV11ZynzFEuF",
+        "author": "一个香蕉说球",
+        "duration": "4:20",
+        "cover": "//i2.hdslb.com/bfs/archive/825abdeec4a9e79845ef8e77d15b806bd386df82.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11ZynzFEuF&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "波切蒂诺开门黑"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795439464105,
-    "bilibili": 1795439466537,
-    "qbitai": 1795439490977,
-    "36kr": 1795439491453
+    "thepaper": 1795440364256,
+    "bilibili": 1795439048284,
+    "qbitai": 1795440394131,
+    "36kr": 1795440394514
   },
   "failures": {}
 }
