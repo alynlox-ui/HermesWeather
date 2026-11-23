@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T13:41:36Z",
+  "updatedAt": "2026-11-23T13:56:44Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -158,19 +158,19 @@
         "hotTitle": "陶哲轩再评价AI攻破黎曼猜想"
       },
       {
-        "title": "国内不转播！2026 全球总决赛 决赛开幕式！KDA女团热舞开场！BLG vs GEN",
-        "url": "https://www.bilibili.com/video/BV16zs56uEHc",
+        "title": "【完整版】英雄联盟史上播放最高的比赛",
+        "url": "https://www.bilibili.com/video/BV1cqySzTELm",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV16zs56uEHc",
-        "author": "最新联盟",
-        "duration": "13:0",
-        "cover": "//i2.hdslb.com/bfs/archive/faad1fbb5cc20300e3a723b402fd1dd2cf04ccbf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16zs56uEHc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "英雄联盟史上播放最高的比赛",
+        "content": "英雄联盟史上播放最高的比赛",
+        "bvid": "BV1cqySzTELm",
+        "author": "风泽州",
+        "duration": "8:24",
+        "cover": "//i2.hdslb.com/bfs/archive/c1735dc9f9c59ca5d7183288a1efb5d3e99df67e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1cqySzTELm&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "英雄联盟史上播放最高的比赛"
       },
       {
@@ -302,19 +302,19 @@
         "hotTitle": "世界周刊APEC全球时刻"
       },
       {
-        "title": "2026.11.22|X-H小豪直播回放【弹幕版】-小豪：已顿悟扉间 学",
-        "url": "https://www.bilibili.com/video/BV1rXy5zuEHv",
+        "title": "【永逐塔扉全套将近8600多点券】 雷霆真•永逐塔扉联动！招募忍者送入场动画！",
+        "url": "https://www.bilibili.com/video/BV1FpsB6uEfq",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "感谢支持",
-        "content": "感谢支持",
-        "bvid": "BV1rXy5zuEHv",
-        "author": "看海实况",
-        "duration": "260:26",
-        "cover": "//i0.hdslb.com/bfs/archive/e2c179ebd9e772567a2cf3e6253a0435d5c1ea79.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rXy5zuEHv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1FpsB6uEfq",
+        "author": "火影忍者萝卜",
+        "duration": "1:9",
+        "cover": "//i1.hdslb.com/bfs/archive/5e67de9d2e86ff89918170ab710b2c70b2fd926a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FpsB6uEfq&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "火影 永逐塔扉来了"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795441264079,
-    "bilibili": 1795441273148,
-    "qbitai": 1795441296146,
-    "36kr": 1795441296525
+    "thepaper": 1795442163417,
+    "bilibili": 1795440853173,
+    "qbitai": 1795442203884,
+    "36kr": 1795442204341
   },
   "failures": {}
 }
