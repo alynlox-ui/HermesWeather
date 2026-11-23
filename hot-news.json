@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T14:41:38Z",
+  "updatedAt": "2026-11-23T14:56:39Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,19 +126,19 @@
     ],
     "bilibili": [
       {
-        "title": "英伟达董事会恢复黄仁勋总裁、首席执行官及董事职务",
-        "url": "https://www.bilibili.com/video/BV1vvyXzNEVu",
+        "title": "英伟达董事会恢复黄仁勋CEO职务",
+        "url": "https://www.bilibili.com/video/BV1GryXzwEN4",
         "desc": "",
         "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1vvyXzNEVu",
-        "author": "央视新闻",
-        "duration": "0:7",
-        "cover": "//i1.hdslb.com/bfs/archive/20f5b279478a3922dd417a8e486595270e3daf8e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vvyXzNEVu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1GryXzwEN4",
+        "author": "环球网",
+        "duration": "0:8",
+        "cover": "//i0.hdslb.com/bfs/archive/61dfcf808d681bf3a27518eaebb59f052f9a038b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GryXzwEN4&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "英伟达恢复黄仁勋CEO职务"
       },
       {
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795444865218,
-    "bilibili": 1795444874565,
-    "qbitai": 1795444897669,
-    "36kr": 1795444898136
+    "thepaper": 1795445765872,
+    "bilibili": 1795444458045,
+    "qbitai": 1795445798676,
+    "36kr": 1795445799076
   },
   "failures": {}
 }
