@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T10:26:34Z",
+  "updatedAt": "2026-11-23T10:41:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -58,26 +58,26 @@
         "rank": 9
       },
       {
-        "title": "行贿犯罪嫌疑人刘贤志被遣返回国",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34534738",
-        "desc": "",
-        "rank": 10
-      },
-      {
         "title": "央视曝光南迁候鸟遭围猎，广西金秀开展专项整治抓获涉案人员12人",
         "url": "https://www.thepaper.cn/newsDetail_forward_34535841",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "口述｜《我不是药神》原型陆勇的停药倒计时",
         "url": "https://www.thepaper.cn/newsDetail_forward_34527745",
         "desc": "",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "某部委机关干部被境外势力“俘获”，窃取我国百余份情报被判死刑",
         "url": "https://www.thepaper.cn/newsDetail_forward_34537269",
+        "desc": "",
+        "rank": 12
+      },
+      {
+        "title": "广西、贵州多地查处非法捕鸟、食鸟问题，广西八地林长被集中约谈",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34538317",
         "desc": "",
         "rank": 13
       },
@@ -126,10 +126,26 @@
     ],
     "bilibili": [
       {
+        "title": "大家好，我是狂哥yekindar，我今天正式入驻B站啦！爱你们❤️",
+        "url": "https://www.bilibili.com/video/BV1VbyxzsEFZ",
+        "desc": "",
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "THIS is my first VIDEO on my Bilibili official account . I want to thanks everyone who made it possible and i will do my best to improve my Chinese ( Mandarin) in the future. Let's GO to prep's on the Singapore Major. 记得 一键三连 ！",
+        "content": "THIS is my first VIDEO on my Bilibili official account . I want to thanks everyone who made it possible and i will do my best to improve my Chinese ( Mandarin) in the future. Let's GO to prep's on the Singapore Major. 记得 一键三连 ！",
+        "bvid": "BV1VbyxzsEFZ",
+        "author": "Yek1ndarCS2",
+        "duration": "0:56",
+        "cover": "//i2.hdslb.com/bfs/archive/125ff1aacc57bb5e2542a8c8be38058c47d6b2f4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1VbyxzsEFZ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "狂哥Yekindar来B站秀中文"
+      },
+      {
         "title": "黎曼猜想被AI证明后，哥德巴赫猜想或许也快了",
         "url": "https://www.bilibili.com/video/BV148yHzMESR",
         "desc": "",
-        "rank": 1,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -142,36 +158,20 @@
         "hotTitle": "广义黎曼猜想也被证明了"
       },
       {
-        "title": "天文学家首次完整追踪恒星“吞噬”伴星过程",
-        "url": "https://www.bilibili.com/video/BV1CDyDzjEBa",
-        "desc": "",
-        "rank": 2,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "新华社赫尔辛基11月22日电（记者朱昊晨 徐谦）一颗位于仙女座星系边缘、距离地球约250万光年的红巨星，在历经数年的演化后，最终“吞噬”了围绕其运行的一颗较小伴星。一个国际天文学研究团队首次完整追踪了这一恒星并合事件的演化过程。相关研究论文近日发表在英国《自然》杂志上。 根据参与该研究的芬兰图尔库大学及美国航空航天局发布的新闻公报，研究团队关注的双星系统由一颗昵称为“大宝”的年老红巨星和一颗昵称为“小宝”的较小伴星组成。两星并合前，“大宝”质量约为太阳的7倍，半径已膨胀至太阳的350倍，亮度约为太阳的1",
-        "content": "新华社赫尔辛基11月22日电（记者朱昊晨 徐谦）一颗位于仙女座星系边缘、距离地球约250万光年的红巨星，在历经数年的演化后，最终“吞噬”了围绕其运行的一颗较小伴星。一个国际天文学研究团队首次完整追踪了这一恒星并合事件的演化过程。相关研究论文近日发表在英国《自然》杂志上。 根据参与该研究的芬兰图尔库大学及美国航空航天局发布的新闻公报，研究团队关注的双星系统由一颗昵称为“大宝”的年老红巨星和一颗昵称为“小宝”的较小伴星组成。两星并合前，“大宝”质量约为太阳的7倍，半径已膨胀至太阳的350倍，亮度约为太阳的1",
-        "bvid": "BV1CDyDzjEBa",
-        "author": "新华社",
-        "duration": "0:48",
-        "cover": "//i1.hdslb.com/bfs/archive/5689c8d816f130dafb0db53b41ff9468ee10dfc5.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CDyDzjEBa&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "天文学家首次完整追踪恒星吞噬过程"
-      },
-      {
-        "title": "AI证明黎曼猜想，数学界为何四分五裂？",
-        "url": "https://www.bilibili.com/video/BV15FypzmEtX",
+        "title": "【AI十项全能】GLM 5.4：或许需要更多思考时间？国模，隐忍，战未来等待5.5中",
+        "url": "https://www.bilibili.com/video/BV1FmyHzdE5V",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV15FypzmEtX",
-        "author": "钰子一",
-        "duration": "3:33",
-        "cover": "//i1.hdslb.com/bfs/archive/7b75cd999494c5154dd85f910dd69e21e97e5e0f.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15FypzmEtX&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "学界是否认可黎曼猜想被证明"
+        "description": "本挑战赛网站：https://octathlon.wendystars.com/decathlon/ 排行总榜，题目类别榜，模型得分详情，题目详情都在网站里，也可以手动调整各题权重对比分数。 完整题面及评分标准：https://github.com/Wendystar0628/AI-All-Round-Bench 喜欢的朋友麻烦帮忙点个star，非常感谢！",
+        "content": "本挑战赛网站：https://octathlon.wendystars.com/decathlon/ 排行总榜，题目类别榜，模型得分详情，题目详情都在网站里，也可以手动调整各题权重对比分数。 完整题面及评分标准：https://github.com/Wendystar0628/AI-All-Round-Bench 喜欢的朋友麻烦帮忙点个star，非常感谢！",
+        "bvid": "BV1FmyHzdE5V",
+        "author": "望月星逸",
+        "duration": "18:59",
+        "cover": "//i1.hdslb.com/bfs/archive/507c9b9ccf6f1253f84c6003164d09378af49641.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FmyHzdE5V&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GLM 5.4十项全能测评"
       },
       {
         "title": "千夫所指，百炼成王！Bin全英雄高燃操作集锦TOP400！以此视频致敬LPL传奇上单陈泽彬！",
@@ -190,26 +190,58 @@
         "hotTitle": "Bin高燃操作集锦TOP400"
       },
       {
-        "title": "AI证明黎曼猜想之后，请多关爱数学系的学生！",
-        "url": "https://www.bilibili.com/video/BV1mgynzwE1m",
+        "title": "\"小县城\"靠AI拿到\"大结果\"，它凭什么？",
+        "url": "https://www.bilibili.com/video/BV1fCyJzSEL7",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1mgynzwE1m",
-        "author": "钰子一",
-        "duration": "8:50",
-        "cover": "//i2.hdslb.com/bfs/archive/43cd8bd91d850acd62e0f0764a439f89aa1dd4e3.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mgynzwE1m&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如何理解数学系学生的处境"
+        "bvid": "BV1fCyJzSEL7",
+        "author": "小Lin竖着说",
+        "duration": "7:15",
+        "cover": "//i1.hdslb.com/bfs/archive/e4712aab4e17cb4dcdb0fae83981339ba5633ddf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fCyJzSEL7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "小县城如何靠AI拿到大结果"
+      },
+      {
+        "title": "监狱常客成状元？考试现场变死亡证据，是幕后灭口还是另有隐情！",
+        "url": "https://www.bilibili.com/video/BV1xUyDzmEbz",
+        "desc": "",
+        "rank": 6,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1xUyDzmEbz",
+        "author": "是都酱呀",
+        "duration": "17:12",
+        "cover": "//i0.hdslb.com/bfs/archive/7c61f4950674557560fd624f2c1c459a3fb2fd6e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1xUyDzmEbz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "诈骗犯为何能成韩国高考状元"
+      },
+      {
+        "title": "【高战士】文王对话补录？火锅疑云？黄焖鸡事件新线索？马天宇饭桌怒怼文吉儿？【一周“友”学课件大赏】",
+        "url": "https://www.bilibili.com/video/BV1CdynzhEdq",
+        "desc": "",
+        "rank": 7,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1CdynzhEdq",
+        "author": "高战士",
+        "duration": "6:3",
+        "cover": "//i1.hdslb.com/bfs/archive/7cf50e3c7686f55d51d65332cdcea695f555d995.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CdynzhEdq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "后会友期一周新课件大赏"
       },
       {
         "title": "比赛最后时刻要素拉满，塔图姆绝杀不中，勇士险胜凯尔特人",
         "url": "https://www.bilibili.com/video/BV1G7yJzBEU9",
         "desc": "",
-        "rank": 6,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -222,10 +254,26 @@
         "hotTitle": "勇士险胜凯尔特人"
       },
       {
+        "title": "AI证明黎曼猜想，数学界为何四分五裂？",
+        "url": "https://www.bilibili.com/video/BV15FypzmEtX",
+        "desc": "",
+        "rank": 9,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV15FypzmEtX",
+        "author": "钰子一",
+        "duration": "3:33",
+        "cover": "//i1.hdslb.com/bfs/archive/7b75cd999494c5154dd85f910dd69e21e97e5e0f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15FypzmEtX&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "学界是否认可黎曼猜想被证明"
+      },
+      {
         "title": "韩国高考题出现中国史，全韩国正确率只有7.4%，这条中国史考翻了一大群人。",
         "url": "https://www.bilibili.com/video/BV1tYyGz5Exo",
         "desc": "",
-        "rank": 7,
+        "rank": 10,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -236,54 +284,6 @@
         "cover": "//i1.hdslb.com/bfs/archive/d8370232a9fdc51fd3670f6d659ce45ae1c2be48.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tYyGz5Exo&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "韩国高考中国史题正确率不足一成"
-      },
-      {
-        "title": "强队如云！这次三角洲烽火世界杯都有哪些狠角色",
-        "url": "https://www.bilibili.com/video/BV1S8yGzjEKc",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "2026三角洲烽火世界杯",
-        "content": "2026三角洲烽火世界杯",
-        "bvid": "BV1S8yGzjEKc",
-        "author": "国电武术馆馆长",
-        "duration": "5:48",
-        "cover": "//i0.hdslb.com/bfs/archive/ef3c3901b7ed522377c4d6747ac49a69e2bfff42.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1S8yGzjEKc&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "三角洲烽火世界杯都有哪些强队"
-      },
-      {
-        "title": "鲁豫对话蔡琴：不要抱歉，不要告别，我们的一生已经满溢 | 陈鲁豫·慢谈EP29【视频播客】",
-        "url": "https://www.bilibili.com/video/BV1XDsv6HEbJ",
-        "desc": "",
-        "rank": 9,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "她是穿越岁月的丝绒歌后，从《恰似你的温柔》开启演唱生涯，用近半个世纪的时间，陪伴了四代听众；她也是跨界多元的全能艺术家，曾入围金像奖最佳女配角、金钟奖最佳广播、电视综艺节目主持人奖。 今年10月她宣布，2027年12月31日之后，自己将不再在舞台上唱歌。而在此之前，她想要好好说再见。 本期《陈鲁豫·慢谈》，鲁豫对话蔡琴，她们聊48年歌声里的高峰与低谷，聊被误解23年的传闻往事，也聊一个人如何回望过去、面对告别。",
-        "content": "她是穿越岁月的丝绒歌后，从《恰似你的温柔》开启演唱生涯，用近半个世纪的时间，陪伴了四代听众；她也是跨界多元的全能艺术家，曾入围金像奖最佳女配角、金钟奖最佳广播、电视综艺节目主持人奖。 今年10月她宣布，2027年12月31日之后，自己将不再在舞台上唱歌。而在此之前，她想要好好说再见。 本期《陈鲁豫·慢谈》，鲁豫对话蔡琴，她们聊48年歌声里的高峰与低谷，聊被误解23年的传闻往事，也聊一个人如何回望过去、面对告别。",
-        "bvid": "BV1XDsv6HEbJ",
-        "author": "陈鲁豫-慢谈",
-        "duration": "126:16",
-        "cover": "//i2.hdslb.com/bfs/archive/1646fcf23da7f4cab8cace56bd696f755e8c1f36.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XDsv6HEbJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "蔡琴和鲁豫聊告别演出"
-      },
-      {
-        "title": "战争8个月，伊朗变成了什么样?冒死拍到真实的伊朗！",
-        "url": "https://www.bilibili.com/video/BV1chyVzvEpp",
-        "desc": "",
-        "rank": 10,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "美伊战争期间独自在伊朗旅行，拍到了真实的伊朗人的生活",
-        "content": "美伊战争期间独自在伊朗旅行，拍到了真实的伊朗人的生活",
-        "bvid": "BV1chyVzvEpp",
-        "author": "建国JianGuo_",
-        "duration": "17:37",
-        "cover": "//i1.hdslb.com/bfs/archive/c864e5141903ea4b8789e0f6bb064422950d88bb.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1chyVzvEpp&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "战争中伊朗究竟是什么样子"
       },
       {
         "title": "【世界周刊】APEC全球时刻",
@@ -318,74 +318,10 @@
         "hotTitle": "27国考今起可打印准考证"
       },
       {
-        "title": "【蓝色星原入坑指南】第一期：零基础开始的全面介绍：卡池氪金介绍+发展思路+玩法演示+战斗机制，全面了解蓝色星原！",
-        "url": "https://www.bilibili.com/video/BV1x2yEzfERT",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "蓝色星原入坑指南来啦ヽ(°▽°)ノ今天是第一期，零基础开始的全面介绍，系统位各位介绍了星原的全部内容，从卡池到角色到家园再到养成战斗全都有包括，希望各位能给个三连Thanks♪(･ω･)ﾉ 明天后天还会发布： 第二期：四星角色全面介绍 第三期：五星角色全面介绍 加上昨日发布的序篇，共计4期",
-        "content": "蓝色星原入坑指南来啦ヽ(°▽°)ノ今天是第一期，零基础开始的全面介绍，系统位各位介绍了星原的全部内容，从卡池到角色到家园再到养成战斗全都有包括，希望各位能给个三连Thanks♪(･ω･)ﾉ 明天后天还会发布： 第二期：四星角色全面介绍 第三期：五星角色全面介绍 加上昨日发布的序篇，共计4期",
-        "bvid": "BV1x2yEzfERT",
-        "author": "卡特亚",
-        "duration": "28:47",
-        "cover": "//i0.hdslb.com/bfs/archive/1913706ceebe87a14aefe19fbb6a0896f5a53b2d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1x2yEzfERT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "蓝色星原入坑指南"
-      },
-      {
-        "title": "两亿把对抗路告诉你 对抗路已进入大混分时代！2.0",
-        "url": "https://www.bilibili.com/video/BV1i6yVz4EGm",
-        "desc": "",
-        "rank": 14,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1i6yVz4EGm",
-        "author": "月新不多",
-        "duration": "14:4",
-        "cover": "//i0.hdslb.com/bfs/archive/49457e9c91192c4c0b0d45c492b22b61a479b2ea.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1i6yVz4EGm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "王者对抗路进入混分时代了吗"
-      },
-      {
-        "title": "DDR4 DDR5 CPU性能对比｜显卡日报",
-        "url": "https://www.bilibili.com/video/BV1igyJzVEoS",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "日报有用记得三连哦，你的鼓励真的很重要",
-        "content": "日报有用记得三连哦，你的鼓励真的很重要",
-        "bvid": "BV1igyJzVEoS",
-        "author": "芝士华莱士",
-        "duration": "6:26",
-        "cover": "//i0.hdslb.com/bfs/archive/115df045a193a3c4c6bb9f3450c52680b0b4879b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1igyJzVEoS&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "市面主流CPU性能对比"
-      },
-      {
-        "title": "十分钟搞懂黎曼猜想，证明之后意味着什么？",
-        "url": "https://www.bilibili.com/video/BV1Z3yvzoE95",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "希望能帮助大家！",
-        "content": "希望能帮助大家！",
-        "bvid": "BV1Z3yvzoE95",
-        "author": "觀元-",
-        "duration": "9:7",
-        "cover": "//i0.hdslb.com/bfs/archive/9621efdcc2b9a5258c656856b8db24b761a41d56.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z3yvzoE95&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "黎曼猜想究竟是什么"
-      },
-      {
         "title": "竟然吃得起！人民大会堂吃一顿多少钱？",
         "url": "https://www.bilibili.com/video/BV1XFyazBEvL",
         "desc": "",
-        "rank": 17,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -401,7 +337,7 @@
         "title": "超凡之爱【格温/蜘蛛侠】真人版",
         "url": "https://www.bilibili.com/video/BV16esv6PEdW",
         "desc": "",
-        "rank": 18,
+        "rank": 14,
         "kind": "video",
         "platform": "bilibili",
         "description": "必须做一下超凡蜘蛛侠，还一下格温遗憾",
@@ -417,7 +353,7 @@
         "title": "盘点《芒果十大名梗》：出处、含义、用法，一次性全扒透！",
         "url": "https://www.bilibili.com/video/BV1jvypz9EPr",
         "desc": "",
-        "rank": 19,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -430,42 +366,26 @@
         "hotTitle": "芒果台造梗方面有多权威"
       },
       {
-        "title": "Claude 证明了黎曼猜想？11分钟讲清它到底证明了什么、还差哪几步",
-        "url": "https://www.bilibili.com/video/BV15aytzcENP",
+        "title": "DDR4 DDR5 CPU性能对比｜显卡日报",
+        "url": "https://www.bilibili.com/video/BV1igyJzVEoS",
         "desc": "",
-        "rank": 20,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "只要在那条窄带里找到一个偏离中线的零点，黎曼猜想就会被推翻。1950 年，图灵用曼彻斯特的一台早期计算机，想找的就是那一个。 2026 年 11 月 20 日，数学家阿尔波格与 Claude 公开了一份 Lean 证明，随后通过了多项独立机器检查。同一天公开的另一份广义黎曼猜想草稿仍在修订。 这部片从一个小问题讲起：数到一百万，素数的估算只差约 130 个。再往远处数，误差能有多大？我们把零点的波一层层叠起来，再跟着图灵的思路数一遍，看看怎样知道这一段一个都没漏，以及一份证明怎样回答「所有」。 旁白",
-        "content": "只要在那条窄带里找到一个偏离中线的零点，黎曼猜想就会被推翻。1950 年，图灵用曼彻斯特的一台早期计算机，想找的就是那一个。 2026 年 11 月 20 日，数学家阿尔波格与 Claude 公开了一份 Lean 证明，随后通过了多项独立机器检查。同一天公开的另一份广义黎曼猜想草稿仍在修订。 这部片从一个小问题讲起：数到一百万，素数的估算只差约 130 个。再往远处数，误差能有多大？我们把零点的波一层层叠起来，再跟着图灵的思路数一遍，看看怎样知道这一段一个都没漏，以及一份证明怎样回答「所有」。 旁白",
-        "bvid": "BV15aytzcENP",
-        "author": "频谱之外",
-        "duration": "11:41",
-        "cover": "//i0.hdslb.com/bfs/archive/d4cd0919b3d365f5443b59c9167c459b84b799ab.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15aytzcENP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI证明黎曼猜想到底得出什么结论"
-      },
-      {
-        "title": "《GTA 6》：完美劫案（没惊动警察，也没触发警报）",
-        "url": "https://www.bilibili.com/video/BV1A9y8z9Ehb",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1A9y8z9Ehb",
-        "author": "深夜游戏99",
-        "duration": "15:50",
-        "cover": "//i0.hdslb.com/bfs/archive/c090ec05c30c73a1e9895e234f392a15fc26b722.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1A9y8z9Ehb&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "挑战在GTA6制造完美劫案"
+        "description": "日报有用记得三连哦，你的鼓励真的很重要",
+        "content": "日报有用记得三连哦，你的鼓励真的很重要",
+        "bvid": "BV1igyJzVEoS",
+        "author": "芝士华莱士",
+        "duration": "6:26",
+        "cover": "//i0.hdslb.com/bfs/archive/115df045a193a3c4c6bb9f3450c52680b0b4879b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1igyJzVEoS&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "市面主流CPU性能对比"
       },
       {
         "title": "秦牧偶遇大雷音宗上代侞莱!",
         "url": "https://www.bilibili.com/video/BV1b8yGzjEMo",
         "desc": "",
-        "rank": 22,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -478,42 +398,10 @@
         "hotTitle": "秦牧灵兵初露锋芒"
       },
       {
-        "title": "文吉儿频繁作妖被实锤，王子璇强势反击！【脑洞小剧场】假如大家都说“实话”……",
-        "url": "https://www.bilibili.com/video/BV1Apy3zAE1S",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Apy3zAE1S",
-        "author": "动物园会议",
-        "duration": "8:40",
-        "cover": "//i1.hdslb.com/bfs/archive/63c9c35c96036d7e311be0b7e450095433b9fe6a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Apy3zAE1S&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "如果后会友期全员都讲真心话"
-      },
-      {
-        "title": "挑战用第三人称逛商场",
-        "url": "https://www.bilibili.com/video/BV1GxyWzUEsn",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1GxyWzUEsn",
-        "author": "特辣的老痞",
-        "duration": "1:19",
-        "cover": "//i2.hdslb.com/bfs/archive/f9a0ab30d01a5fb078f026d4e78faa85cc16744b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GxyWzUEsn&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "挑战用GTA视角逛商场"
-      },
-      {
         "title": "真相不重要？重看悬崖小屋对谈，谁是受害者，谁是加害者？《后会友期》的叙事诡计",
         "url": "https://www.bilibili.com/video/BV1omyhz2EZk",
         "desc": "",
-        "rank": 25,
+        "rank": 18,
         "kind": "video",
         "platform": "bilibili",
         "description": "毁掉我两周的睡眠，我好恨",
@@ -526,26 +414,90 @@
         "hotTitle": "悬崖对谈里厉娜许飞谁是受害者"
       },
       {
-        "title": "GTA6性能要求高吗？哪台主机表现好？解锁30帧后能跑多少帧？",
-        "url": "https://www.bilibili.com/video/BV1pDyjzEEsJ",
+        "title": "战争8个月，伊朗变成了什么样?冒死拍到真实的伊朗！",
+        "url": "https://www.bilibili.com/video/BV1chyVzvEpp",
         "desc": "",
-        "rank": 26,
+        "rank": 19,
         "kind": "video",
         "platform": "bilibili",
-        "description": "GTA6来啦！我们今天要好好测一测，这款今年最期待的游戏大作在四款游戏主机上各自是什么性能、画质如何、结合主机价格聊聊建议，以及预测一下PC版的配置要求。最后甚至会尝试解锁30帧限制，测一测以主机的性能，游戏能跑到的极限是多少帧！一起来看看吧……",
-        "content": "GTA6来啦！我们今天要好好测一测，这款今年最期待的游戏大作在四款游戏主机上各自是什么性能、画质如何、结合主机价格聊聊建议，以及预测一下PC版的配置要求。最后甚至会尝试解锁30帧限制，测一测以主机的性能，游戏能跑到的极限是多少帧！一起来看看吧……",
-        "bvid": "BV1pDyjzEEsJ",
-        "author": "极客湾Geekerwan",
-        "duration": "15:57",
-        "cover": "//i1.hdslb.com/bfs/archive/008f1230a45b94e33a69d0ce11432c9dc131a77c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pDyjzEEsJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GTA6哪台主机表现好"
+        "description": "美伊战争期间独自在伊朗旅行，拍到了真实的伊朗人的生活",
+        "content": "美伊战争期间独自在伊朗旅行，拍到了真实的伊朗人的生活",
+        "bvid": "BV1chyVzvEpp",
+        "author": "建国JianGuo_",
+        "duration": "17:37",
+        "cover": "//i1.hdslb.com/bfs/archive/c864e5141903ea4b8789e0f6bb064422950d88bb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1chyVzvEpp&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "战争中伊朗究竟是什么样子"
+      },
+      {
+        "title": "【寅子】全网最窝囊GTA6主角🤡！被保安圈踢！报复行动就是骑自行车撞人家😋",
+        "url": "https://www.bilibili.com/video/BV1YfyhzuEia",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "好播！好看！我仿佛回到了我做账号弟三年，边剪视频边看《直播中71415。。。》的时光",
+        "content": "好播！好看！我仿佛回到了我做账号弟三年，边剪视频边看《直播中71415。。。》的时光",
+        "bvid": "BV1YfyhzuEia",
+        "author": "寅子",
+        "duration": "8:20",
+        "cover": "//i1.hdslb.com/bfs/archive/da22decc7dc1a7a411731f86f9ab2641f815fbeb.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YfyhzuEia&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "全网最窝囊GTA6主角"
+      },
+      {
+        "title": "十分钟搞懂黎曼猜想，证明之后意味着什么？",
+        "url": "https://www.bilibili.com/video/BV1Z3yvzoE95",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "希望能帮助大家！",
+        "content": "希望能帮助大家！",
+        "bvid": "BV1Z3yvzoE95",
+        "author": "觀元-",
+        "duration": "9:7",
+        "cover": "//i0.hdslb.com/bfs/archive/9621efdcc2b9a5258c656856b8db24b761a41d56.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Z3yvzoE95&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "黎曼猜想究竟是什么"
+      },
+      {
+        "title": "Claude 证明了黎曼猜想？11分钟讲清它到底证明了什么、还差哪几步",
+        "url": "https://www.bilibili.com/video/BV15aytzcENP",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "只要在那条窄带里找到一个偏离中线的零点，黎曼猜想就会被推翻。1950 年，图灵用曼彻斯特的一台早期计算机，想找的就是那一个。 2026 年 11 月 20 日，数学家阿尔波格与 Claude 公开了一份 Lean 证明，随后通过了多项独立机器检查。同一天公开的另一份广义黎曼猜想草稿仍在修订。 这部片从一个小问题讲起：数到一百万，素数的估算只差约 130 个。再往远处数，误差能有多大？我们把零点的波一层层叠起来，再跟着图灵的思路数一遍，看看怎样知道这一段一个都没漏，以及一份证明怎样回答「所有」。 旁白",
+        "content": "只要在那条窄带里找到一个偏离中线的零点，黎曼猜想就会被推翻。1950 年，图灵用曼彻斯特的一台早期计算机，想找的就是那一个。 2026 年 11 月 20 日，数学家阿尔波格与 Claude 公开了一份 Lean 证明，随后通过了多项独立机器检查。同一天公开的另一份广义黎曼猜想草稿仍在修订。 这部片从一个小问题讲起：数到一百万，素数的估算只差约 130 个。再往远处数，误差能有多大？我们把零点的波一层层叠起来，再跟着图灵的思路数一遍，看看怎样知道这一段一个都没漏，以及一份证明怎样回答「所有」。 旁白",
+        "bvid": "BV15aytzcENP",
+        "author": "频谱之外",
+        "duration": "11:41",
+        "cover": "//i0.hdslb.com/bfs/archive/d4cd0919b3d365f5443b59c9167c459b84b799ab.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15aytzcENP&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AI证明黎曼猜想到底得出什么结论"
+      },
+      {
+        "title": "【蓝色星原入坑指南】第一期：零基础开始的全面介绍：卡池氪金介绍+发展思路+玩法演示+战斗机制，全面了解蓝色星原！",
+        "url": "https://www.bilibili.com/video/BV1x2yEzfERT",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "蓝色星原入坑指南来啦ヽ(°▽°)ノ今天是第一期，零基础开始的全面介绍，系统位各位介绍了星原的全部内容，从卡池到角色到家园再到养成战斗全都有包括，希望各位能给个三连Thanks♪(･ω･)ﾉ 明天后天还会发布： 第二期：四星角色全面介绍 第三期：五星角色全面介绍 加上昨日发布的序篇，共计4期",
+        "content": "蓝色星原入坑指南来啦ヽ(°▽°)ノ今天是第一期，零基础开始的全面介绍，系统位各位介绍了星原的全部内容，从卡池到角色到家园再到养成战斗全都有包括，希望各位能给个三连Thanks♪(･ω･)ﾉ 明天后天还会发布： 第二期：四星角色全面介绍 第三期：五星角色全面介绍 加上昨日发布的序篇，共计4期",
+        "bvid": "BV1x2yEzfERT",
+        "author": "卡特亚",
+        "duration": "28:47",
+        "cover": "//i0.hdslb.com/bfs/archive/1913706ceebe87a14aefe19fbb6a0896f5a53b2d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1x2yEzfERT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "蓝色星原入坑指南"
       },
       {
         "title": "没开玩笑！超乔丹！高阶数据打爆银河系！文班到底有多逆天？",
         "url": "https://www.bilibili.com/video/BV1QvyjzbELs",
         "desc": "",
-        "rank": 27,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -558,52 +510,100 @@
         "hotTitle": "文班亚马是NBA新GOAT吗"
       },
       {
-        "title": "《蓝溪镇》官宣动画化！",
-        "url": "https://www.bilibili.com/video/BV1KnyVzGEAj",
+        "title": "【TOP评选】英雄联盟历史荣誉top50",
+        "url": "https://www.bilibili.com/video/BV1aby5zREXz",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "纯属野榜，仅供娱乐 省流版可以直接拉到进度条最后 视频有使用chatgpt辅助制作 数据口径：Leaguepedia 已收录的一级、二级正式赛事，按实际出场小局统计；荣誉统计截至 2026 年 11 月 22 日。早期比赛缺少完整记分板的部分已排除或单独标注。 排名和分值一定带有主观取舍。如果这份五十人和你心里的不一样，欢迎把你的前十留在评论区。建议全屏、戴耳机观看。",
+        "content": "纯属野榜，仅供娱乐 省流版可以直接拉到进度条最后 视频有使用chatgpt辅助制作 数据口径：Leaguepedia 已收录的一级、二级正式赛事，按实际出场小局统计；荣誉统计截至 2026 年 11 月 22 日。早期比赛缺少完整记分板的部分已排除或单独标注。 排名和分值一定带有主观取舍。如果这份五十人和你心里的不一样，欢迎把你的前十留在评论区。建议全屏、戴耳机观看。",
+        "bvid": "BV1aby5zREXz",
+        "author": "白丝の甜妻",
+        "duration": "17:51",
+        "cover": "//i1.hdslb.com/bfs/archive/f8ee218fea0bf3d112992db4755eb3d03cd8d344.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aby5zREXz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "英雄联盟历史荣誉TOP50都有谁"
+      },
+      {
+        "title": "AI证明黎曼猜想之后，请多关爱数学系的学生！",
+        "url": "https://www.bilibili.com/video/BV1mgynzwE1m",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1mgynzwE1m",
+        "author": "钰子一",
+        "duration": "8:50",
+        "cover": "//i2.hdslb.com/bfs/archive/43cd8bd91d850acd62e0f0764a439f89aa1dd4e3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mgynzwE1m&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何理解数学系学生的处境"
+      },
+      {
+        "title": "这竟然不是GTA6！特斯拉自动驾驶竟能实时生成真实世界！",
+        "url": "https://www.bilibili.com/video/BV1bgy3z3EtQ",
+        "desc": "",
+        "rank": 27,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "这竟然不是GTA6！特斯拉自动驾驶竟能实时生成真实世界！",
+        "content": "这竟然不是GTA6！特斯拉自动驾驶竟能实时生成真实世界！",
+        "bvid": "BV1bgy3z3EtQ",
+        "author": "芝士丨情报局",
+        "duration": "2:51",
+        "cover": "//i2.hdslb.com/bfs/archive/ce139c2ed18aa24e888cb977a8ed38e9b75a76fe.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bgy3z3EtQ&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "特斯拉FSD V15实景酷似GTA6"
+      },
+      {
+        "title": "《无限暖暖》3.0版本套装PV | 若见沐光之窗&于此重见繁星",
+        "url": "https://www.bilibili.com/video/BV1d7yGzsEMG",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
-        "description": "《蓝溪镇》导演小榕带来动画最新消息。",
-        "content": "《蓝溪镇》导演小榕带来动画最新消息。",
-        "bvid": "BV1KnyVzGEAj",
-        "author": "哔哩哔哩国创",
-        "duration": "0:47",
-        "cover": "//i2.hdslb.com/bfs/archive/0a937f49b152a51a6069dc357e38e29f7e0fcd80.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1KnyVzGEAj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "罗小黑蓝溪镇动画化官宣"
+        "description": "晨光跃过花窗，惶惑的尘世终于照见艺术； 蝶群划破长夜，引万千生灵寻回自由。 斑斓真相破茧而出， 她再度穿越黑暗，她重新行至光明， 名为重逢的奇迹，终将到来—— *更多详情请前往视频查看",
+        "content": "晨光跃过花窗，惶惑的尘世终于照见艺术； 蝶群划破长夜，引万千生灵寻回自由。 斑斓真相破茧而出， 她再度穿越黑暗，她重新行至光明， 名为重逢的奇迹，终将到来—— *更多详情请前往视频查看",
+        "bvid": "BV1d7yGzsEMG",
+        "author": "无限暖暖",
+        "duration": "10:9",
+        "cover": "//i2.hdslb.com/bfs/archive/08c98bba77166f079512c5d9e7ab8f8d35bdd4a0.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1d7yGzsEMG&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "无限暖暖3.0版本套装PV"
       },
       {
-        "title": "《大学生体测现状》《没人疼就去体测，测完浑身都疼》",
-        "url": "https://www.bilibili.com/video/BV1YryezEEqJ",
+        "title": "挑战用第三人称逛商场",
+        "url": "https://www.bilibili.com/video/BV1GxyWzUEsn",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
-        "description": "关注UP主，观看更多沙雕脑洞纪录片！ 吴彦祖，刘亦菲，你们怎么都来点赞了呀~",
-        "content": "关注UP主，观看更多沙雕脑洞纪录片！ 吴彦祖，刘亦菲，你们怎么都来点赞了呀~",
-        "bvid": "BV1YryezEEqJ",
-        "author": "人类早期纪录片",
-        "duration": "3:49",
-        "cover": "//i2.hdslb.com/bfs/archive/df64aeae58ea420e6a97f6663689986b6c484436.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YryezEEqJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大学生体测现状"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1GxyWzUEsn",
+        "author": "特辣的老痞",
+        "duration": "1:19",
+        "cover": "//i2.hdslb.com/bfs/archive/f9a0ab30d01a5fb078f026d4e78faa85cc16744b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GxyWzUEsn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "挑战用GTA视角逛商场"
       },
       {
-        "title": "KPL十周年系列故事《我们的时代·黄金时代》",
-        "url": "https://www.bilibili.com/video/BV1wGyjzLEAr",
+        "title": "BLG全队看我视频，Bin哥说做的太牛逼了😋",
+        "url": "https://www.bilibili.com/video/BV1F4y3z8EEb",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "KPL十周年系列故事《我们的时代·黄金时代》",
-        "content": "KPL十周年系列故事《我们的时代·黄金时代》",
-        "bvid": "BV1wGyjzLEAr",
-        "author": "哔哩哔哩王者荣耀赛事",
-        "duration": "90:22",
-        "cover": "//i0.hdslb.com/bfs/archive/20c764b3eb15b935900e2856b67d9fe6fe8c730b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1wGyjzLEAr&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "KPL十周年系列故事"
+        "description": "审核老师辛苦啦！！ 好多都说刷到过这视频了~荣幸之极",
+        "content": "审核老师辛苦啦！！ 好多都说刷到过这视频了~荣幸之极",
+        "bvid": "BV1F4y3z8EEb",
+        "author": "困困君丶",
+        "duration": "1:35",
+        "cover": "//i1.hdslb.com/bfs/archive/13ea45cbf2cf2d7c5ec5a8de567322905b34b586.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1F4y3z8EEb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Bin说很喜欢UP主创作的视频"
       }
     ],
     "qbitai": [
@@ -940,6 +940,36 @@
         "rank": 3
       },
       {
+        "title": "华立科技：拟1500万元—3000万元回购公司股份",
+        "url": "https://m.36kr.com/newsflashes/4082209323832198",
+        "desc": "36氪获悉，华立科技公告，拟1500万元—3000万元回购公司股份，用于维护公司价值及股东权益，回购价格不超过22.22元/股。",
+        "cover": "",
+        "date": 1795430283925,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "上交所向盛剑科技下发监管工作函",
+        "url": "https://m.36kr.com/newsflashes/4082205552694147",
+        "desc": "36氪获悉，上交所向盛剑科技下发关于上海盛剑科技股份有限公司有关股价波动事项的监管工作函，该函涉及对象为上市公司。",
+        "cover": "",
+        "date": 1795430053753,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "新华文轩：控股股东等拟增持1234万股—2467万股公司H股股份",
+        "url": "https://m.36kr.com/newsflashes/4082202691982473",
+        "desc": "36氪获悉，新华文轩公告，控股股东四川新华出版发行集团有限公司及其全资子公司蜀典投资有限公司拟自本公告披露之日起12个月内通过上海证券交易所港股通交易系统、香港联合交易所有限公司交易系统以集中竞价交易方式增持公司H股股份，增持数量不低于1234万股、不超过2467万股。",
+        "cover": "",
+        "date": 1795429879149,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "瑞丰新材：拟2.5亿元—5亿元回购公司股份",
         "url": "https://m.36kr.com/newsflashes/4082197007176579",
         "desc": "36氪获悉，瑞丰新材公告，拟2.5亿元—5亿元回购公司股份，用于股权激励或员工持股计划，回购价格不超过35.11元/股（含）。",
@@ -947,7 +977,7 @@
         "date": 1795429532176,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "阳光诺和：董事长提议3000万元—5000万元回购公司股份",
@@ -957,7 +987,7 @@
         "date": 1795429196420,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "“杉数科技”完成数亿元人民币D轮融资",
@@ -967,7 +997,7 @@
         "date": 1795428664993,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "迪拜据悉考虑合并Dubai Islamic Bank和Emirates Islamic Bank",
@@ -977,7 +1007,7 @@
         "date": 1795428408064,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "​沪光股份：拟5000万元—1亿元回购公司股份",
@@ -987,7 +1017,7 @@
         "date": 1795428213817,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "知名私募基金经理吴悦风回应清盘传闻：是假的，不会清盘",
@@ -997,7 +1027,7 @@
         "date": 1795428062138,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "鸿富诚：拟1.43亿元收购鑫洋线业100%股权",
@@ -1007,7 +1037,7 @@
         "date": 1795427962598,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "金杨精密：董事长提议2000万元—4000万元回购公司股份",
@@ -1017,7 +1047,7 @@
         "date": 1795427832804,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "机构今日买入宇树科技等19股，卖出粤芯半导体1.36亿元",
@@ -1027,7 +1057,7 @@
         "date": 1795427667170,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "国瓷材料：拟发行可转换公司债券募资不超过10亿元",
@@ -1037,7 +1067,7 @@
         "date": 1795427538048,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "海伦哲：董事长提议1亿元—2亿元回购公司股份",
@@ -1047,7 +1077,7 @@
         "date": 1795427140765,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "宏桥控股：拟2亿元—4亿元回购公司股份",
@@ -1057,7 +1087,7 @@
         "date": 1795426733732,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "申华控股：控股股东拟5000万元—1亿元增持公司股份",
@@ -1067,7 +1097,7 @@
         "date": 1795426570267,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "亚通精工：全资子公司中标8.39亿元招标项目",
@@ -1077,7 +1107,7 @@
         "date": 1795426172888,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "广东印发《广东省推进粤港澳大湾区世界级绿色低碳产业集群建设实施方案》",
@@ -1087,7 +1117,7 @@
         "date": 1795425868677,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "伦敦金属交易所铝库存减少2125吨",
@@ -1097,7 +1127,7 @@
         "date": 1795425427758,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "鹏辉能源：拟1.2亿元—1.5亿元回购公司股份",
@@ -1107,45 +1137,15 @@
         "date": 1795425318170,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "金雷股份：拟5000万元—1亿元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4082121307018369",
-        "desc": "36氪获悉，金雷股份公告，拟5000万元—1亿元回购公司股份，本次回购股份价格不超过26.62元/股，本次回购股份后续将全部用于出售。",
-        "cover": "",
-        "date": 1795424911805,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "燧原科技：生产经营正常前提下，预计2027年可实现合并报表盈利",
-        "url": "https://m.36kr.com/newsflashes/4082117537338249",
-        "desc": "11月23日，燧原科技高管在2026年第三季度业绩说明会上表示，公司2026年前三季度营收保持较快增长，第三季度单季亏损同比收窄；随着营收规模扩大、规模效应释放，亏损有望持续收窄。在公司生产经营不受到不可抗力的重大影响的前提下，根据市场供需情况、在手订单、产品交付节奏、员工成本预算、研发规划等因素考虑，公司预计在2027年可实现合并报表盈利。（证券时报）",
-        "cover": "",
-        "date": 1795424681722,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "餐饮业巨头康帕斯计划将主要上市地从伦敦迁至纽约",
-        "url": "https://m.36kr.com/newsflashes/4082115166868615",
-        "desc": "11月23日，据报道，知情人士表示，全球最大餐饮服务商康帕斯集团（Compass Group）计划将其主要上市地从伦敦迁至纽约，此举将对英国股市造成进一步打击。知情人士称，康帕斯打算就其将主要上市地迁至纽约一事启动与股东的磋商程序，并补充称，如果获得股东批准，该变更预计将于2028年生效。（界面）",
-        "cover": "",
-        "date": 1795424537040,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795429564601,
-    "bilibili": 1795428517347,
-    "qbitai": 1795429594038,
-    "36kr": 1795429594434
+    "thepaper": 1795430463946,
+    "bilibili": 1795430473013,
+    "qbitai": 1795430493966,
+    "36kr": 1795430494417
   },
   "failures": {}
 }
