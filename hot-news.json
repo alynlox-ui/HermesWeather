@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:56:36Z",
+  "updatedAt": "2026-11-24T13:11:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -158,19 +158,19 @@
         "hotTitle": "陈吉宁被查"
       },
       {
-        "title": "TheShy的一次寻常采访为何被恶意解读？我来逐帧解析！",
-        "url": "https://www.bilibili.com/video/BV1qZyZzREVn",
+        "title": "行业首例！金主公开羞辱TheShy！品牌蓝V下场刷黑称！",
+        "url": "https://www.bilibili.com/video/BV1XZy9zMEvt",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1qZyZzREVn",
-        "author": "Super卧龙君",
-        "duration": "9:32",
-        "cover": "//i1.hdslb.com/bfs/archive/a9c8fcc62b1dde33de7ba6f1758c4e8d3ec7519b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qZyZzREVn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "bvid": "BV1XZy9zMEvt",
+        "author": "yudong欲动",
+        "duration": "5:17",
+        "cover": "//i1.hdslb.com/bfs/archive/94c634274d45410f9ce04666fe841dc69df466ac.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XZy9zMEvt&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "TheShy采访是被恶意解读了吗"
       },
       {
@@ -446,19 +446,19 @@
         "hotTitle": "蓝色星原入坑指南"
       },
       {
-        "title": "【已烤】IEM北京再次一轮游...... - FaZe Clan 纪录片",
-        "url": "https://www.bilibili.com/video/BV13tyZzLE5y",
+        "title": "GOSH（BC.G）3:13不敌FaZe掉入0-2生死组",
+        "url": "https://www.bilibili.com/video/BV1aR1czWEtm",
         "desc": "",
         "rank": 21,
         "kind": "video",
         "platform": "bilibili",
-        "description": "https://www.youtube.com/watch?v=o2HtmsHmMyo 晚上电脑没法用，只能早上起来剪了晚了点，不过是我一句一句翻的，有不对疏漏的地方恳请批评指正，谢谢",
-        "content": "https://www.youtube.com/watch?v=o2HtmsHmMyo 晚上电脑没法用，只能早上起来剪了晚了点，不过是我一句一句翻的，有不对疏漏的地方恳请批评指正，谢谢",
-        "bvid": "BV13tyZzLE5y",
-        "author": "Pyflash",
-        "duration": "22:33",
-        "cover": "//i0.hdslb.com/bfs/archive/8461a3f0ad54085a3c0d771a168a2bab8ccc7586.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13tyZzLE5y&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1aR1czWEtm",
+        "author": "NAVI-CSGO",
+        "duration": "0:32",
+        "cover": "//i0.hdslb.com/bfs/archive/5bb31381d612a656f6047305b89fd2329ccd3c00.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aR1czWEtm&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "FaZe vs GOSH 新加坡Major"
       },
       {
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "小鹏发布图灵世界模型 WorldGPT",
+        "url": "https://m.36kr.com/newsflashes/4083764431776385",
+        "desc": "36氪获悉，据小鹏汽车官微，近日，小鹏图灵世界模型家族新添一员——世界动作模型 WorldGPT。它在小鹏物理AI体系中作为云端teacher model，依托基座模型实现跨本体能力蒸馏和迁移，降低新本体的开发边际成本。同时，给它历史画面和指令，它会规划动作，预演世界随之发生的变化，看懂场景的语义与结构并用语言进行推理决策。据目前所知，这是首个能够在水、陆、空三栖六类本体完成预测与行动规划的世界模型。",
+        "cover": "",
+        "date": 1795525200181,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "胜宏科技披露2026年前三季度利润分配方案，拟10派10元",
+        "url": "https://m.36kr.com/newsflashes/4083762681194887",
+        "desc": "36氪获悉，胜宏科技公告，公司对2026年前三季度利润进行分配，分配方案如下：以实施2026年前三季度权益分派时股权登记日的总股本扣除公司回购专用证券账户股数为基数，向全体股东按每10股派发现金股利10元（含税）。以截至本公告披露日公司扣除回购专户的总股本初步测算，预计本次现金分红金额约为人民币9.83亿元，约占公司2026年前三季度归母净利润的29.04%。具体分红金额以公司实际分派为准。",
+        "cover": "",
+        "date": 1795525093334,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "热门中概股美股盘前多数下跌，阿里巴巴跌超2%",
         "url": "https://m.36kr.com/newsflashes/4083756534802823",
         "desc": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，阿里巴巴、京东、拼多多、百度、网易、理想汽车跌超2%，蔚来、微博跌超1%，哔哩哔哩跌0.73%；老虎证券涨超3%，小鹏集团涨超2%。",
@@ -937,7 +957,7 @@
         "date": 1795524718188,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "美股大型科技股盘前普跌，英伟达跌超4%",
@@ -947,7 +967,7 @@
         "date": 1795524492409,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "沙特阿拉伯预计2027年财政收入为1.202万亿里亚尔",
@@ -957,7 +977,7 @@
         "date": 1795523883841,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "谷歌计划收购伦敦国王十字区办公楼，进一步扩大英国AI研发中心",
@@ -967,7 +987,7 @@
         "date": 1795523524911,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "摩根大通与汇丰首次在伦敦交易数字黄金",
@@ -977,7 +997,7 @@
         "date": 1795523290952,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "卢伟冰谈内存涨价",
@@ -987,7 +1007,7 @@
         "date": 1795522988599,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "阿里健康发布中期业绩：总收入182.28亿元，同比增长9.2%",
@@ -997,7 +1017,7 @@
         "date": 1795522357247,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "复旦微电：拟0.5亿元—1亿元回购公司股份",
@@ -1007,7 +1027,7 @@
         "date": 1795522304566,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "联创股份：拟5000万元—1亿元回购公司股份",
@@ -1017,7 +1037,7 @@
         "date": 1795521816865,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "广东省新增36款已完成备案的生成式人工智能服务",
@@ -1027,7 +1047,7 @@
         "date": 1795521127134,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "汉仪股份：拟2000万元—3500万元回购公司股份",
@@ -1037,7 +1057,7 @@
         "date": 1795520671345,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "赛诺菲获法国巴黎银行和摩根大通提供350亿美元过桥贷款，用于收购Insmed",
@@ -1047,7 +1067,7 @@
         "date": 1795519859345,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "科安达：拟6000万元—1亿元回购股份",
@@ -1057,7 +1077,7 @@
         "date": 1795519676201,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "大烨智能：11月26日复牌并实施其他风险警示，股票简称变更为“ST大烨”",
@@ -1067,7 +1087,7 @@
         "date": 1795519457261,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "小米卢伟冰：小米汽车10月份交付量超5万，接下来还将有较大提升",
@@ -1077,7 +1097,7 @@
         "date": 1795519083601,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "小米CFO林世伟：小米AI相关收入持续增加，今年160亿元AI投入正稳健落地",
@@ -1087,7 +1107,7 @@
         "date": 1795518974191,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "Anthropic盘前价格跌破发行价",
@@ -1097,7 +1117,7 @@
         "date": 1795518702456,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "长华集团：不从事人形机器人整机业务",
@@ -1107,35 +1127,15 @@
         "date": 1795518518296,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "英诺特：拟5000万元—1亿元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4083649223879303",
-        "desc": "36氪获悉，英诺特公告，拟5000万元—1亿元回购公司股份，用于公司股权激励及/或员工持股计划，回购价格不超过72元/股（含）。",
-        "cover": "",
-        "date": 1795518168449,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "南亚新材：拟28.8亿元投资建设高端覆铜板生产项目",
-        "url": "https://m.36kr.com/newsflashes/4083641143634560",
-        "desc": "36氪获悉，南亚新材公告，拟由全资子公司江西南亚实施高端覆铜板生产项目，项目预计投资总额28.8亿元。",
-        "cover": "",
-        "date": 1795517675270,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795524964008,
+    "thepaper": 1795525863978,
     "bilibili": 1795524285500,
-    "qbitai": 1795524995744,
-    "36kr": 1795524996099
+    "qbitai": 1795525892791,
+    "36kr": 1795525893224
   },
   "failures": {}
 }
