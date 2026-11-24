@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:26:48Z",
+  "updatedAt": "2026-11-24T06:41:52Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -46,14 +46,14 @@
         "rank": 7
       },
       {
-        "title": "117起典型案例中的“虚假住院骗保”：违规与违法的边界在哪",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34450989",
+        "title": "大学应有的模样｜三十年过去，大学生活为何变了",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34539199",
         "desc": "",
         "rank": 8
       },
       {
-        "title": "大学应有的模样｜三十年过去，大学生活为何变了",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34539199",
+        "title": "117起典型案例中的“虚假住院骗保”：违规与违法的边界在哪",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34450989",
         "desc": "",
         "rank": 9
       },
@@ -94,14 +94,14 @@
         "rank": 15
       },
       {
-        "title": "美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34537819",
+        "title": "英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34544155",
         "desc": "",
         "rank": 16
       },
       {
-        "title": "英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34544155",
+        "title": "美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34537819",
         "desc": "",
         "rank": 17
       },
@@ -118,8 +118,8 @@
         "rank": 19
       },
       {
-        "title": "马上评｜迁徙候鸟成盘中餐，治理必须走在曝光前",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34539733",
+        "title": "AI时代，产业园区正在失去什么？",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34540495",
         "desc": "",
         "rank": 20
       }
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+        "url": "https://www.qbitai.com/2026/11/512362.html",
+        "desc": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+        "cover": "",
+        "date": "2026-11-24T14:35:06",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
         "url": "https://www.qbitai.com/2026/11/512354.html",
         "desc": "",
@@ -615,7 +625,7 @@
         "date": "2026-11-24T14:22:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
@@ -625,7 +635,7 @@
         "date": "2026-11-24T14:15:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
@@ -635,7 +645,7 @@
         "date": "2026-11-24T14:12:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
@@ -645,7 +655,7 @@
         "date": "2026-11-24T11:33:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
@@ -655,7 +665,7 @@
         "date": "2026-11-24T11:30:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
@@ -665,7 +675,7 @@
         "date": "2026-11-24T11:21:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
@@ -675,7 +685,7 @@
         "date": "2026-11-24T10:36:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "具身行业，终于等来了自己的通用智能时刻",
@@ -685,7 +695,7 @@
         "date": "2026-11-24T09:51:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
@@ -695,7 +705,7 @@
         "date": "2026-11-24T09:32:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
@@ -705,7 +715,7 @@
         "date": "2026-11-23T19:01:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
@@ -715,7 +725,7 @@
         "date": "2026-11-23T17:10:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
@@ -725,7 +735,7 @@
         "date": "2026-11-23T15:42:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
@@ -735,7 +745,7 @@
         "date": "2026-11-23T14:59:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
@@ -745,7 +755,7 @@
         "date": "2026-11-23T11:56:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
@@ -755,7 +765,7 @@
         "date": "2026-11-23T11:47:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
@@ -765,7 +775,7 @@
         "date": "2026-11-23T11:13:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
@@ -775,7 +785,7 @@
         "date": "2026-11-23T10:29:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
@@ -785,7 +795,7 @@
         "date": "2026-11-23T10:09:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
@@ -795,7 +805,7 @@
         "date": "2026-11-22T14:21:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
@@ -805,7 +815,7 @@
         "date": "2026-11-22T14:03:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
@@ -815,7 +825,7 @@
         "date": "2026-11-21T22:14:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "中国计算，走出新的登峰之路",
@@ -825,7 +835,7 @@
         "date": "2026-11-21T22:09:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
@@ -835,7 +845,7 @@
         "date": "2026-11-21T19:40:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
@@ -845,7 +855,7 @@
         "date": "2026-11-21T19:34:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
@@ -855,7 +865,7 @@
         "date": "2026-11-21T19:24:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
@@ -865,7 +875,7 @@
         "date": "2026-11-21T14:35:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
@@ -875,7 +885,7 @@
         "date": "2026-11-21T14:32:31",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
@@ -885,7 +895,7 @@
         "date": "2026-11-21T14:30:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "米哈游发了个VLA论文",
@@ -893,16 +903,6 @@
         "desc": "8B参数，50小时自主运行",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/article-first-image-1.jpg",
         "date": "2026-11-21T00:25:26",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-        "url": "https://www.qbitai.com/2026/11/511727.html",
-        "desc": "",
-        "cover": "",
-        "date": "2026-11-21T00:07:39",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,46 @@
         "rank": 2
       },
       {
+        "title": "沙特2027年起对跨国巨头利润征补充税",
+        "url": "https://m.36kr.com/newsflashes/4083389057853830",
+        "desc": "据沙特阿拉伯天课、税务和海关总局称，沙特将于2027年起对跨国企业在该国境内取得的利润征收补充税，前提是其有效税率低于15%的全球最低税率。该税种适用于过去四年合并财务报表显示年收入达到7.5亿欧元（8.238亿美元）或以上的跨国企业，没有海外分支机构的本地企业可获豁免。（新浪财经）",
+        "cover": "",
+        "date": 1795502289175,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "华电新能旗下浙江公司增资至12.4亿，增幅约179%",
+        "url": "https://m.36kr.com/newsflashes/4083388224760195",
+        "desc": "36氪获悉，天眼查App显示，近日，华电（浙江）新能源有限公司发生工商变更，注册资本由约4.45亿元人民币增至约12.4亿元人民币，增幅约179%。该公司成立于2022年6月，法定代表人为厉逸文，经营范围包括发电业务、输电业务、供（配）电业务等，由华电新能源集团股份有限公司全资持股。",
+        "cover": "",
+        "date": 1795502238327,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "澳大利亚经济衰退风险上升",
+        "url": "https://m.36kr.com/newsflashes/4083381509613958",
+        "desc": "澳大利亚大型金融服务集团麦格理24日警告，受通胀高企、利率上升和失业率攀升等多重因素影响，澳大利亚经济陷入衰退的概率可能已接近50%。麦格理集团首席经济学家兼宏观策略主管里克·德弗雷尔表示，越来越多证据表明，澳大利亚经济增长势头正在减弱，商业信心低迷预示着今年第四季度经济存在萎缩风险。（央视新闻）",
+        "cover": "",
+        "date": 1795501828467,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "大家人寿、亦庄国投等在北京成立股权投资基金，出资额20亿",
+        "url": "https://m.36kr.com/newsflashes/4083369938446725",
+        "desc": "36氪获悉，天眼查App显示，近日，北京屹唐盛鼎科新股权投资基金合伙企业（有限合伙）成立，执行事务合伙人为盛鼎（北京）私募基金管理有限责任公司，出资额20亿元人民币，经营范围为私募股权投资基金管理、创业投资基金管理服务。合伙人信息显示，该基金由大家人寿保险股份有限公司、北京亦庄国际投资发展有限公司、盛鼎（北京）私募基金管理有限责任公司、北京亦庄国际产业投资管理有限公司共同出资。",
+        "cover": "",
+        "date": 1795501746950,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "皖通科技等在北京成立金通智运科技公司，注册资本1000万",
         "url": "https://m.36kr.com/newsflashes/4083363883788674",
         "desc": "36氪获悉，天眼查App显示，近日，北京金通智运科技有限公司成立，法定代表人为高辉，注册资本1000万元人民币，经营范围包括数字技术服务、物联网技术研发、物联网技术服务等。股东信息显示，该公司由安徽皖通科技股份有限公司、乾元合通（北京）科技中心（有限合伙）、金骆驼宁夏数字科技有限公司分别持股55%、25%、20%。",
@@ -937,7 +977,7 @@
         "date": 1795501307000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 7
       },
       {
         "title": "大唐集团核电公司增资至62.8亿，增幅约183%",
@@ -947,7 +987,7 @@
         "date": 1795500724079,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 8
       },
       {
         "title": "极氪与敦煌达成战略合作，将联合推出009光辉敦煌限定版",
@@ -957,7 +997,7 @@
         "date": 1795500560164,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "深成指午后翻绿",
@@ -967,7 +1007,7 @@
         "date": 1795500501401,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "快手生活服务重启服务商和商户补贴",
@@ -977,7 +1017,7 @@
         "date": 1795500464311,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "震裕科技在上海成立企业管理公司，注册资本1000万",
@@ -987,7 +1027,7 @@
         "date": 1795500435000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "芯德半导体增资至10.7亿，增幅约11%",
@@ -997,7 +1037,7 @@
         "date": 1795500181114,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "宁波韵升旗下包头强磁材料公司增资至14.2亿，增幅约16%",
@@ -1007,7 +1047,7 @@
         "date": 1795499933000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "创业板指涨幅收窄至1%以内，早盘一度涨超4%",
@@ -1017,7 +1057,7 @@
         "date": 1795499888254,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "前10月韩国中小企业出口总额达2223亿美元，占比近24%",
@@ -1027,7 +1067,7 @@
         "date": 1795499699000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "文心5.5 Flash Preview正式开源",
@@ -1037,7 +1077,7 @@
         "date": 1795499138459,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "韩国成立联合工作组，加强对非法卖空的监管",
@@ -1047,7 +1087,7 @@
         "date": 1795499013078,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "一纸出口禁令引爆钴概念，腾远钴业涨超10%，公司回应",
@@ -1057,7 +1097,7 @@
         "date": 1795498689432,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "美国航空界致信国会，寻求300亿美元升级空管系统",
@@ -1067,7 +1107,7 @@
         "date": 1795498547925,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "欧洲10月新车注册量同比增长3.4%，燃油车占比降至21.8%",
@@ -1077,7 +1117,7 @@
         "date": 1795498303802,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "SpaceX和特斯拉委派五名董事负责合并谈判",
@@ -1087,55 +1127,15 @@
         "date": 1795497841190,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
-      },
-      {
-        "title": "英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算",
-        "url": "https://m.36kr.com/newsflashes/4083309845353608",
-        "desc": "美国脑机接口公司Paradromics与英伟达达成技术合作，布局下一代脑机接口应用所需的高性能AI计算基础设施。Paradromics将把英伟达Holoscan与边缘计算技术整合进脑机接口开发体系。其中，双方计划将其AI程序内置于脑机接口平台中，以实现将思维更快转化为实时语音。合作将首先聚焦于基于脑机接口的语音恢复，包括直接从神经信号转化为语音，以及通过结合语言模型的多阶段“大脑—文本—语音”流程，相关工作将于今年启动。2027年，合作将进一步扩展至高自由度运动控制，并整合视觉—语言—动作模型，以实现与物理系统更具情境感知能力的交互。（财联社）",
-        "cover": "",
-        "date": 1795497454428,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "晶泰控股：董事会主席温书豪进一步增持130万股公司股份",
-        "url": "https://m.36kr.com/newsflashes/4083296845108359",
-        "desc": "36氪获悉，晶泰控股在港交所公告，董事会获董事会主席、执行董事兼公司联合创始人温书豪通知，其已于2026年11月24日动用个人资金透过公开市场进一步购买公司合计130万股股份（占公司全部已发行股份总数约0.03%，总代价约600万港元）。紧随股份购买后，温书豪根据增持股份计划已在公开市场购买公司合计509.3万股股份，占于本公告日期公司全部已发行股份总数约0.12%。",
-        "cover": "",
-        "date": 1795497024000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "人形机器人概念再度拉升，维宏股份走出20cm2连板",
-        "url": "https://m.36kr.com/newsflashes/4083301592077190",
-        "desc": "36氪获悉，人形机器人概念再度拉升，维宏股份走出20cm2连板，此前安培龙、星源卓镁、雷迪克、福莱新材、宁波东力、柯力传感等多股涨停，恒工精密、汉威科技、豪恩汽电、上纬新材等多股涨超10%。",
-        "cover": "",
-        "date": 1795496950688,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "果下科技：创始股东自愿承诺延长禁售期",
-        "url": "https://m.36kr.com/newsflashes/4083299252671363",
-        "desc": "36氪获悉，果下科技在港交所公告，公司今日收到公司股东海南虚鼎信息管理咨询有限公司以及公司3位创始人（冯立正、张晰及刘子叶）（统称创始股东）分别出具的承诺函件。创始股东已分别自愿承诺，自2026年12月16日起计十二个月期间，海南虚鼎信息管理咨询有限公司、冯立正、张晰及刘子叶不会处置（包括但不限于出售或质押）由彼等各自直接持有的公司117,504,000、10,748,000、7,000,000及13,120,000股H股（禁售股份）。于本公告日期，禁售股份的总数为148,372,000股H股，占全部已发行H股约37.59%，及占公司已发行股本总数（不包括库存股份（如有））约28.66%。",
-        "cover": "",
-        "date": 1795496807902,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795501575760,
+    "thepaper": 1795502471497,
     "bilibili": 1795500952108,
-    "qbitai": 1795501608236,
-    "36kr": 1795501608582
+    "qbitai": 1795502511628,
+    "36kr": 1795502512004
   },
   "failures": {}
 }
