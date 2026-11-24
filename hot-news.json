@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:26:43Z",
+  "updatedAt": "2026-11-24T09:41:54Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -52,74 +52,74 @@
         "rank": 8
       },
       {
-        "title": "受贿1.93亿余元，浙江省人大常委会原副主任高兴夫一审被判死缓",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34539998",
-        "desc": "",
-        "rank": 9
-      },
-      {
         "title": "英伟达市值暴增近万亿美元！黄仁勋如何上演王者归来，他会成为更好的CEO吗？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34544383",
         "desc": "",
-        "rank": 10
+        "rank": 9
       },
       {
         "title": "中国载人航天工程首位外籍航天员，主要承担任务有这些",
         "url": "https://www.thepaper.cn/newsDetail_forward_34544928",
         "desc": "",
-        "rank": 11
+        "rank": 10
       },
       {
         "title": "受贿数额特别巨大！陕西省委原常委、西安市委原书记方红卫被提起公诉",
         "url": "https://www.thepaper.cn/newsDetail_forward_34545128",
         "desc": "",
-        "rank": 12
+        "rank": 11
       },
       {
         "title": "一图｜11天反转：黄仁勋辞任后被全票请回，中间发生了什么",
         "url": "https://www.thepaper.cn/newsDetail_forward_34540647",
         "desc": "",
-        "rank": 13
+        "rank": 12
       },
       {
         "title": "连线｜停电、断暖、房租涨……第五个战时寒冬，乌克兰人如何“适应”生活？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34539997",
         "desc": "",
-        "rank": 14
+        "rank": 13
       },
       {
         "title": "英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨",
         "url": "https://www.thepaper.cn/newsDetail_forward_34544155",
         "desc": "",
-        "rank": 15
+        "rank": 14
       },
       {
         "title": "谭案说法｜路宽34米绿灯仅12秒：行人被正常通行车辆撞亡，管理部门是否应担责？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34539323",
         "desc": "",
-        "rank": 16
+        "rank": 15
       },
       {
         "title": "AI时代，产业园区正在失去什么？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34540495",
         "desc": "",
-        "rank": 17
+        "rank": 16
       },
       {
         "title": "马上评｜“上门”就算涉黄？平台审核别一刀切",
         "url": "https://www.thepaper.cn/newsDetail_forward_34545000",
         "desc": "",
-        "rank": 18
-      },
-      {
-        "title": "马上评｜迁徙候鸟成盘中餐，治理必须走在曝光前",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34539733",
-        "desc": "",
-        "rank": 19
+        "rank": 17
       },
       {
         "title": "女子称网购的裤子里有一条内裤，商家：不可能，都有检查",
         "url": "https://www.thepaper.cn/newsDetail_forward_34540012",
+        "desc": "",
+        "rank": 18
+      },
+      {
+        "title": "宁波一女子在“游步道”散步时被公路自行车撞致脑出血，被认定“未靠路边”担次责",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34541107",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "石家庄一男子卖课被控传销：“打传办”曾认定非诈骗型传销，法院已四次开庭",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34537878",
         "desc": "",
         "rank": 20
       }
@@ -142,7 +142,7 @@
         "hotTitle": "一条视频吃透沈阳鸡架"
       },
       {
-        "title": "[BLG Viper】完整直播回放 含直播弹幕分P版 11月24日16点场",
+        "title": "[BLG Viper】直播回放 含直播弹幕分P版 11月24日16点场",
         "url": "https://www.bilibili.com/video/BV1fvyfzbEaG",
         "desc": "",
         "rank": 2,
@@ -930,14 +930,44 @@
         "rank": 2
       },
       {
-        "title": "小米集团发布2026年第三季度财报",
+        "title": "中科曙光：取得不超4.5亿元股票回购专项贷款承诺函",
+        "url": "https://m.36kr.com/newsflashes/4083568460507777",
+        "desc": "36氪获悉，中科曙光公告，取得中国建设银行股份有限公司天津市分行出具的《贷款承诺书》，承诺为公司提供最高不超过4.5亿元贷款，专项用于回购公司股票，贷款期限3年。",
+        "cover": "",
+        "date": 1795513239044,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "赛恩斯：拟5000万元—1亿元回购公司股份",
+        "url": "https://m.36kr.com/newsflashes/4083566126590339",
+        "desc": "36氪获悉，赛恩斯公告，拟5000万元—1亿元回购公司股份，用于员工持股计划/股权激励，回购价格不超过75.44元/股。",
+        "cover": "",
+        "date": 1795513096593,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "知乎：第三季度营收6.59亿元",
+        "url": "https://m.36kr.com/newsflashes/4083562804078978",
+        "desc": "36氪获悉，知乎发布2026年第三季度业绩报告。报告显示，第三季度知乎实现营收6.59亿元，与去年同期基本持平。月均订阅会员1410万，环比增长7%。截至第三季度末，社区累计内容已突破10亿条。第三季度，付费内容及IP运营收入为3.94亿元，占比达到59.8%；营销服务收入为1.98亿元，占比30.0%；包括专家数据解决方案、职业教育、消费品等在内的其他收入为6710万元，占比10.2%。截至第三季度末，知乎持有现金及现金等价物、定期存款及短期投资合计42.4亿元。",
+        "cover": "",
+        "date": 1795512893803,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "小米集团：第三季度营收1072亿元",
         "url": "https://m.36kr.com/newsflashes/4083554739219078",
-        "desc": "三季度营收1072亿元，上年同期营收1131亿元。",
+        "desc": "36氪获悉，小米集团发布2026年第三季度财报，财报显示，小米集团第三季度实现营收1072亿元，其中智能手机业务收入456亿元，IoT与生活消费产品业务收入272亿元，互联网服务业务收入95亿元，新能源汽车及AI等创新业务分部收入239亿元；经调整净利润48.8亿元。第三季度智能手机出货量3070万台，新车交付量100975辆。",
         "cover": "",
         "date": 1795512401563,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "央行：将以固定数量、利率招标、多重价位中标方式开展8000亿元MLF操作",
@@ -947,7 +977,7 @@
         "date": 1795512334632,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "阿里巴巴回应子公司被列入美实体清单：将通过一切法律途径维护公司权益",
@@ -957,7 +987,7 @@
         "date": 1795512196211,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "钛能化学：拟6亿元—12亿元回购公司股份",
@@ -967,7 +997,7 @@
         "date": 1795512143315,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "印度据悉计划设立第二家天然气交易所，以深化期货交易",
@@ -977,7 +1007,7 @@
         "date": 1795511818582,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "年内公募打新获配金额超360亿元",
@@ -987,7 +1017,7 @@
         "date": 1795511773000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "腾讯混元发布第三代翻译模型Hy MT3",
@@ -997,7 +1027,7 @@
         "date": 1795511526341,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "华资实业：董事长提议1亿元—2亿元回购公司股份",
@@ -1007,7 +1037,7 @@
         "date": 1795511395254,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "三元生物：拟3000万元—5000万元回购公司股份",
@@ -1017,7 +1047,7 @@
         "date": 1795511146811,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
@@ -1027,7 +1057,7 @@
         "date": 1795511064445,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "央行将开展5000亿元7天期逆回购操作",
@@ -1037,7 +1067,7 @@
         "date": 1795511036873,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "我国在5个自贸试验区开展人工智能标准化自主开放试点",
@@ -1047,7 +1077,7 @@
         "date": 1795510989297,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "今年上半年，我国人工智能核心产业规模预计超7500亿元",
@@ -1057,7 +1087,7 @@
         "date": 1795510953504,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "华为云发布智能体伙伴开放计划",
@@ -1067,7 +1097,7 @@
         "date": 1795510850288,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "鸿富瀚：董事长提议4000万元—6000万元回购公司股份",
@@ -1077,7 +1107,7 @@
         "date": 1795510617827,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "莱茵生物：拟5000万元—1亿元回购公司股份",
@@ -1087,7 +1117,7 @@
         "date": 1795510411817,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "商务部公告2024年第46号（《关于加强相关两用物项对美国出口管制的公告》）第二款暂停实施",
@@ -1097,45 +1127,15 @@
         "date": 1795510117808,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "湖北宜化：参与投资建设磷系新能源材料产业园项目",
-        "url": "https://m.36kr.com/newsflashes/4083514005449352",
-        "desc": "36氪获悉，湖北宜化公告，控股股东宜化集团与宜昌市人民政府、湖北联投集团有限公司签订了《联投宜化磷系新能源材料产业园项目合作协议书》，拟由公司控股子公司参与投资建设磷系新能源材料产业园项目。",
-        "cover": "",
-        "date": 1795509915371,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "游族网络：董事长提议2亿元—4亿元回购公司股份",
-        "url": "https://m.36kr.com/newsflashes/4083510659885443",
-        "desc": "36氪获悉，游族网络公告，董事长宛正提议2亿元—4亿元回购公司股份，用于员工持股计划或股权激励。",
-        "cover": "",
-        "date": 1795509711174,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "红果短剧上线“时间锁”",
-        "url": "https://m.36kr.com/newsflashes/4083508884220297",
-        "desc": "11月24日消息，红果短剧近日新增可自行开启的“时间锁”。用户设定单日使用时长，当日观看达到设定时长后App进入锁定状态，需输入此前设置的四位密码才能继续使用。（界面）",
-        "cover": "",
-        "date": 1795509602796,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795512365040,
+    "thepaper": 1795513269970,
     "bilibili": 1795511670146,
-    "qbitai": 1795512403249,
-    "36kr": 1795512403890
+    "qbitai": 1795513314398,
+    "36kr": 1795513314718
   },
   "failures": {}
 }
