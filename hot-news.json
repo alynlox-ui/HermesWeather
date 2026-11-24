@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:56:45Z",
+  "updatedAt": "2026-11-24T08:11:49Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
+        "url": "https://www.qbitai.com/2026/11/512383.html",
+        "desc": "11月24日，蚂蚁OceanBase AI数据大会在北京召开。",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/f5a0561ffe723439d32da3c13c3a2e90.jpeg",
+        "date": "2026-11-24T16:10:43",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "Google Cloud 出海峰会报名开启",
         "url": "https://www.qbitai.com/2026/11/512370.html",
         "desc": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
@@ -615,7 +625,7 @@
         "date": "2026-11-24T14:52:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
@@ -625,7 +635,7 @@
         "date": "2026-11-24T14:35:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
@@ -635,7 +645,7 @@
         "date": "2026-11-24T14:22:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
@@ -645,7 +655,7 @@
         "date": "2026-11-24T14:15:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
@@ -655,7 +665,7 @@
         "date": "2026-11-24T14:12:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
@@ -665,7 +675,7 @@
         "date": "2026-11-24T11:33:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
@@ -675,7 +685,7 @@
         "date": "2026-11-24T11:30:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
@@ -685,7 +695,7 @@
         "date": "2026-11-24T11:21:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
@@ -695,7 +705,7 @@
         "date": "2026-11-24T10:36:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "具身行业，终于等来了自己的通用智能时刻",
@@ -705,7 +715,7 @@
         "date": "2026-11-24T09:51:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
@@ -715,7 +725,7 @@
         "date": "2026-11-24T09:32:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
@@ -725,7 +735,7 @@
         "date": "2026-11-23T19:01:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
@@ -735,7 +745,7 @@
         "date": "2026-11-23T17:10:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
@@ -745,7 +755,7 @@
         "date": "2026-11-23T15:42:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
@@ -755,7 +765,7 @@
         "date": "2026-11-23T14:59:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
@@ -765,7 +775,7 @@
         "date": "2026-11-23T11:56:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
@@ -775,7 +785,7 @@
         "date": "2026-11-23T11:47:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
@@ -785,7 +795,7 @@
         "date": "2026-11-23T11:13:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
@@ -795,7 +805,7 @@
         "date": "2026-11-23T10:29:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
@@ -805,7 +815,7 @@
         "date": "2026-11-23T10:09:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
@@ -815,7 +825,7 @@
         "date": "2026-11-22T14:21:47",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
@@ -825,7 +835,7 @@
         "date": "2026-11-22T14:03:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
@@ -835,7 +845,7 @@
         "date": "2026-11-21T22:14:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "中国计算，走出新的登峰之路",
@@ -845,7 +855,7 @@
         "date": "2026-11-21T22:09:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
@@ -855,7 +865,7 @@
         "date": "2026-11-21T19:40:11",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
@@ -865,7 +875,7 @@
         "date": "2026-11-21T19:34:18",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
@@ -875,7 +885,7 @@
         "date": "2026-11-21T19:24:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
@@ -885,7 +895,7 @@
         "date": "2026-11-21T14:35:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
@@ -893,16 +903,6 @@
         "desc": "专为本地部署而生",
         "cover": "",
         "date": "2026-11-21T14:32:31",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-        "url": "https://www.qbitai.com/2026/11/511757.html",
-        "desc": "还透露了不少训练背后的秘诀",
-        "cover": "",
-        "date": "2026-11-21T14:30:55",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -930,6 +930,36 @@
         "rank": 2
       },
       {
+        "title": "恒指收跌0.73%，恒生科技指数跌1.17%",
+        "url": "https://m.36kr.com/newsflashes/4083480584792712",
+        "desc": "36氪获悉，恒指收跌0.73%，恒生科技指数跌1.17%；煤炭、石油石化、有色金属板块领跌，灵宝黄金、山东墨龙跌超5%，中国神华跌超3%；半导体、电气设备、硬件设备板块走强，胜宏科技涨超6%，芯德半导体涨超4%，博雷顿涨超3%；南向资金净买入62.03亿港元。",
+        "cover": "",
+        "date": 1795507875536,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "金道科技：与杭叉集团签订约3.47亿元采购订单",
+        "url": "https://m.36kr.com/newsflashes/4083469194537602",
+        "desc": "36氪获悉，金道科技公告，公司自2026年1月1日至11月24日与杭叉集团签订的叉车变速箱产品及配件采购订单累计金额约3.47亿元(不含税)，超过最近一个会计年度经审计主营业务收入的50%，且绝对金额超1亿元。合同履行预计将对公司经营业绩产生积极影响，但存在订单无法正常履行的风险。",
+        "cover": "",
+        "date": 1795507533000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "百度词元所海外站上线，发布首周新增供应商超700家",
+        "url": "https://m.36kr.com/newsflashes/4083472314214791",
+        "desc": "36氪获悉，11月24日，据百度方面消息，模型交易平台词元所上线首周新增申请入驻供应商已超700家，日均新增超100家。目前，海外站也已正式上线。据介绍，该平台主打验真与征信两大能力：模型入平台前需通过模型指纹比对、模型能力测试、性能指标与可用性测试等准入核验，上线后接受定期抽检拨测与全链路实时监测，相关结果沉淀为供应商的信用评级。",
+        "cover": "",
+        "date": 1795507370740,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
         "title": "固德威：拟1.5亿元至3亿元回购公司股份",
         "url": "https://m.36kr.com/newsflashes/4083463110306181",
         "desc": "36氪获悉，固德威公告，公司拟以集中竞价交易方式回购股份，回购资金总额不低于1.5亿元且不超过3亿元，回购价格不超过70元/股，回购股份将用于维护公司价值及股东权益，资金来源为自有资金和股票回购专项贷款。",
@@ -937,7 +967,7 @@
         "date": 1795506808978,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "拜耳暗示未来制药交易或更多瞄准临床试验中期资产",
@@ -947,7 +977,7 @@
         "date": 1795506289216,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "德国商业银行考虑缩减美债交易业务",
@@ -957,7 +987,7 @@
         "date": 1795505951658,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "华为Mate X8正式发布",
@@ -967,7 +997,7 @@
         "date": 1795505753283,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "锐捷网络等在平潭成立股权投资合伙企业，出资额2.59亿",
@@ -977,7 +1007,7 @@
         "date": 1795505491471,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "韩国科技部：明年人工智能政府预算为16万亿韩元",
@@ -987,7 +1017,7 @@
         "date": 1795505225883,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "荷兰AI芯片公司Axelera洽谈融资4亿美元，并寻求数亿欧元欧盟补贴",
@@ -997,7 +1027,7 @@
         "date": 1795504839164,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "6G创新发展部省协同试点正式启动",
@@ -1007,7 +1037,7 @@
         "date": 1795504547763,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "主动ETF全天成交逾30亿元",
@@ -1017,7 +1047,7 @@
         "date": 1795504450443,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "上海浦创金桥企航集成电路产业私募基金登记成立，出资额12.01亿",
@@ -1027,7 +1057,7 @@
         "date": 1795504102628,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "工信部：6G正处于技术攻关纵深推进、标准研制全面深入的关键阶段",
@@ -1037,7 +1067,7 @@
         "date": 1795503929528,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "A股三大指数收盘涨跌不一，机器人概念持续拉升",
@@ -1047,7 +1077,7 @@
         "date": 1795503732376,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "余承东：华为折叠手机市场份额达70%，大折叠全球发货量突破1200万",
@@ -1057,7 +1087,7 @@
         "date": 1795503010962,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "广东：1—10月份全省社会消费品零售总额同比增长1.2%",
@@ -1067,7 +1097,7 @@
         "date": 1795502944912,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "赛诺菲宣布将以410亿美元现金收购Insmed",
@@ -1077,7 +1107,7 @@
         "date": 1795502612419,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "沙特2027年起对跨国巨头利润征补充税",
@@ -1087,7 +1117,7 @@
         "date": 1795502289175,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "华电新能旗下浙江公司增资至12.4亿，增幅约179%",
@@ -1097,45 +1127,15 @@
         "date": 1795502238327,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "澳大利亚经济衰退风险上升",
-        "url": "https://m.36kr.com/newsflashes/4083381509613958",
-        "desc": "澳大利亚大型金融服务集团麦格理24日警告，受通胀高企、利率上升和失业率攀升等多重因素影响，澳大利亚经济陷入衰退的概率可能已接近50%。麦格理集团首席经济学家兼宏观策略主管里克·德弗雷尔表示，越来越多证据表明，澳大利亚经济增长势头正在减弱，商业信心低迷预示着今年第四季度经济存在萎缩风险。（央视新闻）",
-        "cover": "",
-        "date": 1795501828467,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "大家人寿、亦庄国投等在北京成立股权投资基金，出资额20亿",
-        "url": "https://m.36kr.com/newsflashes/4083369938446725",
-        "desc": "36氪获悉，天眼查App显示，近日，北京屹唐盛鼎科新股权投资基金合伙企业（有限合伙）成立，执行事务合伙人为盛鼎（北京）私募基金管理有限责任公司，出资额20亿元人民币，经营范围为私募股权投资基金管理、创业投资基金管理服务。合伙人信息显示，该基金由大家人寿保险股份有限公司、北京亦庄国际投资发展有限公司、盛鼎（北京）私募基金管理有限责任公司、北京亦庄国际产业投资管理有限公司共同出资。",
-        "cover": "",
-        "date": 1795501746950,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "皖通科技等在北京成立金通智运科技公司，注册资本1000万",
-        "url": "https://m.36kr.com/newsflashes/4083363883788674",
-        "desc": "36氪获悉，天眼查App显示，近日，北京金通智运科技有限公司成立，法定代表人为高辉，注册资本1000万元人民币，经营范围包括数字技术服务、物联网技术研发、物联网技术服务等。股东信息显示，该公司由安徽皖通科技股份有限公司、乾元合通（北京）科技中心（有限合伙）、金骆驼宁夏数字科技有限公司分别持股55%、25%、20%。",
-        "cover": "",
-        "date": 1795501307000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795506970353,
+    "thepaper": 1795507872531,
     "bilibili": 1795506261744,
-    "qbitai": 1795507004927,
-    "36kr": 1795507005273
+    "qbitai": 1795507908753,
+    "36kr": 1795507909151
   },
   "failures": {}
 }
