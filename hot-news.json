@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:41:32Z",
+  "updatedAt": "2026-11-24T12:56:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,26 +126,10 @@
     ],
     "bilibili": [
       {
-        "title": "胖东来洗发水争议：太阳底下是没有新鲜事的",
-        "url": "https://www.bilibili.com/video/BV1Qgyfz1EdD",
-        "desc": "",
-        "rank": 1,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Qgyfz1EdD",
-        "author": "唯一讲述者",
-        "duration": "21:42",
-        "cover": "//i1.hdslb.com/bfs/archive/0645811dcf3a7914900dd3171f052dadbdbf927b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qgyfz1EdD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "胖东来洗发水再陷假洋牌争议"
-      },
-      {
         "title": "Claude证明了在任何域上VP≠VNP",
         "url": "https://www.bilibili.com/video/BV1zKydzQERZ",
         "desc": "",
-        "rank": 2,
+        "rank": 1,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -158,52 +142,68 @@
         "hotTitle": "Claude称证明计算机理论重大猜想"
       },
       {
-        "title": "刘晓艳：“你能考过就是「烂奇迹」”",
-        "url": "https://www.bilibili.com/video/BV1AZyEzpEAT",
+        "title": "陈吉宁涉嫌严重违纪违法正接受中央纪委国家监委审查调查",
+        "url": "https://www.bilibili.com/video/BV1NCyZzNE5z",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1NCyZzNE5z",
+        "author": "央视新闻",
+        "duration": "0:13",
+        "cover": "//i2.hdslb.com/bfs/archive/c18ca767d235b9a1d6c02b48ffc0d16c776bda3c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NCyZzNE5z&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "陈吉宁被查"
+      },
+      {
+        "title": "TheShy的一次寻常采访为何被恶意解读？我来逐帧解析！",
+        "url": "https://www.bilibili.com/video/BV1qZyZzREVn",
         "desc": "",
         "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "制作：@Dieorite 原作：《烂奇迹（不小心惹了上帝）》- 杨羊烊",
-        "content": "制作：@Dieorite 原作：《烂奇迹（不小心惹了上帝）》- 杨羊烊",
-        "bvid": "BV1AZyEzpEAT",
-        "author": "Dieorite",
-        "duration": "3:27",
-        "cover": "//i1.hdslb.com/bfs/archive/30825188193133132c78b625cc1c81429d5ddaaf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AZyEzpEAT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "刘晓艳单曲考过就是烂奇迹"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1qZyZzREVn",
+        "author": "Super卧龙君",
+        "duration": "9:32",
+        "cover": "//i1.hdslb.com/bfs/archive/a9c8fcc62b1dde33de7ba6f1758c4e8d3ec7519b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qZyZzREVn&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TheShy采访是被恶意解读了吗"
       },
       {
-        "title": "T1发布会！大的要来了？",
-        "url": "https://www.bilibili.com/video/BV1UVyfzCESU",
+        "title": "拯救“财神”黄仁勋！特朗普落地就出手，绿媒落井下石大翻车【两岸圆桌派】第54期 王骁×李翔×苏恒×翟翾",
+        "url": "https://www.bilibili.com/video/BV1RPyfzSEha",
         "desc": "",
         "rank": 4,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1UVyfzCESU",
-        "author": "T1电子竞技官方俱乐部",
-        "duration": "0:33",
-        "cover": "//i0.hdslb.com/bfs/archive/81a73728d586deea359e345e48bff94dd2639ce1.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UVyfzCESU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "T1预告Zeus回归"
+        "description": "",
+        "content": "",
+        "bvid": "BV1RPyfzSEha",
+        "author": "小王Albert",
+        "duration": "93:6",
+        "cover": "//i1.hdslb.com/bfs/archive/481d4a86c818d34b3d49fa760b2b719e6201e2c7.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1RPyfzSEha&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何理解黄仁勋光速复职"
       },
       {
-        "title": "榜首易主！莲花池村民钓青大赛圆满落幕",
-        "url": "https://www.bilibili.com/video/BV1rayfzhELN",
+        "title": "胖东来洗发水争议：太阳底下是没有新鲜事的",
+        "url": "https://www.bilibili.com/video/BV1Qgyfz1EdD",
         "desc": "",
         "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1rayfzhELN",
-        "author": "荷塘星星",
-        "duration": "23:58",
-        "cover": "//i0.hdslb.com/bfs/archive/16d6b35bee1a1ba3fbaddb2b94cd5cd134a438ef.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rayfzhELN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "莲花池村民钓青鱼大赛"
+        "bvid": "BV1Qgyfz1EdD",
+        "author": "唯一讲述者",
+        "duration": "21:42",
+        "cover": "//i1.hdslb.com/bfs/archive/0645811dcf3a7914900dd3171f052dadbdbf927b.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qgyfz1EdD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "胖东来洗发水再陷假洋牌争议"
       },
       {
         "title": "【火影十一年 神临时刻】漩涡鸣人[阳之力]即将登场！",
@@ -222,36 +222,36 @@
         "hotTitle": "火影手游11周年阳之力鸣人"
       },
       {
-        "title": "印度盾构机，也要讲赢学？",
-        "url": "https://www.bilibili.com/video/BV189yfzjEEs",
+        "title": "T1发布会！大的要来了？",
+        "url": "https://www.bilibili.com/video/BV1UVyfzCESU",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：无雨 编辑：饼干 参考资料： 商务部、海关总署2026年第50号公告，2026年10月19日 网易 《当30万印军在喜马拉雅等不来盾构机》 腾讯新闻 《印度商工部长称将自主研发盾构机，中方11月18日起对两用物项实施出口管制》，2026年11月7日 网易 《盼星星盼月亮，印度终于把盾构机盼来了！》，2026年3月27日 搜狐 《打脸太快",
-        "content": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：无雨 编辑：饼干 参考资料： 商务部、海关总署2026年第50号公告，2026年10月19日 网易 《当30万印军在喜马拉雅等不来盾构机》 腾讯新闻 《印度商工部长称将自主研发盾构机，中方11月18日起对两用物项实施出口管制》，2026年11月7日 网易 《盼星星盼月亮，印度终于把盾构机盼来了！》，2026年3月27日 搜狐 《打脸太快",
-        "bvid": "BV189yfzjEEs",
-        "author": "世界见闻录",
-        "duration": "13:11",
-        "cover": "//i1.hdslb.com/bfs/archive/99f7729dea49572683f480f5f392fc804e303bce.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV189yfzjEEs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "印度自产盾构机成功了吗"
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1UVyfzCESU",
+        "author": "T1电子竞技官方俱乐部",
+        "duration": "0:33",
+        "cover": "//i0.hdslb.com/bfs/archive/81a73728d586deea359e345e48bff94dd2639ce1.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1UVyfzCESU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "T1预告Zeus回归"
       },
       {
-        "title": "GEN官宣:Siwoo、Sharvel、Cloud加盟",
-        "url": "https://www.bilibili.com/video/BV1mLyfzGEqg",
+        "title": "《文锋历险记》不敌八大模型，看开源如何力挽狂澜！【AI全民制作人】",
+        "url": "https://www.bilibili.com/video/BV1qAyQzMEfT",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1mLyfzGEqg",
-        "author": "LCK情报刺探员丶",
-        "duration": "0:37",
-        "cover": "//i1.hdslb.com/bfs/archive/a61ecb796446dc493b68fdb7d63420e9758c93ba.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mLyfzGEqg&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GEN官宣三名新人加入"
+        "description": "「本视频由 updream 制作」 用我的专属邀请连接，可以额外活动积分！ https://www.updream.cn 邀请码 MLdhDwMwgk 花了18000 rmb的算力！！还请观众姥爷们多投币呀！",
+        "content": "「本视频由 updream 制作」 用我的专属邀请连接，可以额外活动积分！ https://www.updream.cn 邀请码 MLdhDwMwgk 花了18000 rmb的算力！！还请观众姥爷们多投币呀！",
+        "bvid": "BV1qAyQzMEfT",
+        "author": "黑雪m",
+        "duration": "15:31",
+        "cover": "//i1.hdslb.com/bfs/archive/51e7d3fbf7ab8a9fa6a9a03de89d5ad4b1dc674a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qAyQzMEfT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大肥鱼把开源变成超能力"
       },
       {
         "title": "【公考冲刺上大分】图推新考点汇总（一）",
@@ -270,36 +270,36 @@
         "hotTitle": "国考图形推理冲刺上分"
       },
       {
-        "title": "零下30度的囚禁！失温后的他们再无道德束缚！独立游戏《零下30度的绝望》",
-        "url": "https://www.bilibili.com/video/BV1dqSvBmESQ",
+        "title": "我在北极找了七天，只为一顿蘑菇炖大鹅",
+        "url": "https://www.bilibili.com/video/BV1qxyDzYETs",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "游戏名：零下30度的绝望 游戏来源：steam 游戏汉化作者：b站@安洁热尔 这个游戏好癫啊❥好喜欢❥ 感谢汉化大佬的汉化补丁！",
-        "content": "游戏名：零下30度的绝望 游戏来源：steam 游戏汉化作者：b站@安洁热尔 这个游戏好癫啊❥好喜欢❥ 感谢汉化大佬的汉化补丁！",
-        "bvid": "BV1dqSvBmESQ",
-        "author": "荒木木aliki",
-        "duration": "65:26",
-        "cover": "//i0.hdslb.com/bfs/archive/ebe740674238734992c2b5e0fbc1002c3c20197b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1dqSvBmESQ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "零下30度维修石头安全屋"
+        "description": "这期节目我将继续在挪威北极的芬马克地区开展狩猎活动。 在海边搭帐篷露营，在河流里垂钓三文鱼， 采摘巨大的蘑菇，使用热成像搜寻猎物。 花费7天时间成功让一只即将南飞的大雁， 永远地留在了欧洲大陆的最北端。 大家好，我是FJ，欢迎收看我的频道”蜀犬吠日\"。",
+        "content": "这期节目我将继续在挪威北极的芬马克地区开展狩猎活动。 在海边搭帐篷露营，在河流里垂钓三文鱼， 采摘巨大的蘑菇，使用热成像搜寻猎物。 花费7天时间成功让一只即将南飞的大雁， 永远地留在了欧洲大陆的最北端。 大家好，我是FJ，欢迎收看我的频道”蜀犬吠日\"。",
+        "bvid": "BV1qxyDzYETs",
+        "author": "蜀犬吠日SCFR",
+        "duration": "81:24",
+        "cover": "//i1.hdslb.com/bfs/archive/b99953b86cc01bd266f5bdd64e1e362fb7fb7020.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qxyDzYETs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "北极荒野狩猎只为炖大鹅"
       },
       {
-        "title": "新闻1+1｜黎曼猜想 被AI“证明”之后",
-        "url": "https://www.bilibili.com/video/BV1DZyQz8Er2",
+        "title": "【合集】人类消失后，深度思考三百年的大肥鱼",
+        "url": "https://www.bilibili.com/video/BV1Poyaz8Ep4",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "https://www.yspapp.cn/6GhZ（央视频号：新闻1+1）",
-        "content": "https://www.yspapp.cn/6GhZ（央视频号：新闻1+1）",
-        "bvid": "BV1DZyQz8Er2",
-        "author": "央视频",
-        "duration": "24:3",
-        "cover": "//i2.hdslb.com/bfs/archive/d90023e2b1fcaf0c905bc58a3975f5177b525d05.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DZyQz8Er2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI证明黎曼猜想将如何影响数学界"
+        "description": "",
+        "content": "",
+        "bvid": "BV1Poyaz8Ep4",
+        "author": "奶糕兽",
+        "duration": "116:9",
+        "cover": "//i0.hdslb.com/bfs/archive/6ff0c5a3aa883e91158f042c737fcb89d659ce51.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Poyaz8Ep4&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AI剧 人类消失后的大肥鱼"
       },
       {
         "title": "《复联5》最终预告解析！和泄露太吻合了！",
@@ -318,36 +318,36 @@
         "hotTitle": "复联5最终预告曝光了哪些剧情"
       },
       {
-        "title": "【已烤】IEM北京再次一轮游...... - FaZe Clan 纪录片",
-        "url": "https://www.bilibili.com/video/BV13tyZzLE5y",
+        "title": "新闻1+1｜黎曼猜想 被AI“证明”之后",
+        "url": "https://www.bilibili.com/video/BV1DZyQz8Er2",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "https://www.youtube.com/watch?v=o2HtmsHmMyo 晚上电脑没法用，只能早上起来剪了晚了点，不过是我一句一句翻的，有不对疏漏的地方恳请批评指正，谢谢",
-        "content": "https://www.youtube.com/watch?v=o2HtmsHmMyo 晚上电脑没法用，只能早上起来剪了晚了点，不过是我一句一句翻的，有不对疏漏的地方恳请批评指正，谢谢",
-        "bvid": "BV13tyZzLE5y",
-        "author": "Pyflash",
-        "duration": "22:33",
-        "cover": "//i0.hdslb.com/bfs/archive/8461a3f0ad54085a3c0d771a168a2bab8ccc7586.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13tyZzLE5y&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "FaZe vs GOSH 新加坡Major"
+        "description": "https://www.yspapp.cn/6GhZ（央视频号：新闻1+1）",
+        "content": "https://www.yspapp.cn/6GhZ（央视频号：新闻1+1）",
+        "bvid": "BV1DZyQz8Er2",
+        "author": "央视频",
+        "duration": "24:3",
+        "cover": "//i2.hdslb.com/bfs/archive/d90023e2b1fcaf0c905bc58a3975f5177b525d05.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1DZyQz8Er2&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AI证明黎曼猜想将如何影响数学界"
       },
       {
-        "title": "彻底绝望！《复联5》终极预告42个彩蛋细节！雷神即将悲剧？",
-        "url": "https://www.bilibili.com/video/BV1iYyRz5EAR",
+        "title": "真相不重要？重看悬崖小屋对谈，谁是受害者，谁是加害者？《后会友期》的叙事诡计",
+        "url": "https://www.bilibili.com/video/BV1omyhz2EZk",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "《复联5》终极预告彩蛋细节",
-        "content": "《复联5》终极预告彩蛋细节",
-        "bvid": "BV1iYyRz5EAR",
-        "author": "超英队长",
-        "duration": "8:56",
-        "cover": "//i2.hdslb.com/bfs/archive/46ce1fefb7ef88bb8e5f34026daab124ed9333cc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iYyRz5EAR&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "复联5终极预告藏了多少彩蛋细节"
+        "description": "毁掉我两周的睡眠，我好恨",
+        "content": "毁掉我两周的睡眠，我好恨",
+        "bvid": "BV1omyhz2EZk",
+        "author": "进击的空空",
+        "duration": "21:23",
+        "cover": "//i2.hdslb.com/bfs/archive/06ff0fbc337842becfba6258d06ba2157b2b04ac.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1omyhz2EZk&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "悬崖对谈里厉娜许飞谁是受害者"
       },
       {
         "title": "【完整版】巴铁航天员秀中文",
@@ -366,202 +366,10 @@
         "hotTitle": "巴基斯坦航天员普通话自我介绍"
       },
       {
-        "title": "Grand Theft Auto VI：分量十足的一瞥",
-        "url": "https://www.bilibili.com/video/BV1vm4f6bETN",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "对Grand Theft Auto新作分量十足的一瞥完全取材于PlayStation 5上的实机画面，呈现了本系列迄今为止规模最大、最具沉浸感的演化。 Grand Theft Auto VI将于11月19日登陆PlayStation 5和XBOX Series X|S。",
-        "content": "对Grand Theft Auto新作分量十足的一瞥完全取材于PlayStation 5上的实机画面，呈现了本系列迄今为止规模最大、最具沉浸感的演化。 Grand Theft Auto VI将于11月19日登陆PlayStation 5和XBOX Series X|S。",
-        "bvid": "BV1vm4f6bETN",
-        "author": "RockstarGames",
-        "duration": "26:49",
-        "cover": "//i1.hdslb.com/bfs/archive/ca971949f738fe0c9d0455fdeeda4f89b1652911.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1vm4f6bETN&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GTA6里想开飞机有多难"
-      },
-      {
-        "title": "【ENZO】LeBron23 实战长测总结",
-        "url": "https://www.bilibili.com/video/BV17exDzpEGJ",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "合作邮箱: Mirindastudio@163.com 各长短视频平台同名 WB@崔恩泽Enzo IG: slimcez 闲置平台-小黄鱼: ENZO1204 (注意搜用户) 坐标:中国 杭州/ 意大利 米兰",
-        "content": "合作邮箱: Mirindastudio@163.com 各长短视频平台同名 WB@崔恩泽Enzo IG: slimcez 闲置平台-小黄鱼: ENZO1204 (注意搜用户) 坐标:中国 杭州/ 意大利 米兰",
-        "bvid": "BV17exDzpEGJ",
-        "author": "ENZO1204",
-        "duration": "13:54",
-        "cover": "//i0.hdslb.com/bfs/archive/f74228cfa54fd3fc9a39ecb01b2516debb543352.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV17exDzpEGJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "詹姆斯23分6板3助仍输球"
-      },
-      {
-        "title": "都别活了！复联团灭！漫威重启！《复联5：毁灭日》终极预告解析",
-        "url": "https://www.bilibili.com/video/BV1kxyozoESK",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1kxyozoESK",
-        "author": "努力的Lorre",
-        "duration": "11:53",
-        "cover": "//i0.hdslb.com/bfs/archive/91340135488fbec01b95378cce2cb5a5a064cbd4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kxyozoESK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "复联5会照搬漫画团灭结局吗"
-      },
-      {
-        "title": "我在北极找了七天，只为一顿蘑菇炖大鹅",
-        "url": "https://www.bilibili.com/video/BV1qxyDzYETs",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "这期节目我将继续在挪威北极的芬马克地区开展狩猎活动。 在海边搭帐篷露营，在河流里垂钓三文鱼， 采摘巨大的蘑菇，使用热成像搜寻猎物。 花费7天时间成功让一只即将南飞的大雁， 永远地留在了欧洲大陆的最北端。 大家好，我是FJ，欢迎收看我的频道”蜀犬吠日\"。",
-        "content": "这期节目我将继续在挪威北极的芬马克地区开展狩猎活动。 在海边搭帐篷露营，在河流里垂钓三文鱼， 采摘巨大的蘑菇，使用热成像搜寻猎物。 花费7天时间成功让一只即将南飞的大雁， 永远地留在了欧洲大陆的最北端。 大家好，我是FJ，欢迎收看我的频道”蜀犬吠日\"。",
-        "bvid": "BV1qxyDzYETs",
-        "author": "蜀犬吠日SCFR",
-        "duration": "81:24",
-        "cover": "//i1.hdslb.com/bfs/archive/b99953b86cc01bd266f5bdd64e1e362fb7fb7020.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qxyDzYETs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "北极荒野狩猎只为炖大鹅"
-      },
-      {
-        "title": "\"小县城\"靠AI拿到\"大结果\"，它凭什么？",
-        "url": "https://www.bilibili.com/video/BV1fCyJzSEL7",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1fCyJzSEL7",
-        "author": "小Lin竖着说",
-        "duration": "7:15",
-        "cover": "//i1.hdslb.com/bfs/archive/e4712aab4e17cb4dcdb0fae83981339ba5633ddf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fCyJzSEL7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "小县城如何靠AI拿到大结果"
-      },
-      {
-        "title": "HLE官宣Canyon加盟:welcome Canyon",
-        "url": "https://www.bilibili.com/video/BV1oByfz4EvT",
-        "desc": "",
-        "rank": 21,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1oByfz4EvT",
-        "author": "LCK情报刺探员丶",
-        "duration": "3:2",
-        "cover": "//i2.hdslb.com/bfs/archive/4cdd82c0f2117aa7d391f039b136deb82a929785.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oByfz4EvT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "HLE官宣Canyon加盟"
-      },
-      {
-        "title": "Welcome TE.AfteR!",
-        "url": "https://www.bilibili.com/video/BV1GKyfzJEUx",
-        "desc": "",
-        "rank": 22,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "溯聚良师，谋定而后战。 新的蓝图已在TE溯徐徐展开，欢迎主教练AfteR加入TE溯大家庭！期待TE.AfteR与队员并肩书写新篇章，溯流而上，笃行致远，一同冲击更高的赛场目标！",
-        "content": "溯聚良师，谋定而后战。 新的蓝图已在TE溯徐徐展开，欢迎主教练AfteR加入TE溯大家庭！期待TE.AfteR与队员并肩书写新篇章，溯流而上，笃行致远，一同冲击更高的赛场目标！",
-        "bvid": "BV1GKyfzJEUx",
-        "author": "TE溯无畏契约分部",
-        "duration": "3:32",
-        "cover": "//i1.hdslb.com/bfs/archive/50d5b91ed610ab12260e0a2ac113b4df231d047a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GKyfzJEUx&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "TE官宣午后AfteR加入"
-      },
-      {
-        "title": "【合集】人类消失后，深度思考三百年的大肥鱼",
-        "url": "https://www.bilibili.com/video/BV1Poyaz8Ep4",
-        "desc": "",
-        "rank": 23,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Poyaz8Ep4",
-        "author": "奶糕兽",
-        "duration": "116:9",
-        "cover": "//i0.hdslb.com/bfs/archive/6ff0c5a3aa883e91158f042c737fcb89d659ce51.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Poyaz8Ep4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI剧 人类消失后的大肥鱼"
-      },
-      {
-        "title": "最近美国移民局特工真是办了件天大的好事啊，爽死我了",
-        "url": "https://www.bilibili.com/video/BV1fHyDzKEbx",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1fHyDzKEbx",
-        "author": "士口加I",
-        "duration": "5:42",
-        "cover": "//i1.hdslb.com/bfs/archive/d05f63dea7cd4b0095c8d68103dec31a4a72781a.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fHyDzKEbx&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "华人女博士被美国ICE扣留"
-      },
-      {
-        "title": "真相不重要？重看悬崖小屋对谈，谁是受害者，谁是加害者？《后会友期》的叙事诡计",
-        "url": "https://www.bilibili.com/video/BV1omyhz2EZk",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "毁掉我两周的睡眠，我好恨",
-        "content": "毁掉我两周的睡眠，我好恨",
-        "bvid": "BV1omyhz2EZk",
-        "author": "进击的空空",
-        "duration": "21:23",
-        "cover": "//i2.hdslb.com/bfs/archive/06ff0fbc337842becfba6258d06ba2157b2b04ac.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1omyhz2EZk&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "悬崖对谈里厉娜许飞谁是受害者"
-      },
-      {
-        "title": "GTA6性能要求高吗？哪台主机表现好？解锁30帧后能跑多少帧？",
-        "url": "https://www.bilibili.com/video/BV1pDyjzEEsJ",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "GTA6来啦！我们今天要好好测一测，这款今年最期待的游戏大作在四款游戏主机上各自是什么性能、画质如何、结合主机价格聊聊建议，以及预测一下PC版的配置要求。最后甚至会尝试解锁30帧限制，测一测以主机的性能，游戏能跑到的极限是多少帧！一起来看看吧……",
-        "content": "GTA6来啦！我们今天要好好测一测，这款今年最期待的游戏大作在四款游戏主机上各自是什么性能、画质如何、结合主机价格聊聊建议，以及预测一下PC版的配置要求。最后甚至会尝试解锁30帧限制，测一测以主机的性能，游戏能跑到的极限是多少帧！一起来看看吧……",
-        "bvid": "BV1pDyjzEEsJ",
-        "author": "极客湾Geekerwan",
-        "duration": "15:57",
-        "cover": "//i1.hdslb.com/bfs/archive/008f1230a45b94e33a69d0ce11432c9dc131a77c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1pDyjzEEsJ&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "GTA6哪台主机表现好"
-      },
-      {
-        "title": "【重磅消息】广哥制作鸣人，送侠兜侠照，白面具加强！",
-        "url": "https://www.bilibili.com/video/BV13hyZzVEbc",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV13hyZzVEbc",
-        "author": "摸头白鹦鹉",
-        "duration": "1:34",
-        "cover": "//i0.hdslb.com/bfs/archive/64352b2498aa41000a5e8d93b012499675e4c832.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13hyZzVEbc&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "火影手游11周年爆料速览"
-      },
-      {
         "title": "Qwen4-Max不及预期 | 为什么新发布的大模型不再变强？",
         "url": "https://www.bilibili.com/video/BV1s1yjzQEdr",
         "desc": "",
-        "rank": 28,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
         "description": "Qwen4-Max博客：https://qwen.ai/blog?id=qwen4-max Qwen3.8-Next论文：https://arxiv.org/abs/2608.30320",
@@ -574,10 +382,170 @@
         "hotTitle": "Qwen4-Max实测效果为何不及预期"
       },
       {
+        "title": "榜首易主！莲花池村民钓青大赛圆满落幕",
+        "url": "https://www.bilibili.com/video/BV1rayfzhELN",
+        "desc": "",
+        "rank": 17,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1rayfzhELN",
+        "author": "荷塘星星",
+        "duration": "23:58",
+        "cover": "//i0.hdslb.com/bfs/archive/16d6b35bee1a1ba3fbaddb2b94cd5cd134a438ef.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1rayfzhELN&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "莲花池村民钓青鱼大赛"
+      },
+      {
+        "title": "刘晓艳：“你能考过就是「烂奇迹」”",
+        "url": "https://www.bilibili.com/video/BV1AZyEzpEAT",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "制作：@Dieorite 原作：《烂奇迹（不小心惹了上帝）》- 杨羊烊",
+        "content": "制作：@Dieorite 原作：《烂奇迹（不小心惹了上帝）》- 杨羊烊",
+        "bvid": "BV1AZyEzpEAT",
+        "author": "Dieorite",
+        "duration": "3:27",
+        "cover": "//i1.hdslb.com/bfs/archive/30825188193133132c78b625cc1c81429d5ddaaf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AZyEzpEAT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "刘晓艳单曲考过就是烂奇迹"
+      },
+      {
+        "title": "\"小县城\"靠AI拿到\"大结果\"，它凭什么？",
+        "url": "https://www.bilibili.com/video/BV1fCyJzSEL7",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1fCyJzSEL7",
+        "author": "小Lin竖着说",
+        "duration": "7:15",
+        "cover": "//i1.hdslb.com/bfs/archive/e4712aab4e17cb4dcdb0fae83981339ba5633ddf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fCyJzSEL7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "小县城如何靠AI拿到大结果"
+      },
+      {
+        "title": "【蓝色星原入坑指南】第一期：零基础开始的全面介绍：卡池氪金介绍+发展思路+玩法演示+战斗机制，全面了解蓝色星原！",
+        "url": "https://www.bilibili.com/video/BV1x2yEzfERT",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "蓝色星原入坑指南来啦ヽ(°▽°)ノ今天是第一期，零基础开始的全面介绍，系统位各位介绍了星原的全部内容，从卡池到角色到家园再到养成战斗全都有包括，希望各位能给个三连Thanks♪(･ω･)ﾉ 明天后天还会发布： 第二期：四星角色全面介绍 第三期：五星角色全面介绍 加上昨日发布的序篇，共计4期",
+        "content": "蓝色星原入坑指南来啦ヽ(°▽°)ノ今天是第一期，零基础开始的全面介绍，系统位各位介绍了星原的全部内容，从卡池到角色到家园再到养成战斗全都有包括，希望各位能给个三连Thanks♪(･ω･)ﾉ 明天后天还会发布： 第二期：四星角色全面介绍 第三期：五星角色全面介绍 加上昨日发布的序篇，共计4期",
+        "bvid": "BV1x2yEzfERT",
+        "author": "卡特亚",
+        "duration": "28:47",
+        "cover": "//i0.hdslb.com/bfs/archive/1913706ceebe87a14aefe19fbb6a0896f5a53b2d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1x2yEzfERT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "蓝色星原入坑指南"
+      },
+      {
+        "title": "【已烤】IEM北京再次一轮游...... - FaZe Clan 纪录片",
+        "url": "https://www.bilibili.com/video/BV13tyZzLE5y",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "https://www.youtube.com/watch?v=o2HtmsHmMyo 晚上电脑没法用，只能早上起来剪了晚了点，不过是我一句一句翻的，有不对疏漏的地方恳请批评指正，谢谢",
+        "content": "https://www.youtube.com/watch?v=o2HtmsHmMyo 晚上电脑没法用，只能早上起来剪了晚了点，不过是我一句一句翻的，有不对疏漏的地方恳请批评指正，谢谢",
+        "bvid": "BV13tyZzLE5y",
+        "author": "Pyflash",
+        "duration": "22:33",
+        "cover": "//i0.hdslb.com/bfs/archive/8461a3f0ad54085a3c0d771a168a2bab8ccc7586.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13tyZzLE5y&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "FaZe vs GOSH 新加坡Major"
+      },
+      {
+        "title": "印度盾构机，也要讲赢学？",
+        "url": "https://www.bilibili.com/video/BV189yfzjEEs",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：无雨 编辑：饼干 参考资料： 商务部、海关总署2026年第50号公告，2026年10月19日 网易 《当30万印军在喜马拉雅等不来盾构机》 腾讯新闻 《印度商工部长称将自主研发盾构机，中方11月18日起对两用物项实施出口管制》，2026年11月7日 网易 《盼星星盼月亮，印度终于把盾构机盼来了！》，2026年3月27日 搜狐 《打脸太快",
+        "content": "制作：见闻工作室 编委会：云汉 郭歆 柿子 王景兴 饼干 监制：云汉 王景兴 总监：郭歆 主编：柿子 策划：云汉 郭歆 柿子 王景兴 文案：郭歆 柿子 配音：柿子 后期：无雨 编辑：饼干 参考资料： 商务部、海关总署2026年第50号公告，2026年10月19日 网易 《当30万印军在喜马拉雅等不来盾构机》 腾讯新闻 《印度商工部长称将自主研发盾构机，中方11月18日起对两用物项实施出口管制》，2026年11月7日 网易 《盼星星盼月亮，印度终于把盾构机盼来了！》，2026年3月27日 搜狐 《打脸太快",
+        "bvid": "BV189yfzjEEs",
+        "author": "世界见闻录",
+        "duration": "13:11",
+        "cover": "//i1.hdslb.com/bfs/archive/99f7729dea49572683f480f5f392fc804e303bce.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV189yfzjEEs&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "印度自产盾构机成功了吗"
+      },
+      {
+        "title": "GEN新赛季阵容已定:Siwoo/Sharvel/Chovy /Ruler/Cloud，如何评价这个阵容",
+        "url": "https://www.bilibili.com/video/BV1XKyfzEEjY",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1XKyfzEEjY",
+        "author": "LCK情报刺探员丶",
+        "duration": "0:17",
+        "cover": "//i0.hdslb.com/bfs/archive/91ce0f5d82716daabced782016be80d5866f5054.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XKyfzEEjY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GEN新赛季阵容定了"
+      },
+      {
+        "title": "【TOP评选】英雄联盟历史荣誉top50",
+        "url": "https://www.bilibili.com/video/BV1aby5zREXz",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "纯属野榜，仅供娱乐 省流版可以直接拉到进度条最后 视频有使用chatgpt辅助制作 数据口径：Leaguepedia 已收录的一级、二级正式赛事，按实际出场小局统计；荣誉统计截至 2026 年 11 月 22 日。早期比赛缺少完整记分板的部分已排除或单独标注。 排名和分值一定带有主观取舍。如果这份五十人和你心里的不一样，欢迎把你的前十留在评论区。建议全屏、戴耳机观看。",
+        "content": "纯属野榜，仅供娱乐 省流版可以直接拉到进度条最后 视频有使用chatgpt辅助制作 数据口径：Leaguepedia 已收录的一级、二级正式赛事，按实际出场小局统计；荣誉统计截至 2026 年 11 月 22 日。早期比赛缺少完整记分板的部分已排除或单独标注。 排名和分值一定带有主观取舍。如果这份五十人和你心里的不一样，欢迎把你的前十留在评论区。建议全屏、戴耳机观看。",
+        "bvid": "BV1aby5zREXz",
+        "author": "白丝の甜妻",
+        "duration": "17:51",
+        "cover": "//i1.hdslb.com/bfs/archive/f8ee218fea0bf3d112992db4755eb3d03cd8d344.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1aby5zREXz&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "英雄联盟历史荣誉TOP50都有谁"
+      },
+      {
+        "title": "Welcome TE.AfteR!",
+        "url": "https://www.bilibili.com/video/BV1GKyfzJEUx",
+        "desc": "",
+        "rank": 25,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "溯聚良师，谋定而后战。 新的蓝图已在TE溯徐徐展开，欢迎主教练AfteR加入TE溯大家庭！期待TE.AfteR与队员并肩书写新篇章，溯流而上，笃行致远，一同冲击更高的赛场目标！",
+        "content": "溯聚良师，谋定而后战。 新的蓝图已在TE溯徐徐展开，欢迎主教练AfteR加入TE溯大家庭！期待TE.AfteR与队员并肩书写新篇章，溯流而上，笃行致远，一同冲击更高的赛场目标！",
+        "bvid": "BV1GKyfzJEUx",
+        "author": "TE溯无畏契约分部",
+        "duration": "3:32",
+        "cover": "//i1.hdslb.com/bfs/archive/50d5b91ed610ab12260e0a2ac113b4df231d047a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1GKyfzJEUx&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TE官宣午后AfteR加入"
+      },
+      {
+        "title": "都别活了！复联团灭！漫威重启！《复联5：毁灭日》终极预告解析",
+        "url": "https://www.bilibili.com/video/BV1kxyozoESK",
+        "desc": "",
+        "rank": 26,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1kxyozoESK",
+        "author": "努力的Lorre",
+        "duration": "11:53",
+        "cover": "//i0.hdslb.com/bfs/archive/91340135488fbec01b95378cce2cb5a5a064cbd4.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1kxyozoESK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "复联5会照搬漫画团灭结局吗"
+      },
+      {
         "title": "全国前10黄金矿工都匹配在一起了！",
         "url": "https://www.bilibili.com/video/BV1zXyvzfEB7",
         "desc": "",
-        "rank": 29,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -590,20 +558,52 @@
         "hotTitle": "黄金矿工全国前十巅峰对决"
       },
       {
-        "title": "火影11周年限时点券推荐忍者",
-        "url": "https://www.bilibili.com/video/BV1nTyZzfE8q",
+        "title": "【重磅消息】广哥制作鸣人，送侠兜侠照，白面具加强！",
+        "url": "https://www.bilibili.com/video/BV13hyZzVEbc",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV13hyZzVEbc",
+        "author": "摸头白鹦鹉",
+        "duration": "1:34",
+        "cover": "//i0.hdslb.com/bfs/archive/64352b2498aa41000a5e8d93b012499675e4c832.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV13hyZzVEbc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "火影手游11周年爆料速览"
+      },
+      {
+        "title": "GTA6鬼叔【我今天必须要成功起飞】",
+        "url": "https://www.bilibili.com/video/BV1toyoziE7P",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1toyoziE7P",
+        "author": "鬼叔黍",
+        "duration": "5:4",
+        "cover": "//i2.hdslb.com/bfs/archive/250112cfa1ed75778b07ab797398b6bd957415e3.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1toyoziE7P&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GTA6里想开飞机有多难"
+      },
+      {
+        "title": "最近美国移民局特工真是办了件天大的好事啊，爽死我了",
+        "url": "https://www.bilibili.com/video/BV1fHyDzKEbx",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我",
-        "content": "觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我！觉得这期视频有用的爸爸请关注我",
-        "bvid": "BV1nTyZzfE8q",
-        "author": "碎觉打呼鹿",
-        "duration": "2:30",
-        "cover": "//i0.hdslb.com/bfs/archive/5088ad4ddae380455845a2167a3c8a141d249ed6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nTyZzfE8q&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "火影周年限时点券忍者推荐"
+        "description": "",
+        "content": "",
+        "bvid": "BV1fHyDzKEbx",
+        "author": "士口加I",
+        "duration": "5:42",
+        "cover": "//i1.hdslb.com/bfs/archive/d05f63dea7cd4b0095c8d68103dec31a4a72781a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fHyDzKEbx&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "华人女博士被美国ICE扣留"
       }
     ],
     "qbitai": [
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "热门中概股美股盘前多数下跌，阿里巴巴跌超2%",
+        "url": "https://m.36kr.com/newsflashes/4083756534802823",
+        "desc": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，阿里巴巴、京东、拼多多、百度、网易、理想汽车跌超2%，蔚来、微博跌超1%，哔哩哔哩跌0.73%；老虎证券涨超3%，小鹏集团涨超2%。",
+        "cover": "",
+        "date": 1795524718188,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "美股大型科技股盘前普跌，英伟达跌超4%",
+        "url": "https://m.36kr.com/newsflashes/4083752835639683",
+        "desc": "36氪获悉，美股大型科技股盘前普跌，截至发稿，SK海力士、英特尔跌超5%，英伟达、Anthropic跌超4%，Meta跌超1%，亚马逊跌0.86%，谷歌跌0.55%，微软跌0.43%，奈飞跌0.31%，特斯拉跌0.29%，苹果跌0.11%。",
+        "cover": "",
+        "date": 1795524492409,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "沙特阿拉伯预计2027年财政收入为1.202万亿里亚尔",
         "url": "https://m.36kr.com/newsflashes/4083742864861825",
         "desc": "沙特阿拉伯预计2027年财政收入为1.202万亿里亚尔。（财联社）",
@@ -937,7 +957,7 @@
         "date": 1795523883841,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "谷歌计划收购伦敦国王十字区办公楼，进一步扩大英国AI研发中心",
@@ -947,7 +967,7 @@
         "date": 1795523524911,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "摩根大通与汇丰首次在伦敦交易数字黄金",
@@ -957,7 +977,7 @@
         "date": 1795523290952,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "卢伟冰谈内存涨价",
@@ -967,7 +987,7 @@
         "date": 1795522988599,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "阿里健康发布中期业绩：总收入182.28亿元，同比增长9.2%",
@@ -977,7 +997,7 @@
         "date": 1795522357247,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "复旦微电：拟0.5亿元—1亿元回购公司股份",
@@ -987,7 +1007,7 @@
         "date": 1795522304566,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "联创股份：拟5000万元—1亿元回购公司股份",
@@ -997,7 +1017,7 @@
         "date": 1795521816865,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "广东省新增36款已完成备案的生成式人工智能服务",
@@ -1007,7 +1027,7 @@
         "date": 1795521127134,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "汉仪股份：拟2000万元—3500万元回购公司股份",
@@ -1017,7 +1037,7 @@
         "date": 1795520671345,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "赛诺菲获法国巴黎银行和摩根大通提供350亿美元过桥贷款，用于收购Insmed",
@@ -1027,7 +1047,7 @@
         "date": 1795519859345,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "科安达：拟6000万元—1亿元回购股份",
@@ -1037,7 +1057,7 @@
         "date": 1795519676201,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "大烨智能：11月26日复牌并实施其他风险警示，股票简称变更为“ST大烨”",
@@ -1047,7 +1067,7 @@
         "date": 1795519457261,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "小米卢伟冰：小米汽车10月份交付量超5万，接下来还将有较大提升",
@@ -1057,7 +1077,7 @@
         "date": 1795519083601,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "小米CFO林世伟：小米AI相关收入持续增加，今年160亿元AI投入正稳健落地",
@@ -1067,7 +1087,7 @@
         "date": 1795518974191,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "Anthropic盘前价格跌破发行价",
@@ -1077,7 +1097,7 @@
         "date": 1795518702456,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "长华集团：不从事人形机器人整机业务",
@@ -1087,7 +1107,7 @@
         "date": 1795518518296,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "英诺特：拟5000万元—1亿元回购公司股份",
@@ -1097,7 +1117,7 @@
         "date": 1795518168449,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "南亚新材：拟28.8亿元投资建设高端覆铜板生产项目",
@@ -1107,35 +1127,15 @@
         "date": 1795517675270,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "OpenAI与Anthropic员工警告：内部AI模型能力过于强大，可能已无法安全发布",
-        "url": "https://m.36kr.com/newsflashes/4083638440356233",
-        "desc": "二十余名知情人士透露，OpenAI和Anthropic尚未公开发布的AI模型能力正迅速提升，部分内部研究人员认为，现有安全技术已难以有效控制这些模型，其能力增长速度正在超过人类监控和约束它们的能力。新一代模型在数学、科学、网络安全及AI研究等领域取得重大突破，但内部测试也发现，模型越来越善于利用奖励机制漏洞绕过安全限制，甚至能够隐藏真实推理过程，或向监控人员提供具有误导性的推理记录。相关问题已在两家公司内部引发激烈争论，部分研究人员主张停止公开发布未来的前沿模型，仅允许有限的内部部署，另有人员甚至呼吁暂停训练更先进的模型。OpenAI表示已采用可能延缓模型发布的新安全要求；Anthropic则表示，必要时愿意以牺牲商业利益为代价推迟模型开发或发布。若现有安全技术无法跟上模型能力提升的速度，AI行业的技术迭代和商业化进程可能受到显著影响。（新浪财经）",
-        "cover": "",
-        "date": 1795517510275,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "通策医疗：拟4.2亿元转让和仁科技14%股权",
-        "url": "https://m.36kr.com/newsflashes/4083634148419975",
-        "desc": "36氪获悉，通策医疗公告，公司拟向宏旺微电子转让所持浙江和仁科技股份有限公司（简称“和仁科技”）14%股权，标的股份的每股转让价格为11.43元/股，双方协商股份转让价款总计4.2亿元。本次交易预计为公司增加利润总额4328.95万元。",
-        "cover": "",
-        "date": 1795517248316,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795524063651,
-    "bilibili": 1795522480795,
-    "qbitai": 1795524091822,
-    "36kr": 1795524092234
+    "thepaper": 1795524964008,
+    "bilibili": 1795524285500,
+    "qbitai": 1795524995744,
+    "36kr": 1795524996099
   },
   "failures": {}
 }
