@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:26:38Z",
+  "updatedAt": "2026-11-25T08:41:43Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -46,38 +46,38 @@
         "rank": 7
       },
       {
-        "title": "品牌汉堡商标遭“山寨”，侵权方被判赔500万元",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34546340",
-        "desc": "",
-        "rank": 8
-      },
-      {
         "title": "亚洲数学联盟成立，丘成桐任主席",
         "url": "https://www.thepaper.cn/newsDetail_forward_34551655",
         "desc": "",
-        "rank": 9
+        "rank": 8
       },
       {
         "title": "直播丨神舟二十四号载人飞船发射取得圆满成功",
         "url": "https://www.thepaper.cn/newsDetail_forward_34545247",
         "desc": "",
-        "rank": 10
-      },
-      {
-        "title": "中方对黄仁勋重回英伟达有何评论？外交部回应",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34546549",
-        "desc": "",
-        "rank": 11
+        "rank": 9
       },
       {
         "title": "媒体：洗脚盆上车？车企创新别跑偏",
         "url": "https://www.thepaper.cn/newsDetail_forward_34550322",
         "desc": "",
-        "rank": 12
+        "rank": 10
+      },
+      {
+        "title": "美国FCC更新清单，光储逆变器股走强、阳光电源盘中大涨14%",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34549933",
+        "desc": "",
+        "rank": 11
       },
       {
         "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
         "url": "https://www.thepaper.cn/newsDetail_forward_34555127",
+        "desc": "",
+        "rank": 12
+      },
+      {
+        "title": "美国再曝网络安全事件，CIA开源情报分析系统遭入侵有信息泄露",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34553570",
         "desc": "",
         "rank": 13
       },
@@ -100,26 +100,26 @@
         "rank": 16
       },
       {
+        "title": "“鲤鱼打挺”失败仍获武术比赛亚军？包头市教育局：该项目三人参赛，无违规情形",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34549397",
+        "desc": "",
+        "rank": 17
+      },
+      {
         "title": "一水连世界，共话城市未来",
         "url": "https://www.thepaper.cn/newsDetail_forward_34549129",
         "desc": "",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "王毅同英国外交大臣米利班德通电话",
         "url": "https://www.thepaper.cn/newsDetail_forward_34550196",
         "desc": "",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "俄军舰在利比亚遭乌无人艇袭击，战火外溢对俄乌冲突有何影响？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34549314",
-        "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "田秉毅任国家羽毛球队主教练",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34549598",
         "desc": "",
         "rank": 20
       }
@@ -142,10 +142,42 @@
         "hotTitle": "神舟二十四号发射圆满成功"
       },
       {
+        "title": "TES超市开张？新赛季谁会失业谁会休息，TES选手明年何去何从【联盟那些事儿】",
+        "url": "https://www.bilibili.com/video/BV1TPyrzoECD",
+        "desc": "",
+        "rank": 2,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "TES转会期将如何决定？",
+        "content": "TES转会期将如何决定？",
+        "bvid": "BV1TPyrzoECD",
+        "author": "LOL丶诺诺",
+        "duration": "17:2",
+        "cover": "//i1.hdslb.com/bfs/archive/9d154633564aa1f54b68e1c1128f70f66348784a.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TPyrzoECD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "TES选手新赛季何去何从"
+      },
+      {
+        "title": "OpenAI发布九篇数学论文：AI或创造新数学工具",
+        "url": "https://www.bilibili.com/video/BV1a3yBzsEPv",
+        "desc": "",
+        "rank": 3,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1a3yBzsEPv",
+        "author": "分析学爱好者",
+        "duration": "3:47",
+        "cover": "//i1.hdslb.com/bfs/archive/b036945aba9257107b11c8de56a30075acf99a4d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1a3yBzsEPv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "OpenAI发布九篇数学论文"
+      },
+      {
         "title": "决赛练英雄？选皮肤原则大公开！BLG冠军中野亲自讲述夺冠故事【视频播客 | 元来如此 EP.10】",
         "url": "https://www.bilibili.com/video/BV1qByfz4EjN",
         "desc": "",
-        "rank": 2,
+        "rank": 4,
         "kind": "video",
         "platform": "bilibili",
         "description": "本期节目录制于11月20日。",
@@ -161,7 +193,7 @@
         "title": "宇宙级合影上新！中外航天员实现首次“太空握手”。",
         "url": "https://www.bilibili.com/video/BV1NVyrzDEF7",
         "desc": "",
-        "rank": 3,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -174,26 +206,26 @@
         "hotTitle": "中外航天员实现首次太空握手"
       },
       {
-        "title": "OpenAI发布九篇数学论文：AI或创造新数学工具",
-        "url": "https://www.bilibili.com/video/BV1a3yBzsEPv",
+        "title": "刚上市就减持，Anthropic跌破发行价，7名创始人套现20亿美元，黄仁勋恢复原职后，美国金融流动性危机并未解除",
+        "url": "https://www.bilibili.com/video/BV1ssyBz1Eko",
         "desc": "",
-        "rank": 4,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1a3yBzsEPv",
-        "author": "分析学爱好者",
-        "duration": "3:47",
-        "cover": "//i1.hdslb.com/bfs/archive/b036945aba9257107b11c8de56a30075acf99a4d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1a3yBzsEPv&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "OpenAI发布九篇数学论文"
+        "description": "11月24日晚上美股开盘后，Anthropic不出意外的直接开盘破发。 Anthropic七位联合创始人在本次IPO中出售股份，合计套现约20亿美元。 对此，本视频会来详细分析，感谢赞赏支持。",
+        "content": "11月24日晚上美股开盘后，Anthropic不出意外的直接开盘破发。 Anthropic七位联合创始人在本次IPO中出售股份，合计套现约20亿美元。 对此，本视频会来详细分析，感谢赞赏支持。",
+        "bvid": "BV1ssyBz1Eko",
+        "author": "星话大白",
+        "duration": "10:18",
+        "cover": "//i0.hdslb.com/bfs/archive/0c1a5df050dc3bcbb3f440f1d525c2f784604671.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ssyBz1Eko&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Anthropic跌破发行价"
       },
       {
         "title": "因为小时候淋过雨，所以长大后.....",
         "url": "https://www.bilibili.com/video/BV1KHyfzuE2F",
         "desc": "",
-        "rank": 5,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
         "description": "本视频记录来在秋假期间，小时候淋过雨的学生，长大后去给别的小学生“打伞”。",
@@ -206,52 +238,20 @@
         "hotTitle": "乡村教师UP主初代学生限时回归"
       },
       {
-        "title": "《狩》首曝PV&实机演示丨动作要秀，有狩就行！",
-        "url": "https://www.bilibili.com/video/BV1931AzhE1q",
-        "desc": "",
-        "rank": 6,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "各位选手，欢迎来到“狩”，一个全新的动作赛场！ 聚光灯下，个性十足的时尚厂牌选手齐聚于此——在这里，怎么秀由你说了算！数十种武器搭配华丽多变的动作招式，近战博弈、全域跑酷与竞技策略层层交叠，每一帧都将是你的SHOTIME时刻！ 赢家不止一个，玩法不止一种。PC、移动多端互通，无论在哪，随时随地都能秀出你的操作。动作要秀，有狩就行！ 「SHOTIME测试」现已开启招募，点击评论区链接预约游戏并参与报名，等你一起开秀！",
-        "content": "各位选手，欢迎来到“狩”，一个全新的动作赛场！ 聚光灯下，个性十足的时尚厂牌选手齐聚于此——在这里，怎么秀由你说了算！数十种武器搭配华丽多变的动作招式，近战博弈、全域跑酷与竞技策略层层交叠，每一帧都将是你的SHOTIME时刻！ 赢家不止一个，玩法不止一种。PC、移动多端互通，无论在哪，随时随地都能秀出你的操作。动作要秀，有狩就行！ 「SHOTIME测试」现已开启招募，点击评论区链接预约游戏并参与报名，等你一起开秀！",
-        "bvid": "BV1931AzhE1q",
-        "author": "狩SHOU",
-        "duration": "5:41",
-        "cover": "//i1.hdslb.com/bfs/archive/baf47b743a126f86c9142950e4069ec3c4992c83.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1931AzhE1q&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "魔方动作新游狩首曝实机"
-      },
-      {
-        "title": "《明日方舟：终末地》小刻EP - JUST THE START",
-        "url": "https://www.bilibili.com/video/BV1YhyzzhEJU",
-        "desc": "",
-        "rank": 7,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "《明日方舟：终末地》干员小刻专属单曲《JUST THE START》MV现已公开。 歌曲完整版音源同步上架QQ音乐、网易云音乐、酷狗音乐等平台，欢迎管理员们前往收听。 【专辑介绍】 微风轻拂，阳光正好。一块蜜饼，一张奇妙的地图，还有一段惊喜的旅程。 带上好奇心，备好行囊，和小刻一起出发！ 【歌曲列表】 JUST THE START JUST THE START (Instrumental)",
-        "content": "《明日方舟：终末地》干员小刻专属单曲《JUST THE START》MV现已公开。 歌曲完整版音源同步上架QQ音乐、网易云音乐、酷狗音乐等平台，欢迎管理员们前往收听。 【专辑介绍】 微风轻拂，阳光正好。一块蜜饼，一张奇妙的地图，还有一段惊喜的旅程。 带上好奇心，备好行囊，和小刻一起出发！ 【歌曲列表】 JUST THE START JUST THE START (Instrumental)",
-        "bvid": "BV1YhyzzhEJU",
-        "author": "明日方舟终末地",
-        "duration": "2:17",
-        "cover": "//i0.hdslb.com/bfs/archive/95afedd836af1e5f7bf3f2eeca1a625f8231e3a9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YhyzzhEJU&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "终末地新干员小刻EP"
-      },
-      {
-        "title": "刚上市就减持，Anthropic跌破发行价，7名创始人套现20亿美元，黄仁勋恢复原职后，美国金融流动性危机并未解除",
-        "url": "https://www.bilibili.com/video/BV1ssyBz1Eko",
+        "title": "极客湾手机影像大横评：哪家手机拍照强？",
+        "url": "https://www.bilibili.com/video/BV1c5yzzGEL9",
         "desc": "",
         "rank": 8,
         "kind": "video",
         "platform": "bilibili",
-        "description": "11月24日晚上美股开盘后，Anthropic不出意外的直接开盘破发。 Anthropic七位联合创始人在本次IPO中出售股份，合计套现约20亿美元。 对此，本视频会来详细分析，感谢赞赏支持。",
-        "content": "11月24日晚上美股开盘后，Anthropic不出意外的直接开盘破发。 Anthropic七位联合创始人在本次IPO中出售股份，合计套现约20亿美元。 对此，本视频会来详细分析，感谢赞赏支持。",
-        "bvid": "BV1ssyBz1Eko",
-        "author": "星话大白",
-        "duration": "10:18",
-        "cover": "//i0.hdslb.com/bfs/archive/0c1a5df050dc3bcbb3f440f1d525c2f784604671.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ssyBz1Eko&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Anthropic跌破发行价"
+        "description": "大横评又来啦！这期是2026手机影像大横评，我们这次设计了一套完整的影像测试流程，非常详细地做了理论测试+实拍，把旗舰、小杯、子系机型拉出来测了个遍，希望能够对你全面认识各家手机厂商的影像风格和影像能力有所帮助。和我们一起来探索一下2026年各家手机厂商的影像实力吧！",
+        "content": "大横评又来啦！这期是2026手机影像大横评，我们这次设计了一套完整的影像测试流程，非常详细地做了理论测试+实拍，把旗舰、小杯、子系机型拉出来测了个遍，希望能够对你全面认识各家手机厂商的影像风格和影像能力有所帮助。和我们一起来探索一下2026年各家手机厂商的影像实力吧！",
+        "bvid": "BV1c5yzzGEL9",
+        "author": "极客湾Geekerwan",
+        "duration": "63:7",
+        "cover": "//i0.hdslb.com/bfs/archive/ce4902fc1b34c908fc565ecdbd01d38148c2f2f9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c5yzzGEL9&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "手机影像全机型大横评"
       },
       {
         "title": "ChatGPT 开始合并 Chat 和 Work，部分用户率先体验【AI 早报 2026-11-25】",
@@ -270,20 +270,20 @@
         "hotTitle": "ChatGPT合并Chat和Work"
       },
       {
-        "title": "“格罗克”伪造色情内容 美国两州起诉SpaceX",
-        "url": "https://www.bilibili.com/video/BV1QayzzfEmj",
+        "title": "《狩》首曝PV&实机演示丨动作要秀，有狩就行！",
+        "url": "https://www.bilibili.com/video/BV1931AzhE1q",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "https://www.yspapp.cn/6GO3（央视频号：总台电视资讯）",
-        "content": "https://www.yspapp.cn/6GO3（央视频号：总台电视资讯）",
-        "bvid": "BV1QayzzfEmj",
-        "author": "央视频",
-        "duration": "2:23",
-        "cover": "//i2.hdslb.com/bfs/archive/8f3be6c75ad5d41b14888d3b9e0381ec59cce3ec.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QayzzfEmj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "美国两州起诉SpaceX"
+        "description": "各位选手，欢迎来到“狩”，一个全新的动作赛场！ 聚光灯下，个性十足的时尚厂牌选手齐聚于此——在这里，怎么秀由你说了算！数十种武器搭配华丽多变的动作招式，近战博弈、全域跑酷与竞技策略层层交叠，每一帧都将是你的SHOTIME时刻！ 赢家不止一个，玩法不止一种。PC、移动多端互通，无论在哪，随时随地都能秀出你的操作。动作要秀，有狩就行！ 「SHOTIME测试」现已开启招募，点击评论区链接预约游戏并参与报名，等你一起开秀！",
+        "content": "各位选手，欢迎来到“狩”，一个全新的动作赛场！ 聚光灯下，个性十足的时尚厂牌选手齐聚于此——在这里，怎么秀由你说了算！数十种武器搭配华丽多变的动作招式，近战博弈、全域跑酷与竞技策略层层交叠，每一帧都将是你的SHOTIME时刻！ 赢家不止一个，玩法不止一种。PC、移动多端互通，无论在哪，随时随地都能秀出你的操作。动作要秀，有狩就行！ 「SHOTIME测试」现已开启招募，点击评论区链接预约游戏并参与报名，等你一起开秀！",
+        "bvid": "BV1931AzhE1q",
+        "author": "狩SHOU",
+        "duration": "5:41",
+        "cover": "//i1.hdslb.com/bfs/archive/baf47b743a126f86c9142950e4069ec3c4992c83.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1931AzhE1q&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "魔方动作新游狩首曝实机"
       },
       {
         "title": "《绝区零》挽昼角色展示 | 日陨之前",
@@ -302,68 +302,68 @@
         "hotTitle": "绝区零挽昼角色展示"
       },
       {
-        "title": "《王者荣耀世界》S2赛季前瞻特别节目",
-        "url": "https://www.bilibili.com/video/BV1FnyzzMEP2",
+        "title": "外籍航天员穆罕默德·齐尚·阿里：中国空间站，我来啦！",
+        "url": "https://www.bilibili.com/video/BV1nBy6zyEZC",
         "desc": "",
         "rank": 12,
         "kind": "video",
         "platform": "bilibili",
-        "description": "剑心不灭，新程将启。 师弟师妹们，《王者荣耀世界》S2赛季前瞻特别节目现已正式上线！ 这一次，师姐携手策划与嘉宾，带大家走进潜心打磨的全新S2赛季： ⭐全新英雄共鸣「李白」技能情报 ⭐全新主线剧情及赛季支线任务更新 ⭐全新区域「姑射山」场景风貌抢先看 ⭐共流战斗系统焕新登场与养成减负解读 ⭐全新12人团本及赛季新玩法揭秘 ⭐全新休闲玩法与多项体验优化介绍 ⭐重磅联动与海量赛季福利惊喜公开 …… 同时，像大家近期比较关心的战斗系统改版、共鸣技能组的优化问题，也将在节目中集中回应。 更有未来版本登场的新英",
-        "content": "剑心不灭，新程将启。 师弟师妹们，《王者荣耀世界》S2赛季前瞻特别节目现已正式上线！ 这一次，师姐携手策划与嘉宾，带大家走进潜心打磨的全新S2赛季： ⭐全新英雄共鸣「李白」技能情报 ⭐全新主线剧情及赛季支线任务更新 ⭐全新区域「姑射山」场景风貌抢先看 ⭐共流战斗系统焕新登场与养成减负解读 ⭐全新12人团本及赛季新玩法揭秘 ⭐全新休闲玩法与多项体验优化介绍 ⭐重磅联动与海量赛季福利惊喜公开 …… 同时，像大家近期比较关心的战斗系统改版、共鸣技能组的优化问题，也将在节目中集中回应。 更有未来版本登场的新英",
-        "bvid": "BV1FnyzzMEP2",
-        "author": "王者荣耀世界",
-        "duration": "59:54",
-        "cover": "//i1.hdslb.com/bfs/archive/3caf2d56081ba5b4cfd617456f1a81b388afe3f2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1FnyzzMEP2&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "王者世界S2赛季前瞻节目"
+        "description": "",
+        "content": "",
+        "bvid": "BV1nBy6zyEZC",
+        "author": "央视新闻",
+        "duration": "0:42",
+        "cover": "//i0.hdslb.com/bfs/archive/ad5c1a29ab3255bdc3cd6aded12ea730daa07f50.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1nBy6zyEZC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "巴基斯坦航天员用中文致辞"
       },
       {
-        "title": "实力派还是“冲击波”？一个视频带你了解即将加盟lpl的韩援新面孔！【赛事战报转会期】",
-        "url": "https://www.bilibili.com/video/BV1ucyrzfEtm",
+        "title": "🎮 新队员加载中... 新的同行者已经出现！故事从今日开始展开！ 🎬 入队正片👇",
+        "url": "https://www.bilibili.com/video/BV1n6y6zVEsA",
         "desc": "",
         "rank": 13,
         "kind": "video",
         "platform": "bilibili",
-        "description": "下期见！",
-        "content": "下期见！",
-        "bvid": "BV1ucyrzfEtm",
-        "author": "逆天水煎包",
-        "duration": "6:9",
-        "cover": "//i0.hdslb.com/bfs/archive/46cb4348888443c2f6f9c34de5ac91baffacd4d6.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ucyrzfEtm&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "将加盟LPL的韩援新面孔有哪些"
+        "description": "",
+        "content": "",
+        "bvid": "BV1n6y6zVEsA",
+        "author": "AG无畏契约",
+        "duration": "3:58",
+        "cover": "//i0.hdslb.com/bfs/archive/ed4b8672cf96c7c4e87c43fb3cfaf3b3756e6ffd.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1n6y6zVEsA&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AG官宣Spring加入"
       },
       {
-        "title": "刘晓艳：“你能考过就是「烂奇迹」”",
-        "url": "https://www.bilibili.com/video/BV1AZyEzpEAT",
+        "title": "《明日方舟：终末地》小刻EP - JUST THE START",
+        "url": "https://www.bilibili.com/video/BV1YhyzzhEJU",
         "desc": "",
         "rank": 14,
         "kind": "video",
         "platform": "bilibili",
-        "description": "制作：@Dieorite 原作：《烂奇迹（不小心惹了上帝）》- 杨羊烊",
-        "content": "制作：@Dieorite 原作：《烂奇迹（不小心惹了上帝）》- 杨羊烊",
-        "bvid": "BV1AZyEzpEAT",
-        "author": "Dieorite",
-        "duration": "3:27",
-        "cover": "//i1.hdslb.com/bfs/archive/30825188193133132c78b625cc1c81429d5ddaaf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AZyEzpEAT&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "刘晓艳单曲考过就是烂奇迹"
+        "description": "《明日方舟：终末地》干员小刻专属单曲《JUST THE START》MV现已公开。 歌曲完整版音源同步上架QQ音乐、网易云音乐、酷狗音乐等平台，欢迎管理员们前往收听。 【专辑介绍】 微风轻拂，阳光正好。一块蜜饼，一张奇妙的地图，还有一段惊喜的旅程。 带上好奇心，备好行囊，和小刻一起出发！ 【歌曲列表】 JUST THE START JUST THE START (Instrumental)",
+        "content": "《明日方舟：终末地》干员小刻专属单曲《JUST THE START》MV现已公开。 歌曲完整版音源同步上架QQ音乐、网易云音乐、酷狗音乐等平台，欢迎管理员们前往收听。 【专辑介绍】 微风轻拂，阳光正好。一块蜜饼，一张奇妙的地图，还有一段惊喜的旅程。 带上好奇心，备好行囊，和小刻一起出发！ 【歌曲列表】 JUST THE START JUST THE START (Instrumental)",
+        "bvid": "BV1YhyzzhEJU",
+        "author": "明日方舟终末地",
+        "duration": "2:17",
+        "cover": "//i0.hdslb.com/bfs/archive/95afedd836af1e5f7bf3f2eeca1a625f8231e3a9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YhyzzhEJU&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "终末地新干员小刻EP"
       },
       {
-        "title": "rain的专注，Emilia的怒吼，s1mple的“接受自己被讨厌”。今天的CS关键词：归来。",
-        "url": "https://www.bilibili.com/video/BV1j6yizoEbK",
+        "title": "【睡前消息1135】每年300亿美元 日本动漫做对了什么",
+        "url": "https://www.bilibili.com/video/BV11syfzKELD",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1j6yizoEbK",
-        "author": "每日CS2",
-        "duration": "1:34",
-        "cover": "//i1.hdslb.com/bfs/archive/6d25ae0eb2b71e9e330a10dd146cd3bd562e1e21.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j6yizoEbK&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "CS2关于归来的诠释"
+        "description": "日本动漫走向世界的原因",
+        "content": "日本动漫走向世界的原因",
+        "bvid": "BV11syfzKELD",
+        "author": "马督工",
+        "duration": "21:40",
+        "cover": "//i2.hdslb.com/bfs/archive/5575e6655f5fe210284b03317c44b29ec46827aa.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11syfzKELD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "日本动漫为何能让全球买单"
       },
       {
         "title": "游戏自由度太高也不是什么好事",
@@ -382,74 +382,10 @@
         "hotTitle": "GTA6的游戏自由度有多高"
       },
       {
-        "title": "Qwen4-Max不及预期 | 为什么新发布的大模型不再变强？",
-        "url": "https://www.bilibili.com/video/BV1s1yjzQEdr",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "Qwen4-Max博客：https://qwen.ai/blog?id=qwen4-max Qwen3.8-Next论文：https://arxiv.org/abs/2608.30320",
-        "content": "Qwen4-Max博客：https://qwen.ai/blog?id=qwen4-max Qwen3.8-Next论文：https://arxiv.org/abs/2608.30320",
-        "bvid": "BV1s1yjzQEdr",
-        "author": "Lau博士的云组会",
-        "duration": "8:57",
-        "cover": "//i2.hdslb.com/bfs/archive/cc947944b504e87dcb792565121b2fc72582c273.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1s1yjzQEdr&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Qwen4-Max实测效果为何不及预期"
-      },
-      {
-        "title": "显卡价格大汇总：新增二手价格走势图｜显卡日报11月25日",
-        "url": "https://www.bilibili.com/video/BV1CsyoztEAy",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "视频中用的是 UPDF 阅读器 这期聊聊最近的显卡行情，也演示一下怎么用 UPDF 看英文技术文档。",
-        "content": "视频中用的是 UPDF 阅读器 这期聊聊最近的显卡行情，也演示一下怎么用 UPDF 看英文技术文档。",
-        "bvid": "BV1CsyoztEAy",
-        "author": "芝士华莱士",
-        "duration": "3:57",
-        "cover": "//i2.hdslb.com/bfs/archive/125c5c3222bb6bd54c6b8397789e56f684ce31fe.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CsyoztEAy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "近期显卡价格汇总"
-      },
-      {
-        "title": "【睡前消息1135】每年300亿美元 日本动漫做对了什么",
-        "url": "https://www.bilibili.com/video/BV11syfzKELD",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "日本动漫走向世界的原因",
-        "content": "日本动漫走向世界的原因",
-        "bvid": "BV11syfzKELD",
-        "author": "马督工",
-        "duration": "21:40",
-        "cover": "//i2.hdslb.com/bfs/archive/5575e6655f5fe210284b03317c44b29ec46827aa.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11syfzKELD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "日本动漫为何能让全球买单"
-      },
-      {
-        "title": "随手买来的超级天王！-任贤齐",
-        "url": "https://www.bilibili.com/video/BV1tkyDzQEov",
-        "desc": "",
-        "rank": 20,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1tkyDzQEov",
-        "author": "Lumi音乐馆",
-        "duration": "11:19",
-        "cover": "//i0.hdslb.com/bfs/archive/c382e702f59970e5c9db9ba97a11d31f5feeb846.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1tkyDzQEov&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "考古任贤齐的天王之路"
-      },
-      {
         "title": "朝霞映苍穹，神舟赴星河！神二十四发射升空，为中国航天点赞！",
         "url": "https://www.bilibili.com/video/BV1c3yqziEoR",
         "desc": "",
-        "rank": 21,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -460,6 +396,70 @@
         "cover": "//i2.hdslb.com/bfs/archive/f81b224bc3e3d4e384173e608c4e12910c2a5920.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1c3yqziEoR&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "神舟二十四号发射升空"
+      },
+      {
+        "title": "【亚某爆料时间】月度福利礼册免费得【老夫子-巡彩乐章】全新皮肤！",
+        "url": "https://www.bilibili.com/video/BV1YKyfzJEjt",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "月度福利礼册免费获取！【老夫子-巡彩乐章】全新皮肤爆料来啦~老夫子化身欢乐巡游的乐队号手，身穿墨绿仪仗礼服，头戴高顶宝石礼帽，蓬松卷发更显俏皮。他奏响小号，长长的彩虹胡须随着步伐轻晃，将热闹的旋律带入峡谷。一起来看看爆料吧~ 【角色设计】 晨钟敲响，盛大的乐园庆典就要开始咯~老夫子特意早起，换上了一身童话礼装。挺括的短款燕尾服、华丽的高顶礼帽……还有别在腰间的精致小号，派头十足！梳理好一头蓬松卷发，老夫子灵机一动，用炫彩的染料和小小王冠打造梦幻胡须造型，走在路上神气无比。至于装",
+        "content": "月度福利礼册免费获取！【老夫子-巡彩乐章】全新皮肤爆料来啦~老夫子化身欢乐巡游的乐队号手，身穿墨绿仪仗礼服，头戴高顶宝石礼帽，蓬松卷发更显俏皮。他奏响小号，长长的彩虹胡须随着步伐轻晃，将热闹的旋律带入峡谷。一起来看看爆料吧~ 【角色设计】 晨钟敲响，盛大的乐园庆典就要开始咯~老夫子特意早起，换上了一身童话礼装。挺括的短款燕尾服、华丽的高顶礼帽……还有别在腰间的精致小号，派头十足！梳理好一头蓬松卷发，老夫子灵机一动，用炫彩的染料和小小王冠打造梦幻胡须造型，走在路上神气无比。至于装",
+        "bvid": "BV1YKyfzJEjt",
+        "author": "王者荣耀",
+        "duration": "2:6",
+        "cover": "//i1.hdslb.com/bfs/archive/66d26a39a5fb516622c078314e6eefb8c540b94d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YKyfzJEjt&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "王者老夫子新皮肤巡彩乐章"
+      },
+      {
+        "title": "【敌我忍者】又是一年冬…",
+        "url": "https://www.bilibili.com/video/BV1M61wzXEq8",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "醋包饺 投稿+QQ3296657957",
+        "content": "醋包饺 投稿+QQ3296657957",
+        "bvid": "BV1M61wzXEq8",
+        "author": "肚脐丶次元梦",
+        "duration": "7:2",
+        "cover": "//i1.hdslb.com/bfs/archive/76933ce719ce56cce14e7f29f9f01f5ea12b51af.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1M61wzXEq8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "火影敌我忍者十一周年篇"
+      },
+      {
+        "title": "《蓝色星原：旅谣》涂山小玉PV | 一笺桃花",
+        "url": "https://www.bilibili.com/video/BV1j3yHznECD",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "牵丝绕指，终须有结。 桃花一笺，夙缔良缘。 今后，我们就是拍档了！ 《蓝色星原：旅谣》11月26日正式公测！ ✦ bilibili预约地址：https://www.biligame.com/detail/?id=111392",
+        "content": "牵丝绕指，终须有结。 桃花一笺，夙缔良缘。 今后，我们就是拍档了！ 《蓝色星原：旅谣》11月26日正式公测！ ✦ bilibili预约地址：https://www.biligame.com/detail/?id=111392",
+        "bvid": "BV1j3yHznECD",
+        "author": "蓝色星原旅谣",
+        "duration": "5:56",
+        "cover": "//i1.hdslb.com/bfs/archive/507578558f1b39336c3c620275410f15065d6b77.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j3yHznECD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "蓝色星原涂山小玉PV"
+      },
+      {
+        "title": "刘晓艳：“你能考过就是「烂奇迹」”",
+        "url": "https://www.bilibili.com/video/BV1AZyEzpEAT",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "制作：@Dieorite 原作：《烂奇迹（不小心惹了上帝）》- 杨羊烊",
+        "content": "制作：@Dieorite 原作：《烂奇迹（不小心惹了上帝）》- 杨羊烊",
+        "bvid": "BV1AZyEzpEAT",
+        "author": "Dieorite",
+        "duration": "3:27",
+        "cover": "//i1.hdslb.com/bfs/archive/30825188193133132c78b625cc1c81429d5ddaaf.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AZyEzpEAT&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "刘晓艳单曲考过就是烂奇迹"
       },
       {
         "title": "都别活了！复联团灭！漫威重启！《复联5：毁灭日》终极预告解析",
@@ -478,26 +478,42 @@
         "hotTitle": "复联5会照搬漫画团灭结局吗"
       },
       {
-        "title": "The Wildcard Club 'Click Flick' Official MV",
-        "url": "https://www.bilibili.com/video/BV1Ecsq6eENs",
+        "title": "【崩坏因缘精灵】三测启动！万元试水卡池，抽满白梅需要花费多少？",
+        "url": "https://www.bilibili.com/video/BV1TwyzznEAq",
         "desc": "",
         "rank": 23,
         "kind": "video",
         "platform": "bilibili",
-        "description": "https://www.youtube.com/watch?v=kN3g_BTERC0",
-        "content": "https://www.youtube.com/watch?v=kN3g_BTERC0",
-        "bvid": "BV1Ecsq6eENs",
-        "author": "等离子花生奶油蛋糕",
-        "duration": "3:14",
-        "cover": "//i1.hdslb.com/bfs/archive/d33dcbd3cc250fd32492c70f79046addac83d498.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Ecsq6eENs&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "Wildcard vs LVG 新加坡Major"
+        "description": "",
+        "content": "",
+        "bvid": "BV1TwyzznEAq",
+        "author": "卡特亚",
+        "duration": "15:31",
+        "cover": "//i2.hdslb.com/bfs/archive/cea8cd9f2f59ff78e1375dd271af9ba773104242.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1TwyzznEAq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "崩坏因缘精灵卡池测评"
+      },
+      {
+        "title": "Qwen4-Max不及预期 | 为什么新发布的大模型不再变强？",
+        "url": "https://www.bilibili.com/video/BV1s1yjzQEdr",
+        "desc": "",
+        "rank": 24,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "Qwen4-Max博客：https://qwen.ai/blog?id=qwen4-max Qwen3.8-Next论文：https://arxiv.org/abs/2608.30320",
+        "content": "Qwen4-Max博客：https://qwen.ai/blog?id=qwen4-max Qwen3.8-Next论文：https://arxiv.org/abs/2608.30320",
+        "bvid": "BV1s1yjzQEdr",
+        "author": "Lau博士的云组会",
+        "duration": "8:57",
+        "cover": "//i2.hdslb.com/bfs/archive/cc947944b504e87dcb792565121b2fc72582c273.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1s1yjzQEdr&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "Qwen4-Max实测效果为何不及预期"
       },
       {
         "title": "黄仁勋接受心理治疗，但坚持不设接班人，硅谷强人逻辑到底是什么？",
         "url": "https://www.bilibili.com/video/BV1ZnyzzTEsa",
         "desc": "",
-        "rank": 24,
+        "rank": 25,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -510,100 +526,84 @@
         "hotTitle": "硅谷强人黄仁勋接受心理治疗"
       },
       {
-        "title": "命悬一线！各主播看Faze 10-13 PV跌入1-2组！银河战舰这一次能地狱归来吗？",
-        "url": "https://www.bilibili.com/video/BV15Dy6ziE6L",
-        "desc": "",
-        "rank": 25,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "命悬一线！各主播看Faze 10-13 PV跌入1-2组！银河战舰这一次能地狱归来吗？",
-        "content": "命悬一线！各主播看Faze 10-13 PV跌入1-2组！银河战舰这一次能地狱归来吗？",
-        "bvid": "BV15Dy6ziE6L",
-        "author": "CS2主播赛事名场面",
-        "duration": "6:52",
-        "cover": "//i0.hdslb.com/bfs/archive/ebaacad350985ce551e365ef262fa04fc731e8bc.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV15Dy6ziE6L&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "PV vs FaZe 新加坡Major"
-      },
-      {
-        "title": "【亚某爆料时间】月度福利礼册免费得【老夫子-巡彩乐章】全新皮肤！",
-        "url": "https://www.bilibili.com/video/BV1YKyfzJEjt",
+        "title": "【IGN】《GTA 6》首个补丁更新了哪些内容",
+        "url": "https://www.bilibili.com/video/BV1v11czhEZC",
         "desc": "",
         "rank": 26,
         "kind": "video",
         "platform": "bilibili",
-        "description": "月度福利礼册免费获取！【老夫子-巡彩乐章】全新皮肤爆料来啦~老夫子化身欢乐巡游的乐队号手，身穿墨绿仪仗礼服，头戴高顶宝石礼帽，蓬松卷发更显俏皮。他奏响小号，长长的彩虹胡须随着步伐轻晃，将热闹的旋律带入峡谷。一起来看看爆料吧~ 【角色设计】 晨钟敲响，盛大的乐园庆典就要开始咯~老夫子特意早起，换上了一身童话礼装。挺括的短款燕尾服、华丽的高顶礼帽……还有别在腰间的精致小号，派头十足！梳理好一头蓬松卷发，老夫子灵机一动，用炫彩的染料和小小王冠打造梦幻胡须造型，走在路上神气无比。至于装",
-        "content": "月度福利礼册免费获取！【老夫子-巡彩乐章】全新皮肤爆料来啦~老夫子化身欢乐巡游的乐队号手，身穿墨绿仪仗礼服，头戴高顶宝石礼帽，蓬松卷发更显俏皮。他奏响小号，长长的彩虹胡须随着步伐轻晃，将热闹的旋律带入峡谷。一起来看看爆料吧~ 【角色设计】 晨钟敲响，盛大的乐园庆典就要开始咯~老夫子特意早起，换上了一身童话礼装。挺括的短款燕尾服、华丽的高顶礼帽……还有别在腰间的精致小号，派头十足！梳理好一头蓬松卷发，老夫子灵机一动，用炫彩的染料和小小王冠打造梦幻胡须造型，走在路上神气无比。至于装",
-        "bvid": "BV1YKyfzJEjt",
-        "author": "王者荣耀",
-        "duration": "2:6",
-        "cover": "//i1.hdslb.com/bfs/archive/66d26a39a5fb516622c078314e6eefb8c540b94d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1YKyfzJEjt&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "王者老夫子新皮肤巡彩乐章"
+        "description": "《GTA 6》迎来了发售后的首个更新补丁。虽然这次改动算不上什么大动作，但还是有几处调整值得大家留意。下面我们就来逐一讲解一下具体变化。",
+        "content": "《GTA 6》迎来了发售后的首个更新补丁。虽然这次改动算不上什么大动作，但还是有几处调整值得大家留意。下面我们就来逐一讲解一下具体变化。",
+        "bvid": "BV1v11czhEZC",
+        "author": "IGN中国",
+        "duration": "1:24",
+        "cover": "//i0.hdslb.com/bfs/archive/768aff3a249f37bf9b82f50385600906fa7add26.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1v11czhEZC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "GTA6首个补丁更新了哪些内容"
       },
       {
-        "title": "【合集】人类消失后，深度思考三百年的大肥鱼",
-        "url": "https://www.bilibili.com/video/BV1Poyaz8Ep4",
+        "title": "显卡价格大汇总：新增二手价格走势图｜显卡日报11月25日",
+        "url": "https://www.bilibili.com/video/BV1CsyoztEAy",
         "desc": "",
         "rank": 27,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1Poyaz8Ep4",
-        "author": "奶糕兽",
-        "duration": "116:9",
-        "cover": "//i0.hdslb.com/bfs/archive/6ff0c5a3aa883e91158f042c737fcb89d659ce51.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Poyaz8Ep4&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "AI剧 人类消失后的大肥鱼"
+        "description": "视频中用的是 UPDF 阅读器 这期聊聊最近的显卡行情，也演示一下怎么用 UPDF 看英文技术文档。",
+        "content": "视频中用的是 UPDF 阅读器 这期聊聊最近的显卡行情，也演示一下怎么用 UPDF 看英文技术文档。",
+        "bvid": "BV1CsyoztEAy",
+        "author": "芝士华莱士",
+        "duration": "3:57",
+        "cover": "//i2.hdslb.com/bfs/archive/125c5c3222bb6bd54c6b8397789e56f684ce31fe.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1CsyoztEAy&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "近期显卡价格汇总"
       },
       {
-        "title": "在美国大学教课，全班一个学生都没来是什么体验？",
-        "url": "https://www.bilibili.com/video/BV1Dj1czJEsA",
+        "title": "rain的专注，Emilia的怒吼，s1mple的“接受自己被讨厌”。今天的CS关键词：归来。",
+        "url": "https://www.bilibili.com/video/BV1j6yizoEbK",
         "desc": "",
         "rank": 28,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
         "content": "",
-        "bvid": "BV1Dj1czJEsA",
-        "author": "钰子一",
-        "duration": "2:16",
-        "cover": "//i0.hdslb.com/bfs/archive/f2ea2c3e4d81e20f0e37645102b8b8e745e8f22b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Dj1czJEsA&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "微积分课来了0人是啥体验"
+        "bvid": "BV1j6yizoEbK",
+        "author": "每日CS2",
+        "duration": "1:34",
+        "cover": "//i1.hdslb.com/bfs/archive/6d25ae0eb2b71e9e330a10dd146cd3bd562e1e21.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1j6yizoEbK&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "CS2关于归来的诠释"
       },
       {
-        "title": "胖东来洗发水争议：太阳底下是没有新鲜事的",
-        "url": "https://www.bilibili.com/video/BV1Qgyfz1EdD",
+        "title": "全国前10黄金矿工都匹配在一起了！",
+        "url": "https://www.bilibili.com/video/BV1zXyvzfEB7",
         "desc": "",
         "rank": 29,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1Qgyfz1EdD",
-        "author": "唯一讲述者",
-        "duration": "21:42",
-        "cover": "//i1.hdslb.com/bfs/archive/0645811dcf3a7914900dd3171f052dadbdbf927b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Qgyfz1EdD&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "胖东来洗发水再陷假洋牌争议"
+        "bvid": "BV1zXyvzfEB7",
+        "author": "沉默寡言白河愁",
+        "duration": "8:43",
+        "cover": "//i0.hdslb.com/bfs/archive/567a0801ce7206c358d6bd1efc8a6f8beba0d321.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1zXyvzfEB7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "黄金矿工全国前十巅峰对决"
       },
       {
-        "title": "\"小县城\"靠AI拿到\"大结果\"，它凭什么？",
-        "url": "https://www.bilibili.com/video/BV1fCyJzSEL7",
+        "title": "“格罗克”伪造色情内容 美国两州起诉SpaceX",
+        "url": "https://www.bilibili.com/video/BV1QayzzfEmj",
         "desc": "",
         "rank": 30,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1fCyJzSEL7",
-        "author": "小Lin竖着说",
-        "duration": "7:15",
-        "cover": "//i1.hdslb.com/bfs/archive/e4712aab4e17cb4dcdb0fae83981339ba5633ddf.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1fCyJzSEL7&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "小县城如何靠AI拿到大结果"
+        "description": "https://www.yspapp.cn/6GO3（央视频号：总台电视资讯）",
+        "content": "https://www.yspapp.cn/6GO3（央视频号：总台电视资讯）",
+        "bvid": "BV1QayzzfEmj",
+        "author": "央视频",
+        "duration": "2:23",
+        "cover": "//i2.hdslb.com/bfs/archive/8f3be6c75ad5d41b14888d3b9e0381ec59cce3ec.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QayzzfEmj&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "美国两州起诉SpaceX"
       }
     ],
     "qbitai": [
@@ -940,6 +940,46 @@
         "rank": 3
       },
       {
+        "title": "财政部拟第二次续发行2026年记账式附息（二十一期）国债，招标面值总额260亿元",
+        "url": "https://m.36kr.com/newsflashes/4084914496776834",
+        "desc": "36氪获悉，财政部拟第二次续发行2026年记账式附息（二十一期）国债。本次续发行国债为30年期固定利率附息债。本次续发行国债竞争性招标面值总额260亿元，不进行甲类成员追加投标。本次续发行国债票面利率与之前发行的同期国债相同，为2.06%。本次续发行国债的起息日、兑付安排与之前发行的同期国债相同。自2026年10月25日开始计息，按半年付息，每年4月25日（节假日顺延，下同）、10月25日支付利息，2056年10月25日偿还本金并支付最后一次利息。招标时间2026年12月2日上午10:35至11:35。",
+        "cover": "",
+        "date": 1795595747000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "理想汽车：第三季度收入总额为288亿元，同比增加5.4%",
+        "url": "https://m.36kr.com/newsflashes/4084916340517251",
+        "desc": "36氪获悉，理想汽车公布2026年第三季度未经审计财务业绩。2026年第三季度，汽车总交付量为99964辆，同比增加7.2%；车辆销售收入为人民币271亿元（40亿美元），同比增加4.7%，环比增加12.6%；收入总额为人民币288亿元（43亿美元），同比增加5.4%，环比增加12.3%；净亏损为人民币309.7百万元（46.2百万美元），同比减少50.4%，环比减少81.8%。",
+        "cover": "",
+        "date": 1795595507111,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "财政部拟发行2026年记账式贴现（七十七期）国债，招标面值总额550亿元",
+        "url": "https://m.36kr.com/newsflashes/4084914967784073",
+        "desc": "36氪获悉，财政部拟发行2026年记账式贴现（七十七期）国债。本期国债为期限182天的贴现债。本期国债竞争性招标面值总额550亿元，进行甲类成员追加投标。本期国债发行价格通过竞争性招标确定，以低于票面金额的价格贴现发行。本期国债自2026年12月3日开始计息，于2027年6月3日（节假日顺延）按面值偿还。招标时间2026年12月2日上午10:35至11:35。",
+        "cover": "",
+        "date": 1795595423326,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
+        "title": "博威合金：董事长提议回购1亿元至2亿元股份",
+        "url": "https://m.36kr.com/newsflashes/4084905451153794",
+        "desc": "36氪获悉，博威合金公告，公司董事长兼总裁谢识才提议公司以集中竞价交易方式回购部分股份，回购资金总额不低于1亿元且不超过2亿元，回购股份将用于实施员工持股计划或股权激励。回购价格上限不高于董事会审议通过回购方案决议前30个交易日股票交易均价的150%，回购期限为董事会审议通过之日起12个月内。",
+        "cover": "",
+        "date": 1795595256000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 7
+      },
+      {
         "title": "乘联分会：11月1—22日全国乘用车市场零售98.4万辆",
         "url": "https://m.36kr.com/newsflashes/4084908537866632",
         "desc": "36氪获悉，乘联分会数据显示，11月1—22日，全国乘用车市场零售98.4万辆，同比下降25%，环比下降1%，今年以来累计零售1596.2万辆，同比下降22%。11月1—22日，全国乘用车新能源市场零售70.2万辆，同比下降13%，环比增长7%，今年以来累计零售957万辆，同比下降13%。",
@@ -947,7 +987,7 @@
         "date": 1795595030875,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 8
       },
       {
         "title": "小鹏IRON将于明年1月进入硬件量产",
@@ -957,7 +997,7 @@
         "date": 1795594947776,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 9
       },
       {
         "title": "中科曙光发布FlashNexus NAS 3.0，支持推理缓存卸载",
@@ -967,7 +1007,7 @@
         "date": 1795594796522,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 10
       },
       {
         "title": "恒生科技收盘跌2.56%，半导体板块跌幅居前",
@@ -977,7 +1017,7 @@
         "date": 1795594274822,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 11
       },
       {
         "title": "小鹏实现5C超充OTA升级至6C倍率",
@@ -987,7 +1027,7 @@
         "date": 1795594123657,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 12
       },
       {
         "title": "融发核电：全资子公司中标1.63亿元核电项目",
@@ -997,7 +1037,7 @@
         "date": 1795593629000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 13
       },
       {
         "title": "中国瑞林：董事长提议回购3000万至5000万元公司股份",
@@ -1007,7 +1047,7 @@
         "date": 1795593215000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 14
       },
       {
         "title": "腾讯混元发布Hy4 flash本地部署",
@@ -1017,7 +1057,7 @@
         "date": 1795592523000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 15
       },
       {
         "title": "我国将牵头制定全球首个油气生产物联网国际标准",
@@ -1027,7 +1067,7 @@
         "date": 1795592411032,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 16
       },
       {
         "title": "外媒称美国将对中国等十几个国家加征关税，外交部回应",
@@ -1037,7 +1077,7 @@
         "date": 1795591626702,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 17
       },
       {
         "title": "皇冠新材：公司越南生产基地聚焦服务全球市场，目前业务正常开展中",
@@ -1047,7 +1087,7 @@
         "date": 1795591232664,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 18
       },
       {
         "title": "恒工精密在惠州成立智能制造公司，注册资本500万",
@@ -1057,7 +1097,7 @@
         "date": 1795590649000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 19
       },
       {
         "title": "A股三大指数集体收跌，全市场超4900只个股下跌",
@@ -1067,7 +1107,7 @@
         "date": 1795590132723,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 20
       },
       {
         "title": "国家发展改革委：三峡水运新通道工程已完成投资超过110亿元",
@@ -1077,7 +1117,7 @@
         "date": 1795589901395,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 21
       },
       {
         "title": "马来西亚监管机构就“有害”内容向谷歌索赔1.46亿美元",
@@ -1087,7 +1127,7 @@
         "date": 1795589671000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 22
       },
       {
         "title": "三星电子HBM4E单引脚传输速度达17Gbps",
@@ -1097,55 +1137,15 @@
         "date": 1795589318000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "机构：部分CSP需求下修影响价格展望，2027年存储器产值增速放缓",
-        "url": "https://m.36kr.com/newsflashes/4084793914239362",
-        "desc": "36氪获悉，根据TrendForce集邦咨询最新存储器产业研究，由于部分云端服务供应商（CSP）下修2027年存储器订单，预计NAND Flash产业在供给续增的情况下，将进入价格下行循环，全年产值因此较先前预估下调至约4193亿美元。DRAM市场尽管得以延续供不应求态势，但价格涨幅将逐季收敛，2027年产值预估下修至1.15万亿美元。",
-        "cover": "",
-        "date": 1795588446000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "创业板指跌超4%",
-        "url": "https://m.36kr.com/newsflashes/4084795252550276",
-        "desc": "36氪获悉，创业板指跌超4%，上证指数跌2.03%，深证成指跌3.06%。半导体芯片、算力硬件、短剧、机器人、锂电池等方向跌幅居前，沪深京三市下跌个股近5000只。",
-        "cover": "",
-        "date": 1795588116488,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "马斯克确认将向符合条件的美国家庭免费提供星链硬件",
-        "url": "https://m.36kr.com/newsflashes/4084782691527297",
-        "desc": "SpaceX首席执行官埃隆·马斯克确认了一项新安排：该公司将向美国服务不足社区中符合条件的家庭免费提供“星链”硬件，并在此过程中放弃约7.38亿美元的联邦宽带补助金。网红博主索耶·梅瑞特在X平台上援引了美国国家电信和信息管理局的一份公告，根据与该机构达成的最新安排，SpaceX将“放弃7.38亿美元的美国联邦宽带补贴”，并向“宽带服务可及地点”免费提供星链硬件设备。SpaceX还需确保向“宽带服务可及地点”提供“至少100Mbps的下载速度和20Mbps的上传速度”，推出“低成本月度互联网套餐”，并提供为期10年的服务。马斯克转发了梅瑞特的帖子，证实了这一消息。（新浪财经）",
-        "cover": "",
-        "date": 1795588000000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "沪指跌超2%",
-        "url": "https://m.36kr.com/newsflashes/4084792351172993",
-        "desc": "36氪获悉，指数持续走弱，沪指下挫跌超2.00%，深成指跌2.91%，创业板指跌3.81%。半导体芯片、算力硬件、短剧、机器人、锂电池等方向跌幅居前，沪深京三市下跌个股近4800只。",
-        "cover": "",
-        "date": 1795587939402,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795595165571,
-    "bilibili": 1795593685410,
-    "qbitai": 1795595197965,
-    "36kr": 1795595198321
+    "thepaper": 1795596068720,
+    "bilibili": 1795595232616,
+    "qbitai": 1795596103656,
+    "36kr": 1795596103962
   },
   "failures": {}
 }
