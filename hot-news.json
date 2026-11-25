@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T14:41:34Z",
+  "updatedAt": "2026-11-25T14:56:35Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+        "url": "https://www.qbitai.com/2026/11/512727.html",
+        "desc": "",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/qbit-b5d347f5-8ef0-4ce9-943e-db02819fc944.png",
+        "date": "2026-11-25T22:51:06",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
         "url": "https://www.qbitai.com/2026/11/512715.html",
         "desc": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
@@ -615,7 +625,7 @@
         "date": "2026-11-25T22:32:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
@@ -625,7 +635,7 @@
         "date": "2026-11-25T22:21:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
@@ -635,7 +645,7 @@
         "date": "2026-11-25T22:20:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
@@ -645,7 +655,7 @@
         "date": "2026-11-25T19:07:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "Anthropic还藏着2个最强模型…",
@@ -655,7 +665,7 @@
         "date": "2026-11-25T16:23:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
@@ -665,7 +675,7 @@
         "date": "2026-11-25T16:18:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
@@ -675,7 +685,7 @@
         "date": "2026-11-25T15:46:52",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
@@ -685,7 +695,7 @@
         "date": "2026-11-25T14:49:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "Claude Opus 5.6灰测效果来了",
@@ -695,7 +705,7 @@
         "date": "2026-11-25T10:43:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
@@ -705,7 +715,7 @@
         "date": "2026-11-24T18:30:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
@@ -715,7 +725,7 @@
         "date": "2026-11-24T18:15:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
@@ -725,7 +735,7 @@
         "date": "2026-11-24T17:21:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
@@ -735,7 +745,7 @@
         "date": "2026-11-24T16:44:32",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办",
@@ -745,7 +755,7 @@
         "date": "2026-11-24T16:34:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
@@ -755,7 +765,7 @@
         "date": "2026-11-24T16:10:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "Google Cloud 出海峰会报名开启",
@@ -765,7 +775,7 @@
         "date": "2026-11-24T14:52:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
@@ -775,7 +785,7 @@
         "date": "2026-11-24T14:35:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
@@ -785,7 +795,7 @@
         "date": "2026-11-24T14:22:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
@@ -795,7 +805,7 @@
         "date": "2026-11-24T14:15:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
@@ -805,7 +815,7 @@
         "date": "2026-11-24T14:12:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
@@ -815,7 +825,7 @@
         "date": "2026-11-24T11:33:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
@@ -825,7 +835,7 @@
         "date": "2026-11-24T11:30:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
@@ -835,7 +845,7 @@
         "date": "2026-11-24T11:21:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
@@ -845,7 +855,7 @@
         "date": "2026-11-24T10:36:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "具身行业，终于等来了自己的通用智能时刻",
@@ -855,7 +865,7 @@
         "date": "2026-11-24T09:51:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
@@ -865,7 +875,7 @@
         "date": "2026-11-24T09:32:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
@@ -875,7 +885,7 @@
         "date": "2026-11-23T19:01:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
@@ -885,7 +895,7 @@
         "date": "2026-11-23T17:10:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
@@ -893,16 +903,6 @@
         "desc": "阿福大升级：让模型像医生一样思考",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/截屏2026-11-23-11.00.40-e1795420005968.png",
         "date": "2026-11-23T15:42:01",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
-        "url": "https://www.qbitai.com/2026/11/512004.html",
-        "desc": "一个完全由AI组成的科学家社会，是什么样？",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/9f36ee40233b164f3ffe1446fe563377.png",
-        "date": "2026-11-23T14:59:38",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1142,10 +1142,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795617665188,
-    "bilibili": 1795617675008,
-    "qbitai": 1795617693728,
-    "36kr": 1795617694149
+    "thepaper": 1795618565841,
+    "bilibili": 1795617623027,
+    "qbitai": 1795618594626,
+    "36kr": 1795618595011
   },
   "failures": {}
 }
