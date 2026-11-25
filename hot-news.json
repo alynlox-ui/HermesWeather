@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T07:42:02Z",
+  "updatedAt": "2026-11-25T07:56:33Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+        "url": "https://www.qbitai.com/2026/11/512515.html",
+        "desc": "OpenAI这下要有俩Tibo了",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/553eed69-4916-4b97-a2ea-e8415485010a-e1795592797314.png",
+        "date": "2026-11-25T15:46:52",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
         "url": "https://www.qbitai.com/2026/11/512498.html",
         "desc": "复杂场景三维建模成本降至10美元以内",
@@ -615,7 +625,7 @@
         "date": "2026-11-25T14:49:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "Claude Opus 5.6灰测效果来了",
@@ -625,7 +635,7 @@
         "date": "2026-11-25T10:43:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
@@ -635,7 +645,7 @@
         "date": "2026-11-24T18:30:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
@@ -645,7 +655,7 @@
         "date": "2026-11-24T18:15:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
@@ -655,7 +665,7 @@
         "date": "2026-11-24T17:21:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
@@ -665,7 +675,7 @@
         "date": "2026-11-24T16:44:32",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办",
@@ -675,7 +685,7 @@
         "date": "2026-11-24T16:34:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
@@ -685,7 +695,7 @@
         "date": "2026-11-24T16:10:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "Google Cloud 出海峰会报名开启",
@@ -695,7 +705,7 @@
         "date": "2026-11-24T14:52:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
@@ -705,7 +715,7 @@
         "date": "2026-11-24T14:35:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
@@ -715,7 +725,7 @@
         "date": "2026-11-24T14:22:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
@@ -725,7 +735,7 @@
         "date": "2026-11-24T14:15:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
@@ -735,7 +745,7 @@
         "date": "2026-11-24T14:12:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
@@ -745,7 +755,7 @@
         "date": "2026-11-24T11:33:48",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
@@ -755,7 +765,7 @@
         "date": "2026-11-24T11:30:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
@@ -765,7 +775,7 @@
         "date": "2026-11-24T11:21:12",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
@@ -775,7 +785,7 @@
         "date": "2026-11-24T10:36:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "具身行业，终于等来了自己的通用智能时刻",
@@ -785,7 +795,7 @@
         "date": "2026-11-24T09:51:56",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
@@ -795,7 +805,7 @@
         "date": "2026-11-24T09:32:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
@@ -805,7 +815,7 @@
         "date": "2026-11-23T19:01:15",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
@@ -815,7 +825,7 @@
         "date": "2026-11-23T17:10:08",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
@@ -825,7 +835,7 @@
         "date": "2026-11-23T15:42:01",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
@@ -835,7 +845,7 @@
         "date": "2026-11-23T14:59:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
@@ -845,7 +855,7 @@
         "date": "2026-11-23T11:56:34",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
@@ -855,7 +865,7 @@
         "date": "2026-11-23T11:47:46",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
@@ -865,7 +875,7 @@
         "date": "2026-11-23T11:13:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
@@ -875,7 +885,7 @@
         "date": "2026-11-23T10:29:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
@@ -885,7 +895,7 @@
         "date": "2026-11-23T10:09:59",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
@@ -893,16 +903,6 @@
         "desc": "用葡萄糖发电控制血糖。",
         "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/c41fa2cf7f7b1ba5b052e7c675e972ef.webp",
         "date": "2026-11-22T14:21:47",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
-        "url": "https://www.qbitai.com/2026/11/511870.html",
-        "desc": "",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/c5bdbba62b67314f765f7afe603af6b6.webp",
-        "date": "2026-11-22T14:03:54",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -940,6 +940,36 @@
         "rank": 3
       },
       {
+        "title": "中国瑞林：董事长提议回购3000万至5000万元公司股份",
+        "url": "https://m.36kr.com/newsflashes/4084870093548161",
+        "desc": "36氪获悉，中国瑞林公告，公司董事长吴润华提议公司通过集中竞价交易方式回购部分A股股份，回购资金总额不低于3000万元且不超过5000万元，回购价格上限不超过董事会审议通过回购决议前30个交易日公司股票交易均价的150%，回购期限为自董事会审议通过回购方案之日起3个月内。提议人在提议前6个月不存在买卖公司股份情况。",
+        "cover": "",
+        "date": 1795593215000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "腾讯混元发布Hy4 flash本地部署",
+        "url": "https://m.36kr.com/newsflashes/4084860684757379",
+        "desc": "36氪获悉，腾讯混元通过大模型压缩加速工具箱AngelSlim开源Hy4 flash GGUF量化权重及配套推理代码。经过压缩和运行优化，Hy4 flash这款总参数量为224B的模型可以部署到个人设备上——体积最小的版本，权重仅约为原始版本的 30%。此外，借助优化后的Strata offload框架，模型也可以在64 GB的Mac mini等设备上运行。实测数据显示，在配备48GB显存的设备上，模型生成速度最高可达每秒89个token。",
+        "cover": "",
+        "date": 1795592523000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
+      },
+      {
+        "title": "我国将牵头制定全球首个油气生产物联网国际标准",
+        "url": "https://m.36kr.com/newsflashes/4084865614359168",
+        "desc": "由我国自主提出的国际标准提案《物联网在陆上油气生产中的应用》近日在国际电工委员会（IEC）成功立项，这是由我国牵头制定的全球首个油气生产物联网领域国际标准，标志着我国在能源数字化国际规则制定上取得新的突破。（央视新闻）",
+        "cover": "",
+        "date": 1795592411032,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 6
+      },
+      {
         "title": "外媒称美国将对中国等十几个国家加征关税，外交部回应",
         "url": "https://m.36kr.com/newsflashes/4084852763896198",
         "desc": "郭嘉昆强调，中方在处理中美经贸问题上的立场是一贯明确的。关税战、贸易战不符合任何一方的利益，双方应在平等、尊重、互惠的基础上协商解决有关问题。“所谓‘产能过剩’是一个伪命题，中方反对以此为借口进行政治操弄。中美双方应当共同落实好两国元首达成的重要共识，维护中美经贸关系稳定发展态势。”郭嘉昆说。（北京日报）",
@@ -947,7 +977,7 @@
         "date": 1795591626702,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "皇冠新材：公司越南生产基地聚焦服务全球市场，目前业务正常开展中",
@@ -957,7 +987,7 @@
         "date": 1795591232664,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "恒工精密在惠州成立智能制造公司，注册资本500万",
@@ -967,7 +997,7 @@
         "date": 1795590649000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "A股三大指数集体收跌，全市场超4900只个股下跌",
@@ -977,7 +1007,7 @@
         "date": 1795590132723,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "国家发展改革委：三峡水运新通道工程已完成投资超过110亿元",
@@ -987,7 +1017,7 @@
         "date": 1795589901395,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "马来西亚监管机构就“有害”内容向谷歌索赔1.46亿美元",
@@ -997,7 +1027,7 @@
         "date": 1795589671000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "三星电子HBM4E单引脚传输速度达17Gbps",
@@ -1007,7 +1037,7 @@
         "date": 1795589318000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "机构：部分CSP需求下修影响价格展望，2027年存储器产值增速放缓",
@@ -1017,7 +1047,7 @@
         "date": 1795588446000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "创业板指跌超4%",
@@ -1027,7 +1057,7 @@
         "date": 1795588116488,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "马斯克确认将向符合条件的美国家庭免费提供星链硬件",
@@ -1037,7 +1067,7 @@
         "date": 1795588000000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "沪指跌超2%",
@@ -1047,7 +1077,7 @@
         "date": 1795587939402,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "科创50指数跌超4%",
@@ -1057,7 +1087,7 @@
         "date": 1795587151596,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "沪深两市成交额突破1万亿元",
@@ -1067,7 +1097,7 @@
         "date": 1795586568918,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "Sand.ai正式发布新一代视频生成模型MAGI-2",
@@ -1077,7 +1107,7 @@
         "date": 1795586442157,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "国投电力在鞍山成立新公司，注册资本2亿",
@@ -1087,7 +1117,7 @@
         "date": 1795586256533,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "亚马逊汽车将于2027年初在英国上线。",
@@ -1097,7 +1127,7 @@
         "date": 1795586108101,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 22
       },
       {
         "title": "中微公司在合肥成立新半导体设备公司，注册资本5000万",
@@ -1107,45 +1137,15 @@
         "date": 1795586100701,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "比特币基金即将创下史上最差单月表现，资金流出规模逼近50亿美元",
-        "url": "https://m.36kr.com/newsflashes/4084756639230337",
-        "desc": "随着全球最大加密货币持续遭遇抛售并导致投资者纷纷撤离，在美国上市的比特币交易所交易基金（ETF）正面临自2024年推出以来资金流出最严重的一个月。根据截至11月23日汇总的数据，这些基金本月迄今已遭遇47.1亿美元的净流出。作为持有该代币规模最大的基金，贝莱德旗下的iShares比特币信托基金（IBIT）本月赎回规模约达40亿美元，同样有望创下其单月资金流出的历史最差纪录。（新浪财经）",
-        "cover": "",
-        "date": 1795585759718,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "宁德时代等入股行云集成电路公司",
-        "url": "https://m.36kr.com/newsflashes/4084750185900419",
-        "desc": "36氪获悉，天眼查App显示，近日，北京行云集成电路有限公司发生工商变更，新增宁德时代旗下宁波梅山保税港区问鼎投资有限公司、福建时代泽远股权投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约763万元人民币增至约899万元人民币。该公司成立于2023年8月，法定代表人为季宇，经营范围包括集成电路制造、集成电路芯片设计及服务、集成电路芯片及产品销售等，现由季宇、无锡旭华企业管理合伙企业（有限合伙）及上述新增股东等共同持股。",
-        "cover": "",
-        "date": 1795585365838,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 22
-      },
-      {
-        "title": "现货白银日内跌幅扩大至1%",
-        "url": "https://m.36kr.com/newsflashes/4084744635476360",
-        "desc": "36氪获悉，现货白银日内跌幅扩大至1%，报40.48美元/盎司。",
-        "cover": "",
-        "date": 1795585027067,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 23
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795592489337,
+    "thepaper": 1795593366086,
     "bilibili": 1795591877821,
-    "qbitai": 1795592522095,
-    "36kr": 1795592522396
+    "qbitai": 1795593393359,
+    "36kr": 1795593393666
   },
   "failures": {}
 }
