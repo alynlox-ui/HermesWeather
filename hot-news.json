@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:26:30Z",
+  "updatedAt": "2026-11-26T14:41:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -100,26 +100,26 @@
         "rank": 16
       },
       {
-        "title": "“收件人填错快递地址反骂快递员”后续：当事快递员称已收到诚恳道歉",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34558213",
-        "desc": "",
-        "rank": 17
-      },
-      {
         "title": "四年了，张颂文还没走出高启强吗",
         "url": "https://www.thepaper.cn/newsDetail_forward_34553248",
         "desc": "",
-        "rank": 18
+        "rank": 17
       },
       {
         "title": "马上评丨法学教授被狗咬后起诉：一堂生动的法治公开课",
         "url": "https://www.thepaper.cn/newsDetail_forward_34562493",
         "desc": "",
-        "rank": 19
+        "rank": 18
       },
       {
         "title": "为让黄仁勋复职，美政府高层被曝曾考虑动用冷战时期法律",
         "url": "https://www.thepaper.cn/newsDetail_forward_34562729",
+        "desc": "",
+        "rank": 19
+      },
+      {
+        "title": "田曦薇谈《嫁金钗》：用脚步丈量土地，守护一方",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34563408",
         "desc": "",
         "rank": 20
       }
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795703164813,
-    "bilibili": 1795703174294,
-    "qbitai": 1795703190529,
-    "36kr": 1795703190841
+    "thepaper": 1795704062929,
+    "bilibili": 1795702853653,
+    "qbitai": 1795704096161,
+    "36kr": 1795704096495
   },
   "failures": {}
 }
