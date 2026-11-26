@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:56:35Z",
+  "updatedAt": "2026-11-26T14:11:36Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -758,6 +758,16 @@
         "rank": 15
       },
       {
+        "title": "OpenAI两次拆掉机器人团队：只靠大模型，为什么撑不起物理AI？",
+        "url": "https://www.qbitai.com/2026/11/513034.html",
+        "desc": "在既有智算底座之上，按物理AI负载结构做扩展",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/图层-50-1.png",
+        "date": "2026-11-25T22:01:28",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 16
+      },
+      {
         "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
         "url": "https://www.qbitai.com/2026/11/512565.html",
         "desc": "揭秘General Looped Model",
@@ -765,7 +775,7 @@
         "date": "2026-11-25T19:07:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "Anthropic还藏着2个最强模型…",
@@ -775,7 +785,7 @@
         "date": "2026-11-25T16:23:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
@@ -785,7 +795,7 @@
         "date": "2026-11-25T16:18:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
@@ -795,7 +805,7 @@
         "date": "2026-11-25T15:46:52",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
@@ -805,7 +815,7 @@
         "date": "2026-11-25T14:49:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "Claude Opus 5.6灰测效果来了",
@@ -815,7 +825,7 @@
         "date": "2026-11-25T10:43:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
@@ -825,7 +835,7 @@
         "date": "2026-11-24T18:30:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
@@ -835,7 +845,7 @@
         "date": "2026-11-24T18:15:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
@@ -845,7 +855,7 @@
         "date": "2026-11-24T17:21:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
@@ -855,7 +865,7 @@
         "date": "2026-11-24T16:44:32",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办",
@@ -865,7 +875,7 @@
         "date": "2026-11-24T16:34:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
@@ -875,7 +885,7 @@
         "date": "2026-11-24T16:10:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "Google Cloud 出海峰会报名开启",
@@ -885,7 +895,7 @@
         "date": "2026-11-24T14:52:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
@@ -893,16 +903,6 @@
         "desc": "端侧老炮辛米尔，打通物理AI规模化落地之路",
         "cover": "",
         "date": "2026-11-24T14:35:06",
-        "platform": "qbitai",
-        "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-        "url": "https://www.qbitai.com/2026/11/512354.html",
-        "desc": "",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/6b0890069b7645b19be5a515d6825cda.png",
-        "date": "2026-11-24T14:22:28",
         "platform": "qbitai",
         "kind": "article",
         "rank": 30
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795701363851,
-    "bilibili": 1795701372926,
-    "qbitai": 1795701394994,
-    "36kr": 1795701395415
+    "thepaper": 1795702263228,
+    "bilibili": 1795701050141,
+    "qbitai": 1795702295742,
+    "36kr": 1795702296079
   },
   "failures": {}
 }
