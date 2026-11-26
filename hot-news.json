@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T09:56:32Z",
+  "updatedAt": "2026-11-26T10:11:32Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -270,19 +270,19 @@
         "hotTitle": "Zeus与T1为何分开又重聚"
       },
       {
-        "title": "【人生一串 第四季】第四集预告：边陲烧烤的独特美味",
-        "url": "https://www.bilibili.com/video/BV1gYs16yEo5",
+        "title": "云南人只打滇峰赛，芒市烧烤女王的高能人生！",
+        "url": "https://www.bilibili.com/video/BV1XJykzvENH",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1gYs16yEo5",
-        "author": "哔哩哔哩纪录片",
-        "duration": "0:48",
-        "cover": "//i2.hdslb.com/bfs/archive/fa9c8cd7b05f4e4c528cc55b941fbc8ef46ab11b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gYs16yEo5&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "云南人只打滇峰赛，芒市烧烤女王的高能人生！",
+        "content": "云南人只打滇峰赛，芒市烧烤女王的高能人生！",
+        "bvid": "BV1XJykzvENH",
+        "author": "小爱追热剧",
+        "duration": "1:6",
+        "cover": "//i2.hdslb.com/bfs/archive/7e9967abc37b037666444534198189a339658759.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1XJykzvENH&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "人生至少有一串烧烤属于云南"
       },
       {
@@ -608,6 +608,16 @@
     ],
     "qbitai": [
       {
+        "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
+        "url": "https://www.qbitai.com/2026/11/512972.html",
+        "desc": "全栈方案破解工业机器人连续作业难题",
+        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/826beb657fe9e9df20a821082ff9abe0.png",
+        "date": "2026-11-26T18:07:55",
+        "platform": "qbitai",
+        "kind": "article",
+        "rank": 1
+      },
+      {
         "title": "极客公园创新大会 2027 全议程公布！",
         "url": "https://www.qbitai.com/2026/11/512952.html",
         "desc": "今天，IF 2027 全议程揭晓。",
@@ -615,7 +625,7 @@
         "date": "2026-11-26T16:19:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 1
+        "rank": 2
       },
       {
         "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
@@ -625,7 +635,7 @@
         "date": "2026-11-26T15:36:04",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 2
+        "rank": 3
       },
       {
         "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
@@ -635,7 +645,7 @@
         "date": "2026-11-26T14:41:23",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 3
+        "rank": 4
       },
       {
         "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
@@ -645,7 +655,7 @@
         "date": "2026-11-26T11:23:35",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 4
+        "rank": 5
       },
       {
         "title": "沈向洋刚讲了好多AI非共识啊",
@@ -655,7 +665,7 @@
         "date": "2026-11-26T11:13:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 5
+        "rank": 6
       },
       {
         "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
@@ -665,7 +675,7 @@
         "date": "2026-11-26T10:53:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 6
+        "rank": 7
       },
       {
         "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
@@ -675,7 +685,7 @@
         "date": "2026-11-26T08:40:37",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 7
+        "rank": 8
       },
       {
         "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
@@ -685,7 +695,7 @@
         "date": "2026-11-26T00:34:09",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 8
+        "rank": 9
       },
       {
         "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
@@ -695,7 +705,7 @@
         "date": "2026-11-25T22:51:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 9
+        "rank": 10
       },
       {
         "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
@@ -705,7 +715,7 @@
         "date": "2026-11-25T22:32:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
@@ -715,7 +725,7 @@
         "date": "2026-11-25T22:21:20",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
@@ -725,7 +735,7 @@
         "date": "2026-11-25T22:20:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
@@ -735,7 +745,7 @@
         "date": "2026-11-25T19:07:14",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "Anthropic还藏着2个最强模型…",
@@ -745,7 +755,7 @@
         "date": "2026-11-25T16:23:24",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
@@ -755,7 +765,7 @@
         "date": "2026-11-25T16:18:54",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
@@ -765,7 +775,7 @@
         "date": "2026-11-25T15:46:52",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
@@ -775,7 +785,7 @@
         "date": "2026-11-25T14:49:27",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "Claude Opus 5.6灰测效果来了",
@@ -785,7 +795,7 @@
         "date": "2026-11-25T10:43:07",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
@@ -795,7 +805,7 @@
         "date": "2026-11-24T18:30:42",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 19
+        "rank": 20
       },
       {
         "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
@@ -805,7 +815,7 @@
         "date": "2026-11-24T18:15:57",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 20
+        "rank": 21
       },
       {
         "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
@@ -815,7 +825,7 @@
         "date": "2026-11-24T17:21:55",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 21
+        "rank": 22
       },
       {
         "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
@@ -825,7 +835,7 @@
         "date": "2026-11-24T16:44:32",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 22
+        "rank": 23
       },
       {
         "title": "叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办",
@@ -835,7 +845,7 @@
         "date": "2026-11-24T16:34:03",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 23
+        "rank": 24
       },
       {
         "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
@@ -845,7 +855,7 @@
         "date": "2026-11-24T16:10:43",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 24
+        "rank": 25
       },
       {
         "title": "Google Cloud 出海峰会报名开启",
@@ -855,7 +865,7 @@
         "date": "2026-11-24T14:52:29",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 25
+        "rank": 26
       },
       {
         "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
@@ -865,7 +875,7 @@
         "date": "2026-11-24T14:35:06",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 26
+        "rank": 27
       },
       {
         "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
@@ -875,7 +885,7 @@
         "date": "2026-11-24T14:22:28",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 27
+        "rank": 28
       },
       {
         "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
@@ -885,7 +895,7 @@
         "date": "2026-11-24T14:15:38",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 28
+        "rank": 29
       },
       {
         "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
@@ -895,39 +905,59 @@
         "date": "2026-11-24T14:12:16",
         "platform": "qbitai",
         "kind": "article",
-        "rank": 29
-      },
-      {
-        "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-        "url": "https://www.qbitai.com/2026/11/512329.html",
-        "desc": "12.9 北京，来MEET2027现场",
-        "cover": "https://www.qbitai.com/wp-content/uploads/2026/11/553c9013ceef0f55472b8f6e3ed019e5-e1795491191568.jpeg",
-        "date": "2026-11-24T11:33:48",
-        "platform": "qbitai",
-        "kind": "article",
         "rank": 30
       }
     ],
     "36kr": [
       {
-        "title": "女性不该成为科技世界的「麻瓜」",
-        "url": "https://m.36kr.com/p/4085956747635337",
+        "title": "阿莫迪自明本志：我本无意让AI掌权",
+        "url": "https://m.36kr.com/p/4086372315273095",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261126/v2_d64e437cb668438daab920c9aabe6a68@1743780481@ai_oswg943122oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1795661663596,
+        "cover": "https://img.36krcdn.com/hsossms/20261126/v2_8e3acbaf998542658bf6fa3510a3cf7a@5888275@ai_oswg986113oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1795687830062,
         "platform": "36kr",
         "kind": "article",
         "rank": 1
       },
       {
-        "title": "豆包也要上餐桌",
-        "url": "https://m.36kr.com/p/4085260792375943",
+        "title": "腾讯想对豆包，再来一次“偷袭珍珠港”",
+        "url": "https://m.36kr.com/p/4086109887883905",
         "desc": "",
-        "cover": "https://img.36krcdn.com/hsossms/20261125/v2_09dcebfa5aa04ad696a9672c5c9a67d3@000000@ai_oswg68164oswg1080oswg459_img_000~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
-        "date": 1795658358879,
+        "cover": "https://img.36krcdn.com/hsossms/20261126/v2_02adc547c0ce4402bee40dd05cd576ba@5888275@ai_oswg1029042oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:960:400:960:400:q70.jpg",
+        "date": 1795687830062,
         "platform": "36kr",
         "kind": "article",
         "rank": 2
+      },
+      {
+        "title": "湖南白银：子公司宝山矿业计划停产检修约15天",
+        "url": "https://m.36kr.com/newsflashes/4086416108579202",
+        "desc": "36氪获悉，湖南白银公告，公司全资子公司宝山矿业计划于2026年11月26日开始停产检修，检修时长约15天，预计12月10日完成。宝山矿业已提前做好各生产环节衔接安排，确保检修结束后安全有序恢复生产，不会对公司经营情况造成影响。",
+        "cover": "",
+        "date": 1795687764251,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "中国电建：2026年1-10月新签合同额8834.22亿元，同比降7.78%",
+        "url": "https://m.36kr.com/newsflashes/4086417577372297",
+        "desc": "36氪获悉，中国电建公告，2026年1月至10月公司累计新签项目6227个，新签合同金额8834.22亿元，同比减少7.78%。分业务来看，能源电力业务新签合同额5638.10亿元，同比减少8.99%；水资源与环境业务新签合同额902.88亿元，同比增长0.77%；城市建设与基础设施业务新签合同额2050.12亿元，同比增长1.50%；其他业务新签合同额243.12亿元，同比减少48.13%。",
+        "cover": "",
+        "date": 1795687619000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
+        "title": "日本央行9月末ETF持仓规模达100万亿日元",
+        "url": "https://m.36kr.com/newsflashes/4086398115867011",
+        "desc": "日本央行今年上半年最新财务报表显示，截至9月末，该行交易所交易基金持仓总价值达到113.1万亿日元（合7100亿美元）。财报显示，其中ETF持仓未实现收益扩大至76.2万亿日元。同期日本央行出售ETF实现利润3234亿日元。日本央行净利润同比减少1620亿日元，降至1.6万亿日元。日本央行国债持仓未实现亏损从半年前的45.4万亿日元增至55.2万亿日元。（新浪财经）",
+        "cover": "",
+        "date": 1795687044000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 5
       },
       {
         "title": "永兴材料：拟以1亿元-2亿元回购公司股份",
@@ -937,7 +967,7 @@
         "date": 1795686746000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 6
       },
       {
         "title": "温氏股份：回购股份实施完成，累计耗资约1.00亿元",
@@ -947,7 +977,7 @@
         "date": 1795686528000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 7
       },
       {
         "title": "147只银行理财“折戟”超去年近三成，有产品仅募集2万元",
@@ -957,7 +987,7 @@
         "date": 1795685894437,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 8
       },
       {
         "title": "千曙科技引入战略投资方盘毂动力，完成逾两亿元增资",
@@ -967,7 +997,7 @@
         "date": 1795685734812,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 9
       },
       {
         "title": "最新一代芯片量产在即，马云现身平头哥",
@@ -977,7 +1007,7 @@
         "date": 1795685588927,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 10
       },
       {
         "title": "游族网络：拟2亿元至4亿元回购公司股份",
@@ -987,7 +1017,7 @@
         "date": 1795685108755,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 11
       },
       {
         "title": "马斯克Neuralink获批，开展美国首个针对渐冻症患者的LINK脑机接口关键性临床试验",
@@ -997,7 +1027,7 @@
         "date": 1795684794409,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 12
       },
       {
         "title": "微盟集团签署GPU采购协议，AI战略向算力基础设施延伸",
@@ -1007,7 +1037,7 @@
         "date": 1795684737696,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 13
       },
       {
         "title": "抖音生活服务：今年达人内容带来的线下生意增超56%",
@@ -1017,7 +1047,7 @@
         "date": 1795684667926,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 14
       },
       {
         "title": "香港联交所对中国恒大集团、恒大物业集团有限公司及七名董事采取纪律行动",
@@ -1027,7 +1057,7 @@
         "date": 1795684527386,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 15
       },
       {
         "title": "华友钴业：首次回购160万股，耗资4879.92万元",
@@ -1037,7 +1067,7 @@
         "date": 1795684376107,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 16
       },
       {
         "title": "欣旺达：控股股东提议回购1亿至2亿元股份用于注销",
@@ -1047,7 +1077,7 @@
         "date": 1795684102644,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 17
       },
       {
         "title": "商务部：将进一步扩大二手商品流通",
@@ -1057,7 +1087,7 @@
         "date": 1795683995155,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 18
       },
       {
         "title": "昔日千亿房企华夏幸福，正式启动重整",
@@ -1067,7 +1097,7 @@
         "date": 1795683917511,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 19
       },
       {
         "title": "中上协：以10月收盘价计算，上市公司境内股份总市值100万亿元",
@@ -1077,7 +1107,7 @@
         "date": 1795683689805,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 20
       },
       {
         "title": "法国电力预计新核电融资规定将释放数十亿欧元资金",
@@ -1087,7 +1117,7 @@
         "date": 1795683283842,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 21
       },
       {
         "title": "商务部：望美中推动对等降税安排尽快落地实施",
@@ -1097,45 +1127,15 @@
         "date": 1795682749193,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
-      },
-      {
-        "title": "商务部：中国和墨西哥将成立工作组，围绕降低关税问题开展对话",
-        "url": "https://m.36kr.com/newsflashes/4086333916555655",
-        "desc": "在商务部今天举行的例行新闻发布会上，新闻发言人介绍说，11月23日，中国和墨西哥高层发展会议第十一次会议举行，双方同意成立相关的工作组，围绕降低关税问题开展对话。商务部新闻发言人 何亚东：中方在会上明确提出，我们一贯主张通过对话协商解决经贸分歧，反对各种形式的单边加税措施，希望墨方审慎使用贸易救济措施，免受第三方的干扰，希望墨方理性、客观、全面地看待贸易平衡问题，与中方共同努力，促进双边贸易提质升级，双方同意成立相关的工作组，围绕降低关税问题开展对话，进一步推动双边经贸关系健康、稳定、可持续发展。（央视新闻）",
-        "cover": "",
-        "date": 1795682029086,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "挪威低成本航空公司Norse Atlantic暂停所有航班，称若无法紧急融资拟申请破产",
-        "url": "https://m.36kr.com/newsflashes/4086318808148359",
-        "desc": "11月26日，挪威低成本航空公司Norse Atlantic ASA宣布，因财务状况不确定，公司已暂停当天所有航班，等待确认能否获得可行的融资方案。公司表示，若无法紧急短期融资，董事会拟申请破产。Norse Atlantic称，董事会正考虑多种短期融资方案，并已与投资者就可能涉及融资安排的收购事宜展开讨论。公司还于11月25日与持有其债券的投资者举行了信息会议，涉及一笔规模为5200万美元、票面利率为15%的高级担保美元债券。公司表示，目前无法保证能够找到可行的解决方案，并对航班暂停给乘客造成的不便表示歉意。（界面）",
-        "cover": "",
-        "date": 1795681952686,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "欧洲最大卫星工厂正式启用，剑指马斯克旗下星链",
-        "url": "https://m.36kr.com/newsflashes/4086321427114369",
-        "desc": "本周，欧洲最大的卫星工厂在比利时正式揭幕，标志着欧洲在挑战埃隆·马斯克旗下星链（Starlink）、减少对美国太空基础设施依赖方面迈出新一步。比利时私人卫星制造商Aerospacelab于9月获得一份价值24亿欧元（约合26亿美元）的合同，将负责制造欧盟计划部署的348颗IRIS²卫星中的264颗。IRIS²是欧盟针对SpaceX旗下星链业务推出的竞争项目。（新浪财经）",
-        "cover": "",
-        "date": 1795681669744,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795686962794,
-    "bilibili": 1795686971764,
-    "qbitai": 1795686992199,
-    "36kr": 1795686992687
+    "thepaper": 1795687862672,
+    "bilibili": 1795686625788,
+    "qbitai": 1795687892357,
+    "36kr": 1795687892785
   },
   "failures": {}
 }
