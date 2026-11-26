@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:56:36Z",
+  "updatedAt": "2026-11-26T15:11:34Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -222,19 +222,19 @@
         "hotTitle": "国考政治理论3h聚焦速成"
       },
       {
-        "title": "Viper和Flandre一起打瓦",
-        "url": "https://www.bilibili.com/video/BV1Zi1JzEEeA",
+        "title": "Viper看队友稀烂枪法不忍吐槽 转头发现是Flandre 拼尽全力没能绷住🤣",
+        "url": "https://www.bilibili.com/video/BV1mR1JzKERq",
         "desc": "",
         "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1Zi1JzEEeA",
-        "author": "世一联盟",
-        "duration": "1:2",
-        "cover": "//i1.hdslb.com/bfs/archive/d65436945b277f62ab1e734697d4df3477d6f159.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Zi1JzEEeA&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "",
+        "content": "",
+        "bvid": "BV1mR1JzKERq",
+        "author": "阎崎",
+        "duration": "1:42",
+        "cover": "//i0.hdslb.com/bfs/archive/78e9365faca6e3d0d4ff823f172a1d26a5592f96.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1mR1JzKERq&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "Flandre 直播"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795704964953,
-    "bilibili": 1795704974318,
-    "qbitai": 1795704996130,
-    "36kr": 1795704996463
+    "thepaper": 1795705862943,
+    "bilibili": 1795704654906,
+    "qbitai": 1795705894175,
+    "36kr": 1795705894480
   },
   "failures": {}
 }
