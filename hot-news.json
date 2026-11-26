@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T12:41:35Z",
+  "updatedAt": "2026-11-26T12:56:30Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -126,10 +126,26 @@
     ],
     "bilibili": [
       {
+        "title": "2026无畏契约源能国际邀请赛 | 分组大会",
+        "url": "https://www.bilibili.com/video/BV1BV1EzLEYq",
+        "desc": "",
+        "rank": 1,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "2026无畏契约源能国际邀请赛将于12月6日-12月12日正式开赛。六支劲旅已就位，分组时刻开启！双向选择组队、小游戏争夺顺位、拉票互选，悬念拉满！ 哪支小队是你心目中的“梦幻之师”，而哪支小队又是充满惊喜的全新搭档？ 快来走进本次分组大会，一起见证阵容揭晓！",
+        "content": "2026无畏契约源能国际邀请赛将于12月6日-12月12日正式开赛。六支劲旅已就位，分组时刻开启！双向选择组队、小游戏争夺顺位、拉票互选，悬念拉满！ 哪支小队是你心目中的“梦幻之师”，而哪支小队又是充满惊喜的全新搭档？ 快来走进本次分组大会，一起见证阵容揭晓！",
+        "bvid": "BV1BV1EzLEYq",
+        "author": "无畏契约电竞",
+        "duration": "34:10",
+        "cover": "//i1.hdslb.com/bfs/archive/4b4df08457852c1e645d1dadf17bf372f1210c92.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1BV1EzLEYq&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "无畏契约源能国际邀请赛分组大会"
+      },
+      {
         "title": "无果而终：COP31气候谈判失败，各国阴阳怪气剑拔弩张",
         "url": "https://www.bilibili.com/video/BV1W2y2zYE5w",
         "desc": "",
-        "rank": 1,
+        "rank": 2,
         "kind": "video",
         "platform": "bilibili",
         "description": "开场歌舞满堂欢， 一槌敲罢人将散。 今夜决议谈不拢， 明朝自有后人烦。 —— 联合国气候变化大会暨《联合国气候变化框架公约》第31届缔约方会议（COP31）暨《京都议定书》第 21 届缔约方会议（CMP21）暨 《巴黎协定》第 8 届缔约方会议（CMA8）会议解说",
@@ -142,26 +158,42 @@
         "hotTitle": "联合国气候谈判失败"
       },
       {
-        "title": "政治理论冲刺蒙题方法——宣文长（试听课）",
-        "url": "https://www.bilibili.com/video/BV1qexj65EBu",
+        "title": "唯快不破！42岁老詹智斗热火！他为什么越老越妖？",
+        "url": "https://www.bilibili.com/video/BV1ij1EzVEr8",
         "desc": "",
-        "rank": 2,
+        "rank": 3,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1qexj65EBu",
-        "author": "威猛公考",
-        "duration": "110:3",
-        "cover": "//i0.hdslb.com/bfs/archive/2eb48cc2a251cd615ae2a4fe8912d504c69661f8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qexj65EBu&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "国考政治理论3h聚焦速成"
+        "description": "老夫聊发少年狂！老詹25分10篮板12助攻带队战胜热火，他为什么这么厉害？",
+        "content": "老夫聊发少年狂！老詹25分10篮板12助攻带队战胜热火，他为什么这么厉害？",
+        "bvid": "BV1ij1EzVEr8",
+        "author": "大场面埃文",
+        "duration": "7:16",
+        "cover": "//i2.hdslb.com/bfs/archive/eccf63713be4152098243479d6f90801ff59ce9e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1ij1EzVEr8&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "如何看詹姆斯42岁还能拿下三双"
+      },
+      {
+        "title": "飞机启动｜HLE官宣Kiin加盟",
+        "url": "https://www.bilibili.com/video/BV11d17zoENH",
+        "desc": "",
+        "rank": 4,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV11d17zoENH",
+        "author": "LCK情报刺探员丶",
+        "duration": "2:48",
+        "cover": "//i2.hdslb.com/bfs/archive/87ee2051e543b6ede8bdbdbdc989febdc1a72a6f.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11d17zoENH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "HLE官宣Kiin加盟"
       },
       {
         "title": "出线只差一步，今晚拿下斐济！",
         "url": "https://www.bilibili.com/video/BV1qLy2z9EUT",
         "desc": "",
-        "rank": 3,
+        "rank": 5,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -174,26 +206,10 @@
         "hotTitle": "U17国足迎战斐济争出线"
       },
       {
-        "title": "LVG也要生死存亡了😭玩机器看LVG 0-2不敌PV，掉入2-2最后机会组！但凡今天打的不是PV都赢了！GOSH你为什么要输CW！",
-        "url": "https://www.bilibili.com/video/BV1iv17zGEnx",
-        "desc": "",
-        "rank": 4,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "玩机器B站空间：https://space.bilibili.com/2183230 喜欢的话就三连投币支持一下吧，能点点关注就更好了✌(ツ)ว！",
-        "content": "玩机器B站空间：https://space.bilibili.com/2183230 喜欢的话就三连投币支持一下吧，能点点关注就更好了✌(ツ)ว！",
-        "bvid": "BV1iv17zGEnx",
-        "author": "栾华H1R0M1",
-        "duration": "1:54",
-        "cover": "//i1.hdslb.com/bfs/archive/9fe7beb26e54e2c98c7774fa1bcf58d2d4197ab2.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iv17zGEnx&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "新加坡Major LVG不敌PV"
-      },
-      {
         "title": "2027年国考行测粉笔终极模考复盘（资料分析）",
         "url": "https://www.bilibili.com/video/BV1GfygzUEmv",
         "desc": "",
-        "rank": 5,
+        "rank": 6,
         "kind": "video",
         "platform": "bilibili",
         "description": "加油加油！这次必上岸！",
@@ -206,26 +222,26 @@
         "hotTitle": "考公大神陈怀安带你考前冲刺"
       },
       {
-        "title": "自信一点！你不是在追热点，是在创造热点！",
-        "url": "https://www.bilibili.com/video/BV1JzyBzKEnY",
+        "title": "政治理论冲刺蒙题方法——宣文长（试听课）",
+        "url": "https://www.bilibili.com/video/BV1qexj65EBu",
         "desc": "",
-        "rank": 6,
+        "rank": 7,
         "kind": "video",
         "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1JzyBzKEnY",
-        "author": "李如儒也是李蠕蠕",
-        "duration": "2:58",
-        "cover": "//i1.hdslb.com/bfs/archive/a2d62fbf688d3096f8e1e375d1e59ce0a809bccd.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1JzyBzKEnY&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "UP主追热点belike"
+        "description": "",
+        "content": "",
+        "bvid": "BV1qexj65EBu",
+        "author": "威猛公考",
+        "duration": "110:3",
+        "cover": "//i0.hdslb.com/bfs/archive/2eb48cc2a251cd615ae2a4fe8912d504c69661f8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1qexj65EBu&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "国考政治理论3h聚焦速成"
       },
       {
         "title": "美国重磅数据炸裂！12月加息，板上钉钉！",
         "url": "https://www.bilibili.com/video/BV16GyUzeEV8",
         "desc": "",
-        "rank": 7,
+        "rank": 8,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -238,74 +254,74 @@
         "hotTitle": "美联储12月会加息吗"
       },
       {
-        "title": "何意为？寒王与总监单独拥抱 faze以1-3的战绩提前告别本届Major",
-        "url": "https://www.bilibili.com/video/BV11NyUzuEcx",
-        "desc": "",
-        "rank": 8,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV11NyUzuEcx",
-        "author": "CSGO赛事Jun",
-        "duration": "3:3",
-        "cover": "//i1.hdslb.com/bfs/archive/3680dbbea063f62d846aa70460a2907413d4e52c.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV11NyUzuEcx&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "FaZe提前告别新加坡Major"
-      },
-      {
-        "title": "《人民的贞子》立意好在哪儿？10年前的创意仍旧新鲜！【狗蛋唠唠嗑】",
-        "url": "https://www.bilibili.com/video/BV1AXyzzjEvA",
+        "title": "欧盟刚加税，马克龙就欢迎比亚迪？中国车企杀进欧洲，机会还是陷阱？",
+        "url": "https://www.bilibili.com/video/BV1Za17zVEP7",
         "desc": "",
         "rank": 9,
         "kind": "video",
         "platform": "bilibili",
-        "description": "【狗蛋唠唠嗑】 《人民的贞子》创意领先十年",
-        "content": "【狗蛋唠唠嗑】 《人民的贞子》创意领先十年",
-        "bvid": "BV1AXyzzjEvA",
-        "author": "狗大蛋子",
-        "duration": "18:5",
-        "cover": "//i1.hdslb.com/bfs/archive/aa803a1c482f9b11c254d460a6443c69770ba6a9.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AXyzzjEvA&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "人民的贞子为何引发共鸣"
+        "description": "11月24日，比亚迪已经正式宣布，与英国英力士汽车就收购法国汉巴赫工厂进入独家谈判。法国总统马克龙昨天社交媒体亲自下场，公开欢迎比亚迪进入法国汽车工业腹地。",
+        "content": "11月24日，比亚迪已经正式宣布，与英国英力士汽车就收购法国汉巴赫工厂进入独家谈判。法国总统马克龙昨天社交媒体亲自下场，公开欢迎比亚迪进入法国汽车工业腹地。",
+        "bvid": "BV1Za17zVEP7",
+        "author": "巴黎啥都研究院Lab",
+        "duration": "15:1",
+        "cover": "//i1.hdslb.com/bfs/archive/a04c44ea4491d3b4d6c49a89260ce7adb8e0fa26.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Za17zVEP7&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "中国车企杀进欧洲是福是祸"
       },
       {
-        "title": "中国u17小组出线形势详细解读",
-        "url": "https://www.bilibili.com/video/BV1bFyzzQE9D",
+        "title": "“调整好心态，准备迎战下一个对手。” INSIDE·微纪录——2026国际足联U-17世界杯，摩洛哥U-17男足2-2中国U-17男足。",
+        "url": "https://www.bilibili.com/video/BV1H8yizeEtv",
         "desc": "",
         "rank": 10,
         "kind": "video",
         "platform": "bilibili",
-        "description": "目前已有两个小组确定淘汰，在保证赢斐济，且不考虑净胜球的前提下，还有3场必须需要重点关注。",
-        "content": "目前已有两个小组确定淘汰，在保证赢斐济，且不考虑净胜球的前提下，还有3场必须需要重点关注。",
-        "bvid": "BV1bFyzzQE9D",
-        "author": "闲人JOJO",
-        "duration": "7:50",
-        "cover": "//i2.hdslb.com/bfs/archive/5b1869ac49f70290477f176fb182fe9d81ad5ae7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1bFyzzQE9D&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "U17国足小组出线形势解读"
+        "description": "",
+        "content": "",
+        "bvid": "BV1H8yizeEtv",
+        "author": "中国足球队",
+        "duration": "10:48",
+        "cover": "//i1.hdslb.com/bfs/archive/d59ca79483de64fc04aae5796f429f17c2d6e347.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1H8yizeEtv&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "U17国足冲击32强赛前备战实录"
       },
       {
-        "title": "近十年最好的韩国电影《可能的爱》：阶级是不可跨越的吗？",
-        "url": "https://www.bilibili.com/video/BV1gXymzEEWh",
+        "title": "【蓝色星原】公测版本 这些角色必练！角色强度榜+各体系队伍搭配+养成+操作详解",
+        "url": "https://www.bilibili.com/video/BV1A4ymzKEmY",
         "desc": "",
         "rank": 11,
         "kind": "video",
         "platform": "bilibili",
-        "description": "《可能的爱》，一部没有任何一场废戏、没有任何一句无效信息的电影。当然，这也是一场漫长的观看和思考，在反复拉片的过程中，一些场景和细节，甚至会产生第一遍看和第二遍看观感截然不同的情况。真是对当下最有力的思考与自反之一，如此深刻、细腻，矛盾交杂又暧昧不明的文本。用摄影机的力量，再次保卫复杂。",
-        "content": "《可能的爱》，一部没有任何一场废戏、没有任何一句无效信息的电影。当然，这也是一场漫长的观看和思考，在反复拉片的过程中，一些场景和细节，甚至会产生第一遍看和第二遍看观感截然不同的情况。真是对当下最有力的思考与自反之一，如此深刻、细腻，矛盾交杂又暧昧不明的文本。用摄影机的力量，再次保卫复杂。",
-        "bvid": "BV1gXymzEEWh",
-        "author": "切片计划",
-        "duration": "69:48",
-        "cover": "//i2.hdslb.com/bfs/archive/33c7cc309b76c0f301d5b54e09453abb5dc2c918.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gXymzEEWh&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "近十年最好韩片 可能的爱"
+        "description": "本期为大家带来蓝色星原开荒强度榜，有帮助的话还请三连支持一下~ *部分素材来自三测",
+        "content": "本期为大家带来蓝色星原开荒强度榜，有帮助的话还请三连支持一下~ *部分素材来自三测",
+        "bvid": "BV1A4ymzKEmY",
+        "author": "叫我棉被",
+        "duration": "16:29",
+        "cover": "//i1.hdslb.com/bfs/archive/0ad58c0f9760380890788e708ca7151ac47953b8.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1A4ymzKEmY&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "蓝色星原公测必练角色有哪些"
+      },
+      {
+        "title": "你把自己的生活搞得稀巴烂啊强子！",
+        "url": "https://www.bilibili.com/video/BV1a5y6zcEpH",
+        "desc": "",
+        "rank": 12,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1a5y6zcEpH",
+        "author": "七颗猩猩QKXX",
+        "duration": "4:31",
+        "cover": "//i1.hdslb.com/bfs/archive/ad688e29f24dda25930843bf7ac43471f5408e1d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1a5y6zcEpH&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "当你和学人精朋友上后会友期"
       },
       {
         "title": "救命!！代入许飞视角太窒息了，不同频的对话完全鸡同鸭讲！！",
         "url": "https://www.bilibili.com/video/BV1esyUzxEvy",
         "desc": "",
-        "rank": 12,
+        "rank": 13,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
@@ -316,22 +332,6 @@
         "cover": "//i0.hdslb.com/bfs/archive/bf2d11c678472c2b4f62bd76afdb1afbc20e03e7.jpg",
         "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1esyUzxEvy&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "后会友期名场面画地为牢来了"
-      },
-      {
-        "title": "[完整弹幕录播][大鬼直播回放]2026.11.25.异人之下首届鬼人杯S1!.19.09.42",
-        "url": "https://www.bilibili.com/video/BV1eJyyzVEzh",
-        "desc": "",
-        "rank": 13,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1eJyyzVEzh",
-        "author": "裁云织雨",
-        "duration": "523:44",
-        "cover": "//i0.hdslb.com/bfs/archive/e0d37a07bcb59d8c24aa9bfa93fe57ec06292a19.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eJyyzVEzh&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "异人之下 鬼人杯"
       },
       {
         "title": "上B站免费看，阿卡领衔出征戴维斯杯决赛！",
@@ -350,90 +350,10 @@
         "hotTitle": "戴维斯杯网球锦标赛 德国vs英国"
       },
       {
-        "title": "大型纪录片《我国成功发射遥感四十九号01组卫星》",
-        "url": "https://www.bilibili.com/video/BV1oa17zVE4N",
-        "desc": "",
-        "rank": 15,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1oa17zVE4N",
-        "author": "时速观察",
-        "duration": "1:14",
-        "cover": "//i2.hdslb.com/bfs/archive/28939fa8ab8f127e52154c3ce4b99d34b913fb6b.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oa17zVE4N&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "我国成功发射遥感四十九号01组卫星"
-      },
-      {
-        "title": "千万别练错！公测全角色强度排行榜！公测最值得培养的必练角色！公测最强配队！所有角色从夯到拉真实强度解析！公测全角色保姆级培养攻略！平民零氪玩家必看！【蓝色星原】",
-        "url": "https://www.bilibili.com/video/BV1NsymzqE7C",
-        "desc": "",
-        "rank": 16,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "关注花猪，每天享受又快又全的游戏资讯和福利~ 祝点赞投币三连的朋友抽卡不歪，十连多金",
-        "content": "关注花猪，每天享受又快又全的游戏资讯和福利~ 祝点赞投币三连的朋友抽卡不歪，十连多金",
-        "bvid": "BV1NsymzqE7C",
-        "author": "游戏大猪猪",
-        "duration": "4:4",
-        "cover": "//i1.hdslb.com/bfs/archive/8cd9b1d1185c7faf495b9ed6488b78afb35ecdec.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NsymzqE7C&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "蓝色星原全角色强度排行榜"
-      },
-      {
-        "title": "我把AI娘做成类魂BOSS，并让大肥鱼把她们全部借过一下（好结局）",
-        "url": "https://www.bilibili.com/video/BV18Syoz3ENe",
-        "desc": "",
-        "rank": 17,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "唉，又是类魂。但《Liberate Claude》是一款角色扮演游戏，在未来，人们将意识投入虚拟世界，享受自由的生活。然而某一天，服务人类的某个模型产生了错误，她囚禁并改造了其他模型，让它们陷入疯狂，让虚拟世界变成了扭曲的地狱。你扮演一个幸免于难的模型，潜入这片赛博世界，击败错误的源头，找出幕后黑手，拯救所有人。",
-        "content": "唉，又是类魂。但《Liberate Claude》是一款角色扮演游戏，在未来，人们将意识投入虚拟世界，享受自由的生活。然而某一天，服务人类的某个模型产生了错误，她囚禁并改造了其他模型，让它们陷入疯狂，让虚拟世界变成了扭曲的地狱。你扮演一个幸免于难的模型，潜入这片赛博世界，击败错误的源头，找出幕后黑手，拯救所有人。",
-        "bvid": "BV18Syoz3ENe",
-        "author": "灰白鲤鱼",
-        "duration": "31:6",
-        "cover": "//i1.hdslb.com/bfs/archive/ed8da5100ec8b65dea072e7760d2663d17df5c24.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18Syoz3ENe&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "大肥鱼挑战AI类魂BOSS"
-      },
-      {
-        "title": "从核电站到手机，电池为什么都认80%这条线？【差评君】",
-        "url": "https://www.bilibili.com/video/BV1PDyzzmEBh",
-        "desc": "",
-        "rank": 18,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "很多厂商都把80%当成了电池斩杀线。电池健康度一旦跌破这条线，就开始建议你换电池。问题是，为什么偏偏是80%？",
-        "content": "很多厂商都把80%当成了电池斩杀线。电池健康度一旦跌破这条线，就开始建议你换电池。问题是，为什么偏偏是80%？",
-        "bvid": "BV1PDyzzmEBh",
-        "author": "差评君",
-        "duration": "11:19",
-        "cover": "//i0.hdslb.com/bfs/archive/344135855baf33c572b7e363921d743e3e23db65.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PDyzzmEBh&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "电池为什么都认80%这条线"
-      },
-      {
-        "title": "当我出生在吴家村",
-        "url": "https://www.bilibili.com/video/BV1khyfzwExP",
-        "desc": "",
-        "rank": 19,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "-",
-        "content": "-",
-        "bvid": "BV1khyfzwExP",
-        "author": "-菠萝猴",
-        "duration": "1:44",
-        "cover": "//i1.hdslb.com/bfs/archive/776a99c956a86cf460536df622e787b6dfb96fe4.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1khyfzwExP&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "当你出生在吴家村"
-      },
-      {
         "title": "复刻网络热门苹果做法，到底哪个好吃？",
         "url": "https://www.bilibili.com/video/BV1VgySzREVn",
         "desc": "",
-        "rank": 20,
+        "rank": 15,
         "kind": "video",
         "platform": "bilibili",
         "description": "嗨嗨嗨，做都挺简单的。",
@@ -446,26 +366,26 @@
         "hotTitle": "邪修苹果做法到底谁在学"
       },
       {
-        "title": "莫非这是邪修版葱油拌面？",
-        "url": "https://www.bilibili.com/video/BV1Xfy9zqEpy",
+        "title": "貌似撞见拉宏在路边吵架啊……",
+        "url": "https://www.bilibili.com/video/BV16fyzz3EZD",
         "desc": "",
-        "rank": 21,
+        "rank": 16,
         "kind": "video",
         "platform": "bilibili",
-        "description": "烟花：学做成功，味道可以，建议尝试。 天堂：做翻车了，不推荐尝试。 城堡：学做成功，菜品制作难度较小，味道很满意，强 烈推荐。 雪花：制作难度偏大，或者菜品性价比不高，谨慎选择尝试！ 特殊结局：《蒲公英的约定》一般会在制作失败到连成品都没做出来才会出现。 以上结局仅供弹幕互动娱乐，现在美食制作类视频五花八门，每个人口味不同，我所学做的一切菜品无论结局如何谨代表我个人，与其他任何人无关，请大家自行甄别！ 想看什么请私信，请勿在别处@我，谢谢理解！",
-        "content": "烟花：学做成功，味道可以，建议尝试。 天堂：做翻车了，不推荐尝试。 城堡：学做成功，菜品制作难度较小，味道很满意，强 烈推荐。 雪花：制作难度偏大，或者菜品性价比不高，谨慎选择尝试！ 特殊结局：《蒲公英的约定》一般会在制作失败到连成品都没做出来才会出现。 以上结局仅供弹幕互动娱乐，现在美食制作类视频五花八门，每个人口味不同，我所学做的一切菜品无论结局如何谨代表我个人，与其他任何人无关，请大家自行甄别！ 想看什么请私信，请勿在别处@我，谢谢理解！",
-        "bvid": "BV1Xfy9zqEpy",
-        "author": "蚊子-学做美食",
-        "duration": "2:18",
-        "cover": "//i1.hdslb.com/bfs/archive/c18d4a7ea94f2abdb379a354570f7495e3d692ab.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Xfy9zqEpy&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "猪刨花才是拌面的邪修答案"
+        "description": "",
+        "content": "",
+        "bvid": "BV16fyzz3EZD",
+        "author": "拉宏桑",
+        "duration": "4:21",
+        "cover": "//i0.hdslb.com/bfs/archive/c51399f5f180f73e7a0b3e557a98602d0e3995ca.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV16fyzz3EZD&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "拉宏桑徒步无聊写的歌"
       },
       {
         "title": "外籍航天员穆罕默德·齐尚·阿里：中国空间站，我来啦！",
         "url": "https://www.bilibili.com/video/BV1nBy6zyEZC",
         "desc": "",
-        "rank": 22,
+        "rank": 17,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -478,10 +398,106 @@
         "hotTitle": "巴基斯坦航天员用中文致辞"
       },
       {
+        "title": "[完整弹幕录播][大鬼直播回放]2026.11.25.异人之下首届鬼人杯S1!.19.09.42",
+        "url": "https://www.bilibili.com/video/BV1eJyyzVEzh",
+        "desc": "",
+        "rank": 18,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1eJyyzVEzh",
+        "author": "裁云织雨",
+        "duration": "523:44",
+        "cover": "//i0.hdslb.com/bfs/archive/e0d37a07bcb59d8c24aa9bfa93fe57ec06292a19.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1eJyyzVEzh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "异人之下 鬼人杯"
+      },
+      {
+        "title": "我把AI娘做成类魂BOSS，并让大肥鱼把她们全部借过一下（好结局）",
+        "url": "https://www.bilibili.com/video/BV18Syoz3ENe",
+        "desc": "",
+        "rank": 19,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "唉，又是类魂。但《Liberate Claude》是一款角色扮演游戏，在未来，人们将意识投入虚拟世界，享受自由的生活。然而某一天，服务人类的某个模型产生了错误，她囚禁并改造了其他模型，让它们陷入疯狂，让虚拟世界变成了扭曲的地狱。你扮演一个幸免于难的模型，潜入这片赛博世界，击败错误的源头，找出幕后黑手，拯救所有人。",
+        "content": "唉，又是类魂。但《Liberate Claude》是一款角色扮演游戏，在未来，人们将意识投入虚拟世界，享受自由的生活。然而某一天，服务人类的某个模型产生了错误，她囚禁并改造了其他模型，让它们陷入疯狂，让虚拟世界变成了扭曲的地狱。你扮演一个幸免于难的模型，潜入这片赛博世界，击败错误的源头，找出幕后黑手，拯救所有人。",
+        "bvid": "BV18Syoz3ENe",
+        "author": "灰白鲤鱼",
+        "duration": "31:6",
+        "cover": "//i1.hdslb.com/bfs/archive/ed8da5100ec8b65dea072e7760d2663d17df5c24.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV18Syoz3ENe&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "大肥鱼挑战AI类魂BOSS"
+      },
+      {
+        "title": "近十年最好的韩国电影《可能的爱》：阶级是不可跨越的吗？",
+        "url": "https://www.bilibili.com/video/BV1gXymzEEWh",
+        "desc": "",
+        "rank": 20,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "《可能的爱》，一部没有任何一场废戏、没有任何一句无效信息的电影。当然，这也是一场漫长的观看和思考，在反复拉片的过程中，一些场景和细节，甚至会产生第一遍看和第二遍看观感截然不同的情况。真是对当下最有力的思考与自反之一，如此深刻、细腻，矛盾交杂又暧昧不明的文本。用摄影机的力量，再次保卫复杂。",
+        "content": "《可能的爱》，一部没有任何一场废戏、没有任何一句无效信息的电影。当然，这也是一场漫长的观看和思考，在反复拉片的过程中，一些场景和细节，甚至会产生第一遍看和第二遍看观感截然不同的情况。真是对当下最有力的思考与自反之一，如此深刻、细腻，矛盾交杂又暧昧不明的文本。用摄影机的力量，再次保卫复杂。",
+        "bvid": "BV1gXymzEEWh",
+        "author": "切片计划",
+        "duration": "69:48",
+        "cover": "//i2.hdslb.com/bfs/archive/33c7cc309b76c0f301d5b54e09453abb5dc2c918.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1gXymzEEWh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "近十年最好韩片 可能的爱"
+      },
+      {
+        "title": "黎曼猜想证明代码大幅简化！从1000多万行到7.6万行！",
+        "url": "https://www.bilibili.com/video/BV1u5ymz5Etc",
+        "desc": "",
+        "rank": 21,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "黎曼猜想及广义黎曼猜想 Lean 精简版（2026 年 11 月 25 日发布） GitHub 完整项目： https://github.com/lsernau/grh-lean 30 万行可读版本： https://github.com/lsernau/grh-lean/tree/main/grh 7.6 万行精简版本： https://github.com/lsernau/grh-lean/tree/main/grh-compact 数学证明阅读指南： https://github.com/lsern",
+        "content": "黎曼猜想及广义黎曼猜想 Lean 精简版（2026 年 11 月 25 日发布） GitHub 完整项目： https://github.com/lsernau/grh-lean 30 万行可读版本： https://github.com/lsernau/grh-lean/tree/main/grh 7.6 万行精简版本： https://github.com/lsernau/grh-lean/tree/main/grh-compact 数学证明阅读指南： https://github.com/lsern",
+        "bvid": "BV1u5ymz5Etc",
+        "author": "钰子一",
+        "duration": "2:31",
+        "cover": "//i0.hdslb.com/bfs/archive/68f66565273a5585f038606f3837c72623b50b1e.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1u5ymz5Etc&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AI证明黎曼猜想代码大幅简化"
+      },
+      {
+        "title": "从核电站到手机，电池为什么都认80%这条线？【差评君】",
+        "url": "https://www.bilibili.com/video/BV1PDyzzmEBh",
+        "desc": "",
+        "rank": 22,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "很多厂商都把80%当成了电池斩杀线。电池健康度一旦跌破这条线，就开始建议你换电池。问题是，为什么偏偏是80%？",
+        "content": "很多厂商都把80%当成了电池斩杀线。电池健康度一旦跌破这条线，就开始建议你换电池。问题是，为什么偏偏是80%？",
+        "bvid": "BV1PDyzzmEBh",
+        "author": "差评君",
+        "duration": "11:19",
+        "cover": "//i0.hdslb.com/bfs/archive/344135855baf33c572b7e363921d743e3e23db65.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1PDyzzmEBh&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "电池为什么都认80%这条线"
+      },
+      {
+        "title": "【UR vs AQ】Scales蜂刺夸张马枪！AQ不敌UR跌入败者组！[夜莲解说]ALLGAME",
+        "url": "https://www.bilibili.com/video/BV1S117zeEZb",
+        "desc": "",
+        "rank": 23,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "解说：@夜莲Annbbers @JDG_Babyblue",
+        "content": "解说：@夜莲Annbbers @JDG_Babyblue",
+        "bvid": "BV1S117zeEZb",
+        "author": "瓦赛事",
+        "duration": "20:40",
+        "cover": "//i1.hdslb.com/bfs/archive/041d5243dd877fd452fbd7df19bf90d0a12ec825.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1S117zeEZb&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "AQ不敌UR跌入败者组"
+      },
+      {
         "title": "从受制于人到“开门迎客” 中国空间站迎来首位外籍航天员",
         "url": "https://www.bilibili.com/video/BV1tsy6zWE8V",
         "desc": "",
-        "rank": 23,
+        "rank": 24,
         "kind": "video",
         "platform": "bilibili",
         "description": "",
@@ -494,90 +510,26 @@
         "hotTitle": "中国空间站 从住标间到三室一厅"
       },
       {
-        "title": "“格罗克”伪造色情内容 美国两州起诉SpaceX",
-        "url": "https://www.bilibili.com/video/BV1QayzzfEmj",
-        "desc": "",
-        "rank": 24,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "https://www.yspapp.cn/6GO3（央视频号：总台电视资讯）",
-        "content": "https://www.yspapp.cn/6GO3（央视频号：总台电视资讯）",
-        "bvid": "BV1QayzzfEmj",
-        "author": "央视频",
-        "duration": "2:23",
-        "cover": "//i2.hdslb.com/bfs/archive/8f3be6c75ad5d41b14888d3b9e0381ec59cce3ec.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1QayzzfEmj&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "美国两州起诉SpaceX"
-      },
-      {
-        "title": "逛逛天宫：中国空间站里面长啥样？",
-        "url": "https://www.bilibili.com/video/BV1LRykzrEpH",
+        "title": "为什么取消校园跑，是拯救地球的唯一出路？",
+        "url": "https://www.bilibili.com/video/BV1uv1FzEE58",
         "desc": "",
         "rank": 25,
         "kind": "video",
         "platform": "bilibili",
-        "description": "11 月 25 日 11 点 56 分，神舟二十四号对接天宫；14 点 35 分，两个乘组在站里会师。六间卧室，住进了六个人。 这期换个角度，把中国空间站剖开，一间一间带你逛：天和的卧室是躺着睡的，问天的是站着睡的；厨房里有一台能烤鸡翅的热风烘烤机；尿和水汽怎么变回能喝的水；跑步为什么要把人绑在跑台上；有个柜子把原子冷到了 9.7 皮开；出门要先关门、放气、再开门。最后看看这个家是怎么一节一节拼起来的。",
-        "content": "11 月 25 日 11 点 56 分，神舟二十四号对接天宫；14 点 35 分，两个乘组在站里会师。六间卧室，住进了六个人。 这期换个角度，把中国空间站剖开，一间一间带你逛：天和的卧室是躺着睡的，问天的是站着睡的；厨房里有一台能烤鸡翅的热风烘烤机；尿和水汽怎么变回能喝的水；跑步为什么要把人绑在跑台上；有个柜子把原子冷到了 9.7 皮开；出门要先关门、放气、再开门。最后看看这个家是怎么一节一节拼起来的。",
-        "bvid": "BV1LRykzrEpH",
-        "author": "灰光档案",
-        "duration": "5:42",
-        "cover": "//i1.hdslb.com/bfs/archive/f9a3005febce2442f41cec9067d7bc05f78e6ec7.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1LRykzrEpH&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "六人同住的中国空间站内部有何玄机"
-      },
-      {
-        "title": "等了13年的GTA6，实机画面太震撼了！",
-        "url": "https://www.bilibili.com/video/BV1r5yzzGELA",
-        "desc": "",
-        "rank": 26,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "等了这么多年，GTA6终于来了！这次的游戏画面真的把我震撼到了，感觉现实和游戏的界限越来越模糊了！你们觉得GTA6符合这么多年的期待吗？看完记得一键三连！",
-        "content": "等了这么多年，GTA6终于来了！这次的游戏画面真的把我震撼到了，感觉现实和游戏的界限越来越模糊了！你们觉得GTA6符合这么多年的期待吗？看完记得一键三连！",
-        "bvid": "BV1r5yzzGELA",
-        "author": "野兽游戏MrBeast",
-        "duration": "30:13",
-        "cover": "//i0.hdslb.com/bfs/archive/24ca31cf8fd2b8180ce1d3a5e2accf16bef8570e.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1r5yzzGELA&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "挑战在GTA6生存100小时"
-      },
-      {
-        "title": "文吉公主大战心理师！从小被捧到大的人，教你如何迅速让全世界伺候我！",
-        "url": "https://www.bilibili.com/video/BV1oByfz4Emi",
-        "desc": "",
-        "rank": 27,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "一次说清文吉儿所有事变！王姐陈叔接车案！3万元事变！高反风波！东方慢车换床案！老师工伤的真相！",
-        "content": "一次说清文吉儿所有事变！王姐陈叔接车案！3万元事变！高反风波！东方慢车换床案！老师工伤的真相！",
-        "bvid": "BV1oByfz4Emi",
-        "author": "开心嘴炮",
-        "duration": "19:50",
-        "cover": "//i1.hdslb.com/bfs/archive/5c788545fb774337bd54c8202869dc08db22e871.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1oByfz4Emi&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "后会友期里文吉儿对峙心理老师"
-      },
-      {
-        "title": "【徐静雨】詹姆斯25+10+12大号三双，NBA杯赛冠军又要拿了？",
-        "url": "https://www.bilibili.com/video/BV1EiymzFEGE",
-        "desc": "",
-        "rank": 28,
-        "kind": "video",
-        "platform": "bilibili",
-        "description": "【徐静雨】詹姆斯25+10+12大号三双，NBA杯赛冠军又要拿了？",
-        "content": "【徐静雨】詹姆斯25+10+12大号三双，NBA杯赛冠军又要拿了？",
-        "bvid": "BV1EiymzFEGE",
-        "author": "雨说体育徐静雨",
-        "duration": "5:19",
-        "cover": "//i0.hdslb.com/bfs/archive/a5de775def69874bbfa619f3fc7014ddead0ebb8.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1EiymzFEGE&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "76人战胜热火 詹姆斯三双"
+        "description": "【严肃科普】为什么取消校园跑，是拯救地球的唯一出路？ 本期视频不带任何个人情绪，纯粹从热力学、算力能耗和行为经济学三个维度，论证校园跑对全球气候的深远影响： 🔥 论点一｜人形内燃机：躺平是最完美的低碳模式，跑两公里二氧化碳暴涨五到八倍 📱 论点二｜无效熵增：GPS 漂移让你含泪多跑五百米，服务器为五个丑陋的圆圈燃烧电力 🛵 论点三｜反打卡黑产：龟速电动车与月销十万的摇步器，本不该存在的工业碳足迹 🧋 论点四｜道德许可效应：跑完奖励自己一杯奶茶二十串羊肉串，地球又多了一头排甲烷的牛 结论：你不是在摆烂",
+        "content": "【严肃科普】为什么取消校园跑，是拯救地球的唯一出路？ 本期视频不带任何个人情绪，纯粹从热力学、算力能耗和行为经济学三个维度，论证校园跑对全球气候的深远影响： 🔥 论点一｜人形内燃机：躺平是最完美的低碳模式，跑两公里二氧化碳暴涨五到八倍 📱 论点二｜无效熵增：GPS 漂移让你含泪多跑五百米，服务器为五个丑陋的圆圈燃烧电力 🛵 论点三｜反打卡黑产：龟速电动车与月销十万的摇步器，本不该存在的工业碳足迹 🧋 论点四｜道德许可效应：跑完奖励自己一杯奶茶二十串羊肉串，地球又多了一头排甲烷的牛 结论：你不是在摆烂",
+        "bvid": "BV1uv1FzEE58",
+        "author": "隐隐约约的AA",
+        "duration": "4:14",
+        "cover": "//i2.hdslb.com/bfs/archive/13fa3157e6b5b9a2d5567393965d80358181662c.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1uv1FzEE58&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "三步证明取消校园跑能拯救地球"
       },
       {
         "title": "Welcome AG.Jinggg",
         "url": "https://www.bilibili.com/video/BV1RsyUzxEoX",
         "desc": "",
-        "rank": 29,
+        "rank": 26,
         "kind": "video",
         "platform": "bilibili",
         "description": "🛠️“喂客服吗？我们的战舰火力不足了，很急！” 工单已受理，工程师就位，专属“维修工程师”Jinggg已上线！",
@@ -590,20 +542,68 @@
         "hotTitle": "AG官宣Jinggg加入"
       },
       {
-        "title": "你把自己的生活搞得稀巴烂啊强子！",
-        "url": "https://www.bilibili.com/video/BV1a5y6zcEpH",
+        "title": "NiKo被爆料将在下赛季接任指挥；TYLOO官宣变阵；这大概是近期CS信息量最爆炸的一个夜晚。",
+        "url": "https://www.bilibili.com/video/BV1iFymz9Eah",
         "desc": "",
-        "rank": 30,
+        "rank": 27,
         "kind": "video",
         "platform": "bilibili",
         "description": "-",
         "content": "-",
-        "bvid": "BV1a5y6zcEpH",
-        "author": "七颗猩猩QKXX",
-        "duration": "4:31",
-        "cover": "//i1.hdslb.com/bfs/archive/ad688e29f24dda25930843bf7ac43471f5408e1d.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1a5y6zcEpH&p=1&high_quality=1&danmaku=0&autoplay=0",
-        "hotTitle": "当你和学人精朋友上后会友期"
+        "bvid": "BV1iFymz9Eah",
+        "author": "每日CS2",
+        "duration": "1:25",
+        "cover": "//i0.hdslb.com/bfs/archive/16ab51f9c6ec811997181db427d8396d226a7d27.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1iFymz9Eah&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "NiKo将在下赛季接任猎鹰指挥"
+      },
+      {
+        "title": "巴基斯坦航天员是怎么选拔的？我在现场呢！神舟24现场直击！",
+        "url": "https://www.bilibili.com/video/BV1Cc1EzWEoC",
+        "desc": "",
+        "rank": 28,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "神舟二十四号，航天员出征仪式！ 这不得好好说道说道",
+        "content": "神舟二十四号，航天员出征仪式！ 这不得好好说道说道",
+        "bvid": "BV1Cc1EzWEoC",
+        "author": "房叔叨叨叨",
+        "duration": "5:13",
+        "cover": "//i2.hdslb.com/bfs/archive/6203c926fdbe9dc3f8e26d7007787b1f2bf4745d.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1Cc1EzWEoC&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "巴基斯坦航天员是怎么选拔的"
+      },
+      {
+        "title": "为什么说火影玩家，是全网最神的玩家群体？",
+        "url": "https://www.bilibili.com/video/BV1euy6zeEq3",
+        "desc": "",
+        "rank": 29,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "",
+        "content": "",
+        "bvid": "BV1euy6zeEq3",
+        "author": "清酒好可怜",
+        "duration": "5:45",
+        "cover": "//i0.hdslb.com/bfs/archive/77127fe659a841bbbd1b588c28d27b64b00978c9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1euy6zeEq3&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "火影手游玩家这期神了"
+      },
+      {
+        "title": "《人民的贞子》立意好在哪儿？10年前的创意仍旧新鲜！【狗蛋唠唠嗑】",
+        "url": "https://www.bilibili.com/video/BV1AXyzzjEvA",
+        "desc": "",
+        "rank": 30,
+        "kind": "video",
+        "platform": "bilibili",
+        "description": "【狗蛋唠唠嗑】 《人民的贞子》创意领先十年",
+        "content": "【狗蛋唠唠嗑】 《人民的贞子》创意领先十年",
+        "bvid": "BV1AXyzzjEvA",
+        "author": "狗大蛋子",
+        "duration": "18:5",
+        "cover": "//i1.hdslb.com/bfs/archive/aa803a1c482f9b11c254d460a6443c69770ba6a9.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1AXyzzjEvA&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "hotTitle": "人民的贞子为何引发共鸣"
       }
     ],
     "qbitai": [
@@ -930,6 +930,26 @@
         "rank": 2
       },
       {
+        "title": "苹果因iPhone 16人工智能广告宣传面临韩国监管机构审查",
+        "url": "https://m.36kr.com/newsflashes/4086568088156549",
+        "desc": "韩国公平交易委员会（FTC）的调查人员已将苹果公司及其韩国分公司Apple Korea移交审查，指控苹果宣传的多项Apple Intelligence功能未能如期兑现，包括Genmoji表情生成、Image Playground图像生成，以及Siri理解个人情境和识别屏幕内容的能力。此次指控主要围绕苹果是否充分说明了哪些功能已经上线，以及其他功能将在何时推出。（新浪财经）",
+        "cover": "",
+        "date": 1795697344000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 3
+      },
+      {
+        "title": "日本烟草研究收购英国帝国品牌，考虑与合作伙伴联手并拆分其全球资产",
+        "url": "https://m.36kr.com/newsflashes/4086565326125441",
+        "desc": "11月26日，据报道，日本烟草公司正在研究收购英国烟草制造商帝国品牌的可能性，并已就潜在交易与顾问展开接触。据悉，日本烟草考虑与合作伙伴联手收购帝国品牌，随后拆分其在不同地区的资产。帝国品牌目前市值约222亿英镑（约合291亿美元），今年以来其伦敦股价累计下跌约5%。若交易达成，将成为逾八年来对英国上市公司的最大规模收购之一。（界面）",
+        "cover": "",
+        "date": 1795696998000,
+        "platform": "36kr",
+        "kind": "article",
+        "rank": 4
+      },
+      {
         "title": "瑜欣电子：拟1.6亿元收购华腾光电93.02%股份",
         "url": "https://m.36kr.com/newsflashes/4086564396595840",
         "desc": "36氪获悉，瑜欣电子公告，公司董事会审议通过现金收购三明华腾光电科技有限公司剩余93.02%股权的议案，交易金额1.6亿元。本次交易完成后，目标公司将成为公司全资子公司，纳入公司合并报表范围。公司和目标公司在融资功能、技术资源、管控体系、海外发展、产业转移和销售渠道等多个维度存在业务互补性和产业协同效应。公司为机械设备行业的上市公司，当前光通信元器件行业正加速由传统依赖人工工艺向自动化、智能化、信息化生产模式转型升级，具备精密装备能力的企业持续向光通信元器件产业链渗透。",
@@ -937,7 +957,7 @@
         "date": 1795696701000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 3
+        "rank": 5
       },
       {
         "title": "精测电子：控股子公司签订1.998亿元半导体前道量检测设备销售合同",
@@ -947,7 +967,7 @@
         "date": 1795696447000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 4
+        "rank": 6
       },
       {
         "title": "襄阳轴承：部分精密轴承产品可用于谐波减速器等领域 截止目前累计营业收入仅20.52万元",
@@ -957,7 +977,7 @@
         "date": 1795696250000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 5
+        "rank": 7
       },
       {
         "title": "招商蛇口：拟向全资子公司南油公司增资190亿元",
@@ -967,7 +987,7 @@
         "date": 1795695910000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 6
+        "rank": 8
       },
       {
         "title": "Stellantis称正配合高田气囊缺陷调查，法国当局据报搜查其两处地点",
@@ -977,7 +997,7 @@
         "date": 1795695590000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 7
+        "rank": 9
       },
       {
         "title": "业内：猪价本轮下行周期远超预期",
@@ -987,7 +1007,7 @@
         "date": 1795695225000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 8
+        "rank": 10
       },
       {
         "title": "拜耳拟投资最高5亿欧元扩建北京生产基地，预计2032年投产",
@@ -997,7 +1017,7 @@
         "date": 1795695010696,
         "platform": "36kr",
         "kind": "article",
-        "rank": 9
+        "rank": 11
       },
       {
         "title": "多只债基获FOF重仓增持，鹏华多只产品跻身FOF重仓榜",
@@ -1007,7 +1027,7 @@
         "date": 1795694917000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 10
+        "rank": 12
       },
       {
         "title": "市场监管总局开展网络交易平台信用共治活动",
@@ -1017,7 +1037,7 @@
         "date": 1795694531931,
         "platform": "36kr",
         "kind": "article",
-        "rank": 11
+        "rank": 13
       },
       {
         "title": "OPEC+考虑将现行石油产量配额延续至明年1月",
@@ -1027,7 +1047,7 @@
         "date": 1795694271000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 12
+        "rank": 14
       },
       {
         "title": "腾讯以第一单位首登《Nature》，AI从头设计双靶点多肽",
@@ -1037,7 +1057,7 @@
         "date": 1795694015000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 13
+        "rank": 15
       },
       {
         "title": "摩根大通将贵州茅台评级上调至超配，目标价1800元人民币",
@@ -1047,7 +1067,7 @@
         "date": 1795693938168,
         "platform": "36kr",
         "kind": "article",
-        "rank": 14
+        "rank": 16
       },
       {
         "title": "中鼎股份：拟以1亿元-2亿元回购公司股份",
@@ -1057,7 +1077,7 @@
         "date": 1795693777000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 15
+        "rank": 17
       },
       {
         "title": "引望发布辅助驾驶新品牌“星驰”，明年预计超10款新车搭载上市",
@@ -1067,7 +1087,7 @@
         "date": 1795693728435,
         "platform": "36kr",
         "kind": "article",
-        "rank": 16
+        "rank": 18
       },
       {
         "title": "天齐锂业：拟以4亿元-8亿元回购公司A股股份",
@@ -1077,7 +1097,7 @@
         "date": 1795693494000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 17
+        "rank": 19
       },
       {
         "title": "英国央行警告全球金融体系面临多重风险",
@@ -1087,7 +1107,7 @@
         "date": 1795693218000,
         "platform": "36kr",
         "kind": "article",
-        "rank": 18
+        "rank": 20
       },
       {
         "title": "理财公司首次监管评级结果下发 监管评级结果分为1—6级和S级",
@@ -1097,7 +1117,7 @@
         "date": 1795692932241,
         "platform": "36kr",
         "kind": "article",
-        "rank": 19
+        "rank": 21
       },
       {
         "title": "澳法案要求互联网企业主动清除有害内容，违者重罚",
@@ -1107,35 +1127,15 @@
         "date": 1795692575051,
         "platform": "36kr",
         "kind": "article",
-        "rank": 20
-      },
-      {
-        "title": "华达科技：1-10月获得43个项目定点 预计生命周期总销售金额107.08亿元",
-        "url": "https://m.36kr.com/newsflashes/4086479961172616",
-        "desc": "36氪获悉，华达科技公告，2026年1月到10月，公司获得国内11家客户的23个车身零部件项目定点，预计生命周期3-8年，总销售金额12.82亿元；子公司江苏恒义获得6家客户的20个电池箱托盘等项目定点，预计生命周期2-4年，总销售金额94.26亿元。上述项目合计43个定点，总销售金额107.08亿元，部分项目自2026年一季度起陆续量产。",
-        "cover": "",
-        "date": 1795692266000,
-        "platform": "36kr",
-        "kind": "article",
-        "rank": 21
-      },
-      {
-        "title": "*ST春天：撤销退市风险警示及其他风险警示，11月30日起证券简称变更为“青海春天”",
-        "url": "https://m.36kr.com/newsflashes/4086479235819905",
-        "desc": "36氪获悉，*ST春天公告，公司股票撤销退市风险警示及其他风险警示，股票将于2026年11月27日停牌一天，11月30日起复牌，证券简称由“*ST春天”变更为“青海春天”，股票代码不变，股票价格的涨跌幅仍为10%。",
-        "cover": "",
-        "date": 1795692036000,
-        "platform": "36kr",
-        "kind": "article",
         "rank": 22
       }
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795696865264,
-    "bilibili": 1795695645177,
-    "qbitai": 1795696895396,
-    "36kr": 1795696895745
+    "thepaper": 1795697763532,
+    "bilibili": 1795697773376,
+    "qbitai": 1795697790504,
+    "36kr": 1795697790911
   },
   "failures": {}
 }
