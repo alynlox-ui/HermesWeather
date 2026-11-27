@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T13:26:36Z",
+  "updatedAt": "2026-11-27T13:41:37Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -52,20 +52,20 @@
         "rank": 8
       },
       {
-        "title": "国家最高科学技术奖得主陈立泉光明日报头版撰文：国家需要什么，我就做什么",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34570807",
+        "title": "受贿5.87亿余元，广西自治区政府原主席蓝天立一审被判死缓",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34574989",
         "desc": "",
         "rank": 9
       },
       {
-        "title": "雅迪、台铃、爱玛、小牛等15家电动自行车企业被集中约谈",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34574923",
+        "title": "国家最高科学技术奖得主陈立泉光明日报头版撰文：国家需要什么，我就做什么",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34570807",
         "desc": "",
         "rank": 10
       },
       {
-        "title": "新能源车智驾权益引纠纷：5年NOA免费使用权标注在赠品栏，车主称事前未被告知",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34567099",
+        "title": "雅迪、台铃、爱玛、小牛等15家电动自行车企业被集中约谈",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34574923",
         "desc": "",
         "rank": 11
       },
@@ -76,26 +76,26 @@
         "rank": 12
       },
       {
+        "title": "山东通报基建项目底座缺陷调查结果：问题属实，追责17人",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34575464",
+        "desc": "",
+        "rank": 13
+      },
+      {
         "title": "四川德阳一体校回应“教练当学生面连摔多部手机”：可能处理问题比较简单粗暴",
         "url": "https://www.thepaper.cn/newsDetail_forward_34572642",
         "desc": "",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "初中生刺伤霸凌者羁押336天后被判正当防卫，检察院已张贴公告道歉",
         "url": "https://www.thepaper.cn/newsDetail_forward_34573017",
         "desc": "",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "产业观察丨制造基地迈向产业高地：南昌针纺产业集群的破局攀登",
         "url": "https://www.thepaper.cn/newsDetail_forward_34562763",
-        "desc": "",
-        "rank": 15
-      },
-      {
-        "title": "国内成品油价迎“两连跌”，终端用油成本继续下降",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34567095",
         "desc": "",
         "rank": 16
       },
@@ -350,19 +350,19 @@
         "hotTitle": "后会友期名场面画地为牢来了"
       },
       {
-        "title": "LPL001号选手拿起教鞭！明凯Clearlove官宣执教JDG，传奇打野的教练生涯换了支队",
-        "url": "https://www.bilibili.com/video/BV1NsyfzTEZx",
+        "title": "WBG教练Clearlove断开连接",
+        "url": "https://www.bilibili.com/video/BV1V51xzZEEK",
         "desc": "",
         "rank": 15,
         "kind": "video",
         "platform": "bilibili",
-        "description": "",
-        "content": "",
-        "bvid": "BV1NsyfzTEZx",
-        "author": "浅渡电竞",
-        "duration": "4:5",
-        "cover": "//i2.hdslb.com/bfs/archive/75dcf4cff8721dd163d7ef05b716d36e08487b38.jpg",
-        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1NsyfzTEZx&p=1&high_quality=1&danmaku=0&autoplay=0",
+        "description": "-",
+        "content": "-",
+        "bvid": "BV1V51xzZEEK",
+        "author": "世一联盟",
+        "duration": "1:5",
+        "cover": "//i2.hdslb.com/bfs/archive/5bac3a0a47b04537a107be31383ad4cfc0227f41.jpg",
+        "embedUrl": "https://player.bilibili.com/player.html?isOutside=true&bvid=BV1V51xzZEEK&p=1&high_quality=1&danmaku=0&autoplay=0",
         "hotTitle": "WBG官宣教练Clearlove离队"
       },
       {
@@ -1132,10 +1132,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795785964678,
+    "thepaper": 1795786863696,
     "bilibili": 1795785132893,
-    "qbitai": 1795785996614,
-    "36kr": 1795785996900
+    "qbitai": 1795786897255,
+    "36kr": 1795786897591
   },
   "failures": {}
 }
