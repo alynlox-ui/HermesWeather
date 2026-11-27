@@ -1,0 +1,2337 @@
+[
+ {
+  "file": ".github/workflows/render-keepalive.yml",
+  "bytes": 562,
+  "sha256": "b895a270e146dedd49cea5832a8500efaed0256a2d833dcff5c599b50903726d"
+ },
+ {
+  "file": ".gitignore",
+  "bytes": 51,
+  "sha256": "121c47ead9e22e4daa085be46d2b9956bd83bd00f045b5dbb3ab65885ff9e9b1"
+ },
+ {
+  "file": ".nojekyll",
+  "bytes": 34,
+  "sha256": "16d5de8ceada2cf8f92f372607a9c7133f0dd3609edf72062bf5b204a26b0088"
+ },
+ {
+  "file": "Procfile",
+  "bytes": 28,
+  "sha256": "47e8e2a390db907d59125735e5e0a8e024c1d6aa248c15f2fc3b57a51b08332e"
+ },
+ {
+  "file": "assets/site-icons/7-zip.png",
+  "bytes": 6325,
+  "sha256": "5439fe0248463295ad6933220077fd7cbd50d46a552374c29bca6d70a8137a28"
+ },
+ {
+  "file": "assets/site-icons/7-zip.svg",
+  "bytes": 808,
+  "sha256": "de159dc74ed853ff4be3b42c99540ebff2ae313c0a50a5da3568651b7a618487"
+ },
+ {
+  "file": "assets/site-icons/adobe-creative-cloud.png",
+  "bytes": 7648,
+  "sha256": "99a1f56f1c6437bf0f4e1d81ee4ac9b34afc4e4fe3f27ee1b31bb8c84e30251c"
+ },
+ {
+  "file": "assets/site-icons/adobe-creative-cloud.svg",
+  "bytes": 278,
+  "sha256": "26f46a624e77aa88d460dfbebdd68a33a50706b5164ea0af8ddd5b060d6197dc"
+ },
+ {
+  "file": "assets/site-icons/affinity.png",
+  "bytes": 11578,
+  "sha256": "d4edc1a790ea7878c12419d4ad9646e183e329874bcb6ce44ef268100b887885"
+ },
+ {
+  "file": "assets/site-icons/affinity.svg",
+  "bytes": 310,
+  "sha256": "f4db40de696a155a066d07ac2dda30d1eb03c97f7fb06a0c3854857aeeaf9663"
+ },
+ {
+  "file": "assets/site-icons/aider.png",
+  "bytes": 24017,
+  "sha256": "166fe2deeafca4d15cc5468b0caac0ac7455a79f6744761e97745ad2e837c2e7"
+ },
+ {
+  "file": "assets/site-icons/aider.svg",
+  "bytes": 277,
+  "sha256": "1c48667f23603f137d74802922d020f60bb4c531ab28af227c80702d20b62a40"
+ },
+ {
+  "file": "assets/site-icons/aider_logo.png",
+  "bytes": 24017,
+  "sha256": "166fe2deeafca4d15cc5468b0caac0ac7455a79f6744761e97745ad2e837c2e7"
+ },
+ {
+  "file": "assets/site-icons/aimp.png",
+  "bytes": 8996,
+  "sha256": "093cc944fe6cefcbb1ec83e1d499379a9742e1af30d294f180a38811189cf2f3"
+ },
+ {
+  "file": "assets/site-icons/aimp.svg",
+  "bytes": 277,
+  "sha256": "46f9dc8d7f79769591ded4bd62fa986ebe9eabb15bde9d5b12b842c580b6f1aa"
+ },
+ {
+  "file": "assets/site-icons/alibaba_test.png",
+  "bytes": 12909,
+  "sha256": "13fce6a4cdd19983e6cb80858836c9b9ef533738a21f192ac2c92b53c19baec3"
+ },
+ {
+  "file": "assets/site-icons/android-studio.png",
+  "bytes": 11319,
+  "sha256": "93e8ebfcc8824ee71d7d3b1a2ed3fba033bff35c6a9ad797d8e8613275d4ee36"
+ },
+ {
+  "file": "assets/site-icons/android-studio.svg",
+  "bytes": 362,
+  "sha256": "1e023e0c31c047f1b0bf587ff70387433faf19fb15e059e553ac56337c952370"
+ },
+ {
+  "file": "assets/site-icons/ansys.png",
+  "bytes": 1412,
+  "sha256": "9160659fd179a235c07d589018208179b8efe1faff25a3968f7bd7ade5fb332d"
+ },
+ {
+  "file": "assets/site-icons/ansys.svg",
+  "bytes": 277,
+  "sha256": "cf40f6469770f255484139b464c15e5245de9c749493eb2e032927597c984d11"
+ },
+ {
+  "file": "assets/site-icons/ansys_test.png",
+  "bytes": 1009053,
+  "sha256": "46dab88a8f729861b07b0fda527cf337418da5835fb08d8fd558302862c3f3d3"
+ },
+ {
+  "file": "assets/site-icons/anthropic_test.png",
+  "bytes": 10715,
+  "sha256": "4124b8d03b154d23afe1d6b9a0b9b7813c5b40407d8d039c38d6ff3b2e923239"
+ },
+ {
+  "file": "assets/site-icons/anytype.png",
+  "bytes": 1817,
+  "sha256": "05b263655946c1db3e09d84b13fd003bb3b4231ce2d1b02591078b46a60c9f2c"
+ },
+ {
+  "file": "assets/site-icons/anytype.svg",
+  "bytes": 277,
+  "sha256": "8b19d6bfa524234f0e3bac457274222e38107d63162724905a586fdff6c0edb5"
+ },
+ {
+  "file": "assets/site-icons/appflowy.png",
+  "bytes": 14779,
+  "sha256": "6ed35955082fa75e0b88676de3113f956984c6b9d283029bab5bde887f32206c"
+ },
+ {
+  "file": "assets/site-icons/appflowy.svg",
+  "bytes": 278,
+  "sha256": "e5cf477163e005f3abc853485a970e66f1c4b28e0fbddaa303ffe668acd94018"
+ },
+ {
+  "file": "assets/site-icons/arcgis.png",
+  "bytes": 1410,
+  "sha256": "00554e4107fa6f09d8141373105cbe508f530611e398b12debee93edefc1805c"
+ },
+ {
+  "file": "assets/site-icons/arcgis.svg",
+  "bytes": 383,
+  "sha256": "fe36b6080fb44fe6dc28b2ca01b70ca42c75887fe309b9c5c39e80d635554bbf"
+ },
+ {
+  "file": "assets/site-icons/arena-breakout.png",
+  "bytes": 12862,
+  "sha256": "644c13a885bc6307dd09e8682e474dc12b219bf342bd69f863ed8ca27b2523da"
+ },
+ {
+  "file": "assets/site-icons/arena-breakout.svg",
+  "bytes": 393,
+  "sha256": "ed31f291631336524b83c8fda0869d189edc370fe9bb5ea0dd23c7a038ba4b1a"
+ },
+ {
+  "file": "assets/site-icons/aseprite.png",
+  "bytes": 9440,
+  "sha256": "c92e45da8ecb3ad3f49c3b7317463c57e3a93f045272cbee342afc5f07d22f1f"
+ },
+ {
+  "file": "assets/site-icons/aseprite.svg",
+  "bytes": 428,
+  "sha256": "2a99518203dcabea254dd5879cce4e3483fa90bea18c69c09000991497133fce"
+ },
+ {
+  "file": "assets/site-icons/audacity.png",
+  "bytes": 14365,
+  "sha256": "905d885a1a664f682e3ab37befa590b011a63c97c3484488d4379a19e4b78efc"
+ },
+ {
+  "file": "assets/site-icons/audacity.svg",
+  "bytes": 307,
+  "sha256": "3ca0433cc3a3ea021a049a5d5dba88a30e3c5e1a25c0b6ae16989d3f4f8e1472"
+ },
+ {
+  "file": "assets/site-icons/autocad.png",
+  "bytes": 4286,
+  "sha256": "e30b135998b07768fb3f3eb8d73161592379602574f595d9d7e2712a090dbde1"
+ },
+ {
+  "file": "assets/site-icons/autocad.svg",
+  "bytes": 277,
+  "sha256": "cc2cee1b7fc0cf57ef3362af66c5bc8f4e48a06a2df37af69a03f7fec3c1f643"
+ },
+ {
+  "file": "assets/site-icons/autodesk_test.png",
+  "bytes": 4286,
+  "sha256": "e30b135998b07768fb3f3eb8d73161592379602574f595d9d7e2712a090dbde1"
+ },
+ {
+  "file": "assets/site-icons/autogpt.png",
+  "bytes": 23024,
+  "sha256": "d3784077cdda9b63b6ba8dce4d9b3c97dd3e2904fb222695e4aaa1ae9ef38aec"
+ },
+ {
+  "file": "assets/site-icons/autogpt.svg",
+  "bytes": 335,
+  "sha256": "71d4ffaab2f60bfd2b7d949392b5fa46abb89f493eec17d1e4f72c36a079c69f"
+ },
+ {
+  "file": "assets/site-icons/autogpt_logo.png",
+  "bytes": 23024,
+  "sha256": "d3784077cdda9b63b6ba8dce4d9b3c97dd3e2904fb222695e4aaa1ae9ef38aec"
+ },
+ {
+  "file": "assets/site-icons/awesomeprompts_logo.png",
+  "bytes": 35289,
+  "sha256": "9a44fbdee645425d2bc3882172156769ce1feb03b9e4ad0eb1a04808263e8f44"
+ },
+ {
+  "file": "assets/site-icons/baidu_test.png",
+  "bytes": 10500,
+  "sha256": "55036718375cf13167d01d74d15259388b6ba5cb0da43275d95c4519e3d8f99f"
+ },
+ {
+  "file": "assets/site-icons/battle-net.png",
+  "bytes": 9193,
+  "sha256": "29bd8fa83946dc13e85850fb0c0f06bed09c6c87451aa2a353458f67104f84c3"
+ },
+ {
+  "file": "assets/site-icons/battle-net.svg",
+  "bytes": 277,
+  "sha256": "e9b8f000f34226065ead0bfe144183fce6d862a8d647fe0f4e5024da5bd8de1e"
+ },
+ {
+  "file": "assets/site-icons/blender.png",
+  "bytes": 8518,
+  "sha256": "7b897a2e32abc7f216ab0b717afae54ee5f027592ac0460a00503dc0db7f0060"
+ },
+ {
+  "file": "assets/site-icons/blender.svg",
+  "bytes": 274,
+  "sha256": "fa8ecae69b250f4704365774b1794d90a86c76761732760a8c118bdf2087d310"
+ },
+ {
+  "file": "assets/site-icons/browser-use.png",
+  "bytes": 19353,
+  "sha256": "da059f94a3401dc1436e9d624ef1697885a147df5a057f6848c22346cf843d9b"
+ },
+ {
+  "file": "assets/site-icons/browser-use.svg",
+  "bytes": 409,
+  "sha256": "0dfa67aff6d0c9d19e4e82640bef282a6ad5ed4ec55995924593891d67d6d09a"
+ },
+ {
+  "file": "assets/site-icons/browseruse_logo.png",
+  "bytes": 19353,
+  "sha256": "da059f94a3401dc1436e9d624ef1697885a147df5a057f6848c22346cf843d9b"
+ },
+ {
+  "file": "assets/site-icons/bruno.png",
+  "bytes": 17612,
+  "sha256": "2ff3ed40dda60f66be2686e65999e5004e164ea4ef7604735acd29ce7e43703c"
+ },
+ {
+  "file": "assets/site-icons/bruno.svg",
+  "bytes": 277,
+  "sha256": "17b8ef64836bd3b2bfbfe867aeecc1b90b219928c778f089852a3f7ecd5c6be8"
+ },
+ {
+  "file": "assets/site-icons/bulk-crap-uninstaller.png",
+  "bytes": 6155,
+  "sha256": "25ed6e1496f55814de072c3ed6e255b5a324cbd912ae29cba11d4315a38d6156"
+ },
+ {
+  "file": "assets/site-icons/bulk-crap-uninstaller.svg",
+  "bytes": 279,
+  "sha256": "fa79f7f1cbce4e6d6b533e92928c5af2583d096d33c049d130de9a5c7235ca81"
+ },
+ {
+  "file": "assets/site-icons/bytedance_test.png",
+  "bytes": 1497,
+  "sha256": "866cadd60d270c4c1b6eef6d8d39154dc18a1391c50b511331665f58ce8de552"
+ },
+ {
+  "file": "assets/site-icons/canva.png",
+  "bytes": 21366,
+  "sha256": "4cccfcb9b26ad3ab5840afe039855c438241c081aad0abe783c38c1bf260ab17"
+ },
+ {
+  "file": "assets/site-icons/canva.svg",
+  "bytes": 277,
+  "sha256": "f6cbec66f2054b5e1fde0aa7f4d558b466b5abd580d43682dedea0820518c386"
+ },
+ {
+  "file": "assets/site-icons/chatgpt-prompts.png",
+  "bytes": 35289,
+  "sha256": "9a44fbdee645425d2bc3882172156769ce1feb03b9e4ad0eb1a04808263e8f44"
+ },
+ {
+  "file": "assets/site-icons/chatgpt-prompts.svg",
+  "bytes": 278,
+  "sha256": "49607edac7b20f2932f993e7914fd87d38adf7541af4b02ebaf77ebb658d4be4"
+ },
+ {
+  "file": "assets/site-icons/chatgpt-wechat.png",
+  "bytes": 41336,
+  "sha256": "ff11005b6ab9c5e297acc2f7f13e17c0f1128069775f9ff007040d3e3b2d95d1"
+ },
+ {
+  "file": "assets/site-icons/chatgpt-wechat.svg",
+  "bytes": 319,
+  "sha256": "992ff961a72ccf77d4def46ab0a0a89acbc9195d3847f47e329142907547b433"
+ },
+ {
+  "file": "assets/site-icons/chatgpt.png",
+  "bytes": 4081,
+  "sha256": "6025a4347a8eaed17e31eaebf7834e33ec4af26cc7f59be586ac59ba5157fa1c"
+ },
+ {
+  "file": "assets/site-icons/chatgpt.svg",
+  "bytes": 328,
+  "sha256": "8d4013cca0b6a0c74642231de1daee621604fe8b4ebde4d0e7901a5701c7522a"
+ },
+ {
+  "file": "assets/site-icons/chatgpt_new.svg",
+  "bytes": 215,
+  "sha256": "b0c4f183267aee76b5d578f2af21117e5e6cfc2dd568538e7a86c7e4fcae115f"
+ },
+ {
+  "file": "assets/site-icons/chatgpt_test.svg",
+  "bytes": 215,
+  "sha256": "b0c4f183267aee76b5d578f2af21117e5e6cfc2dd568538e7a86c7e4fcae115f"
+ },
+ {
+  "file": "assets/site-icons/chatgpt_wiki.png",
+  "bytes": 2034,
+  "sha256": "6a085926c657a52ff0bf3b81f35a5187eb507531c3238d745f9fd51a471ca1ed"
+ },
+ {
+  "file": "assets/site-icons/chatgptwechat_logo.png",
+  "bytes": 41336,
+  "sha256": "ff11005b6ab9c5e297acc2f7f13e17c0f1128069775f9ff007040d3e3b2d95d1"
+ },
+ {
+  "file": "assets/site-icons/claude-code.png",
+  "bytes": 10715,
+  "sha256": "4124b8d03b154d23afe1d6b9a0b9b7813c5b40407d8d039c38d6ff3b2e923239"
+ },
+ {
+  "file": "assets/site-icons/claude-code.svg",
+  "bytes": 278,
+  "sha256": "35c1933382e11824293a814fe92c62d863418e628a95959a778851018dbfb795"
+ },
+ {
+  "file": "assets/site-icons/claude.png",
+  "bytes": 10715,
+  "sha256": "4124b8d03b154d23afe1d6b9a0b9b7813c5b40407d8d039c38d6ff3b2e923239"
+ },
+ {
+  "file": "assets/site-icons/claude.svg",
+  "bytes": 277,
+  "sha256": "84dfba5f0fae406aaae1837f47cc0556420278cee29fc0031016b1b32c6fa85b"
+ },
+ {
+  "file": "assets/site-icons/comfyui.png",
+  "bytes": 1412,
+  "sha256": "cbf58107bce0a0efcc9c5488795ecefc58b88927650125a55a04f006f0e1f827"
+ },
+ {
+  "file": "assets/site-icons/comfyui.svg",
+  "bytes": 412,
+  "sha256": "0f79852faf20efb7400dc81a1fbc2c190b4f95e492641dfc0246609a10388ac5"
+ },
+ {
+  "file": "assets/site-icons/crewai.png",
+  "bytes": 22077,
+  "sha256": "41267bc37ce1408aead973653b3962a0448c9bf6d7e1f27896a182b0b0629ed3"
+ },
+ {
+  "file": "assets/site-icons/crewai.svg",
+  "bytes": 277,
+  "sha256": "ab847bb3ced832aa3da5c08734b6da8beba758ebc74e4392a31261b7547b9d0c"
+ },
+ {
+  "file": "assets/site-icons/crewai_logo.png",
+  "bytes": 22077,
+  "sha256": "41267bc37ce1408aead973653b3962a0448c9bf6d7e1f27896a182b0b0629ed3"
+ },
+ {
+  "file": "assets/site-icons/cryptpad.png",
+  "bytes": 6749,
+  "sha256": "676de64ab39f5ecdbedfb702c2211d97303e509afe02cc4da2eb90084b899c2e"
+ },
+ {
+  "file": "assets/site-icons/cryptpad.svg",
+  "bytes": 313,
+  "sha256": "da552da0448a64b2ff62a002175cb1cb35a46944d64bb82b7be97d1139d6fe61"
+ },
+ {
+  "file": "assets/site-icons/crystaldiskinfo.png",
+  "bytes": 22068,
+  "sha256": "b68045be9e9acff4fe9fb46dedad824bd1c463b6b531ee659e705f2a69ffdfa8"
+ },
+ {
+  "file": "assets/site-icons/crystaldiskinfo.svg",
+  "bytes": 386,
+  "sha256": "3029379467bc5060fafef40db90cecf584d60480b20efe77d24fbf652e851849"
+ },
+ {
+  "file": "assets/site-icons/curseforge.png",
+  "bytes": 8988,
+  "sha256": "4b836e1280fd7d22e7b335a880c84309211f951e18e72f193ebd974875c9de0a"
+ },
+ {
+  "file": "assets/site-icons/curseforge.svg",
+  "bytes": 278,
+  "sha256": "f5821e93802e455c3c9348fcacd8d13dac64133cfe0d27afc52307f1ea98bd28"
+ },
+ {
+  "file": "assets/site-icons/cursor.png",
+  "bytes": 115818,
+  "sha256": "0f128813ae8f4360fbe6b5c85e5e9d13b25c6b54da5e9f57fd8f19f965bda773"
+ },
+ {
+  "file": "assets/site-icons/cursor.svg",
+  "bytes": 274,
+  "sha256": "e3277692ee67cb0efce053b9f946a45ffec87b9bed9a89a4170a7edb25e0c671"
+ },
+ {
+  "file": "assets/site-icons/cursor_test.png",
+  "bytes": 115818,
+  "sha256": "0f128813ae8f4360fbe6b5c85e5e9d13b25c6b54da5e9f57fd8f19f965bda773"
+ },
+ {
+  "file": "assets/site-icons/dalle.png",
+  "bytes": 4081,
+  "sha256": "6025a4347a8eaed17e31eaebf7834e33ec4af26cc7f59be586ac59ba5157fa1c"
+ },
+ {
+  "file": "assets/site-icons/dalle.svg",
+  "bytes": 280,
+  "sha256": "35b93317a2073a51ad0829a2fb9bc626b73e54560b7ddec19fd8b21c9b2d2ce8"
+ },
+ {
+  "file": "assets/site-icons/darktable.png",
+  "bytes": 20904,
+  "sha256": "590c369ced2606d41a33ee3b17daebe0a4dcc274403c1e02bc464dadeb9ee01e"
+ },
+ {
+  "file": "assets/site-icons/darktable.svg",
+  "bytes": 350,
+  "sha256": "12c40f67374e40947aaf323d4952a30e3f6d7327c765000eaa3d208c13326cbf"
+ },
+ {
+  "file": "assets/site-icons/davinci-resolve.png",
+  "bytes": 9254,
+  "sha256": "80912b745c9f8144d9ebe3e91db3e53f09996e007f74660156db6bf4e9be7755"
+ },
+ {
+  "file": "assets/site-icons/davinci-resolve.svg",
+  "bytes": 281,
+  "sha256": "e5251055e8ea45f338b4f396e65c6121a9d3a6caa76b698877b7dbe36eca868a"
+ },
+ {
+  "file": "assets/site-icons/dbeaver.png",
+  "bytes": 16049,
+  "sha256": "92e9f08357180ee363a63bcf82eb23eca9038e515494e69de6799d9473ef9d4c"
+ },
+ {
+  "file": "assets/site-icons/dbeaver.svg",
+  "bytes": 280,
+  "sha256": "a119975aa72c2c0ac247710e0fe9fa691e45437673c62d60f15049dab54afb1e"
+ },
+ {
+  "file": "assets/site-icons/deepseek.png",
+  "bytes": 209762,
+  "sha256": "30a4420e6e4dcb17fd7de560c5004346c2bc8cd971d2d5f5ee15326603e51321"
+ },
+ {
+  "file": "assets/site-icons/deepseek.svg",
+  "bytes": 277,
+  "sha256": "09124b443f04e1a64d945d0a2fb76eef294163645d0b6a1916a24193afe563f4"
+ },
+ {
+  "file": "assets/site-icons/deepseek_test.ico",
+  "bytes": 209762,
+  "sha256": "30a4420e6e4dcb17fd7de560c5004346c2bc8cd971d2d5f5ee15326603e51321"
+ },
+ {
+  "file": "assets/site-icons/deepset_logo.png",
+  "bytes": 2819,
+  "sha256": "b7ed918deca7d6e753239b36ccc66d277840ce35a77b3b463f194177a649bf7a"
+ },
+ {
+  "file": "assets/site-icons/devin.png",
+  "bytes": 15086,
+  "sha256": "3f1975f6e515890d77222fe0611f456f1710886e7f2e78626c050ca284bf1ae7"
+ },
+ {
+  "file": "assets/site-icons/devin.svg",
+  "bytes": 277,
+  "sha256": "0ae9b23c80e1e23feee3cd0d37ff877e425a3828f5eb11be85b1c65ef93914ab"
+ },
+ {
+  "file": "assets/site-icons/devin_test.png",
+  "bytes": 15086,
+  "sha256": "3f1975f6e515890d77222fe0611f456f1710886e7f2e78626c050ca284bf1ae7"
+ },
+ {
+  "file": "assets/site-icons/devtoys.png",
+  "bytes": 12160,
+  "sha256": "480e0e840cd961fd6830aa43cbf019bea59cf54a6384570d10e4040e782a4c8b"
+ },
+ {
+  "file": "assets/site-icons/devtoys.svg",
+  "bytes": 382,
+  "sha256": "a66438bf91fb17ef9d575ef843f90aeac757b1dcba96379fde014a23dd2bfed7"
+ },
+ {
+  "file": "assets/site-icons/dify.png",
+  "bytes": 7467,
+  "sha256": "bd7c469dc37043b652f318bc18d9e765c4076d5ea9806821456408456e8a39b9"
+ },
+ {
+  "file": "assets/site-icons/dify.svg",
+  "bytes": 277,
+  "sha256": "607a5afe0c981debb015d6aba18df15c04b8db7205b74235ee3eeb8a5d9e4d23"
+ },
+ {
+  "file": "assets/site-icons/dify_logo.png",
+  "bytes": 7467,
+  "sha256": "bd7c469dc37043b652f318bc18d9e765c4076d5ea9806821456408456e8a39b9"
+ },
+ {
+  "file": "assets/site-icons/dingtalk.png",
+  "bytes": 7977,
+  "sha256": "6e439b8dce28cadee2e3c67f3274f386a9baf67a5d313c7a0047dfacdb372f4f"
+ },
+ {
+  "file": "assets/site-icons/dingtalk.svg",
+  "bytes": 277,
+  "sha256": "0b702131f1bd70e05068b76c45b851c2e5c5bf777c8782b265db2f5d01a79904"
+ },
+ {
+  "file": "assets/site-icons/ditto.png",
+  "bytes": 1797,
+  "sha256": "8a9b2ff9130bb87753b9f69b583150f69cd7f0964b8e80d2e9ce273fb067d011"
+ },
+ {
+  "file": "assets/site-icons/ditto.svg",
+  "bytes": 277,
+  "sha256": "c0f3eb439b075b4fdaeffc618133c98a1c428ca6149c514795296de2622fe783"
+ },
+ {
+  "file": "assets/site-icons/docker-desktop.png",
+  "bytes": 11817,
+  "sha256": "7e3bfd14048095d0d9e3b4f558f6d1df22be6bf96990efdb377a896851c956ab"
+ },
+ {
+  "file": "assets/site-icons/docker-desktop.svg",
+  "bytes": 404,
+  "sha256": "29e0f29d618950022073bbff9f6ea6a02816bbf34cff7652bb8a27360b8ab851"
+ },
+ {
+  "file": "assets/site-icons/dolphin-emulator.png",
+  "bytes": 11491,
+  "sha256": "9c9d2f3fc01398dde787641931bc8087ce5b5fffd66abfdffa77b51a8bd7bbc9"
+ },
+ {
+  "file": "assets/site-icons/dolphin-emulator.svg",
+  "bytes": 273,
+  "sha256": "c9d3e3e4347e3b172b07b52cadfdb31352814b9d051f9df2d9d3631b44435dd7"
+ },
+ {
+  "file": "assets/site-icons/doubao.png",
+  "bytes": 1497,
+  "sha256": "866cadd60d270c4c1b6eef6d8d39154dc18a1391c50b511331665f58ce8de552"
+ },
+ {
+  "file": "assets/site-icons/doubao.svg",
+  "bytes": 279,
+  "sha256": "e46847aa05e844828cb84a3316ac1eaf58f69ef459107211da063c9c6342c298"
+ },
+ {
+  "file": "assets/site-icons/ea-app.png",
+  "bytes": 2369,
+  "sha256": "4370554229bfdfbd0390b351aa28484671bc86bd11298d4fc9a324220d61176b"
+ },
+ {
+  "file": "assets/site-icons/ea-app.svg",
+  "bytes": 278,
+  "sha256": "7b02b5f76f39a6a3fc632c9a7acd9c16d0e0c18ab88ca889935d7aeb92e3e285"
+ },
+ {
+  "file": "assets/site-icons/eartrumpet.png",
+  "bytes": 951,
+  "sha256": "f0900ba436018f86c2ebe4cf21570545373e46159fea4b216cd238badcc29a78"
+ },
+ {
+  "file": "assets/site-icons/eartrumpet.svg",
+  "bytes": 391,
+  "sha256": "ace927a3bd8d6884d80f40f86822c80884bb18110d1bb319f6ca8e2fb427f12a"
+ },
+ {
+  "file": "assets/site-icons/epic-games.png",
+  "bytes": 4436,
+  "sha256": "2aa85005025e89e2ae62f17da99c678334c17db29314f5a1e7df0954c91cbf65"
+ },
+ {
+  "file": "assets/site-icons/epic-games.svg",
+  "bytes": 280,
+  "sha256": "a917615771365a4537a46bfacf6852dc0b465cba998e0c405ed43b18ea9c7f34"
+ },
+ {
+  "file": "assets/site-icons/epic.svg",
+  "bytes": 277,
+  "sha256": "41b101e4dca64fbf67e1822dbbcb2d402a4e4702d1806c021802dbb6d84db5c6"
+ },
+ {
+  "file": "assets/site-icons/esri_test.png",
+  "bytes": 17008,
+  "sha256": "b34a04fef4b143f8810f6cce64e36fd0055dc2b3709795b3f22c5d53b6161d5b"
+ },
+ {
+  "file": "assets/site-icons/everything.png",
+  "bytes": 15488,
+  "sha256": "20f2ff0c8237652d4b48aabcd66171f7e2b4a82424d7a7a4f821ecf6c9760bee"
+ },
+ {
+  "file": "assets/site-icons/everything.svg",
+  "bytes": 350,
+  "sha256": "8f1b198ae81fcecb8d1de7ec77f933d524bd94e97539c8d6c4928a5c28b6bcad"
+ },
+ {
+  "file": "assets/site-icons/feishu.png",
+  "bytes": 5887,
+  "sha256": "850ded314cc388c0e2705538683973d80519f7a83e234f5076124168672971c4"
+ },
+ {
+  "file": "assets/site-icons/feishu.svg",
+  "bytes": 279,
+  "sha256": "fc465d8e2f204814529c3f192cecf9e4979847ecbf3779a5997c65dcded3dd7c"
+ },
+ {
+  "file": "assets/site-icons/figma.png",
+  "bytes": 3661,
+  "sha256": "b88a4d0221381b9ce5b9d5ac437d545f89b3597414afefc8a310080e9e7997c9"
+ },
+ {
+  "file": "assets/site-icons/figma.svg",
+  "bytes": 375,
+  "sha256": "3e5547e291985caf1b7df661560decf53919199ef63193d1ea31818e5c1dc3bf"
+ },
+ {
+  "file": "assets/site-icons/flow-launcher.png",
+  "bytes": 8824,
+  "sha256": "89a2a84db818a53ab792012356a5d3989ea32329fc97dc634ea9d7e46b1c39f1"
+ },
+ {
+  "file": "assets/site-icons/flow-launcher.svg",
+  "bytes": 277,
+  "sha256": "e9c53321eb91f4352a3645582731c1a316c763565043f1c307f1ca4636bf4d79"
+ },
+ {
+  "file": "assets/site-icons/flowise.png",
+  "bytes": 94108,
+  "sha256": "d0243969f31497be7e5f912401e4da39314490ab03c28312a37fb509973b6572"
+ },
+ {
+  "file": "assets/site-icons/flowise.svg",
+  "bytes": 314,
+  "sha256": "ab71c7205e7ef27a84627a5df519d3d6ccdb9bc18ad9a2b5bd041f540ba5b50d"
+ },
+ {
+  "file": "assets/site-icons/flowise_logo.png",
+  "bytes": 94108,
+  "sha256": "d0243969f31497be7e5f912401e4da39314490ab03c28312a37fb509973b6572"
+ },
+ {
+  "file": "assets/site-icons/foobar2000.png",
+  "bytes": 13606,
+  "sha256": "5bb6d0d30b8c88ee82a0a72cd8c28389be31839078317271fb9988867d972001"
+ },
+ {
+  "file": "assets/site-icons/foobar2000.svg",
+  "bytes": 278,
+  "sha256": "78382f1c4ad5df7a60e11b2d011411bdff1ab479a8f746223677619e4cf60297"
+ },
+ {
+  "file": "assets/site-icons/freecad.png",
+  "bytes": 8267,
+  "sha256": "ace40fe8bf60aa150b62f67418150efe354c52cf7263f224f061b8cd381cd888"
+ },
+ {
+  "file": "assets/site-icons/freecad.svg",
+  "bytes": 279,
+  "sha256": "0c99344b494f6c6177e6a947edcfe859ab68f397285fe9dcfac6863f1ede0ec3"
+ },
+ {
+  "file": "assets/site-icons/game-jolt.png",
+  "bytes": 4376,
+  "sha256": "d9f7f635dd41cf4624d0d1ed9b66945a5e8b36a4ca1e91481f866cdb4b8c9a2c"
+ },
+ {
+  "file": "assets/site-icons/game-jolt.svg",
+  "bytes": 278,
+  "sha256": "88ed881a27ff5bd22b4f9d7872cf26c24ea24519c7a9b57e11e4b32daeca9464"
+ },
+ {
+  "file": "assets/site-icons/geforce-now.png",
+  "bytes": 20696,
+  "sha256": "e8321185241ce9828de1b3ebfedf0d0dcd0de264afccd356efdb2a17cbd5e2cd"
+ },
+ {
+  "file": "assets/site-icons/geforce-now.svg",
+  "bytes": 284,
+  "sha256": "5f6ab6b145d2c2a488404d753a1675a1af1294f036e9c47d2bde01aecadaf921"
+ },
+ {
+  "file": "assets/site-icons/gemini.png",
+  "bytes": 15548,
+  "sha256": "7258a7ba5f24775b73f49f633000eb10308b7fff6e94fbb5c4f697abf0cf2770"
+ },
+ {
+  "file": "assets/site-icons/gemini.svg",
+  "bytes": 279,
+  "sha256": "6776e6e082e4a4c9e8406179da8e4749a1bf918fe48280a8d4661648c6c7195c"
+ },
+ {
+  "file": "assets/site-icons/genshin-impact.png",
+  "bytes": 1548,
+  "sha256": "0858f5bcfd3496a2259e131e3065a7e69936942635c8c2e1fcca7dcffd35fe81"
+ },
+ {
+  "file": "assets/site-icons/genshin-impact.svg",
+  "bytes": 276,
+  "sha256": "9887ce9f5c0035fa355752605c164960d5b2ed28c1402db5eca9d55d8f1ea0db"
+ },
+ {
+  "file": "assets/site-icons/genshin_alt.png",
+  "bytes": 422,
+  "sha256": "26ae403911911339ff80864638ee4552bfd8a50d7b0f0f8f7a52311822489e5f"
+ },
+ {
+  "file": "assets/site-icons/genshin_thumb.png",
+  "bytes": 2034,
+  "sha256": "7d1e4aeb2d4cbb1ea4bbe0d6fcdd400064ad0007c7a91716882e88af7176c3d5"
+ },
+ {
+  "file": "assets/site-icons/gi_test.png",
+  "bytes": 422,
+  "sha256": "d66f4c74872fe25135fff09db491e4c44c4986dcc9fde165a3aa2b836e087f0b"
+ },
+ {
+  "file": "assets/site-icons/gimp.png",
+  "bytes": 16792,
+  "sha256": "a4aa8ced8c941fafe12a1d283e22f252430af983d8c7bbaeab6153417fc822e5"
+ },
+ {
+  "file": "assets/site-icons/gimp.svg",
+  "bytes": 645,
+  "sha256": "06e8ce7feb99edc1206bb25b220a416d7f33a978292035a87614d14810b3c499"
+ },
+ {
+  "file": "assets/site-icons/git.png",
+  "bytes": 13423,
+  "sha256": "cb83544f081960b667dad19d83c2b6c89b7d84e22396b0b188e18e24e503c4a0"
+ },
+ {
+  "file": "assets/site-icons/git.svg",
+  "bytes": 277,
+  "sha256": "376ba9baa692b070c3efb5b1c0a19bf73ca4e4d53564e61817aaa839e59e83f7"
+ },
+ {
+  "file": "assets/site-icons/github-copilot.png",
+  "bytes": 1414,
+  "sha256": "1ac290dcd2acd985dc9ade47eedb580160a793b52113af977a5566db6ae68c62"
+ },
+ {
+  "file": "assets/site-icons/github-copilot.svg",
+  "bytes": 334,
+  "sha256": "812acdd771b642aef8d6beab7778e845109db451cb41f7cce87491fadd1a4306"
+ },
+ {
+  "file": "assets/site-icons/github-desktop.png",
+  "bytes": 13464,
+  "sha256": "357e134dca090361c7ffb56ecee8acddf1ecbb4a0ef07189d56c5ae8bdeadc50"
+ },
+ {
+  "file": "assets/site-icons/github-desktop.svg",
+  "bytes": 451,
+  "sha256": "1fd00c3a828a5301ae90de4348bce446619026add6cfc2fd72e613c9e03ffdb2"
+ },
+ {
+  "file": "assets/site-icons/gog-galaxy.png",
+  "bytes": 13054,
+  "sha256": "53afcc872a11896c1751b61904595d463f3b5fe19458df561fc4d7eccfdf8c0c"
+ },
+ {
+  "file": "assets/site-icons/gog-galaxy.svg",
+  "bytes": 279,
+  "sha256": "eca8050ac062e26241fb90b7d1fb9eda05352d9c3f4e9bd8c0366b2e8f44041c"
+ },
+ {
+  "file": "assets/site-icons/google-chrome.png",
+  "bytes": 19818,
+  "sha256": "34d01d2e5386c77c24dd5f78309f873c88bb4bb742d043cb5a43a37404729c34"
+ },
+ {
+  "file": "assets/site-icons/google-chrome.svg",
+  "bytes": 526,
+  "sha256": "b26df6e7f792d3b6ec771d831a0aba220b8f59a034c0a0573e2a31a940ba5550"
+ },
+ {
+  "file": "assets/site-icons/google_test.png",
+  "bytes": 15548,
+  "sha256": "7258a7ba5f24775b73f49f633000eb10308b7fff6e94fbb5c4f697abf0cf2770"
+ },
+ {
+  "file": "assets/site-icons/handbrake.png",
+  "bytes": 25473,
+  "sha256": "291a1a223ee6eddddd05fc4bfb0fc42c90d597ec072e4c6d603b7a6474593d2e"
+ },
+ {
+  "file": "assets/site-icons/handbrake.svg",
+  "bytes": 278,
+  "sha256": "7e78f1698d95044463d6f325db143223ad859ad2cd6c9696c9570ba0fe8d456f"
+ },
+ {
+  "file": "assets/site-icons/haystack.png",
+  "bytes": 2819,
+  "sha256": "b7ed918deca7d6e753239b36ccc66d277840ce35a77b3b463f194177a649bf7a"
+ },
+ {
+  "file": "assets/site-icons/haystack.svg",
+  "bytes": 277,
+  "sha256": "1feea5cf52a7af62351e9e9ddba6bec0d20509422c1b2fe69bcd6a913a101364"
+ },
+ {
+  "file": "assets/site-icons/heroic-games-launcher.png",
+  "bytes": 13591,
+  "sha256": "55df99c49246c596f5f943028b04409be13e3ef47e64ca7298097597251615fc"
+ },
+ {
+  "file": "assets/site-icons/heroic-games-launcher.svg",
+  "bytes": 299,
+  "sha256": "e79cc1b19be4be5f04abd99ce8a022cf31e1e37105494b5cfb1665223be5365f"
+ },
+ {
+  "file": "assets/site-icons/hoppscotch.png",
+  "bytes": 12088,
+  "sha256": "441f78f756ee74f9774c46c93b86ba428ab4d5c813a0bcd824c8b2febfed8dd8"
+ },
+ {
+  "file": "assets/site-icons/hoppscotch.svg",
+  "bytes": 277,
+  "sha256": "21b6f06d192655185316b79ea15de1f02fdfed0e48fee999a08c112d990209cd"
+ },
+ {
+  "file": "assets/site-icons/hoyoplay.png",
+  "bytes": 15872,
+  "sha256": "09cf311537ce01af1ec5950ede1ad2d04a76e55e00efa0fd21cb28bb6ffafb28"
+ },
+ {
+  "file": "assets/site-icons/hoyoplay.svg",
+  "bytes": 363,
+  "sha256": "3342791433a5036ab6bf9301761584e8050b79109661a09cccef2f6814952e3a"
+ },
+ {
+  "file": "assets/site-icons/hoyoverse_logo.png",
+  "bytes": 1548,
+  "sha256": "0858f5bcfd3496a2259e131e3065a7e69936942635c8c2e1fcca7dcffd35fe81"
+ },
+ {
+  "file": "assets/site-icons/hoyoverse_test.png",
+  "bytes": 1086,
+  "sha256": "138f2fcbc0b154e7057b7177b208a93455b492458e22c2e01cec60b1beda0c86"
+ },
+ {
+  "file": "assets/site-icons/hsr.png",
+  "bytes": 1548,
+  "sha256": "0858f5bcfd3496a2259e131e3065a7e69936942635c8c2e1fcca7dcffd35fe81"
+ },
+ {
+  "file": "assets/site-icons/hsr.svg",
+  "bytes": 279,
+  "sha256": "54f07bbd16deedc282cbe9be0dd2239bc6d3e7fa30140ddb9e53734408ce0d8c"
+ },
+ {
+  "file": "assets/site-icons/hsr_alt.png",
+  "bytes": 422,
+  "sha256": "365bd3357f4482aba883d44094964f319b54e246e5c9ee7572e4014580f3e850"
+ },
+ {
+  "file": "assets/site-icons/hsr_test.png",
+  "bytes": 422,
+  "sha256": "70b5b997a21cd31bee75900d099607aad39bdb947d250b296ac620d1acd037d3"
+ },
+ {
+  "file": "assets/site-icons/ibm_test.png",
+  "bytes": 5558,
+  "sha256": "3a2e015580f7185539eb91f5ae7952ffee9d02c5e4914d3370ff1a755b0048af"
+ },
+ {
+  "file": "assets/site-icons/infiniflow_logo.png",
+  "bytes": 47089,
+  "sha256": "bf7976126ed924c7b3cc0a07cbad162c5ea256097bd6c36bf3a534a4f645226e"
+ },
+ {
+  "file": "assets/site-icons/inkscape.png",
+  "bytes": 14894,
+  "sha256": "79f67c8db69dd60edd22209457e3787e3ef93aef045afcd2c1f2988417fcc6bc"
+ },
+ {
+  "file": "assets/site-icons/inkscape.svg",
+  "bytes": 388,
+  "sha256": "1db3aec5905a14b9917111404db9c1cdafd5db3ebd06ce7aaf249fc1eb0a4566"
+ },
+ {
+  "file": "assets/site-icons/insomnia.png",
+  "bytes": 16105,
+  "sha256": "222e075cea4498d9b0ace4099e82f69d51a3df236445c49440901274286875fa"
+ },
+ {
+  "file": "assets/site-icons/insomnia.svg",
+  "bytes": 277,
+  "sha256": "58426e2b64ba91fc54ddf6606030ac2cef07bbe9cd0b6700027b84d7cf98f131"
+ },
+ {
+  "file": "assets/site-icons/itch-io.png",
+  "bytes": 15824,
+  "sha256": "c74fbc5424db4b2e200f563fc9ec67570dc78748c0551482e97ea9e73a2474ee"
+ },
+ {
+  "file": "assets/site-icons/itch-io.svg",
+  "bytes": 280,
+  "sha256": "35a40cbfdd6deee2cb88d738cc2b61e1de85370165b0e84060b572ff0549f930"
+ },
+ {
+  "file": "assets/site-icons/jellyfin.png",
+  "bytes": 18677,
+  "sha256": "4845f617254791b8ac6c32b0b32d3b5228cb1c78e2de1806b3adb122f330abba"
+ },
+ {
+  "file": "assets/site-icons/jellyfin.svg",
+  "bytes": 280,
+  "sha256": "c78a40c39f7e8fdfacdf8f03718ef355446f70a8ac1528d77e5bcf5f1d4fd773"
+ },
+ {
+  "file": "assets/site-icons/jetbrains-toolbox.png",
+  "bytes": 8739,
+  "sha256": "deee6aa43005e60ff2c600a2c19e388e0729cc49874677eafb60b8cf0772fa73"
+ },
+ {
+  "file": "assets/site-icons/jetbrains-toolbox.svg",
+  "bytes": 275,
+  "sha256": "2f01de26b610c92c5895533bba138d4c602795cb99d2e62354a52f88028850ba"
+ },
+ {
+  "file": "assets/site-icons/joplin.png",
+  "bytes": 12886,
+  "sha256": "ed5ea2e1c86af4ae50f76ab85dd398c2a5454ec89ffaa9947059420dd2427766"
+ },
+ {
+  "file": "assets/site-icons/joplin.svg",
+  "bytes": 277,
+  "sha256": "26b78655978b3691c398dfbbb2eb9afe2037406491e65be811c3417110730c1a"
+ },
+ {
+  "file": "assets/site-icons/kdenlive.png",
+  "bytes": 10513,
+  "sha256": "74def004a653c2cc0f948eea6fc5354b0d286e287bd79a8c8cd4f609bba5041c"
+ },
+ {
+  "file": "assets/site-icons/kdenlive.svg",
+  "bytes": 277,
+  "sha256": "f909a95381e57758aff8423aad136507e441f0d6552239ef3a465467563f589a"
+ },
+ {
+  "file": "assets/site-icons/kimi.png",
+  "bytes": 7299,
+  "sha256": "4b85b2e3a95bf11179c24e28b9b2d2f7ba318d0d3cb28375b080224827005121"
+ },
+ {
+  "file": "assets/site-icons/kimi.svg",
+  "bytes": 277,
+  "sha256": "0b2f934fd32f06c80967cffe12f57117a081d5823d4be84467f79b7b8d3b8b4c"
+ },
+ {
+  "file": "assets/site-icons/kimi_test.png",
+  "bytes": 15086,
+  "sha256": "df91c1ecf1d4894cf05845cdce44549ed3ccca3478b97a70972d1bc82ac4f2d1"
+ },
+ {
+  "file": "assets/site-icons/kodi.png",
+  "bytes": 13295,
+  "sha256": "fc3c8f9a2c3c0cbeab6f1ad94aebc34ee8756d1c86a277f041c0b585c392ce4e"
+ },
+ {
+  "file": "assets/site-icons/kodi.svg",
+  "bytes": 277,
+  "sha256": "d9344c0b53104d59fbf5550246fe1a711af298c4fb65caac417689fe4594776f"
+ },
+ {
+  "file": "assets/site-icons/krita.png",
+  "bytes": 10523,
+  "sha256": "9ae346ef3a1fbcc92eebde97ceb30e1c771a90742726dbac32279d81543f2950"
+ },
+ {
+  "file": "assets/site-icons/krita.svg",
+  "bytes": 277,
+  "sha256": "2bc89e7782429f9ff892456b3266bd6fa1eee8ebddb79e9b128e5a69be0f900e"
+ },
+ {
+  "file": "assets/site-icons/kurogames_logo.png",
+  "bytes": 1529,
+  "sha256": "e8155f4154baf001f61b637c7503f1618498089c0dfd3122869a8b5ba90b6ee1"
+ },
+ {
+  "file": "assets/site-icons/langchain.png",
+  "bytes": 10409,
+  "sha256": "1105b68d01b4e2d6622e53b2281f4a0bb365c5bd812c59a6415d7fc65252af79"
+ },
+ {
+  "file": "assets/site-icons/langchain.svg",
+  "bytes": 416,
+  "sha256": "a482497dab8c77125d4edde3f80d32c5e0b186da87a4982b1e874dd6d6f00829"
+ },
+ {
+  "file": "assets/site-icons/langchain_logo.png",
+  "bytes": 10409,
+  "sha256": "1105b68d01b4e2d6622e53b2281f4a0bb365c5bd812c59a6415d7fc65252af79"
+ },
+ {
+  "file": "assets/site-icons/langchain_test.png",
+  "bytes": 302194,
+  "sha256": "3b160f8a6237e7f12e52932476826f22ddc85b88d8317fb9fa5b365939efd438"
+ },
+ {
+  "file": "assets/site-icons/langgraph.png",
+  "bytes": 10409,
+  "sha256": "1105b68d01b4e2d6622e53b2281f4a0bb365c5bd812c59a6415d7fc65252af79"
+ },
+ {
+  "file": "assets/site-icons/langgraph.svg",
+  "bytes": 278,
+  "sha256": "3eb54ff34d83d61dc6867303e326a2f9b316a5dfa7ba5ec82105b1d887747c6a"
+ },
+ {
+  "file": "assets/site-icons/langgraph_logo.png",
+  "bytes": 10409,
+  "sha256": "1105b68d01b4e2d6622e53b2281f4a0bb365c5bd812c59a6415d7fc65252af79"
+ },
+ {
+  "file": "assets/site-icons/lapce.png",
+  "bytes": 15892,
+  "sha256": "2ffc688d3acd283e9938062c1b234c6625380c4121a69c486db3ca8ab55f973e"
+ },
+ {
+  "file": "assets/site-icons/lapce.svg",
+  "bytes": 277,
+  "sha256": "1dd39ac4fcc8817dce6e3557f935eb1498c168a08052d1bab6669479620eabc5"
+ },
+ {
+  "file": "assets/site-icons/libreoffice.png",
+  "bytes": 4674,
+  "sha256": "d3db4727b4fea9b7753375d1d21ecef868a51e273e85a88887327398e5d21796"
+ },
+ {
+  "file": "assets/site-icons/libreoffice.svg",
+  "bytes": 526,
+  "sha256": "cb1a14d8bcfb17a40976c6cee4fc19e9250099b9661efd6552d843dc7a98f232"
+ },
+ {
+  "file": "assets/site-icons/llama.png",
+  "bytes": 16887,
+  "sha256": "3876b393102ffb040fbac5d953f1ec01586d91932634052c8662376e60b0ca57"
+ },
+ {
+  "file": "assets/site-icons/llama.svg",
+  "bytes": 280,
+  "sha256": "ceb5aba7bb621065c1ec4c1f6c1e4d442c70651e731108ee36c12f8ecb3003f9"
+ },
+ {
+  "file": "assets/site-icons/lobe-chat.png",
+  "bytes": 163186,
+  "sha256": "a9195926d50b00784607f885311933064d5ee09697ffadcef7bdc9953a32f10f"
+ },
+ {
+  "file": "assets/site-icons/lobe-chat.svg",
+  "bytes": 278,
+  "sha256": "19269762583e19c1f544f14727f4cebbe4d78e89dc8334f453885c912c33234d"
+ },
+ {
+  "file": "assets/site-icons/lobehub_logo.png",
+  "bytes": 163186,
+  "sha256": "a9195926d50b00784607f885311933064d5ee09697ffadcef7bdc9953a32f10f"
+ },
+ {
+  "file": "assets/site-icons/localai.png",
+  "bytes": 13896,
+  "sha256": "03ebfe3633c591535f5be2e191164562928581c115f50666483dfbc3f61a8bfe"
+ },
+ {
+  "file": "assets/site-icons/localai.svg",
+  "bytes": 278,
+  "sha256": "29af3e9112a769da5ce16d5104b4511d0ee6e641695a26f45bd14cf9419d0b6d"
+ },
+ {
+  "file": "assets/site-icons/localai_logo.png",
+  "bytes": 13896,
+  "sha256": "03ebfe3633c591535f5be2e191164562928581c115f50666483dfbc3f61a8bfe"
+ },
+ {
+  "file": "assets/site-icons/localsend.png",
+  "bytes": 12877,
+  "sha256": "7d759ae0483e8149c178b2b80e868cde045e3f3ea82f5729d3f3dd9faa41c2e5"
+ },
+ {
+  "file": "assets/site-icons/localsend.svg",
+  "bytes": 341,
+  "sha256": "0fce3784ff3d9abb59acdbbba9b124d202ab0d25653f68f0ffe2d84d6b792a36"
+ },
+ {
+  "file": "assets/site-icons/logseq.png",
+  "bytes": 5340,
+  "sha256": "287fcdc98b743c452592d70a2291690d3c6300a3de9e3dab9e40600c78c678bf"
+ },
+ {
+  "file": "assets/site-icons/logseq.svg",
+  "bytes": 277,
+  "sha256": "6378b3d4386d24a4a18618f3bf333860d0d5a5912fc3b35fee9f0f01332fa9ac"
+ },
+ {
+  "file": "assets/site-icons/losslesscut.png",
+  "bytes": 5409,
+  "sha256": "9f56564d8a7ba7b9e536ed8d19106f1fd0587aa7d22574d4eb07aaa45fddb76d"
+ },
+ {
+  "file": "assets/site-icons/losslesscut.svg",
+  "bytes": 278,
+  "sha256": "8cd0bc645b77f51ee5179afec583cfee6158e10fd5a10643c1358c5c7b412ded"
+ },
+ {
+  "file": "assets/site-icons/mathworks_test.png",
+  "bytes": 130876,
+  "sha256": "ef0eca8b5b903f6460c1ceb874e578f8dad3bbdec8dd6b19c3c3af452a18d40d"
+ },
+ {
+  "file": "assets/site-icons/matlab-online.png",
+  "bytes": 130876,
+  "sha256": "ef0eca8b5b903f6460c1ceb874e578f8dad3bbdec8dd6b19c3c3af452a18d40d"
+ },
+ {
+  "file": "assets/site-icons/matlab-online.svg",
+  "bytes": 280,
+  "sha256": "0c853cb834bc6a2000c158173a2bef31ee254788f1ca8db10fde93aca8b9965a"
+ },
+ {
+  "file": "assets/site-icons/matlab.png",
+  "bytes": 130876,
+  "sha256": "ef0eca8b5b903f6460c1ceb874e578f8dad3bbdec8dd6b19c3c3af452a18d40d"
+ },
+ {
+  "file": "assets/site-icons/matlab.svg",
+  "bytes": 278,
+  "sha256": "e94052b45295cc7a4a770015047072fe46128450d65916e2b4fe8f5a82b44040"
+ },
+ {
+  "file": "assets/site-icons/meta_test.png",
+  "bytes": 16887,
+  "sha256": "3876b393102ffb040fbac5d953f1ec01586d91932634052c8662376e60b0ca57"
+ },
+ {
+  "file": "assets/site-icons/metagpt.png",
+  "bytes": 31091,
+  "sha256": "7fe9d37106d689a55e1e8632d6d2ed07143aea1e3c66bf8b67dafd4d681db246"
+ },
+ {
+  "file": "assets/site-icons/metagpt.svg",
+  "bytes": 278,
+  "sha256": "e4809a53d193365c2c58b5558595bf80bd7567b0dd3d39697ba749d87293ebdb"
+ },
+ {
+  "file": "assets/site-icons/metagpt_logo.png",
+  "bytes": 31091,
+  "sha256": "7fe9d37106d689a55e1e8632d6d2ed07143aea1e3c66bf8b67dafd4d681db246"
+ },
+ {
+  "file": "assets/site-icons/microsoft-365.png",
+  "bytes": 685,
+  "sha256": "b3235d74916ceb9250ca1693f49bbd3358967933864423c512a6beff240cb891"
+ },
+ {
+  "file": "assets/site-icons/microsoft-365.svg",
+  "bytes": 905,
+  "sha256": "d42f777fe6fb5afe57f2cbe24bcdf78e8f94ef9c70a517656043bf0e89eb2ee2"
+ },
+ {
+  "file": "assets/site-icons/microsoft-edge.png",
+  "bytes": 14140,
+  "sha256": "cf9e947b9eac60181fd448e3a1f6480e064f548fd471b1a2e2951629edb43fac"
+ },
+ {
+  "file": "assets/site-icons/microsoft-edge.svg",
+  "bytes": 279,
+  "sha256": "ea0895842773dfb95e165e00c1b8f29806ead02609700a127c69ff4b749e87f1"
+ },
+ {
+  "file": "assets/site-icons/microsoft-powertoys.png",
+  "bytes": 685,
+  "sha256": "b3235d74916ceb9250ca1693f49bbd3358967933864423c512a6beff240cb891"
+ },
+ {
+  "file": "assets/site-icons/microsoft-powertoys.svg",
+  "bytes": 279,
+  "sha256": "9e6e37f3c898f1c3d1a06a7ad6766406ef8f7c3ba7c457b030459145983c1b74"
+ },
+ {
+  "file": "assets/site-icons/microsoft-teams.png",
+  "bytes": 685,
+  "sha256": "b3235d74916ceb9250ca1693f49bbd3358967933864423c512a6beff240cb891"
+ },
+ {
+  "file": "assets/site-icons/microsoft-teams.svg",
+  "bytes": 277,
+  "sha256": "e907b9ddfdda9f65aef5ebd3808ed6b0344672e1e2e102569ce9f3152fb483f5"
+ },
+ {
+  "file": "assets/site-icons/microsoft_test.png",
+  "bytes": 1669,
+  "sha256": "45b898f579d3e610f40533bf9183524bbe82c93460b37842d7fe851b55219328"
+ },
+ {
+  "file": "assets/site-icons/midjourney.png",
+  "bytes": 162483,
+  "sha256": "f39639f136b9c49d319b72af04a4e1a94c6f3402f8484023617bb564a7b111b9"
+ },
+ {
+  "file": "assets/site-icons/midjourney.svg",
+  "bytes": 274,
+  "sha256": "a8eb953172c5eeccb2a671ed009e3b8387dab7bc0237f11cd17d44425b385332"
+ },
+ {
+  "file": "assets/site-icons/minecraft-launcher.png",
+  "bytes": 2755,
+  "sha256": "6ada3414e450aa6f61d0b2a30830a7c9ac0452655f4a3a42a8fb4facdce1a3b7"
+ },
+ {
+  "file": "assets/site-icons/minecraft-launcher.svg",
+  "bytes": 363,
+  "sha256": "48e0f5592c2d37e50e8164bfcd047cd8768ca343640dc87970d7ac67a552fd50"
+ },
+ {
+  "file": "assets/site-icons/modrinth-app.png",
+  "bytes": 14347,
+  "sha256": "004303dccadc31f6c1cebc20cb9226432726d561878c5b2ca442822a75fbe29c"
+ },
+ {
+  "file": "assets/site-icons/modrinth-app.svg",
+  "bytes": 277,
+  "sha256": "6e1a909e22d6f0c51eb988833fea65661fe89dd8cf24fc02b0095e7b3623a380"
+ },
+ {
+  "file": "assets/site-icons/moonlight.png",
+  "bytes": 16510,
+  "sha256": "caa1c384c50d70d734314d7357a3a7ed73e4a771b6eed01086ed0b98003c1eb0"
+ },
+ {
+  "file": "assets/site-icons/moonlight.svg",
+  "bytes": 250,
+  "sha256": "c5360115729154c8aac28241576319d77c878d996d47fbfa23d758f58003b843"
+ },
+ {
+  "file": "assets/site-icons/moonshot_test.png",
+  "bytes": 7299,
+  "sha256": "4b85b2e3a95bf11179c24e28b9b2d2f7ba318d0d3cb28375b080224827005121"
+ },
+ {
+  "file": "assets/site-icons/mozilla-firefox.png",
+  "bytes": 17214,
+  "sha256": "af1519fdfbe2079dd05c1478b047acdf56e0f85bed763e375c968463a1ae7eb6"
+ },
+ {
+  "file": "assets/site-icons/mozilla-firefox.svg",
+  "bytes": 328,
+  "sha256": "e2f9be6376d07901f5f71f4d8dfc6c0b0411a73bbb9078bbf4ac6579a9d2d178"
+ },
+ {
+  "file": "assets/site-icons/mpv.png",
+  "bytes": 18100,
+  "sha256": "6932296820de17deefa53f09b50910cbeb581dd098c5a01ddae97a876f163c21"
+ },
+ {
+  "file": "assets/site-icons/mpv.svg",
+  "bytes": 277,
+  "sha256": "07b5cde8a484bf7b1cf63d3ac79a5ceb37c183d54593309097b6bb56117bd800"
+ },
+ {
+  "file": "assets/site-icons/musicbee.png",
+  "bytes": 12549,
+  "sha256": "a62165199c8605d3f974982889f5f17c0c0b40370494c9b288c9ab9d9dcbb36c"
+ },
+ {
+  "file": "assets/site-icons/musicbee.svg",
+  "bytes": 377,
+  "sha256": "56b72ef3f000c611cdcec0b409f2cb9f0f4d5b360dfbf6fb7473746568e49691"
+ },
+ {
+  "file": "assets/site-icons/n8n.png",
+  "bytes": 15086,
+  "sha256": "e3e2444fb42db7b77a0adc0a82ee8c157cd7163558c9fcbe6ee9f91a92e10801"
+ },
+ {
+  "file": "assets/site-icons/n8n.svg",
+  "bytes": 279,
+  "sha256": "9842d344f209c52091fcb6cd0bcf9997221d132c6478609a893fa7b72062efb4"
+ },
+ {
+  "file": "assets/site-icons/n8n_test.png",
+  "bytes": 15086,
+  "sha256": "e3e2444fb42db7b77a0adc0a82ee8c157cd7163558c9fcbe6ee9f91a92e10801"
+ },
+ {
+  "file": "assets/site-icons/netease-cloud-music.png",
+  "bytes": 17285,
+  "sha256": "170f5e3cb31618f3776a913a5618acd939a1a39e34bf0a08aa6b40b451a0fd79"
+ },
+ {
+  "file": "assets/site-icons/netease-cloud-music.svg",
+  "bytes": 279,
+  "sha256": "9cd0698f5761d0aea947d9df8e8f517cbbd53e169f0ea669dc9d28edfa6e5d8f"
+ },
+ {
+  "file": "assets/site-icons/nexus-mods.png",
+  "bytes": 10557,
+  "sha256": "9c32fa912c90b37505b69d7d90f4acbcf970f8e8b11c10a18d5be442e60d0274"
+ },
+ {
+  "file": "assets/site-icons/nexus-mods.svg",
+  "bytes": 277,
+  "sha256": "ea10016355e4990890e27537cc7720cb694564ef963b71bccfcbde0cf4b2262c"
+ },
+ {
+  "file": "assets/site-icons/node-js.png",
+  "bytes": 10470,
+  "sha256": "f3834ecf0b20329f8cc6d2c377dad71b122e8a774457dde1053b973423bb6b6f"
+ },
+ {
+  "file": "assets/site-icons/node-js.svg",
+  "bytes": 277,
+  "sha256": "194b72afa3b591052db3cfd9e42bf308d594807d8a55db383d4a0c1612214da6"
+ },
+ {
+  "file": "assets/site-icons/notion.png",
+  "bytes": 9622,
+  "sha256": "3734595bf4f4436b0d58552e9ad5baa688c669dd38887e7779f6b99f58c350a9"
+ },
+ {
+  "file": "assets/site-icons/notion.svg",
+  "bytes": 274,
+  "sha256": "a6669e62059e66bea7f49ebe3de15247187b8c9215af243559c692850fa94ac6"
+ },
+ {
+  "file": "assets/site-icons/obs-studio.png",
+  "bytes": 20193,
+  "sha256": "8edbdc1a1d5e59e0f3be0b9ee6d4637df2246054b774d4ec610ca20fd02ac261"
+ },
+ {
+  "file": "assets/site-icons/obs-studio.svg",
+  "bytes": 460,
+  "sha256": "0df47c6111cd8c0acf381c6f6717df24d4fb54558458066a100eaf9cfe8f093b"
+ },
+ {
+  "file": "assets/site-icons/obsidian.png",
+  "bytes": 10174,
+  "sha256": "dc3b730cd254dca5d73e95c0b5babf0c83bbff532ef86a8fa42bcf28a0d6fdab"
+ },
+ {
+  "file": "assets/site-icons/obsidian.svg",
+  "bytes": 296,
+  "sha256": "3d4baecc0b3c7dbb7d7fa41e4fa786718e8e4a0e232b474ef825d6f7d701e674"
+ },
+ {
+  "file": "assets/site-icons/ollama.png",
+  "bytes": 7487,
+  "sha256": "5c5528504c307d34af504f39bc4e7007d2f6f31ee00dab699cc91584d1af8aca"
+ },
+ {
+  "file": "assets/site-icons/ollama.svg",
+  "bytes": 279,
+  "sha256": "86d507373e11397d0ed4825590c2435849ba11123b073a429096ffc42b39ab5e"
+ },
+ {
+  "file": "assets/site-icons/ollama_test.png",
+  "bytes": 7487,
+  "sha256": "5c5528504c307d34af504f39bc4e7007d2f6f31ee00dab699cc91584d1af8aca"
+ },
+ {
+  "file": "assets/site-icons/onlyoffice.png",
+  "bytes": 11232,
+  "sha256": "51140dd21345e43897e6bc152afc46e6e3fb537fd5f6532fb5095fc84f342104"
+ },
+ {
+  "file": "assets/site-icons/onlyoffice.svg",
+  "bytes": 277,
+  "sha256": "51724090fa5a7f8507e20e328e816318d24501765735c4589a1638889653fa21"
+ },
+ {
+  "file": "assets/site-icons/open-webui.png",
+  "bytes": 240524,
+  "sha256": "0424c26c31c3acb93a68522230650bf076616ff3d6a25f367db1bbf636ecd308"
+ },
+ {
+  "file": "assets/site-icons/open-webui.svg",
+  "bytes": 277,
+  "sha256": "d0a662f3ba65c1c46ad7c2d7059da7bc6326619971e1f57a76c47c41f5047614"
+ },
+ {
+  "file": "assets/site-icons/openai-agents.png",
+  "bytes": 4081,
+  "sha256": "6025a4347a8eaed17e31eaebf7834e33ec4af26cc7f59be586ac59ba5157fa1c"
+ },
+ {
+  "file": "assets/site-icons/openai-agents.svg",
+  "bytes": 278,
+  "sha256": "1fa6a489624d2b1662137f2e0a337d2acae805291d2d513d0e6200ddaa2897c0"
+ },
+ {
+  "file": "assets/site-icons/openai_test.png",
+  "bytes": 4081,
+  "sha256": "6025a4347a8eaed17e31eaebf7834e33ec4af26cc7f59be586ac59ba5157fa1c"
+ },
+ {
+  "file": "assets/site-icons/openaiagents_logo.png",
+  "bytes": 4081,
+  "sha256": "6025a4347a8eaed17e31eaebf7834e33ec4af26cc7f59be586ac59ba5157fa1c"
+ },
+ {
+  "file": "assets/site-icons/openhands.png",
+  "bytes": 22496,
+  "sha256": "1b19030d1d1556d9897afcfbbc4dbc3ca9b64c0aea4d5a6736bdce314c782dcc"
+ },
+ {
+  "file": "assets/site-icons/openhands.svg",
+  "bytes": 278,
+  "sha256": "96875901f02fd6f77cdf29d47c393a7617e2458c44c50b6b26c51e84fc4461b3"
+ },
+ {
+  "file": "assets/site-icons/openhands_logo.png",
+  "bytes": 22496,
+  "sha256": "1b19030d1d1556d9897afcfbbc4dbc3ca9b64c0aea4d5a6736bdce314c782dcc"
+ },
+ {
+  "file": "assets/site-icons/openshot.png",
+  "bytes": 19135,
+  "sha256": "21f95a154440e3056bdf07a40e7b5159130fda842a3284fc3537107343c41b81"
+ },
+ {
+  "file": "assets/site-icons/openshot.svg",
+  "bytes": 278,
+  "sha256": "7d87b54df0218132db55a9df4bcaf729a6b1b17a15115d7e024857f8a4ff345a"
+ },
+ {
+  "file": "assets/site-icons/openwebui_logo.png",
+  "bytes": 240524,
+  "sha256": "0424c26c31c3acb93a68522230650bf076616ff3d6a25f367db1bbf636ecd308"
+ },
+ {
+  "file": "assets/site-icons/origin-lab.png",
+  "bytes": 9662,
+  "sha256": "a197ab4a487a508d0b33a3c8dd58577512e1bcc1f180ea2fdd44dbd4524d0308"
+ },
+ {
+  "file": "assets/site-icons/origin-lab.svg",
+  "bytes": 277,
+  "sha256": "5f879643e8f5d52a7ac742ae564d27ee769614fc1bdc3cb2fe9c4ceb35b116c4"
+ },
+ {
+  "file": "assets/site-icons/originlab_test.png",
+  "bytes": 9662,
+  "sha256": "a197ab4a487a508d0b33a3c8dd58577512e1bcc1f180ea2fdd44dbd4524d0308"
+ },
+ {
+  "file": "assets/site-icons/paint-net.png",
+  "bytes": 16329,
+  "sha256": "dcbb847ac72f3dc92a9568331c5af83f1efc0601b74f052bd27f80f482cb079b"
+ },
+ {
+  "file": "assets/site-icons/paint-net.svg",
+  "bytes": 412,
+  "sha256": "92f0d2057048f7788142f56f66df9667185db65589093cd3eed175a18a2f50b0"
+ },
+ {
+  "file": "assets/site-icons/penpot.png",
+  "bytes": 8674,
+  "sha256": "a1a8b4fe002aa564794e1cc62aa4939eaec15b78719b7438c86d4e91a899125b"
+ },
+ {
+  "file": "assets/site-icons/penpot.svg",
+  "bytes": 277,
+  "sha256": "d3d74ced0c5e5c3867e80853d31b1f39db11e1911c8e832378d45278ab737d2c"
+ },
+ {
+  "file": "assets/site-icons/perplexity.png",
+  "bytes": 1413,
+  "sha256": "a953f71e7b155bd55582365310378f2080fd64246fdf27764fdf20f7ac22bbc6"
+ },
+ {
+  "file": "assets/site-icons/perplexity.svg",
+  "bytes": 280,
+  "sha256": "d0fecfbeeda9a733ee58b892fa69ad88504002b6e25dffdbb7359a74d3551dcd"
+ },
+ {
+  "file": "assets/site-icons/photopea.png",
+  "bytes": 10668,
+  "sha256": "f28f11fd1386213af989f6c1f0bd56520ec4e79bf2944e310e26c02fdae32bbf"
+ },
+ {
+  "file": "assets/site-icons/photopea.svg",
+  "bytes": 278,
+  "sha256": "028bbeefabb249728626f9561b12b1075b0273f2f5d894c4fe4498788cfc68b8"
+ },
+ {
+  "file": "assets/site-icons/playnite.png",
+  "bytes": 10386,
+  "sha256": "fe8d7f391b22a4dfcec3d629aa246b03fb20e1f12b33f2de7d0e52c600847fde"
+ },
+ {
+  "file": "assets/site-icons/playnite.svg",
+  "bytes": 374,
+  "sha256": "2e78cb87b6f6b8e1dc4c58dbf929806ba0c43d132f358edcd352be6c1c73c24a"
+ },
+ {
+  "file": "assets/site-icons/postman.png",
+  "bytes": 12234,
+  "sha256": "a0c96e2701b560ae0253d81175f4261f82c105ed3bcd25493b87b035f2ec4c00"
+ },
+ {
+  "file": "assets/site-icons/postman.svg",
+  "bytes": 277,
+  "sha256": "af2abd7c52be78790988cdc6514d9434f042a5299e7117486b05272888e9cdf6"
+ },
+ {
+  "file": "assets/site-icons/potplayer.png",
+  "bytes": 1519,
+  "sha256": "564c939df41d554839e042158065e7eb15c313c6110df1fcefdb638304548882"
+ },
+ {
+  "file": "assets/site-icons/potplayer.svg",
+  "bytes": 239,
+  "sha256": "a92145ba7092a561c992fc9f70873d43a2dff91355e08b34af7a55941056e589"
+ },
+ {
+  "file": "assets/site-icons/ppsspp.png",
+  "bytes": 19534,
+  "sha256": "02909b4f60a79a41743e8e236375323453e6d7de41cee037a50bb4d06806cc1b"
+ },
+ {
+  "file": "assets/site-icons/ppsspp.svg",
+  "bytes": 282,
+  "sha256": "bf8e30738d0a367b9f2e8f06de1f9458fe1e2f7838c3e2326f2e2a420509f016"
+ },
+ {
+  "file": "assets/site-icons/prism-launcher.png",
+  "bytes": 10148,
+  "sha256": "d0629f1256afb2f70aa2f023c9420d884fdac03abcf2921ba3d23ec4011d2180"
+ },
+ {
+  "file": "assets/site-icons/prism-launcher.svg",
+  "bytes": 238,
+  "sha256": "b7ac447496565cc814e99d66ede63662342565704685f5411b0e7d69e171d0e0"
+ },
+ {
+  "file": "assets/site-icons/pureref.png",
+  "bytes": 15052,
+  "sha256": "996383e9db55d49207e8ad9ba78a5b3829d3be3abc3a4d9dc5db8b49bce22a44"
+ },
+ {
+  "file": "assets/site-icons/pureref.svg",
+  "bytes": 275,
+  "sha256": "b34c84c2b6686a90d5bb4428162151124d69a58236a0d5c7a65c3d40021c1203"
+ },
+ {
+  "file": "assets/site-icons/python.png",
+  "bytes": 13876,
+  "sha256": "b50973cef0a1c49c39957db02e4aba1d7fd40b3d5b702de7f6e0af2dfe3d0808"
+ },
+ {
+  "file": "assets/site-icons/python.svg",
+  "bytes": 521,
+  "sha256": "e32d1737963d3585d567bb36486c1af72edaa3361bba7c5f2036dfebc97b31e1"
+ },
+ {
+  "file": "assets/site-icons/qq.png",
+  "bytes": 14162,
+  "sha256": "05f16f71ff98cdd9d1cc140831d86887235012c5225970f56f94c57d6aff2a87"
+ },
+ {
+  "file": "assets/site-icons/qq.svg",
+  "bytes": 277,
+  "sha256": "1ef4e504f8ec26fcfc4c1e397489e955f36e1571a331723f098645cae918544c"
+ },
+ {
+  "file": "assets/site-icons/quicklook.png",
+  "bytes": 14042,
+  "sha256": "a6110e5897998349a2f5a0f8540d7df6a66f78a5cd9bc567457a43efff4c4307"
+ },
+ {
+  "file": "assets/site-icons/quicklook.svg",
+  "bytes": 312,
+  "sha256": "4e03e86a44d3c2ef180f8482e9dca0af9506ff9b5fa054ba12f084dad9551220"
+ },
+ {
+  "file": "assets/site-icons/ragflow.png",
+  "bytes": 47089,
+  "sha256": "bf7976126ed924c7b3cc0a07cbad162c5ea256097bd6c36bf3a534a4f645226e"
+ },
+ {
+  "file": "assets/site-icons/ragflow.svg",
+  "bytes": 278,
+  "sha256": "40f48f8f745e40ef3b36c3d8bd4c89548b44ac8e437e8314b1bf20687b928fe1"
+ },
+ {
+  "file": "assets/site-icons/retroarch.png",
+  "bytes": 3050,
+  "sha256": "a877af93b1b7a1515a132bebe846d364fe47977d700c990786f08a369c61888a"
+ },
+ {
+  "file": "assets/site-icons/retroarch.svg",
+  "bytes": 278,
+  "sha256": "f078097b99bb073a2fd5a5e75b789d4ffa74cc88ac79dec02a82ab1aeba0b837"
+ },
+ {
+  "file": "assets/site-icons/revit.png",
+  "bytes": 4286,
+  "sha256": "e30b135998b07768fb3f3eb8d73161592379602574f595d9d7e2712a090dbde1"
+ },
+ {
+  "file": "assets/site-icons/revit.svg",
+  "bytes": 277,
+  "sha256": "2bc2ae832e5de626a77240e495939c441556f350971e1b886e4bfef35b5ca585"
+ },
+ {
+  "file": "assets/site-icons/riot-client.png",
+  "bytes": 5785,
+  "sha256": "10fa11bb3d55bc4db5ef2c0172013733692b98944d28a1f141c79086d0535479"
+ },
+ {
+  "file": "assets/site-icons/riot-client.svg",
+  "bytes": 277,
+  "sha256": "9920706c5b2852c3210fac365707772df28323bb8c0f567714af0ef79248f28c"
+ },
+ {
+  "file": "assets/site-icons/rufus.png",
+  "bytes": 14326,
+  "sha256": "25b6f4ff2ba49ac870e40c0014763136e6865426f54c3185f3fba0ae7527e465"
+ },
+ {
+  "file": "assets/site-icons/rufus.svg",
+  "bytes": 497,
+  "sha256": "678485f03447024315e42c4be6189e174def2363ff636bd217b0ebbabf3cdfb4"
+ },
+ {
+  "file": "assets/site-icons/scribus.png",
+  "bytes": 289,
+  "sha256": "2742acd7c36579f2f67165dfed992d52549d55dc013abd7fd5ad63bdb7d80efd"
+ },
+ {
+  "file": "assets/site-icons/scribus.svg",
+  "bytes": 277,
+  "sha256": "7247992aa25890a3bffcef416f7ac69785e10aa34a78132d315b72ed4ded6ef2"
+ },
+ {
+  "file": "assets/site-icons/sd-webui.png",
+  "bytes": 445048,
+  "sha256": "6694cad0cff62d02873709215e8176b5c5dc51d7cef01c9cac29c329fc33880b"
+ },
+ {
+  "file": "assets/site-icons/sd-webui.svg",
+  "bytes": 278,
+  "sha256": "cce4e29f9b23e97f6a8318c791b9df74b11a7e7eaeff727959dfd4df47471f62"
+ },
+ {
+  "file": "assets/site-icons/sdwebui_logo.png",
+  "bytes": 445048,
+  "sha256": "6694cad0cff62d02873709215e8176b5c5dc51d7cef01c9cac29c329fc33880b"
+ },
+ {
+  "file": "assets/site-icons/semantic-kernel.png",
+  "bytes": 1669,
+  "sha256": "45b898f579d3e610f40533bf9183524bbe82c93460b37842d7fe851b55219328"
+ },
+ {
+  "file": "assets/site-icons/semantic-kernel.svg",
+  "bytes": 278,
+  "sha256": "e657969d67d5874d046f08e4a6be8b9815fbeec485f1b511aca1065b0286542b"
+ },
+ {
+  "file": "assets/site-icons/sharex.png",
+  "bytes": 18195,
+  "sha256": "c7b4a6de824315b7db2da81fde60e8620093703339984bd75ce87c3881b3b47d"
+ },
+ {
+  "file": "assets/site-icons/sharex.svg",
+  "bytes": 277,
+  "sha256": "4f7c9d81e4e4c454e495ba5fa102dbdda6caf4e4912816eb31ab14c07b7bc5fa"
+ },
+ {
+  "file": "assets/site-icons/sillytavern.png",
+  "bytes": 23707,
+  "sha256": "4031e84b79c7baa5e085aa67262b3b2f2ed9bd7ab618a72c9c12ac812532aa42"
+ },
+ {
+  "file": "assets/site-icons/sillytavern.svg",
+  "bytes": 278,
+  "sha256": "e7f2130dd5d4c5b4267519e1e2e7b6723825dfb725b7850a754210e214cf31ac"
+ },
+ {
+  "file": "assets/site-icons/sillytavern_logo.png",
+  "bytes": 23707,
+  "sha256": "4031e84b79c7baa5e085aa67262b3b2f2ed9bd7ab618a72c9c12ac812532aa42"
+ },
+ {
+  "file": "assets/site-icons/simulink.png",
+  "bytes": 130876,
+  "sha256": "ef0eca8b5b903f6460c1ceb874e578f8dad3bbdec8dd6b19c3c3af452a18d40d"
+ },
+ {
+  "file": "assets/site-icons/simulink.svg",
+  "bytes": 333,
+  "sha256": "e403cfde655aeaaa9dc66224942561bd08aec80a54a0a991c14eca3d2b0dd504"
+ },
+ {
+  "file": "assets/site-icons/sketchup.png",
+  "bytes": 16134,
+  "sha256": "53922936242689fcae639fd91bbbe1e46f7a58a25be1600baf921dfab4f5c79f"
+ },
+ {
+  "file": "assets/site-icons/sketchup.svg",
+  "bytes": 374,
+  "sha256": "ebfb0922dd29b74862965376a143ccad1fc85998b79bb89c15d74b53c6b27b04"
+ },
+ {
+  "file": "assets/site-icons/slack.png",
+  "bytes": 14597,
+  "sha256": "483bde2c24db0f54a39a116b2c0cc2fe669c3836f4805d2dd3a66074c9786796"
+ },
+ {
+  "file": "assets/site-icons/slack.svg",
+  "bytes": 277,
+  "sha256": "d416798e8dee71a5efa6ec098e978413fb02fc299af46e2d6717990d538ac04e"
+ },
+ {
+  "file": "assets/site-icons/solidworks.png",
+  "bytes": 1409,
+  "sha256": "97adcbbb04a5fe76168b0d294c67612aa0eba0d1e5b9962f365fa8c62a9fd59e"
+ },
+ {
+  "file": "assets/site-icons/solidworks.svg",
+  "bytes": 278,
+  "sha256": "ab3ac21b90af49156a3302a4002356c8810c0c019b20f33169a149c845f39684"
+ },
+ {
+  "file": "assets/site-icons/solidworks_test.png",
+  "bytes": 318,
+  "sha256": "c758eaa2e03304d9042fdfd768e4060294d6b68968c3338635710603fa32d657"
+ },
+ {
+  "file": "assets/site-icons/spotify.png",
+  "bytes": 14366,
+  "sha256": "4eaad5c9d03af4bf45354a738f2a04f4d0eb6fa3a2b827cf31e596c47d117ba1"
+ },
+ {
+  "file": "assets/site-icons/spotify.svg",
+  "bytes": 408,
+  "sha256": "ff3b918e31b79d4c6c119730917f44980a5e324c5c51fcb58d67083079de8e4c"
+ },
+ {
+  "file": "assets/site-icons/spss.png",
+  "bytes": 5558,
+  "sha256": "3a2e015580f7185539eb91f5ae7952ffee9d02c5e4914d3370ff1a755b0048af"
+ },
+ {
+  "file": "assets/site-icons/spss.svg",
+  "bytes": 280,
+  "sha256": "1bda4176699b924fd8793c34b3c83a0485e876155e3fe9b029f23ee9002fad2a"
+ },
+ {
+  "file": "assets/site-icons/stability-diffusion.png",
+  "bytes": 11362,
+  "sha256": "19f128ea4b443eec616eece8bdd23405e532a2348946382c4fc30faf910e6580"
+ },
+ {
+  "file": "assets/site-icons/stability_test.png",
+  "bytes": 11362,
+  "sha256": "19f128ea4b443eec616eece8bdd23405e532a2348946382c4fc30faf910e6580"
+ },
+ {
+  "file": "assets/site-icons/stable-diffusion.png",
+  "bytes": 1413,
+  "sha256": "5bfff4ecf207ca04c1b6b5b30b0f586482f47f112c89c9ac7eb58badfa3e6132"
+ },
+ {
+  "file": "assets/site-icons/stable-diffusion.svg",
+  "bytes": 278,
+  "sha256": "9ef47a5391dc675c56b23e1f83b129d0eb27e176adb4ebc650417b3a3c592124"
+ },
+ {
+  "file": "assets/site-icons/standard-notes.png",
+  "bytes": 4025,
+  "sha256": "db7b95a6e4e7face5d89155d776ebdf4b8882daf9626dea96f255f5843b81097"
+ },
+ {
+  "file": "assets/site-icons/standard-notes.svg",
+  "bytes": 278,
+  "sha256": "fec6f15968db466fcd54988ceb552f658cd6b3848d9fedb78d8564c5c5250dd9"
+ },
+ {
+  "file": "assets/site-icons/steam-icon.svg",
+  "bytes": 277,
+  "sha256": "c0142ac365cf58bab89b29c9daebc6219f2f049bd62c660a0b6ea5a5901304f1"
+ },
+ {
+  "file": "assets/site-icons/steam.png",
+  "bytes": 12028,
+  "sha256": "507214b512cdbaf43432000f42c5b377ce1d4591590e6232765c6581fb980d5b"
+ },
+ {
+  "file": "assets/site-icons/steam.svg",
+  "bytes": 487,
+  "sha256": "3d39591e60f9e0cdcd7d077fd869046b78791c1b3ef53c41d3aeaaab55f442d1"
+ },
+ {
+  "file": "assets/site-icons/stirling-pdf.png",
+  "bytes": 19623,
+  "sha256": "575668dec80ca2b48cd4bce9e16af4c0057ea525158e738360ad1a59bff8abd7"
+ },
+ {
+  "file": "assets/site-icons/stirling-pdf.svg",
+  "bytes": 279,
+  "sha256": "babe36bef13d44bc8c6e102a9babeb98e1ff75c9d0514282c010cd0ce4ae3bbc"
+ },
+ {
+  "file": "assets/site-icons/stirling_logo.png",
+  "bytes": 19623,
+  "sha256": "575668dec80ca2b48cd4bce9e16af4c0057ea525158e738360ad1a59bff8abd7"
+ },
+ {
+  "file": "assets/site-icons/strawberry-music-player.png",
+  "bytes": 17916,
+  "sha256": "8b2af9ab66722ea6ec41960dd62274f33a45c98a212fd9c360b44825499e434a"
+ },
+ {
+  "file": "assets/site-icons/strawberry-music-player.svg",
+  "bytes": 306,
+  "sha256": "5ae80b4ed6c94e89a099725650a017cf5d5c2ab596a551109d826f3d033fdcc0"
+ },
+ {
+  "file": "assets/site-icons/sublime-text.png",
+  "bytes": 6322,
+  "sha256": "52698ec3c094d73c17a56d074f10a6f004802e79e617813db691dcf8a26da347"
+ },
+ {
+  "file": "assets/site-icons/sublime-text.svg",
+  "bytes": 277,
+  "sha256": "1a45c0c15ac45cf73ae3cb7fecafb06ebcef61e4f7a260ec58e770a9e8bc0e29"
+ },
+ {
+  "file": "assets/site-icons/swe-agent.png",
+  "bytes": 29055,
+  "sha256": "b4f16119a570c2b2b1e4a6fc2ab42556ae13a5f3fecbabf2866020facfbabc4c"
+ },
+ {
+  "file": "assets/site-icons/swe-agent.svg",
+  "bytes": 279,
+  "sha256": "3d186ceaead1fab328398f4994ac9c0d2fad329ef309a92e4da65674de261715"
+ },
+ {
+  "file": "assets/site-icons/sweagent_logo.png",
+  "bytes": 29055,
+  "sha256": "b4f16119a570c2b2b1e4a6fc2ab42556ae13a5f3fecbabf2866020facfbabc4c"
+ },
+ {
+  "file": "assets/site-icons/tencent-meeting.png",
+  "bytes": 7231,
+  "sha256": "8e7bf3c42bad1ab874e4cbb4e2f00653b7f8251e6cf9bfa99abf9dffc7dab254"
+ },
+ {
+  "file": "assets/site-icons/tencent-meeting.svg",
+  "bytes": 278,
+  "sha256": "25032c22c1289c2ab10e3b1b45a9de422b17711a1ed352d4a1bda607526b4cb7"
+ },
+ {
+  "file": "assets/site-icons/text-gen-webui.png",
+  "bytes": 201174,
+  "sha256": "4f21758cf95917ab34f31d4fafad232935e752d0cd1f218d22a0c18baa2b2948"
+ },
+ {
+  "file": "assets/site-icons/text-gen-webui.svg",
+  "bytes": 279,
+  "sha256": "ea727cadd0e81fe06946115c4b730457f7dd386cd857da49e10355c766b4ec8d"
+ },
+ {
+  "file": "assets/site-icons/textgen_logo.png",
+  "bytes": 201174,
+  "sha256": "4f21758cf95917ab34f31d4fafad232935e752d0cd1f218d22a0c18baa2b2948"
+ },
+ {
+  "file": "assets/site-icons/tongyi.png",
+  "bytes": 12909,
+  "sha256": "13fce6a4cdd19983e6cb80858836c9b9ef533738a21f192ac2c92b53c19baec3"
+ },
+ {
+  "file": "assets/site-icons/tongyi.svg",
+  "bytes": 279,
+  "sha256": "5122f7b8d1f1c59a655088b38838176eab4447281cbd6da1f7036c8c6459d33e"
+ },
+ {
+  "file": "assets/site-icons/ubisoft-connect.png",
+  "bytes": 6582,
+  "sha256": "2b26aca24f11530f41f312481dd07cab142981fa8c4d8db22b4628decef41877"
+ },
+ {
+  "file": "assets/site-icons/ubisoft-connect.svg",
+  "bytes": 342,
+  "sha256": "34847657a6577d26a68080e4a7219ded2705454886503360dba26ca34da4b818"
+ },
+ {
+  "file": "assets/site-icons/ventoy.png",
+  "bytes": 19362,
+  "sha256": "a4685c71b722d3a4bcf0d93d4e164913aada63c21975c4d0ce6163179cf064f7"
+ },
+ {
+  "file": "assets/site-icons/ventoy.svg",
+  "bytes": 277,
+  "sha256": "a2030ae072ec06e7e91f5f88ac235f10015580b124037f6d7ad57053ace9aa92"
+ },
+ {
+  "file": "assets/site-icons/visual-studio-code.png",
+  "bytes": 9030,
+  "sha256": "423a335fe01310bc112311809e386f8ea0e26db6c1f40c8146cff8557412e42b"
+ },
+ {
+  "file": "assets/site-icons/visual-studio-code.svg",
+  "bytes": 462,
+  "sha256": "f51db87cbba1c40f2c60eb4a5e308d5f0f2996c6a9506b5e00b31169f4050f89"
+ },
+ {
+  "file": "assets/site-icons/visual-studio.png",
+  "bytes": 2780,
+  "sha256": "6f8dc4ccea41540f04f1deff6cdb84b1fc6041af0879d3d9f4b53c2f5604e815"
+ },
+ {
+  "file": "assets/site-icons/visual-studio.svg",
+  "bytes": 278,
+  "sha256": "25f739238a0d4ffac53e05e76918189cf6a74f99994a1feb53c484479c73e22c"
+ },
+ {
+  "file": "assets/site-icons/vlc-media-player.png",
+  "bytes": 14465,
+  "sha256": "d88b49ae37c77ca3e38b747e0c10877662e8960676301604d6740c4466b53f81"
+ },
+ {
+  "file": "assets/site-icons/vlc-media-player.svg",
+  "bytes": 212,
+  "sha256": "f3bc73f75d246a02b1af2f36e772bb571958709d8a02e794aecb73fa5cf48917"
+ },
+ {
+  "file": "assets/site-icons/wegame.png",
+  "bytes": 12825,
+  "sha256": "c0dc34fe58f4e30ef0d9aa03c930f3e0749765d7c11817f6a1733a7452405e91"
+ },
+ {
+  "file": "assets/site-icons/wegame.svg",
+  "bytes": 277,
+  "sha256": "1dad0605f9637ba9008c567dd180abf6f1f4d043430a533c1c67813c02ce179b"
+ },
+ {
+  "file": "assets/site-icons/wenxin.png",
+  "bytes": 10500,
+  "sha256": "55036718375cf13167d01d74d15259388b6ba5cb0da43275d95c4519e3d8f99f"
+ },
+ {
+  "file": "assets/site-icons/wenxin.svg",
+  "bytes": 279,
+  "sha256": "c14aa1920d0d6eacec1e18c6d499ad7d1eadc4e2d06b257597c8dc3840021557"
+ },
+ {
+  "file": "assets/site-icons/whisper.png",
+  "bytes": 4081,
+  "sha256": "6025a4347a8eaed17e31eaebf7834e33ec4af26cc7f59be586ac59ba5157fa1c"
+ },
+ {
+  "file": "assets/site-icons/whisper.svg",
+  "bytes": 355,
+  "sha256": "82d1f685b3807f6004143a49f1285aea09383b45dcc51a5926d4fdd276a90154"
+ },
+ {
+  "file": "assets/site-icons/whisper_logo.png",
+  "bytes": 4081,
+  "sha256": "6025a4347a8eaed17e31eaebf7834e33ec4af26cc7f59be586ac59ba5157fa1c"
+ },
+ {
+  "file": "assets/site-icons/winrar.png",
+  "bytes": 14697,
+  "sha256": "16b1565fcf349f3ee0ecfd3363a48d538055f58c25b6e48b4e4b673367000eba"
+ },
+ {
+  "file": "assets/site-icons/winrar.svg",
+  "bytes": 544,
+  "sha256": "b70167aa5932440be1a7d000777f065f6470484c8d309249894aa236ed765f58"
+ },
+ {
+  "file": "assets/site-icons/wiztree.png",
+  "bytes": 11694,
+  "sha256": "4ebe00cee5a9f9a02c81ebd4f56bb68046646c51d753ace7f934bc6169f87536"
+ },
+ {
+  "file": "assets/site-icons/wiztree.svg",
+  "bytes": 464,
+  "sha256": "b0980f1a980abc9b5b2b30572835c4904ab9dbd4c7480252966f1bc81092de27"
+ },
+ {
+  "file": "assets/site-icons/wps-office.png",
+  "bytes": 11287,
+  "sha256": "71e677b2d415635cbfe6dceaf516d3876e17687f97c0e26b22082073b4348674"
+ },
+ {
+  "file": "assets/site-icons/wps-office.svg",
+  "bytes": 611,
+  "sha256": "703e8e2e69f1eea32e9421484cfae142f366e8c784472f5ab967c9e7b3225228"
+ },
+ {
+  "file": "assets/site-icons/wuthering-waves.png",
+  "bytes": 1529,
+  "sha256": "e8155f4154baf001f61b637c7503f1618498089c0dfd3122869a8b5ba90b6ee1"
+ },
+ {
+  "file": "assets/site-icons/wuthering-waves.svg",
+  "bytes": 350,
+  "sha256": "34abbc1cc7cb1618d35bc0786b787c7954ad689209198ca3b9cadcfa06454e59"
+ },
+ {
+  "file": "assets/site-icons/xbox.png",
+  "bytes": 7684,
+  "sha256": "a97534fca5d6dfedf4209068a8637f76c10e8bd91edc0a0625c0c981d7d0b4db"
+ },
+ {
+  "file": "assets/site-icons/xbox.svg",
+  "bytes": 531,
+  "sha256": "7fead7c22c4572b6badcf4bc4fcb635ce82b1bf236dfc6532b2d8ed8edc27ecb"
+ },
+ {
+  "file": "assets/site-icons/zed.png",
+  "bytes": 9334,
+  "sha256": "b86be87c7e261a1dcfe7706828570ace4ca3d9ef4ad6708c8f8588531711289e"
+ },
+ {
+  "file": "assets/site-icons/zed.svg",
+  "bytes": 277,
+  "sha256": "8faca42cf17ed0fa669e86a060b55710d42cce618740a87dabb625f42dfc290c"
+ },
+ {
+  "file": "assets/site-icons/zenless-zone-zero.png",
+  "bytes": 1548,
+  "sha256": "0858f5bcfd3496a2259e131e3065a7e69936942635c8c2e1fcca7dcffd35fe81"
+ },
+ {
+  "file": "assets/site-icons/zenless-zone-zero.svg",
+  "bytes": 279,
+  "sha256": "9130ed03b2b1533c22fe002d1d774c762a09eb7e7acb8334d0fed07823facc12"
+ },
+ {
+  "file": "assets/site-icons/zoom.png",
+  "bytes": 15758,
+  "sha256": "8374e026cf10e344a5f03cf85f2d56299a581c24b9ace32209af26bfa3779090"
+ },
+ {
+  "file": "assets/site-icons/zoom.svg",
+  "bytes": 317,
+  "sha256": "f070035fe355ebf699077f7d90d8a7dd3b3b38d481c9200dc9e3fcd529b5fce4"
+ },
+ {
+  "file": "assets/site-icons/zzz_alt.png",
+  "bytes": 9,
+  "sha256": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+ },
+ {
+  "file": "assets/site-icons/zzz_test.png",
+  "bytes": 9,
+  "sha256": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+ },
+ {
+  "file": "assets/site-icons/zzz_wiki.png",
+  "bytes": 93,
+  "sha256": "4254e250ca6b43ebf78110804844aa39a7e7383c61bf8c830121c446c9841bb0"
+ },
+ {
+  "file": "assets/wanna-logo.svg",
+  "bytes": 635,
+  "sha256": "f38502693524f81b94ac1ffaca70ff28f9f9510a9a683c04460e27ca4688d541"
+ },
+ {
+  "file": "hot-news.json",
+  "bytes": 63998,
+  "sha256": "a4e58f520de3cecc3f7cfce7483fc13598f20ec5d4427fc12a8c782540a3ef15"
+ },
+ {
+  "file": "index.html",
+  "bytes": 31086,
+  "sha256": "e8e9599e9902bee8ed1eeff8310ac18b130850c7fadd474b74173d83d25e7d3c"
+ },
+ {
+  "file": "news_crawler.py",
+  "bytes": 18040,
+  "sha256": "fa9cf8b26e722f761c78d836910205393c4f22c6f474267966e5eed33bddec4e"
+ },
+ {
+  "file": "news_service.py",
+  "bytes": 772,
+  "sha256": "11af878b31e5838b6c49f9401fa961eaa1df25f70c5ab5af1e8b8970e148bc32"
+ },
+ {
+  "file": "refresh_hot_news_snapshot.py",
+  "bytes": 8736,
+  "sha256": "d2b9e753a46a27356ab6f695883db98070037142023639e2ba3115d08a81b5e2"
+ },
+ {
+  "file": "render.yaml",
+  "bytes": 365,
+  "sha256": "de877a5192e69baf8793f954814a805f3fcd55ddf1516775b2651d8dbbdda810"
+ },
+ {
+  "file": "requirements.txt",
+  "bytes": 67,
+  "sha256": "3884c73549ae05d2e27c55e38845bfc70229c5eaba9921c8eb0b0193ad322342"
+ },
+ {
+  "file": "run_hot_news_silent.py",
+  "bytes": 717,
+  "sha256": "8ee50ff9e20b121f587f866f5d625b5975215ec548803843b53517ea8b4ec801"
+ },
+ {
+  "file": "scripts/README.md",
+  "bytes": 1495,
+  "sha256": "17259e165b4676285d384de5a20f3accd84d89a5722057e14302b0fad27c4685"
+ },
+ {
+  "file": "scripts/archive/expand_sites_v115.py",
+  "bytes": 20955,
+  "sha256": "aafb017ed33709a48eee8f0f2c1821a32f0634064a61436498890b9dde8b3777"
+ },
+ {
+  "file": "static/css/01-base.css",
+  "bytes": 15376,
+  "sha256": "3d2f2711529dd394ed1b544a5ba3ea192466d00c29409c2cf7372a4b3ca23e2d"
+ },
+ {
+  "file": "static/css/02-weather-scene.css",
+  "bytes": 9294,
+  "sha256": "4f375d02179af20c2cb54c105850cb7eed30e8d3b74149bc9ad2710935d50000"
+ },
+ {
+  "file": "static/css/03-shell-layout.css",
+  "bytes": 7641,
+  "sha256": "f1e892a5a76eea1427177abed9379b41101d2ccc8f886886102c8283acdfb393"
+ },
+ {
+  "file": "static/css/04-subtabs-network.css",
+  "bytes": 3561,
+  "sha256": "61d9af8b545e1d699da6f881e2fc99c1fcaf4d8233bb9b6c945fc80ab439bed4"
+ },
+ {
+  "file": "static/css/05-news.css",
+  "bytes": 9734,
+  "sha256": "35ce3f109367b3647114716a9ef2e44536decda1f5fa1dc6eb3bdd9ecd95e6a5"
+ },
+ {
+  "file": "static/css/06-sites-about.css",
+  "bytes": 7459,
+  "sha256": "8b35a206ba761d2f63e7cfbd556dc61160c29f7c0559eb886c31c3e5023403de"
+ },
+ {
+  "file": "static/js/00-core.js",
+  "bytes": 29476,
+  "sha256": "4a19212298dc397ce7f8c533db0ee7e41f9005192af50738d9cba6bdb0a28ce7"
+ },
+ {
+  "file": "static/js/10-sites-data.js",
+  "bytes": 49649,
+  "sha256": "0dd0cfd1154d16e66da000f87c05726181c7cfaea0021cdf1513d52b1f87d328"
+ },
+ {
+  "file": "static/js/11-sites-render.js",
+  "bytes": 3113,
+  "sha256": "a66891696317cdafc6b3f8baaa9582ef4dbeb458351f8c64b80130fcec3c2a5c"
+ },
+ {
+  "file": "static/js/20-shell-places.js",
+  "bytes": 5110,
+  "sha256": "9da311d6c1af7206f9a9f2b2ad30dac1483470389ebc907d30b178eb84125caf"
+ },
+ {
+  "file": "static/js/30-trend-theme-bg.js",
+  "bytes": 7949,
+  "sha256": "52d5e833f85c95280db2f51fc372fa34981f3a5e75cb65f41cb4466a3d32e088"
+ },
+ {
+  "file": "static/js/40-about-native.js",
+  "bytes": 1801,
+  "sha256": "0de051e466095300785f7bc9dbce6d387b0d380ea502cb0093f08003668c4702"
+ },
+ {
+  "file": "static/js/50-news.js",
+  "bytes": 12047,
+  "sha256": "71eec6175f30d2ad04aa842c80efa3eba9756bee2a77af131ca3b99fb320b5bc"
+ },
+ {
+  "file": "static/js/60-network-init.js",
+  "bytes": 3949,
+  "sha256": "0e0adda04b85e6a7748e24bf2e9b7d5b38bbb10758f081a79d180cfed99ef1e3"
+ },
+ {
+  "file": "study-goal-tracker.html",
+  "bytes": 72167,
+  "sha256": "189f2ef2f62ecc639b4d17d2f65ff8eb4fda7ac3e879b276c62a9dd7a8707d86"
+ },
+ {
+  "file": "tests/__init__.py",
+  "bytes": 0,
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ {
+  "file": "tests/_frontend_source.py",
+  "bytes": 1320,
+  "sha256": "231602833e00189fd5e566d6d3f5b7dbb76e3b947127b771a8f4c7f4de20fda5"
+ },
+ {
+  "file": "tests/capture_study_ui.py",
+  "bytes": 3401,
+  "sha256": "980efa052ee5a60bddc6c83b750917ff331b00c70f364dfcad6fd90c3a66f1ac"
+ },
+ {
+  "file": "tests/e2e_hot_news.py",
+  "bytes": 6738,
+  "sha256": "4832e4c6960db0b3fef2fbaa1228fe5edeadb2756905ed51a629def4b3c48f14"
+ },
+ {
+  "file": "tests/e2e_sites.py",
+  "bytes": 6015,
+  "sha256": "b596914c2cd4f46caa726ebedbce500addcda1823729a86f5223cc12b71ea2cc"
+ },
+ {
+  "file": "tests/e2e_study.py",
+  "bytes": 20312,
+  "sha256": "aec2fa14af445d04229f7a2dcce739631e543885a2a1f6af5e9a8ebf8f30dba8"
+ },
+ {
+  "file": "tests/test_deploy_render_public.py",
+  "bytes": 1049,
+  "sha256": "0a91efe175344db327846ee066f969ab038c9989bb89044c15a7975db3a97da9"
+ },
+ {
+  "file": "tests/test_hot_news_sources.py",
+  "bytes": 4364,
+  "sha256": "a8a66922898906d8476e8ba5ca4129c903ec7788f5c8bebd5f2d64f0e2e96827"
+ },
+ {
+  "file": "tests/test_news_crawler.py",
+  "bytes": 11692,
+  "sha256": "2ec2604de36db7794079a4a9bce97588bf60f250dd7880ea863ba15fa603d2d6"
+ },
+ {
+  "file": "tests/test_study_integration.py",
+  "bytes": 17385,
+  "sha256": "dfd3669db0bfb00b2d519d2e4eb75d7c51257a23040afc48c3f5227248cfb253"
+ },
+ {
+  "file": "tests/test_wanna_pkg.py",
+  "bytes": 7298,
+  "sha256": "d1c3bba2534672bcf12cea88d0e7f28e102763cede9766171e8ab18d57bcc3ce"
+ },
+ {
+  "file": "tests/test_web_compat.py",
+  "bytes": 3718,
+  "sha256": "23a7c11f78242f996bc19833148e877605da028ae9996cea534df00ad0566482"
+ },
+ {
+  "file": "wanna/__init__.py",
+  "bytes": 584,
+  "sha256": "9406f7e134ad1f8ba3b95a17469ac2214f2b115cfe8dc89ea397502e4e4e7f68"
+ },
+ {
+  "file": "wanna/config.py",
+  "bytes": 2777,
+  "sha256": "1ef18056c9eceb202e81fbd3a09723a07bdcb304bceb27b72c1965fc59f702d5"
+ },
+ {
+  "file": "wanna/errors.py",
+  "bytes": 329,
+  "sha256": "3dfb19fa4238888055ce40707967d7398cb56e781d914989dbbfba688a871b46"
+ },
+ {
+  "file": "wanna/http_util.py",
+  "bytes": 3550,
+  "sha256": "eb3ac0f2aa6a69f819ef70b4d55f1d9286edf4b68363bd67cf7b80e0d5f7821a"
+ },
+ {
+  "file": "wanna/ratelimit.py",
+  "bytes": 2637,
+  "sha256": "14c95506bb9ffcca848ca3e8d1704d0e0a79e64ac8256374e4c1452080c3e322"
+ },
+ {
+  "file": "wanna/routes.py",
+  "bytes": 4784,
+  "sha256": "08309cc3647b0eaf236c60e3c268f1461d1e888abfd2c467d52ff422ec48ae5e"
+ },
+ {
+  "file": "wanna/server.py",
+  "bytes": 1412,
+  "sha256": "642a862c42437781b6c4efa25bc9e5c4c76cd09b309d6ca5b15b320c0c945513"
+ },
+ {
+  "file": "wanna/static.py",
+  "bytes": 4681,
+  "sha256": "73a58890b151ab60c51c09d6a0c0d1c3eeaa658f533efdaf7403a5ffec8d3de1"
+ },
+ {
+  "file": "wanna/weather.py",
+  "bytes": 5445,
+  "sha256": "317e8bb847530d40148df603a88c0d4e4ea5d26dcc91434518bff32e87a892a6"
+ },
+ {
+  "file": "weather_web.py",
+  "bytes": 707,
+  "sha256": "7afdddd09a572801af0eb552f139250650f5612f35603996cde125ac963edd41"
+ },
+ {
+  "file": "启动万纳.bat",
+  "bytes": 54,
+  "sha256": "809b8598ab3e4b83bb430d4ae6ee04b7d2a892845f88df421a531df160a3e937"
+ },
+ {
+  "file": "打包说明.txt",
+  "bytes": 519,
+  "sha256": "f488f2a7aafb529fbd408091d56c77cc0c709910295a7d21f6391f11a313bfee"
+ }
+]

@@ -4,7 +4,7 @@ services:
     runtime: python
     plan: free
     region: singapore
-    buildCommand: "python -m py_compile news_crawler.py weather_web.py news_service.py"
+    buildCommand: "python -m compileall -q wanna && python -m py_compile news_crawler.py weather_web.py news_service.py refresh_hot_news_snapshot.py"
     startCommand: "python news_service.py"
     healthCheckPath: /health
     autoDeploy: true
