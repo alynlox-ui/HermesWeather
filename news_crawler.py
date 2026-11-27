@@ -176,10 +176,22 @@ def validate_public_url(url: str) -> None:
 
 
 def validate_news_url(url: str) -> None:
-    validate_public_url(url)
+    """先做域名白名单校验，再做 DNS 校验。
+
+    旧实现先解析 DNS 再比对白名单，导致本机 DNS 环境（代理 fake-IP/黑洞解析）
+    会把「不受支持的新闻来源」变成「私有或本机地址」等其它报错，
+    错误语义随环境漂移。对 IP 字面量直接判定网段，不依赖解析结果。
+    """
     hostname = (urlparse(url).hostname or "").lower()
+    try:
+        literal_ip = ipaddress.ip_address(hostname)
+    except ValueError:
+        literal_ip = None
+    if literal_ip is not None and not literal_ip.is_global:
+        raise ValueError("禁止访问私有或本机网络地址")
     if not any(hostname == domain or hostname.endswith("." + domain) for domain in ALLOWED_NEWS_DOMAINS):
         raise ValueError("不受支持的新闻来源")
+    validate_public_url(url)
 
 
 class _NoRedirectHandler(HTTPRedirectHandler):

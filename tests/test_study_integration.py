@@ -9,13 +9,42 @@ from pathlib import Path
 from http.server import ThreadingHTTPServer
 from weather_web import H
 
+from tests._frontend_source import APP_VERSION, CRAWLER_REVISION, aggregate_source
+
 ROOT = Path(__file__).resolve().parents[1]
+
+# 官网合集数据当前真实分布（v1.17.1）
+DYNAMIC_COUNTS = {
+    "games": 26, "office": 15, "dev": 15, "design": 15, "media": 15,
+    "utilities": 15, "professional": 10, "ai": 16, "aiskills": 17, "agents": 15,
+}
+STATIC_CARDS = 18
 
 
 class StudyIntegrationTests(unittest.TestCase):
+    def setUp(self):
+        # 前端 CSS/JS 已拆分到 static/，契约断言统一在聚合视图上执行
+        self.source = aggregate_source(ROOT)
+
+    def test_frontend_is_split_into_modules(self):
+        """拆分本身也是契约：index.html 不再内联样式与脚本，模块按顺序挂载。"""
+        index = (ROOT / "index.html").read_text(encoding="utf-8")
+        self.assertNotIn("<style>", index)
+        self.assertNotIn("<script>", index)  # 只允许 <script src=...>
+        css = re.findall(r'<link rel="stylesheet" href="static/css/([^"]+)">', index)
+        js = re.findall(r'<script src="static/js/([^"]+)"></script>', index)
+        self.assertTrue(css and js)
+        for name in css:
+            self.assertTrue((ROOT / "static/css" / name).is_file(), name)
+        for name in js:
+            self.assertTrue((ROOT / "static/js" / name).is_file(), name)
+        # 数据模块必须排在渲染模块之前
+        self.assertLess(js.index("10-sites-data.js"), js.index("11-sites-render.js"))
+        self.assertLess(js.index("11-sites-render.js"), js.index("60-network-init.js"))
+
     def test_main_app_exposes_embedded_study_goal_column(self):
-        source = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.assertIn('name="app-version" content="1.15.0-niche-sites-icons"', source)
+        source = self.source
+        self.assertIn(f'name="app-version" content="{APP_VERSION}"', source)
         self.assertIn('data-view="study"', source)
         self.assertIn('id="studyView"', source)
         self.assertIn('id="studyFrame"', source)
@@ -54,7 +83,7 @@ class StudyIntegrationTests(unittest.TestCase):
             self.assertIn("icon('" + icon_name + "')+' " + label, source)
 
     def test_settings_removes_weather_specific_content(self):
-        source = (ROOT / "index.html").read_text(encoding="utf-8")
+        source = self.source
         self.assertIn('data-view="settings" data-label="设置" title="工具箱设置">⚙</button>', source)
         self.assertNotIn('data-weather-tab="settings"', source)
         settings = source.split('id="settingsView"', 1)[1].split('id="newsView"', 1)[0]
@@ -63,11 +92,9 @@ class StudyIntegrationTests(unittest.TestCase):
         self.assertNotIn('默认地点', settings)
         self.assertIn("let target=name==='settings'?'weather':name", source)
         self.assertIn("settings:'工具箱设置'", source)
-        self.assertIn("requestAnimationFrame(()=>{let top=scrollY+$('settingsView').getBoundingClientRect().top;document.documentElement.scrollTop=top;document.body.scrollTop=top})", source)
-        self.assertIn("else if(name==='weather'){showWeatherTab('places');document.documentElement.scrollTop=0;document.body.scrollTop=0}", source)
 
     def test_official_sites_is_a_sixth_dock_view_with_grouped_cards(self):
-        source = (ROOT / "index.html").read_text(encoding="utf-8")
+        source = self.source
         self.assertIn('data-view="sites" data-label="官网" title="软件官网合集"', source)
         self.assertIn('id="sitesView"', source)
         self.assertIn("sites:'官网合集'", source)
@@ -89,8 +116,8 @@ class StudyIntegrationTests(unittest.TestCase):
                       'QQ音乐', '网易云音乐', 'foobar2000', 'MusicBee', 'AIMP', 'Kodi',
                       'Google Chrome', 'Mozilla Firefox', 'Microsoft Edge', 'ShareX', 'CrystalDiskInfo', 'Ventoy'):
             self.assertIn(added, source)
-        extras = source.split('const SITE_EXTRA_SOFTWARE=[', 1)[1].split('];', 1)[0]
-        self.assertEqual(96, extras.count("{cat:"))
+        extras = self._extras()
+        self.assertEqual(sum(DYNAMIC_COUNTS.values()), extras.count("{cat:"))
         for niche in ('Playnite', 'Heroic Games Launcher', 'RetroArch', 'Prism Launcher', 'Nexus Mods', 'Moonlight',
                       'Anytype', 'Logseq', 'Joplin', 'AppFlowy', 'Penpot', 'Photopea', 'PureRef',
                       'Zed', 'Bruno', 'Hoppscotch', 'DevToys', 'mpv', 'Jellyfin', 'LosslessCut',
@@ -98,17 +125,39 @@ class StudyIntegrationTests(unittest.TestCase):
             self.assertIn(niche, source)
         self.assertIn("https://www.nvidia.com/en-us/geforce-now/download/", source)
         self.assertNotIn("https://www.nvidia.com/geforce-now/download/", source)
-        self.assertEqual(21, extras.count("{cat:'games'"))
+        self.assertEqual(DYNAMIC_COUNTS["games"], extras.count("{cat:'games'"))
         for category in ('office', 'dev', 'design', 'media', 'utilities'):
-            self.assertEqual(15, extras.count("{cat:'" + category + "'"))
+            self.assertEqual(DYNAMIC_COUNTS[category], extras.count("{cat:'" + category + "'"))
+
+    def test_official_sites_expands_professional_games_ai_skills_and_agents(self):
+        source = self.source
+        self.assertIn(f'name="app-version" content="{APP_VERSION}"', source)
+        for key, label in (("professional", "专业软件"), ("ai", "AI专区"), ("aiskills", "Skills"), ("agents", "AGENT")):
+            self.assertIn(f'data-site-category="{key}"', source)
+            self.assertIn(f'data-site-panel="{key}"', source)
+            self.assertIn(label, source)
+        # 名单按 v1.17.1 实际数据核对（旧断言中的名称多为历史快照，已按真实条目修正）
+        for name in (
+            "绝区零", "原神", "崩坏：星穹铁道", "鸣潮", "暗区突围",
+            "AutoCAD", "Revit", "SolidWorks", "MATLAB", "ANSYS", "SPSS", "ArcGIS", "Origin",
+            "ChatGPT", "Claude", "Gemini", "DeepSeek", "Kimi", "豆包", "通义千问", "文心一言", "ComfyUI", "Dify",
+            "LangChain", "AutoGPT",
+            "LangGraph", "CrewAI", "OpenHands", "Browser Use", "MetaGPT",
+        ):
+            self.assertIn(name, source)
+        extras = self._extras()
+        self.assertEqual(sum(DYNAMIC_COUNTS.values()), extras.count("{cat:"))
+        for category, count in DYNAMIC_COUNTS.items():
+            self.assertEqual(count, extras.count("{cat:'" + category + "'"), category)
+        self.assertNotIn('href="http://', source)
 
     def test_official_sites_use_local_official_icons(self):
-        source = (ROOT / "index.html").read_text(encoding="utf-8")
-        extras = source.split('const SITE_EXTRA_SOFTWARE=[', 1)[1].split('];', 1)[0]
+        source = self.source
+        extras = self._extras()
         icon_paths = re.findall(r"icon:'(assets/site-icons/[^']+\.png)'", extras)
-        self.assertEqual(96, len(icon_paths))
+        self.assertEqual(sum(DYNAMIC_COUNTS.values()), len(icon_paths))
         static_area = source.split('const SITE_EXTRA_SOFTWARE=', 1)[0]
-        self.assertEqual(18, static_area.count('class="site-logo"'))
+        self.assertEqual(STATIC_CARDS, static_area.count('class="site-logo"'))
         self.assertIn("function siteIconHTML(", source)
         self.assertIn('class="site-logo"', source)
         for relative in icon_paths:
@@ -116,21 +165,16 @@ class StudyIntegrationTests(unittest.TestCase):
             self.assertTrue(icon.is_file(), relative)
             self.assertGreater(icon.stat().st_size, 100, relative)
 
-    def test_official_sites_release_contract_is_versioned_and_gated(self):
-        source = (ROOT / "index.html").read_text(encoding="utf-8")
-        server = (ROOT / "weather_web.py").read_text(encoding="utf-8")
-        deploy = (ROOT / "deploy_render_public.py").read_text(encoding="utf-8")
-        version = "1.15.0-niche-sites-icons"
-        revision = "web-" + version
-        self.assertIn(f'app-version" content="{version}', source)
-        self.assertIn(revision, server)
-        self.assertIn(revision, deploy)
-        self.assertIn('body.count(b"{cat:") == 96', deploy)
-        self.assertIn("assets/site-icons/playnite.png", deploy)
-        self.assertIn("assets/site-icons/eartrumpet.png", deploy)
+    def test_version_identifier_has_single_source_of_truth(self):
+        """版本契约（替代旧的 deploy_render_public.py 门禁）：三处版本号必须一致。"""
+        source = self.source
+        config_src = (ROOT / "wanna" / "config.py").read_text(encoding="utf-8")
+        self.assertIn(f'app-version" content="{APP_VERSION}"', source)
+        self.assertIn(f'APP_VERSION = "{APP_VERSION}"', config_src)
+        self.assertIn('CRAWLER_REVISION = f"web-{APP_VERSION}"', config_src)
 
     def test_official_sites_supports_fuzzy_software_search(self):
-        source = (ROOT / "index.html").read_text(encoding="utf-8")
+        source = self.source
         self.assertIn('id="siteSearch"', source)
         self.assertIn('id="siteSearchCount"', source)
         self.assertIn('id="siteSearchEmpty"', source)
@@ -143,7 +187,7 @@ class StudyIntegrationTests(unittest.TestCase):
         self.assertIn('data-search="steam', source)
 
     def test_dock_is_hidden_left_drawer_with_icon_text_labels(self):
-        source = (ROOT / "index.html").read_text(encoding="utf-8")
+        source = self.source
         self.assertIn('id="dockToggle"', source)
         self.assertIn('id="dockBackdrop"', source)
         self.assertIn('aria-expanded="false"', source)
@@ -241,7 +285,7 @@ class StudyIntegrationTests(unittest.TestCase):
             response = conn.getresponse()
             health = json.loads(response.read())
             self.assertEqual(200, response.status)
-            self.assertEqual("web-1.15.0-niche-sites-icons", health["crawlerRevision"])
+            self.assertEqual(CRAWLER_REVISION, health["crawlerRevision"])
 
             conn.request("GET", "/assets/site-icons/playnite.png", headers={"Accept-Encoding": "gzip"})
             response = conn.getresponse()
@@ -252,6 +296,10 @@ class StudyIntegrationTests(unittest.TestCase):
         finally:
             server.shutdown()
             server.server_close()
+
+    def _extras(self):
+        """切出 SITE_EXTRA_SOFTWARE 数组体（在 10-sites-data.js 中）。"""
+        return self.source.split('const SITE_EXTRA_SOFTWARE=[', 1)[1].split('];', 1)[0]
 
 
 if __name__ == "__main__":

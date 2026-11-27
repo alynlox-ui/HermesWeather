@@ -1,17 +1,28 @@
 from __future__ import annotations
-import base64, html, json, re, shutil, subprocess, sys, time, xml.etree.ElementTree as ET
+import base64, html, json, os, re, shutil, subprocess, sys, time, xml.etree.ElementTree as ET
 from pathlib import Path
 from news_crawler import fetch_bilibili_video
 from urllib.request import Request, urlopen
 ROOT=Path(__file__).resolve().parent
-EDGE=Path(r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe")
-GH=Path(r"C:\Program Files\GitHub CLI\gh.exe")
-REPO="alynlox-ui/HermesWeather"
+def _find_executable(env_name,fallbacks):
+ # 优先环境变量，其次常规安装位置与 PATH，避免绑死某台机器
+ override=os.environ.get(env_name)
+ if override: return Path(override)
+ for candidate in fallbacks:
+  if candidate and Path(candidate).is_file(): return Path(candidate)
+ from shutil import which
+ found=which(Path(fallbacks[-1]).name if fallbacks[-1] else "")
+ return Path(found) if found else None
+EDGE=_find_executable("WANNA_EDGE_PATH",[r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",r"C:\Program Files\Microsoft\Edge\Application\msedge.exe",r"msedge.exe"])
+GH=_find_executable("WANNA_GH_PATH",[r"C:\Program Files\GitHub CLI\gh.exe","gh.exe"])
+# 未配置仓库时只刷新本地快照，不做 GitHub 上传
+REPO=os.environ.get("WANNA_NEWS_REPO") or ("" if GH is None else "alynlox-ui/HermesWeather")
 NEWSNOW="https://newsnow.busiyi.world/api/s?id="
 DOMESTIC={"thepaper":"thepaper","bilibili":"bilibili-hot-search"}
 QBITAI_API="https://www.qbitai.com/wp-json/wp/v2/posts?per_page=30&_embed=1"
 K36_PAGE="https://m.36kr.com/newsflashes"
 def edge_dom(source,url):
+ if EDGE is None:raise RuntimeError("未找到 Edge（可设环境变量 WANNA_EDGE_PATH）")
  profile=ROOT/".hot-news-fetch-profile"/source;shutil.rmtree(profile,ignore_errors=True)
  r=subprocess.run([str(EDGE),"--headless=new","--disable-gpu","--no-first-run","--disable-extensions",f"--user-data-dir={profile}","--dump-dom",url],capture_output=True,timeout=75)
  if r.returncode:raise RuntimeError(f"Edge fetch failed ({r.returncode})")
@@ -78,10 +89,12 @@ def enrich_bilibili(rows):
    out.append(row)
  return out
 def gh(args,input_text=None,check=True):
+ if GH is None:raise RuntimeError("未找到 GitHub CLI（可设环境变量 WANNA_GH_PATH）")
  r=subprocess.run([str(GH),*args],input=input_text,capture_output=True,text=True,encoding="utf-8",errors="replace",timeout=90)
  if check and r.returncode:raise RuntimeError(r.stderr or r.stdout)
  return r
 def upload(remote,data,message):
+ if not REPO:return "skipped (WANNA_NEWS_REPO 未配置)"
  current=gh(["api",f"repos/{REPO}/contents/{remote}"],check=False);payload={"message":message,"content":base64.b64encode(data).decode(),"branch":"main"}
  if current.returncode==0:
   old=json.loads(current.stdout)
@@ -92,11 +105,11 @@ def main():
  old_path=ROOT/"hot-news.json";old_sources={}
  if old_path.exists():
   try:old_sources=json.loads(old_path.read_text(encoding="utf-8")).get("sources",{})
-  except:pass
+  except (OSError,ValueError) as exc:print(f"旧快照不可用，忽略兜底：{exc}")
  sources={};provider_times={};failures={};fetchers={**{k:(fetch_newsnow,k,v) for k,v in DOMESTIC.items()},"qbitai":(fetch_qbitai,),"36kr":(fetch_36kr,)}
- for source,config in fetchers.items():
+ for source,fetcher in fetchers.items():
   try:
-   fn=config[0];sources[source],provider_times[source]=fn(*config[1:])
+   fn=fetcher[0];sources[source],provider_times[source]=fn(*fetcher[1:])
    if source=="bilibili":sources[source]=enrich_bilibili(sources[source])
    print(f"{source}: {len(sources[source])} live rows")
   except Exception as exc:
@@ -106,7 +119,11 @@ def main():
  required=set(fetchers);missing=[x for x in required if not sources.get(x)]
  if missing:raise RuntimeError("Required sources empty: "+','.join(missing))
  payload={"updatedAt":time.strftime("%Y-%m-%dT%H:%M:%SZ",time.gmtime()),"liveSourceCount":len(required)-len(failures),"sources":sources,"providerUpdatedTime":provider_times,"failures":failures}
- data=json.dumps(payload,ensure_ascii=False,indent=2).encode("utf-8");old_path.write_bytes(data);result=upload("hot-news.json",data,"Refresh domestic and AI hot news");print(f"hot-news.json: {result}; {len(data)} bytes; sources={len(sources)}")
+ data=json.dumps(payload,ensure_ascii=False,indent=2).encode("utf-8")
+ # 原子写：先写临时文件再 rename，服务端不会读到半截 JSON
+ tmp=old_path.with_suffix(".json.tmp")
+ tmp.write_bytes(data);os.replace(tmp,old_path)
+ result=upload("hot-news.json",data,"Refresh domestic and AI hot news");print(f"hot-news.json: {result}; {len(data)} bytes; sources={len(sources)}")
 if __name__=="__main__":
  try:main()
  except Exception as exc:print("ERROR:",exc,file=sys.stderr);raise SystemExit(1)

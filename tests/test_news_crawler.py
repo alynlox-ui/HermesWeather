@@ -9,6 +9,8 @@ from urllib.error import HTTPError
 import news_crawler
 from news_crawler import ArticleExtractor, clean_text, fetch_article, fetch_bilibili_video, open_news_url, parse_36kr_article_page, validate_public_url
 
+from tests._frontend_source import aggregate_source
+
 
 class _FixtureHandler(BaseHTTPRequestHandler):
     def do_GET(self):
@@ -64,7 +66,19 @@ class NewsCrawlerTests(unittest.TestCase):
         headers = Message()
         headers["Location"] = "http://127.0.0.1/private"
         redirect = HTTPError("https://www.qbitai.com/post", 302, "Found", headers, None)
-        with patch.object(news_crawler._NO_REDIRECT_OPENER, "open", side_effect=redirect) as mocked_open:
+
+        def deterministic_getaddrinfo(host, port, **kwargs):
+            # 本机可能处于 fake-IP 代理环境，注入确定解析结果：域名给公网 IP，IP 字面量原样返回
+            import ipaddress
+            try:
+                ipaddress.ip_address(host)
+                resolved = host
+            except ValueError:
+                resolved = "93.184.216.34"
+            return [(2, 1, 6, "", (resolved, port or 443))]
+
+        with patch.object(news_crawler.socket, "getaddrinfo", side_effect=deterministic_getaddrinfo), \
+             patch.object(news_crawler._NO_REDIRECT_OPENER, "open", side_effect=redirect) as mocked_open:
             with self.assertRaisesRegex(ValueError, "私有或本机"):
                 open_news_url("https://www.qbitai.com/post", {"User-Agent": "test"}, 2)
         self.assertEqual(mocked_open.call_count, 1)
@@ -164,7 +178,8 @@ class NewsCrawlerTests(unittest.TestCase):
         self.assertTrue(result["embedUrl"].startswith("https://player.bilibili.com/player.html"))
 
     def test_news_reader_is_modal_and_has_close_control(self):
-        source = (Path(__file__).parents[1] / "index.html").read_text(encoding="utf-8")
+        # 前端拆分后，阅读器脚本在 static/js/50-news.js，统一在聚合视图中断言。
+        source = aggregate_source(Path(__file__).parents[1])
         self.assertIn('id="newsReaderModal"', source)
         self.assertIn('id="newsReaderClose"', source)
         self.assertIn("showNewsReader(b)", source)
@@ -174,7 +189,7 @@ class NewsCrawlerTests(unittest.TestCase):
         self.assertLess(source.index("showNewsReader(b)"), source.index("await fetch(NEWS_ARTICLE_API"))
 
     def test_news_snapshot_has_same_origin_and_dual_cdn_fallbacks(self):
-        source = (Path(__file__).parents[1] / "index.html").read_text(encoding="utf-8")
+        source = aggregate_source(Path(__file__).parents[1])
         self.assertIn("const NEWS_SNAPSHOT_URLS=[", source)
         self.assertIn("'./hot-news.json'", source)
         self.assertIn("gcore.jsdelivr.net/gh/alynlox-ui/HermesWeather@main/hot-news.json", source)

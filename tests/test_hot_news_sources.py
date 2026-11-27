@@ -4,6 +4,8 @@ from pathlib import Path
 
 from refresh_hot_news_snapshot import parse_36kr_initial_state, parse_qbitai_posts
 
+from tests._frontend_source import aggregate_source
+
 ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -60,7 +62,8 @@ class HotNewsSourceTests(unittest.TestCase):
         self.assertEqual(rows[1]["platform"], "36kr")
 
     def test_frontend_replaces_international_sources_with_ai_zone(self):
-        source = (ROOT / "index.html").read_text(encoding="utf-8")
+        # 拆分后：tab 结构在 index.html，AI 专区路由与阅读器在 static/js/50-news.js
+        source = aggregate_source(ROOT)
         for removed in ('data-news-source="international"', 'data-news-source="x"',
                         'data-news-source="instagram"', 'data-news-source="tiktok"'):
             self.assertNotIn(removed, source)
