@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T10:41:27Z",
+  "updatedAt": "2026-11-28T10:56:21Z",
   "liveSourceCount": 4,
   "sources": {
     "thepaper": [
@@ -22,32 +22,32 @@
         "rank": 3
       },
       {
-        "title": "解读丨一个月两次定调资本市场！国常会首提“国家队”表述，释放哪些信号？",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34574976",
-        "desc": "",
-        "rank": 4
-      },
-      {
         "title": "经济日报刊文：“399元羽绒服卖断货”是消费降级吗？",
         "url": "https://www.thepaper.cn/newsDetail_forward_34579821",
         "desc": "",
-        "rank": 5
+        "rank": 4
       },
       {
         "title": "歼-35A飞抵珠海，将首次真机进馆展出",
         "url": "https://www.thepaper.cn/newsDetail_forward_34581386",
         "desc": "",
-        "rank": 6
+        "rank": 5
       },
       {
         "title": "当美国民众在抗议数据中心建设浪潮时，他们在抗议些什么",
         "url": "https://www.thepaper.cn/newsDetail_forward_34556228",
         "desc": "",
-        "rank": 7
+        "rank": 6
       },
       {
         "title": "特朗普：老有人说中国刺探美国情报，说不定美国刺探得更狠",
         "url": "https://www.thepaper.cn/newsDetail_forward_34580813",
+        "desc": "",
+        "rank": 7
+      },
+      {
+        "title": "马上评｜中国汽车行业到底需要什么样的“快”",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34582821",
         "desc": "",
         "rank": 8
       },
@@ -58,68 +58,68 @@
         "rank": 9
       },
       {
+        "title": "果农反映橘子每斤三毛钱仍滞销，湖北丹江口：将设立不少于500万元专项资金激励销售",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34576619",
+        "desc": "",
+        "rank": 10
+      },
+      {
         "title": "【社论】利乐判赔4.92亿元，为垄断者戒",
         "url": "https://www.thepaper.cn/newsDetail_forward_34575097",
         "desc": "",
-        "rank": 10
+        "rank": 11
       },
       {
         "title": "证监会传达学习贯彻国常会精神：会同有关方面抓紧研究出台相关增量政策",
         "url": "https://www.thepaper.cn/newsDetail_forward_34576009",
         "desc": "",
-        "rank": 11
+        "rank": 12
       },
       {
         "title": "大额存单迎新规：参与门槛降低，转让渠道进一步拓宽",
         "url": "https://www.thepaper.cn/newsDetail_forward_34575346",
         "desc": "",
-        "rank": 12
+        "rank": 13
       },
       {
         "title": "湖北通城县博物馆疑存赝品、展品断代有误？官方回应：最终结论待省级专家核查确认",
         "url": "https://www.thepaper.cn/newsDetail_forward_34577506",
         "desc": "",
-        "rank": 13
+        "rank": 14
       },
       {
         "title": "塞议会选举获胜团体公布总统选举候选人：化学教授拉多米尔·萨伊契奇",
         "url": "https://www.thepaper.cn/newsDetail_forward_34576803",
         "desc": "",
-        "rank": 14
+        "rank": 15
       },
       {
         "title": "两人在网上发布上市公司误导性信息，被没收违法所得并处罚款",
         "url": "https://www.thepaper.cn/newsDetail_forward_34575257",
         "desc": "",
-        "rank": 15
+        "rank": 16
       },
       {
         "title": "美股三大指数全线收涨：存储概念爆发，中概股普遍上扬",
         "url": "https://www.thepaper.cn/newsDetail_forward_34580217",
         "desc": "",
-        "rank": 16
+        "rank": 17
       },
       {
         "title": "文人画高峰！八大山人“全球总动员”：30家海内外机构387组藏品汇集上海",
         "url": "https://www.thepaper.cn/newsDetail_forward_34576513",
         "desc": "",
-        "rank": 17
+        "rank": 18
       },
       {
         "title": "《人民币存贷款利率管理规定》发布，明年3月21日起施行",
         "url": "https://www.thepaper.cn/newsDetail_forward_34575225",
         "desc": "",
-        "rank": 18
+        "rank": 19
       },
       {
         "title": "特朗普又连发深圳APEC照片：一周过去了，他还沉浸其中",
         "url": "https://www.thepaper.cn/newsDetail_forward_34581426",
-        "desc": "",
-        "rank": 19
-      },
-      {
-        "title": "历史上的今天｜1990年11月28日，中国人正式注册顶级域名“.cn”",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34571855",
         "desc": "",
         "rank": 20
       }
@@ -1152,10 +1152,10 @@
     ]
   },
   "providerUpdatedTime": {
-    "thepaper": 1795862463618,
-    "bilibili": 1795862472137,
-    "qbitai": 1795862487539,
-    "36kr": 1795862487856
+    "thepaper": 1795863363600,
+    "bilibili": 1795861976808,
+    "qbitai": 1795863380968,
+    "36kr": 1795863381296
   },
   "failures": {}
 }
